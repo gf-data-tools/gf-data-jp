@@ -1,0 +1,54 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>55</BIN><SE1>Explode</SE1><CGDelay>0.5</CGDelay>:……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||<BGM>BGM_Sunshine</BGM>:フゥ、危ない危ない。+思いっきりホコリかぶるところだった。+この出力、ケタ違いね。軍規格のモジュールって、やっぱ凄い。
+AR(0)<Speaker>ガリル</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||<震屏>:えぇぇぇぇ？+ちょい待ち……ワケわからんねんけど……+鉄血がいきなり現れた思たら……次の瞬間には全員……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ワケわかんないことないでしょ。//nガリル、先に指揮官に報告しといて。私、ちょっと遅くなるから。+まだやる事があるの。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:唐突すぎやろ……！+ていうかそれどっから出てきたんや？//nなんで新型装備がいきなり増えてんねん！？
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:へっへー、ビックリした？+真面目に探してたら、建物の隅で見つけたんだ。+ちょうどピッタリだったし、使ってみたの。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:ず、ずっる～！
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ガリルも探しに行ってみたら？同じようなのがまだ落ちてるかもよ？+なかったら……ごめんねー！
+AR(0)<Speaker>ガリル</Speaker>||:んー……いうて……+新装備とかはさすがに……
+()<Speaker>【アドミニストレーター】</Speaker>||:使用可能なOSのマッチングを開始……
+AR(0)<Speaker>ガリル</Speaker>||:アクセス拒否や。
+()<Speaker>【アドミニストレーター】</Speaker>||:アクセスが拒否されました。+メンタル記録の同期に失敗しました。
+AR(0)<Speaker>ガリル</Speaker>||:……+Uzi、この装備は一体何や？+自分から人形のメンタルにアクセスするAIモジュールなんて、聞いたことないで。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I.O.P.が軍のために開発した、戦闘補助システムらしいよ。+なんでアクセス拒否するの？//nガリルの作戦効率を上げてくれるかもしれないのに！
+AR(0)<Speaker>ガリル</Speaker>||:……+他人にメンタル覗かれるんは好きじゃないわ。+そんなワケのわからんモンは特にな。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:一目でダイエット計画がお粗末だってバレちゃうもんね。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:もちろん、それも一つの理由やな。+……この世のすべては代価が付き物や。//nただ分かりやすくないものもあるだけで。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:なんか、ネゲヴに似てきたね。初めて会った時はそんなじゃなかった。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:ネゲヴだって、初めて会った時とは全然変わってるやん、何言うてんねん。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:確かに、そのネゲヴ風の発言は正しいけど……+でもね、ガリル……//n「やらない」という選択肢を選ぶのも、一つの代価なんだよ。+才能の無い人は、この代価と直接向き合うしかない。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:……+分かった。それで、どないするつもりや？+せめて指揮官にアンタが帰ってこーへん理由を説明せなあかんやろ。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||<BGM>BGM_Empty</BGM>:……セーフハウス。+旧セーフハウスに戻るわ。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||<BGM>BGM_Wake</BGM>:ハァ？+……+それって……まさか、前にうちらが撤退した……
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:【アドミニストレーター】が最短経路を算出してくれたの。朝までには戻れるよ。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:せやけど、あそこのエリアはもう封鎖されとる、//nうちらには敵わへん敵がウヨウヨおるんやで。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:「うちには」敵わない、でしょ。だから先に戻れって言ってんの。+私、見つけた……この装備を手にした意味を。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:そうは言っても、誰にもそんなん命令されてへんやろ？？
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:……+覚えてる？ガリル……//nあのセーフハウスを撤退したとき、私、ミスしちゃったでしょ。//nしかもネゲヴにまで怒られて。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏1>0,3</黑屏1>:……
+()<Speaker>ネゲヴ</Speaker>||<黑屏2>0,3</黑屏2><BIN>9</BIN><黑屏1>0,3</黑屏1><CGDelay>0.2</CGDelay>:<size=55>このバカ！さっさとそれを捨てなさい！</size>
+AR(0)<Speaker>ガリル</Speaker>||<黑屏2>0,3</黑屏2><BIN>55</BIN>:そうやったっけ。+とりあえず基地に戻るで。後の事は、戻ってから話そ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ネゲヴの命令は、セーフハウスにあった情報を全部抹消することだった。+でも私、ネゲヴを失望させちゃった。+私がドジでのろまで……無能だから……
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:あのセーフハウスは長く使っとったさかい、色々物も溜まっとった。+急襲されたのもアンタのせいちゃうで。//n撤退した後、ネゲヴはアンタを責めへんかった、違うか？
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:そうするのが面倒だっただけよ、あの後すぐ部隊編成があったでしょ。+どうせ予備隊に入れるのに……そんなことする必要ある？
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:そう言う考え方は、油で揚げたドーナツとおんなじくらい健康に悪いねんで。+昔のことでウジウジしたり、人の発言を悪いように捉えて、//n何の得があるっちゅーねん。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:別にウジウジしてない。私が処分しきれなかった情報がまだ残ってるのよ。+あそこで何があったとしても、私は戻らなきゃ……+ネゲヴに任されたこと、ちゃんと終わらせて……//n私が役立たずじゃないって証明してみせる。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:……+ハァ……分かったよ。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:私を信じて！+アイスは夜までお預けね。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:そういう話は、無事に戻ってからやで。+今から懐かしのセーフハウスに舞い戻らなあかんねんから。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:いやいやいや、ガリルは戻ってよ！+ヤバい敵に会ったらどうするの、一瞬でズタズタにされちゃうよ。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:アンタが守ってくれればええんちゃう？+戦闘力めっちゃ上がったんやし、別に難しくないやろ？+それに……あの凶暴な隊長の傍で積んだ経験、甘く見んといて欲しいわ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:う……
+()<Speaker>【アドミニストレーター】</Speaker>||:あなたはMicro Uziの単独作戦能力を疑っているのですか？ガリルさん。
+AR(0)<Speaker>ガリル</Speaker>||:……+ちゃうで？新生Uziがどんなモンなのか、うちも見てみたいねん。
+()<Speaker>【アドミニストレーター】</Speaker>||:Micro Uzi、彼女を拒否してください。+あなたの足手まといになるだけです。
+AR(0)<Speaker>ガリル</Speaker>||:サポート対象が一人増えたってだけで音上げるんか、//nなんや大したことあらへんやん。
+()<Speaker>【アドミニストレーター】</Speaker>||:Micro Uzi、彼女を拒否してください。+彼女の存在は、作戦に制御不可能な変数を産み出します。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ううん、ガリルの言う通りね。+いかなる状況下でも、任務を遂行できてこそのアップグレードよ。
+AR(0)<Speaker>ガリル</Speaker>||:……へへ。
+()<Speaker>【アドミニストレーター】</Speaker>||:……+かしこまりました。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||<黑屏1>:索敵開始！+誰が立ち塞がろうと、一撃でぶっ飛ばしてやる！
+()<Speaker>Micro Uzi</Speaker>||<BIN>9</BIN><黑屏1>:過去を清算できると証明できない者に……未来はないわ。

@@ -1,0 +1,78 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:補給所は大混乱に陥っていた。
+()||<黑屏2><BIN>83</BIN><BGM>m_avg_tension</BGM>:車庫から休憩スペースに至るまで、//nさながら台風が通り過ぎたかのような狼藉ぶりだった。//nいたる所に後片付けをする従業員と、天を仰ぐ旅行者の姿があった。
+pp19(0)<Speaker>PP-19</Speaker>||<SE1>RunStep</SE1>:シェリーー！AK-Alfaーー！+どこにいるの？答えて！
+pp19(0)<Speaker></Speaker>||:PP-19は大声で叫んだ。//nしかし皆は片づけに夢中で、誰も答えない。
+pp19(0);NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||:シェリー……俺のシェリー……+そんな、まさか！娘にもしもの事があったら、俺は……！//n俺は一体どうすればいいんだ！？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||:落ち着いて、ユリアン。+どこにも血の痕がない、シェリーはまだ無事よ。//n必ずあの子を連れ戻してみせるから。+<color=#A9A9A9>落ち着くのよ、PP-19。</color>+<color=#A9A9A9>AK-Alfaだってカカシじゃない。銃声はなかった、戦闘は起こっていないはず。</color>+<color=#A9A9A9>聴覚モジュールで手がかりを探してみよう……</color>
+pp19(0)<Speaker>補給所からの微かな声</Speaker>;NPC-PasserbyM(0)<同时置暗>||:泣くな！泣けばどうにかるのか？この金はお前の父親に払ってもらうからな！
+pp19(0)<Speaker>シェリーの声</Speaker>;NPC-PasserbyM(0)<同时置暗>||:うぅぅぅ……
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||:マズい、誘拐だわ！
+pp19(0);NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||:誘拐？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||:何者かがシェリーに、身代金の話をしてる。
+pp19(0);NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||:か……金ならあるぞ。+今はこれだけだが、カードもある。//nシェリーに「パパとママの記念日」と伝えてくれ、//nあの子ならそれで暗証番号が分かる。
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||:犯人はわたしが何とかするわ、そんなもの……
+pp19(0);NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||:お前さんが強いのは知ってるよ、お嬢さん。//nだが犯人はシェリーを盾にするだろう。+もしお前さんに解決できなかったら、これでシェリーを助けてくれ……//n娘に万が一のことなどあってはならないんだ。
+pp19(0)<Speaker>PP-19</Speaker>||<黑屏1>:……わかったわ。
+()||<黑屏2><BIN>18</BIN><BGM>BGM_Empty</BGM>:喧噪に紛れることで、PP-19は素早く声のする場所へとたどり着いた――//n補給所の所長室。+彼女が近づくにつれ、少女のすすり泣く声がより鮮明になる。
+()<Speaker>シェリー</Speaker>||<BGM>BGM_Room</BGM>:ごめんなさい……ごめんなさい……
+()<Speaker>あくどい男性の声</Speaker>||:泣くな！ここで大人しくしていろ、どこにも行くんじゃないぞ！+まったく、躾がなっとらんにもほどがある。//n親が来たら、徹底的に教育してやらねば！
+pp19(0)<Speaker>PP-19</Speaker>||:<color=#A9A9A9>赤外線スキャン起動……中は2人だけね。</color>+<color=#A9A9A9>気をつけないと、前回の二の舞は御免だもの。</color>
+pp19(0)<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:PP-19は手を上げて、軽く扉を叩いた。
+pp19(0)<Speaker>あくどい男性の声</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:誰だ！？
+pp19(0)<Speaker>PP-19</Speaker>||:こんにちは、お金をお持ちしました。
+pp19(0)<<Speaker>シェリー</Speaker><同时置暗>||:あ、お姉ちゃん……
+pp19(0)<<Speaker>あくどい男性の声</Speaker><同时置暗>||:おぉ！金を届けに来るとは物わかりがいいな。+この子の家族か？
+pp19(0)<Speaker>PP-19</Speaker>||:はい、彼女の臨時の保護者です。+十分な身代金を用意してきました、ご確認ください。
+()<Speaker>あくどい男性の声</Speaker>||:身代金？よもや君は、私の損失が金だけで償えるとでも？+君の子どもは一体どうなっとるんだ！//nやれ魔法を使うだの、現実に変えるだのと！//n信じれば牛どもが父親を助けるのか！？そんな戯言を信じる奴がどこに……+……と、とりあえず入りたまえ！
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:声が扉の前へと近づいた。//nドアノブが回された瞬間、PP-19は扉に勢いよく体当たりした。//n衝撃で砕けたガラスが床に飛び散った。
+NPC-Arla(0)<Speaker>体の大きな男性</Speaker>||<震屏><BGM>m_avg_hope</BGM>:ぐぁっ！
+NPC-Arla(0)<Speaker></Speaker>||:扉の前にいた男は悲痛な叫びを上げた。//nしかしPP-19は思うように相手を弾き飛ばせなかった。//n大男は自らの巨体で扉を支えながら、もう片方の手を背後に回した――
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Arla(0)||<白屏1>:させるものか！
+()<Speaker></Speaker>||<BIN>276</BIN><白屏2>:PP-19は細い体を生かし、扉の隙間から瞬く間に部屋へと入り込み、//n銃が取り出される前に相手を捕らえた。+シェリーは涙をたたえたまま、自分の何倍もある男が取り押さえられるのを//nぼんやりと眺めていた。
+NPC-Arla(0)<Speaker>体の大きな男性</Speaker>||:放さんか、この！
+NPC-Shelley(0)<Speaker>シェリー</Speaker>||:お姉ちゃん……？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Shelley(0)||:もう大丈夫よ、シェリー！すべて解決したわ、//nあなたには指一本触れさせないから！
+pp19(0);NPC-Arla(0)<Speaker>体の大きな男性</Speaker>||:私は何もしてないぞ！
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Arla(0)||:言い訳は警察が聞くわ！+ユリアンさん、入っていいわよ！
+pp19(0);NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||:シェリー、大丈夫か？パパはここだ、はやく……+あ……補給所の、所長……さん？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||<BGM>BGM_Empty</BGM>:……所長？
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:牛を連れ戻すのも骨が折れる……//nあ、お帰りなさい、ユリアンさん。数をご確認頂けますか？//nまだ連れ戻せていない個体がいるかもしれませんので。+……ユリアンさん？PP-19？何があったんです？
+pp19(0)<Speaker>PP-19</Speaker>||<黑屏1>:……
+()||<黑屏2><BIN>8</BIN><BGM>m_avg_casual</BGM>:……+その夜、グリフィン基地にて。
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:つまり……依頼人ユリアンさんの娘、シェリーさんが、//n魔法をかければ父親を救ってくれると信じて、//n荷台にいた牛たちを補給所で解き放ってしまった、ということですか？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Kalin(3)||:そうよ。
+pp19(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:補給所が破壊されたため、所長はシェリーさんを保護し、//nユリアンさんが戻るのを待っていた。//nそれをPP-19は誘拐だと思ったんですね？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Kalin(3)||:そう……
+pp19(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:負傷者ゼロとは言えませんね。//n捻られた署長さんの腕も、立派な傷ですよ、PP-19さん。
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:補給所の損失は、ユリアンさんが全額弁償済みです。//n彼はPP-19の責任ではないと言っていました。
+pp19(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:ですが、補給所からは苦情がきています。//nPP-19さん、やはり衝動的すぎましたね。
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Kalin(3)||:悪かったわよ、ついカッとなって……
+pp19(0);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:……え？うそ、PP-19さんが謝った……？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Kalin(0)||:え？
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:アップグレードの成果は良好なようです。
+pp19(0);NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:夢みたい！やっぱりメンタルアップグレードってすごい！//n今回はB評価となっちゃいますけど……+これからも頑張ってくださいね、PP-19さん！
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Kalin(1)||:もちろん。素体を交換してもいいのよね？+メンタルアップグレード、上手くいってる気がするの。
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:いいですよ！新しい素体は宿舎に置いておきました。
+()<Speaker></Speaker>||:PP-19は立ち去った。カリーナは彼女の背中を見送ると、//nAK-Alfaの方へ視線を戻した。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:そういえば、AK-Alfaさんは反対票でしたよね、なぜ気が変わったんです？
+NPC-Kalin(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:私は……彼女がアップグレードしたくないと言うのなら、//n無理強いする必要はないと思っていました。+私がこの任務を引き受けたのも、//n単純に指揮官とカリーナさんが困っているのを見過せなかったからです。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>;AKAlfa(0)||:そうだったんですね……+なら今はどうですか？見方は変わりました？
+NPC-Kalin(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:そうですね。彼女は確かに秀でています。//nどうやら地上には人間の外にも、注目すべきものがあるようです……+カリーナさん、彼女なら……私の読書友達になってくれると思いますか？
+NPC-Kalin(0)<Speaker></Speaker>;AKAlfa(0)||:クレーム書に目を通していたカリーナが笑った。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>;AKAlfa(0)||:それは……まだ難しいと思いますよ……+いえ、希望はあります！とても薄いかもしれませんが……
+AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:はい。さながら宇宙における特異点のごとき希望が現れるまで、//n私は待ちます。+とりあえず、まずは書類を片づけましょう。
+AKAlfa(0)<Speaker></Speaker><同时置暗>||<SE1>AVG_lifttable</SE1>:AK-Alfaがそう言うと、大きな音とともに、扉が開いた。
+AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:……
+pp19Mod(0)<Speaker>PP-19</Speaker>||:ひとつ忘れてた！
+pp19Mod(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:わっ！も、もう素体が変わってる……+書類がまた散らかってしまいました……//nこういうところも、直していってくださいよ。
+pp19Mod(0)<Speaker>PP-19</Speaker>;NPC-Kalin(3)||:ごめん。それより、AK-Alfa！//nあんたあの時、牛の群れからシェリーを守ってくれたのよね？
+pp19Mod(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:彼女を守る事は、私の責務ですから。
+pp19Mod(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:だからさ、あんたがいなかったら、シェリーは怪我してたかもしれないワケよ。+ありがと！お嬢様もなかなかやるじゃない！
+pp19Mod(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:責務ですから。
+pp19Mod(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:そう言わないでよ。ほら、わたしもうあんたと同じ階級よ？//n次の任務も一緒に行こうよ！+進化を遂げたわたしを見せてあげる、どう？
+pp19Mod(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:……それよりも、ビールは好きですか？
+pp19Mod(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:ビール？
+pp19Mod(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:ビールが飲めるか、もしくはSF小説が読めるか。//n趣味の合わない方とは息も合いませんから。
+pp19Mod(0)<Speaker>PP-19</Speaker>||:おっとぉ、甘く見ないでよね。//nたかがビールでしょ、飲んでやるわよ！今すぐに！
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||<震屏>:ま、待って！
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||<黑屏1>:書類を片付けてからにしてくださ～～い！

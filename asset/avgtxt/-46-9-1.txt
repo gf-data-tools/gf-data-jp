@@ -1,0 +1,30 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>385</BIN><common_effect>%%code=RedScreen%%</common_effect>:……神保町。
+()<Speaker>魔物1</Speaker>|| <BGM>BGM_Sneak</BGM>:ギ……ギギィ……
+()<Speaker>魔物2</Speaker>||:グルルルル――！！！
+()||:恐ろしい様相の魔物が街中に跋扈し、咆哮を発している。+いつもは忙しなく往来していた人たちは、//n今では一人も見当たらなくなっていた……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:うぇえっ！？　神保町どうなっちゃったんですの！？+ゆりね！　メデューサ！　ミノス！
+()||:邪神ちゃんは家へと向かった。
+Yurine(6)<Speaker>？ゆりね</Speaker>||:フフフフフフフフ……+そうよ！　みんな寄こしなさい！　私がここを治めるのよ！
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ん？　ゆ、ゆりねなのか？
+Yurine(6)<Speaker>？ゆりね</Speaker>||:その通り、私はゆりねよ。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:なにしてるんですの……
+Yurine(6)<Speaker>？ゆりね</Speaker>||:世界を統治して、ゆりね帝国を築こうと粉骨砕身してるの♪
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:な、なにィ！？
+()||<黑屏1>:「ゆりね」がニタリと笑いながら邪神ちゃんへと近づく……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<睁眼><BIN>381</BIN><关闭蒙版><BGM>BGM_Empty</BGM>:うわあああ――こっちくるなぁ！
+Yurine(6)<Speaker>ゆりね</Speaker>||<BGM>GF_Cafe</BGM>:どうしたの、邪神ちゃん？　いきなり大声で叫ぶなんて。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ゆりね……
+Yurine(6)<Speaker>ゆりね</Speaker>||:悪い夢でも見てたのかしら？//n怖がらなくていいのよ、私はここにいるから。
+()||:ゆりねは邪神ちゃんを優しく抱きしめると、//n背中をポンポンと軽くたたいた。
+Yurine(6)<Speaker>ゆりね</Speaker>||:いつまでもそばにいてあげるわ。
+Jashinchan(3)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:うん……
+()||<SE1>AVG_Door_Open_Close</SE1>:ファミレスのドアが開かれる。
+Medusa(0)<Speaker>メデューサ</Speaker>||:邪神ちゃん、様子を見に来たよ。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:メデューサ！
+Medusa(0)<Speaker>メデューサ</Speaker>||:邪神ちゃんの大好きなフレッシュムーンも持ってきたんだ！
+Yurine(6)<Speaker>ゆりね</Speaker>||:あら、メデューサ、今日は何を食べに来たの？
+Medusa(0)<Speaker>メデューサ</Speaker>||:私はなんでもいいよ！
+Medusa(4)<Speaker>メデューサ</Speaker>||:邪神ちゃんが作ってくれるものなら、なんでも！
+()||:メデューサが、期待に満ちた眼差しで邪神ちゃんを見た。
+Jashinchan(3)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<黑点1>:わかった、私に任せるですの。

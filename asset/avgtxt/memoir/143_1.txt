@@ -1,0 +1,140 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>158</BIN><BGM>GF_EV9_Story</BGM>:……RO635のターシャリレベル内。//n彼女はペルシカに渡されたアップグレードサポーターを起動した。+周囲の景色が即座に変化し始める。
+()<Speaker>アップグレードサポーター</Speaker>||:やっと会えましたね、RO。+それでは始めましょうか。
+RO635(0)<Speaker>RO635</Speaker>||:……
+()<Speaker>アップグレードサポーター</Speaker>||:あなたにいくつか質問をします。//nリラックスして、できるだけ簡潔に答えてください。
+()||:RO635は机上の古びた機器に目を向け、僅かに眉をしかめた。
+()<Speaker>アップグレードサポーター</Speaker>||:あなたはテレビを見ています。ふと、部屋の中を走るネズミに気づきました。
+RO635(3)<Speaker>RO635</Speaker>||:SOP IIが気付く前に、ネズミをこっそり逃がす。
+()<Speaker>アップグレードサポーター</Speaker>||:あなたは雑誌を見ています。//nするとグリフィン人形のグラビア特集が目に入りました。
+RO635(4)<Speaker>RO635</Speaker>||:……すぐに閉じるわ。
+()<Speaker>アップグレードサポーター</Speaker>||:指揮官はその雑誌を大層気に入り、枠に入れてオフィスに飾りました。
+RO635(3)<Speaker>RO635</Speaker>||:……そ、そういった作業効率を落としかねない行為は、私が阻止するわ。
+()<Speaker>アップグレードサポーター</Speaker>||:ハハ、では次は……
+RO635(0)<Speaker>RO635</Speaker>||:こんな100年以上も昔のテスト、やる必要なんてある？
+()<Speaker>アップグレードサポーター</Speaker>||:あなたの集中力を高めるためです。
+RO635(0)<Speaker>RO635</Speaker>||:わたしの状態は良好よ。面と向かって話せたら、もっと集中できたんだけど。
+()<Speaker>アップグレードサポーター</Speaker>||:私はあなたの前に座っていますよ、RO。
+()||:見慣れた姿が、ふわりと机上に飛び乗った。
+RO635(6)<Speaker>アップグレードサポーター</Speaker>||:だいぶ良くなりましたか？
+RO635(5)<Speaker>RO635</Speaker><Shake>||:なんでその姿なのよ！？
+RO635(5);RO635(6)<Speaker>アップグレードサポーター</Speaker>||:声がずいぶんと明るくなりましたね。//nやはり、向かい合って行うコミュニケーションは有効のようです。
+RO635(4)<Speaker>RO635</Speaker>;RO635(6)||:……
+RO635(4);RO635(6)<Speaker>アップグレードサポーター</Speaker>||:準備が整ったのなら、正式にアップグレードを始めましょうか。
+RO635(5)<Speaker>RO635</Speaker>;RO635(6)||:早ければ早いほどいいわ！
+RO635(5);RO635(6)<Speaker>アップグレードサポーター</Speaker>||:一つ目の問題です。
+RO635(6)<Speaker>アップグレードサポーター</Speaker>||:あなたは以前、ペルシカのアップグレードを拒否しています。なぜですか？
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:……+それは……怖かったから……
+()||<回忆><黑屏2><BIN>72</BIN><BGM>BGM_Empty</BGM>:……秩序乱流作戦の終結後。+アップグレードを終えたSOP IIが立ち去ると、//nペルシカはROのメンタルコアを新たな素体に組み込んだ。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||<BGM>m_avg_labyrinth</BGM>:<color=#00CCFF>……さて、次はあなたの番ね、RO。</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>ようやくわたしの番ですか？あと少しで、グリフィン基地を丸ごと建設し終えるところでしたよ。</color>
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>信じて、あなたの新しい素体には、待つだけの価値があるわ。</color>+<color=#00CCFF>これを用意するのに、かなり苦労したのよ。</color>+<color=#00CCFF>メンタルスペースを整理して終えたら、今の自分がどれだけ素晴らしいか、目を覚まして確認することができるわ。</color>
+NPC-Persica(0)<通讯框>;RO635(2)<Speaker>RO635</Speaker>||:<color=#00CCFF>はい、とても楽しみです。</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(2)||:<color=#00CCFF>そうだ、RO。</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>あなたと他の人形との違いはなんだと思う？</color>
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>え……指揮モジュールと電子作戦能力が、大幅に増強されている点ですか？</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>それは表面的な話に過ぎないわ。メンタルの話よ。</color>
+()||:ペルシカが自分の心臓を指さすのを、ROは訝しげに見つめた。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>いいわ。あなたは今から、自らの心をより直観的に理解できるようになる。</color>+<color=#00CCFF>あなたのメンタルスペースは他のグリフィン人形、ひいては他のAR小隊のメンバーとも異なり、完全にあなたに向けて開放されてるの。</color>
+NPC-Persica(2)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>完全に開放されている？</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>そうよ。全ての記憶の欠片、基礎データ、そしてボトムレイヤーまでもが……</color>
+NPC-Persica(0)<通讯框>;RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>ボトムレイヤーまで……そんなことをして大丈夫なんでしょうか。</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(3)||:<color=#00CCFF>私にも分からないわ。</color>+<color=#00CCFF>でも、すべての人形に同じチャンスがあるわけじゃない。</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>……自分の感情がどのようにプログラムされているか、知りたい人形なんていますか？</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(3)||:<color=#00CCFF>あなたはどうなの、RO？</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>自分の心がどうなっているか、知りたいとは思わない？</color>
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>……</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>怖がらないで。何にでも始まりは付き物よ。そしてあなたは、新世界の扉を開く第一人者となる。</color>+<color=#00CCFF>その新世界が私たちを締め出すか、それとも熱烈に歓迎してくれるかは、誰にも分からない。</color>+<color=#00CCFF>それじゃ、RO、良いニュースを待ってるわよ。</color>
+()||<SE1>AVG_tele_disconnect</SE1>:通信終了。
+RO635(0)<Speaker>RO635</Speaker>||<黑点1>:……+わたしの心……+模擬システムによって生成されたデータを、本当に「感情」と呼べるの……？+そもそも、なぜ人形に感情なんて備わってるんだろう？//nわたしたちは、任務を遂行するための存在に過ぎないのに……
+()||<黑点2>:……しばらくして、RO635はメンタルをほとんど整理し終えていた。+残るは一か所のみ。
+RO635(0)<Speaker>RO635</Speaker>||:……ここね。+ボトムレイヤー空間。//nここで人形のターシャリプログラムと感情ロジック設定を確認できる。+人形には出荷時の初期設定以外に、//n任務に基づいた基本設定が付加される場合もある。+例えば、SOP IIたちには、「いかなる犠牲を払ってでもM4を守る」という//n基本設定が定められてるわ。+そういった設定は私にはないってペルシカさんも言ってたし、//nこの部屋に予想外のものはなさそうね。+うん、きっとそう……
+()||:RO635は扉に手をあてた。+最高権限を手に入れたため、ボトムレイヤー空間は//nRO635に対して完全に開放された状態にある。+RO635はこの薄い扉を軽く押し開け、中のデータを確認し、//n素体との適合を済ませるだけで、アップグレードの準備は全て完了する。
+RO635(3)<Speaker>RO635</Speaker>||:……+どうして開かないの？
+()||:手に触れる扉の模様すらはっきりと感じ取れるのに、//nどうやっても押し開けることができない。+まるで分厚い空気の壁に隔たれたかのように。
+RO635(3)<Speaker>RO635</Speaker>||:わたしの権限に……何か問題が？
+()||:RO635が手を戻そうとした時、自身の腕が震えていることに気づいた。
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:どうなってるの？これじゃ、怖がってるみたいじゃない……
+()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:あなたの存在価値はそんなことじゃないはず……+だって存在価値は、あなたの意志で決められるものじゃない！
+()<Speaker>M4A1</Speaker>||:それも全部最初から決められていたことなの。人形はみんなそうなの。
+()<Speaker>UMP45</Speaker>||<黑屏1>:あなたはどうなの？自我を失い、他人の身代わりになってもいいの？
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>72</BIN><黑屏1><BGM>BGM_Empty</BGM>:……+わたしはもともと、M4のいないAR小隊を率いるために生まれた。+わたしはM4が守りたい人を見捨てたりしない。//nM4が信じる者を、私も信じる。+この目標は、本当に基本設定によるものではないの……？
+()||<黑屏2><BIN>159</BIN><边框>2</边框><关闭蒙版><BGM>BGM_Sneak</BGM>:……RO635がAR小隊へ加入後、初の模擬作戦。
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:……帰投しました、目標の文書は入手しました！
+AR15(0)<Speaker>ST AR-15</Speaker>||<边框>2</边框>:……M4は？
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:集合地点へと向かう途中、私たちのいた建物が鉄血の砲撃を受けました。+そこで、M4とは離れ離れに。
+M16(2)<Speaker>M16A1</Speaker>||<边框>2</边框>:彼女を見捨てて、自分だけ帰ってきたの？
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:わたしたちにとって、任務が最優先のはずでは？
+M16(2)<Speaker>M16A1</Speaker>||<边框>2</边框>:……
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:RO……
+()<Speaker>システム</Speaker>||<边框>2</边框>:<color=#FFFF00>任務達成。</color>+<color=#FFFF00>人形M4A1はロスト、メンタルコアの損壊を検知。</color>+<color=#FFFF00>その他AR小隊４名の生存を確認。</color>
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:何してるんですか……？任務は達成できたはずですよ？
+AR15(0)<Speaker>ST AR-15</Speaker>||<边框>2</边框>:これが任務達成だって？あんたはM4を躊躇いもなく犠牲にしたのよ。
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:人形はそもそも消耗品です。わたしたちは、任務を遂行するために//n存在してるんじゃないんですか？
+AR15(0)<Speaker>ST AR-15</Speaker>||<边框>2</边框><黑屏1><BGM>BGM_Empty</BGM>:……+哀れな失敗作ね。
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>72</BIN><回忆><BGM>m_avg_labyrinth</BGM>:……+私は初めての模擬作戦で、//n勝利のために躊躇いなくM4を犠牲にしている。+それなのに、正式に入隊した後は、//n知り合ってほんの数時間しか経っていないM4を命がけで救おうとした……+どうして？基本設定以外に、説明がつかないわ……
+()||<黑屏1>:RO635は力なく崩れ落ちた。
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:もしわたしの感情ロジックが、予め定められていたとしたら……+誰が好きで誰が嫌いか……+生きる中で何が一番重要か、初めから決められていたとしたら……+わたしだけのモノと呼べるのは一体何？+他人に決めたモノを除いたら、わたしに何が残るの？+わたしは、誰なの？
+()||<关闭蒙版><黑屏2><BIN>158</BIN><BGM>BGM_Empty</BGM>:……
+RO635(3)<Speaker>RO635</Speaker>||<BGM>GF_EV9_Story</BGM>:人形なのに、おかしいわよね。こんなことを心配するなんて……
+RO635(3);RO635(6)<Speaker>アップグレードサポーター</Speaker>||:……私はむしろ、正常だと感じますよ。+ですが、自身の本質に向き合うことを恐れるあなたが、//nなぜ私を起動したのです？
+RO635(0)<Speaker>RO635</Speaker>;RO635(6)||:……
+RO635(0);RO635(6)<Speaker>アップグレードサポーター</Speaker>||:どうやら長い話になりそうですね。焦らず、ゆっくり参りましょう。
+RO635(6)<Speaker>アップグレードサポーター</Speaker>||:まずは、アップグレードを再び拒否した時の話をお願いできますか？
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:いいわ。まぁ、今日のことなんだけど……
+()||<黑屏2><BIN>89</BIN><回忆><BGM>m_avg_casual</BGM>:……偏極光戦役終結後、グリフィン臨時基地倉庫にて。+AR小隊は指揮官がI.O.Pから緊急調達した物資を分配していた。
+RO635(0)<Speaker>RO635</Speaker>||:汎用パーツ、食料、弾薬……+よし、物資リストと一致するわね。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:こっちには代用コアとバッテリーがあるわ。+数は全然足りてないけど、リストの数字とは合うわね。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:わー！この特製パーツかっこいい！試してみたいなぁ……
+RO635(3)<Speaker>RO635</Speaker>||:SOP II！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:……分かった分かった、言ってみただけだよ～だ。
+()||:SOP IIはしぶしぶ特製パーツを下ろし、//nリストにまだ出てきていない物資を探し始めた。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:え？RO、RO！
+RO635(0)<Speaker>RO635</Speaker>||:どうしたの？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:これ見て！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:"RO635専用"って書かれてるわね。+箱の大きさからして、新しい素体じゃない？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:おお～！もしかして、アップグレード用の新素体！？+早く開けてみてよ、RO！
+RO635(0)<Speaker>RO635</Speaker>||:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:どうして開けないの？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:SOP II、ROに時間をあげて。ROにとって大事なことでしょうから。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:うん、わかった……
+RO635(0)<Speaker>RO635</Speaker>||:……
+()||:RO635は息を止めて、自分の名が書かれた箱をゆっくりと開けた。+中には真新しい素体が静かに横たわっていた。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:うわ～～！！かっこいい～～！！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:今より力強く見えるわね。
+RO635(0)<Speaker>RO635</Speaker>||:……はい、申し分ない素体です。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:なら早くアップグレードしちゃいなよ！
+RO635(0)<Speaker>RO635</Speaker>||:急がないわ。まだまだ分配する物資があるし、//n外で倒れているグリフィン人形も、回収されるのを待ってる。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:そんなのわたしと15に任せとけばいいから！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:ちょっと、勝手に巻き込まないでくれる？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:それに、ペルシカさんがわざわざ送ってくれたんでしょ。+メンタルを整理しちゃえば、すぐにアップグレードできるんだから、//nそうかからないよ。
+RO635(0)<Speaker>RO635</Speaker>||:うん、わかってる。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:ならどうして？わたしがアップグレードした時だって、//n一緒にやろうって約束したのに！+終わってみたら、ROだけ全然変わってないし……
+RO635(0)<Speaker>RO635</Speaker>||:……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:RO、ペルシカに確認してみたら？。+私とSOP IIは、先に倉庫の物資を点検しておくわ。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:え～？やだよ！ROが新しい素体になるの見たいのに……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:行くわよ、SOP II。
+()||:AR-15は気を使ってSOP IIを引きずっていき、ROを独りにさせた。
+RO635(0)<Speaker>RO635</Speaker>||:……+ペルシカさん？
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>あら、ROじゃない。どうやら、私からのプレゼントが届いたみたいね。</color>
+NPC-Persica(2)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>……なんでこんな時に、わたしのアップグレードを手配したんですか？</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>一つには、ちょうどハーヴェルが指揮官の緊急オーダーを受け取ったから。</color>+<color=#00CCFF>二つには、次の任務までに、あなたに強くなってほしいからよ。</color>+<color=#00CCFF>今のAR小隊の状況が、楽観的でないことはあなたも分かってるでしょう。M4は失踪、M16も未回収のまま。</color>+<color=#00CCFF>AR小隊の現隊長として、あなたにのしかかる責任は重いわ。</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>分かってます。わたしはアップグレードを拒んでいるわけじゃありません。ただ、このタイミングはどうかと。</color>+<color=#00CCFF>今は1分1秒たりとも無駄にできません。グリフィンを建て直し、M4とM16を探し出さなくては……</color>+<color=#00CCFF>新しい素体に適応する暇などないんです。</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>RO、嘘をつくのが下手だと、言われたことはない？</color>
+NPC-Persica(0)<通讯框>;RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>……</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(3)||:<color=#00CCFF>あなた、私がM4の安全を確保するために、あなたにターシャリプログラムを施したのだと、未だに思っているわね？</color>+<color=#00CCFF>私があなたに様々な経験をさせて、感情を培った後でも？</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>けしてあなたを疑っているわけでは。</color>+<color=#00CCFF>任務の遂行において、あなたの判断は確かに正しいです。</color>
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>そんなに気になるなら、扉を開けて入ってみたら？</color>
+NPC-Persica(2)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>……</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>……</color>+<color=#00CCFF>ハイハイ、無理にとは言わないわ。</color>+<color=#00CCFF>こうしましょう、RO。お互い譲歩するの。</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>ペルシカさん？</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>アップグレードサポーターを送るから、メンタルスペースにインストールしなさい。</color>+<color=#00CCFF>アップグレードの準備ができたら、そのサポーターを起動するのよ。</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>安心して、怪しいソフトじゃないから。アップグレードが終われば、自動的に削除されるわ。</color>
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>了解です、受け取りました。</color>
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>RO、すぐに会えることを祈ってるわ。</color>
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1><BGM>BGM_Empty</BGM>:通信終了。
+RO635(6)<Speaker>アップグレードサポーター</Speaker>||<关闭蒙版><黑屏2><BIN>158</BIN><BGM>GF_EV9_Story</BGM>:やっぱり、自分の基本設定が気になってるんじゃないですか。
+RO635(0)<Speaker>RO635</Speaker>;RO635(6)||:そうね……+もし人形の感情が空虚なプログラムによって定められているなら、//nそんなもの、人形にとって何の意味があるって言うの？+それに、人形の存在意義は、任務遂行のためであるはずよ。//n感情が任務の助けになるとは、どうしても思えない。
+RO635(0);RO635(6)<Speaker>アップグレードサポーター</Speaker>||:どうやら悩みは尽きないようですねぇ。まぁ、ゆっくりいきましょう。
+RO635(6)<Speaker>アップグレードサポーター</Speaker>||:そのあとはどうなったんですか？//nペルシカを再び拒んだ後、何が起きたのです？
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:とてつもなく……みっともないことよ……

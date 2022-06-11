@@ -1,0 +1,60 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
+()||<黑屏2><BIN>86</BIN><SE1>AVG_door_elecport</SE1>:しばらくの静寂の後、ドアが開いた。+AK-Alfaはドアの側に立ち、PP-19とシェリーを見下ろした。
+NPC-Shelley(0)<Speaker>シェリー</Speaker>||<BGM>BGM_Truth</BGM>:あっ！あのときのキレイなお姉さん！
+pp19(0)<Speaker>PP-19</Speaker>||:小さな子どもに気づかれるなんて、あんたも大したことないわね、AK-Alfa。
+AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:……備えを怠りました、私のミスです。
+pp19(0)<Speaker>PP-19</Speaker>||:そんな高い所で、いつまで見下してるつもり？降りて来なさいよ。
+pp19(0);AKAlfa(0)<Speaker></Speaker>||:AK-Alfaは言われた通りにトラックから飛び降り、//nPP-19とシェリーの前に立った。+シェリーは面白そうに彼女を眺め、//nAK-Alfaの服を触ろうとしたが、AK-Alfaに避けられてしまう。
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:近づきすぎないで下さい。私は武器を持っています、//n怪我をさせてしまうかもしれません。
+pp19(0);NPC-Shelley(0)<Speaker>シェリー</Speaker>||:でもお姉ちゃん、すっごくキレイ！
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Shelley(0)||:……こいつの顔を褒めたって何にも出ないよ。+何しに来たの？指揮官の指示？
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:はい、指揮官が念のためにと。//n同時に、あなたのアップグレード結果の評価も兼ねています。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:で、評価結果は？
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:会話の整合性は以前よりも優れているようです、//n思考の幅も広がっているようですね。+資料が揃っていないので、作戦状況については評価できかねますが。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:結構本格的なんじゃない……//nいいわ、これで怒ったら、わたしが馬鹿みたいだし。+指揮官、やっぱりわたしのこと不安なの？
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||<BGM>BGM_Empty</BGM>:「ナイトレイン」の件がありましたから。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:……
+pp19(0);NPC-Shelley(0)<Speaker>シェリー</Speaker>||:お姉ちゃん？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Shelley(0)||:何でもない。シェリー、先に補給所に行っててくれる？
+pp19(0);NPC-Shelley(0)<Speaker>シェリー</Speaker>||:やだ……こわいよ。+お姉ちゃんたち、パパとママが喧嘩してるみたいなんだもん……
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:喧嘩ではありません、内緒のお話をするだけです。
+pp19(0);NPC-Shelley(0)<Speaker>シェリー</Speaker>||:ほんと？
+pp19(0)<Speaker>PP-19</Speaker>||<黑点1><BGM>BGM_Room</BGM>:本当よ、約束する。少ししたら、すぐに行くから。
+()||<黑点2>:シェリーは不安げに立ち去った。+AK-Alfaを見据えるPP-19の表情は暗い。
+AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:彼女、任務報告に出ていた、例の負傷した少女によく似ていますね。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:似てないわ。元気だし好奇心も強いし、それに賢いし……+まぁ……まぁでも、わたしもあの子のこと、なんにも知らないんだけど。
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||<BGM>BGM_Empty</BGM>:私は作戦に参加していませんでした、知っているのは結末だけです。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||<BGM>BGM_Truth</BGM><黑屏1>:あの作戦の事が知りたいの？//nあ、答えなくていいよ、どうせ隠すことでもないし。+あれは……+とても卑劣な……テロ事件だった。
+()<Speaker> AK-Alfa</Speaker>||<黑屏2><BIN>179</BIN><火花><SE1>AVG_Rain2</SE1>:「ナイトレイン」、社会への報復を目的とした、悪質なテロ事件……//n死者1名、負傷者85名。+私が得た情報はこれだけです。
+()<Speaker>PP-19</Speaker>||:あの作戦の時、あんたは他に任務があったんだっけね？//nとにかく……わたしは参加したわ。+今考えると確かにマカロフの言う通り//nもっと穏便な手段をとるべきだったわね。スタングレネードとか。
+()<Speaker> AK-Alfa</Speaker>||:でもあなたは人質がいる場所に向けて、手榴弾を投げた。
+()<Speaker>PP-19</Speaker>||:そう。犯人たちは補給所の中に逃げ込んで、//n死体を窓から押し出して威嚇してきた。+その時、ここで手を緩めたら、他の人質も殺されると思ったの。//nそれで、待てずに壁を爆破した……+わたし、自分の武器の威力が全くわかってなかった。//n人質は一応助かったけど、でも……//nま、指揮官がアンタをよこしてくるのも無理ないわ。
+()<Speaker> AK-Alfa</Speaker>||:変わりましたね。
+()<Speaker>PP-19</Speaker>||:何が？
+()<Speaker> AK-Alfa</Speaker>||:以前のあなただったら、こう言っていたでしょう。//n「しょうがなかった」「大した問題じゃない」……
+()<Speaker>PP-19</Speaker>||:……そうかもね。自分じゃよくわかんないけど、//nアップグレードのせいなのかも。+シェリーを見た時、指揮官はわざとなんだと思った。+指揮官もあの時、あの子を見てるから。
+()<Speaker> AK-Alfa</Speaker>||:爆撃で負傷した子どもをですか？
+()<Speaker>PP-19</Speaker>||<黑屏1><关闭火花>:そう。人間の子どもが血を流すのって、人形と全然違う。//n初めて見た時、あまりのショックにオーバーロードしちゃって、//nただその子が泣いてるのを見てるしかなかった。+マカロフが彼女を抱き上げて、救急医のところへ連れて行ったのよ。
+AKAlfa(0)<Speaker> AK-Alfa</Speaker>||<BIN>86</BIN><黑屏2>:今のあなたなら、そんなことはしないはずです。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:世捨て人のお嬢様に、慰められる日が来るなんてね。
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:どういうことですか？
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:ひがな空ばっかり眺めてて、下賤の者とは会話すらしようとしない、//nエリートお嬢様。
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:特に話すこともありませんから。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||:あんたやっぱり黙ってて。愛嬌の欠片もないね、まったく。
+AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:……
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1>:AK-Alfaは黙った。沈黙が二人を包み込む。+PP-19がその場を立ち去ろうとしたとき、シェリーが走ってきた。
+pp19(0)<Speaker>PP-19</Speaker>||:シェリー？どうしたの？
+pp19(0);NPC-Shelley(0)<Speaker>シェリー</Speaker>||:お姉ちゃん！パパを助けて！市場のほう……//nパパが行った市場が悪いやつらにおそわれたって！
+pp19(0)<Speaker>PP-19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Danger</BGM>:……
+pp19(0);AKAlfa(0)<Speaker> AK-Alfa</Speaker>||:私がここを見ています、行ってください。
+pp19(0)<Speaker>PP-19</Speaker>;AKAlfa(0)||<黑屏1>:……頼んだわ。
+()<Speaker></Speaker>||<BIN>187</BIN><SE1>RunStep</SE1><黑屏2>:シェリーをAK-Alfaに託し、PP-19は全力で市場へと走っていった。+怒号、喧噪、罵声……//n市場に近づくにつれて、PP-19の鼓動も速くなった。+彼女は銃を構え、悪党を目にした瞬間、//n即座に空に向かって発砲した――
+pp19(0)<Speaker>PP-19</Speaker>||<SE2>Gunfight</SE2>:動かないで！大人しくしなさい！
+pp19(0)<Speaker>ごろつき</Speaker><同时置暗>||:はぁ？誰だテメーは？俺らが丸腰だとでも思ったか！+おい野郎ども、エモノを出せ！
+pp19(0)<Speaker>PP-19</Speaker>||:調子に乗らない方がいいわよ、//n威嚇したり人質を取ろうったって無駄だから！+そこ！あと一歩でも動いたら、かかとを貫くわよ。
+pp19(0)<Speaker>ごろつき</Speaker><同时置暗>||<黑点1><SE1>AVG_weapon_reload</SE1>:人形か？+妙だな、やけに知能が高ぇじゃねェか……+どこぞの玩具だろ、かまやしねェよ。//n人間に人形が敵うわけがねェ。野郎ども、かかれ！
+()<Speaker></Speaker>||<BIN>187</BIN><黑点2><BGM>BGM_Empty</BGM>:……+5分後、PP-19はユリアンを支えその場を後にした。
+NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||<BGM>BGM_Hello</BGM>:今時の武装人形は凄まじいな！+あいつら、銃を持ってたんだぞ。高い金を払った甲斐があった。
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||:銃は持ってたけど、素人だったからね。+あの時よりかは……大分楽だった。
+pp19(0);NPC-PasserbyM(0)<Speaker>ユリアン</Speaker>||:あの時？
+pp19(0)<Speaker>PP-19</Speaker>;NPC-PasserbyM(0)||<黑屏1><BGM>BGM_Empty</BGM>:なんでもない、昔の事よ。+待って……補給所の様子がおかしいわ！

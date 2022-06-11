@@ -1,0 +1,123 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Hello</BGM>:……人形宿舎入り口。
+MG3(0)<Speaker>MG3</Speaker>||:おっと、なにやら面白そうな物が見えたぞ？
+()||:MG3は壁に貼ってあるポスターをじっと見つめた。
+MG3(0)<Speaker>MG3</Speaker>||:『2日後にグリフィン肝試し大会を開催します。//n興味のある方は下のQRコードから是非エントリーしてください……』+興味なくはないが、やっぱ運動が最優先かな。
+()||<SE1>AVG_tele_connect</SE1>:（機械音）+QRコードを読み込む音がした。しかしスキャンしたのはMG3ではなく……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:『エントリー数超過、システムエラー？！』+まさかと思って来てみたら、マジで当たっちゃったよ、マーフィーの法則。+班長、絵は良いんだけど、演算能力はまだまだね。
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:この肝試しって、ホークの主催なのか？参加者、結構集まってるようだな。
+MG3(0);97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:当然でしょ、みんな普段遊べるチャンスなんてないし。+あんたもどう？興味ある？今エントリーするなら、あたしが直接受付けるよ。
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:遠慮しとく、日課の10キロ走がまだなんだ。+一日でも運動を怠ったら、ダイエットにならねぇからな。
+MG3(0);97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:ダイエットって、どこを？もう十分いいスタイルじゃない。
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:ここだよ。
+MG3(0)<Speaker></Speaker>;97typeS(2)<Position>0,150</Position>||:MG3は自分の胸を指した。
+MG3(0);97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:え、そこを減らすの？！+むしろ羨ましいんだけど。
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:バーカ！人間じゃあるまいし、こんな物が何の役に立つってんだ。+人形にとって一番大事なのは任務と命令だろ！
+MG3(0);97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:あとご飯！+へへ、56たちがいたら、きっとそう言うだろうね。
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:ハァ。お前のその屈託のないメンタルが羨ましいぜ……
+MG3(0);97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:そんなことない、人生は上手くいかなくて当たり前。+あたしも同じだよ。
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:そうか？でもあたいたちは人工物だし、//nわざわざ人間の概念に合わせる必要もないだろ。
+MG3(0);97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:へへ、もしかしたら、これがあたしたちに与えられた命題なのかもね。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||<BGM>BGM_Empty</BGM><黑屏1>:どう――肝試し大会で、その答えを探してみるってのは？
+MG3(0)<Speaker>MG3</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:こうして……あたいはホークに騙されて肝試し大会へとやってきた。+なぜ「騙された」かって？それは――
+()<Speaker>MG3</Speaker>||<BIN>1</BIN><Night><黑屏2>:肝試し大会の参加者はとっくに定員オーバーで、//nあたいは警備をやらされる羽目になったからだ。
+MG3(4)<Speaker>MG3</Speaker>||<BGM>m_avg_casual</BGM>:たまにはこういう格好も悪くねぇけどな。
+CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||:あなたは……MG3……？
+CETME556(0);MG3(4)<Speaker>MG3</Speaker>||:お、あたいのパートナーはModel Lか。+もう戻ってたんだな。
+CETME556(0)<Speaker></Speaker>;MG3(4)||<黑点1>:Model LはMG3の格好に驚いたものの……+少し言葉を交わしただけで、二人とも仕事に打ち込み始めた。
+MP40(0)<Speaker>MP40</Speaker>||<黑点2><黑点1>:うう……まさか……そんな！
+MG3(4)<Speaker>MG3</Speaker>||<黑点2>:おい！Model L、今の聞こえたか？
+CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||<黑屏1>:はい、今分析しています……結果が出ました、MP40の信号です。+座標を割り出しました、ついてきてください！
+()||<黑屏2>:1時間後、Model LとMG3がMP40の依頼を片づけ終わると……+またしても救難信号を受信した。
+MG3(4)<Speaker>MG3</Speaker>||:Model L、またトラブル発生だ。場所は北西にある補給所。
+CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||:こちらでも確認しました、急ぎましょう。
+MG3(4)<Speaker>MG3</Speaker>||<黑点1>:OK！
+WA2000(4)<Speaker>WA2000</Speaker>||<黑点2>:まったく、いつまで待たせるのよ！
+MG3(4)<Speaker>MG3</Speaker>||:フフン、指揮官じゃなくてがっかりしたか？
+WA2000(4)<Speaker>WA2000</Speaker>||:ハァ？指揮官は関係ないでしょ！//n別にあいつに来て欲しいなんて思ってないし！ほ、本当なんだからね……！
+CETME556(0)<Speaker>Model L</Speaker>||:MG3、周知の事実はわざわざ口にせずとも大丈夫です。+まだほかにも助けを必要とする方がいますので。
+WA2000(4)<Speaker>WA2000</Speaker>||:ちょっと！
+MG3(4)<Speaker>MG3</Speaker>||:了解、次はっと……
+()||:Model LとMG3は次の目的地へ向かった。
+WA2000(4)<Speaker>WA2000</Speaker>||<黑点1>:ちょっと、周知の事実ってどういうことよ！
+IWS2000(2)<Speaker>IWS 2000</Speaker>||<黑点2>:ごめんなさい……わざわざ服を取りに行ってもらって。
+CETME556(0)<Speaker>Model L</Speaker>;IWS2000(2)||:いいえ、これが仕事ですから。
+MG3(4)<Speaker>MG3</Speaker>;IWS2000(2)||:にしてもAUGはすげぇな、あたいたちが来るのを予見してたなんて。+おかげですんなり服を受け取れたよ。
+CETME556(0)<Speaker>Model L</Speaker>;IWS2000(2)||:MG3……それ、内緒だってAUGさんと約束したはずですよ。
+MG3(4)<Speaker>MG3</Speaker>;IWS2000(2)||:あっちゃー、忘れてたぜ！IWS、今のは聞かなかったことにしてくれ、アハハ……
+IWS2000(2)<Speaker>IWS 2000</Speaker>||<黑点1>:……+<color=#A9A9A9>そうですか……また彼女にご迷惑を。</color>
+()<Speaker>M870</Speaker>||<黑点2>:わ――！なんじゃこりゃ！
+CETME556(0)<Speaker>Model L</Speaker>||:また誰かがトラブってますね。
+MG3(4)<Speaker>MG3</Speaker>||:ほんと大変だな、この仕事は。お喋りする時間すらないとは。
+()<Speaker>？？？</Speaker>||:痛い――！助けて！助けて！
+MG3(4)<Speaker>MG3</Speaker>||:言ったそばから……また救難信号だ！
+CETME556(0)<Speaker>Model L</Speaker>||:そうですか……今夜はやけにトラブルが多いですね。+M870の方はお任せしました、わたしはもう一方へ向かいます。
+MG3(4)<Speaker>MG3</Speaker>||:おう、座標を送っとく。+単独行動時は気をつけろよ。
+CETME556(0)<Speaker></Speaker>||<黑屏1>:Model Lは頷くと、進路を変えた。
+()||<BIN>9</BIN><黑屏2>:……10分後、MG3はM870のもとへと到着した。
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:なんだこりゃ。
+M870P(2)<Speaker>M870</Speaker>||<BIN>1</BIN><Night><黑屏2>:うるさい！さっさとあたしを助けなさいよ！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:もうこうするしかないね！
+()||:ホークが銃を向けた。
+MG3(4)<Speaker>MG3</Speaker>||:おい！落ち着けって！+いくらなんでも銃はまずいだろ。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||:じゃあどうしろと？こっちだって指揮官を探すのに急いでるんだけど。
+MG3(4)<Speaker>MG3</Speaker>||:<color=#A9A9A9>そうか、指揮官だ。指揮官がいれば……なんとかなるはず！</color>+ちょっと待ってろ――
+M870P(2)<Speaker>M870</Speaker>||:待つって何をよ、あんたたち状況わかってる？！+あたしまだ閉じ込められてんだけど！？
+97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||<SE1>AVG_weapon_reload</SE1>:まったく……
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:待つんだ、ホーク！5分でいい、すぐ戻るから！
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:……時を同じくして、肝試し大会のスタート地点。
+()<Speaker>指揮官</Speaker>||<BGM>BGM_Hello</BGM><BIN>1</BIN><Night><黑屏2>:ホークと約束したし、ちょっとは肝試し大会に顔を出さないと。+あれ……入り口にこんな長い階段あったっけ？
+()||:指揮官がその階段を登っていると、忽然と上に何者かが現れた……
+KSVK(4)<Speaker>KSVK</Speaker>||:指揮官、今頃来たのか？
+()<Speaker>指揮官</Speaker>||:KSVK……？+違う、君は……
+KSVK(4)<Speaker>KSVK</Speaker>||:誰だっていいだろう。//n今日はハロウィンだ、サプライズがあったほうが合理的だと思うが。
+()<Speaker>指揮官</Speaker>||:サプライズという名目で、誤解を招くような行動をしないで欲しいんだけど。
+KSVK(4)<Speaker>KSVK</Speaker>||:フフン、安心しろ。今日は純粋に、茶番に付き合ってみたくなっただけだ。
+()<Speaker>指揮官</Speaker>||:悪いけど、みんなの安全のためには、やはり君をシャットダウンして――
+()||<BGM>BGM_Empty</BGM><震屏>:突然、指揮官の足が滑り――+長い階段から転がり落ちた。
+KSVK(4)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>地面がへこんだ？！……グリフィンの床板、いくらなんでも脆すぎるだろ。</color>+おい――！グリフィンの指揮官！
+KSVK(4)<Speaker>KSVK</Speaker>||:……なるほど、これも運命か。あたしが出るまでもなかったな。
+()<Speaker>指揮官</Speaker>||<黑屏1><SE1>Heartbeat</SE1>:<color=#A9A9A9>――！</color>+<color=#A9A9A9>この高さ……もし落ちたら……</color><c>さようなら、短い指揮官人生だった……<c>まだダメ――
+()<Speaker>指揮官</Speaker>||<分支>2</分支><黑屏2><BIN>9</BIN>:まだ諦める時ではない。
+()||<分支>1</分支><黑屏2><BIN>9</BIN>:……
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:指揮官――！
+()<Speaker>指揮官</Speaker>||:……+私……生きてる？+<color=#A9A9A9>……頭の後ろになんだか柔らかい感触が。</color>
+()<Speaker>？？？</Speaker>||<黑屏1>:安心しろ、指揮官！もう大丈夫だ。+それより見ろよ、今日はキレイな満月だぜ。
+MG3(4)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><BIN>1</BIN><Night><睁眼>:目を開けた指揮官は、//n自分の頭がちょうどMG3の胸部に乗っていることに気づいた。
+()<Speaker>指揮官</Speaker>||:……ごめん！
+()||:指揮官は慌てて体を起こした。
+MG3(4)<Speaker>MG3</Speaker>||:へへ、あたいがあの場にいなかったら、今ごろ指揮官は骨折してたぞ。+指揮官もあんなに慌てたりするんだな。<c>私も男だってこと、忘れてないか……<c>いくら女同士でも、節度というものが……
+MG3(4)<Speaker>MG3</Speaker>||:そうか？+指揮官にそう言ってもらえると、嬉しいぜ！
+()<Speaker>指揮官</Speaker>||:え……？+何かおかしかった？
+MG3(4)<Speaker>MG3</Speaker>||:いや、そうじゃなくて。+ただ指揮官にそう言われると、やっぱ自分は任務の道具じゃないんだなって、//n改めて実感したよ。<c>私がいる限り、君たちを道具にはさせない。<c>このグリフィンでは、誰も君たち人形の権利を蔑ろにしないよ。
+MG3(4)<Speaker>MG3</Speaker>||:わかってる、ただ……あたいは人形だろ……+たまに演算結果に出ていない行動をするのは、なんでかと思ってさ。+この欠陥がずっと嫌いだった、なのにそのおかげで指揮官を助けることができた。+それに……今はこの欠陥を嬉しく感じるんだ。+あたい、バグってんのかな？
+()<Speaker>指揮官</Speaker>||:そうか……『欠陥』だと思っていたものに、嬉しさを感じたのか。+なんだか、私たち人間と似ているね。
+MG3(4)<Speaker>MG3</Speaker>||:人間と似ている？
+()<Speaker>指揮官</Speaker>||:うん。もし人間に欠陥が一つもなく、毎日が思い通りに過ごせて、//n何もかも順風満帆だったら……私たちは平和や幸福を追い求めると思う？
+MG3(4)<Speaker>MG3</Speaker>||:それが良いんじゃないのか？少なくとも、今みたいな酷い時代にはなってねぇと思うが……
+()<Speaker>指揮官</Speaker>||:いや、もし本当にそうだったら――人の心は麻痺してしまう。+むしろ今よりひどい時代になってたよ。
+MG3(4)<Speaker>MG3</Speaker>||:こころ？
+()<Speaker>指揮官</Speaker>||:そう、嬉しいと感じる『心』。+『欠陥』がないとは即ち、生命への渇望も途絶えるという事……//n平和や幸福が訪れたとして、それを感じ取れる心がないとね。+こんな時代に生を受けた以上……+『欠陥』に基づいて欲しいものを追い求めるべきだ。//nそのためにグリフィンがあるわけだしね。
+MG3(4)<Speaker>MG3</Speaker>||:……+人形も、本当に同じだろうか？あたいの渇望なんて、ただこれを小さくすることぐらいなのに。
+()<Speaker>指揮官</Speaker>||:あのね……
+()||:指揮官は頭を左右に振ると、MG3に近寄った。
+MG3(4)<Speaker>指揮官</Speaker>||:その『欠陥』がなくなった後、君はそれで何を成し遂げたい？
+MG3(4)<Speaker>MG3</Speaker>||:そりゃもちろん、任務をよりよく遂行することだ。+こいつに割いた装備の調整時間が短縮できりゃ、//nもっと早く最前線に駆け付けることができるはずだ。
+MG3(4)<Speaker>指揮官</Speaker>||:なら、君が本当に渇望するのは……人間の幸せってことになるね。
+MG3(4)<Speaker>MG3</Speaker>||:は？あたいが、人間の幸せを？
+MG3(4)<Speaker>指揮官</Speaker>||:君が気づいてないだけで、ダイエットするのは、//n私たちの役に立ちたいからなんだろう？+その『欠陥』のおかげで、もっと強くなれると分かったわけだ。+……だから私を助けた後も、君は嬉しいと感じてる。
+MG3(4)<Speaker>MG3</Speaker>||:そうか……？+プロセッサーが古くて、指揮官の話はボンヤリとしかわかんねぇや。
+MG3(4)<Speaker>指揮官</Speaker>||:じゃあ、もう一回――
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:いやいい、指揮官。
+MG3(0)<Speaker>MG3</Speaker>||<黑屏2><边框>2</边框><BIN>82</BIN>:そうか？でもあたいたちは人工物だし、わざわざ人間の概念に合わせる必要もないだろ。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,150</Position>||<边框>2</边框><黑屏1>:へへ、もしかしたら、これがあたしたちの命題なのかもね。
+MG3(4)<Speaker>MG3</Speaker>||<BIN>1</BIN><Night><黑屏2>:その答えは、自分で探すさ。
+()<Speaker>指揮官</Speaker>||:そっか。なら答えが見つかったら、私にも教えてくれる？
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:ああ！
+()||<BIN>9</BIN><黑屏2>:星々に照らされた夜空、空高くに冷たく漂う満月。//n指揮官とMG3は、肩を並べて会場をゆっくりと歩いた……+二人が同じことを思い浮かべているかは、定かではない。
+()<Speaker>MG3</Speaker>||:……+あ――！M870を忘れてた！+指揮官、急いでついてきてくれ！
+()<Speaker>指揮官</Speaker>||:ど、どうした？
+()<Speaker>MG3</Speaker>||:ホークがM870を撃つ気なんだ！
+()<Speaker>指揮官</Speaker>||:なんだって？！
+()||<黑屏1>:星々に照らされた夜空、空高くに冷たく漂う満月。//n指揮官はMG3に引っ張られるがまま走って行った……+今、二人が同じことを思い浮かべているのは、聞くまでもない。
+M870P(2)<Speaker>M870</Speaker>||<BIN>1</BIN><Night><黑屏2><黑屏1>:早くこのバカでかいカボチャをなんとかしてよ！

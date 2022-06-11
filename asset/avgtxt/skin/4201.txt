@@ -1,0 +1,140 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+JS9mm(2)<Speaker>JS 9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>開場します、皆さんご注意ください！</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:まだ準備を終えていないのに、もうお客さんを入れるだなんて……+この大きなクローゼットは、どこに置けばいいのかしら？
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:<color=#00CCFF>あっ、DP-12、ごめんなさい。どこに置けばいいか分からないのね？</color>+<color=#00CCFF>すぐ手伝いに行くから、ちょっと待ってて！</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:大丈夫ですよ、ここは私に任せて下さい。+JS 9、どうか落ち着いて。
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:<color=#00CCFF>私、そんなに慌ててるように見える？</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:少なくとも、私の目にはそう見えますね。
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:<color=#00CCFF>やっぱり私、向いてないのかな……</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:向いているかどうかは、任務を終えてからでないと分かりませんよ。+出来る限り頑張りましょう、私もお手伝いしますから。
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:<color=#00CCFF>分かった……ちょっと安心したかも。</color>+<color=#00CCFF>また後でね！</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:また後で、JS 9。
+DP12(2)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>通信中断</color>
+DP12(2)<Speaker>DP-12</Speaker>||<BGM>BGM_Empty</BGM>:さてと、この大きなクローゼット、どうしましょう……
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||<BGM>BGM_Hello</BGM>:おっ、ここのレイアウト、なかなか良いな。//nだがベッドの向かいに鏡を置くのは、風水的に頂けない！
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:申し訳ございません、準備がまだ整っていなくて。//nあの鏡は側面に貼り付けられたものです、ご興味がおありですか？
+NPC-PasserbyM(0)<Speaker>通行人</Speaker><Shake>;DP12(2)||:えっ？まだ準備が……ががががが……
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||<SE1>Heartbeat</SE1>:どうかなさいましたか？+何か喉に詰まらせてしまったのでしょうか、お水をどうぞ。
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||<震屏>:ゲホッ……ゴホゴホッ！+あ、ありがとう、た、助かった！いや、た、大した事じゃないんだ……
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:先ほどおっしゃっていたのは、風水学についてですか？//nお部屋のレイアウトに、熱心でいらっしゃるんですね。
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:あ……分かっちゃった？
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:家具展にいらっしゃるお客様には、そういった需要があるのではと思いまして。
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:そ、そう！そうなんだよ……き、君のブースはレイアウトが全くなってないな！+その……えっと……
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:なにか、お客様を不快にさせてしまいましたか？
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:……こ、これ以上は言えないよ。
+DP12(2)<Speaker>DP-12</Speaker>||:なぜですか？+教えて頂けませんと、皆困ってしまいます。
+路人2()<Speaker>通行人2</Speaker>||:うわ、あそこの店員さん、めっちゃ綺麗……
+路人3()<Speaker>通行人3</Speaker>||:本当ね、家具より良いじゃない。
+DP12(2)<Speaker>DP-12</Speaker>||:……
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:とにかく、だな、その、つまり……
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:もしかして、私の顔ですか？
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:……+き、君、ルックスは悪くない、うん。
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:ウフフ、ありがとうございます。+準備が整っておらず、大変失礼致しました。//n後ほど調整しておきますので、またお越し頂けますか？
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||<SE1>RunStep</SE1>:うぁぁぁぁ！お、お辞儀した……//nし、仕方ないな、ゆ、許してやる。早く直しておけよ！
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:遅くなっちゃった、DP-12……あれ？あの人、あんなに急いでどうしたの？+しかも鼻血まで出して。
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:あらまぁ、体調が悪いのに外出するだなんて、大変ですね。
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:人間のああいう頑固なところ、本当に謎だわ。//nこれ、まだ展示できてないのよね？
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:ええ、特にこのクローゼット、どこに置けばいいのかまったく分からなくて。
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:あぁ、これは壁に沿って配置しましょう。ベッドとの距離をこれくらい空けて……//nこうすれば開け閉め自在よ。//nベッドにも近いから、次の日の服を選び易いしね。+でもそうなると、鏡を他にやらないと……
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:鏡をクローゼットの内側に貼るのはどうでしょう？
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:うん！そうね、そうしましょう……//nDP-12も、インテリアのなんたるかを心得てるじゃない。
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:美と合理性を追求したまでですよ。+お疲れ様です。さすがはJS 9、助かりました。
+JS9mm(2)<Speaker>JS 9</Speaker>;DP12(2)||:そう言われると、なんだか照れちゃうな……//nお礼なんていいから！それじゃ行くわね。
+DP12(2)<Speaker>DP-12</Speaker>||<BGM>BGM_Empty</BGM>:はい、ご無理なさらないでくださいね。
+DP12(2)<Speaker>DP-12</Speaker>||<黑点1><BGM>m_avg_casual</BGM>:JS 9を見送ると、先ほど去っていった人々が、再び集まってきた。+どうしてか、値引きする客はほとんどおらず、家具は飛ぶように売れていった。
+()<Speaker></Speaker>||<黑点2>:DP-12のブースは、あっという間に空っぽになってしまった。
+DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>やっぱり、この大きなクローゼットだけが残ってしまったわね……</color>
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:どうしたの？説明を続けてちょうだい！興味深いわ、もっと聞かせて！
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:承知いたしました。お客様のご購入なされたこちらの八歩床、//nつい最近作られたものではございますが、//nこのモデル自体は大変古い歴史を有しております。+製造工程が複雑であるため、かつてはとても高価なものでした。//nこれをご購入できるということは、//n相当裕福なご家庭であらせられるんですね。
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:フフン、当然よ。
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:床と呼ばれてはおりますが、//n外観はまさしく、独立した部屋と言って差し支えございません。//nブースの外に展示しておりましたのはそのためです。+ですが、理由はそれだけでなく、八歩床については……
+NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:うわぁぁ～～ん！
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>今のは……誰かの泣き声？</color>
+NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:ママ――ママ……+ど……ヒック……どこにいるの……ひとりで、こ、こわいよぉ……ヒック……
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>錯覚じゃない……子どもの泣き声だわ。</color>
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:八歩床については何なのよ？早く話して。
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:申し訳ありません……お子様が泣いているようです、少々失礼をば。
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||<黑屏1>:あら、本当だわ。
+DP12(2)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><黑屏2><BIN>97</BIN>:DP-12は人混みをかきわけ、//n微かな泣き声を聴覚モジュールで聞き分けようとした。
+DP12(2)<Speaker>？？？</Speaker>||:ママ……+あたち、ど、どうしたら、うぇぇ～……ヒック！
+DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>まだ小さいわ。</color>+お母さまとはぐれてしまったんですか？
+DP12(2)<Speaker>子供</Speaker>||:……
+DP12(2)<Speaker>DP-12</Speaker>||:心配しないでください、私は悪い人ではありませんよ。
+DP12(2)<Speaker>子供</Speaker>||:……ヒック。
+DP12(2)<Speaker>DP-12</Speaker>||:あらあら、そんなに泣いて。お母さまがいなくて、怖かったですね。
+DP12(2)<Speaker>子供</Speaker>||:ママが……知らない人とはしゃべっちゃダメだって……
+DP12(2)<Speaker>DP-12</Speaker>||:ええ、お母さまのおっしゃる通りです。でも大丈夫。+見てください、私はあそこでお仕事をしている人形ですよ。//n学校の先生に、困った時はお店の人に助けを求めるよう、//n教わりませんでしたか？
+DP12(2)<Speaker>子供</Speaker>||:うん……
+DP12(2)<Speaker>DP-12</Speaker>||:良い子ですね。+困った事があれば、なんでも言ってください、力になりますよ。
+DP12(2)<Speaker>子供</Speaker>||:あ、あたち……マ、ママがいなくなっちゃったの……
+DP12(2)<Speaker>DP-12</Speaker>||:それはそれは。お母さまとはぐれて、どれくらい経ちましたか？
+DP12(2)<Speaker>子供</Speaker>||:わかんない……時計、もってない……+……こ、こわいよぉ、おばさん。
+DP12(2)<Speaker>DP-12</Speaker>||:怖がらないで、大丈夫ですよ。//nおばさんの仕事場は、とっても広くて照明もあるんです。//nそこでお母さまを待つのはどうですか？
+DP12(2)<Speaker>子供</Speaker>||<黑屏1>:うん……
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>||<BIN>139</BIN><黑屏2>:あら、あなたの子供なの？
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:まさか。どうやら、お母さまと逸れてしまったようです。//n人混みにいるより、こちらの方が安全だと思いまして。
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:……
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:リボンで遊んではいけませんよ。どうしたんです、やっぱり怖いですか？
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:この子、十分偉いわよ！私がこれくらいの時なんて、//n母さんが来ないと絶対に泣き止まなかったもの。
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:あら……そうだったんですね。+おばさんが抱っこしましょうか？
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:ううん……+マ、ママ、あたちに気づかないで、帰っちゃったらどうしよう……
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:そんなはずありませんよ。お母さまは今頃、あなたを探しておいでです。//nこんなに大きい会場なんですもの、//nここへ来るのに、時間がかかっているのかもしれませんね。
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:そっか……
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:心配しないで、ここに座って待っていましょうね。+お母さまって凄いんですよ。//nどこにいたって、あなたを見つけられるんですから。
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:うん！あたちのママね、ほんとにすごいんだよ！
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:子どもをなだめるのが上手ね。
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:とんでもありません。+早くお母さまがお見えになるといいのですが。//nでないと、この子も気が休まりませんから。
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:それで、八歩床にはどんなエピソードがあるの？
+NPC-PasserbyF(0)<Speaker>子供</Speaker>;DP12(2)||:はちほしょう？
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:あぁ、このベッドの名前ですよ。
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:おっきい……
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:まだ技術が未熟だった頃、//nこのようなベッドを一つ造るのに、3年を要してました。//n模様はひとつひとつ丹念に磨かれており、そのコストもかなりのものでした。+中国南方の富裕層は、こういったベッドを特注し、//n祝福の意を込めて嫁入り道具として持たせていたそうです。+もちろん現代において、八歩床の持つ意味はそれだけに留まりません。//nこの存在こそが、一つの物語なのです。
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:物語？
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:そうですよ。例えば、ここに何が彫られているか分かりますか？
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:剣、ひょうたん、お花……あと……
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:笛よ。
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:素晴らしい、正解です。+これらは「暗八仙」と呼ばれており、//n8人の仙人が身に着けている宝物で、幸運の象徴でもあります。+ご覧ください、例えばこの花籠は、韓湘子という名の仙人を表しています。
+NPC-PasserbyF(0);DP12(2)<Speaker>子供</Speaker>||:「かんしょうし」って？
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:聞いたことあるわ。仙人なのよね？
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||<黑点1>:その通り。そう、彼は……
+()<Speaker></Speaker>||<黑点2>:時間が経つにつれ、DP-12の物語に耳を傾ける人が徐々に増えていった。
+DP12(2)<Speaker>DP-12</Speaker>||:……その時、韓湘子の叔父は気づいたのです。//n甥っ子の詩は、正に今の光景を示していたのだという事を。+以上が、八仙の韓湘子についての物語です。
+DP12(2)<Speaker>群衆</Speaker>||:わぁ……
+广播声()<Speaker>アナウンス</Speaker>||<BGM>BGM_Empty</BGM>:メイメイちゃん、メイメイちゃん、お母さまがお待ちです。//n放送を聞かれましたら、1番ブースまでお越しください。
+孩子()<Speaker>子供</Speaker>||<BGM>BGM_Sunshine</BGM>:あっ！ママだ！
+DP12(2)<Speaker>DP-12</Speaker>||:ほら、きっと見つけてくれるって言ったでしょう？
+DP12(2)<Speaker>子供</Speaker>||:でも、でも……1番ブースってどこにあるの？
+DP12(2)<Speaker>DP-12</Speaker>||:こちらです。見てください、この赤い絨毯をまっすぐ行けば、//n1番ブースにたどり着けますよ。
+DP12(2)<Speaker>子供</Speaker>||:ママ！ママがいた！
+DP12(2)<Speaker>DP-12</Speaker>||:お行きなさい。
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:子どもは椅子から飛び降りて、数歩前へ進んだかと思うと、//n戻ってきてDP-12を強く抱きしめた。
+孩子()<Speaker>子供</Speaker>||:おばさん、ありがとう！
+DP12(2)<Speaker>DP-12</Speaker>||:まぁ……どういたしまして。
+NPC-PasserbyF(0)<Speaker>来賓</Speaker>;DP12(2)||:ベッドを運んでくれる業者も来たことだし、もう行くわね。//nありがと、悪くない物語だったわ。
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:恐縮です、またのお越しをお待ちしています。+<color=#A9A9A9>フゥ……やっと休憩できそうね。</color>
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:あ、あの……さっきの物語、続きってあったりするんですか？
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:あら、民話に興味がおありで？
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||:さっきの何仙姑が気になっちゃいまして。//nお姉さん、お話がとっても上手なんですね！
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:ありがとうございます。それでしたら続きを……
+NPC-PasserbyM(0);DP12(2)<Speaker>子供たち</Speaker>||:続き聞きた～い！
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:まぁ……思ったよりも、希望者が多いようですね。
+NPC-PasserbyM(0);DP12(2)<Speaker></Speaker>||:その時、背後に寂しそうに立っているクローゼットがDP-12の視界に入った。
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:こうしましょう、ゲームをしませんか？+勇気のある方に、クローゼットに入れるチケットをお配りいたします。//nその中で、怪談話というのは如何でしょう？+物語が終わるまで、クローゼットの中に留まる事ができれば、//n全商品対象25％OFFのサービス券をプレゼントいたします。//nサービス券は一枚のみ、早い者勝ちですよ。
+NPC-PasserbyM(0)<Speaker>通行人</Speaker>;DP12(2)||<震屏>:25％OFF！？どのブースでも使えるの？
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||<黑屏1>:もちろんです。如何です、挑戦したい方はいらっしゃいますか？
+()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><Night><BGM>BGM_Empty</BGM>:……
+指挥官()<Speaker>指揮官</Speaker>||<BGM>BGM_Danger</BGM>:おや……まだ終わってなかったのか。+ちょうど良い、皆の様子を見に行こう。
+客人()<Speaker>来賓</Speaker>||<震屏>:うわぁぁぁぁぁぁ！こっ、怖いぃぃ、降参、降参！
+指挥官()<Speaker>指揮官</Speaker>||:どうしたの？
+客人2()<Speaker>客2</Speaker>||:私も降参ですぅぅ～……ここから出してぇぇ……
+指挥官()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>テロか？変だな、あれはDP-12のブースだったはず……</color>+<color=#A9A9A9>行ってみよう。</color>
+客人3()<Speaker>客3</Speaker>||:あぁぁ……ダ、ダメだ、降参だ……外の空気を吸わせてくれ……
+DP12(2)<Speaker>DP-12</Speaker>||:残念ですね、全員リタイアなさってしまうなんて。+他にチャレンジしてみたい方は？
+DP12(2)<Speaker>指揮官</Speaker>||:……DP-12？何をしてるんだ？
+DP12(2)<Speaker>客3</Speaker>||:お、お前、中に入る気か？悪い事言わんからやめとけ、//n尋常じゃない、あ、頭がおかしくなる……
+DP12(2)<Speaker>指揮官</Speaker>||:尋常じゃない？
+DP12(2)<Speaker>DP-12</Speaker>||:肝試し大会ですよ。
+DP12(2)<Speaker></Speaker>||:そう言いながら、DP-12は背後のクローゼットを指差した。+そこまで深くはないはずのクローゼットの中には、//n見る者も畏れる、果てなき暗闇が広がっているかのように思えた。
+DP12(2)<Speaker>DP-12</Speaker>||:いかがです、指揮官？+あなたにお話したい素敵な物語が、山ほどございますよ。
+DP12(2)<Speaker>指揮官</Speaker>||:……え、遠慮しておくよ。とにかく今は、展示会を締めくくらないと！//nほどほどにね、DP-12！
+DP12(2)<Speaker>DP-12</Speaker>||<黑屏1>:あら、残念。+でも、焦ることないか……機会はまだまだあるでしょうし。+とにかく、今はこのクローゼットをどうにかして売らないと……

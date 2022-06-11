@@ -1,0 +1,47 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>88</BIN><黑屏2><BGM>BGM_Room</BGM>:鉄血ユニットの殲滅を確認。
+G11(0)<Speaker>Gr G11</Speaker>||:どういうこと……
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:なんで鉄血がここに？
+HK416Mod(0)<Speaker>416</Speaker>||:待って、誰かアンナを見なかった？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:……アンナ？
+Nytochild01(0)<Speaker>アンナ</Speaker>||:うっ、うわぁぁぁあああ――+うぅ……
+HK416Mod(0)<Speaker>416</Speaker>||:アンナ！
+()||:（足音）+足音はエレベーター付近で消失した。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:アンナがいなくなった！
+HK416Mod(0)<Speaker>416</Speaker>||:そんな！まさか、さっきの奴らに連れ去られたの！？+追うわよ！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:……+エレベーターが破壊されてる。
+HK416Mod(0)<Speaker>416</Speaker>||:完全にハメられた……！+これがあんたの言う「丁重なご招待」？！+今度はあんたを丁重に地獄へとご招待して差し上げましょうか！？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:それは一向に構わないけど、おチビちゃんは連れ戻せなくなるわよ。
+HK416Mod(0)<Speaker>416</Speaker>||:アンナがどこへ連れ去られたの知ってるの？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:さぁね。でも、あっちのおチビちゃんなら、何か知ってるんじゃない？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:あっちの？
+()||<BIN>89</BIN>:突如、倉庫の照明が灯った。見れば一人の小さな人形が、積み上げられた箱の上に立っている。
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:ごきげんよう、404の諸君！+えーっと、それから何だっけ……
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:あれは、デストロイヤー！+なんで鉄血がここに……
+G11(0)<Speaker>Gr G11</Speaker>||:まさか、鉄血の罠だったの……？
+HK416Mod(0)<Speaker>416</Speaker>||:こら――あんたたち、アンナをどこへ連れて行ったの？
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:アンナぁ？なにがアンナよ。+パラデウスにボコボコにされたくせに、ガキの面倒みるなんて。+やっぱ、バラしてあたしの修理パーツにしちゃったほうが……
+HK416Mod(0)<Speaker>416</Speaker>||:あきらめなさい。低能はメンタルの問題、パーツを取り換えたって直んないわよ。
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:お……お前……+……+ちょっと待った、あたし、なんでこんなところに？+……手になんか書いてある。+「ロープで倉庫まで降りて、404を足止めし、敵を包囲する。――by ドリーマー」+思い出した！それでは諸君、また会おう！+じゃなくて、さらばだ！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:エルダーブレインを失った事で、戦術がおざなりになってるわね。
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:あの裏切り者の名前を口にするな！
+()||:天井の穴から数本のロープが降ろされ、デストロイヤーを上の階へと引き上げた。
+HK416Mod(0)<Speaker>416</Speaker>||:待ちなさい！アンナをどこへ連れて行ったの？！
+()||<SE2>Gunfight</SE2>:（銃声）+416は発砲しながらデストロイヤーを追いかけた。
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:フン、追いつけるもんならやってみな。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:416！伏せて！
+HK416Mod(0)<Speaker>416</Speaker>||:えっ？！
+()||:UMP45は背後から416に飛びかかった。
+()||<SE1>Explode</SE1>:（爆発音）
+()||<BIN>88</BIN>:爆発と共に、天井の穴が塞がれた。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45姉！416！大丈夫？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:大丈夫よ。
+HK416Mod(0)<Speaker>416</Speaker>||:クソッ！あのチビを逃がした！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:少なくとも鉄血の目的はわかったわ、大体の方角もね。+それと、もう一つ面白い事に気づいたの……
+()||:（物音）
+HK416Mod(0)<Speaker>416</Speaker>||:なんの音？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:どこかで聞いたような……
+G11(0)<Speaker>Gr G11</Speaker>||:な、なんなの！？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:当然、お馴染みの奴らよ。
+()||:倉庫のあちこちから、大量のダイナーゲートが現れた。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:戦闘準備。+鉄血との戦いは貴重よ。これが奴らに残された、最後の力かもしれないんだから。

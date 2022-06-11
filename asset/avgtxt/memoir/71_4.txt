@@ -1,0 +1,123 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>18</BIN><BGM>m_avg_casual</BGM>:……救助ステーションに向かう道中にて。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ガリルのヤツ、やっぱり通信に出ない。
+TAR21(0)<Speaker>TAR-21</Speaker>||:総務部のお仕事でお忙しいのでしょう。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ネゲヴのせいだよ、こんな簡単にガリルを行かせちゃうなんて。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……+彼女が可能性を探したいと言い出したのよ、//n尊重するのは当たり前でしょう。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:その結果、ガリルの可能性を証明できたのはいいけど、//n私たちもガリルなしじゃダメだって証明されちゃったワケだ。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+TAR21(0)<Speaker>TAR-21</Speaker>||:お静かに、到着しましたわ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:もしガリルが戻ってこなかったら？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:ありえないわ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:なんでわかるの？
+()||:ネゲヴは救助ステーションのドアノブに手を置いた。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||<黑屏1>:考えるのは馬鹿のすること、天才はセンスだけで十分。
+()||<黑屏2><BIN>88</BIN>:……扉を開くと、動物の臭いの入り混じった空気が吹きつけた。+散らかった部屋の中では、一人の見慣れた人形が、//n救助された動物たちに餌をやっている。
+AR(0)<Speaker>ガリル</Speaker>||:よしよし、Uzi、ビニール噛まんといてや！+もうゼリーは無いねんで、噛んでも意味あらへんやろ！+こらっ！飲み込むなっちゅーの！このドアホ！
+()||:ガリルは一匹のパグ犬を取り押さえ、//n口の中からビニール袋を引っ張り出した。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||:ネゲヴ！後ろにいるのはわかってんで！+ま～た狩りごっこみたいなツマラン遊びでもする気か？+おい――怒らんといてや、遊んだげるさかい、なぁ！
+()||:ガリルは慣れた手つきで猫じゃらしを持つと、//n怒った様子で伏せているサーバルキャットに近づいた。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+AR(0)<Speaker>ガリル</Speaker>||:おっ、やっぱタボールが一番お利口さんやな。+イタズラッ子どもが何しようと、お前だけは静かに毛づくろいしとるもんな～。+コラ、お前ら、タボールを見習わんかい、これぞ本物のお嬢様やぞ！
+()||:一羽のダルマエナガがガリルの肩に止まり、優雅に毛づくろいを始めた。
+TAR21(0)<Speaker>TAR-21</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||:ふぅ、これで今日の世話は終わりやな。+うちは帰って休むけど、お前ら、ちゃんとお利口にしとるんやで。
+()||:ガリルは動物たちにそう言い聞かせると、//n自分のバッグを持って扉のほうへと向かった。
+AR(0)<Speaker>ガリル</Speaker>||:ほな、明日な。帰――+……
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||<黑屏1>:……+こんにちは、ガリル。
+()||<黑屏2><BIN>80</BIN>:……カフェテリアにて。+テーブルのコーヒーはすでに冷めている。//n四名の人形たちは、誰一人として口を開こうとしない。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:総務部では、上手くやってるの？
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>ガリル</Speaker>||:……はは、まぁ、なんとかな。+そう言うあんたらは？任務は順調やったんか？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>;AR(0)||:ええ、順調よ。
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>ガリル</Speaker>||:あはは。
+AR(0)<Speaker>ガリル</Speaker>||:そら良かった。
+()||:ぎこちない挨拶の後、また沈黙が続いた。//nシュガースティックを弄っていたUziが、こらえきれずに口を開いた。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:まったく、ネゲヴってば、私たちのどこが順調なのよ。
+TAR21(0)<Speaker>TAR-21</Speaker>||:Uzi……
+AR(0)<Speaker>ガリル</Speaker>||:……え？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ガリルがいなくなったら、ネゲヴがまたバーサーカーに戻っちゃったの。+潜行作戦のはずが、結局殲滅作戦になっちゃうし……+私とタボール、めちゃくちゃ大変だったんだからね！しかも――
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:黙りなさい、Uzi。
+()||:ネゲヴの顔色が悪くなった。ガリルは耐えきれずに噴き出した。
+AR(0)<Speaker>ガリル</Speaker>||:プッ……
+TAR21(0)<Speaker>TAR-21</Speaker>||:Uzi、およしなさい、ネゲヴがお怒りですよ……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:本当のこと言っただけだもん。
+AR(0)<Speaker>ガリル</Speaker>||<黑点1>:すまんな。うちも実を言うと、ここ最近、上手く行ってなくて……
+()||<黑点2>:ガリルはこの数日間における境遇を、洗いざらい打ち明けた。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:あはははははは……！
+TAR21(0)<Speaker>TAR-21</Speaker>||:ガリルも大変な思いをされていたんですね。
+AR(0)<Speaker>ガリル</Speaker>||:まぁな。とにかく、任務は達成したわ……
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:カフェテリアで働く時って、スイーツを盗み食いできたりするの？
+AR(0)<Speaker>ガリル</Speaker>||:あかん！そんなん禁則行為やで！
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:え～……つまんないの！
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+TAR21(0)<Speaker>TAR-21</Speaker>||:どうやら、Uziも心が動いたようですわ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ちょっとだけね。バーサーカーに耐えられる人形なんて、そうそういないもん！
+AR(0)<Speaker>ガリル</Speaker>||:あはは？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+TAR21(0)<Speaker>TAR-21</Speaker>||:はいはい、お二人ともそこまで。+ネゲヴ、どうして黙っていらっしゃるのです？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……+戻って来なさい、ガリル。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||<震屏>:うわぁぁぁ！！！+ネゲヴが自分から言った！！！
+TAR21(0)<Speaker>TAR-21</Speaker>||:たしかに、未曾有の事態ですわね。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……+メンタルアップグレードにせよ、私たちの小隊へ戻って来るにせよ。//nきちんと考えておきなさい、ガリル。
+()||:ネゲヴは2枚のシートを差し出した。+一枚は部署異動の申請表、//nもう一枚はメンタルアップグレードの同意書だ。
+AR(0)<Speaker>ガリル</Speaker>||:……
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:それじゃ、私たちはこれで。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:え～！もっとガリルと話したいのに……うわぁ、引っ張んないでよぉ……
+()||<BGM>BGM_Empty</BGM>:ネゲヴは立ち上がり、Micro Uziを引きずってカフェテリアを離れた。//nタボールもガリルに別れを告げ、その場から立ち去った。+さっきまで賑やかだったテーブルに、ガリルだけが取り残された。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏1>:ネゲヴ……
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:……グリフィン宿舎にて。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ガリルのヤツ、なんでまだ戻って来ないのよ？
+TAR21(0)<Speaker>TAR-21</Speaker>||:急ぐことはありませんわ、彼女の答えを待ちましょう。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……+伝えるべきことは全部伝えたわ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:だよね。自分のチームに戻れなんて厚かましいお願いができるのも、//nネゲヴぐらいのものだし。
+TAR21(0)<Speaker>TAR-21</Speaker>||:おふざけはそこまでですわ。+誰かが来たような……
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:ガリル？
+()||<SE1>AVG_doorknock_wood</SE1><黑屏1><BGM>BGM_Empty</BGM>:（ノック音）――誰かが宿舎の扉を叩いた。
+()||<黑屏2><BIN>276</BIN><SE1>AVG_Door_Open_Close</SE1><BGM>m_avg_casual</BGM>:……スプリングフィールドのオフィスにて。+ガリルが扉を開け、入ってきた。
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:ガリルさん、何かご用ですか？
+AR(0)<Speaker>ガリル</Speaker>||:すまん、スプリングフィールド……
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:あら、来たばかりなのにどうして謝るんですか？
+AR(0)<Speaker>ガリル</Speaker>||:うち……
+()||:ガリルの手にあるシートを見て、//nスプリングフィールドは何かを察したようだった。
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:自分に相応しい場所は見つかりましたか？
+AR(0)<Speaker>ガリル</Speaker>;M1903(10)||:まぁな。
+AR(0);M1903(10)<Speaker>スプリングフィールド</Speaker>||:それは良かった。でも、なぜそんなお顔をなさっているのです？
+AR(0)<Speaker>ガリル</Speaker>;M1903(10)||:自分でもよぉわからん……+おかしいやろ？他人の事なら、何でもわかるのに……
+AR(0);M1903(10)<Speaker>スプリングフィールド</Speaker>||:とんでもない、ごく当たり前のことですわ。+ガリルさん、自分に一番適した場所とは、どこだと思いますか？
+AR(0)<Speaker>ガリル</Speaker>;M1903(10)||:自分にとって適任か、もしくは、居心地の良い場所やな。
+AR(0);M1903(10)<Speaker>スプリングフィールド</Speaker>||:それでしたら、ガリルさんには選択肢がたくさんおありのはずですわ。
+AR(0)<Speaker>ガリル</Speaker>;M1903(10)||:慰めんでええって。ここ何日か総務部にいただけで、//nどんだけ周囲に迷惑かけたか……
+AR(0);M1903(10)<Speaker>スプリングフィールド</Speaker>||:あら？私が耳にしたのは、正反対の評価でしたけれど。+新人なのに責任感があって、//n突発的な状況にも果敢に立ち向かえると、もっぱらの噂ですよ。
+AR(0)<Speaker>ガリル</Speaker>;M1903(10)||:あはは……
+AR(0);M1903(10)<Speaker>スプリングフィールド</Speaker>||:こちらの基準に則れば、あなたは合格ですわ、ガリルさん。+申し上げましたでしょう、あなたには選択肢がたくさんあると。+問題は、あなたがどういった基準で//n自分に適した居場所を選び出すか、です。
+AR(0)<Speaker>ガリル</Speaker>;M1903(10)||:客観的な基準を見つけるんは、難しそうやな……
+AR(0);M1903(10)<Speaker>スプリングフィールド</Speaker>||:客観的な基準なんて存在しませんわ。心の赴くままで結構。
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:ほら、あなたはもう、自分の答えを見つけているではありませんか。
+AR(0)<Speaker>ガリル</Speaker>||:人形に、心なんてあるんやろか……
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:さぁ、どうでしょう？
+()||:スプリングフィールドは頬杖を付きながら、思わせぶりなな笑みを浮かべた。
+AR(0)<Speaker>ガリル</Speaker>||:この質問の答えも、自分で探せってか……
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:ご名答。
+AR(0)<Speaker>ガリル</Speaker>||:おおきに、スプリングフィールド。+短い間やったけど、世話になったな……
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:よしてください。皆、あなたが大好きなんですから。+総務部への扉は、いつでも開かれておりますわ。
+()||<黑屏1>:ガリルは丁寧にお辞儀をして感謝を伝えた後、オフィスを離れた。
+()||<BIN>82</BIN><黑屏2>:……グリフィン宿舎にて。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:何人か来たけど、ガリルじゃなかった。+ガリル、本当に戻ってくるのかな？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:……
+TAR21(0)<Speaker>TAR-21</Speaker>||:ええ、きっと。
+()||<SE1>AVG_doorknock_wood</SE1>:宿舎のチャイムが再び鳴った。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:誰？言っておくけど、ネゲヴお嬢様はゴキゲンナナメなんだからね。
+()||<SE1>AVG_doorknock_wood</SE1>:来者は恐れず、もう一度チャイムを鳴らした。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:なかなかの勇士ね。
+TAR21(0)<Speaker>TAR-21</Speaker>||:ここはわたくしが。
+()||<SE1>AVG_Door_Open_Close</SE1>:ドアの前に立っていたのは、見慣れない人形だった。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ガ……
+ARMod(0)<Speaker>ガリル</Speaker>||:すんませ～ん、ガリルっちゅうモンやけど、+ネゲヴ小隊の集合場所はここでっか？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:そうよ。こんにちは、わたしはネゲヴ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:私はUzi！
+TAR21(0)<Speaker>TAR-21</Speaker>||:タボールとお呼びください。
+ARMod(0)<Speaker>ガリル</Speaker>||:ほな、これからよろしゅう頼んます。
+()||<黑屏1>:四人の人形は、お互いをきつく抱きしめ合った。//n今まで言えなかった感情も、抱擁を通じて相手に伝わった。

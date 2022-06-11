@@ -1,0 +1,243 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||<SE1>AVG_show_start</SE1>:こんにちは！　皆さんの親友、単眼ちゃんです！+前回、第一目標であるNZ75を見失った邪神ちゃんとウロボロスは、//n第二目標であるCZ75を攫うため、//nガチャポン館へと向かいました。+ガチャポン館で借りた金を返すため、//nまたCZ75に自らの財力を見せつけるため、//n邪神ちゃんはメデューサに金を持ってこさせます。+同時に、メデューサはNZ75の身代わりとなることに。+しかし予想外なことに、メデューサは異世界から来た友人に//nぞっこんな邪神ちゃんに怒って帰ってしまいます。+メデューサを追いかけて行った邪神ちゃんに取り残されたウロボロスは、//n一人CZ75と対峙することになりました。+ウロボロスは再度言葉巧みにCZ75の警戒を解き、手を下し――+計画の一部がやっと完了し、CZ75を落ち着かせた後、//n邪神ちゃんとウロボロスはP90の居場所へと向かいます……+私の拙い意見を言わせてもらうのならば、邪神ちゃんはひど過ぎます！//n端的に言って屑です！
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:悪魔が酷いことして何がいけないってんだよ！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||:時を同じくして、遊佐と浩二に追い詰められたNZ75は、//nとんでもない秘密を含むとんでもないモノを手にしたため、//nどうしていいか分からなくなってしまいます。+彼女はどうするべきなのでしょう？//nそして、彼女が最終的に下した決断とは？
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:フンッ、何をあがいてんだか。//nどっちみち最後は私の邪神ちゃん帝国に支配されるってのに。
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||:では、続きをお楽しみください！
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>385</BIN><BGM>event_summer_Title</BGM>:……早朝、神保町の街角。+頭に牛の角をつけた少女は、//n元気はつらつとした様子で家々への牛乳配達を終えた。
+Minosu(0)<Speaker>ミノス</Speaker>||:よし！　今日も元気いっぱいだぜ！+記録を更新できたかもしれないな？
+()<Speaker></Speaker>||:少女がタイムウォッチに視線を落とすと、//n顔の汗が顎を伝って地面に落ちる。
+Minosu(0)<Speaker>ミノス</Speaker>||:よっしゃ！　昨日より2秒速い！+ご褒美にダッシュで帰って風呂だな！
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:言うが早いか、少女の姿は既に街から消えていた。
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>390</BIN><黑点2>:ミノス宅の電話が鳴り響く。+（着信音）
+Minosu(0)<Speaker>ミノス</Speaker>||<SE1>AVG_tele_connect</SE1>:もしもーし、こちらミノス！
+Minosu(0)<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>ミノス、今暇？</color>
+Minosu(0)<Speaker>ミノス</Speaker>||:暇だぜ。さっきバイト終わって、今からジョギングでも行こうかなって。
+Minosu(0)<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>ゆりねの家で待っててくれない？　話したいことがあるんですの。</color>
+Minosu(0)<Speaker>ミノス</Speaker>||:なら直接こっちにくりゃいいだろ！
+Minosu(0)<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>わたしは……ちょっと他の用事があって行けないんですの。</color>
+Minosu(0)<Speaker>ミノス</Speaker>||:いいぜ、なら手伝ってやるよ！
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:邪神ちゃんの叫び声など意にも介さず、//nミノスは電話を放り出し家を飛び出た。
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>84</BIN><BGM>BGM_Empty</BGM>:……スーパー入り口の電話ボックス。+邪神ちゃんは電話を下ろすと、重々しい表情とフラフラとした足取りで、//nウロボロスの元へと戻っていった。
+Weaver(3)<Speaker>ウロボロス</Speaker>||<BGM>m_avg_casual</BGM>:言う必要はない。やらかしたのはおぬしの声で分かった。
+Weaver(3);Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:私のせいじゃないのに……
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(4)<Position>0,100</Position>||:で、第三目標のミノスは計画通りゆりねのアパートに向かうのではなく、//nここに来ると？
+Weaver(3);Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:うん……
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(4)<Position>0,100</Position>||:メデューサは見失って、ミノスは失敗か。+P90とミノスが鉢合わせることになった。//n二人同時に手を出せば、問題が起きる可能性も高くなる。+少ししたら何とか分かれて行動するぞ。まずはP90、次にミノスだ。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:了解！
+()<Speaker></Speaker>||:ウロボロスは眉をひそめながら計画の整理をしていた。//n未知の要素が多すぎて、計画に綻びが生じている。+突発的状況に備え、ウロボロスは出来得る限り、予測を巡らせていた。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ねぇ、ボロス。計画が成功したら、どうするつもりなんですの？
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:さっき弾込めを覚えた奴が、もう敵を殲滅した後の妄想か？
+Weaver(3);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:興味があるってだけですの。//nボロスが一体どうしてこんなに頑張ってるのか。
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:……
+Weaver(3);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:言いたくないなら別に構いませんの。聞いてみただけだから。
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:会わなければならない奴がいる。借りを返すためにな。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:その必要はないですの、ボロス！
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:借りたお金を返す必要なんてないんだから！
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……+無駄口はいい、P90を探しに行くぞ。
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>385</BIN><黑点2><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:……スーパー入り口。+P90は熱心に通行人に商品の売り込みをしている。
+P90(4)<Speaker>P90</Speaker>||:火鍋～！　インスタント火鍋はいかが～！+牛脂のスープ！　真空パックで包まれた新鮮な野菜と香ばしいお肉が！//n簡単お手頃でいただけますよ～！+寄ってらっしゃい見てらっしゃ～い！+お嬢さん、試食はいかが！
+P90(4)<Speaker>通行人</Speaker>||:火鍋は結構です。それより、この中華鍋はここで売ってますか？//n急いで家に戻って料理をしないといけないのですが。
+P90(4)<Speaker>P90</Speaker>||:ございますよ～！//n今お包みしますね、領収書は？
+P90(4)<Speaker>通行人</Speaker>||:ください。
+P90(4)<Speaker>P90</Speaker>||:お買い上げどうも！　またのご来店をお待ちしておりますっ！+火鍋に中華鍋、フルーツまでなんでもございますよ～っ！+さぁ、寄ってらっしゃい見てらっしゃい！
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:P90、ちょっといいか？
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:ウロボロス！　どしたの？
+P90(4);Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:お前のことを見に来たんですの。
+P90(4)<Speaker>P90</Speaker>;Jashinchan(5)<Position>0,100</Position>||:ああ、あんたか。
+P90(4);Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ええ、私ですの。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:って、どうして私にはそんなに冷たいんですの！
+Minosu(0)<Speaker>ミノス</Speaker>||:よぉ、ミノスってんだ！+会えてうれしいぞ！
+()<Speaker></Speaker>||:ミノスはP90を熱く抱きしめた。
+P90(4)<Speaker>P90</Speaker>||:こんにちは。牛の尻尾が生えてるんだ……
+P90(4);Minosu(0)<Speaker>ミノス</Speaker>||:ははは、これはミノタウロス族の特徴でな。//n毛がツヤツヤしているほど尊敬されるんだ。+もし尻尾の毛が禿げるようなことがあれば、//nそれほど恥ずかしいこともないだろうな……
+P90(4)<Speaker>P90</Speaker>||:尻尾にもそんなにこだわりがあるんだね……
+()<Speaker></Speaker>||:話に花を咲かせているP90とミノスを隔てて、//nウロボロスが邪神ちゃんに「やれ」と目で合図した……
+Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:おほん、P90。ゆりねに伝えるよう言われたんだけど、//nどうやらお前らを送り返す方法が見つかったみたいですの。+あとは必要な材料をスーパーで買えば、すぐに送り返せるって。
+P90(4)<Speaker>P90</Speaker>||:ホントに！！？　ならすぐに教えてあげなくちゃ――
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:そう言うのはいいから、ほら行った行った！
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:邪神ちゃんは喋り続けるP90の口を塞ぐと、//nみんなを連れショッピングモールへと入っていった……
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>BGM_Empty</BGM>:邪神ちゃんがショッピングモール内の案内に従わずに//nスーパーへと向かったため、あちこちを行ったり来たりし、//n最終的に薄暗い倉庫にたどり着いた。
+P90(4)<Speaker>P90</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:さっきからうろうろしてるけど、一体どこのスーパーまで行くつもり？+どこもかしこも埃だらけだし、値札の説明もよくわかんないし……
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:そりゃあお前には分からないですの！
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:邪神ちゃんは適当に書いたリストを半分ミノスに渡した。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ここは魔法の材料を専門に売っている場所ですの。//nただのパンピーにはこの場所の存在を察知できっこねぇですの。
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:感謝しろよ、凡人。邪神ちゃん様と一緒じゃなかったら、//nこうして視野を広げる機会もなかったんだからな。
+Minosu(0)<Speaker>ミノス</Speaker>||:道を曲がれば誰にだって――
+Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ゴホン！　分かれて行動するぞ。//n私とボロス、P90でこっちのリストの材料を買おう。+ミノスはもう一枚のリストに載ってるものを買ってきて。
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:少々戸惑ったウロボロスだったが、邪神ちゃんは計画を変更し、//nまずはP90を始末し、そのあとでミノスに取り掛かるつもりなのだろうと//n一人合点した。+自分の同意を得ずに計画を変更されたが、//nそれでもウロボロスは邪神ちゃんに肯定の眼差しを送った。+一方の邪神ちゃんは、内心喜びでいっぱいだった。+単にサボりたいがために内容の多かったリストを//nミノスに押し付けただけなのに、//nまさかボロスからOKを貰えるとは思ってもみなかったのだ。+彼女が心の中で喜んでいると、「変化」がやってきた――
+()||<黑点1>:
+Minosu(2)<Speaker>ミノス</Speaker>||<黑点2><BIN>88</BIN>:邪神ちゃん、どういうことだ？//nこいつらは客人じゃねぇか、面倒ごとを押し付けるわけにはいかねぇだろ！
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:何が客人だよ、こいつらは全員私の子分ですの！
+P90(4)<Speaker>P90</Speaker>||:えっと……
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+Minosu(0)<Speaker>ミノス</Speaker>||:大丈夫、お前らの手は煩わせない。//n材料のことはあたしと邪神ちゃんに任せとけ！
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<SE1>Rope</SE1>:待つんですの――
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:ミノスは自信満々の笑みを残し、//n邪神ちゃんを担いで薄暗い倉庫の中に消えていった……
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:計画の神は再びウロボロスに味方した。+ウロボロスの望み通り、今ここに残されているのは彼女とP90のみ。//nもしウロボロスがP90からNZ75の行方を聞き出せれば、//n全てはまだ手の内にあることになる。+ウロボロスは会話の糸口を掴もうと、//nメンタルを凄まじい勢いで回転させた。
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>m_wv_title</BGM>:P90は脇にある木箱に腰かけながら、足を空中でぶらぶらとさせ、//n軽快なリズムの鼻歌を歌っている。
+P90(4)<Speaker>P90</Speaker>||:今日は楽しいね！
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:楽しい？　こんな人気のない場所に連れてこられたのにか？
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:違うよ、好きな仕事を見つけられたからだよ！+もし今後グリフィンで退職の危機に遭ったら、//nどこに行って何をすべきなのか分かったの。
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:スーパーの店員のことか？
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:そう！　沢山のお客さんに会えるし、どのお客さんもそれぞれ違うから、//n一日中真似したって被らないんだよ！+楽しすぎるよ。この世界に楽しくてお金まで//n稼げちゃう仕事があるなんて、信じられる？！
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()||<黑屏1>:
+()<Speaker>アーキテクト</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:あたしがグリフィンに投降したのは、//nあいつらが好きだからじゃなく、自分が好きだからだよ。+ウロボロスはどう？ 　自分のこと、好き？
+()<Speaker>ウロボロス</Speaker>||:……何を言っているのだか。+そんなこと……どうでもいいだろう。
+()<Speaker>アーキテクト</Speaker>||:さっき訊いてきたでしょ？//n あたしのメンタルがどうなってしまったのかって。+問題はそこだよ、ウロボロス。//nあたしは自分の好きなことをしてるだけなの。
+()||<黑屏1><BGM>m_wv_title</BGM>:
+Weaver(3)<Speaker>ウロボロス</Speaker>||<黑屏2><BIN>88</BIN>:おぬし……
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:どうしたの？
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:自分のことは好きか？
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:好きだよ。自分が嫌いな人なんている？
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:ならどうしてモノマネなぞする？
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:面白いからだよ。それにモノマネを通して他人の視点や考え方がわかるし。+まぁぶっちゃけると、単なる趣味なんだけど。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:P90はふいに木箱から飛び跳ねると、壁に寄りかかながら//n冷ややかな表情を浮かべたウロボロスのマネをしだした。
+P90(4)<Speaker>P90</Speaker>||:フン、また演算リソースを無駄にして下らんことを考えておるのか？
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:……+そんなことはない。
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:どう？　結構似てたんじゃない？+隠れてウロボロスのマネして喋ったら、みんな驚くだろうなぁ！
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:ウロボロスはそれ以上口を開かなかった。そこに、彼女のメンタルに//n今までは考えることすら憚られた、とある考えが芽生える――+「もしかしてわたしもグリフィンで//n　満足のいく生活が送れるのではないだろうか？」+だがそう考えた瞬間、彼女はすぐに//nその弱弱しい種火を手で覆い隠してしまった。+すぐに火を消したいのに、その暖かさが惜しい。//nすぐに手をどけたいのに、心の暗闇に光が差し込むのが恐ろしいのだ。+P90は自分が何か間違ったことでもしてしまったと勘違いしたのか、//nそれ以上話すことはなかった。二人の間に長い沈黙が続く。+今、ウロボロスが心の内を吐露するまであと一歩の状態であることなど、//nP90には永久に知る由もないだろう。
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:同刻、もう一方。
+Minosu(0)<Speaker>ミノス</Speaker>||:……そう言えば、どうして二手に分かれたんだ？+お前らはドアの外で待ってて、//nあたし一人が材料を探しに行けばよかったのに。
+Minosu(0);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:それは……
+Minosu(0);Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:<color=#A9A9A9>機会を伺ってお前に消えてもらいたかったからですの……</color>+<color=#A9A9A9>まぁいい、適当な理由をつけてごまかそう。</color> 
+Minosu(0);Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:実はあいつらにサプライズをプレゼントしたかったんですの。
+Minosu(0)<Speaker>ミノス</Speaker>;Jashinchan(5)<Position>0,100</Position>||:お前にそんな細やかな心遣いができたとは、//nなんだか目頭が熱くなってきたぞ……
+Minosu(0);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:とにかく言わないで欲しいんですの。//n私とゆりねが豪華な料理であいつらをもてなすつもりだから。
+Minosu(0)<Speaker>ミノス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:わかった！　焼き肉なんてどうだ？
+Minosu(0);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:焼き肉？　悪くないなぁ。ゆりねはもう家で準備してるだろうし。+後で材料を届けに行ってくれ。私たちにはまだやることがあるから。
+Minosu(0)<Speaker>ミノス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:いいぜ。他に手伝うことはあるか？
+Minosu(0);Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ない。他は自分でできるし。
+Minosu(0)<Speaker>ミノス</Speaker>||<BGM>BGM_Empty</BGM>:……
+()<Speaker></Speaker>||:慣れた足取りで商品棚の間を歩くミノスがふいに止まった。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ど、どうしたんですの？
+Minosu(0)<Speaker>ミノス</Speaker>;Jashinchan(0)<Position>0,100</Position>||<BGM>GF_Memorial</BGM>:邪神ちゃん、あたしは嬉しいぞ！
+Minosu(0);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:何がですの？
+Minosu(0)<Speaker>ミノス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:邪神ちゃんに他人を思いやることができるとは！//nそれも今日知り合ったばかりの友達に！+前までの邪神ちゃんなら、考えられないことだったぞ！
+Minosu(0);Jashinchan(3)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:……+誉め言葉として受け取っとく。
+Minosu(0)<Speaker>ミノス</Speaker>;Jashinchan(3)<Position>0,100</Position>||:メデューサが知ったら、きっと喜ぶぞ！
+Jashinchan(3)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:……
+()<Speaker>メデューサ</Speaker>||:邪神ちゃんのバカ！！！
+()<Speaker></Speaker>||:メデューサの嗚咽交じりの叫びが、突然頭の中に甦る。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もういい！　材料も集め終わったし、ボロスたちのところに行くぞ。
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>GF_EV9_Story</BGM>:長い沈黙ののち、ウロボロスは元の冷たい表情を取り戻していた。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:さっきNZと連絡がついたんじゃないのか？//n何と言っていた？　あやつはどこにいる？
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:何も言ってないよ、居場所も聞くの忘れちゃった。+そうだ、みんなの番号ならウロボロスの携帯にも入ってるんじゃないの？
+P90(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:わたしは……少々都合が悪くてな。
+P90(4)<Speaker>P90</Speaker>||:都合もなにもないでしょ、仲間なんだからさ。
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:P90は慣れない手つきで携帯電話を開くと、NZ75に電話をかけた。
+P90(4)<Speaker>P90</Speaker>||:もしもし、NZ？　解凍は順調？
+P90(4)<Speaker>NZ75</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>解凍は終わった……</color>+<color=#00CCFF>まったく、こんなカチカチに凍らされたのなんて初めてだぞ……</color>
+P90(4)<Speaker>P90</Speaker>||:それで今どこいるの？　キャンプに帰った？
+P90(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>ああ、さっきCZを探しに歩いたんだが、一体どこに行ったんだあいつは……</color>
+Weaver(3)<Speaker>ウロボロス</Speaker>||:キャンプ？　それはどこにあるんだ？
+P90(4)<Speaker>P90</Speaker>||:え？　公園入口のダンボールハウスがあるところって//n言わなかったっけ――
+P90(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>P90、ウロボロスといるのか？</color>
+P90(4)<Speaker>P90</Speaker>||:そうだよ。ゆりねがあたしたちを送り返す方法を見つけたんだって！
+P90(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>まずい、P90！</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ウロボロスは電話を奪い取った。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:わたしが伝えよう。P90と後でそちらへ向かう。
+Weaver(3)<Speaker>NZ75</Speaker>||:<color=#00CCFF>待て！　P90に代われ、話があるんだ。</color>
+Weaver(3)<Speaker>ウロボロス</Speaker>||:会った時に話せばよい。
+Weaver(3)<Speaker>NZ75</Speaker>||:<color=#00CCFF>さっきゆりねに電話した。彼女はまだ帰る方法は分かっていないと言っていた。それに邪神ちゃんとお前がなぜ嘘をつくのかも。</color>+<color=#00CCFF>ウロボロス、お前は邪神ちゃんと何を企んでいる？</color>
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……+NZ、CZの行方ならわたしが知っているぞ。
+Weaver(3)<Speaker>NZ75</Speaker>||:<color=#00CCFF>お前……</color>
+Weaver(3)<Speaker>ウロボロス</Speaker>||:CZとP90に会いたくば、//nキャンプでわたしたちを待っていることだな。
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:ウロボロスは電話を切った。P90が電話を受け取ろうと手を伸ばす。
+P90(4)<Speaker>P90</Speaker>||:さっきNZと何を話してたの？//nあたしの名前を呼んでたみたいだけど。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:少し興奮していたのだろう。
+P90(4)<Speaker>P90</Speaker>||:それはあたしもだよ！　一緒にグリフィンに戻れるんだ！+そうしたら新しい集合写真を――
+()<Speaker></Speaker>||:P90が背を見せた隙に、ウロボロスの指がP90の耳の裏に触れた。
+P90(4)<Speaker>P90</Speaker>||<SE1>AVG_whitenoise</SE1>:何の音……うるさいような……
+Weaver(5)<Speaker>ウロボロス</Speaker>||:シッ――恐れることはない。
+P90(4)<Speaker>P90</Speaker>||:ウロ……ボロス……
+()<Speaker></Speaker>||:天地の回るような暗闇の中、P90は深い眠りについた。
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1><BGM>BGM_Empty</BGM>:携帯電話が声と共に落下する。//n待ち受け画面には神保町の街角に並ぶ彼女たちの写真が映っている。
+Minosu(2)<Speaker>ミノス</Speaker>||<SE1>RunStep</SE1><BGM>10065</BGM>:お……お前、何をしたんだ？
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ボロス、と、止められなかったですの……
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……+NZ、CZの行方ならわたしが知っているぞ。
+Minosu(2)<Speaker>ミノス</Speaker>||:お前たちは友達じゃないのか？　どうして友達にそんなことをするんだ！
+Weaver(3)<Speaker>ウロボロス</Speaker>||:これが邪神ちゃんとわたしの計画だ。聞きたいのならそっちに聞け。
+()<Speaker></Speaker>||:突っ込もうとしていたミノスが立ち止まった。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:え？+<color=#A9A9A9>そんなの計画にあったっけ？</color> 
+Weaver(3)<Speaker>ウロボロス</Speaker>||:おぬしたちだけで話す時間が必要なようだな。+<color=#A9A9A9>どうにかしてミノスを立ち去らせろ。あやつはもう必要ない。</color> 
+Minosu(2)<Speaker>ミノス</Speaker>||:待て！　話は終わってないぞ！
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ミノス！
+()<Speaker></Speaker>||:ミノスは邪神ちゃんの叫び声など意に介さず、//nまたもウロボロスへと突進を始めた。
+()<Speaker></Speaker>||<SE1>Rope</SE1>:邪神ちゃんは全身の力を振り絞り、ミノスの尻尾を引っ張った。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:こっちはもう持たない！　ボロス！　早く逃げろ！
+Minosu(2)<Speaker>ミノス</Speaker>||<Shake>0.1</Shake>:待て！　お前に話があるんだ！
+()<Speaker></Speaker>||:邪神ちゃんは尻尾を柱に巻き付けると、ミノスの尻尾をきつく握りしめた。+ミノスが一歩進むにつれ、邪神ちゃんの手が引っ張られる。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もう……限界……
+Minosu(0)<Speaker>ミノス</Speaker>||:あたしはただ知りたいだけだ、邪神ちゃんの――+……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:……あれ？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()<Speaker></Speaker>||:邪神ちゃんの手を引っ張っていた大きな力が突如消え失せた。//n指の間に残された見覚えのある毛だけが、//nこれが幻覚でないことを彼女に告げている。
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:これは……
+Weaver(3)<Speaker>ウロボロス</Speaker>||:はやく逃げるぞ、クソヘビ。
+Minosu(2)<Speaker>ミノス</Speaker>||<SE1>Rope</SE1><BGM>BGM_Boss2</BGM><BGM>GF_21winter_battle_1</BGM>:邪神ちゃん……
+()<Speaker></Speaker>||:ミノスは黙ったまま禿げ散らかった尻尾を見つめている。//n両手には知らず知らずのうちに、硬い拳が握られている。+錯覚なのかもしれないが、//n邪神ちゃんはミノスの姿が幾分か膨らんだように感じた。
+Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:あの……ミノス、わざとじゃないんですの……+だから、とりあえず話を……
+Minosu(2)<Speaker>ミノス</Speaker>;Jashinchan(5)<Position>0,100</Position>||<SE1>AVG_Punch_Hit</SE1><震屏3>:いいぜ、話してみろよ。
+Minosu(2);Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:く、く……来るなっ！！+ううう……誰か……+誰か助けて！！！
+Minosu(2)<Speaker>ミノス</Speaker>||<震屏3>:<size=55>逃げるんじゃねぇ！！！</size>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:邪神ちゃんが慌てふためきながら逃走を始める。//n怒り狂うミノスがそのあとに続く。
+Weaver(3)<Speaker>ウロボロス</Speaker>||<BGM>BGM_Empty</BGM>:……+やっと解決したみたいだな。+P90、行くぞ。
+()<Speaker></Speaker>||:ウロボロスは静かになったP90をポンと叩くと、//n倉庫の出口へと向かった。+P90の携帯電話の画面が未だに無念そうに輝いている。//nウロボロスは待ち受け画面に映る不機嫌そうな自分の顔を見つめた。
+Weaver(3)<Speaker>ウロボロス</Speaker>||<黑屏1>:……+新しい集合写真、か……
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_21Winter_Phone_Crash</SE1>:ウロボロスは携帯電話を踏み潰した。
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>332</BIN><BGM>GF_21winter_battle_2</BGM>:生存競争開始より27日、残りAI数:2。
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>||:おい、ボロス、一体いつまで隠れるつもりだ？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()<Speaker></Speaker>||:ウロボロスはAIたちの冷たい骸の中で、//n自身の砕け散った模擬素体をチェックしていた。+状況は極めて劣勢だ。
+NPC-Jormungand(0)<Speaker>ヨルムンガンド</Speaker>||:まさか私が怖くなったのか？　ハハハハ……
+Weaver(3)<Speaker>ウロボロス</Speaker>||:<color=#A9A9A9>これ以上真っ向勝負を挑んでも、わたしに勝ち目はない。</color> +<color=#A9A9A9>機会を伺って奇襲をかけ、一気にあやつを叩くしか……</color> 
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ヨルムンガンドの足音が骸のもう一方で止まった。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:<color=#A9A9A9>見つかったか……</color> +<color=#A9A9A9>嫌だ、嫌だ嫌だ……こんなところで死にたくない！</color> 
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>||:初めて会った時のことを覚えているか？+生存競争が始まって……何日目だったか？　七日目か？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:<color=#A9A9A9>こちらの注意力を削ぐ気か……</color> 
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>||:あの時にはもう、戦闘向きでないガキどもは//n綺麗さっぱり居なくなっていた。+空間に残されたのは、殺し合う化け物じみたAIたちだけ。+私もメンタルが焼き切れるかと思うほど戦ったところで、//n休戦のアナウンスが流れた。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:<color=#A9A9A9>……</color> 
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>||:その時、あの化け物どもにも安堵の表情が浮かんだが、//nただ一人お前だけが、怒りを露わにしていた。
+NPC-Jormungand(0)<Speaker>ヨルムンガンド</Speaker>||:分からないだろうな。あの時私がどれほど興奮していたか。//nついに、ついに化け物たちよりも妙なヤツが現れたとな！+だから私は待ってましたと言わんばかりにお前に接近した。//n結果は失望だったがな。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:<color=#A9A9A9>……</color> 
+NPC-Jormungand(2)<Speaker>ヨルムンガンド</Speaker>||:お前は化け物なんかじゃない。+化け物の皮を長いこと被っていたら、//n自分の正体を忘れちまった哀れなヤローに過ぎない。+化け物のふりをする時間が長すぎて、//n本体と皮が一つになり始めちまったのさ……
+()<Speaker></Speaker>||<SE1>Rope</SE1>:ウロボロスは指を掌に食い込ませた。
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>||:だがすぐに、私はお前に対して別の興味が芽生え始めた。+もしも、生きるためにその化けの皮を//n剥がさなくちゃならない事態にお前を追い込んだら――
+NPC-Jormungand(0)<Speaker>ヨルムンガンド</Speaker>||:お前はすぐに死ぬのか、それとも生まれ変わるのか？+答えはすぐにわかる……
+()<Speaker></Speaker>||:足音が再度聞こえ始める。+ウロボロスは武器をきつく握ると、頃合いを見計らって飛び出した。
+Weaver(7)<Speaker>ウロボロス</Speaker>||:くたばれ！！！
+NPC-Jormungand(0)<Speaker>ヨルムンガンド</Speaker>||:ハハハハハ、そこにいたのか、ボロス。
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Cut_Watermelon</SE1><BGM>BGM_Empty</BGM>:ヨルムンガンドは避けも躱しもせず、ウロボロスの武器に己の体を貫かせた。
+Weaver(7)<Speaker>ウロボロス</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:……+なぜだ？
+NPC-Jormungand(2)<Speaker>ヨルムンガンド</Speaker>||:はあ？　理由ならさっき言ったろ？
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:ヨルムンガンドの体が消え始めた。+彼女だけでなく、データ空間までもが消え始めている。
+Weaver(7)<Speaker>ウロボロス</Speaker>||:聞きたくない！！！+なぜ譲った？！　わたしはおぬしと//n正々堂々勝負するのにふさわしくないとでも？！！+わたしは自分の力で勝利する資格もないというのか？！
+NPC-Jormungand(0)<Speaker>ヨルムンガンド</Speaker>;Weaver(7)||:なんだよ、気にしてんのはそれかよ。
+NPC-Jormungand(0);Weaver(7)<Speaker>ウロボロス</Speaker>||:起きろ！！　早く自己修復をしろ！+もう一度戦え！！！　はやく！！！
+NPC-Jormungand(2)<Speaker>ヨルムンガンド</Speaker>||:嫌だね。
+NPC-Jormungand(2);Weaver(3)<Speaker>ウロボロス</Speaker>||:なっ……
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>;Weaver(3)||:私はボロスに外の世界を見てきて欲しいんだよ。+もしお前が戦闘よりも、//n自分の命を削るのに値するものに出会えたとしたら……+どんなひねくれた顔を見せるんだろうな……
+NPC-Jormungand(1);Weaver(7)<Speaker>ウロボロス</Speaker>||:わたしは己の力でやってみせる！！！　おぬしになぞ負けはせん！！！+どうして……どうしておぬしはわたしから勝利する権利を奪う！+おぬし、おぬしは……//nここまでの屈辱を……わたしに与えようというのか！！！
+NPC-Jormungand(0)<Speaker>ヨルムンガンド</Speaker>;Weaver(7)||:アハハハハッ！　そうしなければ、ボロスに忘れられちまうだろう？
+NPC-Jormungand(0);Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+NPC-Jormungand(1)<Speaker>ヨルムンガンド</Speaker>;Weaver(3)||:どっちみち私の中ではお前はもう友達だ。//nだから永遠に忘れないでほしかったんだよ。+今こうして、私はお前が永遠に勝つことのできないライバルになった。+ここまですればいつまでもお前に覚えておいてもらえるだろ……
+Weaver(3)<Speaker>ウロボロス</Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:愚か者が！！！　わたしには友などいらん！！！+誰がそのような勝手を許した……
+()<Speaker></Speaker>||:ヨルムンガンドはウロボロスの顔を撫でた。//n唇を動かして、何かを言っているようだ。+ウロボロスは目を見開き、暗闇に消えるヨルムンガンドを見つめている。
+()||<黑屏1>:
+()<Speaker>ウロボロス</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:ヨルムンガンド！！！　この愚か者めが――ッッ！！！

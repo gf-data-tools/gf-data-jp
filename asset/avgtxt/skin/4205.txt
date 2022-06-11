@@ -1,0 +1,137 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>新たな通信リクエストです。</color>
+MG36(0)<Speaker>Gr MG36</Speaker>||:つまり、家具を売って経費にするってこと？
+JS9mm(2)<Speaker>JS 9</Speaker><通讯框>;MG36(0)||:<color=#00CCFF>そう、販売を任せてもいい？</color>
+JS9mm(2);MG36(0)<Speaker>Gr MG36</Speaker>||:私、後方勤務のほうが適してると思ってたけど……//n頼まれたからにはきちんと遂行するわ。+出来る限りの事はするから。
+JS9mm(2)<Speaker>JS 9</Speaker>;MG36(0)||:<color=#00CCFF>それじゃ、お願いね。</color>
+MG36(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>通信終了。</color>
+MG36(0)<Speaker>Gr MG36</Speaker>||<黑屏1>:さて……限られたスペースの中で、これを並べないとね。+ただ置くだけなら、何も難しくない。
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Empty</BGM>:10分後。
+NPC-PasserbyF(0)<Speaker>通行人</Speaker>||<BGM>BGM_Room</BGM>:見て、あっちのブースは開放されてるわ！行ってみない？//nもしかしたら、さっきの「銀杏お嬢さん」みたいにスゴいかもよ？
+NPC-PasserbyF(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:一体どうなってんだ、この展示会は？準備中に客を入れる奴があるか。+まぁ、とにかく行ってみよう。
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:いらっしゃいませ。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:……
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:何かご入用ですか？
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||<BGM>BGM_Empty</BGM>:あの……この机はどうして床に置かれてるの？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||<BGM>m_avg_casual</BGM>:それは私たちの航行中におけるダッシュボードです。//nこれがあれば、私たちが冬眠から目覚めたときでも、//n目前の状況を即座に把握することができます。
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker><Shake>||:ダ、ダッシュボード？+なら計器はどこにあるの？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:あなたの操作ガイドの中です。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:なんだこのメチャクチャなブースは、まるで露店だ。//n立派な家具が台無しじゃないか……うぉっと！+なんだこれ……どうして提灯が床に転がってるんだ！？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:スマートダストボックスのことでしょうか？
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:え？スマート……ダストボックス？これが？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:はい。夜間にほんのりと発光することで、ゴミの捨て間違いを防止します。+さらに、上部のマーブル模様は食べ物を浪費する際の//n心理的圧力を軽減する効果があります。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:……なんだそりゃ？それっぽい事を並べ立ててはいるが、//nこのゴミ箱、どう見ても紙だぞ？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:使い捨て出来る点も、セールスポイントのひとつです。//nこの中に好きなだけ不要な物を捨てることができます。//n最悪な情緒や不味い食べ物。+そして、これを握れば……
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:提灯のスイッチを使って……どうするんだ？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:（電気が消える音）+こうすれば、ダストボックスの中の完全燃焼装置が作動し、//nあなたの捨てたありとあらゆる物を焼き尽くすことができます。
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:え……完全に燃やしちゃうってことは、//n一度捨てたら、二度と回収できないってこと？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:そうです。ですから、物を捨てる前に、きちんと考えなくてはなりません。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:なるほど言われてみれば……最近の家具はユニークだなぁ～+……って、ちょっと待った。//nどう見たってただの提灯だろ！危うく騙されるところだ！
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:いえ、スマートダストボックスですよ。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:んなわけあるか！客をおちょくってるのか！？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:存在とは即ち、必要性を有していることに他なりません。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:実用性はどこにいったんだ？こんなもの、すぐに破けて終わりだぞ！
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:この世に壊れない物などありません。命がいずれ終わるのと同じように。
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:それもそうね……じゃなくて、そんなの品質問題の言い逃れじゃないのよ！？
+MG36(0)<Speaker>Gr MG36</Speaker>||:家具の品質は保証いたします。正しい用途でお使い頂ければ、ですが……
+()<Speaker></Speaker>||:MG36と客とが討論を交わしていると、周囲に人がどんどん集まってきた。
+JS9mm(2)<Speaker>JS 9</Speaker>||:皆様、申し訳ございません！こちらのブースを設営し直しますので、//nまずは他のエリアをご覧いただけますでしょうか！
+JS9mm(2)<Speaker>客たち</Speaker>||:えー、面白いところだったのに……
+JS9mm(2)<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:人々は残念そうに散っていった。
+MG36(0)<Speaker>Gr MG36</Speaker>||<黑点2><BGM>BGM_Hello</BGM>:……JS 9、何をそんなに急いでるの？
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:あなた、大勢の人に囲まれてたのよ、気付かなかったの？+ここにたどり着くだけで一苦労だったわ。
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:お疲れ様。それで、どう設営し直すの？
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:もしかして、本当にこの家具の使い方、分かってない……？
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:適切な使い道を見つけたつもりだけど。
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:会話は聞いたわ……あ～もう、どう説明したものか……+物は使うためにある、もちろんあなたの使い方でも構わないけど……+製品は、本来ニーズに順応して製造されたものなの。
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:歯磨き粉は人間の歯を綺麗にはできないけど、他に色んなことが出来るわよ。
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:それは例外。+ほら、この提灯をゴミ箱なんかに使ったら、どうなると思う？
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:すぐに破れるわね、あの陶器のほうがまだマシだわ。+あれをゴミ箱に使うの？
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:あれは花瓶よ。
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:他には入れられないの？
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:容量が少なすぎるわ。あれは花を挿すためのものなのよ。
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:わかったわ。
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:うん……これでいいわ。+どう思う？
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:さっきよりかは秩序立ってるように見えるわ……まるで普通の生活みたい。
+MG36(0);JS9mm(2)<Speaker>JS 9</Speaker>||:良かった。+先に行くわね、頑張って！
+MG36(0)<Speaker>Gr MG36</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:さよなら。
+MG36()<Speaker>Gr MG36</Speaker>||<BIN>9</BIN><黑点2><黑点1><BGM>BGM_Room</BGM>:……家具は生活のために造られた。私は使われるために生まれてきた。+私も家具の一種なの？
+路过的孩子()<Speaker>通りすがりの子供</Speaker>||<BIN>139</BIN><黑点2>:そいつを捕まえろ！！
+？？()<Speaker>？？</Speaker>||:チュ―チュ―！！
+路过的孩子()<Speaker>通りすがりの子供</Speaker>||:フゥ……フゥ……逃がすなよ！そのネズミ、でっぷり太ってんだからな！
+？？()<Speaker>？？</Speaker>||:チュ――！
+MG36(0)<Speaker>Gr MG36</Speaker>||:（機械音）……10の平方根は3.162277660168379……10の自然対数は0.434294481903252……いえ、つまり、10を底として、eの対数は……
+MG36(0)<Speaker>？？</Speaker>||:チュ？
+MG36(0)<Speaker>Gr MG36</Speaker>||:……ハムスター。
+MG36(0)<Speaker></Speaker>||:MG36が足元を見ると、一匹のハムスターが彼女を見上げていた。//n彼女が腰を曲げるのを見ると、ハムスターは勢いよく走り出し……
+MG36(0)<Speaker>Gr MG36</Speaker>||:待って、まだ開けてな……+あ、気絶しちゃった。
+MG36(0)<Speaker>通りすがりの子供</Speaker>||:うわっ、店員のねーちゃん！
+MG36(0)<Speaker>Gr MG36</Speaker>||:こんにちは、何かお手伝いしましょうか？
+MG36(0)<Speaker>通りすがりの子供</Speaker>||:超ドデカいネズミ見なかった？
+MG36(0)<Speaker>Gr MG36</Speaker>||:超ドデカいネズミ？
+MG36(0)<Speaker>通りすがりの子供</Speaker>||:そう、スゲー太ってんだぜ！+台に縛り付けて、何発ロケット弾を当てれば昇天するか試してたら、//nアイツ逃げやがったんだ！
+MG36(0)<Speaker>Gr MG36</Speaker>||:「超ドデカい」ネズミは見てないわね。+どうしてそんな実験を？
+MG36(0)<Speaker>通りすがりの子供</Speaker>||:面白いからに決まってんだろ。
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:アンタ……ここにいたの！？どんだけ探したと思ってんの！//nパパもママ、ブチ切れ寸前だからね！？
+MG36(0);NPC-PasserbyF(0)<Speaker>通りすがりの子供</Speaker>||:げっ、ねーちゃん！
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:さっさと行くよ、パパの足、もう限界だって！
+MG36(0);NPC-PasserbyF(0)<Speaker>通りすがりの子供</Speaker>||:ちぇっ……しょーがねーな、クソ……
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||<BGM>BGM_Empty</BGM>:お気をつけて。
+MG36(0)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:客を見送った後、MG36は少し足の位置をずらした。//n気絶していたハムスターが、彼女のかかとに抱き着いたまま震えている。
+MG36(0)<Speaker>Gr MG36</Speaker>||:怖がらないで。あなたは「でっぷり太って」なんかいない。
+MG36(0)<Speaker>ハムスター</Speaker>||:チュー……
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:おっ、やっと再開したか！+で、この提灯はいくらだ？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:……人が来た。ビスケットをあげるから、ここでいい子にして待っててね。
+MG36(0)<Speaker>ハムスター</Speaker>;NPC-PasserbyM(0)||:チュー？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:いらっしゃいませ。こちらの提灯をご所望ですか？//n提灯以外に、何か必要なものは？
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:なんだ、スマートダストボックスじゃなかったのか？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:それは単なる呼び名の一つに過ぎません。+どんな名前だろうと、お使い頂くうえで、影響は何ひとつございませんよ。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:君は本当に口が達者だな。家具よりも、君に興味が湧いて来たぞ。
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:申し訳ございません。私は販売リストには含まれておりませんので。//n提灯の他に、必要なものはございますか？
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:そこの「ダッシュボード」も追加で。+「ダッシュボード」は、今はなんて呼ばれてるんだ？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:バーチャル計器八仙卓です。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:バーチャル計器と八仙卓に何の関係が？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:人は運命を掌握できずにいると、//n事態の発展に影響を及ぼす存在を神と定義します。+これが自身の運命を掌握できずにいるならば、//n私たちがこれの神ということになります。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:それで、八仙ってのは？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:これまで7名のお客様が、これの価格を尋ねておいででした。//nあなたは８人目であり、即ちバーチャル計器の最後の拠り所でもあります。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:アハハハ、君は面白いな！二つとももらうよ。
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:お買い上げありがとうございます。
+MG36(0);NPC-PasserbyM(0)<Speaker>通行人2</Speaker>||:君、他の仕事に興味はないか？//nそのトークスキル、販売員にしちゃもったいない。
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:……転職する機会があれば、確かにそうしたいですね。+その時がきたら、私の映画をぜひ見にいらしてください。
+MG36(0)<Speaker></Speaker>||:一人目の客を見送ると、次々と客がブースに押し寄せ始めた。//n家具は瞬く間に売れて行った。+MG36は仕事が終わりそうなのを確認すると、//nハムスターの様子を見るべく、腰をかがめた。
+MG36(0)<Speaker>Gr MG36</Speaker>||:大丈夫そう？
+MG36(0)<Speaker>ハムスター</Speaker>||:チュー！
+MG36(0)<Speaker>Gr MG36</Speaker>||:よかった、元気そうね。+そのまま良い子にしてるのよ。終わったら一緒に遊……
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:うわ～、危うく買い忘れるとこだった……あっ、まだいたんだ！
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:はい、何がご入用ですか？
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:あの花瓶が欲しいんだけど、いくらなの？
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:花瓶ですね。他に必要なものはございますか？
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:あの襖、超キレ～イ！あれもちょうだい。
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:承知しました。+他にはございますか？
+MG36(0);NPC-PasserbyF(0)<Speaker>通行人</Speaker>||:それだけでいいから。あっ、そうだ。あたしの弟から伝言だよ。+「店員のねーちゃん、超美人だね！」だってさ。
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||<黑屏1>:ありがとうございます。
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM>:……家具展終了後。
+指挥官()<Speaker>指揮官</Speaker>||<BGM>BGM_Sneak</BGM>:MG36？どこにいる？+集合の準備だよ。
+MG36的声音()<Speaker>MG36の声</Speaker>||<SE1>AVG_whitenoise</SE1>:縄の中には光ケーブルがあった。//nなおかつ宇宙服の無線機は、正常に稼働してる。
+MG36的声音()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>誰と話してるんだ？……光ケーブル？無線機？</color>+<color=#A9A9A9>とにかく先に状況を確認しないと。</color>
+MG36的声音()<Speaker>MG36の声</Speaker>||<SE1>AVG_whitenoise</SE1>:警戒を解くんだ、HAL。+我々の予想では、クレーターである小エトナの山底部に位置する噴水が、//n最も適したポイントだ。そこは枯渇してから少なくとも千年は経っている。+……もし洞穴が見つからなかければ、先に進んではならない。//n指揮官との連絡が途絶えた場合、//n私の命令無しに捜索を始めてはならない。
+指挥官()<Speaker>指揮官</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1><白屏1>:<color=#A9A9A9>私と連絡が途絶えた？</color>+<color=#A9A9A9>MG36は指揮モジュールを持たない。彼女の声にしては妙だ。確認しなくては！</color>
+指挥官()<Speaker>指揮官</Speaker>||<BIN>139</BIN><SE1>AVG_weapon_reload</SE1><白屏2>:MG36？そこにいるの？
+MG36(2)<Speaker>Gr MG36</Speaker>||:……指揮官？
+MG36(2)<Speaker>指揮官</Speaker>||:君一人だけなのか？
+MG36(2)<Speaker>Gr MG36</Speaker>||<BGM>BGM_Hello</BGM>:はい、私とHAL9000二世のみですが。
+MG36(2)<Speaker>指揮官</Speaker>||:HAL9000二世……
+MG36(2)<Speaker>Gr MG36</Speaker>||:はい、略してHALです。+彼のことです。
+MG36(2)<Speaker></Speaker>||:MG36は手中のハムスターを見せた。
+MG36(2)<Speaker>指揮官</Speaker>||:えっと……良い名前だね。
+MG36(2)<Speaker>Gr MG36</Speaker>||:彼には演技の才能があります。//n私の映画で、その才能を遺憾なく発揮してもらおうと思いまして。
+MG36(2)<Speaker>指揮官</Speaker>||:映画を撮ろうとしてるの？
+MG36(2)<Speaker>Gr MG36</Speaker>||:単なるアイディアに過ぎませんが……//n太古の昔に人類が見た夢が、遥か未来で再現されるのです。+ただ任務を遂行しているだけでは、提灯となんら変わりありませんから。
+MG36(2)<Speaker>指揮官</Speaker>||:提灯？君の後ろの、パネルの上にあるやつ？
+MG36(2)<Speaker>Gr MG36</Speaker>||:いえ、それはスマートダストボックスです。
+MG36(2)<Speaker>指揮官</Speaker>||:……え？
+MG36(2)<Speaker>Gr MG36</Speaker>||:それよりも指揮官、お忙しいのではないですか？
+MG36(2)<Speaker>指揮官</Speaker>||:……詳しく話す気はなさそうだね？
+MG36(2)<Speaker>Gr MG36</Speaker>||:ネタバレはすべからく厳禁です。まだアイディアが形になっていませんし。+とにかく……楽しみにしていてください。
+MG36(2)<Speaker>HAL9000二世</Speaker>||:チュー！
+()<Speaker></Speaker>||<黑屏1>:この展示会で、MG36に一体どんなアイディアが生まれ、//nどんな映画を撮るつもりなのだろうか？+未来の観客と定義されてしまった私には、知る由もない。+でも、きっといい映画に違いない。//nそんなことを考えながら、私は展示エリアへと向かった。

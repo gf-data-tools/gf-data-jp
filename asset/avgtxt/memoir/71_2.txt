@@ -1,0 +1,100 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>73</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:……前線戦備部隊の日常訓練。+いつものように、ネゲヴは予備隊員に訓練の指導を行っている。+ガリルは緊張した面持ちで的を凝視したまま、引き金を引こうとはしない。
+AR(0)<Speaker>ガリル</Speaker>||:<color=#A9A9A9>少なくとも、ネゲヴには伝えなあかんな。</color>+<color=#A9A9A9>なんも言わへんで去ったりしたら、激おこやろうしなぁ。</color>
+()||:ガリルは余光でネゲヴを観察した。+ネゲヴは新人の射撃姿勢を正している。+ネゲヴは新人と話している。+ネゲヴがこちらに向かって歩いてきた。+ガリルは深呼吸した。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:ん？あなたの成績は？
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>ガリル</Speaker>||:ネゲヴ、話があるねん。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>;AR(0)||:私たちの会話に、いつから前置きなんて必要になったの？
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>ガリル</Speaker>||:アハハ、それが、なかなか言い出しにくぅて……
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position;AR(0)>||:話して。
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>ガリル</Speaker>||:……+前線戦備部隊を離れて、ほかの部署で頑張ってみよか思てる。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>;AR(0)||:理由は？
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>ガリル</Speaker>||:うちに適した場所を探すんや。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>;AR(0)||:つまり……
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:今の仕事は自分に相応しくないから、より多くの可能性を探したいってこと？
+AR(0)<Speaker>ガリル</Speaker>||:……せや。
+()||:ネゲヴは1世紀もの間、黙っていたかのように思えた。
+AR(0)<Speaker>ガリル</Speaker>||:<color=#A9A9A9>……今回ばかりは、こっぴどく怒られるんやろな。</color>
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:わかったわ。申請を出して、許可しておくから。
+AR(0)<Speaker>ガリル</Speaker>||:へっ？+<color=#A9A9A9>むっちゃ気軽にOKくれるやん！？</color>
+()||:それ以上は言わずに、ネゲヴは他の隊員のもとへと向かった。
+()||<SE1>AVG_footsteps_cave</SE1>:（足音）
+()||<SE1>Stop_AVG_loop</SE1><黑屏1>:ネゲヴのしっかりとした足取りは、ガリルの心を踏みつけているかのようだった。
+()||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM>:……他部署の情報センターへと向かう道にて。+履歴書を持ったガリルは、//n雨風に揺られる根無し草のような気分になっていた。
+AR(0)<Speaker>ガリル</Speaker>||<BGM>m_avg_hope</BGM>:ハァ……一番困難な一歩を踏み出せたんや。+あとは、どこに行くか決めるだけやな。
+()||:資料を胸に抱え、目を奪うばかりの部署看板を見つめながら、//nガリルは考えた。
+AR(0)<Speaker>ガリル</Speaker>||:……どこがええんやろ？+正味の話、これといった好みはあらへんし、なんなら全部試してみる？
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:……ガリルさん？
+AR(0)<Speaker>ガリル</Speaker>;HS2000(0)||:おっ、お疲れ。
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:ガリルさん、あなた……他の部署に移るんですか？
+AR(0)<Speaker>ガリル</Speaker>;HS2000(0)||:せやで、他のチャンスをつかもう思てな。
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:ああ、このところUziが上の空なのは、それが原因ですか……
+AR(0)<Speaker>ガリル</Speaker>;HS2000(0)||:あ、あはは……
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:特に用はないんです、挨拶しにきただけですので。
+HS2000(0)<Speaker>HS2000</Speaker>||:そういえば、最近はどこの部署も忙しいと聞きます。//n異動には適してないかもしれませんね……
+AR(0)<Speaker>ガリル</Speaker>||:おおきに、色々見てみるで。
+HS2000(0)<Speaker>HS2000</Speaker>||:はい。幸運を祈ってます、ガリルさん。
+()||:HS2000は何か言おうとしたが、そのまま去って行った。
+AR(0)<Speaker>ガリル</Speaker>||:そう上手くはいかへんか……+現状を見るに、行き先を選んどるっちゅうよりは、//n選ばれとるっちゅう方が正しいな……+せやかて、ここで立ち止まるわけにもいかんし……
+()||<黑点1>:ガリルは溜息をつくと、最寄りの策応情報センターへ向かった。
+()||<黑点2>:ガリルはサポート情報センターの前で足を止めた。+（チャイム音）――ガリルはチャイムを鳴らした。
+AR(0)<Speaker>ガリル</Speaker>||:ども、ガリルですー！
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||<SE1>AVG_door_elecport</SE1>:こんにちは、ご用件は？
+AR(0)<Speaker>ガリル</Speaker>||:あ、ウェルロッド……策応戦備部隊に入りたいねんけど。+これ、うちの履歴書や。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||:……何かあったんですか？+あなたはネゲヴ小隊のメンバーとして、//n前線戦備部隊に所属していたように記憶していますが？
+AR(0)<Speaker>ガリル</Speaker>||:せやねん。+なんもあらへん、もっと自分に適した職場を探そ思て。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||:……なるほど、理解しました。申し訳ありませんが、//n策応戦備部隊はすでに満員となっています。+新人を迎え入れる余裕はないですね。
+AR(0)<Speaker>ガリル</Speaker>||:さよか……
+()||:ガリルはウェルロッドの肩越しに、//n情報センターで忙しなく働く人形たちを見た。
+AR(0)<Speaker>ガリル</Speaker>||:ほな、邪魔したな。ほか当たってみるわ。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||:ええ、幸運を。
+()||<SE1>AVG_door_elecport</SE1><黑屏1>:電子ハッチが閉まると共に、//n策応戦備部隊の鮮やかな世界も遠のいていった。
+()||<黑屏2><BIN>6</BIN>:……辺境情報センター入り口にて。
+()||<SE1>AVG_doorknock_wood</SE1>:（ノック音）――ガリルは古びた木製の扉を叩いた。
+AR(0)<Speaker>ガリル</Speaker>||:すんませ～ん、ども、ガリルです～。
+SL8(0)<Speaker>Gr SL8</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:よっ、元気か？
+AR(0)<Speaker>ガリル</Speaker>||:NTW-20、おる？
+SL8(2)<Speaker>Gr SL8</Speaker>||:悪いな。つい先日、大部隊が出発したばかりなんだ。+NTW-20は引率でいないし、留守番してんのはオレたち数人だけだ。
+AR(0)<Speaker>ガリル</Speaker>||:そうなんか……+ほな、辺境調査団に加わりたい時は、誰を当たったらええんや？
+SL8(2)<Speaker>Gr SL8</Speaker>||:申請を承認できるのは、NTW-20だけだな……
+AR(0)<Speaker>ガリル</Speaker>||:さよか、邪魔したな。
+SL8(0)<Speaker>Gr SL8</Speaker>||:気にするな。
+()||<SE1>AVG_Door_Open_Close</SE1><黑屏1>:重い木の扉が目の前で閉まるとともに、//nほんのわずかな希望すらも奪われていった。
+()||<黑屏2><BIN>269</BIN>:……共通支援チームの活動場所にて。
+AR(0)<Speaker>ガリル</Speaker>||:……
+G3Mod(0)<Speaker>Gr G3</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||:……その、G3……人手、足りとる？
+G3Mod(0)<Speaker>Gr G3</Speaker>||:ご覧のとおり、妖精しか受け入れていないんです……
+AR(0)<Speaker>ガリル</Speaker>||<黑屏1>:さよか、邪魔したな……
+()||<黑屏2><BIN>22</BIN>:……協定統合部の専用工場にて。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||:……
+BOSS-11(0)<Speaker>ドリーマー</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||:……
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker>||:……+すんません、お邪魔しました！
+()||<黑屏1>:部屋中の鉄血と10分間睨み合った末に、ガリルはその場から逃げ去った。
+()||<黑屏2><BIN>80</BIN><BGM>BGM_Empty</BGM>:……総務部のカフェテリアにて。
+AR(0)<Speaker>ガリル</Speaker>||<BGM>GF_Cafe</BGM>:……というわけや。
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:お考えは、よくわかりますわ。//nですが、本当に私たちの一員になりたいのですか？+戦場に立つことは稀ですが、グリフィン基地の秩序を維持するのは、//nなかなか大変ですよ。
+AR(0)<Speaker>ガリル</Speaker>||:そらもちろんわかっとる。
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:それでも試してみたいと?
+AR(0)<Speaker>ガリル</Speaker>||:せや。スプリングフィールド、うちにチャンスをくれへんやろか？
+()||:ガリルの揺るぎない眼差しを見て、スプリングフィールドは溜息をついた。
+M1903(10)<Speaker>スプリングフィールド</Speaker>||:わかりました。後ほど、他のチームの責任者と//nあなたの配属について討論させて頂きます。//n 戻って連絡をお待ちください。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏1>:おおきにありがとう！
+()||<BIN>82</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:これから始まる新生活のお祝いに、//nガリルは隊員たちに好物を振る舞うことにした。+彼女は鼻歌を歌いながら、料理を食器に盛り付けている。
+AR(0)<Speaker>ガリル</Speaker>||<BGM>BGM_Hello</BGM>:……ラララ♪+もう暗いのに、アイツら何しとんのや？+イベントでもあるんか？
+()||<SE1>AVG_tele_connect</SE1>:窓の外がどんどん暗くなっていくのを見て、//nガリルはMicro Uziに連絡を取った。
+AR(0)<Speaker>ガリル</Speaker>||:Uzi、まだ帰ってこぉへんのか？
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>あ、ガリルに伝えるの忘れてた！</color>
+AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>ガリル、わたくしたちは緊急任務を仰せつかっておりますの。今夜にも出発する予定ですわ。</color>
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>もう出発したよ！</color>
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)<通讯框>||:さよか……
+AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>ネゲヴから、あなたはすでに他部門へご異動なさったと……ですから今回の任務には参加なさらないと伺って……</color>
+AR(0)<Speaker>ガリル</Speaker>;TAR21(0)<通讯框>||:気にせえでええって、いつ戻るのか聞いただけやし。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>何日かしたら戻ってくるから、その時また集まろうね、ガリル！</color>
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)<通讯框>||:わかった、気ぃつけてな。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>うんうん、それじゃあね。</color>
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>ネゲヴに呼ばれてるから！</color>
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:電話は慌ただしく切られた。+ガリルは手に持っていた食器を置き、//nテーブル一杯のご馳走を前に黙り込んだ。+窓の外はすっかり暗くなっていた。

@@ -1,0 +1,101 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||<黑屏2> <BIN>9</BIN><SE1>AVG_show_start</SE1>:フンッ。あなたたちの中に私の話がつまらないと//nクレームを入れたやつがいるらしいですね。+なので、今回はあらすじを防空壕で書かせてもらいましたよ！+今度はどこがどうつまらないって言うのか見ものですね！+おほん。では、前回のあらすじですが、そりゃもうスリル満点でした！+元々、ミノスを口車に乗せてゆりねの家に向かわせ、計画を//n達成しようとしていた邪神ちゃんは、またも失敗することとなりました。+心優しいミノスが計画に従わず、邪神ちゃんのほうに行ってしまったのです。+ウロボロスは元より計画の裏をかいて、//nミノスとP90を別々に片付けるつもりだったようでしたが、//n予期せぬNZ75の消息にまたも動揺してしまいます……+最終的にウロボロスはミノスを諦め、NZ75を連れ戻すことにします。+P90を片付けたあと、//nウロボロスはミノスを引き離す任務を邪神ちゃんに託します。+突然の大役を任された邪神ちゃんは何をしていいかも//nわかりませんでしたが、何とそれが成功してしまいます。+ミノスご自慢の尻尾の毛を対価として……
+NPC-xiaodanyan(0)<Position>0,300</Position>;Jashinchan(2)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:ちょっと、どうして私という主役を差し置いて//n勝手に上映を始めているんですの！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>;Jashinchan(2)<Position>0,100</Position>||:え？　今いないことに気がつきました。どうりで今日は静かだと……
+NPC-xiaodanyan(0)<Position>0,300</Position>;Jashinchan(4)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:私がうるさいって言いたいんですの？！//n魔界カスタマーサービスにクレームつけてやる！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>;Jashinchan(4)<Position>0,100</Position>||:それだけはどうか勘弁を！　邪神ちゃん様ぁ！！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||:あっ！　ミノス様が来ましたので、私はこれにて。//n幸運を祈っておりますよ♪
+Jashinchan(6)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||<黑屏1>:まっ、待てよ！！！
+()||<黑屏2> <BIN>384</BIN><BGM>BGM_Sneak</BGM>:……公園。グリフィン人形たちの作ったダンボールハウス周辺。
+NZ75(0)<Speaker>NZ75</Speaker>||:……どうする？いったいどうするんだ？+さっきゆりねに電話で確認した時、//nあいつはまだ解決方法が見つかってないと言っていた……+ウロボロスはどうして私たちを騙す？　何が目的だというんだ？
+()||:電話を切ったNZ75は焦った様子で辺りをきょろきょろと見回した。
+NZ75(0)<Speaker>NZ75</Speaker>||:P90とCZもウロボロスの手に落ちた……+つまり、残るは私だけ。+慌てるな、NZ。お前なら絶対に大丈夫だ。
+()||:遠方より大きなものが崩れるような凄まじい音が響き渡る。
+NZ75(0)<Speaker>NZ75</Speaker>||:ショベルカーが工事でもしているのか？+いや、そんなことに気を囚われている場合ではない。+はやくどうにかしてCZとP90を救出せねば……
+()||<SE1>AVG_lifttable</SE1>:聞きなれた悲鳴がそう遠くない所より届く。+それと同時に、ダンボールハウスが音を立て崩れる。
+NZ75(0)<Speaker>NZ75</Speaker>||:私一人でウロボロスと邪神ちゃんに立ち向かうのか、//n人質を二人取られた状態で……
+()<Speaker>邪神ちゃん</Speaker>||:放せ、ミノス！！！
+NZ75(0)<Speaker>NZ75</Speaker>||:これは……邪神ちゃんの声？
+()<Speaker>邪神ちゃん</Speaker>||:助けて！！！　誰か私を助けて！！！
+NZ75(0)<Speaker>NZ75</Speaker>||:あいつ、また何か厄介事を起こしたのか？
+()<Speaker>邪神ちゃん</Speaker>||:やっ、やめて――
+()<Speaker>？？？</Speaker>||<SE1>VO_Minos_AGREE_JP</SE1>:デビルブロー！！！
+NZ75(0)<Speaker>NZ75</Speaker>||:邪神ちゃん？
+()||<BGM>BGM_Empty</BGM>:緑色の流れ星が空を走っていくと、辺り一帯が静寂を取り戻した。
+NZ75(0)<Speaker>NZ75</Speaker>||:……錯覚か？
+Weaver(3)<Speaker>ウロボロス</Speaker>||<BGM>BGM_Danger</BGM>:それは違う。
+()||:音もなく現れたウロボロスは意識のないCZ75とP90を下ろした。+警戒を解いたばかりのNZ75に再び緊張が走る。//n彼女の目は片時も動くことなく、ウロボロスの一挙手一投足を注視していた。
+NZ75(0)<Speaker>NZ75</Speaker>||:こいつらに何をした？
+NZ75(0);Weaver(3)<Speaker>ウロボロス</Speaker>||:少しばかり眠ってもらっただけだ。
+NZ75(0)<Speaker>NZ75</Speaker>;Weaver(3)||:近づくな！
+NZ75(0);Weaver(3)<Speaker>ウロボロス</Speaker>||:おぬしらグリフィンが制限を加えた協定により、//nわたしはグリフィン人形を傷つけることはできん。+ゆえに怖がる必要もない。
+NZ75(0)<Speaker>NZ75</Speaker>;Weaver(3)||:……+お前は一体何がしたいんだ？
+NZ75(0);Weaver(3)<Speaker>ウロボロス</Speaker>||:おぬしらをグリフィン基地へと戻す。
+NZ75(0)<Speaker>NZ75</Speaker>;Weaver(3)||:は？　お前が策を弄しているのは、//n私たちを基地へと送り戻すためだとでも？
+NZ75(0);Weaver(3)<Speaker>ウロボロス</Speaker>||:その通りだ。
+NZ75(0)<Speaker>NZ75</Speaker>;Weaver(3)||:とすると、お前はどうするんだ？
+NZ75(0);Weaver(3)<Speaker>ウロボロス</Speaker>||:あそこはわたしの場所ではない。
+NZ75(0)<Speaker>NZ75</Speaker>;Weaver(3)||:ふざけるな！
+NZ75(0)<Speaker>NZ75</Speaker>||:お前――
+()||<SE1>AVG_wind_grass</SE1><BGM>BGM_Empty</BGM>:かさこそ――ダンボールハウスの後ろより何かの這う音が聞こえてくる。
+()<Speaker>邪神ちゃん</Speaker>||<BGM>m_avg_casual</BGM>:ただいま……
+()||:疲労困憊の邪神ちゃんがダンボールハウスの入り口に//nぐったりと倒れ伏した。
+Jashinchan(6)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:ボロス……ううぅ……ひどい殴られ方ですの……
+Weaver(3)<Speaker>ウロボロス</Speaker>||:泣くな。ターゲットも残すところあと一つだ。
+NZ75(0)<Speaker>NZ75</Speaker>||:お前ら、何を……？
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:おっけー！
+NZ75(0)<Speaker>NZ75</Speaker>||:待て！　どうしてシーンが変わったら元通りになる？！
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:日常ものなんてそんなもんですの。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:下らん話はいい。あやつを取り押さえろ、わたしがダウンさせる。
+Jashinchan(5)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:了解ですの！
+NZ75(0)<Speaker>NZ75</Speaker>||:私のそばに近寄るなああ――ッ！
+()||<SE1>AVG_wind_grass</SE1>:かさこそ――またもダンボールハウスの後ろより何かの這う音が聞こえてきた。
+Jashinchan(2)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:誰ですの？！　私の邪悪な計画の邪魔は許さんぞ！
+NZ75(0)<Speaker>NZ75</Speaker>||:自分で邪悪と言ってどうする！
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()||<SE1>AVG_lifttable</SE1>:ドサドサッ――いろんなものが地面に落ちた音がした。+三人が音のするほうへ目を向けると、ダンボールハウスの残骸の間に//nへたり込みながら泣きわめく、ひどくやつれた少女の姿があった。
+Pekora(0)<Speaker>ぺこら</Speaker>||:ぺこらの家が！！！
+Pekora(0);Jashinchan(0)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:なんだ、ぺこらか。
+Pekora(2)<Speaker>ぺこら</Speaker>;Jashinchan(0)<Position>0,100</Position>||:お前の仕業なのはわかってます！+前回もぺこらの家を壊してくれましたよね！
+Pekora(2);Jashinchan(3)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:チッ、今度は本当に私じゃないっつーの。
+Pekora(2);Weaver(3)<Speaker>ウロボロス</Speaker>||:クソヘビ、時間を無駄にするな。さっさとあやつを連れていけ。
+Pekora(2);Jashinchan(3)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:すまなかった、ぺこら。//n私たちだってわざと家を壊したわけじゃないんですの。+ほら、今だって家を直してるでしょ？
+Pekora(2)<Speaker>ぺこら</Speaker>;Jashinchan(3)<Position>0,100</Position>||:……ぺこらが自分でやります！
+Pekora(2);Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ぺこらがやる必要なんかないって。//n私の子分たちが全部やってくれるんだから。
+Jashinchan(0)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:ならこうするか、ぺこら。//n今晩、うちに牛すき焼きを食べに来い、それでこの件はちゃらですの。+食べ終わって帰ったら、家もちゃんと元通りになってるだろうから。
+NZ75(0)<Speaker>NZ75</Speaker>||:誰が子分だ！
+Pekora(3)<Speaker>ぺこら</Speaker>||:牛すき焼き……
+Pekora(2)<Speaker>ぺこら</Speaker>||:ぺこらは魔女たちの宴なんかには行きません！
+()||<黑屏1><BGM>BGM_Empty</BGM>:邪神ちゃんはぺこらの肩を掴んで引き寄せ、//n彼女に自身の目を真っ直ぐに見させた。
+Pekora(0)<Speaker>ぺこら</Speaker>||<BGM>BGM_Moon</BGM><黑屏2> <BIN>9</BIN>:なっ、何するんですか！
+Pekora(0);Jashinchan(5)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:私、自分の心の奥底に眠ってた良心と思いやりに目覚めたんですの。+今日から私は、以前までの悪魔ではなく、//n一日一善を実践する善人になるんですの。
+Pekora(0)<Speaker>ぺこら</Speaker>;Jashinchan(5)<Position>0,100</Position>||:そうなんですか？
+Pekora(0);Jashinchan(5)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:私の目を見て、ぺこら。
+Pekora(0)<Speaker>ぺこら</Speaker>;Jashinchan(5)<Position>0,100</Position>||:なんですか……
+Pekora(0)<Speaker>ぺこら</Speaker>||:……
+()||:邪神ちゃんの瞳に宿る眩いまでの光は、//nぺこらがかつて見たこともないものだった。+単純なぺこらには到底見抜くことないできない。//n邪神ちゃんの瞳の奥に隠された――+「嘘」を。
+Jashinchan(6)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:私が悪魔なのは、悪魔に生まれついてしまったから。//nこれは私にはどうにもできないこと。+天使であるぺこらが、どうにもできないことで私を疑うんですの？+お前たちの責務は私のような迷える子羊を助けることじゃないんですの？
+Pekora(0)<Speaker>ぺこら</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:……+わ、わかってますよ、ぺこらにだって。
+ ()||<黑屏2> <BIN>384</BIN><BGM>m_avg_casual</BGM>:邪神ちゃんは安堵した様子でぺこらの肩を叩いた。
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:早く行くんですの、ぺこら。+今ちょうど煮てるとこじゃないかな？　A5和牛に、しらたき、白菜、ジャガイモ……+ぺこらが行かなかったら、無駄になっちゃうかも……
+Pekora(1)<Speaker>ぺこら</Speaker>||:食べ物……食べ物に罪はありません！
+()||<SE1>RunStep</SE1>:ぺこらは公園の出口へと狂ったように走っていった。
+Jashinchan(0)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:ふっふーん、どうだ、ボロス？　さっきの私、かなりカッコよかっただろ？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……+今なら、さっきの続きを始められそうだな？
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ししし……やりますよっと……
+()||:興奮状態の邪神ちゃんは手を揉みながら、NZ75ににじり寄り始めた。
+NZ75(0)<Speaker>NZ75</Speaker>||:お、お前ら……+煮るなり焼くなり好きにしろ！
+()||:NZ75は苦痛の表情で目をつむった。
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:NZ、こう縛ったほうがいい？　それともこう？
+NZ75(0)<Speaker>NZ75</Speaker>||:どっちでもいい！+……が、見栄えは考慮してくれよな。
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ははは！　引っかかったな！+実は直にお前を縛り付けるつもりだったのだ――
+()||<SE1>AVG_Punch_Hit</SE1>:ウロボロスは邪神ちゃんの後頭部をパチンと叩いた。
+Weaver(7)<Speaker>ウロボロス</Speaker>||:無駄話をせんと死ぬのかおぬしは。
+Jashinchan(6)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:ううぅ……わかったよ……
+()||:邪神ちゃんは鎖をまた拾い上げると、NZ75を縛り付けた。+冷たい鎖がNZ75の肌に張り付く。
+Jashinchan(0)<Position>0,100</Position><Speaker>邪神ちゃん</Speaker>||:あれ？鍵どこやったっけ？
+Weaver(7)<Speaker>ウロボロス</Speaker>||:まったく、このクソヘビめ――
+()||:邪神ちゃんの後頭部へ繰り出されたウロボロスの拳は、//n目標に当たろうかと思われたが、むなしく空を切る結果に終わった。
+Weaver(7)<Speaker>ウロボロス</Speaker><Shake>||:クソヘビは？！
+NZ75(0)<Speaker>NZ75</Speaker>||:……
+()||<黑屏1><BGM>BGM_Empty</BGM>:先ほどまで目と鼻の先にいた邪神ちゃんは忽然と消えた。+同時に、CZ75とP90が長い眠りから目を覚ます。

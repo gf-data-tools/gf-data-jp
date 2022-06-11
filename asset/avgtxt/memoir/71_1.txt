@@ -1,0 +1,126 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>80</BIN><黑屏2><BGM>GF_Cafe</BGM>:……グリフィン基地、カフェテリア、前線戦備部隊の初集会。+小さなカフェテリアは、60名余りの人形で大いに賑わっている。//n楽しく騒いでいる者、何も言わずに黙っている者、//n小声で会話を交わしている者など様々だ。
+AR(0)<Speaker>ガリル</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:はぇ～、前線戦備部隊が、こんだけの規模になっとったとは。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:グリフィンて、いつも新人募集してるからね。//nそりゃ凄い性能の子たちが続々と来るっしょ。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:うちらの時代はもう終わったんかもな。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:なにそれ、あんたらしくもない。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:あはは。早いとこ、タボールとネゲヴをみつけるで。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ネゲヴだったら、あっちにいるよ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:新入りの予備隊員と話してるみたいね……
+()||<黑屏1>:ガリルがMicro Uziの示す方を見ると、//nネゲヴは知らない人形たちと会話しているようだった。+ネゲヴの口元の動きを見て、ガリルは一瞬ぼうっとした。
+()||<BIN>73</BIN><黑屏2><回忆><BGM>BGM_Empty</BGM>:……前線戦備部隊の日常訓練。
+AR(0)<Speaker>ガリル</Speaker>||<BGM>m_avg_casual</BGM>:ふ～……ネゲヴ、こっちの訓練は終わったで！
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:わかった、今行くから。
+()||:ネゲヴはガリルの傍へとやってきて、彼女の訓練成果をチェックし始めた。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:火力B、命中B、射速B、ランク評定はBのままね。//nでも、具体的な数値から見るに、進歩はしてるわ。
+AR(0)<Speaker>ガリル</Speaker>||:あちゃ～、どうやらBを突破するのが、生涯の目標になりそうやな。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:そうはならないわ。改造のチャンスに恵まれれば、あなたにだって希望はある。
+AR(0)<Speaker>ガリル</Speaker>||:ハッ。ただの冗談――
+()<Speaker>見知らぬ人形Ａ</Speaker>||:ネゲヴさん！訓練結果を見てもらえませんか？
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:わかった、今行くわ。
+()||:ガリルはネゲヴが人形に呼ばれていくのを眺めた。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:ランク評定はA、新人にしては悪くないわね。
+()<Speaker>見知らぬ人形Ａ</Speaker>||:はぁ、またAか……
+()<Speaker>見知らぬ人形Ｂ</Speaker>||:ネゲヴさん、私もお願いします。
+NEGEV(0)<Speaker>ネゲヴ</Speaker><Position>0,100</Position>||:あなたのランク評定はSね、素晴らしいわ。
+()<Speaker>見知らぬ人形Ｂ</Speaker>||:えへへ、ありがとうございます、ネゲヴさん！
+()<Speaker>見知らぬ人形</Speaker>||:うっわぁ……ネゲヴ小隊の予備隊、プレッシャーやばすぎない！？
+AR(0)<Speaker>ガリル</Speaker>||:……
+()||<黑屏1><BGM>BGM_Empty</BGM>:彼女たちの会話を耳にしたガリルは、自分のランク評定をもう一度見た。+デカデカとBが記されている。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏2><BIN>80</BIN><关闭蒙版><BGM>GF_Cafe</BGM>:んー……あっちは盛り上がっとるみたいやし、邪魔せんとこ。+せや、Uzi――
+HS2000(0)<Speaker>HS2000</Speaker>||:……Uzi、この前お話した問題については、解決できましたか？
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:あっ、ハクサイじゃん。もう解決したよ！+教えてもらった通りにやってみたら、ホントに鳴らなくなって……
+HS2000(0)<Speaker>HS2000</Speaker>||:ハクサイではなく、HS2000です……+それなら良かった……
+()||:ガリルが物思いにふけっている間に、//nMicro Uziはすでに他の前線戦備メンバーと語らい始めていた。+ガリルは空気を読んでその場を立ち去り、//n賑やかな人混みへと入って行った。
+AR(0)<Speaker>ガリル</Speaker>||:はぇ〜、ニューフェイスばっかやんけ。どいつもこいつも強そうやなぁ……+んー……タボールはどこ行ったんや？
+()<Speaker>TAR-21</Speaker>||:申し訳ございません、背後から失礼いたします。
+AR(0)<Speaker>ガリル</Speaker>||:おほ、タボール、なんで着替えてるん？+おーい、タボール！
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:ガリル、いらしてたんですね。+一杯いかがです？
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>ガリル</Speaker>||:いや、結構。ってかアンタ、なんでそんな格好しとるん？
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:カリーナ様のお計らいで、皆さまにドリンクをお配りしておりますの。
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>ガリル</Speaker>||:……そうやったんか。その服、なかなか似合っとるで。
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:ありがとうございます、ガリル。
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>ガリル</Speaker>||:もう何日も訓練場で見かけてへんかったな。//nネゲヴはアンタがカリーナに連れてかれた言うとったけど、最近どや？//n元気にしとったか？
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:はい、おかげさまで。ここ数日は、カリーナ様のお手伝いで、//nイベントを準備しておりました。+注意事項は多いですが、とてもやりごたえのあるお仕事ですわ。
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>ガリル</Speaker>||:カリーナのヤツに売り飛ばされんで良かったわ……
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:うふふ。カリーナ様に、今後も前線戦備部隊の定期イベントを//nお手伝いするよう、おおせつかっておりますの。
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:忙しくなりそうですわ。
+TAR21(2)<Position>0,150</Position>;NPC-Kalin(4)<Speaker>カリーナ</Speaker><通讯框>||:<color=#00CCFF>タボールさん！タボールさん、どこですか？</color>
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:こちらです、カリーナ様。+ガリル、お先に失礼いたします、また後ほど。+こちらのグラスをどうぞ、アルコール度数は高くありません。//nオレンジの色合いが、あなたにピッタリですわ。
+AR(0)<Speaker>ガリル</Speaker>||:わかった、頑張ってや、ほな後でな。
+()||<BGM>BGM_Empty</BGM>:タボールは人混みの中へと姿を消した。+ガリルは薄いグラスを持ったまま、カフェテリアの隅に腰を下ろした。+目には見えない分厚い壁を隔てた向こう側は、//n何十名もの人形たちでごったがえしている。
+AR(0)<Speaker>ガリル</Speaker>||<BGM>m_avg_hope</BGM>:……ふ～……みんな、自分の居場所を見つけたんやな。
+()||:ガリルは手に持ったグラスを見つめた。//nさざ波一つない液体の表面に、自身の平淡な面持ちが映る。+ガリルが笑ってみせると、水面に映る影もまた同じように、//nしわがれた笑顔を浮かべた。
+AR(0)<Speaker>ガリル</Speaker>||:……あんたはどうなんや？
+()||:ガリルがグラスを揺らすと、オレンジ色の液体が色めき立った。
+AR(0)<Speaker>ガリル</Speaker>||:あんたは、自分の居場所を見つけたんか？
+()||<SE1>RunStep</SE1>:ふいに慌てて通り過ぎた人形によって、//nガリルの手にあったグラスがひっくり返った。
+()<Speaker>見知らぬ人形</Speaker>||:ごめんなさい、ごめんなさい！
+AR(0)<Speaker>ガリル</Speaker>||:大丈夫やで。
+()||<黑屏1>:ガリルは微笑みながらハンカチを取り出し、//n服についたお酒の染みを拭いた。//n彼女が小さく自身に言い聞かせるのを、誰も気づいてはいなかった。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:現実の世界へようこそ。
+()||<黑屏2><BIN>80</BIN>:……しばらくして。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ちょっと、ガリル。こんなトコでヤケ酒してんじゃないわよ！+もうメチャクチャ探したんだから。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:あは。うち、自分に丁度ええ場所探すのに長けてんねん。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:はぁ？ネゲヴお嬢様の首席補佐が、こんな隅っこに縮こまってたとはね。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:冗談言わんといてーな。ネゲヴの補佐予備軍なんざ、//nここから救助ステーションまで並んでもなお余りあるで。
+AR(0)<Speaker>ガリル</Speaker>||:うちはな、もう窓際族に片足突っ込んでんねん。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:……デタラメばっかり。
+()||:二人は黙ったままお酒を飲んだ。背後の賑やかな声が、//n退いては寄せる波のように、彼女たちの存在をかき消した。
+AR(0)<Speaker>ガリル</Speaker>||:なぁ、Uzi。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ん？なに？
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:今の仕事、好き？
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:嫌いじゃないよ。+たまに面倒なこともあるけど、今のところはなんとか対処できてるし。+なんでそんなこと聞くの？仕事でなんかあった？
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:うーん……なんちゅーか、もしかすると……+他の可能性も探すべきなんかなって。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:どういうこと？
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:例えば、中年になった人間が自分より出来る後輩見た時、//nキャリアについて考えるようになるやん？+うちは人間ちゃうけど、似たような境遇に置かれとるんや。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:なにそれ？意味わかんない。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:Uziがわかるように言い換えるとな――+うちはここでは劣勢やさかい、外に出てみよう思てるねん。//n上手く行ったら、第二の春が巡って来るかもわからん。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:確かにそうかもだけど……+ガリル、それネゲヴには言ったの？
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:まだや、ネゲヴを困らせる気は無いんや。
+AR(0)<Speaker>ガリル</Speaker>||:お嬢様ばっかワルモノ扱いすんのもシャクやしな。//nたまには悪役にも休憩してもらわな。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:……
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:まぁ、お二方、こんなところで何を？
+TAR21(2)<Position>0,150</Position>;MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ガリルの仕事の愚痴を聞かされてたの！
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>ガリル</Speaker>||:ナニ言うてんねん、Uziに騙されんとき。+タボール、お酒、悪ぅなかったで。
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:気に入って頂けて光栄ですわ。+そういえば、カリーナ様が探しておいでですよ。
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>ガリル</Speaker>||:うちを？
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:聞けば、とても重要なお話なんだとか。パーティが終わりましたら、//n直接研究室にいらっしゃるようにと、カリーナ様より言付かっておりますわ。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:研究室か……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:もしかしたら、本当に良い話かもよ。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏1>:……さてね。
+()||<黑屏2><BIN>22</BIN><BGM>BGM_Empty</BGM>:……パーティが終わった後、Uziに付き添われて、//nガリルは研究室へとやってきた。
+AR(0)<Speaker>ガリル</Speaker>||<BGM>BGM_Hello</BGM><SE1>AVG_door_elecport</SE1>:……カリーナはん？
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>;AR(0)||:ガリルさん！来ましたか、あなたに良い知らせがあるんです！
+NPC-Kalin(1);AR(0)<Speaker>ガリル</Speaker>||:カリーナはん、家具を売りさばいてる時の表情になっとるで……
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>;AR(0)||:もう、よしてくださいよ！今回は本当に良い知らせなんですから！+ガリルさん、次の改造リストにあなたの名前がありましたよ！
+NPC-Kalin(1);AR(0)<Speaker>ガリル</Speaker>||:……うちの名前が？
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>;AR(0)||:ただ素体があまりにも古すぎるので、//n改造するには新しい素体に換える必要がありますけど。
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:これがガリルさんの新しい素体です。
+()||:カリーナが素体を収容しているキャビンのハッチを開けると、//n中にはオレンジ色の長髪を携えた、見知らぬ人形素体が横たわっていた。
+AR(0)<Speaker>ガリル</Speaker>||:……+改造したら、うちでも前線戦備部隊の新人に匹敵できるんか？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>;AR(0)||:うーん……正直なところ、数値面ではさすがに及びませんが……+全面的なパフォーマンスは向上しますよ！//n戦闘では間違いなく役立つはずです！+<size=25>それから多分、今の体重よりも重くなる可能性が……</size>
+NPC-Kalin(4);AR(0)<Speaker>ガリル</Speaker>||:つまり改造したところで、性能は大して変わらへんってことか……+待った！今何かめっちゃ肝心なこと言うてへんかったか！？
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>;AR(0)||:な、なんでもないですよ、ただ少々総重量が変わるというだけで！
+NPC-Kalin(1);AR(0)<Speaker>ガリル</Speaker><Shake>||:大事なとこ濁さんといてーな！！
+NPC-Kalin(6)<Speaker>カリーナ</Speaker>;AR(0)||:そんな……重くなるって言っても、せ、せいぜい1、10Kg程度ですよ……
+NPC-Kalin(6);AR(0)<Speaker>ガリル</Speaker>||:<size=25>10Kg！！！</size>
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>;AR(0)||:あ、あ～～！用事を思い出しました！
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:詳細については後ほどメールで送りますので、確認しておいてくださいね♪
+()||<SE1>AVG_door_elecport</SE1><黑屏1>:カリーナはガリルを慰めつつ、すぐさま彼女を研究室から追い出した。
+AR(0)<Speaker>ガリル</Speaker>||<BIN>97</BIN><黑屏2>:……
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:あっははは、全部聞こえてたよ。+おめでと、ガリル。転職計画は無駄になったみたいね。
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:<size=25>10Kgやで！！！</size>
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:あはははは……！
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:笑うな！代償が大きすぎやねん。+万が一異動したとして、改造後の機能が役に立つとも思えへんし。
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:まさか、改造を諦めちゃうの？
+AR(0)<Speaker>ガリル</Speaker>;MicroUZIMod(0)||:真剣に検討せなあかんな、これは。
+AR(0)<Speaker>ガリル</Speaker>||:改造したからって、性能が新人に追いつくわけちゃうし。
+()||:ガリルはわざと真剣な眼差しでMicro Uziを見て、//nいつものようにツッコんでくれるのを待った。
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:……あっそ。+アンタの事なんだし、勝手にすれば？
+AR(0)<Speaker>ガリル</Speaker>||:へっ？
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:ま、アンタがどんな選択をしようと、私は味方だから。
+AR(0)<Speaker>ガリル</Speaker>||:うっわ、キザなやっちゃな～……
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:あははは！+さっき臨時の任務をもらったから行くね。先に戻ってて。
+AR(0)<Speaker>ガリル</Speaker>||<黑屏1>:よっしゃ、ほなな。
+()||<黑屏2><BIN>82</BIN><Night><黑屏1><BGM>BGM_Empty</BGM>:……ガリルは独りで宿舎へと戻った。+照明の灯されていない部屋では、彼女のタブレットから発せられる//n眩しい光が唯一の光源となっていた。//n改造に関する説明事項が、スクリーン上に映し出されている。+ガリルの指は「同意する」ボタンの上に留まったまま、それを押せずにいた……

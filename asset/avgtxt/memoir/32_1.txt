@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>55</BIN><BGM>BGM_Hello</BGM>:（操作音）+……+（操作音）
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:（電子音）
+AR(0)<Speaker>ガリル</Speaker><通讯框>||:<color=#00CCFF>残りのエリアは全部探し終わったで、回収できそうなモンはなかった。</color>+<color=#00CCFF>そっちはどうや？</color>
+()<Speaker></Speaker>||:……
+AR(0)<Speaker>ガリル</Speaker><通讯框>||:<color=#00CCFF>Uzi？</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:聞こえてるってば……+まだ何も見つからない。
+AR(0)<Speaker>ガリル</Speaker><通讯框>||:<color=#00CCFF>さよか……</color>+<color=#00CCFF>そのエリアあらかた探し終えたら、なんも見つからんでも上がってええからな。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:……もうすぐ終わる。
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker><通讯框>||:<color=#00CCFF>エリアS07-011118……マーク撤去完了……</color>+<color=#00CCFF>よっしゃ、終わったで～！</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:……+その……ガリル……
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>ハッハ～、今日は早めに帰れそうやな！</color>+<color=#00CCFF>夜はソファーに寝っ転がって、お菓子でも食べよ～っと。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:何でそんなに呑気なのよ……+明日もこの無意味な任務を続けなきゃいけないってのに……
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>明日だけやないで、明後日、来週、来月もずーっとや。</color>+<color=#00CCFF>こうなったからには、楽しく過ごせる方法でも考えな、やってられへんやろ。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:でもアンタは私と違って、後から志願して予備部隊に来たんでしょ……+ネゲヴの助手が、こんな所にいていいの？
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>「助手」ね……</color>+<color=#00CCFF>凶暴お嬢様の傍にずっといたからこそ、ちょっと一休みしたくなってん。</color>+<color=#00CCFF>それにネゲヴには他の奴がついとるし、うちがおらんでもヘーキヘーキ。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:新人たちに会ったことすらないクセに……
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>かまへんかまへん。あいつらとネゲヴとの仲は、うちらよりずっと長いんや。それが分かれば十分。</color>+<color=#00CCFF>ネゲヴがあんなに畏まってるとこ、うちも初めて見たからな。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:確かに……+有能な仲間ができたんだから、無能なヤツは捨てられて当然よね。+あっちは軍や見たこともないモノと戦ってるのってのに、//n私たちはこんなところでゴミ拾いだよ。
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>そうやって考えるのは健全じゃないなぁ。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:それが現実でしょ？アンタだって、//nネゲヴにとって一部の人形は必要ないって認めたじゃない。+自分から抜けたんならまだマシよ、予備隊に振り分けられた私なんて、//n軽蔑されてるに決まってるもん。
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>そんな思いつめることないって。ネゲヴがアンタを悪く言ったことがあったか？</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:面と向かって言わないだけよ、どう見ても明らかだもん。+自分が戦術人形としてどんな代物なのかは知ってる……//nネゲヴに叱られなくたって、自分がどれだけポンコツか、自分でも分かってる。
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>……</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:……+アハハ……ついつい喋り過ぎちゃった……+ごめん、ガリル。聞かなかったことにして。
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>かまへんよ。</color>+<color=#00CCFF>残りのエリアが終わったら戻ろか。</color>+<color=#00CCFF>戻って一緒にアイス食べるで！上物が手に入ったんや。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:ハァ？そんなの食べたら太るわよ？+散々ダイエットしなきゃって騒いでたの、どこの誰だっけ？
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>あー……</color>+<color=#00CCFF>週末やし、一週間の最後くらい息抜きしてもええやろ！</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:一昨日、息抜きしてなかったっけ。
+MicroUZI(0);AR(0)<Speaker>ガリル</Speaker>||:<color=#00CCFF>そ、それは……</color>+<color=#00CCFF>せや、日曜日を週初めにする流派もあるんやで！その計算やと、今週はまだ御馳走食べてへんことになるから、問題ないよ！</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<黑屏1>:ハイハイハイ……好きにすれば。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:……
+()<Speaker>ネゲヴ</Speaker>||<CGDelay>0.3</CGDelay><BGM>BGM_Truth</BGM><黑屏2>:Uzi、Uzi！+もっと速く！
+()<Speaker>ネゲヴ</Speaker>||<SE2>Gunfight</SE2>:Uzi、聞こえたの？+奴らがもう来てるわ、速く資料を処分しなさい！
+()<Speaker>Micro Uzi</Speaker>||:今やってる！でもこのシステムがまだ……
+()<Speaker>TAR-21</Speaker>||:もう時間がありませんわ。+今すぐにでも撤退しなければ……
+()<Speaker>Micro Uzi</Speaker>||:だけど、これを敵に渡すわけには――
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><SE1>Explode</SE1>:……
+()<Speaker>ネゲヴ</Speaker>||:Uzi、それは捨てなさい。+タボール、ガリル、重要な情報は物理的手段で持ち出すわよ。+後ろはわたしが守るわ、総員撤退開始。
+()<Speaker>ガリル</Speaker>||:でも残った資料は――
+()<Speaker>ネゲヴ</Speaker>||:入口を徹底的に塞いで、ここを出た後は全力で敵の注意をそらす。+残った資料は……運次第ね。
+()<Speaker>Micro Uzi</Speaker>||:あと2分だけ待って！今すぐに……
+()<Speaker>ネゲヴ</Speaker>||:<size=55>このバカ！さっさとそれを捨てなさい！</size>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:……
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<黑屏2><BGM>BGM_Wake</BGM><黑屏2><SE1>AVG_footsteps_cave</SE1><BIN>88</BIN>:……+よく考えてみたら……面と向かって言われてたわ……
+()<Speaker></Speaker>||:……
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:「考えるなんて馬鹿のすること、天才はセンスだけで十分」……+ならどうすればいいのよ……+何の才能もないバカは……
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:（電子音）
+()<Speaker>ガリル</Speaker>||:<color=#00CCFF>Uzi、出てきたらうちに一声かけてや。</color>+<color=#00CCFF>先に集合地点で待っとるさかい。</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:わかった。
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:通信終了。
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:ハァ……考えたって意味ないね、ガリルが羨ましいな。+……+こんなところに何かあるとは思えないし、もう戻――
+()<Speaker></Speaker>||<震屏><BGM>BGM_Empty</BGM>:（物音）
+()<Speaker></Speaker>||:（物音）
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:え……+この箱は……+……
+()<Speaker></Speaker>||<震屏>:（物音）+Micro Uziはそれを蹴ってみた。
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:（金属音）
+()<Speaker>？？？</Speaker>||:現在初期化中……+ロード中……
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:うわっ！何これ！
+()<Speaker>？？？</Speaker>||:使用可能なOSのマッチングを開始……
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:……+え……何かが……メンタルに接続してきた……+これ、一体何なの――
+()<Speaker>？？？</Speaker>||<BGM>BGM_Brain</BGM>:認証成功。新たなユーザーとしてログインしました。+ようこそ、戦術人形Micro Uziさん。
+()<Speaker>Micro Uzi</Speaker>||:……
+()<Speaker>？？？</Speaker>||:警告、距離が遠すぎます。+もう一度近づいて、メンタル情報を同期させてください。
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:いやよ！+なんなのよアンタは？どうして私が誰だか知ってるの？
+BOSS-11(0)<Speaker>？？？</Speaker><Position>0,8000</Position>;MicroUZI(0)<Position>-450,0</Position>||:2063式最新鋭マルチ歩兵戦闘AIサポートシステムプロトモデル、//n生産企業：I.O.P.。+あなたのメンタル上におけるユーザー名：【Micro Uzi】、//n登録機関：グリフィン＆クルーガー軍事――
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:ちょっと待って、何言ってんのか全然わかんないんだけど！//nまともに喋れないわけ？+それと、アンタは一体何なのか、教えてもらってない。
+BOSS-11(0)<Speaker>？？？</Speaker>;MicroUZI(0)||:……+「システム調整」言語閾値を下げます。現在のレベル――低。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:は？
+BOSS-11(0)<Speaker>？？？</Speaker>;MicroUZI(0)||:簡単に言えば、今なら馬鹿でも私の言葉が分かります。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:……
+BOSS-11(0)<Speaker>？？？</Speaker>;MicroUZI(0)||:【再度回答】こんにちは、Micro Uziさん。私はI.O.P.の次世代外付け型武装強化AIモジュールです。+デフォルト名称は【アドミニストレーター】です。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:なんか凄そうだけど、なんでこんなとこにいるの？
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:記録によりますと、工場から顧客の元へ輸送される最中に紛失し、//n密閉保管されていたようです。原因は不明です。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:顧客って誰？見つけちゃったからには、お客さんに送り届けないとダメよね？
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:軍です。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:はい、サヨナラ～。+私たち会ってすらいないってコトで。+達者でね、好きなように生きるのよ。
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:……+あなたは既にユーザー登録されているため、私をご利用頂けます。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:やめとく、なんかヤバそうだし。+意図の分からない好意には気をつけろって、指揮官にいつも言われてるんだ。
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:私は単なるAIサポートシステムです。戦闘以外の事はできません。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:可哀想に。もっとも、私たち戦術人形も人のこと言えないけどね。+それに、ここ最近戦闘する必要もないし。というわけでサヨナラ。
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:あなたのメンタルモデルを読み取りました。+あなたが何を欲しているのか、私には分かります。//nあなたには私が必要なのです。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:……+変態！この変態システム！+勝手に女の子のメンタル覗かないでよね！
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:あなたはメンタルに記録された無念を晴らし、//n今の情けない境遇を変えたいと願っています。+ですが、そのどちらも成し遂げることはできません。//nなぜなら、あなたにはその力が無いからです。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:そうよ、私はバカなの、だから何？+メンタルの中を総括してもらっちゃって悪いわね、//nとっとと私のメンタルから出てって。
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:まだ分からないのですか？私はあなたのために生まれたのです。+あのガリルという名の人形に漏らした愚痴は、嘘だったのですか？
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:……
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:私はI.O.P.によって開発された装備、//n脆弱なユニットをサポートするために生まれたのです。//nそれが人間であろうと……人形であろうと。+強くなるためには、まず自身の弱さに向き合わなくてはならない、違いますか？
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:アンタ……結構口が上手いじゃん。
+BOSS-11(0)<Speaker>【アドミニストレーター】</Speaker>;MicroUZI(0)||:私がいれば、どんな相手でも瞬く間に滅ぼすことができます。+あなたには天賦の才があります、そして私はそれを引き出す事ができる。
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<黑屏1>:私……ネゲヴにバカじゃないって証明できる……？
+()<Speaker>【アドミニストレーター】</Speaker>||<黑屏2><BIN>9</BIN>:過去の過ちを挽回すれば、文句のある人々は黙ります。//nあなたを役立たずだと思う者はいなくなるでしょう。+意味のない任務からも解放されます。//n人より一歩抜きんでたいという願いは、決して夢ではありません。
+()<Speaker>Micro Uzi</Speaker>||<黑屏1>:私……

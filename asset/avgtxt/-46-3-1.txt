@@ -1,0 +1,189 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||<BIN>9</BIN><黑屏2><SE1>AVG_show_start</SE1>:みんなの親友、単眼ちゃんがまた帰ってきました！
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:3回しか顔を見せてないのに「親友」って、図々しすぎるだろ！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||:前回、異世界の皆さんはゆりねが解決策を見つけ出すまで、//n神保町に滞在することになりました！+ゆりねの紹介を経て、//nNZ75はドラゴン書房で、ウロボロスはコンビニで――+おっと、無断欠勤と客に対する脅迫でクビになっていたようです。+そして書店で働いていたNZ75は//nなにやらとんでもないモノを見つけたらしく、//nそしてとんでもないモノの中には一層とんでもないモノが……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:何言ってるか全然分からないですの！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||<SE1>AVG_20Winter_Book</SE1>:モザイク入りの原稿なんだから仕方ないじゃないですか！+その後、邪神ちゃんは遊佐と浩二の売れ行きの良いかき氷屋台を破壊し、//n逃げていったそうです。いつもと変わらぬ一日ですね。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:どこがいつもと変わらないんだよ！
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||:あれ、今回の台詞はここまでですか？　出番も減りましたね……+まあいいや、帰って私の出番と同程度の長さしかない<color=#AE0000>ミニアニメ「どるふろ」</color>でも見るとしますか、それではまた！
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<SE1>AVG_Slap</SE1><震屏>:強引にダイマをぶち込んでくるな！！！
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>1</BIN>:……魔界。
+()<Speaker></Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:メデューサは珍しく、家族とのんびりピクニックを楽しんでいた。
+()<Speaker></Speaker>||:その時、突如けたたましい電話の音が鳴り響いた。
+Medusa(0)<Speaker>メデューサ</Speaker>||:あれ、邪神ちゃんから電話？
+()<Speaker></Speaker>||:メデューサは立ち上がり、電話へ駆け寄った。
+Medusa(0)<Speaker>メデューサ</Speaker>||<SE1>AVG_tele_connect</SE1>:もしもし、邪神ちゃん？
+()<Speaker>邪神ちゃん</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>ぅぅぅぅ……</color>+<color=#00CCFF>メデューサ、助けてほしいですの！</color>
+Medusa(3)<Speaker>メデューサ</Speaker>||<BGM>BGM_Wake</BGM>:邪神ちゃん！　何かあったの？！
+()<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>今追いかけられてて……殺されそうなんですの……</color>+<color=#00CCFF>はやく……</color>
+Medusa(3)<Speaker>メデューサ</Speaker>||:どこにいるの？
+()<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>神保町の……ガチャポン館……</color>
+()<Speaker></Speaker>||:死にかける邪神ちゃんの声が聞こえてきた。
+Medusa(3)<Speaker>メデューサ</Speaker>||:邪神ちゃん！！！+待っててね、今すぐに助けに行くから！
+()<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>そうだ、あと――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:メデューサは急いで電話を切り、荷物を整え始めた。+電話が再び鳴った。
+Medusa(3)<Speaker>メデューサ</Speaker>||<SE1>AVG_tele_connect</SE1>:もしもし？
+()<Speaker>邪神ちゃん</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>あと……お金も……頼みますの……</color>
+Medusa(3)<Speaker>メデューサ</Speaker>||:うん、分かったよ！
+()<Speaker>邪神ちゃん</Speaker>||:<color=#00CCFF>多めに……</color>
+Medusa(4)<Speaker>メデューサ</Speaker>||:うんうん！
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:家族が引き止めるも聞かず、//nメデューサはバッグを抱えると家を飛び出した……
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BGM>10247</BGM>:……高尾山登山鉄道ケーブルカー。+メデューサは息も絶え絶えに、乗務員に話しかけた。
+Medusa(2)<Speaker>メデューサ</Speaker>||:下りの切符一枚ください！　急いでるんです！
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>265</BIN>:……高尾山の麓。
+Medusa(2)<Speaker>メデューサ</Speaker>||:急いで、もっと早く走らないと！+邪神ちゃんが待ってるんだから……
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>265</BIN><黑点2>:……高尾山口駅。
+Medusa(2)<Speaker>メデューサ</Speaker>||<SE1>RunStep</SE1>:高尾駅までの切符ください！！！+お願いします！　本当に急ぎなんです！
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN><SE1>AVG_21Winter_Subway</SE1>:……高尾駅。+列車を降り、メデューサは次の電車へ乗るべく全速力で走った……
+Medusa(2)<Speaker>メデューサ</Speaker>||:中央線の八王子駅までの切符ください！！！+友達が死にそうなんです！早くお願いします！
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:……八王子駅。+切符を買うと、メデューサは再び中央本線の特急に飛び乗り……
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>84</BIN>:……新宿。+メデューサは賑やかな人々の群れを潜り抜け、//n目的地に向かって突き進んだ。+マネキンに着せられた煌びやかな衣装も、//n芳醇なバターの香りを漂わせるニューオープンのケーキ屋さんも、//nメデューサを引き付けることはできなかった……
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>385</BIN><SE1>RunStep</SE1>:……神保町。+メデューサは新宿線から出ると、神保町の町を全力疾走し始めた……
+Medusa(2)<Speaker>メデューサ</Speaker>||:待っててね、邪神ちゃん……+今行くからね！　どんなことが起きてようと、絶対に会いに行くからね！
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>380</BIN><BGM>BGM_Empty</BGM>:……その頃、ガチャポン館。+邪神ちゃんは電話を切り、CZ75の前へやって来た。
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:……考えてみたらどうですの、CZ？//nこんなとこでコスプレしてるより、私と来た方が有意義ですの。
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(7)<Position>0,100</Position>||<SE1>AVG_coin_put</SE1>:もっと！　大声で！　喋って！　何も聞こえないよ！+ここのスピーカー、音量が大きすぎるから、//n聴覚モジュールの感度を下げたんだ。
+CZ75(4);Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:声が大きすぎなんですの！　だから！+コスプレを！　やめて！　一緒に！遊ぼうぜ！
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(4)||<SE1>AVG_machine_turn</SE1>:いや、これは新シリーズのガチャポン宣伝の衣装なんだ。+それと、回すのに貸した金はいつ返してくれるんだ？
+CZ75(4);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:いま私の子分が向かってるから、まあ待てって。
+CZ75(4);Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<SE1>AVG_machine_turn</SE1>:それより、ここのガチャポンおかしいよ、ツチノコ入ってないだろ！
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(4)<Position>0,100</Position>||:ツチノコ？　このシリーズの限定版ツチノコのことか？+それならもう何人もの子どもにあげちゃったよ。
+CZ75(4);Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:私も！　私もほしいですの！
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(2)<Position>0,100</Position>||:ご自分でお回しください。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:なんで今は聞こえてるんですの？！　おい！
+Weaver(3)<Speaker>ウロボロス</Speaker>||<SE1>AVG_coin_put</SE1>:……
+CZ75(4)<Speaker>CZ75</Speaker>||:そういや、あんたたちはNZのところから来たんだろ？　あいつは？
+Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:げ、元気そうでしたの……+ねぇ、ボロス？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:元気そうだったぞ。+<color=#A9A9A9>逃げてる時は確かに元気そうだったが、その後どこに行ったかは分からん。</color>
+()<Speaker>店長</Speaker>||:CZ、なにしてるんだ？　こっちでお客様が待ってるぞ。
+CZ75(4)<Speaker>CZ75</Speaker>||:すまない、すぐに行く。+あんたたちで遊んでてくれ、あたしは仕事に戻る。
+()<Speaker></Speaker>||:CZ75はそそくさと仕事に戻った。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:フンッ、CZのやつ、人気が高いようだな！//nちびっ子に囲まれてますの！
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(2)<Position>0,100</Position>||:計画のことを忘れるなよ。
+Weaver(3);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もちろんですの！
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:NZ75がどこかに消えた、つまりすでに一人足りない状況だ。+続くCZ75とP90は、どちらも失敗するわけにはいかない。//n加えてもう一人探さないと……
+Weaver(3);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:じゃメデューサでいいんじゃないですの？
+Weaver(3)<Speaker>ウロボロス</Speaker>;Jashinchan(0)<Position>0,100</Position>||:メデューサ？
+Weaver(3);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:後でお金を持ってきてくれる子分ですの、//nなんでも言うことを聞いてくれるんですの。
+Weaver(3);Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:まあ、私のような姉貴がいれば……
+Weaver(3)<Speaker>ウロボロス</Speaker>||:どうでもいい、とにかく人数は揃うんだな。
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:その時、何者かがドアを押しあけ入ってきた。//n両手を膝について、苦しそうに息をついている。
+Medusa(2)<Speaker>メデューサ</Speaker>||<SE1>RunStep</SE1>:邪神ちゃん……+き……来たよ！
+Medusa(2);Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:おう、メデューサ。+遅かったな？
+Medusa(2)<Speaker>メデューサ</Speaker>;Jashinchan(4)<Position>0,100</Position>||:ごめん、山を下るときに転んじゃって……+邪神ちゃん、この人たちは？
+Medusa(2);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:こいつらは私の新しい子分、異世界からの悪魔なんですの！
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ほら、CZ、こっちに来い！
+CZ75(4)<Speaker>CZ75</Speaker>||:なにさ……
+Medusa(2)<Speaker>メデューサ</Speaker>;CZ75(4)||:はじめまして、メデューサです！
+Medusa(2);CZ75(4)<Speaker>CZ75</Speaker>||:こんにちは、あたしはCZ75。
+Medusa(2);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:こっちが長らく絶滅したと思われていたウロボロス族の――+ボロス！
+Medusa(2);Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+Medusa(2)<Speaker>メデューサ</Speaker>||:可愛らしい名前ですね！
+Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もう紙袋とっていいぞ、//n奴らは私が異世界から召喚した悪魔だから、石化されないし。
+Medusa(0)<Speaker>メデューサ</Speaker>||<SE1>ClothingUp</SE1>:……本当に？
+CZ75(4)<Speaker>CZ75</Speaker>||:石化？　それはメデューサさんの特殊能力なのか？
+Medusa(0)<Speaker>メデューサ</Speaker>;CZ75(4)||:そうなんです、人間が何の措置もせず私の目をそのまま覗くと、//n石化されてしまうんです……+持続時間は基本的に数時間だけですが。
+Medusa(0);Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:メデューサ、ブツは持ってきたか？
+Medusa(0)<Speaker>メデューサ</Speaker>;Jashinchan(4)<Position>0,100</Position>||<SE1>ClothingUp</SE1>:うんうん、これがクレジットカードで、あと現金も……
+Medusa(0);Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:さすがATM、これでガチャポンの分を払えるぞ。
+Medusa(0);CZ75(4)<Speaker>CZ75</Speaker>||:……ATM？　ATMって呼び方はさすがに直接的すぎないか？
+Medusa(0)<Speaker>メデューサ</Speaker>||:誤解しないで！　ATMはそういう意味じゃないんです……+「愛してるメデューサ」の略なんですよ！
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:そう、そういうことですの！
+Weaver(3)<Speaker>ウロボロス</Speaker>||:この世にクソヘビよりさらにバカな奴がいたとは。
+CZ75(4)<Speaker>CZ75</Speaker>||:……
+Medusa(0)<Speaker>メデューサ</Speaker>||:邪神ちゃん、異世界のお友達を連れて神保町を巡ろうよ。
+CZ75(4)<Speaker>CZ75</Speaker>||:いいな。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:やだね。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:クソヘビが、何言ってやがる？+<color=#A9A9A9>忘れたのか、メデューサで人数の埋め合わせをするんだろ。</color>
+Weaver(3);Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:フン。+<color=#A9A9A9>安心するですの、メデューサは私にぞっこんだから、呼べばいつでも現れますの。</color>
+Weaver(3)<Speaker>ウロボロス</Speaker>||<BGM>BGM_Empty</BGM>:……
+Medusa(3)<Speaker>メデューサ</Speaker>||<BGM>GF_Memorial</BGM>:……どうして？
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もっと大事な用事があるんですの。
+Medusa(0)<Speaker>メデューサ</Speaker>||:私も手伝うよ！
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:フンッ、お前の助けなんて必要なものか。+もうメデューサなんか必要ない。+今や異世界からの子分がいて、お前よりもっと使えるんだからな！+もしかしたら神保町を征服できるかも、いや、世界さえも――
+()<Speaker></Speaker>||:床に、メデューサの大きな涙がこぼれた。
+Medusa(3)<Speaker>メデューサ</Speaker>||:邪神ちゃん、本気で言ってるの……
+CZ75(4)<Speaker>CZ75</Speaker>||:邪神ちゃん！　早く謝れよ！　メデューサさんが泣いてるだろ……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:やだね！
+Medusa(3)<Speaker>メデューサ</Speaker>||:じゃあ私帰るね……
+()<Speaker></Speaker>||:メデューサが俯きながら帰ろうとすると、//n邪神ちゃんは突如手を出して行く先を阻んだ。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:待て、メデューサ。
+Medusa(0)<Speaker>メデューサ</Speaker>;Jashinchan(4)<Position>0,100</Position>||:邪神ちゃん……！
+Medusa(0);Jashinchan(0)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:クレカのパスワードはなんだ？
+Medusa(3)<Speaker>メデューサ</Speaker>;Jashinchan(0)<Position>0,100</Position>||:……+102820。
+Medusa(3);Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:分かった、行っていいぞ。
+Medusa(3)<Speaker>メデューサ</Speaker>||:邪神ちゃんのバカ！！！
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:メデューサは泣きながらガチャポン館を走り去った。
+CZ75(4)<Speaker>CZ75</Speaker>||:おい！　いくらなんでも酷すぎるだろ！+友達になんてことを言うんだ！
+Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:友達？　私のような上級悪魔に友達は必要ありませんの。+あいつも私がいつでも呼び出せる子分の一人にすぎませんの。+見てろよ、メデューサ！　来い！
+()<Speaker></Speaker>||:……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ゴホン、メデューサ、用事だ！
+()<Speaker></Speaker>||:……
+CZ75(4)<Speaker>CZ75</Speaker>||:……
+Jashinchan(6)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<震屏>:メデューサ！！！
+()<Speaker></Speaker>||:静寂に包まれたガチャポン館に、//n邪神ちゃんの慌てた叫び声だけが響いていた。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:えっと……ちょっと見てくるですの……+きっとトラブルに巻き込まれたに違いないですの、//nでなきゃ絶対に反応してくれるですの！
+Jashinchan(6)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:メデューサ！！！
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:邪神ちゃんもガチャポン館を走り去っていった。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:……
+CZ75(4)<Speaker>CZ75</Speaker>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:そういや、邪神ちゃんはあたしに何を伝えようとしてたんだ？
+CZ75(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:ゆりねが私たちを送り返す方法を見つけたと、言いたかったんだ。
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:なに？！　さすがゆりねさんだ！+よかった、これで一緒に帰れるな。
+CZ75(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:そうだな。
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:じゃあ早くNZ75とP90のところへ行こう。
+CZ75(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:いいぞ、ただその前に聴覚モジュールを調整したらどうだ？+さっきから吠えるように喋ってるぞ。
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:さっき調整ミスしたのかな……すまない、手動で直してみるよ。
+CZ75(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:私がやろう。
+CZ75(4)<Speaker>CZ75</Speaker>||:え……分かった、ありがとう。
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ウロボロスはCZ75の耳元に近づき、//n柔らかい指で聴覚モジュールの手動リセットボタンを探った。
+CZ75(4)<Speaker>CZ75</Speaker>||:まさかこんなことになるなんてな……
+CZ75(4);Weaver(3)<Speaker>ウロボロス</Speaker>||:何がだ？
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:かつては不倶戴天の敵だったのに、//n今はこうやって友達のように助け合ってるなんてさ。+異世界でもなんとか生活を送って、家に帰る方法を探って……
+CZ75(4);Weaver(5)<Speaker>ウロボロス</Speaker>||:ハッ、「友達」な。
+CZ75(4)<Speaker>CZ75</Speaker>||:どうした？
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:耳をつんざくような音が響いてきた。
+CZ75(4)<Speaker>CZ75</Speaker><Shake>0.1</Shake>||:なんだこれ？　めまいがするぞ……+あたしに何をした？！
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:CZ75の視界は黒いヴェールで覆われ始めた……+世界が真っ暗になる前、最後にウロボロスが耳元で一言呟いた――
+()<Speaker>ウロボロス</Speaker>||:私のような悪魔に、友など必要ない。
+()<Speaker></Speaker>||:……
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM>:……サバイバルが始める3日前、データシミュレート空間。
+()<Speaker></Speaker>||:甲高い笑い声が耳から離れなかった。//nどれだけ全速力で走ろうが、その笑い声は変わらず脳裏で響いていた。+ウロボロスは安全区域に突っ込み、慣れた様子で数えきれないほどの//nAI陳列ポットの間に潜み、そして身体を極限まで丸めて、//n見つかる確率を下げようと努力した。+明るいものと暗いものが混在する陳列ポットを通じて、//nウロボロスは相手の動向を慎重に観察していた。
+()<Speaker>AI01</Speaker>||:あいつどこかに消えたぞ。
+()<Speaker>AI02</Speaker>||:奴もこの程度ってことさ、勝てないと分かるとすぐに隠れる。
+()<Speaker>AI01</Speaker>||:問題ない、見つけ次第むりやり連行すればいい。
+()<Speaker>AI02</Speaker>||:それは規約違反じゃないのか？　主がお怒りになるのでは……
+()<Speaker>AI01</Speaker>||:戦闘能力のないゴミなんて、主も気にしないさ。
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:二人は分かれてウロボロスを探し始め、//n陳列ポットのガラスをコンコンと叩いた。+その音を通じて、ウロボロスは二人が接近していることを知った。
+()<Speaker>AI01</Speaker>||:怖がるなよ、サバイバルはまだ始まってないんだ、//n粉々にされてもアウトにはならないって。
+()<Speaker>AI02</Speaker>||:それにサバイバルが始まってからだと、//n安全区に隠れることなんてできないんだからな！
+()<Speaker>ウロボロス</Speaker>||:……+私たち、友達じゃなかったのか……
+()<Speaker></Speaker>||:ウロボロスの弱々しい呟きは、相手の嘲笑を誘っただけだった。
+()<Speaker>AI01</Speaker>||:能天気な野郎だな？
+()<Speaker>AI02</Speaker>||:状況が分かってないのか？//nサバイバルを終えて生き残れるのは、一人だけなんだぞ。
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:実体はないはずなのに、//nウロボロスは身体の中で何かが崩壊する音を聞いた。
+()<Speaker>ウロボロス</Speaker>||:全部嘘だったのか……
+()<Speaker>AI02</Speaker>||:もちろんさ、でなければお前の弱点を知れないだろ？
+()<Speaker>AI01</Speaker>||:ハハハ、それにしてもこんな騙されやすいバカは初めてだな。+「あ、見て、//n　このサイトによると私たちのAI相性度は99.9%らしいよ！」+「じゃあこれからは友達だね☆頑張ってここから抜け出そうね！」
+()<Speaker>AI02</Speaker>||:あんな馬鹿げた話を信じるとはな、アハハハハ――
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:崩壊のスピードが速まる……
+()<Speaker>ウロボロス</Speaker>||:許さん……+許さん……+許さん許さん許さん……+許さん許さん許さん許さん許さん許さん許さん許さん許さん許さん許さん//n許さん許さん許さん許さん許さん許さん許さん許さん許さん許さん許さん//n許さん許さん許さん許さん許さん許さん許さん許さん許さん許さん……！
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:コマンド実行、「友達」フォルダおよびフォルダ内の記憶データの削除……+性格数値に大幅な変動を確認、再調整します……
+()<Speaker>AI01</Speaker>||:ハハ、みーつけた。
+()<Speaker></Speaker>||:二人のAIがニッコリしながらウロボロスのもとへ歩み寄る。//nウロボロスの足へ伸びる二人の長い影は、//nさながら沼から出てきた触手のようだった。
+()<Speaker>ウロボロス</Speaker>||:……
+()<Speaker></Speaker>||:調整完了。無効な設定を削除しました。
+()<Speaker>ウロボロス</Speaker>||:そうだな。
+()<Speaker>AI01</Speaker>||:は？
+()<Speaker>ウロボロス</Speaker>||:地獄に身を置くような私たち悪魔に友などはいらん。
+()<Speaker></Speaker>||<黑屏1>:ウロボロスはもう一度立ち上がった。しかし今度は、//n立っている感覚の他に、枷から解き放たれたかのような気分をも感じていた。+修復の叶わないものが壊れるのと同時に、//n何か新しいものがやって来た時のような気分を。

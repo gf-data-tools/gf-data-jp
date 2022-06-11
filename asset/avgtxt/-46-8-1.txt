@@ -1,0 +1,96 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>前回のあらすじ</Speaker><Position>0,300</Position>||<SE1>AVG_show_start</SE1><BIN>9</BIN><黑屏2><黑屏1>:こんにちは！　みんな大好き単眼ちゃんでございます！//nついに帰って来ることができました！+トラブルを巻き起こしたウロボロスと邪神ちゃんはお仕置きされ、//n神保町は元の平和を取り戻しました。+続きましては、そう。今回はこの『邪神ちゃん前線』の最終話なのです！+ついに最終話。私もいやいや続けていたのに、//nここにきて名残惜しく感じてきました。+みんなも私と離れるのは寂しいですよね！　そうですよね！+もしそうなら☆5評価をつけてくださいね、私の個人評価にも関わる話ですので……+それでは、最終話をどうぞご覧ください――
+()||<黑屏2><BIN>8</BIN><BGM>m_avg_casual</BGM>:……司令室。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……というわけだ。
+()<Speaker>指揮官</Speaker>||:うん、報告書にあった内容とほとんど一致している。
+BOSS-8(0)<Speaker>エージェント</Speaker>||:どうか、処分内容の決定を。+これは私たちの責任でございます。弁明の余地はありません。
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()<Speaker>指揮官</Speaker>||:もしチャンスがあったら、またするの？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:ああ、だがその時は完璧にこなしてみせよう。
+BOSS-8(0)<Speaker>エージェント</Speaker>||:……
+()||<SE1>AVG_Punch_Hit</SE1>:エージェントはウロボロスの後頭部に手を置くと、そのまま頭を倒した。
+BOSS-8(0)<Speaker>エージェント</Speaker>||:申し訳ございません、指揮官様。//nどうかウロボロスにもう一度だけご容赦を。+データベースにしばらくいたもので、//n口の利き方を忘れてしまっているのです。
+()<Speaker>指揮官</Speaker>||:大丈夫。CZの言う通り、//n私たちにはまだ慣れていくための時間が十分にある。+少なくとも今は、互いに一歩近づけてるはずじゃないかな？
+Weaver(3)<Speaker>ウロボロス</Speaker>||:……
+()<Speaker>指揮官</Speaker>||<黑屏1>:CZたちはまだ工場でチェックを受けてるところなんだけど、//n実はゆりねから晩ご飯のお誘いが来ていてね。+よかったら、一緒に行かない？
+()||<黑屏2><BIN>390</BIN><BGM>BGM_Empty</BGM>:ゆりねのアパートにて。
+Yurine(0)<Speaker>ゆりね</Speaker>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:……まさか本当に神保町を魔界にしてしまったと思ってたの？
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:はあ？　だから、どうやってお前を召喚したのか説明しただろ？！
+Jashinchan(4)<Position>0,100</Position>;Yurine(5)<Speaker>ゆりね</Speaker>||:プークスクス……
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Yurine(5)||:なに笑ってるんだ！
+Jashinchan(4)<Position>0,100</Position>;Yurine(0)<Speaker>ゆりね</Speaker>||:あんたは、完璧にコピーした神保町をもとにもう一つの世界を創って、//nそこにグリフィンの人形たちを引き込んだだけに過ぎないの。+あんたが中で懲らしめた人間たちは、//nみんなあんたの魔力で作り出されたものよ。
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Yurine(0)||:意味不明ですの！
+Jashinchan(4)<Position>0,100</Position>;Minosu(0)<Speaker>ミノス</Speaker>||:夢を見ていたようなもんだろ？
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Minosu(0)||:そんな悪の魔王がいてたまるか！！！
+Jashinchan(4)<Position>0,100</Position>;Medusa(0)<Speaker>メデューサ</Speaker>||:邪神ちゃん……
+Jashinchan(6)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Medusa(0)||:うう……メデューサ、お前だけですの、私に優しいのは……
+Jashinchan(6)<Position>0,100</Position>;Medusa(0)<Speaker>メデューサ</Speaker>||:お肉焦げちゃうよ……
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Medusa(0)||:……
+Jashinchan(2)<Position>0,100</Position>;Minosu(0)<Speaker>ミノス</Speaker>||:カルビ、もうちょい焼いた方がいいんじゃないか？
+Jashinchan(4)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Minosu(0)||:つべこべうるさいんですの！
+Jashinchan(4)<Position>0,100</Position>;Yurine(3)<Speaker>ゆりね</Speaker>||:邪神ちゃん。
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>;Yurine(3)||:……
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もう少しだけ焼いてやりますの！
+()||<黑屏1><SE1>AVG_tableware</SE1>:皆でテーブルを囲い、焼肉を食していた。
+()<Speaker>指揮官</Speaker>||<BIN>382</BIN><黑屏2>:本当に邪神ちゃんに食べさせなくていいのかい？
+()<Speaker>ゆりね</Speaker>||:大丈夫よ。彼女の手を汚そうとした上、//nグリフィンの皆に苦労をかけちゃったのだし。
+()<Speaker>ウロボロス</Speaker>||:クソヘビが。
+()<Speaker>エージェント</Speaker>||:お茶はまだかしら？　わたくしたち、待っているのですが。
+()<Speaker>ウロボロス</Speaker>||:クソグリフィンが、クソ鉄血が。絶対に呪ってやる！
+()||:邪神ちゃんが肉を焼いていた頃、ウロボロスはお茶を淹れ続けていた。
+()<Speaker>邪神ちゃん</Speaker>||:ハラミがやけたぞ～、だれかいるか～？
+()<Speaker>ウロボロス</Speaker>||:ほら、茶だ。
+()<Speaker>メデューサ</Speaker>||:邪神ちゃん、何か食べたいものはある？+私が残してあげるよ。
+()<Speaker>邪神ちゃん</Speaker>||:わ、私は――
+()<Speaker>ゆりね</Speaker>||:ほっときなさい、メデューサ。
+()<Speaker>メデューサ</Speaker>||:う……
+()<Speaker>指揮官</Speaker>||:メデューサ、肉を取ってくれる？
+()<Speaker>メデューサ</Speaker>||:はい、こちらに――
+()<Speaker>邪神ちゃん</Speaker>||<黑屏1>:……クソクソクソーッ！
+()||<BIN>9</BIN><黑屏2>:指揮官の取り皿へ移されるA5ランク和牛を見た邪神ちゃんが、//n怒りに任せてテーブルをひっくり返す。+それと同時に、目に止まらぬ速さで中にあった肉を食べきってしまった。
+Minosu(2)<Speaker>ミノス</Speaker>||:邪神ちゃん！
+Yurine(3)<Speaker>ゆりね</Speaker>||:どうやらお仕置きが足りなかったようね。
+()||:邪神ちゃんはビクビク怯えながら食べていた肉を吐き出した。+ゆりねが包丁を持ち、無表情で邪神ちゃんの方へ歩み寄っていく……
+Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<黑屏1>:く、来るなァ！+うぎゃああああああ――
+()<Speaker>エージェント</Speaker>||<黑屏2><BIN>383</BIN>:ウロボロス、こっちに来て食べなさい。
+()<Speaker>ウロボロス</Speaker>||:ああ。
+()||:邪神ちゃんの叫び声が響く中、//nエージェントはウロボロスの分を器へよそった。
+()<Speaker>エージェント</Speaker>||:ただし、食べるからには次のテストで満点を取っていただきますわ。
+()<Speaker>ウロボロス</Speaker>||:……+ハッ。
+()<Speaker>エージェント</Speaker>||<黑屏1>:……
+()<Speaker>メデューサ</Speaker>||<BIN>9</BIN><黑屏2>:やめようよぉ。+喧嘩はよくないって……
+()<Speaker>ミノス</Speaker>||:肉を顔に投げつけるな！　もったいないだろ！
+()||:混乱の只中で、指揮官だけは楽しく肉を焼きながら、//nその美味しさを堪能するのであった。
+()<Speaker>指揮官</Speaker>||<SE1>AVG_deep_frying</SE1><黑屏1>:良い一日にはやっぱり焼肉だね！
+()||<黑屏1> <BGM>BGM_Empty</BGM><CGDelay>3</CGDelay>:邪神ちゃんコラボ END.
+()||<黑屏2><BIN>89</BIN><BGM>BGM_Hello</BGM>:……グリフィン基地、食堂倉庫にて。+ぺこらが昼寝から目を醒ました。//nが、ミノスとメデューサの影は既に見当たらなくなっていた。
+Pekora(0)<Speaker>ぺこら</Speaker>||:……
+G36Mod(0)<Speaker>Gr G36</Speaker>||:……
+QSB91(0)<Speaker>QSB-91</Speaker>||:……+G36姉、どうしよう？
+G36Mod(0)<Speaker>Gr G36</Speaker>||:この方は？
+Pekora(2)<Speaker>ぺこら</Speaker>;G36Mod(0)||:ひぃい……悪魔！　こっちに来るなぁ！
+Pekora(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:悪魔？
+Pekora(2)<Speaker>ぺこら</Speaker>;G36Mod(0)||:天使の輪を失っても、ぺこらは決して尊厳を捨てませんからね！
+Pekora(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:天使の輪？
+Pekora(2);QSB91(0)<Speaker>QSB-91</Speaker>||:あなた、ぺこらっていうの？
+Pekora(2)<Speaker>ぺこら</Speaker>;QSB91(0)||:まさしく、私がぺこらです！
+G36Mod(0)<Speaker>Gr G36</Speaker>;QSB91(0)||:何か彼女に食べさせてあげましょう、ワン。
+G36Mod(0)<Speaker>Gr G36</Speaker>||:きっと空腹のあまり錯乱しているんだわ。
+QSB91(0)<Speaker>QSB-91</Speaker>||:ハーーイ！
+()||<SE1>RunStep</SE1>:ワンちゃんはキッチンへ駆け込むと、チャーハンを素早く運んできた。
+QSB91(0)<Speaker>QSB-91</Speaker>||:へいお待ち！
+()||:チャーハンからあふれる香りに、ぺこらは唾をのんだ。
+Pekora(3)<Speaker>ぺこら</Speaker>||:いいにおいです……
+Pekora(2)<Speaker>ぺこら</Speaker>||:ぺこらは悪魔の施しなど受けません！+<size=50>ぺこらは屈したりなどしないのです！</size>
+()||:（お腹の鳴る音）+お腹の音が、倉庫の中をこだました。
+Pekora(0)<Speaker>ぺこら</Speaker>||:……
+G36Mod(0)<Speaker>Gr G36</Speaker>||:……+チャーハンがお気に召さなかったのね。//nワン、他のを持ってきなさい。
+QSB91(0)<Speaker>QSB-91</Speaker>||:ハーイ！　かしこまり！
+()||<SE1>RunStep</SE1>:ワンちゃんはもう一度キッチンへ駆け込むと、//n今度はビーフカレーを持ってきた。
+QSB91(0)<Speaker>QSB-91</Speaker>||:これどうぞ！
+Pekora(0)<Speaker>ぺこら</Speaker>||:ぺ、ぺこらは……
+G36Mod(0)<Speaker>Gr G36</Speaker>||:無理はいけません。+あなたにどのような使命があるのかは存じませんが、//nそれでも食事は取らなくてはならないものです。違いますか？
+Pekora(0)<Speaker>ぺこら</Speaker>||:……
+()||:ぺこらの目には、白い翼をつけたG36とワンちゃんが映っていた。
+Pekora(3)<Speaker>ぺこら</Speaker>||:主よ。ぺこらは天界へ帰ってこられたのですね……
+()||<黑屏1>:真・邪神ちゃんコラボ END.
