@@ -308,6 +308,20 @@
         "source_description": ""
     },
     {
+        "id": 33,
+        "name": "G&K500",
+        "description": "戦争の中で、取捨選択を行うのは当然だ。手放すべき者の手を、掴もうとするな。",
+        "group_id": "75",
+        "code": "commander_3310_icon",
+        "bonus_plastic": "",
+        "skill_id": 0,
+        "path": "CLASS33",
+        "is_class": 0,
+        "des_year": "2021",
+        "source": 2,
+        "source_description": "イベント「鏡像論」ランキング報酬"
+    },
+    {
         "id": 34,
         "name": "最後の挨拶",
         "description": "罪を確実に破滅させることが出来るのならば、公共の利益の為に私は喜んで死を受け入れよう。",
@@ -390,5 +404,19 @@
         "des_year": "2022",
         "source": 1,
         "source_description": ""
+    },
+    {
+        "id": 46,
+        "name": "ほろ酔いの招待状",
+        "description": "私を連れて、夢の宴会へ赴くといい。そして夢が覚めた頃、共に酔った者たちは変わらず、君の傍にいるだろう。",
+        "group_id": "88",
+        "code": "commander_4640_icon",
+        "bonus_plastic": "",
+        "skill_id": 0,
+        "path": "CLASS46",
+        "is_class": 0,
+        "des_year": "2022",
+        "source": 2,
+        "source_description": "四周年ログイン報酬"
     }
 ]
