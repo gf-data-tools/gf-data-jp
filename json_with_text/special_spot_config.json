@@ -6070,7 +6070,7 @@
     {
         "id": 440302,
         "name": "[avg]-44-B1-2First",
-        "description": "搜寻目标",
+        "description": "目標捜索",
         "code": "TargetPoint_Radar",
         "priority": 440302,
         "duration_type": "1",
@@ -6662,7 +6662,7 @@
     {
         "id": 440611,
         "name": "[avg]-44-B2-1-A",
-        "description": "搜寻目标",
+        "description": "目標捜索",
         "code": "TargetPoint_Radar",
         "priority": 440611,
         "duration_type": "1",
@@ -6699,7 +6699,7 @@
     {
         "id": 440612,
         "name": "[avg]-44-B2-1-B",
-        "description": "搜寻目标",
+        "description": "目標捜索",
         "code": "TargetPoint_Radar",
         "priority": 440612,
         "duration_type": "1",
@@ -6736,7 +6736,7 @@
     {
         "id": 440613,
         "name": "[avg]-44-B2-1-C",
-        "description": "搜寻目标",
+        "description": "目標捜索",
         "code": "TargetPoint_Radar",
         "priority": 440613,
         "duration_type": "1",
@@ -6810,7 +6810,7 @@
     {
         "id": 440800,
         "name": "记忆碎片可读取标记",
-        "description": "读取记忆",
+        "description": "記憶解読",
         "code": "Memorys",
         "priority": 440800,
         "duration_type": "1",
@@ -6995,7 +6995,7 @@
     {
         "id": 440900,
         "name": "最终剧情点标记",
-        "description": "深度探索",
+        "description": "深域探索",
         "code": "TargetPoint_Radar",
         "priority": 440900,
         "duration_type": "1",
@@ -35743,7 +35743,7 @@
     },
     {
         "id": 6440052,
-        "name": "请达成下述条件",
+        "name": "以下の条件を達成",
         "description": "",
         "code": "Rodelero",
         "priority": 6440052,
@@ -36187,7 +36187,7 @@
     },
     {
         "id": 6440064,
-        "name": "保证丹德莱存活",
+        "name": "ダンデライオンを生存させる",
         "description": "",
         "code": "Dandelion_Gri",
         "priority": 6440064,
@@ -63272,7 +63272,7 @@
     {
         "id": 44400005,
         "name": "【标记】任务目标计数_下半部",
-        "description": "情报搜集",
+        "description": "情報収集",
         "code": "Console",
         "priority": 44400005,
         "duration_type": "1",
