@@ -1,0 +1,8723 @@
+[
+  {
+    id: 1
+    name: かぼちゃクマさん
+    extra: 0
+    fit_gun: 8
+    ai: 40001
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: みんなどこに隠れたのかな～？悪戯しちゃうよ～
+    note: この世には、オバケなんていない。でも、あなた達は今日、指揮官と一緒に過ごせるハロウィンイベントの邪魔をしたのよ……
+    explore_tag: "3001"
+    gift_position: "54.2,-115.6"
+    illustrator_cv: skin-40000001
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 2
+    name: にゃんこヴェクター
+    extra: 0
+    fit_gun: 20
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どこどこー？あたしはこういうの大好きー。ずーっとこういう雰囲気だったら、悪くないんだけどなー。
+    note: あたしに仕事か何か？
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000002
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 3
+    name: 闇夜の使い魔
+    extra: 0
+    fit_gun: 26
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官様、今日はわたしが一年で一番好きな日です！皆がいーっぱいお菓子をくれる日です、えへへっ。
+    note: 分かりました、伝えます！
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000003
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 4
+    name: キャンディ・エクスプレス
+    extra: 0
+    fit_gun: 33
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ハロウィンってなんだか少し怖いですよね。え？コスプレ？それはちょっと興味あるかな…えへへ…
+    note: 今回は許してあげます。でも、こんど来るときは一番上等なベーキングパウダーを持ってきてくださいね。
+    explore_tag: "3001"
+    gift_position: "46,-142.3"
+    illustrator_cv: skin-40000004
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 5
+    name: 古典派魔女
+    extra: 0
+    fit_gun: 36
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: うふふ、ハロウィンですね。M14ちゃんがはしゃいでます。
+    note: そんなにじっと見つめてたら……宜しくないですわね。
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000005
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 6
+    name: 古城探検
+    extra: 0
+    fit_gun: 48
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ひぃっ！…べ、別に怖がってないわよ！わーっ、かぼちゃ頭持ってくんな！
+    note: みんな嘘っぱちなのよ、怖いわけないじゃない！この世にほんとにいるわけ……
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000006
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 7
+    name: カーミラ
+    extra: 0
+    fit_gun: 80
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お菓子くれるの？嬉しい！指揮官だーいすきっ！
+    note: お菓子くれるの？嬉しい！指揮官だーいすきっ！
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000007
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 8
+    name: スイートな小悪魔
+    extra: 0
+    fit_gun: 99
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今夜はみんな、仮装して遊びに来るんだよねー・・・でも、ダーリンの隣は絶対に譲らないんだから！
+    note: ん？ダーリン、気に入った？あなたのために特別に用意したのよ。
+    explore_tag: "3001"
+    gift_position: "112.9,-120.3"
+    illustrator_cv: skin-40000008
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 9
+    name: 引きこもりゾンビ
+    extra: 0
+    fit_gun: 122
+    ai: 40009
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お菓子がもらえるなら、ちょっとは参加したいかも。え？条件付き？・・・・・・いいや。
+    note: う～、人生ってままならないよね、十中八九はさ……
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000009
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 10
+    name: フォーマルハンター
+    extra: 0
+    fit_gun: 50
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 戦場だろうと、狩猟場だろうと、あなたのために勝利という栄誉を刻んでみせます！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000010
+    order: 5
+    class_id: 3
+  }
+  {
+    id: 11
+    name: 異国の魔女
+    extra: 0
+    fit_gun: 94
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: まあ、誰かしら？ハロウィン……ですか。お菓子をまだ用意してなくて、抹茶アイスでいいかしら？
+    note: あぁ、それ、わたしの個人的な趣味です。ポットは釣り合いを取るための重りよ。
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40000011
+    order: 5
+    class_id: 1
+  }
+  {
+    id: 101
+    name: 寝起きのおバカさん
+    extra: 0
+    fit_gun: 32
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 何よ、これなら満足？ほんとバカの趣味って分からないわ……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000101
+    order: 10
+    class_id: 3
+  }
+  {
+    id: 102
+    name: バニーガール
+    extra: 0
+    fit_gun: 75
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: はーい、ベット終了で～す。指揮官、勝算はどれくらいですか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000102
+    order: 10
+    class_id: 13
+  }
+  {
+    id: 103
+    name: やんちゃノイジー
+    extra: 0
+    fit_gun: 91
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 独立独歩が海賊のやり方さ！反論とか障害なんて、ぼくには効かないよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000103
+    order: 10
+    class_id: 8
+  }
+  {
+    id: 104
+    name: 水辺のキャミソール
+    extra: 0
+    fit_gun: 94
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官……こんな高尚な趣味がおありだったんですね。一緒に美味しいお茶を頂きませんか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000104
+    order: 10
+    class_id: 3
+  }
+  {
+    id: 105
+    name: 週末SP
+    extra: 0
+    fit_gun: 96
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 週末にあたしとデートしたい？じゃあ、セキュリティは任せて、特別サービスだよ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000105
+    order: 10
+    class_id: 3
+  }
+  {
+    id: 106
+    name: パーティーハニー
+    extra: 0
+    fit_gun: 80
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 早くパーティー始めようよ～、これ以上ぐずぐずしてたら、みんな待ちきれなくなっちゃうってば！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000106
+    order: 10
+    class_id: 3
+  }
+  {
+    id: 201
+    name: 青春の光
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000201
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 202
+    name: フリーストリート
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000202
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 203
+    name: ロックレンチ
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000203
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 204
+    name: グリフィンの制服
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000204
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 205
+    name: ダイヤと花火
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000205
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 206
+    name: ウィンターパーティー
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: "-23.1,-139.2"
+    illustrator_cv: skin-40000206
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 207
+    name: ブラックキャット
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: "-23.1,-139.2"
+    illustrator_cv: skin-40000207
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 208
+    name: 恋人のささやき
+    extra: 0
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ""
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000208
+    order: 0
+    class_id: 52
+  }
+  {
+    id: 301
+    name: 星への願い事
+    extra: 0
+    fit_gun: 1
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス！ツリーが綺麗だね！
+    note: コーラは人生の必需品だよ！だから指揮官……一緒にコーラを飲もうよ！
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000301
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 302
+    name: ホーリーナイトの祝福
+    extra: 0
+    fit_gun: 36
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: うふふ、クリスマスだから、腕によりをかけてお料理しましょう。
+    note: 私にもクリスマスのサプライズがあるなんて思いもしませんでしたわ。今日はとっても素敵な祝日ですね！
+    explore_tag: "3002"
+    gift_position: "-8.5,-157.1"
+    illustrator_cv: skin-40000302
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 303
+    name: クリスマス・ドレス
+    extra: 0
+    fit_gun: 37
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス！指揮官、サンタさん来ますよね？来ますよね！？
+    note: もしプレゼントをうっかりなくしてしまっても大丈夫！このM14が必ず探し出してみせます！
+    explore_tag: "3002"
+    gift_position: "11.2,-142.1"
+    illustrator_cv: skin-40000303
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 304
+    name: 聖夜のルームウェア
+    extra: 0
+    fit_gun: 38
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官！サンタクロース狩りにでも行く？でも、実は家で暖かくしてるほうが好きなんだけどねー。
+    note: ジョークを言うはとても難しいけど……指揮官と約束したから、私絶対にあきらめないよ！
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000304
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 305
+    name: 冬の妖精
+    extra: 0
+    fit_gun: 43
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どう？わたしのクリスマスドレス。似合うのは当然だろう。せっかく着たのだから、ちゃんと見てくれ…。
+    note: やはり本場のクワスはいいものだ。しかしなかなか手に入らんからなぁ……いつか満足いくまで飲めるといいんだが。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000305
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 306
+    name: 雪の日の約束
+    extra: 0
+    fit_gun: 48
+    ai: 40306
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あんたどうせ暇でしょ。一人じゃかわいそうだから、付き合ってあげるわ。
+    note: このお酒のラベルをとってあるのは、単に故郷の物なんてなかなか見ることができないからよ。指揮官に感謝してとかじゃないんだからね！
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000306
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 307
+    name: 聖夜のトナカイ
+    extra: 0
+    fit_gun: 53
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: クリスマスには雪が降るのか？雪は見たことないんだ。楽しみだなぁ…
+    note: 初めて雪を見たが、本当に素晴らしいな……寒いことを除けばだが。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000307
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 308
+    name: ウィンターヴェール補給作戦
+    extra: 0
+    fit_gun: 106
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官…さっさと舞踏会を終わらせましょう。このドレスじゃ…ちょっと寒いわ…
+    note: センスが素晴らしいとショッピングをする時、凡人とはまた違った楽しみがあるの。指揮官、あなたはまだまだセンスを磨く必要があるわ。それと、体力もつけておきなさい。
+    explore_tag: "3002"
+    gift_position: "5.2,-144.3"
+    illustrator_cv: skin-40000308
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 309
+    name: 緋色のナイトウォッチ
+    extra: 0
+    fit_gun: 109
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、窓はわたしが拭いておく。今日ぐらい指揮官は動かなくていいよ。
+    note: みんなと一緒にクリスマスが過ごせて本当に愉快だった。これからもイベントはこのように過ごしたいものだな。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000309
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 310
+    name: スノウエルフ
+    extra: 0
+    fit_gun: 115
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官…今夜のわたしの服、どうですか？？サンタクロースをお迎えする者として、ちゃんとおめかししなきゃダメですよね。
+    note: クリスマスソングの合唱は大成功でしたね！いつの日か私の故郷の音楽もクリスマスソングのようにみんなに受け入れられるとよいのですが……
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40000310
+    order: 7
+    class_id: 4
+  }
+  {
+    id: 401
+    name: サルビア
+    extra: 0
+    fit_gun: 66
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: しんにぇんくぁいらー！指揮官！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000401
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 402
+    name: ヒマワリ
+    extra: 0
+    fit_gun: 91
+    ai: 40402
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、明けましておめでとう！新年もたくさん一緒にあそんでよね！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000402
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 403
+    name: ゴールドデイジー
+    extra: 0
+    fit_gun: 126
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: はぁ？一発芸？そ、そんなの出来ない……どうしよう……。分かった、ちょ、ちょっとだけだ！ちょっ…笑うんじゃない！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000403
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 404
+    name: シクラメン
+    extra: 0
+    fit_gun: 128
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、明けましておめでとうございます！指揮官のおかげで去年は成長できました！今年も頑張りますから期待しててくださいね！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000404
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 405
+    name: グレース
+    extra: 0
+    fit_gun: 129
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 新年ですよ、指揮官。今年は仲間が増えたら、お年玉も多めに準備しないとね。97式の分は昨日あげたから、大丈夫。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000405
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 406
+    name: 牡丹
+    extra: 0
+    fit_gun: 130
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 新年だよぉ～ほら、お姉ちゃんからもらったお年玉だよぉ～。毎年この日だけはお姉ちゃんがお姉ちゃんで良かったって思う…
+    note: ""
+    explore_tag: ""
+    gift_position: "-44,-188.9"
+    illustrator_cv: skin-40000406
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 407
+    name: サクラソウ
+    extra: 0
+    fit_gun: 132
+    ai: 40407
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 新年だよ、新年だよ！お年玉の出費が大変だよ、指揮官さま、助けて～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000407
+    order: 9
+    class_id: 5
+  }
+  {
+    id: 408
+    name: ロマンチックな任務
+    extra: 0
+    fit_gun: 42
+    ai: 0
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日はバレンタインね。指揮官、わたしの気持ちを受け取って。さもないと…
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000408
+    order: 1
+    class_id: 6
+  }
+  {
+    id: 409
+    name: 「待った？」
+    extra: 0
+    fit_gun: 101
+    ai: 0
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、今日もらったチョコ、多すぎないですか？…だから、もう一つもらってもいいんじゃない？うふふふ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000409
+    order: 1
+    class_id: 6
+  }
+  {
+    id: 410
+    name: 「今回だけだから」
+    extra: 0
+    fit_gun: 103
+    ai: 0
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、これ、私からのチョコレート。もちろん、ちゃーんとみんなにも作ってきたんだから。やるでしょ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000410
+    order: 1
+    class_id: 6
+  }
+  {
+    id: 411
+    name: 英国の恋人
+    extra: 0
+    fit_gun: 114
+    ai: 0
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どうでしょうこのチョコ……毒味は済んでます。受け取ってください、指揮官。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000411
+    order: 1
+    class_id: 6
+  }
+  {
+    id: 501
+    name: ロードオブウォー
+    extra: 0
+    fit_gun: 58
+    ai: 0
+    voice: 4
+    is_hidden: 1
+    substitute_voice: ""
+    dialog: BOSS！戦場で生き残りたけりゃ、あたしとお揃いのクールなタトゥーを入れようぜ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000501
+    order: 5
+    class_id: 0
+  }
+  {
+    id: 503
+    name: μ-12
+    extra: 0
+    fit_gun: 1001
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: BB_Noel_503
+    dialog: 神輝召喚！ムラクモ起動！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000503
+    order: 11
+    class_id: 53
+  }
+  {
+    id: 504
+    name: マグナムウェディング
+    extra: 0
+    fit_gun: 1002
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 私の理想の旦那様はどこにいるの？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000504
+    order: 11
+    class_id: 53
+  }
+  {
+    id: 505
+    name: アナイアレイター
+    extra: 0
+    fit_gun: 1002
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: このエルフェルト=ヴァレンタインが、不適格な人形を殲滅します！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000505
+    order: 11
+    class_id: 53
+  }
+  {
+    id: 509
+    name: ポケットシティ女王二世
+    extra: 0
+    fit_gun: 1009
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ふふ～ん、みんなこういうのが見たかったんでしょう？私だってみんなのアイドルになれるんだよ～
+    note: ""
+    explore_tag: ""
+    gift_position: "-61.2,19.5"
+    illustrator_cv: skin-40000509
+    order: 27
+    class_id: 53
+  }
+  {
+    id: 510
+    name: ポケットシティ女王三世
+    extra: 0
+    fit_gun: 1010
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 次の曲か？……ああ！これか……ふっふ～ん、この曲なら、私の十八番なんだよね～
+    note: ""
+    explore_tag: ""
+    gift_position: "39.3,-57.1"
+    illustrator_cv: skin-40000510
+    order: 27
+    class_id: 53
+  }
+  {
+    id: 523
+    name: 歩く手術台
+    extra: 0
+    fit_gun: 221
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、う……うちの最初の患者になってくれます？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000523
+    order: 37
+    class_id: 0
+  }
+  {
+    id: 524
+    name: 親友のアーマー
+    extra: 0
+    fit_gun: 1020
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: なんでまだみんなから「ステラおばさん」と呼ばれるんだ？……セイ、これはきっと服装の問題ではないと思うが……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000524
+    order: 20
+    class_id: 68
+  }
+  {
+    id: 525
+    name: メガクリスマス・ドレス
+    extra: 0
+    fit_gun: 1019
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: わあぁ！アリガト！やっとこれを手に入れたよ！あたしと一緒にクリスマスを過ごす？ちょうどクリスマス専用の新しい源氏名を考えたよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000525
+    order: 20
+    class_id: 68
+  }
+  {
+    id: 526
+    name: 赤い彗星
+    extra: 0
+    fit_gun: 1022
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 必殺の関節技で基地の面倒事を全部片付けてやろうか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000526
+    order: 20
+    class_id: 68
+  }
+  {
+    id: 527
+    name: 親友の私服
+    extra: 0
+    fit_gun: 1018
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ようやくステラの悩みを理解できたと思うけど……胸のあたりが、まだ……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000527
+    order: 20
+    class_id: 68
+  }
+  {
+    id: 528
+    name: 中学生大冒険
+    extra: 0
+    fit_gun: 1021
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: まるで中学生の頃に戻ったような気分ね……もしかしたら、新しい恋を始めるべきなのかもしれない、あなたはどう思う？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000528
+    order: 20
+    class_id: 68
+  }
+  {
+    id: 529
+    name: モデル戦士
+    extra: 0
+    fit_gun: 1017
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: かわいい子に代わって、可愛がってあげる！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000529
+    order: 20
+    class_id: 68
+  }
+  {
+    id: 530
+    name: 少女の風船旅行
+    extra: 0
+    fit_gun: 55
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「家の座標はずっと覚えている、でも私は旅を諦めない。あなたも、私と一緒に風船に乗って冒険をしてくれますか？」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 影法师,戸松遥,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 531
+    name: 護られし愛し子
+    extra: 0
+    fit_gun: 56
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「こいつらどうして次から次へとわたしにちょっかいを出してくるの？誰か追い払ってくれたらいいのに……」
+    note: ""
+    explore_tag: ""
+    gift_position: "-137.1,-115.5"
+    illustrator_cv: 影法师,田村ゆかり,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 532
+    name: 花畑を舞うシルクハット
+    extra: 0
+    fit_gun: 57
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「なぜあなたの狂った冒険に付き合うのかって？カラスと書き物机が似ているからよ。」
+    note: ""
+    explore_tag: ""
+    gift_position: "-117.4,-159.7"
+    illustrator_cv: 影法师,加藤英美里,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 533
+    name: 隻眼の兎騎士
+    extra: 0
+    fit_gun: 54
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「早くしろ、遅刻するぞ……分かった、では最後に一つだけ質問に答えてやろう。答えはYesだ。」
+    note: ""
+    explore_tag: ""
+    gift_position: "-156.9,-65.1"
+    illustrator_cv: 影法师,山根希美,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 534
+    name: 稲田の守護者
+    extra: 0
+    fit_gun: 143
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「面倒なことであろうと、あなたを守れるのであれば24時間命令を待ちましょう。」
+    note: ""
+    explore_tag: ""
+    gift_position: "-103.86,-153.6"
+    illustrator_cv: 影法师,福原綾香,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 535
+    name: 願いを追う花の魔術師
+    extra: 0
+    fit_gun: 103
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「ピンポーン――ご予約の魔術師サービスです。え？そんな予約してないって？ではそこから離れてくださいね、今からドアを蹴り破りますので～」
+    note: ""
+    explore_tag: ""
+    gift_position: "-168.1,-125.5"
+    illustrator_cv: 影法师,嶺内ともみ,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 536
+    name: 願いを叶える花の魔術師
+    extra: 0
+    fit_gun: 101
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「デデーン――願いを叶える魔法事務所の開業だよ！もし何か叶えたい願いがあったら、45姉の後ろに並んでね！」
+    note: ""
+    explore_tag: ""
+    gift_position: "-37.9,-144.7"
+    illustrator_cv: 影法师,能登麻美子,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 537
+    name: アキツナデシコのキャンディ
+    extra: 0
+    fit_gun: 65
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「これをどうぞ――このキャンディを食べると、あなたと私の間に約束が交わされるんです。しっかりと守らないと許しませんからね。」
+    note: ""
+    explore_tag: ""
+    gift_position: "-113.1,-146.1"
+    illustrator_cv: 影法师,野中藍,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 538
+    name: 勇気を求めるレッキスラビット
+    extra: 0
+    fit_gun: 122
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「キューキュー――え？兎に声帯はないの？じゃあ次の任務も寝たふりをしとこうかな……」
+    note: ""
+    explore_tag: ""
+    gift_position: "-121.8,-80.1"
+    illustrator_cv: 影法师,福原綾香,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 539
+    name: 願いを見守る影の魔女
+    extra: 0
+    fit_gun: 102
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「ぱんぱかぱーん――あたいに預けられた願いは、人知れずこっそりと芽を生やす……」
+    note: ""
+    explore_tag: ""
+    gift_position: "-109.4,-181"
+    illustrator_cv: 影法师,上間江望,
+    order: 33
+    class_id: 59
+  }
+  {
+    id: 541
+    name: シャドウ・オペレーション
+    extra: 0
+    fit_gun: 1025
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 格好つけるための単独行動は身勝手な大人のすることです。私は準備万端ですよ、いつでもあなたにご一緒できます。
+    note: ""
+    explore_tag: ""
+    gift_position: "-89.16,-148.4"
+    illustrator_cv: ""
+    order: 34
+    class_id: 53
+  }
+  {
+    id: 542
+    name: 自由のレストラン
+    extra: 0
+    fit_gun: 1024
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日はウェイトレスとして来ましたから、ヴァイオリンはまたいつか聴かせますね。
+    note: ""
+    explore_tag: ""
+    gift_position: "-152.9,-104.5"
+    illustrator_cv: ""
+    order: 34
+    class_id: 53
+  }
+  {
+    id: 543
+    name: 童話のはじまり
+    extra: 0
+    fit_gun: 1027
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: なんか昔にも、お出かけ前にこういう風におしゃれしたような気が……ペロ？！どこから来たの？
+    note: ""
+    explore_tag: ""
+    gift_position: "-124.5,-133.1"
+    illustrator_cv: ""
+    order: 34
+    class_id: 53
+  }
+  {
+    id: 544
+    name: アルテミスの休日
+    extra: 0
+    fit_gun: 1023
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 早く行きましょう、今夜の海辺からはオリオン座が見えますよ。
+    note: ""
+    explore_tag: ""
+    gift_position: "-121.4,-158.3"
+    illustrator_cv: ""
+    order: 34
+    class_id: 53
+  }
+  {
+    id: 545
+    name: 朝風の箱庭
+    extra: 0
+    fit_gun: 1026
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: おはようございます。ようこそ私の菜園へ。ここは昔誰かからもらったもので、今はあなたのものでもあります。
+    note: ""
+    explore_tag: ""
+    gift_position: "-126.3,7.8"
+    illustrator_cv: ""
+    order: 34
+    class_id: 53
+  }
+  {
+    id: 546
+    name: マンハッタンの盾
+    extra: 0
+    fit_gun: 1029
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: また面倒事ですか……まったく、この街は面倒事で十分一杯だというのに。
+    note: ""
+    explore_tag: ""
+    gift_position: "-169,-72.4"
+    illustrator_cv: ""
+    order: 43
+    class_id: 53
+  }
+  {
+    id: 547
+    name: ファイアアサルト
+    extra: 0
+    fit_gun: 1028
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 何やら、誰かを救いに行く仕事のようだね……
+    note: ""
+    explore_tag: ""
+    gift_position: "-61.4,-46.1"
+    illustrator_cv: ""
+    order: 43
+    class_id: 53
+  }
+  {
+    id: 548
+    name: ファング
+    extra: 0
+    fit_gun: 65
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 自由と平等は生まれながらに備わっているものではありません。服従か死か、選べるのはこれだけです。
+    note: ""
+    explore_tag: ""
+    gift_position: "-134,-74.2"
+    illustrator_cv: ""
+    order: 43
+    class_id: 53
+  }
+  {
+    id: 549
+    name: ヘルファイア
+    extra: 0
+    fit_gun: 20
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 街の浄化には、多少の犠牲が付き物……
+    note: ""
+    explore_tag: ""
+    gift_position: "-180.1,-121.1"
+    illustrator_cv: RIRE,早見沙織,
+    order: 43
+    class_id: 53
+  }
+  {
+    id: 553
+    name: 墟上の烈日
+    extra: 0
+    fit_gun: 54
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この楽器、見た目のわりには軽いな。しかし、演奏は資料をダウンロードしただけで出来るもんじゃない……指揮官、おまえはどうだ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 暖森,山根希美,
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 555
+    name: 回るペンローズ
+    extra: 0
+    fit_gun: 103
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: さっきからずっと上り続けてる？じゃあ上に向かおうと下に向かおうと、同じってことよね？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 51
+    class_id: 64
+  }
+  {
+    id: 556
+    name: ボレロを舞う雀
+    extra: 0
+    fit_gun: 101
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ほら、踊ろう！素晴らしいパフォーマンスにするため、サボっちゃだめだよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 51
+    class_id: 64
+  }
+  {
+    id: 557
+    name: 打奏のアフロレーロ
+    extra: 0
+    fit_gun: 65
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 打楽器は打楽器よ、私は気迫でM16A1に勝つんだから……G11、起きなさい。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 51
+    class_id: 64
+  }
+  {
+    id: 558
+    name: 混迷のシンフォニー
+    extra: 0
+    fit_gun: 122
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ほんとに指揮なんか無理だって！多すぎる、メンタルが焼ききれちゃう！もう戻って寝るんだから――
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: --,福原綾香,
+    order: 51
+    class_id: 64
+  }
+  {
+    id: 559
+    name: クラインの間奏曲
+    extra: 0
+    fit_gun: 102
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 永遠に満たすことのできない瓶は、まるで耳にすることはできないけど、永遠に続いてる演奏のよう……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: --,上間江望,
+    order: 51
+    class_id: 64
+  }
+  {
+    id: 567
+    name: ハト男爵
+    extra: 0
+    fit_gun: 1030
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: このマントを甘く見てもらっちゃ困るですの。これはなんと、あのハト男爵のマントなのだ……一度着れば、とーーっても悪い奴になれますの。
+    note: ""
+    explore_tag: ""
+    gift_position: "-87.1,36.7"
+    illustrator_cv: ""
+    order: 56
+    class_id: 53
+  }
+  {
+    id: 568
+    name: 悪魔は隣にいる
+    extra: 0
+    fit_gun: 1033
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 衣装自体はかわいいけど、露出が多すぎるのよね……邪神ちゃん、ちょっとぶつからないでもらえるかしら――
+    note: ""
+    explore_tag: ""
+    gift_position: "-183.9,-138.2"
+    illustrator_cv: ""
+    order: 56
+    class_id: 53
+  }
+  {
+    id: 569
+    name: 濃厚生チョコ職人
+    extra: 0
+    fit_gun: 1032
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 大事な人に送る手作りチョコ♪　ほろ苦くて甘いチョコのように、私も大事な人と泣いたり笑ったりして過ごしたいな！
+    note: ""
+    explore_tag: ""
+    gift_position: "-120,-106"
+    illustrator_cv: ""
+    order: 56
+    class_id: 53
+  }
+  {
+    id: 570
+    name: はたらく天使さま！
+    extra: 0
+    fit_gun: 1031
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ポ――今日ののえるは人間のアイドルとしてここに立っています。ならば、それを守るのは天使の仕事です！
+    note: ""
+    explore_tag: ""
+    gift_position: "-148.4,-141.2"
+    illustrator_cv: ""
+    order: 56
+    class_id: 53
+  }
+  {
+    id: 571
+    name: 湖畔対酌の夜
+    extra: 0
+    fit_gun: 1034
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 支笏湖を前に温泉に入れるなんて体験、滅多に得られないからな！　一緒に乾杯しようぜ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-125,-25.8"
+    illustrator_cv: ""
+    order: 56
+    class_id: 53
+  }
+  {
+    id: 573
+    name: 午後の一局
+    extra: 0
+    fit_gun: 116
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: なるほど、こうやってコマを動かすんですね……あれ？指揮官もやってみたいんですか？さっき攻略本を読んできましたので、そう簡単には負けませんよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 64
+    class_id: 0
+  }
+  {
+    id: 574
+    name: ソウル・リペアラーJr.
+    extra: 0
+    fit_gun: 56
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: おっす！依頼を承ったスーパー修理士のM4 SOPMODII Jr様、ここのと～ちゃ～く！何をブツブツ言ってるのさ。え、うまく修理できなかったらどうするか？そんなの、もちろん解体し切っちゃうに決まってるじゃん！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: Su,田村ゆかり,
+    order: 62
+    class_id: 0
+  }
+  {
+    id: 601
+    name: 二人の旅路
+    extra: 0
+    fit_gun: 6
+    ai: 40601
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ……2人の間のこと…?よく分からないんですけど、教えてくださいますか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000601
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 602
+    name: 約束の時
+    extra: 0
+    fit_gun: 21
+    ai: 40602
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、あなたとこの神聖な契約を結べるなんて、私は今、人生で一番幸せです。これから、もっともっとたくさんの栄誉をあなたに捧げますわ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000602
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 603
+    name: 届いた想い
+    extra: 0
+    fit_gun: 29
+    ai: 40603
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: え？私の気持ちが……届いたの？なんの取り柄もない私に、こんな日が来るなんて……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000603
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 604
+    name: 一生守り抜く
+    extra: 0
+    fit_gun: 50
+    ai: 40604
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これから、私があなたをお守りします。これこそ、私の生涯最大の栄誉！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000604
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 605
+    name: あなたと共に
+    extra: 0
+    fit_gun: 85
+    ai: 40605
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これからも、共に道を切り開いていこうではないか。
+    note: ""
+    explore_tag: ""
+    gift_position: "18,-165"
+    illustrator_cv: skin-40000605
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 606
+    name: 掌の約束
+    extra: 0
+    fit_gun: 100
+    ai: 40606
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: おやおや、最終的に指揮官もわたしに落とされたね～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000606
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 607
+    name: 一番大事な日
+    extra: 0
+    fit_gun: 106
+    ai: 40607
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 大事な一日だけど、あまり緊張しないでね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000607
+    order: 4
+    class_id: 7
+  }
+  {
+    id: 701
+    name: 新学期
+    extra: 0
+    fit_gun: 57
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: こんど席が隣りになるのはM4A1、それとも……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000701
+    order: 3
+    class_id: 8
+  }
+  {
+    id: 702
+    name: 横柄な日直
+    extra: 0
+    fit_gun: 97
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ちょっとぉ、そこ、まだ綺麗になってない。日直じゃ怠けられないじゃん……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000702
+    order: 3
+    class_id: 8
+  }
+  {
+    id: 703
+    name: サバイバル社員
+    extra: 0
+    fit_gun: 125
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ワタシたちのサークルに入りたい？……サバイバルってただのゲームじゃないんですよ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000703
+    order: 3
+    class_id: 8
+  }
+  {
+    id: 704
+    name: 戦うセーラー
+    extra: 0
+    fit_gun: 138
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 波が来た。アタシたちの射程はあの大海原だって超えるのよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000704
+    order: 3
+    class_id: 8
+  }
+  {
+    id: 801
+    name: スカーレットスター
+    extra: 0
+    fit_gun: 27
+    ai: 40801
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: サソリのバラに毒があるかって？それは、今までずっと一緒に頑張ってきた指揮官が一番分かってるでしょ？
+    note: 次のパーティーでは、絶対主役になる！
+    explore_tag: ""
+    gift_position: "-4.5,-111.7"
+    illustrator_cv: skin-40000801
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 802
+    name: 灯下のクイーン
+    extra: 0
+    fit_gun: 36
+    ai: 40802
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今晩のパーティーのスポットライトが……きっと最高の瞬間を照らしてくれますわ。
+    note: とても楽しい一年が過ごせましたわ、次の年はもっと多くの子が社交パーティーに参加できるといいですね。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000802
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 803
+    name: 月の海
+    extra: 0
+    fit_gun: 39
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 私たち、こんなにいろいろ経験してたんだ～。これからも、ずっとそばにいてくれるよね？
+    note: 私最後はどうやって宿舎に帰ったんだっけ？記憶があいまいだわ……でも、あんなに気持ちよく飲めたのは久しぶりね！
+    explore_tag: ""
+    gift_position: "-31.4,-190.9"
+    illustrator_cv: skin-40000803
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 804
+    name: 舞踏会の休止符
+    extra: 0
+    fit_gun: 48
+    ai: 40804
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ダンスのパートナー頼んどいたのに、いったい何してんのかしら……もうっ！な、なによ！遅刻してきたんだから文句いわないでよね！
+    note: ヴィオラケースで銃の持ち運びをするのは、悪くないアイデアだと思ったんだけど、意外にも厄介なことになっちゃったわね……次からはどうしようかしら？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000804
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 805
+    name: 星の繭
+    extra: 0
+    fit_gun: 65
+    ai: 40805
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、今晩の舞台……わたしと貴方、2人だけのものにしましょう？
+    note: どうしてみんな恐れに満ちた目でわたしのことを見るのよ……昨晩何かあったの？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000805
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 806
+    name: ノクターン
+    extra: 0
+    fit_gun: 75
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: レッドカーペットの準備はできました？転ぶ人が出ないようにしてくださいね？
+    note: ふぅ……昨日はリラックスするためのパーティーだったのに、とても疲れた感じがします。なのでもう少しだけ寝かせてください……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000806
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 807
+    name: 黒兎マキアート
+    extra: 0
+    fit_gun: 135
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 美味しいものは可愛いアタシにぴったり。今日のお祝いの贈り物として大サービスよ！
+    note: いつか社交パーティーへの参加を許してもらえるくらいにまで成長するんだから！フフッ、その時になったらみんな羨ましがるだろうね～
+    explore_tag: ""
+    gift_position: "35.8,-104.3"
+    illustrator_cv: skin-40000807
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 808
+    name: 祭典のフォルテ
+    extra: 0
+    fit_gun: 97
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 最後の演目が始まる？やっとあたしの出番ね！
+    note: アハハ……ホテルの倉庫を片付けるの忘れちゃってたみたい。ホテルのスタッフに迷惑かけてないといいけど……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000808
+    order: 18
+    class_id: 9
+  }
+  {
+    id: 901
+    name: ちびガンナー
+    extra: 0
+    fit_gun: 50
+    ai: 40901
+    voice: 4
+    is_hidden: 0
+    substitute_voice: MLEMK1_0
+    dialog: え？ど、どうしてこんな……だ、大丈夫です。これでも戦えますから！……たぶん……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000901
+    order: 6
+    class_id: 10
+  }
+  {
+    id: 902
+    name: 親指姫
+    extra: 0
+    fit_gun: 25
+    ai: 40902
+    voice: 4
+    is_hidden: 0
+    substitute_voice: MP40_0
+    dialog: 指揮官、肩叩きしましょうか？……いえ、大丈夫です。私、力持ちですから！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000902
+    order: 6
+    class_id: 10
+  }
+  {
+    id: 903
+    name: 変身！テディベア！
+    extra: 0
+    fit_gun: 96
+    ai: 40903
+    voice: 4
+    is_hidden: 0
+    substitute_voice: Grizzly_0
+    dialog: うう、人生ってこんなに辛いんだっけ？それとも、子供のときだけこんななの？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000903
+    order: 6
+    class_id: 10
+  }
+  {
+    id: 904
+    name: 幼き流離人
+    extra: 0
+    fit_gun: 112
+    ai: 40904
+    voice: 4
+    is_hidden: 0
+    substitute_voice: NEGEV_0
+    dialog: 指揮官、今日は子供にプレゼントをあげないと逮捕されちゃうよ～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000904
+    order: 6
+    class_id: 10
+  }
+  {
+    id: 905
+    name: ちびっ子メイド
+    extra: 0
+    fit_gun: 64
+    ai: 40905
+    voice: 4
+    is_hidden: 0
+    substitute_voice: G36_0
+    dialog: え？わたしの銃って、こんな大きかったのですか？では、頑張って成長しなければなりませんね……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40000905
+    order: 6
+    class_id: 10
+  }
+  {
+    id: 1101
+    name: 炎天下の任務
+    extra: 0
+    fit_gun: 53
+    ai: 41101
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 海風に殺気が混じっているようだ。ここは私に任せろ。
+    note: ""
+    explore_tag: ""
+    gift_position: "-2.9,-122.4"
+    illustrator_cv: skin-40001101
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1102
+    name: 夏の蝉の声
+    extra: 0
+    fit_gun: 129
+    ai: 41102
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この水着、早く97式に見せたいわぁ～、うふふ。
+    note: ""
+    explore_tag: ""
+    gift_position: "2.7,-147.4"
+    illustrator_cv: skin-40001102
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1103
+    name: 仲夏のエルフ
+    extra: 0
+    fit_gun: 115
+    ai: 41103
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: すごーい！海と空が繋がってますぅ～！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001103
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1104
+    name: トロピカルストーム
+    extra: 0
+    fit_gun: 146
+    ai: 41104
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官～！私と指揮官の影を海に映してみようよ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-70.6,-49.4"
+    illustrator_cv: skin-40001104
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1105
+    name: 盛夏の巡礼者
+    extra: 0
+    fit_gun: 153
+    ai: 41105
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官だけじゃなくて、みんなの目を引いちゃうよ？どうぞ見て見て～。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001105
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1106
+    name: ビーチプリンセス
+    extra: 0
+    fit_gun: 34
+    ai: 41106
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: うふっ、夏はやっぱりこの格好が一番気持ちいいですねー！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001106
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1107
+    name: 目覚めたマーメイド
+    extra: 0
+    fit_gun: 36
+    ai: 41107
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、海風の一番気持ちいい場所を一緒に探しましょう～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001107
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1108
+    name: 熱帯魚のいたずら
+    extra: 0
+    fit_gun: 48
+    ai: 41108
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: せっ、せっかく水着買ったから、着ないともったいないでしょ……べつに指揮官に見せるためじゃないもん！
+    note: ""
+    explore_tag: ""
+    gift_position: "-14,-100.7"
+    illustrator_cv: skin-40001108
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1109
+    name: クルーズクイーン
+    extra: 0
+    fit_gun: 142
+    ai: 41109
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ふ～ん、指揮官、ほんとセンスたっぷりのデザインを選んだわね。これで満足？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001109
+    order: 2
+    class_id: 11
+  }
+  {
+    id: 1201
+    name: 花と水
+    extra: 0
+    fit_gun: 173
+    ai: 41201
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、ワタシの邪魔だけはしないでくれよ？ワタシは今この祭りで一番美味しいりんご飴を探している最中なんだ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001201
+    order: 19
+    class_id: 12
+  }
+  {
+    id: 1202
+    name: 夏・花火・朝顔
+    extra: 0
+    fit_gun: 104
+    ai: 41202
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あら、こんな所でお会いするなんて……花火が上がるの、一緒に待ちましょうか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001202
+    order: 19
+    class_id: 12
+  }
+  {
+    id: 1203
+    name: 桜吹雪
+    extra: 0
+    fit_gun: 119
+    ai: 41203
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: せっかくこんなに賑やかなんだから、今晩はもう仕事の話はやめて、楽しまない？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001203
+    order: 19
+    class_id: 12
+  }
+  {
+    id: 1204
+    name: 三羽烏
+    extra: 0
+    fit_gun: 177
+    ai: 41204
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: えっへん！今晩のお祭りのゲーム、全部アタシが1番とるぜ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001204
+    order: 19
+    class_id: 12
+  }
+  {
+    id: 1205
+    name: 花は眠らない
+    extra: 0
+    fit_gun: 26
+    ai: 41205
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官さま、今回の花火大会ってどんななんでしょうね？楽しみです～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001205
+    order: 19
+    class_id: 12
+  }
+  {
+    id: 1301
+    name: 北極ギツネ
+    extra: 0
+    fit_gun: 79
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ちょっと気合入れてオシャレしてみたんだけど……ん～、大して変わんないか。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001301
+    order: 13
+    class_id: 13
+  }
+  {
+    id: 1302
+    name: 弾丸カフェ
+    extra: 0
+    fit_gun: 118
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、わたしがサービスするのはただ1人……あなただけです。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001302
+    order: 13
+    class_id: 13
+  }
+  {
+    id: 1303
+    name: 戦場のパティシエ
+    extra: 0
+    fit_gun: 63
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: スイーツは如何です？メニューにないものも試しにお作りできますけれど。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001303
+    order: 13
+    class_id: 13
+  }
+  {
+    id: 1304
+    name: 休日の街角
+    extra: 0
+    fit_gun: 88
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あちゃ～この服ゆるゆるじゃん。ちょっと不便だわ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001304
+    order: 13
+    class_id: 13
+  }
+  {
+    id: 1305
+    name: 夜更けのバー
+    extra: 0
+    fit_gun: 72
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、飲みすぎにはお気をつけになって……酔った場合はわたくしにお任せあれ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001305
+    order: 13
+    class_id: 13
+  }
+  {
+    id: 1401
+    name: 闇の王
+    extra: 0
+    fit_gun: 114
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: そんな変装でわたしが驚くとでも？死んだものは…ただ闇に帰るだけです。
+    note: ""
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40001401
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1402
+    name: 青丘狐
+    extra: 0
+    fit_gun: 127
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お菓子の準備ができました、みんなを呼んで来てくださいね。あっ、でも一度に来すぎても困りますよ。
+    note: ""
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40001402
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1403
+    name: 七番目の封印者
+    extra: 0
+    fit_gun: 148
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今夜はどのように過ごしたいですか？ひとまず怪談話は百個ほど用意しましたよ。
+    note: ""
+    explore_tag: "3001"
+    gift_position: "-66,77"
+    illustrator_cv: skin-40001403
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1404
+    name: 魔銃シスター
+    extra: 0
+    fit_gun: 100
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お菓子くれないなら、イタズラしーないっ！ふふ、今晩はお菓子大漁～。なぜって、あたしが可愛からに決まってるでしょ！
+    note: ""
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40001404
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1405
+    name: 最後のアリス
+    extra: 0
+    fit_gun: 168
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 安心してください、今夜の死のロックロールはワタシが奏でましょう。
+    note: ""
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40001405
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1406
+    name: 大事なお菓子を盗んでいきました
+    extra: 0
+    fit_gun: 70
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: トリックオアトリート！トリックオアトリート！！トリックオアトリート！！！
+    note: ""
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40001406
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1407
+    name: ウルフ・ウォーカー
+    extra: 0
+    fit_gun: 124
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今夜もらった初プレゼントだよ、どれどれ……ギャ！！…やっぱり罠だったか…
+    note: ""
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: skin-40001407
+    order: 22
+    class_id: 14
+  }
+  {
+    id: 1501
+    name: デモンハンター
+    extra: 0
+    fit_gun: 16
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ハイソな場所に出入りするなら、それなりのカッコして、それなりに振る舞わなきゃな。これも社会のルールってやつだ。
+    note: オペラを最後まで鑑賞できなかったのが、ちょっと残念だ。今度は誰の邪魔も入らないときに観たいもんだな。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001501
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1502
+    name: オペラ座の怪人
+    extra: 0
+    fit_gun: 183
+    ai: 41502
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 美しい衣装は舞台公演を成功へ導くためなのですね。つまり……衣装も実力のうちだということですか？
+    note: 任務完了後に劇場が舞台写真を送ってきてくれました。正面から撮った写真がよかったです……
+    explore_tag: ""
+    gift_position: "-132,-166"
+    illustrator_cv: skin-40001502
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1503
+    name: 淑女の密命
+    extra: 0
+    fit_gun: 173
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: フン、正装をしたところで、ワタシの勝利がより完璧なものになるだけだ。
+    note: 指揮官、領収書を受け取ったとき顔色が悪かったが……どうしたんだ？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001503
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1504
+    name: 荒野のハンター
+    extra: 0
+    fit_gun: 109
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: こういう格好のほうが野外での戦闘に適しているんだ……これで更に仲間を守ることができる。
+    note: 戦闘の合間に飲むコーヒーは格別だな、ただのインスタントコーヒーであろうと。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001504
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1505
+    name: ベイビー・ライダー
+    extra: 0
+    fit_gun: 149
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ほら、違うビートが出た。こういうワタシもクールだぜ♪
+    note: うん、次のツーリングのときは、新しいビートを試してみよう♪
+    explore_tag: ""
+    gift_position: "-176,-57"
+    illustrator_cv: skin-40001505
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1506
+    name: パンク・ライダー
+    extra: 0
+    fit_gun: 180
+    ai: 41506
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ねぇ……この服も高いんだから、気をつけてよね！
+    note: 指揮官、バイクの鍵わたしとくね。練習の件、約束よ。忘れないこと。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001506
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1507
+    name: バーテンダー
+    extra: 0
+    fit_gun: 64
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: グーテンターク、ご主人様。このG36が、お側にお仕えさせていただきます。……こういうご挨拶のほうが、より執事らしくありませんか？
+    note: これが爆弾のコードです、危ないところでした。でも心配はいりません、これからも私が皆さまをお守りしますので。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001507
+    order: 16
+    class_id: 15
+  }
+  {
+    id: 1601
+    name: いじわるRFBのクリスマス
+    extra: 0
+    fit_gun: 172
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: クリスマスセールだ！早くプレゼント買ってよ指揮官！
+    note: ""
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40001601
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1602
+    name: 一番素敵な贈り物
+    extra: 0
+    fit_gun: 122
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス…晩ご飯はまだ？
+    note: ""
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40001602
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1603
+    name: 銃声を捧げる雪姫
+    extra: 0
+    fit_gun: 196
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: サンタを信じるか？そうですね、私がサンタを撃つことが出来たら信じます。…ふふ、冗談です。
+    note: ""
+    explore_tag: "3002"
+    gift_position: "-40.5,-75.5"
+    illustrator_cv: skin-40001603
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1604
+    name: 厳冬の木こり
+    extra: 0
+    fit_gun: 166
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 見てみて、サンタさんのヒゲもぎとった！あはははマジウケる！
+    note: ""
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40001604
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1605
+    name: プレゼント売りのクリスマスツリー
+    extra: 0
+    fit_gun: 185
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官。ソックスにボタンを一個入れて、サンタさんにプレゼントしましょうか。
+    note: ""
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40001605
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1606
+    name: お望み通りのクリスマス
+    extra: 0
+    fit_gun: 75
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: クリスマスは好きですよ～。ケーキもおいしいし、楽しいです！
+    note: ""
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: skin-40001606
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1608
+    name: 森のトナカイさん
+    extra: 0
+    fit_gun: 145
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官さま！今夜はイベントがいっぱいありますね、ガイドとか要りませんか？
+    note: ""
+    explore_tag: "3002"
+    gift_position: "-52.1,-152.5"
+    illustrator_cv: skin-40001608
+    order: 24
+    class_id: 16
+  }
+  {
+    id: 1701
+    name: うさぎ班
+    extra: 0
+    fit_gun: 128
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: えへへ、指揮官、私の電話番号欲しいんですか？ちゃんと電話してくださるのならいいですよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001701
+    order: 14
+    class_id: 17
+  }
+  {
+    id: 1702
+    name: ThanX！&Go2Hell！
+    extra: 0
+    fit_gun: 126
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これが今最新のファッションなんだ！入手ルートは秘密なんだが……ふっ、褒めたければ素直に褒めればいい！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001702
+    order: 14
+    class_id: 17
+  }
+  {
+    id: 1703
+    name: 粉雪につつまれて
+    extra: 0
+    fit_gun: 98
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 水中の冷たさに慣れると……この暖かい時間がもっと幸せに感じるんですよ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001703
+    order: 14
+    class_id: 17
+  }
+  {
+    id: 1704
+    name: 異国迷路のクロスロード
+    extra: 0
+    fit_gun: 156
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今のうちに出発しよう！アタシたちの進む道に迷う暇はないよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001704
+    order: 14
+    class_id: 17
+  }
+  {
+    id: 1705
+    name: ほしのむこう
+    extra: 0
+    fit_gun: 159
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 仕事服じゃなくてもいいの？……ふふ、いいわよ、これがお望みであるのなら。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001705
+    order: 14
+    class_id: 17
+  }
+  {
+    id: 1801
+    name: 春牡丹
+    extra: 0
+    fit_gun: 179
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、新年のパーティーで、私にアピールの機会はあるのかしら？
+    note: 紅包の中身は私の思う通りにいかなかったから、ほんの少し残念だったけれど……代わりに面白いものが見れたわ……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001801
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1802
+    name: 梅の印
+    extra: 0
+    fit_gun: 188
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あっという間に新年ですね。指揮官、理想の未来にまた一歩、近づいたのでしょうか？
+    note: わあ……こんな可愛い包み、燃やしちゃうなんてもったいないですよ！やっぱり一つ残しておこう……ART556だけには見つかるわけにいきません！
+    explore_tag: ""
+    gift_position: "-88.8,-197.6"
+    illustrator_cv: skin-40001802
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1803
+    name: 甘藍
+    extra: 0
+    fit_gun: 175
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、ずっと家にこもってばかりじゃつまんないよ、一緒に出かけて冒険しようよ！
+    note: うぅ……助けてよぉ！指揮官！もじゃもじゃお化けに食べられちゃうよ――！
+    explore_tag: ""
+    gift_position: "-181,-104.3"
+    illustrator_cv: skin-40001803
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1804
+    name: 玉簾
+    extra: 0
+    fit_gun: 192
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今年はどんな正月イベントがあるんだろ？アタシを楽しませてくれるかな～？
+    note: 人間はすぐに忘れてしまうんだから……この予備ボタン、アタシが代わりにとっててあげる！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001804
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1805
+    name: 蜂蜜花
+    extra: 0
+    fit_gun: 99
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ダーリン、気付いた？今日のわたくし、何か変わったことありますか？いつもよりもバッチしメイクを決めてきたんだから！あけましておめでとう！
+    note: この「餃子」って食べ物、ダーリンが結構気に入ってるみたい。レシピを残しておいて、またいつか作ってあげようかなっ。
+    explore_tag: ""
+    gift_position: "-133,-219.8"
+    illustrator_cv: skin-40001805
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1806
+    name: 雪朝顔
+    extra: 0
+    fit_gun: 155
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 明けましておめでとうございます、指揮官。休日であっても、リッラクスはほどほどにしてくださいね。
+    note: 剪紙という切り絵細工はなかなか興味深いですね。同時に忍耐力を鍛えることもできる。今回の準備作業、なかなか良い収穫がありました。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001806
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1807
+    name: 白山茶
+    extra: 0
+    fit_gun: 174
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、今年の目的地はどこですか？これからもお供させて下さい！
+    note: これは中古用品店で探り出した、オリジナルの乗車券です……懐かしいですね、なくさないよう大切にします。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001807
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1808
+    name: 矢車草
+    extra: 0
+    fit_gun: 81
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、明けましておめでとうございます。昨年の財務表が出たけど大きな浪費もなかったわ。今年も頑張りましょうっ。
+    note: こんな派手に浪費して……みんなと過ごせて楽しいけど、やはり普段から節約は徹底すべきですよ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001808
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1809
+    name: 東湖蓮
+    extra: 0
+    fit_gun: 95
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ご主人様、明けましておめでとうございます。新年はどうやって過ごすおつもりですか？ゆっくりコーヒーでも飲んで考えませんか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001809
+    order: 26
+    class_id: 18
+  }
+  {
+    id: 1901
+    name: 盲信者
+    extra: 0
+    fit_gun: 20
+    ai: 41901
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: たくさんいじめたから、たまにはいじめられてもいいかな。
+    note: こんな雰囲気ぶち壊しの写真を残しておいてホントにごめん。だけど、これが写真を撮った時のあたしの本当の気持ち……たぶん。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001901
+    order: 11
+    class_id: 19
+  }
+  {
+    id: 1902
+    name: 幸せの微笑み
+    extra: 0
+    fit_gun: 142
+    ai: 41902
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ありがとう。これからもそばに居させて。一番信頼のできるパートナーになってあげるわ。
+    note: もしいつか結婚式の招待状を出す時が来たら……このシーリングスタンプを使いましょ！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001902
+    order: 11
+    class_id: 19
+  }
+  {
+    id: 1903
+    name: 小さな一歩
+    extra: 0
+    fit_gun: 26
+    ai: 41903
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どこもかしこもちっちゃいわたしですが、おそばにいていいんですか？
+    note: やっぱり他の人と同じように大きなスカートを履いてみたいです……なので、これから目標に向かって頑張りますね！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001903
+    order: 11
+    class_id: 19
+  }
+  {
+    id: 1904
+    name: 純白の矢車菊
+    extra: 0
+    fit_gun: 64
+    ai: 41904
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これからも貴方様専属のメイドとして、おそばに置いてくださいませ。
+    note: 帰ったあとで、髪に花の飾りがついていたことに気づきました。記念としてとっておきます。
+    explore_tag: ""
+    gift_position: "43.6,-175.8"
+    illustrator_cv: skin-40001904
+    order: 11
+    class_id: 19
+  }
+  {
+    id: 1905
+    name: いつまでも心を一つに
+    extra: 0
+    fit_gun: 66
+    ai: 41905
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: とにかく、あとで後悔しても知らないからね、アハハ！もう離さないから！
+    note: このスタンプとってもストレートなデザインだね、あとで使う機会があればいいな……ハハ、多分ないかな。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001905
+    order: 11
+    class_id: 19
+  }
+  {
+    id: 1906
+    name: ハートに命中！
+    extra: 0
+    fit_gun: 44
+    ai: 41906
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メモはとらなくていいですよね？だって1回で十分ですもの。
+    note: スタジオが贈り物をしてくださるんですか？本当の結婚式がどういう感じなのかはわかりませんが、受け取るのは少し申し訳ない気持ちになりますね……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40001906
+    order: 11
+    class_id: 19
+  }
+  {
+    id: 2001
+    name: 極東の姫君
+    extra: 0
+    fit_gun: 194
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 戦場の姫を怒らせないほうがいいよ、けど私に跪くのはまだ早いんじゃない？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002001
+    order: 44
+    class_id: 20
+  }
+  {
+    id: 2002
+    name: ムーンライト
+    extra: 0
+    fit_gun: 212
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 現在に至るまでに、あの月明りは一体どれだけの重なり合う運命を見てきたのかな？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002002
+    order: 44
+    class_id: 20
+  }
+  {
+    id: 2003
+    name: 一陽来復
+    extra: 0
+    fit_gun: 177
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: アタシが寒い冬に火をつけて、この凍てついた世界に自分の灰を残してあげる。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002003
+    order: 44
+    class_id: 20
+  }
+  {
+    id: 2004
+    name: 玄黄ノ鳳凰
+    extra: 0
+    fit_gun: 133
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 四海全てが私の射程範囲、度胸があるやつだけかかってこいです！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002004
+    order: 44
+    class_id: 20
+  }
+  {
+    id: 2101
+    name: ベストオファー
+    extra: 0
+    fit_gun: 179
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今晩の出会いを心に刻みましょう。この美酒は、きっと味わい尽くせないものになるでしょうね。ふふっ……
+    note: 秘密が女を女たらしめるの……好奇心とリスク、あなたは一体どっちをとるんでしょうね？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2102
+    name: 星夜の舞踏会
+    extra: 0
+    fit_gun: 96
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、舞台に上がって踊りたいの？技術なんて要らないよ、指揮官の足取りに情熱がこもっていれば大丈夫！
+    note: 今回のことは私には何が何だか……まぁいいや。過ぎたことを考えてるより、指揮官にお詫びを貰うことのほうが重要だからね！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2103
+    name: ナイトフォール
+    extra: 0
+    fit_gun: 114
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この暗黒の祭典にどうやら招かれざる客が来ているようです。警戒を怠らないでください。
+    note: 罪の沼に飲み込まれようと、そばにいる人が縄を投げ込んでくれる。このような幼稚で衝動的な行動を、人間は「友情」と呼ぶのでしょう。
+    explore_tag: ""
+    gift_position: "-120.8,-188.4"
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2104
+    name: 白の王妃
+    extra: 0
+    fit_gun: 196
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 時間が巻き戻ろうと、その間にあった全てのことが私たちに未来へ向かって進む力をくれる……そうですよね？
+    note: 真相は随分と高価なものでしたね、指揮官。それで、私のマニュキュアは買ってきてくれました？
+    explore_tag: ""
+    gift_position: "-91.8,-98"
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2105
+    name: ミラクル女王
+    extra: 0
+    fit_gun: 1
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: みんな！手に持ったコーラを掲げて今夜の奇跡に乾杯しよー！
+    note: コーラを賭けに出したその瞬間、キミの負けは決まっていたんだよ。
+    explore_tag: ""
+    gift_position: "-43.6,-152.8"
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2106
+    name: 世界の歌
+    extra: 0
+    fit_gun: 101
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 会場が盛り上がり過ぎてて、45姉が見つからなくなっちゃうよ……まさか、一人でごちそうを食べに行っちゃったわけじゃないよね？
+    note: 今年の願い事か……うーん、今後の任務が全部今回みたいに面白くて楽だといいなっていうのはどう？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ZAGALA,能登麻美子,
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2107
+    name: ダイヤの花びら
+    extra: 0
+    fit_gun: 103
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: パーティーか……こういう雰囲気、私にはなんだか新鮮に感じる。指揮官はどう？楽しめてる？
+    note: 「不幸を届けに来た。」……こんなことが言えること自体、私に言わせれば幸せなことなのかもね。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2108
+    name: 箱の中の猫
+    extra: 0
+    fit_gun: 93
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: にゃはは～会場のお宝手に入れたければ、この私を倒すことにゃ！
+    note: 今回は負けちゃったけど、私はまた帰ってくるにゃ！……にゃに？それは敵役のセリフ？私は騙されないにゃ！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2109
+    name: 白夜の星言葉
+    extra: 0
+    fit_gun: 131
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官さん、パーティーでの任務が成功したら、そのあと小さな祝賀会は開いたりする？
+    note: 本当に大切なのは私たちのパフォーマンスだなんて、まったく……そう言われると自分が輝いてるような気がしてきちゃうわ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 32
+    class_id: 21
+  }
+  {
+    id: 2201
+    name: 勇ましいちびカルカノ
+    extra: 0
+    fit_gun: 197
+    ai: 42201
+    voice: 4
+    is_hidden: 0
+    substitute_voice: Carcano1891_0
+    dialog: シノ～こっちだよ～来ないと一人にしちゃうよ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-4.5,-122.1"
+    illustrator_cv: skin-40002201
+    order: 23
+    class_id: 22
+  }
+  {
+    id: 2202
+    name: ミスピノキオ
+    extra: 0
+    fit_gun: 198
+    ai: 42202
+    voice: 4
+    is_hidden: 0
+    substitute_voice: Carcano1938_0
+    dialog: ちょっと…お姉ちゃん！そんなに遅いと、追いつけないよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002202
+    order: 23
+    class_id: 22
+  }
+  {
+    id: 2203
+    name: ファイファイの冒険
+    extra: 0
+    fit_gun: 142
+    ai: 42203
+    voice: 4
+    is_hidden: 0
+    substitute_voice: FN57_0
+    dialog: 指揮官はちゃんとアタシの手を繋いでね？あなたが迷子になったら困るよ～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002203
+    order: 23
+    class_id: 22
+  }
+  {
+    id: 2204
+    name: かえるの姫さま
+    extra: 0
+    fit_gun: 136
+    ai: 42204
+    voice: 4
+    is_hidden: 0
+    substitute_voice: PP19_0
+    dialog: この姿で戦ったら、敵をびっくりさせる効果があるかも知れないね？試し甲斐がある！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002204
+    order: 23
+    class_id: 22
+  }
+  {
+    id: 2205
+    name: ガチョウのふしぎな旅
+    extra: 0
+    fit_gun: 213
+    ai: 42205
+    voice: 4
+    is_hidden: 0
+    substitute_voice: CBJMS_0
+    dialog: 育ちざかりだから、魚の骨一本も無駄にしない……ぐぅ、ちょっと硬い……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002205
+    order: 23
+    class_id: 22
+  }
+  {
+    id: 2206
+    name: 二度とない大鴉
+    extra: 0
+    fit_gun: 202
+    ai: 42206
+    voice: 4
+    is_hidden: 0
+    substitute_voice: Thunder50_0
+    dialog: 「父母」がいないワタシたち…。「子供」と言えるのでしょうか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002206
+    order: 38
+    class_id: 34
+  }
+  {
+    id: 2301
+    name: 貴族体験館
+    extra: 0
+    fit_gun: 53
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: うーむ……甘すぎたか？もう少し苦めのほうがいいか。ご主人様はどっちが好みだ？
+    note: 紅茶を入れるのは面倒でもあるが……面白くもある。時間が空いた時にでも少し試してみるかな。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002301
+    order: 12
+    class_id: 23
+  }
+  {
+    id: 2302
+    name: 花びらの付き人
+    extra: 0
+    fit_gun: 183
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あ、あの……おかえりなさいませ、指揮……じゃなくて！ご、ご主人様！……すみません、次はうまくできるよう練習しておきます。
+    note: え？記念に写真をですか？本当に撮るんですか……うぅ……こんな格好、どんなポーズをとれば……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002302
+    order: 12
+    class_id: 23
+  }
+  {
+    id: 2303
+    name: 家政訓練
+    extra: 0
+    fit_gun: 97
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 足をあげて、そこからどいて！床が鏡になるぐらいきれいになるまでは、足跡の一つも許さないからね！
+    note: 大掃除の後だと、心も部屋もピッカピカ！うんうん、今回の訓練は宿舎でも推し進めるべきだよ！今度時間があれば指揮官に相談しようかな～
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002303
+    order: 12
+    class_id: 23
+  }
+  {
+    id: 2304
+    name: ビール牧場
+    extra: 0
+    fit_gun: 146
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: えへへ～ご主人様、ご注文のビールですよ！……もう一杯？ああ、これはバランスをとるためのものだよ！
+    note: あははは……G36姉、ごめん！秘伝書を借りた時に約束したでしょ？もう訓練をサボらないから信じてよ！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002304
+    order: 12
+    class_id: 23
+  }
+  {
+    id: 2305
+    name: 刻下の契り
+    extra: 0
+    fit_gun: 201
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 書類の整理が全然終わらない……メイドに休みはないってもっと早く気付くべきだった……
+    note: 指揮官が約束した休暇、いつになったらもらえるの？あぁ……もう疲れたよ……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002305
+    order: 12
+    class_id: 23
+  }
+  {
+    id: 2401
+    name: ビーチパンク2064
+    extra: 0
+    fit_gun: 62
+    ai: 42401
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: え？水遊びするの？でも……お耳濡れちゃうし……お洋服も……
+    note: ビーチも海も楽しかった！……この黒いやつ、いったい何に使うかわからないけど、バレーも面白かった！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002401
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2402
+    name: スムージー・エイジ
+    extra: 0
+    fit_gun: 206
+    ai: 42402
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 静かなものに注目する価値はない。指揮官、あなたはこの海に荒波と暴風をもたらす者なのかしら？
+    note: アイス摂取時の痛覚フィードバックは確かに欠陥と言えるわね。戦う必要がなくなったら修理してもらわないと。
+    explore_tag: ""
+    gift_position: "-130.4,-80.1"
+    illustrator_cv: skin-40002402
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2403
+    name: 日はまだ昇らない
+    extra: 0
+    fit_gun: 163
+    ai: 42403
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 日の光ほんとヤダ……日の光が嫌なのに海に行っちゃう自分はもっとヤダ……
+    note: 飴の食べ過ぎはよくないかもだけど……真面目な話ばっかしたから、飴を食べないのも逆によくないでしょ。ヤバっ、早く糖分を補給しないと……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002403
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2404
+    name: 潜水服は人形の夢を見る
+    extra: 0
+    fit_gun: 205
+    ai: 42404
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 装着完了。何を海底から浮かび上がらせるか、何を永久に海底に沈めておくかは全て指揮官の決定に委ねられています。
+    note: 海底ではすべてが停止している。AK12にリラックスしろと言われた時も同じ……悪い気分ではない。
+    explore_tag: ""
+    gift_position: "-115.8,-145.04"
+    illustrator_cv: skin-40002404
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2405
+    name: 砂糖菓子の銃弾は撃ちぬけない
+    extra: 0
+    fit_gun: 28
+    ai: 42405
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ちょっと飼育員、アンタのその表情は何よ……水泳なんて……水に慣れてから習い始めればそれでよくない？
+    note: まさか私以外にもしょっぱい飴が好きな人がいるなんて思わなかった、もしかしたらもっとお話しできたかも……？飼育員、アンタも彼女を見習ってね。
+    explore_tag: ""
+    gift_position: "-72.6,-40.3"
+    illustrator_cv: skin-40002405
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2406
+    name: FALの夏
+    extra: 0
+    fit_gun: 106
+    ai: 42406
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: こんな時に57のことを言うなんて、全く失礼しちゃうわね。今すぐに、あなたの「赤」に対する見解を聞かせてもらってもいいかしら？……ん？他に言いたいことでもあるの？
+    note: フフン、この水鉄砲は「平和」の象徴よ。しかも指揮官の「抱擁」をもたらしてくれたわ！このタグはとっておきましょう……夏の思い出としてね。
+    explore_tag: ""
+    gift_position: "-64,-17"
+    illustrator_cv: skin-40002406
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2407
+    name: G36との50日間
+    extra: 0
+    fit_gun: 64
+    ai: 42407
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: スムージー、フルーツ、それとも冷たいお飲み物をご所望ですか？このお天気ですので、熱中症にならないよう、お気を付けください。
+    note: うぅ……倒れてしまった上、皆さまにご迷惑までお掛けしてしまうなんて……次回は、オーバーヒート対策をしっかりしたいと思います。
+    explore_tag: ""
+    gift_position: "-123.96,-174.75"
+    illustrator_cv: skin-40002407
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2408
+    name: 盛夏の果実
+    extra: 0
+    fit_gun: 162
+    ai: 42408
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 海に来たんだから、わたしの改造したこのウェイクボード型シールドも使い道があるでしょ？スイカ……？夏だからね！
+    note: ウェイクボードに改造した古いシールド、アイデアはよかったけど……夏しか使えなくなっちゃったね……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002408
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2409
+    name: アメリのレシーブ
+    extra: 0
+    fit_gun: 185
+    ai: 42409
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 本当に……！ワタシと一緒にバレーがしたいと？今回はしっかりと用意してきましたよ！
+    note: 辛抱強く待っていたら、きっといつかいいことが起きますよね？きょ、今日のワタシはボタンをプレゼントするのにも成功したんですよ！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002409
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2410
+    name: 魔女の高弟
+    extra: 0
+    fit_gun: 9
+    ai: 42410
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これより皆さんにご覧いただくのは、全部夏の特別サービスです！撮影も録音も禁止ですよ！
+    note: もしかすると私が見たのは怪獣じゃなくて、海の守護神さまだったのかもしれません。ライブがうまくいったのもきっと神さまの加護のおかげです！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002410
+    order: 17
+    class_id: 24
+  }
+  {
+    id: 2501
+    name: Plague　Knight
+    extra: 0
+    fit_gun: 109
+    ai: 42501
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 時には歌詞を理解する必要もないんだ、ロックは「感じる」音楽だからな。私のライブで全部わからせてやろう。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002501
+    order: 15
+    class_id: 25
+  }
+  {
+    id: 2502
+    name: Dragon　Jr.
+    extra: 0
+    fit_gun: 122
+    ai: 42502
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ねぇ……眠れるドラゴンを起こしたらどんなことが起きるか分かってる？まぁ、聞いてみて……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002502
+    order: 15
+    class_id: 25
+  }
+  {
+    id: 2503
+    name: Witcher　General
+    extra: 0
+    fit_gun: 151
+    ai: 42503
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 天使の叫びと悪魔の祈り、私が残酷な欲望を全て、このステージで見せてあげるわ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002503
+    order: 15
+    class_id: 25
+  }
+  {
+    id: 2504
+    name: Steel　Butterfly
+    extra: 0
+    fit_gun: 199
+    ai: 42504
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どんなロックだろうと、ワタシのリズムについてこれないようなら、ただの単調な雑音にしかすぎないよ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002504
+    order: 15
+    class_id: 25
+  }
+  {
+    id: 2505
+    name: Electric　Witch
+    extra: 0
+    fit_gun: 152
+    ai: 42505
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 聞こえます……みんなの歓声。ぼくのベースソロでみんなをもっと盛り上げてあげます！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002505
+    order: 15
+    class_id: 25
+  }
+  {
+    id: 2601
+    name: パンプキン・スキュアー
+    extra: 0
+    fit_gun: 188
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ハロウィンと言ったら、やっぱりパンプキンですよね～でも、この串はカボチャで作ったものではないんですよ？食べてみませんか、指揮官？
+    note: け、計画は上手くいきませんでしたが……できる限りのことはしたんですよ？
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 36
+    class_id: 26
+  }
+  {
+    id: 2602
+    name: エルフ・ヘルシング
+    extra: 0
+    fit_gun: 222
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 聞いたところによれば、こういう改造を施した武器は魔力を充填しないと幽霊にダメージを与えられないとか……ですが、まずはメープルシロップで試してみたほうがいいのでは？
+    note: 皆さん必死に生き延びようとしていました、人間も人形も同じなんですね。
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 36
+    class_id: 26
+  }
+  {
+    id: 2603
+    name: ゴーストトラップ
+    extra: 0
+    fit_gun: 215
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この魅惑のトラップで好奇心旺盛なヤツらを待ち構えているのは、本物の幽霊たち……あれ？タレコミ掲示板ではもう生配信がスタートしたのか？
+    note: 「今後は節度をもってイタズラやドッキリをします。大変申し訳ありませんでした。」……ぐすっ……
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 36
+    class_id: 26
+  }
+  {
+    id: 2604
+    name: ガン・アンド・ザ・バガー
+    extra: 0
+    fit_gun: 69
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 悪霊たちが自分たちは地獄を見たことがあると勘違いしているのは、ここに来たことがないからです……わたくしの耳が、彼らの悲鳴を求めています。
+    note: いずれ勇気を奮い立たせて立ち向かわなければならないことが訪れようと、その時立ち止まなければいい、ですよね？かぼちゃのお化けさん？
+    explore_tag: "3001"
+    gift_position: "-142.7,-158.8"
+    illustrator_cv: ""
+    order: 36
+    class_id: 26
+  }
+  {
+    id: 2605
+    name: ジャック・ザ・トライン
+    extra: 0
+    fit_gun: 89
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: キャンディ、パンプキン、そしてゴースト。こういう日にはこの三つの要素が欠かせないな。
+    note: バランスを保つのがここまで難しいとは……だが強くなるための新しい方法を知れた気がする、悪くない。
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 36
+    class_id: 26
+  }
+  {
+    id: 2606
+    name: ウィッチアカデミア
+    extra: 0
+    fit_gun: 178
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「暗い夜に流れるお星さま、それこそが信頼の魔法だよ～」指揮官！箒の準備はいい？
+    note: 今夜は指揮官にアタシの詩を聞いてもらういい機会だったんだけどなぁ。また次の機会にしておくよ！
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 36
+    class_id: 26
+  }
+  {
+    id: 2701
+    name: 銃弾は鎖を撃ち抜いて
+    extra: 0
+    fit_gun: 208
+    ai: 42701
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この演出の弾丸は、全てあの人のハートを狙うためにあるの。私の愛を受け止めて～！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002701
+    order: 29
+    class_id: 27
+  }
+  {
+    id: 2702
+    name: かなで
+    extra: 0
+    fit_gun: 192
+    ai: 42702
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: アタシが歌詞を忘れちゃったら、その時はみんなで歌ってくれない？終わったらちゃんと握手会で埋め合わせするから。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002702
+    order: 29
+    class_id: 27
+  }
+  {
+    id: 2703
+    name: そらの飛び方
+    extra: 0
+    fit_gun: 224
+    ai: 42703
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: さあ、みんな！サイリウムを出して！あっ、赤に変えるのを忘れずにね？アイドルと言えばやっぱり赤でしょ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-103,-88.7"
+    illustrator_cv: skin-40002703
+    order: 29
+    class_id: 27
+  }
+  {
+    id: 2704
+    name: VRAIN Power
+    extra: 0
+    fit_gun: 189
+    ai: 42704
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: Full Comboを達成できるのは、アカデミー派のアイドルだけです！私のリズムについてくれば、置いて行かれることはありませんよ～！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002704
+    order: 29
+    class_id: 27
+  }
+  {
+    id: 2705
+    name: キセキ☆はじまる
+    extra: 0
+    fit_gun: 167
+    ai: 42705
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: イエーイ！ラブリーでチャーミングなミラクルアイドル、HK45だよ～！みんな～、あたしに続いて踊って～！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002705
+    order: 29
+    class_id: 27
+  }
+  {
+    id: 2706
+    name: 星々のキズナ
+    extra: 0
+    fit_gun: 5
+    ai: 42706
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: アイドルとは、いついかなる時代であろうと、光り輝くものなのじゃ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002706
+    order: 29
+    class_id: 27
+  }
+  {
+    id: 2801
+    name: クリスマスの朝
+    extra: 0
+    fit_gun: 233
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: クリスマスセールのためにクリスマスは存在してるって言っても過言ではないよね。だって、割引された値段だけがわたしの幸福を倍にしてくれるんだもの～
+    note: 今のわたしにとって、これこそが一番欲しかったものなのよね。メリークリスマス、グリフィンのみんな、一緒に頑張ろうね。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 57
+    class_id: 28
+  }
+  {
+    id: 2802
+    name: スカーレットターボ
+    extra: 0
+    fit_gun: 245
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ホントはサンタのコスをしたかったんだけど、プレゼント渡すときってみんな寝てるからさ～見る人がいないってのも寂しいでしょ？
+    note: メリークリスマス、指揮官。この言葉はみんなのマネなんかじゃないからね？
+    explore_tag: "3002"
+    gift_position: "-32.9,-157.8"
+    illustrator_cv: ""
+    order: 57
+    class_id: 28
+  }
+  {
+    id: 2803
+    name: 煙突掃除の女の子
+    extra: 0
+    fit_gun: 175
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: クリスマスプレゼントを消し炭に変えられたくなかったら、煙突は綺麗にしておいてね～
+    note: 目の前の世界がどれだけ小さくたって、アタシなら楽しみを見つけられるよ。これって幸せなことだと思わない？
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 57
+    class_id: 28
+  }
+  {
+    id: 2804
+    name: サテライト・オブ・ラブ
+    extra: 0
+    fit_gun: 164
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: サンタクロースの任務がこんなに大変だとは思わなかったわ……あのおじいさんはあんなに太ってるのにどうやって入ってるのかしら？
+    note: よし、と。次はだれ？プレゼントを配りに行く道すがら……もう一度よーく考えてみてね、ふふ……
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 57
+    class_id: 28
+  }
+  {
+    id: 2805
+    name: ブルークリスマス
+    extra: 0
+    fit_gun: 142
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、こんなに沢山プレゼントがあるのにアタシを選んだの？……ふふっ、なんたってこのアタシだものね。
+    note: この基地にバカしかいないものだと思っていたけど……考え方を改めないとね。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 57
+    class_id: 28
+  }
+  {
+    id: 2806
+    name: 子供たちのクリスマス
+    extra: 0
+    fit_gun: 64
+    ai: 41904
+    voice: 19
+    is_hidden: 0
+    substitute_voice: G36_0
+    dialog: これが欲しいです！あれも！あとは……みんなの夢が叶ってほしいです！
+    note: わたし……わたしはさっき自分だけのクリスマスを体験したんです。
+    explore_tag: "3002"
+    gift_position: "-17.5,37.5"
+    illustrator_cv: ""
+    order: 31
+    class_id: 28
+  }
+  {
+    id: 2807
+    name: 赤耳のTMP
+    extra: 0
+    fit_gun: 176
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: プレゼントがいっぱい……もう少し身軽な恰好のほうがプレゼントを配るのに都合がよさそうですね。はやくみんなに幸せを届けてあげなくちゃ。
+    note: なら……人形は人間らしくなければないほど自由だということですか？
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 57
+    class_id: 28
+  }
+  {
+    id: 2901
+    name: 新年の祈り
+    extra: 0
+    fit_gun: 243
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、あけましておめでとう……あっ、これ？そばなんだけど、食べてみる？……一応、私の得意料理でもあるんだけど……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002901
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2902
+    name: 正月のゲームマスター
+    extra: 0
+    fit_gun: 172
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: Happy New Year！ 指揮官、今年の「GOTY(ゲーム・オブ・ザ・イヤー)」受賞タイトルで遊ばない？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002902
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2903
+    name: 銃使ノ巫女
+    extra: 0
+    fit_gun: 228
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、明けましておめでとうございます。新年も順調にいくよう、共に頑張りましょう。
+    note: ""
+    explore_tag: ""
+    gift_position: "-73.1,-203.4"
+    illustrator_cv: skin-40002903
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2904
+    name: Insegui l'aquilone
+    extra: 0
+    fit_gun: 198
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、違いますよ、新年まであと1週間です。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002904
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2905
+    name: 始まりの鐘
+    extra: 0
+    fit_gun: 197
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官も新年の服が欲しいですか？デザインしてあげてもいいですよ～
+    note: ""
+    explore_tag: ""
+    gift_position: "-54.5,-4.8"
+    illustrator_cv: skin-40002905
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2906
+    name: 雪月花
+    extra: 0
+    fit_gun: 165
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 各地の年中行事をいろいろ調べましたが、意外とバラエティーに富んでますね。全部やってみたらどうですか。
+    note: ""
+    explore_tag: ""
+    gift_position: "0.77,-126.8"
+    illustrator_cv: skin-40002906
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2907
+    name: 夢花火
+    extra: 0
+    fit_gun: 60
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 新しい一年がはじまりましたね、指揮官。私…少しは大人になれてますか？えっ、クマが大きくなった？それはさっき洗ったばかりだから…
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002907
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 2908
+    name: お祭りの正しい遊び方
+    extra: 0
+    fit_gun: 249
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日は一日かけて宿舎の大掃除をしたよ！ついでに指揮官の部屋も掃除してあげよっか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40002908
+    order: 8
+    class_id: 29
+  }
+  {
+    id: 3001
+    name: 紫雨心
+    extra: 0
+    fit_gun: 119
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 明けましておめでとう。今年も頑張りましょ。
+    note: 贅沢な時間は少し犠牲になっちゃったかもしれないけど、いい取引ができたわね。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3002
+    name: 君影草
+    extra: 0
+    fit_gun: 59
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 来年も努力してよね、ボス。あと勘違いされると困るから言っておくけど、これはお世辞よ、お世辞！
+    note: 「万事意の如く」か……そうだね……あたし以外はそうなったね……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3003
+    name: 幽谷蘭
+    extra: 0
+    fit_gun: 238
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、あけましておめでとうございます！散歩に出かける予定とかあります……？私もついていっていいですか？
+    note: 外の世界は……やっぱり心臓に悪いです……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3004
+    name: 薄雪草
+    extra: 0
+    fit_gun: 148
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これからもどうぞわたくしを頼って下さい！勝利も、新年の願いも叶えてあげますから！
+    note: 例えここにいるのがわたくし一人だけであろうと頑張ります……まして……もう一人でないのならなおさらです。
+    explore_tag: ""
+    gift_position: "-1.8,-88"
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3005
+    name: 金蓮花
+    extra: 0
+    fit_gun: 166
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官あけおめ！正月だからって着込みすぎじゃない？ホント、か弱いね。
+    note: 見えたか？アタシの足元は真っ平だ、何にも残っちゃいないぜ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3006
+    name: 踊子草
+    extra: 0
+    fit_gun: 26
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 来年こそ、む、胸も成長できるように…頑張りますっ！
+    note: 年が明けましたね。今年はもっと強くなって、もっと難しい任務をこなせるようになりたいです！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3007
+    name: 瑠璃唐草
+    extra: 0
+    fit_gun: 210
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 時間は必ず、新たな答えを教えてくれます。だから今年も頑張っていきましょう。
+    note: ……95さん、私も一緒に春節を祝いたいのですが、よろしいでしょうか？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 46
+    class_id: 30
+  }
+  {
+    id: 3101
+    name: 幸せの使命
+    extra: 0
+    fit_gun: 115
+    ai: 43101
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ついにこの日が来ましたか。いつもそばにいてくれてありがとう、指揮官、私の使命、ようやく果たせました………
+    note: えっ……こんな写真いつ取ったんですか？！こんな弱った姿、人には見せられません……指揮官、こっそり撮ったのなら、今すぐ削除してください！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 27
+    class_id: 31
+  }
+  {
+    id: 3102
+    name: スターシルヴァー
+    extra: 0
+    fit_gun: 173
+    ai: 43102
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ワタシは強くなったのか、それとも弱くなったのか………その答えを教えてくれ。
+    note: 今回の任務もまた、完璧な結果に終わったな。エリートであるワタシが他とは一線を画することが、この任務で分かっただろう、指揮官？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 27
+    class_id: 31
+  }
+  {
+    id: 3103
+    name: 歩き出すあなた
+    extra: 0
+    fit_gun: 104
+    ai: 43103
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 私ももっとしっかりして、ご期待に応えないとダメですわね♪
+    note: 前に整理しておいた注意すべきこと、使う機会がありませんでしたね……記念として残しておきましょうか。またこのような任務を受ける機会があればいいんですけど……
+    explore_tag: ""
+    gift_position: "-20.4,-142.1"
+    illustrator_cv: ""
+    order: 27
+    class_id: 31
+  }
+  {
+    id: 3105
+    name: 届いた気持ち
+    extra: 0
+    fit_gun: 99
+    ai: 43105
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 最初からもう決めてたんだもん、ダーリンはわたくしのものってこと……
+    note: ふふん！今回はわたくしだけがダーリンと写真を撮れたし、得しちゃったわ！これからもダーリンはわたくしだけのものなんだから！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 27
+    class_id: 31
+  }
+  {
+    id: 3106
+    name: 約束の変身
+    extra: 0
+    fit_gun: 184
+    ai: 43106
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 私は、もう………そんなあなたの目が好きになってしまいました。
+    note: こういう変身も悪くはありませんが、いつかバーニングフィーバーみたいな、本当の変身を経験してみたいものです……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 27
+    class_id: 31
+  }
+  {
+    id: 3107
+    name: 待望の明日
+    extra: 0
+    fit_gun: 201
+    ai: 43107
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あなたがそばにいてくれたら、この重さも…そんなに怖くないと感じる。
+    note: ハァ……疲れた。でも今回の任務は嬉しい時もあった……多分、ウェディングドレスが綺麗だったからかも。後で新しい服買わない？報酬で。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 27
+    class_id: 31
+  }
+  {
+    id: 3201
+    name: 龍狼の子
+    extra: 0
+    fit_gun: 183
+    ai: 43201
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 前に向かって一歩進むごとに、私たちにもたらされる奇跡の光はその輝きを増す。貴方が私にくれる勇気がゆるぎないものであればあるほど、私の切っ先は遠くまで届くのです。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003201
+    order: 21
+    class_id: 32
+  }
+  {
+    id: 3202
+    name: 黒石姫
+    extra: 0
+    fit_gun: 112
+    ai: 43202
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 地獄の創造者でもこの程度の苦痛しか与えられないなんてね……楽しんでない証拠だわ。
+    note: ""
+    explore_tag: ""
+    gift_position: "16.6,-128.4"
+    illustrator_cv: skin-40003202
+    order: 21
+    class_id: 32
+  }
+  {
+    id: 3203
+    name: ゴブリンハンター
+    extra: 0
+    fit_gun: 162
+    ai: 43203
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 誰もいなければ……誰も傷つくことはない……なんで今まで気づかなかったのかな？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003203
+    order: 21
+    class_id: 32
+  }
+  {
+    id: 3204
+    name: グリフィンの舞姫
+    extra: 0
+    fit_gun: 6
+    ai: 43204
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: しーっ、ターゲットの場所を教えてくれるだけでいいです。奴らが何者で、何をしてるかはどうでもいいので。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003204
+    order: 21
+    class_id: 32
+  }
+  {
+    id: 3205
+    name: マントと猫耳
+    extra: 0
+    fit_gun: 93
+    ai: 43205
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: へへっ、戦闘よりも、白くて丸っこいのをたくさん身につけた方が良いんじゃないかにゃ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003205
+    order: 21
+    class_id: 32
+  }
+  {
+    id: 3301
+    name: 夜明け前
+    extra: 0
+    fit_gun: 194
+    ai: 43301
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日の私は後輩たちよりもずっと綺麗なんだから、ちゃんと見てね、指揮官！
+    note: 歌も踊りも私は後輩たちのお手本にならなくちゃね！きゃっ……写真はやめてよ指揮官！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3302
+    name: 青藍なる静寂
+    extra: 0
+    fit_gun: 206
+    ai: 43302
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日はしっかり楽しまないとね。あとは……何か面白いことでもあれば言うことなしなんだけど。
+    note: ふふっ、本当にこんな日が来るとはね。指揮官が手ずから招待状を渡してくれる、こんな日が。
+    explore_tag: ""
+    gift_position: "-27.1,-67.8"
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3303
+    name: 鮮紅たる沈黙
+    extra: 0
+    fit_gun: 205
+    ai: 43303
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これを私に？これは少し……いえ、何でもありません。貴方とAK-12が似合うと言ってくれるのあれば、私はこれで問題ありません。
+    note: AK-12、もう私を驚かすのはやめてほしい。AK-12が居なくなってしまうなんて想像したくもない……だけど、今晩は面白かったから、それについては礼を言う……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3304
+    name: 白うさぎのサマーパーティ
+    extra: 0
+    fit_gun: 128
+    ai: 43304
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、わたしにお手伝いできることはありますか？あっ……ごめんなさい、今日はしっかりと息抜きしないといけないんでした。なら……指揮官、ケーキを一つ貰ってもいいですか？
+    note: わたしのことを守ってあげないといけないっていうのがどういう意味だかは知りませんけど、そんなこと言ってる時間があるなら料理担当に料理を教えてあげてほしいものです！ふんっ！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3305
+    name: パーティの観測者
+    extra: 0
+    fit_gun: 215
+    ai: 43305
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: パーティーの雰囲気に溶け込むため、今日はちゃんとおめかししてきたぞ～ふっふっふ、これなら掲示板が大盛り上がりになるようなゴシップが聞けるはず！
+    note: 私はポーカーの神だぞ、はっはっは！あれ、また荒らしが湧いてるんだけど、おまいは削除！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3306
+    name: 星空フォックストロット
+    extra: 0
+    fit_gun: 127
+    ai: 43306
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これが女子力53万の服ですか……あ、嫌じゃないですよ！ただ少し慣れなくて。指揮官さま、今後もよろしくお願いしますね！
+    note: 今晩の私、そんなに魅力的なのでしょうか？私は指揮官さまに見てもらえただけで十分なのですが……
+    explore_tag: ""
+    gift_position: "-85.7,-175.1"
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3307
+    name: 月光とエメラルド
+    extra: 0
+    fit_gun: 146
+    ai: 43307
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、今日の私の服装悪くないでしょ？ふふふっ、私の努力は報われたみたいだね！
+    note: 私は準備万全だったんですよ！……だからこそ、サプライズがあった時、あそこまで嬉しかったんです。
+    explore_tag: ""
+    gift_position: "-48.6,-180"
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3308
+    name: 運命のワルツ
+    extra: 0
+    fit_gun: 212
+    ai: 43308
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ふふっ、どうやら私の占いが当たったみたいね！指揮官さん、お礼として私に今後のあなたの運勢を占わせてね？
+    note: 言葉にしたくはないけど……私が信じてるのは運勢なんかじゃなくて、指揮官さん、あなただけだよ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3309
+    name: ブラックスワンの夢
+    extra: 0
+    fit_gun: 202
+    ai: 43309
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: こういうときは……はじで黙って見ているから、安心して。
+    note: パーティーは確かに楽しいものだった、デザートに指揮官の名前を付ける機会もあったし。M950A、次は一緒にダンスしてみない？だめ？
+    explore_tag: ""
+    gift_position: "-19,-202.9"
+    illustrator_cv: ""
+    order: 33
+    class_id: 33
+  }
+  {
+    id: 3401
+    name: くろねこの贈りもの
+    extra: 0
+    fit_gun: 65
+    ai: 43401
+    voice: 4
+    is_hidden: 0
+    substitute_voice: HK416_0
+    dialog: 指揮官、この猫さん撫でてみたい？いいよ……ちょ、ちょっと！どうしてわたしの頭を撫でるのよ！？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003401
+    order: 38
+    class_id: 34
+  }
+  {
+    id: 3402
+    name: ちっちゃなかがくしゃ
+    extra: 0
+    fit_gun: 236
+    ai: 43402
+    voice: 4
+    is_hidden: 0
+    substitute_voice: K11_0
+    dialog: 体は小さくなっても、頭ん中の知識は少しも減ってないぞ！ふふん、実験を始めよう！
+    note: ""
+    explore_tag: ""
+    gift_position: "53.7,17.6"
+    illustrator_cv: skin-40003402
+    order: 38
+    class_id: 34
+  }
+  {
+    id: 3403
+    name: たれうさSS
+    extra: 0
+    fit_gun: 103
+    ai: 43403
+    voice: 4
+    is_hidden: 0
+    substitute_voice: UMP45_0
+    dialog: ふふっ、今日はお外に遊びに行ってもいいんだって！指揮官、つきあってよね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003403
+    order: 38
+    class_id: 34
+  }
+  {
+    id: 3404
+    name: 柴犬すかうたー
+    extra: 0
+    fit_gun: 101
+    ai: 43404
+    voice: 4
+    is_hidden: 0
+    substitute_voice: UMP9_0
+    dialog: 指揮官、今日は遊びに連れてってくれるんでしょ？だよね！そうだと思ってた！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003404
+    order: 38
+    class_id: 34
+  }
+  {
+    id: 3405
+    name: 天使の絵筆
+    extra: 0
+    fit_gun: 252
+    ai: 43405
+    voice: 4
+    is_hidden: 0
+    substitute_voice: KSVK_0
+    dialog: 今日の絵のテーマは平和。指揮官、あなたはこのテーマについてどう思う？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003405
+    order: 38
+    class_id: 34
+  }
+  {
+    id: 3406
+    name: 異能少女ぶうりん
+    extra: 0
+    fit_gun: 145
+    ai: 43406
+    voice: 4
+    is_hidden: 0
+    substitute_voice: OC44_0
+    dialog: このぬいぐるみのことですか？今日知り合った新しいお友達です。もし私と一緒にお出かけしたいのなら、この子も絶対一緒に連れて行ってね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003406
+    order: 23
+    class_id: 22
+  }
+  {
+    id: 3501
+    name: ラッキースターの休日
+    extra: 0
+    fit_gun: 266
+    ai: 43501
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 賭けで決めるのはどうですか、指揮官？もしわたしが勝ったら海に付き合ってもらいます。わたしが負けた場合は、海に付き合ってあげますね。
+    note: 指揮官がこの写真を撮ってくれた時が、今回海に遊びに行った中で一番ついてた瞬間でしたね……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003501
+    order: 31
+    class_id: 35
+  }
+  {
+    id: 3502
+    name: UVカット大作戦
+    extra: 0
+    fit_gun: 253
+    ai: 43502
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: こんなところが黒く日焼けしたら、知らない人に悪い人だと思われちゃう！指揮官、日焼け止めを塗ってもらってもいい？
+    note: もう少しで人魚を吊り上げることができたであろう釣り針を見せてあげるね！見るだけだよ！写真はだめだからね……
+    explore_tag: ""
+    gift_position: "-109.18,-36.9"
+    illustrator_cv: skin-40003502
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 3503
+    name: 進撃の飛魚
+    extra: 0
+    fit_gun: 213
+    ai: 43503
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ボーっとしてないで、スイカとアイス、それとビーチをさっさと私のところまで持ってきてよ！一つでも欠けたら、私の部下たちに息抜きさせてあげられないでしょ？
+    note: 何見てんの！これはただの私に逆らった部下たちが描いたポスターよ……私が良く描けてるからまぁ良しとしてあげる……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003503
+    order: 31
+    class_id: 35
+  }
+  {
+    id: 3504
+    name: 溺水防止アタッチメント
+    extra: 0
+    fit_gun: 238
+    ai: 43504
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 水に沈んでいく問題を解決したかっただけなんですが、まさかこんな風になってしまうなんて……どうしましょう……
+    note: セルジュコフが私に体に合わせて作ってくれた溺水防止ストラップです……構造はなんだか科学的ではないような気がしますけど……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003504
+    order: 31
+    class_id: 35
+  }
+  {
+    id: 3505
+    name: 海角四号
+    extra: 0
+    fit_gun: 270
+    ai: 43505
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 連載もそろそろ夏の海編への突入を考えなければなりませんな。そうと決まれば、もっとまじめに取材に励むのであります！
+    note: 一番素敵な記憶は吾輩がこのペンで漫画に収めました……当然、吾輩のメンタルモデルの奥底にもであります。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003505
+    order: 31
+    class_id: 35
+  }
+  {
+    id: 3506
+    name: カラスの救命員
+    extra: 0
+    fit_gun: 113
+    ai: 43506
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官の身の安全は私が守ります、安心して休暇をお楽しみください。ですが一つだけ、海に入る前はちゃんと準備運動をしてくださいね！
+    note: 救急訓練に参加してもらった景品で、私の能力を証明するものでもあります。なので溺れたとかは……ただのデマですから！
+    explore_tag: ""
+    gift_position: "41.5,-83.5"
+    illustrator_cv: skin-40003506
+    order: 31
+    class_id: 35
+  }
+  {
+    id: 3507
+    name: 水泳課題
+    extra: 0
+    fit_gun: 116
+    ai: 43507
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 具体的にどう泳げばいいのかは分かりませんが、教本を見た限りは簡単そうでした。なので問題ナシですよ！
+    note: 手紙を書く相手がいなかったので、使わない切手を小説の中にしおりとして挟んでおいたんです。ですが最近、手紙を一通書きまして……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003507
+    order: 31
+    class_id: 35
+  }
+  {
+    id: 3601
+    name: 水色の青春
+    extra: 0
+    fit_gun: 214
+    ai: 43601
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この服に着替えたら水に入れなくなっちゃうよ、ちょっと寂しい……え？この金魚をうちに？かわいいね！ありがとう指揮官！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003601
+    order: 30
+    class_id: 36
+  }
+  {
+    id: 3602
+    name: 秘密のガールズトーク
+    extra: 0
+    fit_gun: 188
+    ai: 43602
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日は賑やかですね～他の子たちは一緒ではないんですか？ふふ、さては私とお話ししたいんですね？なら、内緒話をしましょうか。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003602
+    order: 30
+    class_id: 36
+  }
+  {
+    id: 3603
+    name: 月下の祈り
+    extra: 0
+    fit_gun: 64
+    ai: 43603
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 願い事は書けましたか？短冊の飾りつけは私にお任せください。絶対に見たりしませんのでご安心を。……私の願い事ですか？ふふ、それは秘密です。ご主人様に知られたら意味がなくなってしまいますから。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003603
+    order: 30
+    class_id: 36
+  }
+  {
+    id: 3604
+    name: 朧月夜
+    extra: 0
+    fit_gun: 79
+    ai: 43604
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お待たせ、じゃ行こっか。この服着るのはこれっきりだよ、だって着るのホント面倒なんだもん。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003604
+    order: 30
+    class_id: 36
+  }
+  {
+    id: 3605
+    name: 百花繚乱
+    extra: 0
+    fit_gun: 105
+    ai: 43605
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 秘密兵器なのに、これじゃ目立ちすぎじゃない？これがいいって？んー……指揮官がそう言うのなら、このまま出かける準備をしてくる。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003605
+    order: 30
+    class_id: 36
+  }
+  {
+    id: 3701
+    name: 高校胸キュン物語
+    extra: 0
+    fit_gun: 260
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: へ？机の下にいちゃダメなの？ちょっ、落としたペンを拾うふりして、こっちに近づいて来ないで！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003701
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3702
+    name: 純白の卒業式
+    extra: 0
+    fit_gun: 129
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 野球部マネージャーの送別会の後に、見つけたのですが……わたしの丸筒に入ってたこのボタン……これ、指揮官の第二ボタンですよね？
+    note: ""
+    explore_tag: ""
+    gift_position: "-88,-174"
+    illustrator_cv: skin-40003702
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3703
+    name: ちこくちこくー！
+    extra: 0
+    fit_gun: 130
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: パンを咥えたまま走って曲がり角で指揮官とごっつんこ……えへへ、古典的だけど、まんまとかかったよね、指揮官？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003703
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3704
+    name: 兎攻隊長
+    extra: 0
+    fit_gun: 135
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この特攻服を預けるってことは、アタシの命を預けるも同然なの。だから、しっかり刺繡を縫っておきなさいよね。ふふっ、それじゃ夜露死苦！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003704
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3705
+    name: 始業を告げる猫の歌
+    extra: 0
+    fit_gun: 99
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官！見て～わたくしの新しい制服！はぁ、新学期が始まるけど、キーホルダーとして指揮官も連れていけたらいいのになあ……
+    note: ""
+    explore_tag: ""
+    gift_position: "-110,-180"
+    illustrator_cv: skin-40003705
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3706
+    name: 放課後の寄り道
+    extra: 0
+    fit_gun: 155
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 一緒に購買部でも行きますか？金曜日は数量限定の焼きそばパンが売ってるんですよ、あまりの人気ぶりに何時間並ぶことになるかわからないほどです。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003706
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3707
+    name: 休み時間の白昼夢
+    extra: 0
+    fit_gun: 154
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: にっひひ、机はお昼寝のためにあるに決まってるでしょ？だから起こさないでね、今ちょうどMVPがとれるところだったんだから！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40003707
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3708
+    name: プリズムにゃんこパワー
+    extra: 0
+    fit_gun: 176
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: がおー……にゃんこスターの力を今こそ私にッ、へんしーん――！ど、どうかしましたか？私はただ、部活動の練習をしていただけですよ……？
+    note: ""
+    explore_tag: ""
+    gift_position: "44,-136"
+    illustrator_cv: ""
+    order: 28
+    class_id: 37
+  }
+  {
+    id: 3801
+    name: お菓子をくれなきゃ通さない！
+    extra: 0
+    fit_gun: 261
+    ai: 43801
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ふっふっふっ！怖いのならはやく飴を出しなさい！もちろんタダでね！
+    note: あっ、あたしはもう引っかからないからね！これは絶対偽物よ！……え？ホントに景品なの？ならもう一回参加してみよっかな！
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3802
+    name: 灼眼のG36c
+    extra: 0
+    fit_gun: 104
+    ai: 43802
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どこを見ているんですか、指揮官……？それより私がなんの仮装をしてるか当ててみてください。殺人鬼でも、捨てられたパソコンでもありませんよ？
+    note: しー……プログラムが始まりますわ。私の変貌ぶりをその目でちゃんと見ててくださいね、指揮官。
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3803
+    name: かぼちゃ要塞
+    extra: 0
+    fit_gun: 229
+    ai: 43803
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ええっ？！なにこれ？？あたしはダレでここはドコ？……ハロウィンに参加するなんて言ってないわよ！ここから出して！！
+    note: かぼちゃ、かぼちゃ、またかぼちゃ！あたしがここから出たら、全員とっ捕まえてあげるわ。待ってなさい、このクソボケども！
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3805
+    name: ダークムーンウォーク
+    extra: 0
+    fit_gun: 252
+    ai: 43805
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 南瓜の馬車が参上し、狂乱のラッパはすでに鳴り響いている。何を待つ必要がある？ともに渦の中心で踊ろう、指揮官！
+    note: 解読、完了……グリフィンのみんな、ショーを見る準備はいいか？
+    explore_tag: "3001"
+    gift_position: "19.7,-121.6"
+    illustrator_cv: ""
+    order: 45
+    class_id: 38
+  }
+  {
+    id: 3806
+    name: ほら、満月だ
+    extra: 0
+    fit_gun: 88
+    ai: 43806
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ははん、人狼に会っちまうなんてよっぽどついてねえなあ……だがこんな遅くに出歩くお前にも、責任はあるんだぜ？さて、どこから喰っちまおっかな～？
+    note: 満月が次に来る時……あたいは探し出せるだろうか、その答えを。
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3807
+    name: 97式妙計奇策
+    extra: 0
+    fit_gun: 161
+    ai: 43807
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どうです？凄いでしょう！今夜のあたしの登場を、楽しみにしていてくださいね！
+    note: 入場券はオフィスデスクのガラス板の下に挟んでおきました、ご確認ください。絶対に来てくださいね！
+    explore_tag: "3001"
+    gift_position: "11.3,-55.7"
+    illustrator_cv: 豆芽,大坪由佳,
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3808
+    name: とつげきお化け
+    extra: 0
+    fit_gun: 117
+    ai: 43808
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: かかってきてください、指揮官……夜は私たち魔物が、好き放題する時間ですよ！
+    note: 見ましたか、m45！私の無敵なる姿を！……私は……ううっ、どうして頭がこんなにも痛むのでしょう……
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3809
+    name: 宵闇の執行者
+    extra: 0
+    fit_gun: 223
+    ai: 43809
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 私にお任せください。この世界で生きているのは何も人間だけではありません。そこにいる……あなたたちだって反省するべきなんじゃないですか？特にP7、あなたです！
+    note: ほう、ダミーだから何もできないはずだと……？いいでしょう、では私が銃弾であなたの変装を剥がしてあげます！
+    explore_tag: "3001"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 37
+    class_id: 38
+  }
+  {
+    id: 3901
+    name: 真紅のナビゲーター
+    extra: 0
+    fit_gun: 160
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、次のレースではよろしくお願いしますね！ワタシはあなたの専属ナビゲーターとなります。ですので、まずはあなたのお身体について調べさせていただきますね……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 48
+    class_id: 39
+  }
+  {
+    id: 3902
+    name: 躍動のラストスパート
+    extra: 0
+    fit_gun: 242
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ゴールで待っていてくださいね、指揮官！このレース場であなたの注目を得るに足るのは、藍色のマシンだけです！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 陆银,田所あずさ,
+    order: 48
+    class_id: 39
+  }
+  {
+    id: 3903
+    name: 疾風迅雷
+    extra: 0
+    fit_gun: 254
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: そうそう、スピードメーターは振り切ってこそだよね！なに、指揮官？あなたの母星だと危険なことなの？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 48
+    class_id: 39
+  }
+  {
+    id: 3904
+    name: 熱砂上の声援
+    extra: 0
+    fit_gun: 77
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: みんなのために頑張っちゃうよ～！えっ、そんなに歩かないといけないの……はあ、まあいいっか……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 染羽,岩松泉,
+    order: 48
+    class_id: 39
+  }
+  {
+    id: 3905
+    name: 音速烈旋
+    extra: 0
+    fit_gun: 10
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今回の試合も、ルールはちゃんと守るのよ。レースに安全の二文字はないのだから、いい？わかった？それじゃあ、「START!」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: RIRE,伊藤あすか,
+    order: 48
+    class_id: 39
+  }
+  {
+    id: 4001
+    name: 聖夜の約束
+    extra: 0
+    fit_gun: 253
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 約束はね……取り消せないものなの。なんの約束かって？えー、忘れちゃったの？ヒントはね、あなたに関係することだよ。
+    note: 自然な好意を与えるとき、自然もまたあなたのことを見ている。って、あたしにはよくわからないけど……このリスさんはかわいいね！そうでしょ、指揮官！
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4002
+    name: 銀狐の⅑プラットフォーム
+    extra: 0
+    fit_gun: 208
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今夜のみんなのプレゼントへの欲望はとどまることを知らないの。ほら早く、時間は指揮官が思ってるよりもないんだから。
+    note: 「Vixen」のせいで、私のクリスマスはずいぶんと回り道させられちゃった。でもね指揮官、あなたのおかげで結果は悪くなかったよ……ありがとね。
+    explore_tag: "3002"
+    gift_position: "-42.2,-131.5"
+    illustrator_cv: ""
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4003
+    name: 120の贈り物
+    extra: 0
+    fit_gun: 281
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 必要だったプレゼント、全部買ってきたよ。とりあえず119個分にかかったお金、払ってもらってもいいかな？……あとの一つはどうしたかって？それは……私があなたに渡す分だから。
+    note: クリスマスツリーの上にある星こそが大切なプレゼントだよ。この光をみんなのところへ届けてあげたいな、たとえその光が弱いものだとしても。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4004
+    name: ココロの埋蔵品
+    extra: 0
+    fit_gun: 228
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: よいしょ……ふぅ、ようやく掘り出せました……ん？これは……わぁ！やったー！最高のプレゼントです！
+    note: 申し訳ありません……実は私のプレゼントの箱には……何にも入ってないのです……
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4005
+    name: クリスマス皇女と笑わないペト
+    extra: 0
+    fit_gun: 203
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官！プレゼントが欲しいですか？……ふふっ、ならペトにお願いしてくださいね！
+    note: 確かに小さなイタズラはしましたけど……でもこのキャンディは普通におすすめできるものなんですよ？少し味見してみてはいかがです？
+    explore_tag: "3002"
+    gift_position: "-50.4,-116.1"
+    illustrator_cv: 林檎愛す,藤井彩加,
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4006
+    name: 無垢なる庇護者
+    extra: 0
+    fit_gun: 201
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どうしてこんなところに……あ、ワタシの好きな味だ……ありがとう……でも、心配しなくて大丈夫だよ。ワタシはワタシなりにこの日を楽しんでるから。
+    note: コーヒー……熱くて火傷するところだったよ。指揮官、次は一緒に飲まない？次の休みの日、ほかのことは何も考えずに。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4007
+    name: 12月は私の嘘
+    extra: 0
+    fit_gun: 81
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ごめんなさい……私、嘘をついてた。でも、その嘘がもう一度あなたと引き合わせてくれた……
+    note: 努力は、私に生きることの意義を感じさせてくれるし、休憩は、私が独りで生きている訳ではないということを気づかせてくれるの。
+    explore_tag: "3002"
+    gift_position: ""
+    illustrator_cv: ""
+    order: 39
+    class_id: 40
+  }
+  {
+    id: 4101
+    name: 巫女の大吉おみくじ
+    extra: 0
+    fit_gun: 135
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: じゃじゃん！アタシの占いによると、今日の指揮官の運勢は最高！へへっ、神社の掃除が終わったら、一緒に遊びに行こうよ～！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40004101
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4102
+    name: 福ねずみの寝正月
+    extra: 0
+    fit_gun: 122
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ふぅ……除夜の鐘を鳴らすくらいであたしを起こさないでよ……ねむい……明日も朝からお守りを貰いに行かなきゃいけないし……ちゃんとおんぶで連れてってね……
+    note: ""
+    explore_tag: ""
+    gift_position: "-60,-139.5"
+    illustrator_cv: skin-40004102
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4103
+    name: 花びらの羽子板
+    extra: 0
+    fit_gun: 270
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 主殿、少々お待ちを！新春の試合は吾輩に任せてくれたまえ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-12,-188.7"
+    illustrator_cv: skin-40004103
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4104
+    name: 花と夢の破魔矢
+    extra: 0
+    fit_gun: 118
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: えっと、指揮官……新年の訓練、ちゃんと見に来てくれますよね？どうか、私の傍にいてください……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40004104
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4105
+    name: 迎春の獅子舞
+    extra: 0
+    fit_gun: 88
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: はは、怖がらなくていいぞ、指揮官。こいつは頭を軽く「噛む」だけだからさ。新しい一年も元気でいてくれよな！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40004105
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4106
+    name: 紅梅白雪
+    extra: 0
+    fit_gun: 35
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官見て！私が見つけた宝物です！やっぱり雪の中で宝物を探すなら、落ち着いてじっくり探すのが一番ですね、へへ……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40004106
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4107
+    name: 君とともに
+    extra: 0
+    fit_gun: 256
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 子羊ちゃん！私たちがお願いをする番だよ！……えっと、さっきは何を願ったのかな？きっと今年も私の側にいること、だよね！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 25
+    class_id: 41
+  }
+  {
+    id: 4201
+    name: 花月夜提灯
+    extra: 0
+    fit_gun: 282
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 伝統ある新年の祝いには数多くの逸話が残されているんですよ、指揮官。仕事の事なんて置いて、今夜は外の廊下を一緒に歩きませんか？
+    note: クローゼットの中でお話を聞くイベントで記念に撮りました。唯一の心残りは、最後のお話をあの人に聞かせてあげれなかったことです……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4202
+    name: 蠱惑な千鳥草
+    extra: 0
+    fit_gun: 260
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 新年がこんなにもつまらないと、刺激的な遊びの一つや二つしたくなるでしょ指揮官？だから例えばこんなのはどうかな、三分以内にこのピストルにさわれたら、わたしが指揮官の言う事を一つだけ何でも聞いてあげるっていうのは。
+    note: この設計図は実に分かりやすい。椅子を自分の好きなように改造できるだけでなく、爆発でバラバラになった木の板を新たに――いや、なんでもない……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4203
+    name: 青竹は居丈高に
+    extra: 0
+    fit_gun: 173
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あんな喧しい新年の勝負事、ワタシが参加する必要もないだろう、指揮官。ワタシがここに座っているだけで誰が勝者なのかははっきりとしているだろう、違うか？
+    note: 家具の包装で余った材料をそのまま捨ててしまうのも勿体なかったから、指揮官がくれたこの提灯につけたらいい感じになったぞ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4204
+    name: 山吹卿
+    extra: 0
+    fit_gun: 234
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 物理的なお祓いなら得意ですよ。東洋と西洋を融合させたやり方でもって、新年の幕開けを祝いましょう！
+    note: 今まで一番バタバタした任務だったかもしれませんね。清算用の領収書もこんなに……まったく、とても大変でしたが、それと同じぐらい楽しかったのも事実です。
+    explore_tag: ""
+    gift_position: "-91.9,-164.9"
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4205
+    name: 緋メ芙蓉
+    extra: 0
+    fit_gun: 263
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、今度撮る映画のキャストを探してるんですが、この新年のマスコットに宇宙を飛ぶネズミのキャラクターが務まると思いますか？
+    note: ハル9002世をモチーフにしたお守りグッズです。私の映画が上映したら、きっと流行ると思います。
+    explore_tag: ""
+    gift_position: "-144.9,-113.2"
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4206
+    name: 雪梅花
+    extra: 0
+    fit_gun: 181
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: うふふ、あけましておめでとうございます、指揮官！こちら、新春限定タピオカミルクティーのXLサイズになります！お受け取りのサインをよろしくお願いしますっ！
+    note: 任務中の予想外の嬉しい発見があったんです！このタピオカ屋さんは、私のタピオカランキングトップ10に入ると思います！もしよろしければ、私と一緒に飲みに行きませんか……？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4207
+    name: 藍蓮夜
+    extra: 0
+    fit_gun: 98
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 見てください！新年を祝うために改良してきたんですよ！ってあれ？どうして動かないの！？指揮官、あたし見ないでって言いましたよね！
+    note: このカードケースを見ると、あたしの初めてのダイビングショーを思い出しますね。最後は茶番で終わってしまったけど、なんだかんだ言って役に立てたでしょ？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4209
+    name: 丁香の意
+    extra: 0
+    fit_gun: 262
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あら指揮官。その反応を見るに、どうやら私の新年の衣装選びに間違いはなかったようですね？気に入っていただけると良いのですけれども……
+    note: 昔ながらのダイヤル式電話の後に、新しい発見がありました――それがこの公衆電話のICカードです！だからまだ使える公衆電話を見つけて、そしてある人に電話をしてみようかなって思っています……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4210
+    name: 碧桃仙
+    extra: 0
+    fit_gun: 87
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: シーッ、この衣装は指揮官に見てもらうためだけの物なんです！もし妹に知られたら、もう一着作らされるはめになるので……
+    note: 慌てて任務を引き受けたので、警備班のIDカードを貰ってしまったことにすら気づきませんでした……それに任務が終わった後も、新しく接客班のIDカードに換える必要もありません。多分、声に出す必要のない「さよなら」と同じように。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 42
+  }
+  {
+    id: 4301
+    name: 掌のスカーレッド
+    extra: 0
+    fit_gun: 46
+    ai: 44301
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 時間をかけて花を選んでも、最後にはやはりこの普通のバラが、わたくしの口に出せない言葉を伝えるのにぴったりだと思ってしまうのです。
+    note: 信頼の維持には努力が必要です、お互いの。わたくしを失望させないでくださいね。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: Yukuso,茅野愛衣,
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4302
+    name: 鶯と薔薇
+    extra: 0
+    fit_gun: 97
+    ai: 44302
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 何か足りないな、アレがあればいいんだけど……え？どうしてシャンパンゴールドの薔薇の冠だって分かったの？
+    note: ツァボライトがあたしによく似合うって？ふーん、ならこれにする。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 八号地球,古賀葵,
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4303
+    name: 星降る夜に
+    extra: 0
+    fit_gun: 96
+    ai: 44303
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 着いた！あたしが三つ数えたら空を見上げてね、3、2、１！どう？今年あたしと初めて見る流星群、悪くないでしょ？
+    note: 悪くない景色だよね。RMB-93から借りたカメラで撮ったんだ。
+    explore_tag: ""
+    gift_position: "-133,-195.2"
+    illustrator_cv: ""
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4304
+    name: 花の裏のクオリア
+    extra: 0
+    fit_gun: 196
+    ai: 44304
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 二輪草の花を摘んで指揮官に渡そうと思ったのですが、花言葉が頭をよぎって、あまり現実的ではないと思い……
+    note: 花、星、新しい服、それに指揮官の言葉。どれも全てメンタルに保存してあります。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4305
+    name: 天使像前、高鳴る胸
+    extra: 0
+    fit_gun: 165
+    ai: 44305
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今回は10分41.23秒の遅刻ですね。前回までと合わせるとちょうど……52分の遅刻です……
+    note: 天使さまの声は暗号処理して保存しないといけませんよね。よし、封はこれで作りましょう！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4306
+    name: ミセスツバキのスペシャルサービス
+    extra: 0
+    fit_gun: 7
+    ai: 44306
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: じゃーん！どう？サプライズ感あった？ハッピーになれた？なれたのならサービス代を払ってね！それと小物と場所のリース代もよろしく～
+    note: これは借用書じゃなくて領収書だからね！りょ・う・しゅ・う・しょ！
+    explore_tag: ""
+    gift_position: "-177.5,-178.2"
+    illustrator_cv: _椿日_,喜多村英梨,
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4308
+    name: いちごケーキとハルシャギク
+    extra: 0
+    fit_gun: 70
+    ai: 44308
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あなたにハルシャギクを送って、お仕事が終わるのを待って、一緒にケーキを食べて、最後のいちごをあーんしてもらって……ずっとこうだったらいいのにな！
+    note: ""
+    explore_tag: ""
+    gift_position: "-171.5,-204.6"
+    illustrator_cv: ""
+    order: 27
+    class_id: 43
+  }
+  {
+    id: 4309
+    name: 触れられない月の恋人
+    extra: 0
+    fit_gun: 159
+    ai: 44309
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あなたが赤い薔薇の花を選んだら、私があなたの心を永久に照らす月光となれるのかしら？
+    note: 美しい月夜、そうは思わない、指揮官？あなたのその表情もちゃーんと撮って置いたわよ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4310
+    name: とある非科学の向日葵
+    extra: 0
+    fit_gun: 8
+    ai: 44310
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ヒマワリの太陽の動きに合わせて首を振る習性は成長のためだと分かっていますが、あなたのそばに永久に居たいと思う私の心は、きっと科学では説明できません……
+    note: 頭が痛い……何かを忘れているような……おかしい、昨晩一体何が……
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 豆芽,上坂すみれ,
+    order: 45
+    class_id: 43
+  }
+  {
+    id: 4401
+    name: ロリポップシュガー
+    extra: 0
+    fit_gun: 163
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これはロリポップ！タバコなんか吸うわけないじゃん、安心しなよ。私の糖分摂取のスピードが速すぎて煙が出てるだけだってば。
+    note: ""
+    explore_tag: ""
+    gift_position: "-193,-102.7"
+    illustrator_cv: ""
+    order: 34
+    class_id: 44
+  }
+  {
+    id: 4402
+    name: 奇怪・とろろもち
+    extra: 0
+    fit_gun: 260
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 一緒に美味しいとろろもちを食べながら、刺激的なゲームをしよ！ゲームに負けた罰ゲーム……？それはベッドの上で教えてあげる……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 34
+    class_id: 44
+  }
+  {
+    id: 4403
+    name: 可燃ウーロン茶
+    extra: 0
+    fit_gun: 227
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ウォッカにウイスキーをちょびっと入れてと……よし！特製ウーロン茶の出来上がり！さぁ、お嬢さん方！カーニバルの始まりよ～！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 34
+    class_id: 44
+  }
+  {
+    id: 4404
+    name: デビルリングキャンディ
+    extra: 0
+    fit_gun: 269
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 次また枕を投げてきたら、とことんまでやってやるからね！やられたらやり返す……三倍返しだよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 34
+    class_id: 44
+  }
+  {
+    id: 4405
+    name: しゅわしゅわポッピング
+    extra: 0
+    fit_gun: 137
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ホラー小説だと夜にだけ揺らめく黒い影、そして口に入れると舌の上で跳ね回る炭酸が今日の服装のコンセプトです！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 34
+    class_id: 44
+  }
+  {
+    id: 4406
+    name: 百味カレーうさぎ
+    extra: 0
+    fit_gun: 190
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: このパーティーには味の濃い食べ物を持ってきちゃダメって聞いたから、ワタシの相棒のカレーうさぎを連れてきたっすよ！カレーの臭い？はしないっすけど……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 34
+    class_id: 44
+  }
+  {
+    id: 4501
+    name: 宴会を統べる者
+    extra: 0
+    fit_gun: 119
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: これは全て現実に対する観察にすぎない。けど、まさか礼儀と社会のルールがこんなに脆弱なものだったとはね。やはり私があなたの守護者にならないと。
+    note: パーティーを統べる者？そんなんじゃないわ、ただ雰囲気を楽しんでるだけ。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4502
+    name: 戦場の取材者
+    extra: 0
+    fit_gun: 257
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 一部の殺し屋は、銃をカメラに仕込むと聞きました。でも、撮影は暗殺ではなく、時の断片を残すための手段だとボクは信じています。
+    note: ボクはもっと沢山の花をこの大地に咲かせたいんです。
+    explore_tag: ""
+    gift_position: "-49.4,-58.3"
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4503
+    name: 自然の探索者
+    extra: 0
+    fit_gun: 261
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お礼にタダで芸術写真を撮ってくれるの？じゃああたしがやる！今日の風は凧揚げにピッタリなんだ、こうすればとっても高く飛ばせるよ。
+    note: まったく、いくらあたしにしか出来ないからっていって、急な依頼ばっかり投げてくるのやめてよね！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4504
+    name: 規則の実行者
+    extra: 0
+    fit_gun: 143
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: レディが入場する際は、一匹の蝶のように、軽やかで、優雅に……SOPII、静かにして。ここはとても正式な場なのよ……せめて走るのはやめなさい！
+    note: 今回の休暇、十分に羽を伸ばすことができました。そうでもなかったと？わたしは本当にそう思っていますよ？
+    explore_tag: ""
+    gift_position: "-100.5,-110.5"
+    illustrator_cv: --,福原綾香,
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4505
+    name: 時空の凍結者
+    extra: 0
+    fit_gun: 55
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 薄れていく記憶は、まるで紙に描かれた花のよう……大事な思い出を色褪せさせたくないから、私は時間を留めておきたい。
+    note: この満ち足りた時間を続けるためならば、この先どんな困難が待ち構えていようと……
+    explore_tag: ""
+    gift_position: "-144.6,-96.2"
+    illustrator_cv: Nagu,戸松遥,
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4506
+    name: 行先を導く者
+    extra: 0
+    fit_gun: 54
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どうした？迷ってるのか？こっちだこっち、ここなら安全だ、私が保証する。
+    note: 酒の量は制限されているが、記念にラベルを集める分には問題ないだろ、M4？
+    explore_tag: ""
+    gift_position: "-381.6,-8.7"
+    illustrator_cv: 陆银,山根希美,
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4507
+    name: 酒席の掃討者
+    extra: 0
+    fit_gun: 56
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: わぁ！ここ、こことここ、それとここもキレイ！好き！止めないでよRO、わたし酔ってないってば！あんなスパークリングワインぐらいじゃ……
+    note: 指揮官、どうしてもこれを基地に貼るの？嫌だよぉ！
+    explore_tag: ""
+    gift_position: "-108.6,32.9"
+    illustrator_cv: 八号地球,田村ゆかり,
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4508
+    name: 夢に囚われし者
+    extra: 0
+    fit_gun: 57
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 痛みも悲しみも、そしてこの止まない雨も、いつかは終わる。
+    note: 本当にカオスなパーティーだったわ……まぁ、それも悪くないか。
+    explore_tag: ""
+    gift_position: "-107.9,95.7"
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4509
+    name: トゥルーマンを渡る者
+    extra: 0
+    fit_gun: 252
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 人の経歴とは、シナリオもなければキューカードもない映画のようなものだ。迷いがある時は、旅に出てみるといいさ。
+    note: 予想外の事態に楽しさを見つけ出す。これもまた人生における楽しみの一つだろう。
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4510
+    name: 黄昏の裁定者
+    extra: 0
+    fit_gun: 160
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 舞踏会はいいのですが、終わった後は散らかして欲しくないものですね……ゴミをポイ捨てするのって、明日の朝日に申し訳ないと思いませんか？
+    note: 騙されはしたけど、美少女の知らない一面を楽しめたから、儲け儲け！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4511
+    name: 闇夜と舞う者
+    extra: 0
+    fit_gun: 284
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 闇夜とは愛と死……あなたを愛してしまったことが、わたしの命の始まり。そして、夢の終わりでもある。どうです？SVDよりはいいこと言ったでしょう？
+    note: こんな乱暴なやり方でケーキを切るなんて信じられない！指揮官、あなたは如何思われますか！
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4514
+    name: 天空を破りし者
+    extra: 0
+    fit_gun: 2
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 人形は泣きません、それは神様が人間だけに与えたものだから。もし、人形にも愛があるのなら、私がこの空を打ち破り、あなたに雨を捧げましょう。
+    note: ケーキは八等分にしたほうがいいに決まってるじゃない。ダーリンもそう思うわよね？
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 50
+    class_id: 45
+  }
+  {
+    id: 4601
+    name: 星夜のにゃんたー
+    extra: 0
+    fit_gun: 306
+    ai: 44601
+    voice: 4
+    is_hidden: 0
+    substitute_voice: AKAlfa_0
+    dialog: 銀河に漂う一隻の船に乗り、私は星の夜と共に眠る……想像力を信じましょう、不可能なことなどありません。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4602
+    name: 小さな風乗り
+    extra: 0
+    fit_gun: 303
+    ai: 44602
+    voice: 4
+    is_hidden: 0
+    substitute_voice: BrowningHP_0
+    dialog: もっと速くなれば、いつか必ず風に乗って雲の上へ行けます……そしたら、あれが綿あめなのか、それともアイスクリームなのか分かりますね！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4603
+    name: 白薔薇の少女
+    extra: 0
+    fit_gun: 251
+    ai: 44603
+    voice: 4
+    is_hidden: 0
+    substitute_voice: X95_0
+    dialog: 指揮官様……髪を梳かすのを手伝って頂けませんか？
+    note: ""
+    explore_tag: ""
+    gift_position: "-109.55,-189.1"
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4604
+    name: 鳥と森の語り人
+    extra: 0
+    fit_gun: 69
+    ai: 44604
+    voice: 4
+    is_hidden: 0
+    substitute_voice: FAMAS_0
+    dialog: 日が昇りそして沈めば、お空の鳥さんは昨日の鳥さんではなくなります。そして風は、明日の風となるのです。
+    note: ""
+    explore_tag: ""
+    gift_position: "-365.2,150.2"
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4605
+    name: 赤き破壊者
+    extra: 0
+    fit_gun: 184
+    ai: 44605
+    voice: 4
+    is_hidden: 0
+    substitute_voice: T5000_0
+    dialog: ピンクじゃなくでレッドですよ！自分のモットーを守ってこそのヒーローです！指揮官、私と一緒に正義を守りましょう！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4606
+    name: 黒猫幼稚園
+    extra: 0
+    fit_gun: 176
+    ai: 44606
+    voice: 4
+    is_hidden: 0
+    substitute_voice: TMP_0
+    dialog: 好きって気持ちがすべてに勝るのなら……お、臆病者でも、大胆になれるのでしょうか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4607
+    name: EVO 3の朝
+    extra: 0
+    fit_gun: 131
+    ai: 44607
+    voice: 4
+    is_hidden: 0
+    substitute_voice: EVO3_0
+    dialog: 私、毎朝なにかしら変なことに遭ってるけど……VZ61ちゃん！あなたが犯人でしょ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 55
+    class_id: 46
+  }
+  {
+    id: 4702
+    name: 逆戟の旅
+    extra: 0
+    fit_gun: 234
+    ai: 44702
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、一つアドバイスなのですが、バカンス中なので制服は脱ぎませんか？そのままではシャチに乗って探険するのに不便ですよ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4703
+    name: 風なびく夢の隅
+    extra: 0
+    fit_gun: 307
+    ai: 44703
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 背中の日焼け止め、手が届かなくて半分ぐらいしか塗れませんでした……この中途半端な感じがたまらなく嫌です。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4704
+    name: 怒涛の頂上
+    extra: 0
+    fit_gun: 296
+    ai: 44704
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: なんだ？オレと勝負したいのか？その勇気は褒めてやるけど、とりあえず先に負けた時の罰ゲームを決めようか！
+    note: ""
+    explore_tag: ""
+    gift_position: "-272.8,-122.3"
+    illustrator_cv: ""
+    order: 64
+    class_id: 47
+  }
+  {
+    id: 4705
+    name: 凍りの夏
+    extra: 0
+    fit_gun: 136
+    ai: 44705
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: カリーナってばケチすぎるよ！エアコンをつけたくないがために、こんな氷を寄こして暑さをしのげだなんて……指揮官、なんとかしてよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4706
+    name: スイートハート
+    extra: 0
+    fit_gun: 286
+    ai: 44706
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: Honey♪あたしと一緒にブドウソーダの甘い海で泳ごう！いちゃもんつけてくるヤツは、あたしが全員なぎ倒してやるんだから！
+    note: ""
+    explore_tag: ""
+    gift_position: "-99.7,25.2"
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4707
+    name: 南国の風
+    extra: 0
+    fit_gun: 187
+    ai: 44707
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、今日のスケジュールはまだ決まっていませんよね？今日は海で割引イベントがあるようなので、一緒に見に行きませんか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4708
+    name: アストラのプール漂流記
+    extra: 0
+    fit_gun: 14
+    ai: 44708
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 遊びに来たんだから仕事のことは忘れないとね！こっちきて一緒に遊ぼうよ、指揮官！泳ぎ疲れたら、一緒に美味しいものをお腹い～～～～っぱい食べようね！
+    note: ""
+    explore_tag: ""
+    gift_position: "-116.9,-42"
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4709
+    name: 傘の中の夢
+    extra: 0
+    fit_gun: 51
+    ai: 44709
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あ、あの、指揮官、外は日差しがとても強いので、パラソルを用意しました。もしよろしければ……少し休んでいきませんか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 49
+    class_id: 47
+  }
+  {
+    id: 4801
+    name: 黒鉄の心
+    extra: 0
+    fit_gun: 53
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 敵が何人で来ようが関係ない、奴らがここを突破するのは不可能だ。なぜならこの私がここにいるのだからな。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 42
+    class_id: 48
+  }
+  {
+    id: 4802
+    name: 葬儀の隊列
+    extra: 0
+    fit_gun: 73
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 準備が出来ました。行きましょう、前線に着いたら……敵の為に葬送曲と献花を捧げてあげなくては。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: RIRE,和氣あず未,
+    order: 42
+    class_id: 48
+  }
+  {
+    id: 4803
+    name: 白銀の刃
+    extra: 0
+    fit_gun: 39
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 馬に乗らなくとも、私の足は歩兵より速いのよ！だから私を雇って、同志城主！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 42
+    class_id: 48
+  }
+  {
+    id: 4804
+    name: 硝煙の号令
+    extra: 0
+    fit_gun: 121
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この旗が振られる時、ミートミンサーが起動する。ふふ……ちゃーんと私についてくることね、指揮官？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 山河草莓,立花理香,
+    order: 42
+    class_id: 48
+  }
+  {
+    id: 4805
+    name: 碧空の巡回者
+    extra: 0
+    fit_gun: 152
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どんな異変もぼくのこの目が見逃しません、だから安心して巡回任務をお任せください、指揮官さん！ええと、今は城主さまとお呼びした方がいいんでしたっけ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 42
+    class_id: 48
+  }
+  {
+    id: 4901
+    name: 三途川の女将
+    extra: 0
+    fit_gun: 282
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: どんな疲れも吹き飛ばす五右衛門風呂の用意ができました。どうぞごゆっくり。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4902
+    name: 闇夜に浮かぶ頭巾薔薇
+    extra: 0
+    fit_gun: 109
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「動かねば闇にへだつや花と水。」読む度にある種の絶望を感じさせる、そんな句だ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4903
+    name: 竹影清兵衛
+    extra: 0
+    fit_gun: 263
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 竹林こそ私の道場、反撃の機会があるとは思わないことですね！
+    note: ""
+    explore_tag: ""
+    gift_position: "-96.1,196.61"
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4904
+    name: 藤歌仙
+    extra: 0
+    fit_gun: 266
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「思ひつつ寝ればや人の見えつらむ、夢と知りせば覚めざらましを。」あなたとの出会い、それは甘い夢。ですが遠からず、わたしたちはもう一度巡り会う、そんな予感がするんです。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4905
+    name: 蔵六神楽
+    extra: 0
+    fit_gun: 228
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 占いのお手伝い、これが初めてなんです。し――っ、先に一本取って指揮官の運勢を占ってあげますね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4906
+    name: 魂の板前
+    extra: 0
+    fit_gun: 305
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ザルの上のものですか？これは私の必殺料理です！真ん中から箸で取ってくださいね、左右対称になっている盛り付けを崩してしまってはいけませんから。
+    note: ""
+    explore_tag: ""
+    gift_position: "-176.3,-59"
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4907
+    name: 花鳥風月
+    extra: 0
+    fit_gun: 182
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ふぅ……薫風に酔う、得難き安寧の時……あっ――つい全部飲んでしまいました！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 4908
+    name: 猫侍は転ばない
+    extra: 0
+    fit_gun: 93
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: にゃーお！あの江戸一番の剣豪みたいに猫に魂を奪われにゃいよう、気を付けることだにゃ！！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 35
+    class_id: 49
+  }
+  {
+    id: 5000
+    name: M1911-オリジナルスキン
+    extra: 0
+    fit_gun: 20002
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005000
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5001
+    name: FF FN49-オリジナルスキン
+    extra: 0
+    fit_gun: 20051
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005001
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5002
+    name: 64式-オリジナルスキン
+    extra: 0
+    fit_gun: 20094
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005002
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5003
+    name: AR15-オリジナルスキン
+    extra: 0
+    fit_gun: 20057
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005003
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5004
+    name: IDW-オリジナルスキン
+    extra: 0
+    fit_gun: 20093
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005004
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5005
+    name: M4A1-オリジナルスキン
+    extra: 0
+    fit_gun: 20055
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 海猫络合物,戸松遥,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5006
+    name: M1895-オリジナルスキン
+    extra: 0
+    fit_gun: 20005
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005006
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5007
+    name: モシン・ナガン-オリジナルスキン
+    extra: 0
+    fit_gun: 20039
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005007
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5008
+    name: M1918-オリジナルスキン
+    extra: 0
+    fit_gun: 20075
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005008
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5009
+    name: MP-446-オリジナルスキン
+    extra: 0
+    fit_gun: 20091
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005009
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5010
+    name: コルトSAA-オリジナルスキン
+    extra: 0
+    fit_gun: 20001
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005010
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5011
+    name: SV-98-オリジナルスキン
+    extra: 0
+    fit_gun: 20044
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005011
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5012
+    name: Gr G3-オリジナルスキン
+    extra: 0
+    fit_gun: 20063
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005012
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5013
+    name: ブレン-オリジナルスキン
+    extra: 0
+    fit_gun: 20089
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005013
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5014
+    name: M4 SOPMOD II-オリジナルスキン
+    extra: 0
+    fit_gun: 20056
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005014
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5015
+    name: UMP45-オリジナルスキン
+    extra: 0
+    fit_gun: 20103
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005015
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5016
+    name: ステンMK-II-オリジナルスキン
+    extra: 0
+    fit_gun: 20029
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005016
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5017
+    name: M14-オリジナルスキン
+    extra: 0
+    fit_gun: 20037
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005017
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5018
+    name: Gr G36-オリジナルスキン
+    extra: 0
+    fit_gun: 20064
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005018
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5019
+    name: LWMMG-オリジナルスキン
+    extra: 0
+    fit_gun: 20081
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005019
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5020
+    name: Micro Uzi-オリジナルスキン
+    extra: 0
+    fit_gun: 20032
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005020
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5021
+    name: AS Val-オリジナルスキン
+    extra: 0
+    fit_gun: 20060
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005021
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5022
+    name: StG44-オリジナルスキン
+    extra: 0
+    fit_gun: 20061
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005022
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5023
+    name: Gr MP5-オリジナルスキン
+    extra: 0
+    fit_gun: 20026
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005023
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5024
+    name: 416-オリジナルスキン
+    extra: 0
+    fit_gun: 20065
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005024
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5025
+    name: 漢陽88式-オリジナルスキン
+    extra: 0
+    fit_gun: 20095
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40005025
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5026
+    name: UMP9-オリジナルスキン
+    extra: 0
+    fit_gun: 20101
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ZAGALA,能登麻美子,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5027
+    name: スチェッキン-オリジナルスキン
+    extra: 0
+    fit_gun: 20007
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 鳗鱼子,喜多村英梨,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5028
+    name: C96-オリジナルスキン
+    extra: 0
+    fit_gun: 20012
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5029
+    name: M38-オリジナルスキン
+    extra: 0
+    fit_gun: 20031
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5030
+    name: NTW-20-オリジナルスキン
+    extra: 0
+    fit_gun: 20053
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5031
+    name: M950A-オリジナルスキン
+    extra: 0
+    fit_gun: 20097
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 音符,古賀葵,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5032
+    name: M500-オリジナルスキン
+    extra: 0
+    fit_gun: 20154
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5033
+    name: GSh-18-オリジナルスキン
+    extra: 0
+    fit_gun: 20221
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5034
+    name: KSVK-オリジナルスキン
+    extra: 0
+    fit_gun: 20252
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5035
+    name: Gr G11-オリジナルスキン
+    extra: 0
+    fit_gun: 20122
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 音符,福原綾香,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5036
+    name: Super SASS-オリジナルスキン
+    extra: 0
+    fit_gun: 20124
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5037
+    name: RO635-オリジナルスキン
+    extra: 0
+    fit_gun: 20143
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 海猫络合物,福原綾香,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5038
+    name: 97式散-オリジナルスキン
+    extra: 0
+    fit_gun: 20161
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 河马,大坪由佳,
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5039
+    name: ガリルｰオリジナルスキン
+    extra: 0
+    fit_gun: 20071
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5040
+    name: PP-19ｰオリジナルスキン
+    extra: 0
+    fit_gun: 20136
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5041
+    name: M1897ｰオリジナルスキン
+    extra: 0
+    fit_gun: 20152
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5042
+    name: 56式半ｰオリジナルスキン
+    extra: 0
+    fit_gun: 20049
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5043
+    name: ウェルロッドMkⅡｰオリジナルスキン
+    extra: 0
+    fit_gun: 20114
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5044
+    name: F1ｰオリジナルスキン
+    extra: 0
+    fit_gun: 20178
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5045
+    name: 80式ｰオリジナルスキン
+    extra: 0
+    fit_gun: 20199
+    ai: 0
+    voice: 4
+    is_hidden: 2
+    substitute_voice: ""
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 0
+    class_id: 0
+  }
+  {
+    id: 5106
+    name: 甘い夜の怪盗
+    extra: 0
+    fit_gun: 6
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お菓子をくれないといたずらしちゃいますよ！え？本当にお菓子を持ってないんですか？なら無理は言いません、私は別の人のところに行きますね。
+    note: ""
+    explore_tag: ""
+    gift_position: "-154.45,-47.3"
+    illustrator_cv: ""
+    order: 53
+    class_id: 50
+  }
+  {
+    id: 5201
+    name: レッドベレー
+    extra: 0
+    fit_gun: 104
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 目標を確認、隠れてください！ふぅ……これは、私も頑張らなくてはですね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 52
+    class_id: 51
+  }
+  {
+    id: 5202
+    name: 赤月のチェイサー
+    extra: 0
+    fit_gun: 296
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 逃げようだなんて思わないことだ。時間や運命を盾にしたところで、オレが絶――ッ対に捕まえるんだからなァ！特殊作戦部隊所属、SL8、突撃準備！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 52
+    class_id: 51
+  }
+  {
+    id: 5203
+    name: ページエイトの守護者
+    extra: 0
+    fit_gun: 318
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「秘密は永遠に埋葬されるのだろう」。そう、VHSだよ。目標の変更を確認、すぐにポイントへ向かうね。
+    note: ""
+    explore_tag: ""
+    gift_position: "-138.5,-87.5"
+    illustrator_cv: ""
+    order: 52
+    class_id: 51
+  }
+  {
+    id: 5204
+    name: 武装警察SS
+    extra: 0
+    fit_gun: 156
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: スナイパーだ！どこか隠れられる場所を探して！ターゲットパラメーターの報告、ロックを確認……あたしがみんなの援護をするよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 52
+    class_id: 51
+  }
+  {
+    id: 5205
+    name: 謎の通行人SA
+    extra: 0
+    fit_gun: 304
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ヘルメットを脱ぐってのはね、戦いに負けたってことを意味するんだよ。だから足を止め……もういい、私の負けだって！抱っこして！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 52
+    class_id: 51
+  }
+  {
+    id: 5206
+    name: インターセプション
+    extra: 0
+    fit_gun: 244
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 簡易ラジオの設置完了。周囲に人影及び異常な信号は確認されません……通信、接続します。応答せよ、「秘密とは否定されし事実である。然らば……？」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 52
+    class_id: 51
+  }
+  {
+    id: 5308
+    name: メイド隊怒涛の真夜中
+    extra: 0
+    fit_gun: 95
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: お帰りなさいませ、ご主人さま！その表情、私の新しい装備に何か疑問があるようですね？ご主人さまが愛ちゃんの夜空の旅に付き合ってくれたら、疑問に答えて差し上げましょう！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 40
+    class_id: 54
+  }
+  {
+    id: 5401
+    name: 藍黎の香
+    extra: 0
+    fit_gun: 274
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、来たんですね。今日は皆さんに新年のご挨拶を……え？もう済んでるんですか？
+    note: ""
+    explore_tag: ""
+    gift_position: "-123.0,124.5"
+    illustrator_cv: ""
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5402
+    name: 百花の訪客
+    extra: 0
+    fit_gun: 160
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 今日は外に綺麗な和服を着た美少女がうようよしているんでしょうね、もう待ちきれません！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5403
+    name: 雅ナ茶ハ雪ニモ負ケズ
+    extra: 0
+    fit_gun: 97
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: なにぐずぐずしてるの？今日はやること沢山あるんだよ？こっち来て、はやく行こ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 八号地球,古賀葵,
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5404
+    name: 新しい詩をかくとき
+    extra: 0
+    fit_gun: 150
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ちょうどいい機会だし、行くよ、指揮官。伝統行事ってものは簡単にできるものじゃないから、練習しにね。
+    note: ""
+    explore_tag: ""
+    gift_position: "-99,-106"
+    illustrator_cv: ""
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5405
+    name: 寂びの過客にして
+    extra: 0
+    fit_gun: 103
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: まさか指揮官もここにいるなんてね。偶然の一致、そうよね？これはただの偶然、だからそんなに固くならずに、静けさを楽しみましょ？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: K箱,嶺内ともみ,
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5406
+    name: 雪原の宅配便
+    extra: 0
+    fit_gun: 254
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: まずいよ指揮官！はやく見て！こいつ、やつらの一人だよ！私、最期に指揮官に伝えたいことが……え？ただの猫なの、こいつ？
+    note: ""
+    explore_tag: ""
+    gift_position: "-108,-116"
+    illustrator_cv: ""
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5407
+    name: 春を告げる信使
+    extra: 0
+    fit_gun: 230
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この服、借りものでしょうし、そんなにお金を使わなくて済みますね……一日しか着ないのなら、そうしたほうが出費を抑えられますしね。え？買ったものなんですか？指揮官さまがあたしに？うれしいです！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5408
+    name: 紅一番花
+    extra: 0
+    fit_gun: 131
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 願いごとをするいい機会ね。あなたと一緒に来れて、とってもうれしいわ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 41
+    class_id: 55
+  }
+  {
+    id: 5601
+    name: 黄昏の時
+    extra: 0
+    fit_gun: 294
+    ai: 45601
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 遥か昔、ヒッポリュトスは桃の木の下で大いなる試練を迎えました。彼は死を厭わずに、崇敬する者を選んだのだそうです。わたくしもきっと、躊躇わずにそうするでしょう。
+    note: ""
+    explore_tag: ""
+    gift_position: "-237.8,61.9"
+    illustrator_cv: Firewood,種﨑敦美,
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5602
+    name: 運命の佳人
+    extra: 0
+    fit_gun: 119
+    ai: 45602
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 何をしているの、指揮官？来て。二人だけの時間を無駄にはしたくないわ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5603
+    name: 千羽目の折り鶴
+    extra: 0
+    fit_gun: 307
+    ai: 45603
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 心をこめて鶴を千羽折ると、愛する者に幸せを運んでくれるそうです。待ってくださいね、最後の一つが完成すれば、指揮官様に幸せが訪れるはずですから。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5604
+    name: ユーストマと彼女の季節
+    extra: 0
+    fit_gun: 129
+    ai: 45604
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: この花の形、薔薇によく似ているのに、棘が無いんです。これなら、きつく抱きしめ合っても、あなたを傷つけずに済みますね。
+    note: ""
+    explore_tag: ""
+    gift_position: "-46.7,-140.8"
+    illustrator_cv: 鳩山井鶴,大門香実,
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5605
+    name: イサカとの長い休日
+    extra: 0
+    fit_gun: 153
+    ai: 45605
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: え？休みの初日に何したらいいかって？そうね……なら、非の打ち所のない魅力溢れるこのわたしと、無駄な時間を過ごしてみない？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 哈奈鲁,加藤英美里,
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5606
+    name: バラ棋士の告白
+    extra: 0
+    fit_gun: 216
+    ai: 45606
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ……フン。一度勝ったからって、いい気になるなよな。言っとけくけど、さっきのは私が手加減してやったんだ。ま、あんたの笑顔が見れたからヨシとするか。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5607
+    name: 牡丹と旅の友
+    extra: 0
+    fit_gun: 174
+    ai: 45607
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官。我々はこれまで幾度となく、旅立って参りましたね……わかっています、勝利という名の終着駅にはまだ程遠いと。それでもわたくしは、あなたの傍を離れはしません。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5608
+    name: フェニックス・メロディ
+    extra: 0
+    fit_gun: 94
+    ai: 45608
+    voice: 16
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 孔雀は弦歌を聴くと、つい飾り羽を開き、自身の最たる美を顕してしまうのだとか……まるで、指揮官の声を耳にした私のように。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 60
+    class_id: 57
+  }
+  {
+    id: 5701
+    name: ベルギーより来る
+    extra: 0
+    fit_gun: 245
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「ボンジュール、モナミ～あたしのこと、フランス人だと思った？指揮官？小さな灰色の脳細胞を働かせてよく考えて、そろそろ本当の仕事をはじめるよ。」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 47
+    class_id: 58
+  }
+  {
+    id: 5702
+    name: 彼女には向かない職業
+    extra: 0
+    fit_gun: 243
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「美しい女性はみんな強いものよ……そうでないと、生きていけないでしょ？」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 47
+    class_id: 58
+  }
+  {
+    id: 5703
+    name: 双竜般若
+    extra: 0
+    fit_gun: 16
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「罪を償う？誰がそんなことを意に介する？間違いを犯したのなら相応の代価を払うべきだ、他に道はない。なぜなら、それこそが愛（正義）だから。」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 47
+    class_id: 58
+  }
+  {
+    id: 5704
+    name: 宿命の修理人
+    extra: 0
+    fit_gun: 317
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「まさか、私の推理が本当に間違っていたのでしょうか……いえ、証拠は嘘をつきません。もう一度だけ調査させてください、指揮官様。」
+    note: ""
+    explore_tag: ""
+    gift_position: "-22.11,-167.2"
+    illustrator_cv: ""
+    order: 47
+    class_id: 58
+  }
+  {
+    id: 5706
+    name: 銀色の弾丸
+    extra: 0
+    fit_gun: 262
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「探偵が一堂に会するとは、奇跡そのものですね――わたしたちに腕比べでもしてほしいんですか？ハハッ、推理に勝ち負けなんてありませんよ、なぜなら、真実はいつもひとつなんですから。」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 47
+    class_id: 58
+  }
+  {
+    id: 5707
+    name: ミス・マガル
+    extra: 0
+    fit_gun: 258
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「わたしは人間のことをよく知りすぎている。指揮官、あなたは簡単に人を信じるけど、わたしはそうじゃないよ。」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 47
+    class_id: 58
+  }
+  {
+    id: 5801
+    name: 蝶のように舞う
+    extra: 0
+    fit_gun: 285
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ジャジャジャジャーン――周年限定バージョンのC93、華麗に登場！さぁ、すべてのスポットライトよ！あたしのためにもっと光輝け！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5802
+    name: シャンパンの怪盗
+    extra: 0
+    fit_gun: 260
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、私と賭けをしないか？指揮官がこのシャンパンを飲み終わるまでに、私が指揮官の心を奪えるかどうかを……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5803
+    name: 宵闇より来たる
+    extra: 0
+    fit_gun: 231
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 花びらから滑り落ちた血が、暗闇の中へ消え行くように、晴らせない憎しみは、私が断ち切ってみせます。
+    note: ""
+    explore_tag: ""
+    gift_position: "-183,101.6"
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5804
+    name: 銀湾の流転する夜
+    extra: 0
+    fit_gun: 312
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 星の光というのは、遥か長い道程を越えてようやく地球に辿り着き、そして私たちの目に映るものだと聞きました。だからこそ、今夜のこの輝く星空は、私たちにとって銘記に値するものでしょう。
+    note: ""
+    explore_tag: ""
+    gift_position: "-100.7,-115.2"
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5805
+    name: 酩酊の花びら
+    extra: 0
+    fit_gun: 161
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: シッ――指揮官、この酒全然ダメなんですよ、やっぱパイカルのほうがカッとくるって！今のうちに、こっそり倉庫に行って思いっきり飲んできます？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 豆芽,大坪由佳,
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5806
+    name: 雨降りの来訪者
+    extra: 0
+    fit_gun: 330
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 雨の日に、相傘を差してこの道を通れば、二人の魂は永遠に分かつことなく……あらまあ、冗談ですわよ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5807
+    name: 金色の思い出
+    extra: 0
+    fit_gun: 108
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、わたしと一緒に踊ってくれる？せっかくの晴れ着なんだから、わたしとだけの思い出を、少し残してほしいな……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 5808
+    name: 風船の彼方
+    extra: 0
+    fit_gun: 21
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 風船がこのように好きに浮いていられるのは、きっとその紐の端が信頼できる人に掴んでもらっているからなんですよ。こういうとても安心できる感じ、私もよくわかります。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 69
+    class_id: 61
+  }
+  {
+    id: 6101
+    name: 夜潮のお誘い
+    extra: 0
+    fit_gun: 323
+    ai: 46101
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 手を繋いでもいいか……いや、なんでもない。なんでついてこなかったのか考えてただけだ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6102
+    name: 光の寓話
+    extra: 0
+    fit_gun: 282
+    ai: 46102
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 海辺にいると、つい色んな童話を思い出してしまいますね……歩きながら話しましょうか。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6103
+    name: シーサイド・パラダイム
+    extra: 0
+    fit_gun: 233
+    ai: 46103
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 海辺だと気が抜けないのよね……でも一般人にとって、ここは休暇するとこでしょうけど。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6105
+    name: 桃色珊瑚
+    extra: 0
+    fit_gun: 336
+    ai: 46105
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: センスの良さは派手さだけではない。時には簡潔さも美しさだ。
+    note: ""
+    explore_tag: ""
+    gift_position: "-67.9,-88.74"
+    illustrator_cv: ""
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6106
+    name: サイダー物語
+    extra: 0
+    fit_gun: 254
+    ai: 46106
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 私の母星では、水が苦手なやつがいっぱいいるの。そうじゃなきゃ、地球に逃げて来れなかったと思う……海って安全なところだね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6107
+    name: 天翔けるヒトデ
+    extra: 0
+    fit_gun: 325
+    ai: 46107
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: こ、このまま水に入って……もももも問題ないのでしょうか……本当に大丈夫なんですか？私って防水なんです？……きゃっ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-17.5,38.8"
+    illustrator_cv: ""
+    order: 50
+    class_id: 63
+  }
+  {
+    id: 6108
+    name: スイミング・ミントティー
+    extra: 0
+    fit_gun: 322
+    ai: 46108
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: てんちょー！ここのドリンク美味しいよ！ミントティー持ってきたから飲んでみて！足りないんならお酒もあるよ！全部タダなんだから、好きなだけ飲んでいこうよ！
+    note: ""
+    explore_tag: ""
+    gift_position: "-298.8,-79"
+    illustrator_cv: ""
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6109
+    name: 恋は木陰のように
+    extra: 0
+    fit_gun: 10
+    ai: 46109
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: なにを待っているの、指揮官？あたくしに教えて欲しいですの？今は、かわいい小動物のようにあたくしに近寄ってくるべきですわ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 柱柱,伊藤あすか,
+    order: 64
+    class_id: 63
+  }
+  {
+    id: 6201
+    name: 負け知らずのゴールデントルネード
+    extra: 0
+    fit_gun: 259
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: よっ！指揮官、地下闘技場で勝負してみないか？あたしの爪は今日調子いいぜ！安心しな、指揮官が病院に運ばれたとしても、ちゃんと退院まで世話してやっからさ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 八号地球,大地葉,
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6202
+    name: コヨーテ・ブルース
+    extra: 0
+    fit_gun: 337
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ん？指揮官いま呼んだ？ちょうどいい、この袋持っててよ。お返しにイヤホンの片方を貸してあげるから。無料であたしのCDを聴けるなんて、ありがたく思いなさいよね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6203
+    name: フードジャッカーの正義
+    extra: 0
+    fit_gun: 226
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、急げ急げ！スラムの子供たちはみんな飯を待ってるんだ――なっ？！袋が破けてるって？こういうことはなんでもっとはやく言わないんだ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 豆芽,市ノ瀬加那,
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6204
+    name: 忠愛なる友とともに
+    extra: 0
+    fit_gun: 118
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ここには不安な要素がいっぱいだけど、私はずっと指揮官の傍にいますよ。だから、どうかちゃんと私を見ててください。絶対、私の傍から離れないでね。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6205
+    name: 路地奥の雪
+    extra: 0
+    fit_gun: 6
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、紳士たる者、レディの尻尾を勝手に触ってはいけませんよ。えっと、わざわざ私に会いに来ましたと？仕方がありませんね、あと1分だけ触らせてあげます。今回だけですよ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6206
+    name: 三匹の子ブタ、家を借りる
+    extra: 0
+    fit_gun: 305
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ようやく完全に左右対称の部屋を借りれました！指揮官さま、荷物を下ろすの手伝ってください。新しいお家を完璧に左右対称にする前に、まずは気持ちよく寝たいんです。
+    note: ""
+    explore_tag: ""
+    gift_position: "-93.5,-33.3"
+    illustrator_cv: ""
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6207
+    name: 街の奥、白兎に遇う
+    extra: 0
+    fit_gun: 145
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官さま、今日は天気いいですよ！私と一緒に、森でピクニックしませんか？にんじんしかありませんけど。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 62
+    class_id: 65
+  }
+  {
+    id: 6401
+    name: 純白、清漣に濯はれて
+    extra: 0
+    fit_gun: 129
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「伝説によると白娘子は、人間を渡っても全く汚れることはなかったようです、蓮の花のように。私もそのような穢れなき存在になれるでしょうか……」。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 54
+    class_id: 67
+  }
+  {
+    id: 6402
+    name: 紅夜のハンター
+    extra: 0
+    fit_gun: 329
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「今晩、朝日が昇るまでハンティングゲームは続く。終わるまでは、ボクは決して倒れない」。
+    note: ""
+    explore_tag: ""
+    gift_position: "41.5,-158.6"
+    illustrator_cv: ""
+    order: 54
+    class_id: 67
+  }
+  {
+    id: 6403
+    name: ヨアンナに捧ぐ
+    extra: 0
+    fit_gun: 213
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「わたしの部下になりたいのなら、心臓から滴る血の最初の一滴と美味しいものの初めの一口をぜ～んぶこの私に捧げることだね……」。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 54
+    class_id: 67
+  }
+  {
+    id: 6404
+    name: 魅了の悪魔は眠らない
+    extra: 0
+    fit_gun: 286
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「Honey――キャンディとあなたの心を交換してもらえる？ダメなら力ずくで……」。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 54
+    class_id: 67
+  }
+  {
+    id: 6405
+    name: 迷える案内人
+    extra: 0
+    fit_gun: 220
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「迷える子羊はこのまま窮屈な群れに帰らないほうがいいと思うな。私のあったか～いコレクションに加わるのが一番だよ！」。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 54
+    class_id: 67
+  }
+  {
+    id: 6406
+    name: ツギハギの怪物の独白
+    extra: 0
+    fit_gun: 81
+    ai: 0
+    voice: 18
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「恐れる必要はありません、私はただ、あの人造人間の心境を体験してみたかっただけなので。世界全てに裏切られ、憎まれるのが、一体どのようなものだったのかを」。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 54
+    class_id: 67
+  }
+  {
+    id: 6501
+    name: 蒼穹のカルラ
+    extra: 0
+    fit_gun: 272
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 未来を求めるこの舞台の上で、わたくしは全力で自分の役を演じて見せます。そしてあなたは……きっとすべての戦争を終わらせることができます。そうでしょ、指揮官？
+    note: ""
+    explore_tag: ""
+    gift_position: "0.5,-38.9"
+    illustrator_cv: ""
+    order: 61
+    class_id: 69
+  }
+  {
+    id: 6502
+    name: 深紅の隕石
+    extra: 0
+    fit_gun: 338
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: やっほ～指揮官くん。あたしの専用機に乗っていかない？スピードも快適度も、並の機体の三倍よ～
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 61
+    class_id: 69
+  }
+  {
+    id: 6503
+    name: 純白の流星は願いを乗せて
+    extra: 0
+    fit_gun: 95
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: ごきげんよう、ご主人様。HY-088パイロット「純白の流星」こと愛ちゃんです。たとえ怪物の異名を背負ったとしても、ご主人様との、すべての戦争を終わらせるという約束を果たしてみせます！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 61
+    class_id: 69
+  }
+  {
+    id: 6504
+    name: 蒼龍、S09地区に立つ
+    extra: 0
+    fit_gun: 263
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 機体とのシンクロ率90%。蒼龍号パイロットMG36、いつでも行けます。今回の作戦は危険なので、終わった後は映画のチケットをおごってください。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 61
+    class_id: 69
+  }
+  {
+    id: 6505
+    name: 真夜中の福音
+    extra: 0
+    fit_gun: 65
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: もしその単純で幼稚な願望を叶えられるちゃんとした方法があるんなら、指揮官、多少力を貸してあげても……子夜！まだ話が終わってないわよ！あいつに近寄るな！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 61
+    class_id: 69
+  }
+  {
+    id: 6507
+    name: 荒野の竜と詩
+    extra: 0
+    fit_gun: 178
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「舞い散る砂塵と、鋼の竜は荒野を駆け抜ける」指揮官、アタシと一緒にガブに乗ってドライブしないか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 61
+    class_id: 69
+  }
+  {
+    id: 6601
+    name: シフゾウ宣言
+    extra: 0
+    fit_gun: 290
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: プレゼントを配るのって絶対にサンタさんと一緒じゃないといけないんですか？わたしの発明したプレゼントランチャーを使えば、効率には全く影響なしですよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 59
+    class_id: 70
+  }
+  {
+    id: 6603
+    name: 狩りの刻
+    extra: 0
+    fit_gun: 4
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 一晩ここに座って、やっといい「獲物」が見つかった……一杯どうだ、指揮官？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 八号地球,たかはし智秋,
+    order: 59
+    class_id: 70
+  }
+  {
+    id: 6605
+    name: ウェイブ・スプリント
+    extra: 0
+    fit_gun: 288
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官！波、一緒に乗らない？簡単だよ。こうやって波を捕まえたら、あとは一気に駆け上がるだけ！海の上を歩くみたいにね！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 59
+    class_id: 70
+  }
+  {
+    id: 6606
+    name: プールサイドでの出逢い
+    extra: 0
+    fit_gun: 225
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: メリークリスマス、指揮官。私とこの寒中水泳チャンピオンがプレゼントをお届けに参りました！えっ、ペンギンさんって、レースに参加できないんですか……？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 59
+    class_id: 70
+  }
+  {
+    id: 6607
+    name: ホットウィンターデリバリー
+    extra: 0
+    fit_gun: 304
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あなたの宅配便だよ、指揮官！そっちじゃないよ、あなたへのプレゼントは私のハ・グ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 59
+    class_id: 70
+  }
+  {
+    id: 6608
+    name: 妖精のクリスマスリース
+    extra: 0
+    fit_gun: 70
+    ai: 0
+    voice: 19
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 助けて指揮官さま！倉庫のチョコを平らげたら、クリスマスの飾りにされちゃったの！どっ、どうしてそんなに笑うんですか……
+    note: ""
+    explore_tag: ""
+    gift_position: "-215.8,-3.3"
+    illustrator_cv: ""
+    order: 57
+    class_id: 70
+  }
+  {
+    id: 6701
+    name: 枝を携え玉塵を踏む
+    extra: 0
+    fit_gun: 20
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、大雪だってのにどうして傘持ってこなかったの？まぁいいや、あたしの使っていいよ……え？一緒に入ればいい？じゃあそうしよっか。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 6702
+    name: 巫女舞ひらひらり
+    extra: 0
+    fit_gun: 323
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、そんなにじろじろ見ないでくれないか。これは今年の神楽舞のための衣装で……なに？舞を見てみたい？仕方ないな、少しだけだぞ。
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 6703
+    name: 竹剣雪を薙ぐ
+    extra: 0
+    fit_gun: 311
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: しっきかーん！新しい年を迎えたことだし、サッカー以外のスポーツしてみない？例えば……剣道とか？
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 6704
+    name: 幽玄の旅人
+    extra: 0
+    fit_gun: 101
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官！見て見て！冬なのにこんな背の高い草が生えてる！これぞ45姉の言ってた「幽玄の美」ってやつだね！
+    note: ""
+    explore_tag: ""
+    gift_position: "-11,79"
+    illustrator_cv: ""
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 6705
+    name: 三友歳寒に相伴す
+    extra: 0
+    fit_gun: 328
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 竹の位置をもう少し――あ、指揮官、ちょうどいいところに。この「歳寒三友」、どこか調整したほうがいいところある？はぁ？テキトーに並べればいいってわけじゃないんだけど。生け花は銃いじりと一緒で奥深いんだから！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 6706
+    name: 風切羽を夢む元旦
+    extra: 0
+    fit_gun: 325
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: あのぉ――指揮官さん、今年の初夢に富士山は出てきましたか？えっ、私？私の初夢には羽根つきの羽根しか出てきませんでした……
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 6707
+    name: 豊年祈る幼虎
+    extra: 0
+    fit_gun: 37
+    ai: 0
+    voice: 15
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 指揮官、絵馬を木に掛けると、願い事が叶う可能性が上がるんだって！あたしたちがあの松の木に掛けてきてあげるよ！
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 哈奈鲁,大西沙織,
+    order: 58
+    class_id: 71
+  }
+  {
+    id: 7001
+    name: 残業しないので
+    extra: 0
+    fit_gun: 166
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「ほら、チョコ……食ったらやる気出せよ！三時までにフィードバック！あとこっちの書類は明日提出しろ――できなきゃサービス残業だ、やれ！」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: --,古城門志帆,
+    order: 63
+    class_id: 74
+  }
+  {
+    id: 7002
+    name: 雲の彼方へ
+    extra: 0
+    fit_gun: 330
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「はい、分かりました、スケジュールを調整いたします、こちらの事項は最優先で……すみません、空港の電波が悪いようなので、また折り返しで連絡しますね――よし！出張と見せかけての休暇、最高です！」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 63
+    class_id: 74
+  }
+  {
+    id: 7003
+    name: 深夜のホットティー
+    extra: 0
+    fit_gun: 310
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「仕事も好き、会社も好き……これさえ終れば休めますから、先輩、一緒に頑張りましょう！ジンジャーティーを入れてきましたので……先輩？先輩！？私一人残して退勤しないでください！」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 63
+    class_id: 74
+  }
+  {
+    id: 7004
+    name: 新人OLちゃん
+    extra: 0
+    fit_gun: 308
+    ai: 0
+    voice: 4
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 「やっとオファーを貰ったぜ、入社初日は先輩たちにいい印象を残さないとな……ん？今誰かの悲鳴しなかった？錯覚かな……？」
+    note: ""
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: ""
+    order: 63
+    class_id: 74
+  }
+]

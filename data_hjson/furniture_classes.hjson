@@ -1,0 +1,1434 @@
+[
+  {
+    id: 1
+    name: ハロウィン
+    rank: 5
+    bonus_picture: "3000"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: ハロウィンとは古代ケルト人の新年に由来するもので、子供たちがお化けに扮してお菓子をねだる。お菓子をあげないと家ごと爆破される可能性もあるので、ご注意を。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: ws2018_deco_small_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 2
+    name: 初期
+    rank: 2
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 7
+    description: IOPにより支給された品々。
+    bonus_description: ""
+    code: cs2018_chair_b_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 3
+    name: 新世界(I)
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 15
+    description: 素晴らしい戦後の世界へようこそ。ここで生き伸びるには、常に準備と警戒を怠らないこと、そしてボトルの水以外は飲まないこと。
+    bonus_description: ""
+    code: ft2018_deco_small_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 4
+    name: オータム
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 16
+    description: 指揮官たちの疲れた心を癒すためにデザインされた可愛いインテリア。今回のテーマは温かい秋で、女性に人気がある模様。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: qj2018_floordeco_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 5
+    name: 新世界(II)
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 15
+    description: 素晴らしい戦後の世界へようこそ。ここで生き伸びるには、常に準備と警戒を怠らないこと、そしてボトルの水以外は飲まないこと。
+    bonus_description: ""
+    code: ft2018_deco_small_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 6
+    name: LOFT
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 16
+    description: 貧しさゆえに廃工場にしか住めなかった芸術家たちにより考案された様式だったが、百年後には戦後スタイルとして流行し、指揮官たちが競って求める稀少なものとなっている。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: loft2021_bicycle_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 7
+    name: 静かな日常
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 16
+    description: 落ち着いた雰囲気の家具セット。おとなしい性格の人形はことのほか安心するらしい。部屋中をアクアブルーの穏やかな空気で染め上げよう。
+    bonus_description: ""
+    code: sn2018_dresser_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 8
+    name: キュートな日常
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 16
+    description: 可愛さ満点の家具セット。元気で活発な人形に大人気。部屋中をピンクの可愛いオーラで染め上げよう。
+    bonus_description: ""
+    code: sn2018_dresser_bs_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 9
+    name: 司令室
+    rank: 5
+    bonus_picture: "3001"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 16
+    description: 司令室風の家具セット。これにより、人形たちは家にいながら指揮官の繁忙な日常を体験できるように...もちろん全部新品だよ。余りものじゃないんだから。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: zhs2021_walldeco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 10
+    name: 喫茶店
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 13
+    description: 大戦前に流行した文化施設。「カフェイン補充」という名の喫茶店だが、実際は普段集中力を保てない作家たちの創作における聖地となっている。
+    bonus_description: ""
+    code: kft2018_walldeco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 11
+    name: 暖冬の和室
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 6:2000
+    bonus_number: 13
+    description: ほんのり暖かい和風がテーマの家具セットで、厳しい冬でも人々を幸せな気持ちにさせてくれる。部屋の中から雪景色を楽しもう。
+    bonus_description: 同一宿舍内に6点以上設置すると、追加快適度を獲得。
+    code: rs2019_window_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 12
+    name: 厳冬の和室
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 6:2000
+    bonus_number: 13
+    description: 涼しげな和風がテーマの家具セットで、寒い冬でも人々の心を落ち着かせてくれる。部屋の中から一面の銀世界を楽しもう。
+    bonus_description: 同一宿舍内に6点以上設置すると、追加快適度を獲得。
+    code: rs2019_table_bs_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 13
+    name: 鉄血工造
+    rank: 5
+    bonus_picture: "3002"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 17
+    description: 鉄血工造がテーマの家具セット。鉄血の関連資料から再現・考案された家具で、人形たちに鉄血のクズどもの昼下がりを体験させてあげましょう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: tx2019_deco_big_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 14
+    name: クリスマス
+    rank: 5
+    bonus_picture: "3003"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: クリスマスがテーマの家具セット。盛大なパーティーを開いて温かく幸せなクリスマスイブを楽しもう！……ほら、人形たちが何やら歌っていますよ？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: sd2018_tree_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 15
+    name: コンビニ
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 15
+    description: 24時間営業のコンビニは人類の文明の基盤。激しい戦火の中でも心温まる場所として、コンビニさえ営業していれば、すべてはまだ何とかなる。ゆえに思いがけず、各々のグリフィン支部で最も厳重に守られているのがコンビニだったりする。
+    bonus_description: ""
+    code: bld2018_floordeco_06_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 16
+    name: 雪のドーム
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 15
+    description: 極地を思わせる家具セット。民族風のデザインが多く、モフモフの動物たちもとってもプリティ。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: north2018_deco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 17
+    name: 旧正月の夜
+    rank: 5
+    bonus_picture: "3004"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 春節がテーマの家具セット。遠い昔から連なる我々の血筋に誇りと謙遜を持って、賑やかで喜びいっぱいの新春らしい雰囲気に一緒に浸りましょう！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: cj2019_deco_04_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 18
+    name: ゲーム製作部
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 16
+    description: 皆さんお馴染みのIOPマニュファクチュアリング。旗下の産業は多くの分野に及んでいます。いま注目を集めている、モバイルプラットフォームのゲーム開発への進出には驚きませんが、彼らは早くもこの業界の厳しさに気づいたようです。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: sb2019_deco_05_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 19
+    name: エリートエンブレム
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 20
+    description: グリフィン精鋭部隊のエンブレム。作戦で積極的に活躍した指揮官だけに授与される。これを見ると、彼女たちと肩を並べて戦った貴重な日々が脳裏によみがえるかも？
+    bonus_description: たくさん集めると、快適度を追加獲得。
+    code: sp2019_deco_09_icon
+    is_showed: 1
+    placement: 0
+    years: 2019
+  }
+  {
+    id: 20
+    name: 記念
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 6
+    description: ""
+    bonus_description: ""
+    code: pv_2018winter_icon
+    is_showed: 2
+    placement: 0
+    years: 0
+  }
+  {
+    id: 21
+    name: 星夜の夢
+    rank: 5
+    bonus_picture: "3005"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: バレンタインデーがテーマの家具セット。他人の夢の中で生きることと、自分の物語の主人公になること、どちらが幸せなんだろう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: qrj2018_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 22
+    name: 春の教室
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 15
+    description: 教室がテーマの家具セット。逃げ出したくなるにしろ、昔を懐かしく思い出すにしろ、あなた自身のストーリーを往日の風景から始めませんか？
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: js2018_desk_c_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 23
+    name: 休日のお散歩
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 13
+    description: 街角がテーマの家具セット。ロマンチックな休暇を過ごすなら、その日あなたは誰と出会いたい？
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: lm2018_deco_04_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 24
+    name: 博物館
+    rank: 5
+    bonus_picture: "3006"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 博物館がテーマの家具セット。戦慄するにせよ、熟考するにせよ、この世界の中心であなた自身のパフォーマンスを続けてください。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: bwg2018_deco_07_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 25
+    name: メトロ2063
+    rank: 5
+    bonus_picture: "3007"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 地下鉄がテーマの家具セット。かつては文明の中心だった地下鉄に身を置き、すれ違いの人生に思いを馳せよう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: dtz2018_walldeco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 26
+    name: いつもの部室
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 13
+    description: 部活動がテーマの家具セット。忙しい日々の中にも、かけがえのない思い出は溢れている。どれも大切にし、心に刻もう！
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: xsh2018_deco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 27
+    name: 撮影スタジオ
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 13
+    description: 良いスタジオには、ベテランカメラマンの差配により、文句なしの専門設備がきちんと備わっているもの。そこで撮られた写真は、恐らく美少女の自撮り写真に比肩しうるものだ、恐らく。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: syp2019_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 28
+    name: 月影の舞踏会
+    rank: 5
+    bonus_picture: "3008"
+    k_bonus: 6:2000,8:5000,10:8000
+    bonus_number: 11
+    description: 一周年のお祝いで盛大に開かれたダンスパーティーでは、武装を解いた戦術人形たちの美しい姿が見られます。この束の間の平和な時間を楽しんでくださいね、指揮官。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: yht2019_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 29
+    name: 童心園
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 13
+    description: 子供のおもちゃがテーマの家具セット。かつてはここが世界のすべてでした。そこは時間の経過とともに小さくなっても、永遠に消えることはないでしょう。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: etj2018_deco_02_a_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 30
+    name: キャンディタウン
+    rank: 5
+    bonus_picture: "3009"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: キャンディがテーマの家具セット。夢の中のキャンディタウンへようこそ！でも、後から来るお客さんのために、あまり一気にたくさん食べ過ぎないでね。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: tgw2018_table_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 31
+    name: 幻想遺産
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 6
+    description: 各種の不思議なイベントで手に入れた貴重な記念品。この世では発生していないといわれているかもしれませんが、確かに私たちの心の中に存在しています……
+    bonus_description: ""
+    code: SP_GGBB_1A_icon
+    is_showed: 2
+    placement: 0
+    years: 0
+  }
+  {
+    id: 32
+    name: 海辺のコテージ
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 16
+    description: 海辺の休憩小屋がテーマの家具セット。海辺のコテージというのは単なる愛称だよ。誰もがより豪華な休暇を過ごしたいでしょ？
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: gys2018_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 33
+    name: 眩いビーチ
+    rank: 5
+    bonus_picture: "3010"
+    k_bonus: 6:2000,8:5000,12:8000
+    bonus_number: 15
+    description: 砂浜がテーマの家具セット。ここのすべてをできる限り楽しんでください。今の人類には、こんな機会は本当に貴重なんですから。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: sz2018_deco_03_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 34
+    name: ソウルの一室
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 15
+    description: 韓国の都市がテーマの家具セット。そこに座り、思い出から湧き上がる新たな旋律を静かに楽しみましょう。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: kr2019_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 35
+    name: 温泉街
+    rank: 5
+    bonus_picture: "3011"
+    k_bonus: 6:2000,8:5000,12:8000
+    bonus_number: 14
+    description: 日本の温泉街がテーマの家具セット。あったか～い温泉に浸かり、懐かしい歌でも唄ってみては？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: wq2019_chair_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 36
+    name: 酒と避難所
+    rank: 3
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 17
+    description: シェルターがテーマの家具セット。汚染エリアに駐在している人形たちは、人間のかつての文明に興味津々。遺物を集めて、彼らの暮らしを真似しているのです。
+    bonus_description: ""
+    code: sh2018_walldeco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 37
+    name: 大図書館
+    rank: 5
+    bonus_picture: "3012"
+    k_bonus: 6:2000,8:5000,12:8000
+    bonus_number: 16
+    description: 大図書館がテーマの家具セット。グリフィンの秘密の読書クラブのドアは開かれました。ここには人間が残した格言に対する人形たちの貴重な感想が記録されています！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: tsg2019_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 38
+    name: 深夜のキッチン
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 13
+    description: 食堂がテーマの家具セット。人形たちはここへ連れ立ってやって来て、あれやこれやして帰ります。後には心がほっこりするお話が残ることも……たまーにですけどね。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: cf2019_deco_01_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 39
+    name: ハロウィンタウン
+    rank: 5
+    bonus_picture: "3013"
+    k_bonus: 6:2000,8:5000,12:8000
+    bonus_number: 15
+    description: ハロウィンタウンがテーマの家具セット。見たいものを見たら、全力で逃げましょう。でなければ……いや、何も問題はありません、住めば都といいますし。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: ws2019_chair_01_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 40
+    name: 花房のお茶会
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 14
+    description: 原野の中の温室がテーマの家具セット。「愛してほしいと願うのならば、まずは名前のない花を愛してみては？」
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: hf2019_deco_05_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 41
+    name: キングステーラー
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 16
+    description: スパイ拠点兼高級テーラーがテーマの家具セット。任務を受けて、優雅に遂行する。世界の平和を守るのはこんなに簡単なことなんだ。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: cfd2019_deco_07_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 42
+    name: 航空展示場
+    rank: 5
+    bonus_picture: "3014"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 航空機がテーマの家具セット。私たちがこの空の征服を試みて以来、果て無く続く戦い。ここにあるのは、そのすべての記録。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: fj2019_deco_06_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 43
+    name: 給料日
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 15
+    description: 地下銀行がテーマの家具セット。この家具セットは単なる飾り物だから、例え一円も持ってない人形でもここではやりたいようにできる。けれども長居は無用、現実と混同してしまう恐れがあるので。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: bank2019_deco_05_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 44
+    name: クリスマスの小部屋
+    rank: 5
+    bonus_picture: "3015"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: クリスマスの小部屋がテーマの家具セット。異国情緒溢れるこの小屋で、仲間とクリスマスの暖かさを味わうがいい！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: sd2019_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 45
+    name: 海賊の秘宝
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 15
+    description: 海賊船がテーマの家具セット。何百年前、その人たちが漂流の中で楽しみ、戦って生き残り、そして破れて死ぬ物語。そう、今の人たちと同じように。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: hdc2019_deco_01_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 46
+    name: ドットの森
+    rank: 5
+    bonus_picture: "3016"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: ドットの森がテーマの家具セット。大いなる冒険に出掛けよう！たとえ子どもを見る目で眺められても……むしろ、子どもが一番羨まれる存在なのでは？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: xs2019_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 47
+    name: 二輪車日記
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 14
+    description: 自転車とバイクがテーマの家具セット。誰しも遠くに旅したいと思う瞬間がある。なら歌以外にも、こいつらが必要じゃない？もちろん、彼らを買う金もね。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: zxc2020_deco_07_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 48
+    name: 極北往事
+    rank: 5
+    bonus_picture: "3017"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 東洋の新年がテーマの家具セット。かつて、「よいお年を」という一言のためだけに日々をおくる人達がいた。楽しもうじゃないか、全てが老いていく前に。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: xn2020_deco_05_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 49
+    name: 部隊コレクション
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 18
+    description: オタクのコレクションがテーマの家具セット。コアなコレクションでも、可愛いコレクションでも、これらは全て君の唯一無二の趣味で、人生の大事な一部分だ。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: sz2019_deco_08_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 50
+    name: ウェディング撮影
+    rank: 5
+    bonus_picture: "3018"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 16
+    description: ウェディング撮影がテーマの家具セット。見ての通り、ただの撮影現場なんだけど……撮影、儀式、生活、どれが真実なんだろう？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: hl2019_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 52
+    name: 鳥獣との戯れ
+    rank: 5
+    bonus_picture: "3019"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 民俗庭園がテーマの家具セット。閑雅な庭で人生を楽しもう、こんな夜は滅多にないのだから。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: ty2021_bed_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 53
+    name: 同人誌即売会
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 18
+    description: 即売会がテーマの家具セット。人形がもし50年はやく世に出ていたらどうなっていたのだろうか？これを集めればきっとわかるはず。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: mz2020_deco_08_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 54
+    name: サタデー・ナイト・フィーバー
+    rank: 5
+    bonus_picture: "3020"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 二周年記念パーティーがテーマの家具セット。祝うことができるのは今夜だけではない。だけど明日の自分がどこにいるのか、知ることはできないでしょう？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: znq2020_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 55
+    name: テーマパーク
+    rank: 5
+    bonus_picture: "3021"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: テーマパークがテーマの家具セット。安っぽいポップコーンと刺激的なジェットコースターがインスタントな楽しさを運んできてくれる。ただし、あなたがそれを楽しむ前提として。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: etj2019_deco_11_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 56
+    name: 南洋の館
+    rank: 5
+    bonus_picture: "3023"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 南洋の館がテーマの家具セット。ここで迎える朝は少し不便だけど、なぜか心地良い……あなたもきっと来てみたくなるはず。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: jxnp2019_deco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 57
+    name: ターミナル
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 14
+    description: ターミナルがテーマの家具セット。出発前の時間を大切に過ごそう、まもなく僕らは遠くへ行ってしまうからね――物理的に。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: hjdt2019_walldeco_01_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 58
+    name: ビーチタイクーン
+    rank: 5
+    bonus_picture: "3025"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: ビーチの娯楽施設がテーマの家具セット。海は疑いようもなく綺麗なのに、人間はその海にいろんな改造を施す。娯楽は調味料のように、本当は何を欲しているのか分からなくさせるのだ。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: swimpool2019_deco_04_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 59
+    name: ミュージックフェス
+    rank: 5
+    bonus_picture: "3026"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: ミュージックフェスがテーマの家具セット。文明的で虚偽的な屋内イベントには、声の澄んでいないヘビメタボーカルはお呼びじゃないぜ。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: rockroll2019_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 60
+    name: 幽霊古城
+    rank: 5
+    bonus_picture: "3028"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 古城がテーマの家具セット。一晩でいい、ここが気に入って欲しい、さもないと…永遠にここのいる。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: halloweenus2020_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 61
+    name: ハッピーバーガー
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 18
+    description: バーガーショップがテーマの家具セット。気楽な環境と充実なカロリー、この時代の幸せの象徴であり。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: noshery2018_walldeco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 62
+    name: アイドル活動
+    rank: 5
+    bonus_picture: "3029"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: アイドルステージがテーマの家具セット。みんなに希望や夢、それから握手券を与えるために頑張って、みんなからお金を貰おう！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: idol2020_deco_04_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 63
+    name: お菓子の館でおかしな夜を
+    rank: 5
+    bonus_picture: "3030"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: キャンディの博物館がテーマの家具セット。クリスマスはキャンディとプレゼントの祭り、それを愛せ！だってほかにやる事がないから。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Xmas2018_deco_tree_icon
+    is_showed: 1
+    placement: 1
+    years: 2018
+  }
+  {
+    id: 64
+    name: 新年の神社
+    rank: 5
+    bonus_picture: "3032"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 新年の神社がテーマの家具セット。年の終わりを告げる鐘の音が聞こえたら、晴れ着に着付けてもらって初詣に繰り出そう！幾千の騒々しい願い事に包まれながら、神様のアドバイスに耳を傾けてみては？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: newyear2019_deco_11_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 65
+    name: 中華街
+    rank: 5
+    bonus_picture: "3038"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 中華街がテーマの家具セット。新大陸へ来た人形の開拓者達よ！苦難と栄光を分かち合おうぞ！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: xnjp2021_deco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 66
+    name: チョコレート総裁
+    rank: 5
+    bonus_picture: "3040"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: チョコレート屋さんがテーマの家具セット。「ようこそいらっしゃいました！さあ、ここの一部になってください！――いえいえ……楽しんでくださいねという意味ですよ」。店主はそう語る。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: wv2020_deco_06_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 67
+    name: フェアリーマーケット
+    rank: 5
+    bonus_picture: "3041"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 古代のマーケットがテーマの家具セット。今宵の薄暗い月明りのもと、冒険者たちが一堂に会する。互いの信念を胸に、出で立つ準備にかかろう！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: yjss2019_deco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 68
+    name: コンサートホール
+    rank: 5
+    bonus_picture: "3042"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: クラシカルなコンサートホールがテーマの家具セット。人生には、予測のできない様々な出来事が付き物だ。だが私たちには音楽がある！今ここで、言葉の壁を超えた芸術を堪能しようではないか！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: znq2020_deco_09_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 69
+    name: ジルのアパート
+    rank: 4
+    bonus_picture: "3043"
+    k_bonus: 8:2000
+    bonus_number: 18
+    description: ある少女のアパートがテーマの家具セット。もしかするとこの世界は、めちゃくちゃなのかもしれない。でも自分の箱さえあれば、一時の安寧は得られる。いろんなものでこの部屋を一杯にしよう！その瞬間、ここがあなたの「家」になるのだから。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: jill2019_walldeco_01_icon
+    is_showed: 2
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 70
+    name: ピクセル・カフェ
+    rank: 5
+    bonus_picture: "3043"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 18
+    description: サイバーパンク風バーがテーマの家具セット。しっちゃかめっちゃかな要素が積み重なれば、奇妙な化学変化が起こる。もしかしたらホンモノのアルコールみたいに、みんなを酔わせることができるのかもしれない。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: bar2019_deco_05_A_icon
+    is_showed: 2
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 71
+    name: ブロックワールド
+    rank: 5
+    bonus_picture: "3052"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: ある有名なメーカーのブロックがテーマの家具セット。外での数多の悩みを忘れさせてくれる、この独特な雰囲気の部屋で想像力を働かせることに集中しよう！こういう機会ってなかなか得られないものでしょ？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: etj2019_walldeco_01_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 72
+    name: 怪しげな特注品
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: 6:2000,9:2500,12:3000
+    bonus_number: 8
+    description:
+      '''
+      口には出せない市場にて流通している特別な品。どれを選んでも創意工夫に満ち溢れているうえに、客からの要望に応じて改造もしてくれる。
+      グレーゾーンに足を踏み入れてしまった感覚を楽しもう——ここの設備はどれもあなたのためにあるのだから。
+      '''
+    bonus_description: たくさん集めると、快適度を追加獲得。
+    code: Stepmania_icon
+    is_showed: 1
+    placement: 0
+    years: 0
+  }
+  {
+    id: 73
+    name: 水族館
+    rank: 5
+    bonus_picture: "3054"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 水族館がテーマの家具セット。プラネタリウムと並ぶ最高のデートスポットだが、「キモい」「美味しそう」なんて口に出した暁には、間違いなくフラれるので、それだけは注意しておこう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: aquarium2020_wall_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 74
+    name: 百鬼夜行
+    rank: 5
+    bonus_picture: "3055"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 百鬼が行きかう神社がテーマの家具セット。肝試しをするには絶好のチャンスだ、炎天下に舞い降りた納涼のチャンスを見逃すことなかれ。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: yukata2020_deco_04_A_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 75
+    name: 不良達の屋上
+    rank: 5
+    bonus_picture: "3056"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 不良少年の拠点がテーマの家具セット。あなたを完璧に近づけるのは成長ではなく、記憶である。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: bltt2020_deco02_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 76
+    name: 1408号室の恐夜
+    rank: 5
+    bonus_picture: "3059"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: ある冒険者の記した内容をテーマにした家具セット。クリスマスの夜に失踪した冒険者の手帳を偶然入手した。窮地に立たされても記すことをやめなかった勇者を、このわずかな手がかりから発見できることを祈るが、見つかるのは彼の一部になるか、それとも――
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: hallo2020_wall_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 77
+    name: 最高潮の時
+    rank: 5
+    bonus_picture: "3061"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 自分の「最高潮の時」の証がテーマの家具セット。この究極のコレクションを見ていると、過去の記憶が蘇らないだろうか？それとも、この景色は未来への眺望に過ぎないのだろうか。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: racing2019_deco_01_FL_icon
+    is_showed: 1
+    placement: 1
+    years: 2019
+  }
+  {
+    id: 78
+    name: 鉄血のクリスマスイヴ
+    rank: 5
+    bonus_picture: "3063"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 鉄血のクリスマスイヴがテーマの家具セット。ダイナーゲートの残した映像を元にあの日の設営を復元した。彼女らも、雪が静かに降る夜に平穏を祈るのだろうか？
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Xmasus2020_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 79
+    name: 眠らない街
+    rank: 5
+    bonus_picture: "3064"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 夜の街がテーマの家具セット。川や建物には新年が何なのか分かっていないのかもしれない、だけど年が明けてもいつも通り、人々の嬉しそうな顔を見守り続ける。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: zy2020_light_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 80
+    name: 瑞雪苑
+    rank: 5
+    bonus_picture: "3065"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 雪の降った庭園がテーマの家具セット。音をかき消してくれる雪が溶け切ってしまわぬうちに、せっかくの安寧を享受しよう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: SPF2020_wall_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 81
+    name: 秘蔵の記念品
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 6
+    description: ""
+    bonus_description: ""
+    code: harp_2019_icon
+    is_showed: 3
+    placement: 0
+    years: 0
+  }
+  {
+    id: 82
+    name: 失われた聖堂
+    rank: 5
+    bonus_picture: "3066"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 棄てられた教会がテーマの家具セット。静謐とした森に隠された小さな教会、幾年も婚礼は行われていないが、時たまここを訪れる者がいる。彼女たちは神父さまの遺したノートに己が憂鬱を書き記し、過去の自分の弔いとしている。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: WhiteVus2021_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 83
+    name: 大はしゃぎの24時
+    rank: 5
+    bonus_picture: "3068"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 少女たちのパジャマパーティーがテーマの家具セット。グリフィンでは週末になると、パジャマに着替えた少女たちが集まり、同じ時を過ごすという。あるいはこの時間にだけ、彼女たちは生きていくことのもう一つの意義を感じられるのかもしれない。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Pajamas2020_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 84
+    name: 光輝く劇場
+    rank: 5
+    bonus_picture: "3069"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 周年記念の会場をテーマにした家具セット。まぁ祝うのはいいが、明日も時間通りに出勤しろよ。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Anniversaryjp2021_deco_03_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 85
+    name: リリパットの森
+    rank: 5
+    bonus_picture: "3070"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 陽だまりの密林をテーマにした家具セット。噂によると、ここに来た大人は皆子供の頃に戻ってしまうらしい。なに？明日が締め切り？いや、私はまだ子供だよ……
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Children2020_deco_05_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 86
+    name: シワタネホ
+    rank: 5
+    bonus_picture: "3072"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: とある島をテーマにした家具セット。ここに思い出はなく、未来もない。あるのはただ暖かい海だけだ。おそらく全てが終わった後、私はここで暮らすことになるだろう――本当にその日が来るのならば。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Island2020_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 87
+    name: 絆の証明
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 5
+    description: グリフィンメンバー間の絆がテーマの家具セット。ケンカ、笑い、涙……そういった人形にとって重要な意味を持つことも、メンタルモデルの度々の整理やアップデートによってありふれた出来事に変わっていることでしょう。しかしいつも奇妙な目撃者が残るものです、時という流れに流されることなく。
+    bonus_description: ""
+    code: Fetter_Repository_icon
+    is_showed: 1
+    placement: 0
+    years: 0
+  }
+  {
+    id: 88
+    name: 城下の市場
+    rank: 5
+    bonus_picture: "3073"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 中世のとある街がテーマの家具セット。騎士道精神と人形の行動規範の唯一の違い、それは人間は自身の定めた規範を破ることができるが、人形にはできないところにある。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: MidCentury2021_deco_06_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 89
+    name: 居酒屋グリフィン
+    rank: 4
+    bonus_picture: "0"
+    k_bonus: 8:2000
+    bonus_number: 13
+    description: 日本の居酒屋がテーマの家具セット。何をしようと空回る、そんな時は酒を存分に飲もう。泣くのはそれからだ。
+    bonus_description: 同一宿舍内に8点以上設置すると、追加快適度を獲得。
+    code: Izakaya2020_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 90
+    name: 古街漫歩
+    rank: 5
+    bonus_picture: "3074"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 日出ずる国の伝統的な街並みがテーマの家具セット。日西山に尽き、鐘の音隠るる頃、さくらが下にて見ゆるは、君がしたまつあの人の影。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Edo2020_deco_06_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 92
+    name: 防空拠点
+    rank: 5
+    bonus_picture: "3078"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: エージェントの臨時活動拠点をテーマにした家具セット。臨時の拠点であっても、これはお前のために用意できる最高の施設だ。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Agent2020_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2020
+  }
+  {
+    id: 94
+    name: 雪花茶に入りて
+    rank: 5
+    bonus_picture: "3080"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 風雅な座敷がテーマの家具セット。新雪で古い茶を淹れることで、冬と春とが交わり、命の趣が生まれる。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: NewYear2021_deco_21_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 96
+    name: 漆黒の誓い
+    rank: 5
+    bonus_picture: "3082"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: ウェディングをテーマとした家具セット。 世界が終わろうとも、どうか愛する者の手を離さないで……
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: WhiteV2021_deco_05_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 97
+    name: ラフベリーチェスルーム
+    rank: 5
+    bonus_picture: "3083"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: ラフベリーチェスをテーマとした家具セット。まさに対局に最適な場所だ。願わくば、知恵と幸運の女神のご加護があらんことを！
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: MiniGameFlightChess_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 0
+  }
+  {
+    id: 98
+    name: ほろ酔い一夜
+    rank: 5
+    bonus_picture: "3084"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: グリフィン周年記念パーティーがテーマの家具セット。祝杯を挙げ、共にこの夜を過ごそう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Anniversary2021_deco_02_icon
+    is_showed: 1
+    placement: 1
+    years: 2022
+  }
+  {
+    id: 99
+    name: 迸る篝火
+    rank: 5
+    bonus_picture: "3089"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: キャンプファイヤーがテーマの家具セット。更なる喜びや悲しみが来る前に、思い存分楽しもう。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Summer2021_deco_01_icon
+    is_showed: 1
+    placement: 1
+    years: 2022
+  }
+  {
+    id: 100
+    name: 鏡の中の新たな自分
+    rank: 5
+    bonus_picture: "3091"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 理髪店がテーマの家具セット。髪型を変えるたび、新たな自分が誕生する。我々はここで昨日までの思い出に別れのキスをし、生まれ変わる勇気に賞賛を捧げるのだ。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Halloween2021_deco_08_icon
+    is_showed: 1
+    placement: 1
+    years: 2021
+  }
+  {
+    id: 299
+    name: ペット
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 10
+    description: ""
+    bonus_description: ""
+    code: SP_CatHouseLabel01_icon
+    is_showed: 0
+    placement: 0
+    years: 0
+  }
+  {
+    id: 300
+    name: ポスター
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 3
+    description: スキンパック付録のポスター
+    bonus_description: ""
+    code: poster_wa2000_halloween_icon
+    is_showed: 1
+    placement: 0
+    years: 0
+  }
+  {
+    id: 301
+    name: シークレットポスター
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 0
+    description: 他サーバーのために準備されたもの。未開放のポスターが入っている。
+    bonus_description: ""
+    code: poster_wa2000_halloween_icon
+    is_showed: 0
+    placement: 0
+    years: 0
+  }
+  {
+    id: 400
+    name: 付属施設設備
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: ""
+    bonus_number: 100
+    description: ""
+    bonus_description: ""
+    code: xsh2017_deco_02_icon
+    is_showed: 0
+    placement: 0
+    years: 0
+  }
+  {
+    id: 500
+    name: 人形の思い出話
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 7
+    description: 人形たちの様々なイベントで手に入る記念品。お互いのものや、指揮官のものと色々だが、どれも永遠にメンタルモデルに記録される貴重な思い出。
+    bonus_description: ""
+    code: poster_2016xmas_icon
+    is_showed: 2
+    placement: 0
+    years: 0
+  }
+  {
+    id: 600
+    name: 平凡な表札
+    rank: 5
+    bonus_picture: "0"
+    k_bonus: "0"
+    bonus_number: 28
+    description: グリフィンの各部門の表札をテーマにした家具セット。各部門の名前を記してあるただの表札。無駄に面積がデカいが、これを別のものにとっかえようと思った者はいない。謂わばこれは、とあるグリフィンスタッフが夢見た故郷の料理のように、鬱陶しいぐらい平凡なものであっても、その味についていけばいずれ故郷へ帰り路を見つけられる道しるべのようなものだ。
+    bonus_description: ""
+    code: Fetter_Stations_icon
+    is_showed: 1
+    placement: 0
+    years: 0
+  }
+]

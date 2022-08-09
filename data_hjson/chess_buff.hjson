@@ -1,0 +1,2657 @@
+[
+  {
+    id: 101
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 102
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 103
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 10
+    type: 121
+    duration_type: 1
+    duration: 1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 104
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 105
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 117
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 106
+    name: CT短縮
+    code: FlightChessBuff_17
+    description: CT短縮-1
+    max_tier: 1
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 107
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+4
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 108
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 109
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 110
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 111
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP+1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 112
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 113
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 114
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 115
+    name: スキルダメージ
+    code: FlightChessBuff_19
+    description: 破壊+1
+    max_tier: 99
+    type: 124
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 116
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP-1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 117
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: 通常攻撃ダメージ調整
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500101
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 118
+    name: CT短縮
+    code: FlightChessBuff_17
+    description: CT短縮-1
+    max_tier: 5
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 119
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 120
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 121
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+1
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 122
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+2
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 123
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 124
+    name: 出撃駒上限
+    code: FlightChessBuff_15
+    description: 出撃可能+1
+    max_tier: 1
+    type: 118
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 125
+    name: ダメージ調整
+    code: FlightChessBuff_1
+    description: 10ポイント未満
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: -1
+    parameter: *500102
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 126
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 127
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: 通常攻撃調整
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500103
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 128
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 129
+    name: ランダムポイント射程
+    code: FlightChessBuff_5
+    description: 射程+3
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 130
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+5
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "5"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 131
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP-5
+    max_tier: 1
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-5"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 132
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 133
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 134
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 135
+    name: アクションダイス
+    code: FlightChessBuff_22
+    description: アクションダイス+1
+    max_tier: 5
+    type: 130
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 136
+    name: ダイスの目
+    code: FlightChessBuff_24
+    description: 行動5未満
+    max_tier: 1
+    type: 132
+    duration_type: 2
+    duration: 1
+    parameter: "5"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 137
+    name: バトルダイス
+    code: FlightChessBuff_23
+    description: バトルダイス+1
+    max_tier: 1
+    type: 131
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 138
+    name: ダイスの目
+    code: FlightChessBuff_24
+    description: 行動3未満
+    max_tier: 1
+    type: 133
+    duration_type: 1
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 139
+    name: ダイスの目
+    code: FlightChessBuff_25
+    description: 戦闘3未満
+    max_tier: 1
+    type: 135
+    duration_type: 1
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 140
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 141
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 142
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 143
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 144
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 145
+    name: ダイスの目
+    code: FlightChessBuff_24
+    description: 行動4未満
+    max_tier: 1
+    type: 133
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 146
+    name: ダイスの目
+    code: FlightChessBuff_25
+    description: 戦闘4未満
+    max_tier: 1
+    type: 135
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 147
+    name: アクションダイス
+    code: FlightChessBuff_22
+    description: アクションダイス+1
+    max_tier: 1
+    type: 130
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 148
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 149
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 150
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: 通常攻撃ダメージ調整
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500104
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 151
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: 通常攻撃ダメージ調整
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500105
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 152
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 153
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 154
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 155
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 156
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 157
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 158
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 159
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 160
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP+1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 161
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: 通常攻撃ダメージ調整
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500101
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 162
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+2
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 163
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+2
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 164
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 165
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: 通常攻撃調整
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500107
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 166
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 167
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 2
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 168
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力-1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 169
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ-1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 170
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程-1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 171
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+2
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 172
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 173
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP-1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 174
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 6
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 175
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 176
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 8
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 177
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 10
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 178
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 5
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 2
+  }
+  {
+    id: 179
+    name: CT短縮
+    code: FlightChessBuff_17
+    description: CT短縮-1
+    max_tier: 1
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 180
+    name: CT短縮
+    code: FlightChessBuff_17
+    description: CT短縮-1
+    max_tier: 1
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 181
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 6
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 182
+    name: 出撃駒上限
+    code: FlightChessBuff_15
+    description: 出撃可能+2
+    max_tier: 1
+    type: 118
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 183
+    name: ダメージ調整
+    code: FlightChessBuff_28
+    description: 8ポイント未満
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: -1
+    parameter: *500108
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 194
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 4
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 3
+  }
+  {
+    id: 195
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 10
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 196
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 197
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 198
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 199
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 200
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 201
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 202
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+1
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 203
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 204
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 205
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 206
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 207
+    name: アクションダイス
+    code: FlightChessBuff_22
+    description: アクションダイス+1
+    max_tier: 1
+    type: 130
+    duration_type: 2
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 208
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 108
+    duration_type: 2
+    duration: 1
+    parameter: *500109
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 209
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 210
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 108
+    duration_type: 2
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 211
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 212
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 213
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 214
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 102
+    duration_type: 2
+    duration: 1
+    parameter: *500110
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 215
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP-2
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 216
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+2
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 217
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 218
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 219
+    name: スキルダメージ
+    code: FlightChessBuff_19
+    description: 破壊+1
+    max_tier: 99
+    type: 124
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 220
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 102
+    duration_type: 2
+    duration: 1
+    parameter: *500111
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 221
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 222
+    name: 目まい
+    code: FlightChessBuff_10
+    description: 目まい
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 223
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP+2
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 224
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+2
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 225
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 226
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+2
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 227
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 228
+    name: アクションダイス
+    code: FlightChessBuff_22
+    description: アクションダイス+1
+    max_tier: 1
+    type: 130
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 229
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 230
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 231
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 232
+    name: ダイスの目
+    code: FlightChessBuff_24
+    description: 行動3未満
+    max_tier: 1
+    type: 132
+    duration_type: 2
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 233
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+4
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 234
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 235
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 236
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 237
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+4
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 238
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+8
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "8"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 239
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+16
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "16"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 240
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+32
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "32"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 241
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 4
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 242
+    name: ダイスの目
+    code: FlightChessBuff_25
+    description: バトルダイス最低値
+    max_tier: 1
+    type: 135
+    duration_type: 2
+    duration: 1
+    parameter: *500112
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 243
+    name: ダイスの目
+    code: FlightChessBuff_25
+    description: バトルダイス最低値
+    max_tier: 1
+    type: 135
+    duration_type: 2
+    duration: 1
+    parameter: *500113
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 244
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 246
+    name: ダメージ調整
+    code: FlightChessBuff_30
+    description: ダメージを一度無効化
+    max_tier: 1
+    type: 108
+    duration_type: 2
+    duration: 1
+    parameter: *500114
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 247
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_29
+    description: 必殺
+    max_tier: 1
+    type: 120
+    duration_type: 2
+    duration: 1
+    parameter: *500115
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 248
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 249
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 250
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 251
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 252
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 253
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 254
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+4
+    max_tier: 1
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 255
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP+2
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 256
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力-1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 257
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP+4
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 258
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+1
+    max_tier: 6
+    type: 101
+    duration_type: 2
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 259
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 260
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 261
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 262
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 263
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+4
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 264
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 265
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+1
+    max_tier: 99
+    type: 103
+    duration_type: 2
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 266
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 267
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 268
+    name: 通常攻撃ダメージ調整
+    code: FlightChessBuff_28
+    description: ダメージ+5
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500116
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 269
+    name: ダメージ調整
+    code: FlightChessBuff_28
+    description: ダメージを一度無効化
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: -1
+    parameter: *500117
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 270
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+2
+    max_tier: 1
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 271
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 272
+    name: ダメージ上昇
+    code: FlightChessBuff_1
+    description: ダメージ+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 273
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 274
+    name: 最大HP
+    code: FlightChessBuff_8
+    description: 最大HP+1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 275
+    name: 射程
+    code: FlightChessBuff_5
+    description: 射程+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 276
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 277
+    name: ジャンプ距離
+    code: FlightChessBuff_27
+    description: 機動距離+1
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 278
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 279
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 280
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 281
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 282
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 283
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 284
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 285
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 286
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 287
+    name: 行動力上昇
+    code: FlightChessBuff_3
+    description: 行動力+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 288
+    name: ""
+    code: ""
+    description: ""
+    max_tier: 10
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+]

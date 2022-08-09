@@ -1,0 +1,912 @@
+[
+  {
+    id: 1
+    type: cumulative_login
+    title: 累計ログイン
+    content: 累計{0}日ログインを行う
+    function_control_id: 0
+  }
+  {
+    id: 2
+    type: friend_praise
+    title: 友好の印
+    content: 本イベント期間中に、累計{0}回いいねを押される
+    function_control_id: 0
+  }
+  {
+    id: 3
+    type: consume_iop_contract
+    title: 人形製造
+    content: 人形製造契約を累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 4
+    type: consume_coin1
+    title: 訓練資料
+    content: 初級訓練資料を累計{0}個消費する
+    function_control_id: 0
+  }
+  {
+    id: 5
+    type: consume_coin2
+    title: 訓練資料
+    content: 中級訓練資料を累計{0}個消費する
+    function_control_id: 0
+  }
+  {
+    id: 6
+    type: consume_coin3
+    title: 訓練資料
+    content: 上級訓練資料を累計{0}個消費する
+    function_control_id: 0
+  }
+  {
+    id: 7
+    type: consume_fight_report
+    title: 作戦報告書
+    content: 作戦報告書を累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 8
+    type: develop_gun_rank4
+    title: 血統認証
+    content: ☆4の人形を累計{0}体製造する
+    function_control_id: 0
+  }
+  {
+    id: 9
+    type: develop_gun_rank5
+    title: 血統認証
+    content: ☆5の人形を累計{0}体製造する
+    function_control_id: 0
+  }
+  {
+    id: 10
+    type: get_build_coin
+    title: バッテリー収集
+    content: バッテリーを累計{0}獲得する
+    function_control_id: 0
+  }
+  {
+    id: 11
+    type: mission_win
+    title: ステージクリア
+    content: 任意のステージで{0}回勝利する(模擬作戦を除く)
+    function_control_id: 0
+  }
+  {
+    id: 12
+    type: upgrade
+    title: スキル訓練
+    content: 人形/妖精のスキル訓練を累計{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 13
+    type: borrow_friend_team
+    title: 支援部隊
+    content: 戦友の支援部隊を累計{0}回配置する
+    function_control_id: 0
+  }
+  {
+    id: 14
+    type: operation_duration
+    title: 後方支援
+    content: 後方支援を累計{0}時間行う
+    function_control_id: 0
+  }
+  {
+    id: 15
+    type: collect_gun
+    title: 人形救援
+    content: 任意のステージで累計{0}体の人形を救援する(自律作戦を除く)
+    function_control_id: 0
+  }
+  {
+    id: 16
+    type: consume_furniture_coin
+    title: コイン消費
+    content: コインを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 17
+    type: fix_gun
+    title: 人形修復
+    content: 人形もしくは融合勢力ユニットを累計{0}回修復する
+    function_control_id: 0
+  }
+  {
+    id: 18
+    type: consume_bp
+    title: AP消費(超伝導APを含む)
+    content: APを累計{0}ポイント消費する
+    function_control_id: 0
+  }
+  {
+    id: 19
+    type: consume_voucher
+    title: 較正チケット
+    content: 較正チケットを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 20
+    type: upvote
+    title: いいねの使者
+    content: 本イベント期間中に、累計{0}回いいねを押す
+    function_control_id: 0
+  }
+  {
+    id: 21
+    type: consume_ammo
+    title: 弾薬消費
+    content: 弾薬を累計{0}消費する
+    function_control_id: 0
+  }
+  {
+    id: 22
+    type: mission_common_win
+    title: ステージクリア
+    content: 通常戦役で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 23
+    type: mission_emergent_win
+    title: 緊急戦役勝利
+    content: 緊急戦役で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 24
+    type: mission_night_win
+    title: 夜戦戦役勝利
+    content: 夜戦戦役で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 25
+    type: s_win
+    title: S評価勝利
+    content: S評価で戦闘を{0}回クリアする
+    function_control_id: 0
+  }
+  {
+    id: 26
+    type: operation
+    title: 後方支援
+    content: 後方支援を累計{0}回完了する
+    function_control_id: 0
+  }
+  {
+    id: 27
+    type: mission_duplicate_type1
+    title: 経験特訓
+    content: 模擬作戦-経験特訓を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 28
+    type: mission_duplicate_type2
+    title: 強化練習
+    content: 模擬作戦-強化練習を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 29
+    type: mission_duplicate_type3
+    title: 資料収集
+    content: 模擬作戦-資料収集を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 30
+    type: gun_level_up_count
+    title: 人形Lv上昇
+    content: 人形のLvを{0}回上昇させる
+    function_control_id: 0
+  }
+  {
+    id: 31
+    type: eat_gun
+    title: 人形強化
+    content: 人形強化を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 32
+    type: favor_up
+    title: 好感度
+    content: 好感度を{0}ポイント上昇させる
+    function_control_id: 0
+  }
+  {
+    id: 33
+    type: soul_bond_gun
+    title: 誓約回数
+    content: "{0}回誓約を行う"
+    function_control_id: 0
+  }
+  {
+    id: 34
+    type: develop_gun
+    title: 人形製造回数
+    content: 人形製造を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 35
+    type: develop_equip
+    title: 装備製造
+    content: 装備製造を累計{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 36
+    type: develop_equip_rank4
+    title: 血統認証-装備
+    content: ☆4の装備を累計{0}個製造する
+    function_control_id: 0
+  }
+  {
+    id: 37
+    type: develop_equip_rank5
+    title: 血統認証-装備
+    content: ☆5の装備を累計{0}個製造する
+    function_control_id: 0
+  }
+  {
+    id: 38
+    type: consume_mp
+    title: 人力消費
+    content: 人力を累計{0}消費する
+    function_control_id: 0
+  }
+  {
+    id: 39
+    type: consume_mre
+    title: 配給消費
+    content: 配給を累計{0}消費する
+    function_control_id: 0
+  }
+  {
+    id: 40
+    type: consume_part
+    title: 部品消費
+    content: 部品を累計{0}消費する
+    function_control_id: 0
+  }
+  {
+    id: 41
+    type: buy_bp_count
+    title: AP購入
+    content: APを{0}回購入する
+    function_control_id: 0
+  }
+  {
+    id: 42
+    type: consume_core
+    title: コア消費
+    content: コアを累計{0}消費する
+    function_control_id: 0
+  }
+  {
+    id: 43
+    type: consume_exchange_coin
+    title: 引換券消費
+    content: 引換券を累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 44
+    type: consume_skin_exchange
+    title: ブラックカード消費
+    content: ブラックカードを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 45
+    type: open_gift
+    title: ギフト贈呈
+    content: ギフトを累計{0}個贈る
+    function_control_id: 0
+  }
+  {
+    id: 46
+    type: gasha_count
+    title: ガチャ回数
+    content: ガチャを{0}回回す（10連ガチャは11回分と判定する）
+    function_control_id: 0
+  }
+  {
+    id: 47
+    type: consume_capsule
+    title: 増幅カプセル
+    content: 増幅カプセルを累計{0}個消費する
+    function_control_id: 0
+  }
+  {
+    id: 48
+    type: consume_quick_training
+    title: 快速訓練契約
+    content: 快速訓練契約を累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 49
+    type: consume_quick_reinforce
+    title: 快速修復契約
+    content: 快速修復契約を累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 50
+    type: consume_gem
+    title: ダイヤ消費
+    content: ダイヤを累計{0}個消費する
+    function_control_id: 0
+  }
+  {
+    id: 51
+    type: cumulative_recharge_amount
+    title: 累計チャージ金額
+    content: 累計チャージ金額が{0}円に達する
+    function_control_id: 0
+  }
+  {
+    id: 52
+    type: cumulative_recharge_days
+    title: 累計チャージ日数
+    content: 累計チャージ日数が{0}日に達する（チャージ金額に関わらず、1日のうち1回でもチャージをすれば、日数がカウントされる）
+    function_control_id: 0
+  }
+  {
+    id: 53
+    type: special_develop_gun
+    title: 大型製造
+    content: 大型製造を累計{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 54
+    type: adjust_equip
+    title: 装備較正
+    content: ""
+    function_control_id: 0
+  }
+  {
+    id: 55
+    type: trial_mission
+    title: 防御演習
+    content: ""
+    function_control_id: 0
+  }
+  {
+    id: 56
+    type: win_hunter
+    title: ""
+    content: 戦役勝利時において、鉄血BOSS「ハンター」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 57
+    type: win_executioner
+    title: ""
+    content: 戦役勝利時において、鉄血BOSS「エクスキューショナー」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 58
+    type: win_architect
+    title: ""
+    content: 戦役勝利時において、鉄血BOSS「アーキテクト」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 59
+    type: win_ouroboros
+    title: ""
+    content: 戦役勝利時において、鉄血BOSS「ウロボロス」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 60
+    type: get_friend_points
+    title: ""
+    content: 本イベント期間中に、友情ポイントを{0}ポイント獲得する
+    function_control_id: 0
+  }
+  {
+    id: 61
+    type: consume_friend_points
+    title: ""
+    content: 本イベント期間中に、友情ポイントを{0}ポイント消費する
+    function_control_id: 0
+  }
+  {
+    id: 62
+    type: consume_build_coin
+    title: ""
+    content: 本イベント期間中に、建設資料を{0}消費する
+    function_control_id: 0
+  }
+  {
+    id: 63
+    type: win_jammer
+    title: 指名手配
+    content: 戦役勝利時において、鉄血BOSS「イントゥルーダー」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 64
+    type: win_destroyer
+    title: 指名手配
+    content: 戦役勝利時において、鉄血BOSS「デストロイヤー」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 65
+    type: win_alchemist
+    title: 指名手配
+    content: 戦役勝利時において、鉄血BOSS「アルケミスト」を{0}回倒す
+    function_control_id: 0
+  }
+  {
+    id: 66
+    type: consume_quick_develop
+    title: ""
+    content: 快速製造契約を累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 67
+    type: operation_big_success
+    title: 後方支援大成功
+    content: 後方支援で{0}回大成功をする
+    function_control_id: 0
+  }
+  {
+    id: 68
+    type: mystery_mission_1
+    title: 特殊作戦
+    content: ステージ「テストA-普通」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 69
+    type: mystery_mission_2
+    title: 特殊作戦
+    content: ステージ「テストB-普通」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 70
+    type: mystery_mission_3
+    title: 特殊作戦
+    content: ステージ「テストB-難しい」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 71
+    type: mystery_mission_4
+    title: 特殊作戦
+    content: ステージ「テストB-悪夢」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 72
+    type: mystery_mission_5
+    title: 特殊作戦
+    content: ステージ「テストC-普通」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 73
+    type: mystery_mission_6
+    title: 特殊作戦
+    content: ステージ「テストC-難しい」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 74
+    type: mystery_mission_7
+    title: 特殊作戦
+    content: ステージ「テストC-悪夢」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 75
+    type: mystery_mission_8
+    title: 特殊作戦
+    content: ステージ「テストD-普通」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 76
+    type: mystery_mission_9
+    title: 特殊作戦
+    content: ステージ「テストD-悪夢」で{0}回勝利する
+    function_control_id: 0
+  }
+  {
+    id: 77
+    type: mystery_mission_10
+    title: 特殊作戦
+    content: ""
+    function_control_id: 0
+  }
+  {
+    id: 78
+    type: special_develop_equip
+    title: ""
+    content: 大型装備製造
+    function_control_id: 0
+  }
+  {
+    id: 79
+    type: mission_activities_win
+    title: ""
+    content: イベントステージおよび通常ステージ挑戦
+    function_control_id: 0
+  }
+  {
+    id: 80
+    type: mind_update
+    title: ""
+    content: メンタルアップグレードを{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 81
+    type: reset_mission_group
+    title: ""
+    content: イベントステージを{0}回リセットする
+    function_control_id: 0
+  }
+  {
+    id: 82
+    type: special_mission_point
+    title: ""
+    content: ウサギの巣で{0}ポイントに達する
+    function_control_id: 0
+  }
+  {
+    id: 83
+    type: coffeeshop_comic
+    title: ""
+    content: "{0}回マンガを購入する"
+    function_control_id: 0
+  }
+  {
+    id: 84
+    type: coffeeshop_pv
+    title: ""
+    content: "{0}回PVを購入する"
+    function_control_id: 0
+  }
+  {
+    id: 85
+    type: mission_duplicate_type5
+    title: ""
+    content: 「メンタル回廊」に{0}回参加する(難易度は任意)
+    function_control_id: 0
+  }
+  {
+    id: 86
+    type: develop_fairy
+    title: ""
+    content: 戦術妖精を{0}体獲得する
+    function_control_id: 0
+  }
+  {
+    id: 87
+    type: special_develop
+    title: ""
+    content: 大型製造{0}
+    function_control_id: 0
+  }
+  {
+    id: 88
+    type: squad_base_data_analyse
+    title: 情報解析
+    content: 原始サンプルを使って情報解析を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 89
+    type: squad_senior_data_analyse
+    title: 情報解析
+    content: 純正サンプルを使って情報解析を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 90
+    type: squad_data_analyse
+    title: 情報解析
+    content: 情報解析を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 91
+    type: squad_data_by_analyse
+    title: 中枢データ
+    content: 中枢データを{0}個手に入れる
+    function_control_id: 0
+  }
+  {
+    id: 92
+    type: squad_chip_rank4_by_analyse
+    title: 血統認証
+    content: ★4チップを{0}個手に入れる
+    function_control_id: 0
+  }
+  {
+    id: 93
+    type: squad_chip_rank5_by_analyse
+    title: 血統認証
+    content: ★5チップを{0}個手に入れる
+    function_control_id: 0
+  }
+  {
+    id: 94
+    type: squad_level_up_times
+    title: 重装部隊Lv上昇
+    content: 重装部隊のLv{0}上昇する
+    function_control_id: 0
+  }
+  {
+    id: 95
+    type: squad_strengthen_times
+    title: 重装部隊強化
+    content: 増幅カプセル{0}個を重装部隊強化に使用する
+    function_control_id: 0
+  }
+  {
+    id: 96
+    type: squad_train_and_skill_times
+    title: 重装部隊訓練
+    content: 重装部隊訓練を{0}回行う（経験、スキル訓練含め）
+    function_control_id: 0
+  }
+  {
+    id: 97
+    type: squad_up_rank
+    title: 重装部隊ランクアップ
+    content: 重装部隊ランクアップを{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 98
+    type: squad_up_advanced_times
+    title: 重装部隊バージョンアップ
+    content: 重装部隊バージョンアップを{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 99
+    type: squad_eat_chip_num
+    title: チップ強化
+    content: チップ{0}個をチップ強化に使用する
+    function_control_id: 0
+  }
+  {
+    id: 100
+    type: combine_gun
+    title: 編制拡大
+    content: 編制拡大を{0}回行う
+    function_control_id: 0
+  }
+  {
+    id: 101
+    type: win_armorrobot
+    title: 装甲機械鉄血兵
+    content: 戦役勝利時において、装甲機械鉄血兵を累計{0}体倒す
+    function_control_id: 0
+  }
+  {
+    id: 102
+    type: win_robot
+    title: ノーマル機械鉄血兵
+    content: 戦役勝利時において、ノーマル機械鉄血兵を累計{0}体倒す
+    function_control_id: 0
+  }
+  {
+    id: 103
+    type: win_person
+    title: ノーマル人形鉄血兵
+    content: 戦役勝利時において、ノーマル人形鉄血兵を累計{0}体倒す
+    function_control_id: 0
+  }
+  {
+    id: 104
+    type: win_boss
+    title: ボス撃破
+    content: 戦役勝利時において、敵BOSSを累計{0}体倒す
+    function_control_id: 0
+  }
+  {
+    id: 105
+    type: from_friend_build_coin
+    title: バッテリー受領
+    content: 戦友宿舍のバッテリーを{0}回受け取る
+    function_control_id: 0
+  }
+  {
+    id: 106
+    type: finish_squad_daily_task
+    title: 情報任務
+    content: 情報任務を{0}回完了する
+    function_control_id: 0
+  }
+  {
+    id: 107
+    type: consume_quick_analyse
+    title: 快速解析契約消費
+    content: 快速解析契約を{0}個消費する
+    function_control_id: 0
+  }
+  {
+    id: 108
+    type: get_squad_fragment_type1
+    title: 血統認証-BGM-71
+    content: GM-71の中枢データを{0}個獲得する
+    function_control_id: 0
+  }
+  {
+    id: 109
+    type: get_squad_fragment_type2
+    title: 血統認証-2B14
+    content: 2B14の中枢データを{0}個獲得する
+    function_control_id: 0
+  }
+  {
+    id: 110
+    type: get_squad_fragment_type3
+    title: 血統認証-AGS-30
+    content: AGS-30の中枢データを{0}個獲得する
+    function_control_id: 0
+  }
+  {
+    id: 111
+    type: get_base_data
+    title: 原始サンプル獲得
+    content: 原始ササンプルを{0}個獲得する
+    function_control_id: 0
+  }
+  {
+    id: 112
+    type: get_senior_data
+    title: 純正サンプル獲得
+    content: 純正サンプルを{0}個獲得する
+    function_control_id: 0
+  }
+  {
+    id: 113
+    type: get_fight_report
+    title: 任意作戦報告書作成
+    content: 任意作戦報告書{0}冊作成する（作戦報告書と特種作戦報告書含め）
+    function_control_id: 0
+  }
+  {
+    id: 114
+    type: explore_has_time
+    title: 探索完了
+    content: 累計{0}時間探索を完了する
+    function_control_id: 0
+  }
+  {
+    id: 115
+    type: buy_commander_uniform
+    title: 指揮官衣装の購入
+    content: 累計{0}着の指揮官衣装を購入する
+    function_control_id: 0
+  }
+  {
+    id: 116
+    type: get_commander_uniform
+    title: 指揮官衣装の獲得
+    content: 累計{0}着の指揮官衣装を獲得する
+    function_control_id: 0
+  }
+  {
+    id: 117
+    type: buy_random_dye
+    title: ランダム染色剤
+    content: 累計{0}個のランダム染色剤を使用する
+    function_control_id: 0
+  }
+  {
+    id: 118
+    type: buy_assign_dye
+    title: 指定染色剤
+    content: 累計{0}個の指定染色剤を使用する
+    function_control_id: 0
+  }
+  {
+    id: 119
+    type: use_dye
+    title: 染色剤の使用
+    content: 累計{0}個の染色剤を使用する
+    function_control_id: 0
+  }
+  {
+    id: 120
+    type: sangvis_daily_retrieval
+    title: 通常捕獲
+    content: 捕獲作戦-通常捕獲を累計{0}回行う。
+    function_control_id: 0
+  }
+  {
+    id: 121
+    type: sangvis_aided_retrieval
+    title: 委託捕獲
+    content: 捕獲作戦-委託捕獲を累計{0}回行う。
+    function_control_id: 0
+  }
+  {
+    id: 122
+    type: sangvis_exercise
+    title: 融合演習
+    content: 模擬作戦-融合演習を累計{0}回完了する
+    function_control_id: 0
+  }
+  {
+    id: 123
+    type: sangvis_exercise_exp
+    title: 防衛構想訓練
+    content: 融合演習-防衛構想訓練を累計{0}回完了する
+    function_control_id: 0
+  }
+  {
+    id: 124
+    type: sangvis_exercise_star
+    title: 開発調節訓練
+    content: 融合演習-開発調節訓練を累計{0}回完了する
+    function_control_id: 0
+  }
+  {
+    id: 125
+    type: sangvis_exercise_analysis
+    title: 暗号解読訓練
+    content: 融合演習-暗号解読訓練を累計{0}回完了する
+    function_control_id: 0
+  }
+  {
+    id: 126
+    type: consume_sangvis_exp_item
+    title: 急速成長
+    content: 急速成長ディスクを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 127
+    type: consume_sangvis_advance_item
+    title: 開発培養
+    content: 開発シャーレを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 128
+    type: consume_sangvis_skill_coin1
+    title: 暗号訓練
+    content: 初級訓練ディスクを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 129
+    type: consume_sangvis_skill_coin2
+    title: 暗号訓練
+    content: 上級訓練ディスクを累計{0}枚消費する
+    function_control_id: 0
+  }
+  {
+    id: 130
+    type: consume_sangvis_material1_coin
+    title: PE消費(超伝導PEを含む)
+    content: PEを累計{0}ポイント消費する
+    function_control_id: 0
+  }
+]
