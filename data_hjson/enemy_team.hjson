@@ -116472,6 +116472,29 @@
     type_coef: ""
   }
   {
+    id: 513705
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 910150
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10513705
+    effect_ext: 0
+    targettrain_cancollect: 0
+    fight_type: 0
+    type_coef: ""
+  }
+  {
     id: 514701
     reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,332,0"
     equip_s_probability: ""
@@ -117386,6 +117409,190 @@
     use_building_skill: ""
     team_confrontfun_pic: ""
     team_confrontfun_des: enemy_team-10515012
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520801
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10038
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520801
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520802
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10037
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520802
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520803
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10035
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520803
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520804
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10090
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520804
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520901
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10038
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520901
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520902
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10037
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520902
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520903
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10089
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520903
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 520904
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10088
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10520904
     effect_ext: 0
     targettrain_cancollect: 1
     fight_type: 0
@@ -119945,6 +120152,29 @@
     type_coef: ""
   }
   {
+    id: 913217
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13217
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10913217
+    effect_ext: 0
+    targettrain_cancollect: 0
+    fight_type: 0
+    type_coef: ""
+  }
+  {
     id: 920001
     reward_gun_pool: ""
     equip_s_probability: ""
@@ -120560,6 +120790,29 @@
     use_building_skill: ""
     team_confrontfun_pic: ""
     team_confrontfun_des: enemy_team-10930020
+    effect_ext: 0
+    targettrain_cancollect: 0
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 930021
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 900355
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-10930021
     effect_ext: 0
     targettrain_cancollect: 0
     fight_type: 0
@@ -142670,14 +142923,14 @@
   }
   {
     id: 6470104
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,227,99,118"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,295,99,118"
     equip_s_probability: ""
     draw_event_s_id: 424
     enemy_leader: 13219
     if_stay: 1
     correction_belong: ""
     correction_turn: ""
-    limit_guns: "227"
+    limit_guns: "295"
     limit_equips: ""
     ai: 0
     ai_content: ""
@@ -142785,14 +143038,14 @@
   }
   {
     id: 6470204
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,26,36"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,317,26,36"
     equip_s_probability: ""
     draw_event_s_id: 424
     enemy_leader: 13219
     if_stay: 1
     correction_belong: ""
     correction_turn: ""
-    limit_guns: "252"
+    limit_guns: "317"
     limit_equips: ""
     ai: 0
     ai_content: ""
@@ -142969,14 +143222,14 @@
   }
   {
     id: 6470307
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,251,101,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,211,101,60"
     equip_s_probability: ""
     draw_event_s_id: 425
     enemy_leader: 13219
     if_stay: 1
     correction_belong: ""
     correction_turn: ""
-    limit_guns: "251"
+    limit_guns: "211"
     limit_equips: ""
     ai: 0
     ai_content: ""
@@ -143222,14 +143475,14 @@
   }
   {
     id: 6470410
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,276,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,318,1,103"
     equip_s_probability: ""
     draw_event_s_id: 425
     enemy_leader: 13219
     if_stay: 1
     correction_belong: ""
     correction_turn: ""
-    limit_guns: "276"
+    limit_guns: "318"
     limit_equips: ""
     ai: 0
     ai_content: ""
@@ -155710,6 +155963,1915 @@
     type_coef: ""
   }
   {
+    id: 6520101
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 10090
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520101
+    effect_ext: -77000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 10052
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520102
+    effect_ext: -84000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520103
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 11008
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520103
+    effect_ext: -91000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520104
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 12050
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520104
+    effect_ext: -98000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520105
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 11007
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520105
+    effect_ext: -105000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520106
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10094
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520106
+    effect_ext: -70000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520107
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10077
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520107
+    effect_ext: -70000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520108
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10021
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520108
+    effect_ext: -70000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520109
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10008
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520109
+    effect_ext: -7000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520110
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10053
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520110
+    effect_ext: -14000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520111
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10088
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520111
+    effect_ext: -14000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520112
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10090
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520112
+    effect_ext: -21000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520113
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10038
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520113
+    effect_ext: -28000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520114
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10041
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520114
+    effect_ext: -28000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520115
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10095
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520115
+    effect_ext: -35000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520116
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10018
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520116
+    effect_ext: -42000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520117
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10046
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520117
+    effect_ext: -49000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520118
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10047
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520118
+    effect_ext: -56000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520119
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10072
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520119
+    effect_ext: -63000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520120
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11030
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520120
+    effect_ext: -70000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520201
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 13233
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520201
+    effect_ext: -31500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520202
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 11007
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520202
+    effect_ext: -35000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520203
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 10051
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520203
+    effect_ext: -38500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520204
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 10016
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520204
+    effect_ext: -42000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520205
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 10077
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520205
+    effect_ext: -45500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520206
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520206
+    effect_ext: -28000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520207
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10054
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520207
+    effect_ext: -3500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520208
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10033
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520208
+    effect_ext: -7000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520209
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10009
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520209
+    effect_ext: -10500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520210
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10008
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520210
+    effect_ext: -7000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520211
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10029
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520211
+    effect_ext: -10500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520212
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10078
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520212
+    effect_ext: -14000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520213
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10089
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520213
+    effect_ext: -17500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520214
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10090
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520214
+    effect_ext: -21000
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520215
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10036
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: 2:50
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520215
+    effect_ext: -24500
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520301
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12067
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 101
+    ai_content: "66839,66844,66829,66824,66839"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520301
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520302
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12067
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 101
+    ai_content: "66831,66822,66824,66840,66831"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520302
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520303
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12067
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 101
+    ai_content: "66833,66832,66836,66837,66833"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520303
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520304
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12071
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520304
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520305
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12072
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520305
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520306
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12068
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520306
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520307
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,142,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 12074
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520307
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520308
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10041
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520308
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520309
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13233
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520309
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520310
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12072
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520310
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520401
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12071
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 102
+    ai_content: "3"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520401
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520402
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12071
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520402
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520403
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,142,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 13233
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520403
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520404
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13233
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520404
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520405
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12067
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520405
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520406
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 12078
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520406
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520501
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,142,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 604
+    enemy_leader: 13234
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520501
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520502
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 604
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520502
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520503
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,334,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 604
+    enemy_leader: 13233
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "334"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520503
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520504
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,359,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 604
+    enemy_leader: 13001
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "359"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520504
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520505
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,272,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 604
+    enemy_leader: 13111
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520505
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520506
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,142,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 13234
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520506
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520507
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520507
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520508
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,334,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 13233
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "334"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520508
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520509
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,359,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 13001
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "359"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520509
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520510
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,272,0"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 13111
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520510
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520511
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,142,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 605
+    enemy_leader: 13234
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520511
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520512
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,175,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 605
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520512
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520513
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,334,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 605
+    enemy_leader: 13233
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "334"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520513
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520514
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,359,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 605
+    enemy_leader: 13001
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "359"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520514
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520515
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,272,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 605
+    enemy_leader: 13111
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520515
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520516
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10034
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520516
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520601
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,142,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 602
+    enemy_leader: 13234
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520601
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520602
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 602
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520602
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520603
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,334,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 602
+    enemy_leader: 10086
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "334"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520603
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520604
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,359,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 602
+    enemy_leader: 13001
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "359"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520604
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520605
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,272,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 602
+    enemy_leader: 13111
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_angel
+    team_confrontfun_des: enemy_team-16520605
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520606
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,142,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 13234
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520606
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520607
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520607
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520608
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,334,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 10086
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "334"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520608
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520609
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,359,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 13001
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "359"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520609
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520610
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,272,0"
+    equip_s_probability: ""
+    draw_event_s_id: 600
+    enemy_leader: 13111
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520610
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520611
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,142,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 603
+    enemy_leader: 13234
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "142"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520611
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520612
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,175,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 603
+    enemy_leader: 13232
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "175"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520612
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520613
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,334,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 603
+    enemy_leader: 10086
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "334"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520613
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520614
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,359,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 603
+    enemy_leader: 13001
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "359"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520614
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520615
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,272,101,75"
+    equip_s_probability: ""
+    draw_event_s_id: 603
+    enemy_leader: 13111
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: tip_wolf
+    team_confrontfun_des: enemy_team-16520615
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 6520616
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10034
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-16520616
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
     id: 9120101
     reward_gun_pool: ""
     equip_s_probability: ""
@@ -164536,6 +166698,1064 @@
     use_building_skill: ""
     team_confrontfun_pic: ""
     team_confrontfun_des: ""
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521001
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13112
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "94959,94960,94961,94962,94959"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521001
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521002
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10004
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "94948,94949,94947,94956,94948"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521002
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521003
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13112
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "94951,94952,94953"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521003
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521004
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11012
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521004
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521005
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11012
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521005
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521006
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10004
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521006
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521007
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10003
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521007
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521101
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10004
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521101
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13112
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 103
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521102
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521103
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13112
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521103
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521104
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10004
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521104
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521105
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13112
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "94982,94983,94984,94980,94982"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521105
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521106
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10002
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 103
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521106
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521107
+    reward_gun_pool: ""
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10002
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: ""
+    limit_equips: ""
+    ai: 101
+    ai_content: "95008,95003,95002,95004,95006,95007,95005,95001,95000,94999,95008"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521107
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521201
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11012
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95019,95032,95033,95037,95021,95020,95019"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521201
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521202
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10007
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95019,95032,95033,95037,95021,95020,95019"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521202
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521203
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10002
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 103
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521203
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521204
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11012
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521204
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521205
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10002
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521205
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521206
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10002
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95042,95041,95040,95056,95055,95076,95042"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521206
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521207
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13111
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95042,95041,95040,95056,95055,95076,95042"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521207
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521208
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10003
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95052,95054,95057"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521208
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521209
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10021
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521209
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521301
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 900036
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521301
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521302
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 900036
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95079,95082,95095,95090,95089,95088,95077,95078,95079"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521302
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521303
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10021
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95079,95082,95095,95090,95089,95088,95077,95078,95079"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521303
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521304
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13111
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 103
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521304
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521305
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11002
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "3"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521305
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521306
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13111
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "3"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521306
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521307
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11004
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 103
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521307
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521308
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 900036
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 103
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521308
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521309
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 15003
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95130,95129,95128"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521309
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521310
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10022
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95121,95126,95127"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521310
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521311
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10022
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95131,95132,95133"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521311
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521401
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10022
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95174,95173,95187,95189,95188,95183,95182,95181,95192,95177,95174"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521401
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521402
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 10021
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95174,95173,95187,95189,95188,95183,95182,95181,95192,95177,95174"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521402
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521403
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11004
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521403
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521404
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13111
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521404
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521405
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11030
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95198,95199,95203,95204,95198"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521405
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521406
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 15001
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95198,95199,95203,95204,95198"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521406
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521407
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11007
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "1"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521407
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521408
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11007
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "1"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521408
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521409
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 13111
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521409
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521410
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 11002
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521410
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521411
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    equip_s_probability: ""
+    draw_event_s_id: 0
+    enemy_leader: 15007
+    if_stay: 0
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "0"
+    limit_equips: ""
+    ai: 101
+    ai_content: "95227,95231,95226,95224,95228"
+    enemy_type_display: "1"
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521411
+    effect_ext: 0
+    targettrain_cancollect: 1
+    fight_type: 0
+    type_coef: ""
+  }
+  {
+    id: 9521412
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,272,60,26"
+    equip_s_probability: ""
+    draw_event_s_id: 601
+    enemy_leader: 900354
+    if_stay: 1
+    correction_belong: ""
+    correction_turn: ""
+    limit_guns: "272"
+    limit_equips: ""
+    ai: 0
+    ai_content: ""
+    enemy_type_display: ""
+    use_building: ""
+    use_building_skill: ""
+    team_confrontfun_pic: ""
+    team_confrontfun_des: enemy_team-19521412
     effect_ext: 0
     targettrain_cancollect: 1
     fight_type: 0

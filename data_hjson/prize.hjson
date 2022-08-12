@@ -28792,7 +28792,7 @@
     gem_pay: 0
     gun_id: "0"
     sangvis: ""
-    item_ids: 100095-1,100097-10
+    item_ids: 900045-1,900047-15
     furniture: ""
     gift: ""
     equip_ids: ""
@@ -28819,7 +28819,7 @@
     gem_pay: 0
     gun_id: "0"
     sangvis: ""
-    item_ids: 100096-1,100097-15
+    item_ids: 900046-1,900047-25
     furniture: ""
     gift: ""
     equip_ids: ""
@@ -28846,7 +28846,7 @@
     gem_pay: 0
     gun_id: "0"
     sangvis: ""
-    item_ids: 100095-1
+    item_ids: 900045-1
     furniture: ""
     gift: ""
     equip_ids: ""
@@ -28873,7 +28873,7 @@
     gem_pay: 0
     gun_id: "0"
     sangvis: ""
-    item_ids: 100096-1
+    item_ids: 900046-1
     furniture: ""
     gift: ""
     equip_ids: ""
@@ -28900,7 +28900,7 @@
     gem_pay: 0
     gun_id: "0"
     sangvis: ""
-    item_ids: 100097-10
+    item_ids: 900047-15
     furniture: ""
     gift: ""
     equip_ids: ""
@@ -28927,7 +28927,7 @@
     gem_pay: 0
     gun_id: "0"
     sangvis: ""
-    item_ids: 100097-15
+    item_ids: 900047-25
     furniture: ""
     gift: ""
     equip_ids: ""
@@ -29368,6 +29368,33 @@
     content: prize-20001260
     send_limit: 0
     icon: Bumdle_cashgold
+    bp_pay: 0
+    fairy_ids: ""
+    chip: ""
+    commander_uniform: ""
+  }
+  {
+    id: 1290
+    name: prize-10001290
+    user_exp: 0
+    mp: 0
+    ammo: 0
+    mre: 0
+    part: 0
+    core: 0
+    gem: 0
+    gem_pay: 0
+    gun_id: "318"
+    sangvis: ""
+    item_ids: ""
+    furniture: ""
+    gift: ""
+    equip_ids: ""
+    coins: ""
+    skin: 0
+    content: prize-20001290
+    send_limit: 0
+    icon: ""
     bp_pay: 0
     fairy_ids: ""
     chip: ""

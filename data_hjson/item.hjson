@@ -19165,6 +19165,54 @@
     detail_introduction: ""
   }
   {
+    id: 900045
+    type: 4
+    arg: "900045"
+    code: Nova_medal_black
+    item_name: 新星勲章・ウェイブ・ラングラー
+    introduction: 新星勲章・ウェイブ・ラングラー
+    rank: 1
+    sort: 0
+    initial_num: ""
+    daily_limit: ""
+    upper_limit: 0
+    consume_type: 0
+    item_access: ""
+    detail_introduction: ""
+  }
+  {
+    id: 900046
+    type: 4
+    arg: "900046"
+    code: Platinum_medal_black
+    item_name: 白金勲章・ウェイブ・ラングラー
+    introduction: 白金勲章・ウェイブ・ラングラー
+    rank: 1
+    sort: 0
+    initial_num: ""
+    daily_limit: ""
+    upper_limit: 0
+    consume_type: 0
+    item_access: ""
+    detail_introduction: ""
+  }
+  {
+    id: 900047
+    type: 9
+    arg: "900047"
+    code: Star_sign
+    item_name: スターアロー
+    introduction: スターアロー
+    rank: 1
+    sort: 0
+    initial_num: ""
+    daily_limit: "90"
+    upper_limit: 0
+    consume_type: 0
+    item_access: ""
+    detail_introduction: ""
+  }
+  {
     id: 1100001
     type: 11
     arg: "1"
