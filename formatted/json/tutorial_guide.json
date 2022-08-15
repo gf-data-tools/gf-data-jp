@@ -1,0 +1,282 @@
+[
+    {
+        "id": 100,
+        "type": 1,
+        "child_ids": "101,102,103,104,105,106",
+        "title": "基礎戦術",
+        "title_code": "guide_intermediate",
+        "sub_title": "作戦指揮の基本中の基本です。これらをマスターしてから部隊を出撃させましょう。",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 101,
+        "type": 2,
+        "child_ids": "",
+        "title": "人形獲得",
+        "title_code": "",
+        "sub_title": "まずは、戦術人形の製造方法を見てみましょう。",
+        "tutorial_manual_id": 202,
+        "rank": 5
+    },
+    {
+        "id": 102,
+        "type": 2,
+        "child_ids": "",
+        "title": "人形Lv上昇",
+        "title_code": "",
+        "sub_title": "人形のレベルを上げる方法を見てみましょう！",
+        "tutorial_manual_id": 203,
+        "rank": 5
+    },
+    {
+        "id": 103,
+        "type": 2,
+        "child_ids": "",
+        "title": "人形強化",
+        "title_code": "",
+        "sub_title": "作戦能力を上げるには、人形の強化が欠かせません。",
+        "tutorial_manual_id": 204,
+        "rank": 5
+    },
+    {
+        "id": 104,
+        "type": 2,
+        "child_ids": "",
+        "title": "編制拡大",
+        "title_code": "",
+        "sub_title": "人形の編制を拡大することで、作戦能力が目に見えて向上します。",
+        "tutorial_manual_id": 206,
+        "rank": 4
+    },
+    {
+        "id": 105,
+        "type": 2,
+        "child_ids": "",
+        "title": "スキル訓練",
+        "title_code": "",
+        "sub_title": "人形のスキルレベルを上げることもお忘れなく！",
+        "tutorial_manual_id": 208,
+        "rank": 3
+    },
+    {
+        "id": 106,
+        "type": 2,
+        "child_ids": "",
+        "title": "部隊編成",
+        "title_code": "",
+        "sub_title": "どう部隊を編成すればいいのか分かりませんか？ではクイック編成を試してみましょう！",
+        "tutorial_manual_id": 1001,
+        "rank": 3
+    },
+    {
+        "id": 200,
+        "type": 1,
+        "child_ids": "201,202",
+        "title": "入門戦術",
+        "title_code": "guide_basic",
+        "sub_title": "戦闘が難しくなってきましたか？では、こちらを参考にして作戦能力を向上させましょう。",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 201,
+        "type": 2,
+        "child_ids": "",
+        "title": "装備獲得",
+        "title_code": "",
+        "sub_title": "人形に装備を着けて、作戦能力を上げましょう！",
+        "tutorial_manual_id": 303,
+        "rank": 5
+    },
+    {
+        "id": 202,
+        "type": 2,
+        "child_ids": "",
+        "title": "装備強化",
+        "title_code": "",
+        "sub_title": "装備は強化することで、効果を最大限発揮できます。",
+        "tutorial_manual_id": 304,
+        "rank": 4
+    },
+    {
+        "id": 300,
+        "type": 1,
+        "child_ids": "301,302",
+        "title": "中級戦術",
+        "title_code": "guide_advance",
+        "sub_title": "戦術妖精がグリフィンに配備されました。彼女たちは戦闘をより順調に進めてくれるんです！",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 301,
+        "type": 2,
+        "child_ids": "",
+        "title": "妖精獲得",
+        "title_code": "",
+        "sub_title": "戦術妖精を戦闘に参加させてみましょう！",
+        "tutorial_manual_id": 402,
+        "rank": 5
+    },
+    {
+        "id": 302,
+        "type": 2,
+        "child_ids": "",
+        "title": "妖精戦術",
+        "title_code": "",
+        "sub_title": "妖精を上手く使って、戦闘をより有利に進めましょう！",
+        "tutorial_manual_id": 709,
+        "rank": 4
+    },
+    {
+        "id": 400,
+        "type": 1,
+        "child_ids": "401,402,403",
+        "title": "高次戦術",
+        "title_code": "guide_higher",
+        "sub_title": "私たちが立ち向かっていくのは、より過酷な戦場です。人形のメンタルをアップグレードし、重装部隊と共に出撃させましょう！",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 401,
+        "type": 2,
+        "child_ids": "",
+        "title": "メンタルアップグレード",
+        "title_code": "",
+        "sub_title": "人形たちをメンタルアップグレードさせ、限界突破させましょう。",
+        "tutorial_manual_id": 212,
+        "rank": 5
+    },
+    {
+        "id": 402,
+        "type": 2,
+        "child_ids": "",
+        "title": "重装部隊",
+        "title_code": "",
+        "sub_title": "重装部隊の準備が整いました。開発を進めましょう。",
+        "tutorial_manual_id": 501,
+        "rank": 5
+    },
+    {
+        "id": 403,
+        "type": 2,
+        "child_ids": "",
+        "title": "戦場支援",
+        "title_code": "",
+        "sub_title": "戦闘が困難になってきましたか？重装部隊の支援を上手く活用することで、戦局をひっくり返すことができるかもしれませんよ。",
+        "tutorial_manual_id": 503,
+        "rank": 4
+    },
+    {
+        "id": 500,
+        "type": 1,
+        "child_ids": "501,502,503,504",
+        "title": "多彩生活",
+        "title_code": "guide_skin",
+        "sub_title": "戦場外の生活にも楽しみが必要です。基地を飾り立てたり、人形に綺麗な服を着せてあげましょう。",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 501,
+        "type": 2,
+        "child_ids": "",
+        "title": "宿舎編集",
+        "title_code": "",
+        "sub_title": "人形たちに暖かいお家を用意してあげましょう。",
+        "tutorial_manual_id": 1103,
+        "rank": 4
+    },
+    {
+        "id": 502,
+        "type": 2,
+        "child_ids": "",
+        "title": "ガチャ",
+        "title_code": "",
+        "sub_title": "ガチャにて人形のスキンや家具を手に入れましょう。",
+        "tutorial_manual_id": 1102,
+        "rank": 5
+    },
+    {
+        "id": 503,
+        "type": 2,
+        "child_ids": "",
+        "title": "ギフト贈呈",
+        "title_code": "",
+        "sub_title": "人形たちを労いたいのであれば、たまにはプレゼントをしてあげましょう。",
+        "tutorial_manual_id": 1104,
+        "rank": 4
+    },
+    {
+        "id": 504,
+        "type": 2,
+        "child_ids": "",
+        "title": "指揮官クローゼット",
+        "title_code": "",
+        "sub_title": "人形に新しいお洋服を買ってあげるがあまりに、霞を食う羽目にならないようにしてくださいね？",
+        "tutorial_manual_id": 1601,
+        "rank": 3
+    },
+    {
+        "id": 600,
+        "type": 1,
+        "child_ids": "601",
+        "title": "基地外交",
+        "title_code": "guide_social",
+        "sub_title": "他の指揮官さまと仲良くなりましょう。友達は多いに越したことはありませんよ。",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 601,
+        "type": 2,
+        "child_ids": "",
+        "title": "戦友追加",
+        "title_code": "",
+        "sub_title": "孤軍奮闘、戦友を作るに如かず、ですよ。",
+        "tutorial_manual_id": 1501,
+        "rank": 5
+    },
+    {
+        "id": 700,
+        "type": 1,
+        "child_ids": "701,702,703",
+        "title": "自律管理",
+        "title_code": "guide_casual",
+        "sub_title": "休んでいる時間にも何かを手に入れたいですか？であれば、自律管理をしましょう。",
+        "tutorial_manual_id": 0,
+        "rank": 0
+    },
+    {
+        "id": 701,
+        "type": 2,
+        "child_ids": "",
+        "title": "後方支援",
+        "title_code": "",
+        "sub_title": "部隊を後方支援に派遣し、物資を手に入れましょう。",
+        "tutorial_manual_id": 604,
+        "rank": 5
+    },
+    {
+        "id": 702,
+        "type": 2,
+        "child_ids": "",
+        "title": "自律作戦",
+        "title_code": "",
+        "sub_title": "自律作戦を命じると、人形たちのみで戦闘に赴き、報酬や経験値を獲得してくれます。",
+        "tutorial_manual_id": 603,
+        "rank": 4
+    },
+    {
+        "id": 703,
+        "type": 2,
+        "child_ids": "",
+        "title": "前線基地",
+        "title_code": "",
+        "sub_title": "人形を探索へと派遣することで、豪華アイテムを手に入れることができます。",
+        "tutorial_manual_id": 1701,
+        "rank": 5
+    }
+]

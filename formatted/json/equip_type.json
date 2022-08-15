@@ -1,0 +1,170 @@
+[
+    {
+        "type": 0,
+        "name": "なし",
+        "category": 0,
+        "code": "",
+        "fit_gun_type": "0",
+        "des": "なし"
+    },
+    {
+        "type": 1,
+        "name": "オプティカルサイト",
+        "category": 1,
+        "code": "Optical_Sight",
+        "fit_gun_type": "2,3,4,5,6",
+        "des": "<color=#FFB400FF>会心率</color>を向上させる"
+    },
+    {
+        "type": 2,
+        "name": "ホロサイト",
+        "category": 1,
+        "code": "Holographic_Sight",
+        "fit_gun_type": "2,3,4,5,6",
+        "des": "<color=#FFB400FF>命中</color>と<color=#FFB400FF>火力</color>を向上させるが、<color=#FFB400FF>射速</color>が低下する"
+    },
+    {
+        "type": 3,
+        "name": "ドットサイト",
+        "category": 1,
+        "code": "RedDot_Sight",
+        "fit_gun_type": "2,3,4,5,6",
+        "des": "<color=#FFB400FF>命中</color>を向上させるが、<color=#FFB400FF>射速</color>が低下する"
+    },
+    {
+        "type": 4,
+        "name": "夜戦装備",
+        "category": 1,
+        "code": "NightBattle_Equipment",
+        "fit_gun_type": "1,2,4,6",
+        "des": "<color=#FFB400FF>夜戦時の命中ペナルティ</color>を軽減させる"
+    },
+    {
+        "type": 5,
+        "name": "徹甲弾",
+        "category": 2,
+        "code": "AP_Ammo",
+        "fit_gun_type": "3,5",
+        "des": "<color=#FFB400FF>破甲能力</color>を向上させ、装甲ユニットに与えるダメージが増加する"
+    },
+    {
+        "type": 6,
+        "name": "特殊弾",
+        "category": 2,
+        "code": "HP_Ammo",
+        "fit_gun_type": "1,2",
+        "des": "<color=#FFB400FF>火力</color>を向上させるが、<color=#FFB400FF>破甲</color>が低下する"
+    },
+    {
+        "type": 7,
+        "name": "散弾",
+        "category": 2,
+        "code": "Shotgun_Shells",
+        "fit_gun_type": "6",
+        "des": "<color=#FFB400FF>ダメージ性能</color>を向上させる。スラッグ弾、バックショット、バードショットに分かれており、場面によって使い分けが可能"
+    },
+    {
+        "type": 8,
+        "name": "高速弾",
+        "category": 2,
+        "code": "HV_Ammo",
+        "fit_gun_type": "4",
+        "des": "<color=#FFB400FF>火力</color>を向上させる"
+    },
+    {
+        "type": 9,
+        "name": "チップ",
+        "category": 3,
+        "code": "Chip",
+        "fit_gun_type": "2,4",
+        "des": "<color=#FFB400FF>火力</color>と<color=#FFB400FF>射速</color>を向上させるが、<color=#FFB400FF>会心ダメージ</color>が低下する"
+    },
+    {
+        "type": 10,
+        "name": "外骨格",
+        "category": 3,
+        "code": "Exoskeleton",
+        "fit_gun_type": "1,2,4",
+        "des": "<color=#FFB400FF>回避</color>を向上させる"
+    },
+    {
+        "type": 11,
+        "name": "防弾ベスト",
+        "category": 3,
+        "code": "ArmorPlate",
+        "fit_gun_type": "6",
+        "des": "<color=#FFB400FF>防御</color>を向上させるが、<color=#FFB400FF>回避</color>が低下する"
+    },
+    {
+        "type": 12,
+        "name": "勲章",
+        "category": 3,
+        "code": "Medal",
+        "fit_gun_type": "0",
+        "des": "特殊な装備。装備する人形の種類によって、異なる効果が得られる"
+    },
+    {
+        "type": 13,
+        "name": "サイレンサー",
+        "category": 1,
+        "code": "Suppressor",
+        "fit_gun_type": "1,2,3,4",
+        "des": "<color=#FFB400FF>会心率</color>と<color=#FFB400FF>回避</color>を向上させる"
+    },
+    {
+        "type": 14,
+        "name": "アサルトパック",
+        "category": 3,
+        "code": "Ammunition_Box",
+        "fit_gun_type": "5",
+        "des": "<color=#FFB400FF>装弾数</color>を増加させるが、<color=#FFB400FF>回避</color>が低下する"
+    },
+    {
+        "type": 15,
+        "name": "カモフラージュマント",
+        "category": 3,
+        "code": "Camouflage_Cloak",
+        "fit_gun_type": "3",
+        "des": "<color=#FFB400FF>会心ダメージ</color>を向上させるが、<color=#FFB400FF>移動速度</color>が低下する"
+    },
+    {
+        "type": 16,
+        "name": "予備サイト",
+        "category": 1,
+        "code": "Spare_Sight",
+        "fit_gun_type": "1,5",
+        "des": "<color=#FFB400FF>命中</color>と<color=#FFB400FF>会心率</color>を向上させる"
+    },
+    {
+        "type": 17,
+        "name": "特殊徹甲弾",
+        "category": 2,
+        "code": "Special_AP_Ammo",
+        "fit_gun_type": "5",
+        "des": "<color=#FFB400FF>破甲能力</color>を大きく向上させ、装甲ユニットに与えるダメージが増加する"
+    },
+    {
+        "type": 18,
+        "name": "特殊アタッチメント",
+        "category": 1,
+        "code": "Special_Accessories",
+        "fit_gun_type": "0",
+        "des": "特殊なアタッチメント装備。装備する人形の種類によって、異なる効果が得られる"
+    },
+    {
+        "type": 19,
+        "name": "特殊弾倉",
+        "category": 2,
+        "code": "Special_Magazine",
+        "fit_gun_type": "0",
+        "des": "特殊な弾倉装備。装備する人形の種類によって、異なる効果が得られる"
+    },
+    {
+        "type": 20,
+        "name": "特殊人形",
+        "category": 3,
+        "code": "Special_TDoll",
+        "fit_gun_type": "0",
+        "des": "特殊な人形装備。装備する人形の種類によって、異なる効果が得られる"
+    }
+]
