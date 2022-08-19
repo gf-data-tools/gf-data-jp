@@ -1,7 +1,6 @@
 [
   {
     id: 1000
-    parent_id: 0
     sort: 1
     name: イベント
     description: 限时活动
@@ -15,7 +14,6 @@
       鏡像論
       真核の仮面
       '''
-    description: ""
   }
   {
     id: 1002
@@ -26,7 +24,6 @@
       鏡像論
       勲章交換
       '''
-    description: ""
   }
   {
     id: 1003
@@ -37,7 +34,6 @@
       ウェイブ・ラングラー
       勲章交換
       '''
-    description: ""
   }
   {
     id: 1004
@@ -48,7 +44,6 @@
       ウェイブ・ラングラー
       アイテム交換
       '''
-    description: ""
   }
   {
     id: 1005
@@ -59,46 +54,38 @@
       四周年
       真核の仮面
       '''
-    description: ""
   }
   {
     id: 1006
     parent_id: 1000
     sort: 6
     name: mall_classification-10001006
-    description: ""
   }
   {
     id: 1007
     parent_id: 1000
     sort: 7
     name: mall_classification-10001007
-    description: ""
   }
   {
     id: 1008
     parent_id: 1000
     sort: 8
     name: mall_classification-10001008
-    description: ""
   }
   {
     id: 2000
-    parent_id: 0
     sort: 2
     name: 軍需
-    description: ""
   }
   {
     id: 2002
     parent_id: 6000
     sort: 1
     name: 月額カード
-    description: ""
   }
   {
     id: 3000
-    parent_id: 0
     sort: 4
     name: パック
     description: 所有礼包内容
@@ -108,7 +95,6 @@
     parent_id: 3000
     sort: 1
     name: 新兵7日補給
-    description: ""
   }
   {
     id: 3002
@@ -137,14 +123,12 @@
   }
   {
     id: 4000
-    parent_id: 0
     sort: 5
     name: 衣装
     description: 指挥官服装
   }
   {
     id: 5000
-    parent_id: 0
     sort: 6
     name: アイテム
     description: 消耗品
@@ -154,48 +138,40 @@
     parent_id: 5000
     sort: 1
     name: 資源
-    description: ""
   }
   {
     id: 5002
     parent_id: 5000
     sort: 2
     name: 契約
-    description: ""
   }
   {
     id: 5003
     parent_id: 5000
     sort: 3
     name: 拡張
-    description: ""
   }
   {
     id: 5004
     parent_id: 5000
     sort: 4
     name: その他
-    description: ""
   }
   {
     id: 6000
-    parent_id: 0
     sort: 3
     name: 特売
-    description: ""
   }
   {
     id: 6002
     parent_id: 6000
     sort: 2
     name: 每日
-    description: ""
   }
   {
     id: 6003
     parent_id: 6000
     sort: 3
     name: 補給
-    description: ""
   }
 ]

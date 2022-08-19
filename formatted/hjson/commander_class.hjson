@@ -5,8 +5,6 @@
     description: 「またサボっていたのかい？そのピカピカな服を見ればわかる。さぁ、まずはそこの泥沼に浸かってくるがいい。」
     group_id: "51"
     code: commander_10_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS10
     is_class: 1
     des_year: "2019"
@@ -19,7 +17,6 @@
     description: グリフィンの標準制服。入職から故郷に帰って結婚するまで、ずっと着ていられる。
     group_id: "52"
     code: commander_11_icon
-    bonus_plastic: ""
     skill_id: 103
     path: CLASS11
     is_class: 1
@@ -75,10 +72,7 @@
     description: 戦争は残酷だ。その中で勝ち続けられる人は運のほかに、トップクラスの実力を持ち合わせているのだろう。
     group_id: "56"
     code: commander_1510_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS15
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: commander_class-40000015
@@ -103,10 +97,7 @@
     description: 本日はハロウィンドッキリコンテストの覇者をお招きしました！それでは、一緒にチャンピオンの宝箱を開けてみましょう——
     group_id: "58"
     code: commander_1720_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS17
-    is_class: 0
     des_year: commander_class-30000017
     source: 1
     source_description: commander_class-40000017
@@ -145,10 +136,7 @@
     description: これをデザインした人は当初、海でサメの如く勇猛果敢に戦う指揮官を表現したかったようだが……思う通りにならないのはいつものことだよね。
     group_id: "62"
     code: commander_2010_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS20
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: commander_class-40000020
@@ -173,10 +161,7 @@
     description: この帽子には不思議な力があり、かぶった者の放つ輝きを人形が目にすると、恍惚とした表情になり、最後にはヨダレを垂らし始めるのだ……
     group_id: "64"
     code: commander_2220_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS22
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: commander_class-40000022
@@ -187,10 +172,7 @@
     description: 上司に部下の夢を応援する義務はないが、もし君がそう望むのであれば……
     group_id: "65"
     code: commander_2340_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS23
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: commander_class-40000023
@@ -201,10 +183,7 @@
     description: かつて子供たちに星々への憧れを抱かせた者たちがいた、彼らが伝えたのはそう、慈しむことと失うことだ。
     group_id: "66"
     code: commander_2420_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS24
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: commander_class-40000024
@@ -215,10 +194,7 @@
     description: commander_class-20000025
     group_id: "67"
     code: commander_2520_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS25
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: commander_class-40000025
@@ -257,10 +233,7 @@
     description: commander_class-20000028
     group_id: "70"
     code: commander_2820_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS28
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: commander_class-40000028
@@ -271,10 +244,7 @@
     description: この特別なパーティーで、他人の仮装を剝がしてはならない——なぜなら、それが本当に仮装なのかどうかも分からないのだから。
     group_id: "71"
     code: commander_2920_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS29
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: commander_class-40000029
@@ -299,10 +269,7 @@
     description: G36の仕事道具。彼女は一切の無駄を省きたがるが、多少なりとも形式は必要だ。
     group_id: "73"
     code: commander_3120_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS31
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: commander_class-40000031
@@ -313,10 +280,7 @@
     description: 戦争の中で、取捨選択を行うのは当然だ。手放すべき者の手を、掴もうとするな。
     group_id: "75"
     code: commander_3310_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS33
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: イベント「鏡像論」ランキング報酬
@@ -341,10 +305,7 @@
     description: 君の人生は壮大な展覧会なのだよ、指揮官君。今までの旅にピリオドを打ったら、そのまま次の旅路に就きたまえ。
     group_id: "78"
     code: commander_3640_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS36
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: commander_class-40000036
@@ -355,10 +316,7 @@
     description: 二名の国際的なファッションデザイナーが手がけた、最高級のオーダーメイドフォーマル。その麗しさは、必ずやあなたを運命の人へと導いてくれることだろう。
     group_id: "79"
     code: commander_3700_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS37
-    is_class: 0
     des_year: "2022"
     source: 2
     source_description: 前線基地で引換
@@ -383,10 +341,7 @@
     description: 歴史の車輪がいかに砂塵を巻き上げようと、彼らの意志を覆い隠すことは決して出来ない。
     group_id: "83"
     code: commander_4120_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS41
-    is_class: 0
     des_year: "2022"
     source: 2
     source_description: commander_class-40000041
@@ -411,10 +366,7 @@
     description: 私を連れて、夢の宴会へ赴くといい。そして夢が覚めた頃、共に酔った者たちは変わらず、君の傍にいるだろう。
     group_id: "88"
     code: commander_4640_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS46
-    is_class: 0
     des_year: "2022"
     source: 2
     source_description: 四周年ログイン報酬

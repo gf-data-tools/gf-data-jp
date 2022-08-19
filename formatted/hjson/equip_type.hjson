@@ -1,10 +1,6 @@
 [
   {
-    type: 0
     name: なし
-    category: 0
-    code: ""
-    fit_gun_type: "0"
     des: なし
   }
   {
@@ -100,7 +96,6 @@
     name: 勲章
     category: 3
     code: Medal
-    fit_gun_type: "0"
     des: 特殊な装備。装備する人形の種類によって、異なる効果が得られる
   }
   {
@@ -148,7 +143,6 @@
     name: 特殊アタッチメント
     category: 1
     code: Special_Accessories
-    fit_gun_type: "0"
     des: 特殊なアタッチメント装備。装備する人形の種類によって、異なる効果が得られる
   }
   {
@@ -156,7 +150,6 @@
     name: 特殊弾倉
     category: 2
     code: Special_Magazine
-    fit_gun_type: "0"
     des: 特殊な弾倉装備。装備する人形の種類によって、異なる効果が得られる
   }
   {
@@ -164,7 +157,6 @@
     name: 特殊人形
     category: 3
     code: Special_TDoll
-    fit_gun_type: "0"
     des: 特殊な人形装備。装備する人形の種類によって、異なる効果が得られる
   }
 ]

@@ -6,107 +6,75 @@
     title: 基地ガイドブック
     sub_title: 指揮官、まずは基地に慣れてくださいね～
     code: manual_base
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 101
     type: 2
-    child_ids: ""
     title: 基地紹介
     sub_title: 指揮官、ここが貴方のオフィスですよ。
-    code: ""
     content: 2ef9283b6c58cbf7_draw_201118170355.jpg,c8724b2bdaa0daab_draw_201118164406.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 102
     type: 2
-    child_ids: ""
     title: 指揮官情報
     sub_title: ここでは指揮官の個人情報と副官の任命ができます。
-    code: ""
     content: c65a9042a8464251_draw_201118164603.jpg,6d69f10aba8b87c4_draw_201118164648.jpg,a1aca3e09ad19896_draw_201118164726.jpg,f9243d61693d2026_draw_201118164833.jpg,430de166e56e50f7_draw_201118165145.jpg,511ff28dcf288a19_draw_201118165226.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 103
     type: 2
-    child_ids: ""
     title: 倉庫
     sub_title: 倉庫では指揮官の保有する人形、装備やアイテムなどを確認できます。
-    code: ""
     content: 44b8dddafbdeb000_draw_201118165308.jpg
-    function_control_id: 0
     goto_page: 252
   }
   {
     id: 104
     type: 2
-    child_ids: ""
     title: ショップ
     sub_title: 欲しいものがあれば、なんでもショップで揃いますよ、
-    code: ""
     content: 66c2ab0bcb12205c_draw_201118165355.jpg,6377fa35a192fb3c_draw_201118165355.jpg
-    function_control_id: 0
     goto_page: 2
   }
   {
     id: 105
     type: 2
-    child_ids: ""
     title: メール
     sub_title: メールボックスは随時確認してくださいね。
-    code: ""
     content: 9f8227fe12eebb16_draw_201118165419.jpg
-    function_control_id: 0
     goto_page: 257
   }
   {
     id: 106
     type: 2
-    child_ids: ""
     title: ランキング
     sub_title: ランキングを確認し、他の指揮官に習いましょう！
-    code: ""
     content: 49ca93550d95d71e_draw_201118165455.jpg,c984f3587d5893a5_draw_201118165455.jpg
-    function_control_id: 0
     goto_page: 253
   }
   {
     id: 107
     type: 2
-    child_ids: ""
     title: 任務
     sub_title: 何をすればいいか分からなくなったら、任務を進めましょう！
-    code: ""
     content: ff03baf3b9345876_draw_201118171634.jpg,de6e97a2ce618dd4_draw_201118171710.jpg,9d845b4f232544df_draw_201118171741.jpg,0e0a5e1c751f3bec_draw_201119225617.jpg,ca3668fc487802f9_draw_201118171838.jpg
-    function_control_id: 0
     goto_page: 254
   }
   {
     id: 108
     type: 2
-    child_ids: ""
     title: 設定
     sub_title: 自身の好みに応じてゲーム内の設定を変更できます。
-    code: ""
     content: d650011a260ca438_draw_201118171907.jpg
-    function_control_id: 0
     goto_page: 255
   }
   {
     id: 109
     type: 2
-    child_ids: ""
     title: 図鑑
     sub_title: 味方や敵を問わず、様々な詳細な情報をこちらで確認できます。
-    code: ""
     content: 4888dbe8b8d98c27_draw_201118172000.jpg,ff7a812b9a86009f_draw_201118172028.jpg,f0a721ab29d3fe60_draw_201118172100.jpg,97f4fb33b89ea3f4_draw_201118172133.jpg
-    function_control_id: 0
     goto_page: 256
   }
   {
@@ -116,138 +84,95 @@
     title: 人形育成
     sub_title: 戦術人形を強化したければ、他にも色々と知ってもらう必要があります。
     code: manual_develop
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 201
     type: 2
-    child_ids: ""
     title: 人形紹介
     sub_title: 異なる戦術人形の特徴を理解しましょう。
-    code: ""
     content: 3d5f59653b64f5d5_draw_201118172232.jpg,17da11e8c0f36801_draw_201123182537.jpg,748b29c0c5240b0c_draw_201118172313.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 202
     type: 2
-    child_ids: ""
     title: 人形獲得
     sub_title: より多くの人形を手に入れ、部隊を強化しましょう。
-    code: ""
     content: a0ee427d46f221ee_draw_201118172419.jpg,bd67108eda6499a8_draw_201118174421.jpg,a6784a4c04007935_draw_201118174458.jpg,be1841814655bcee_draw_201118174527.jpg,95ce1e79175fb436_draw_201119225758.jpg
-    function_control_id: 0
     goto_page: 25
   }
   {
     id: 203
     type: 2
-    child_ids: ""
     title: 人形レベルアップ
     sub_title: 様々な手段で経験値を獲得し、人形のレベルを上げましょう。
-    code: ""
     content: cc915c99e6aa0697_draw_201118174755.jpg,b8f1b082d553cd04_draw_201118174857.jpg,481fd7918b23d8b2_draw_201118174924.jpg,52d31605e6099045_draw_201118174958.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 204
     type: 2
-    child_ids: ""
     title: 人形強化
     sub_title: 人形を強化し、ステータスを上げましょう。
-    code: ""
     content: fb77322e7c47ab58_draw_201118175514.jpg,6880c6b9165a8aa8_draw_201118175539.jpg
-    function_control_id: 0
     goto_page: 7
   }
   {
     id: 205
     type: 2
-    child_ids: ""
     title: 人形修復
     sub_title: 怪我をした人形は適宜修復しましょう。
-    code: ""
     content: aa147f40670b5a8a_draw_201118175629.jpg,2fcab845b81d43a6_draw_201118175714.jpg,81117d7a548df151_draw_201118175743.jpg,d06176d3f3578ee8_draw_201118175810.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 206
     type: 2
-    child_ids: ""
     title: 編制拡大
     sub_title: 人形を編制拡大することで戦力が上がり、経験値獲得量が増えます。
-    code: ""
     content: deb6507a8d25831f_draw_201118175958.jpg,3180d90213696935_draw_201118180021.jpg,ff631a31d8e37492_draw_201118180046.jpg
-    function_control_id: 0
     goto_page: 5
   }
   {
     id: 207
     type: 2
-    child_ids: ""
     title: 人形解体
     sub_title: 人形を分解することで物資を獲得でき、レアリティの高い人形を分解するとコアが手に入ります。
-    code: ""
     content: b4e04dffb3bb1814_draw_201118180107.jpg
-    function_control_id: 0
     goto_page: 63
   }
   {
     id: 208
     type: 2
-    child_ids: ""
     title: スキル訓練
     sub_title: 人形のスキルを上手く使うことが勝利への近道となります。
-    code: ""
     content: 977a4cd92836393d_draw_201118180231.jpg,1774324524ac54f4_draw_201123182537.jpg,dd7871175abd9422_draw_201118180316.jpg
-    function_control_id: 0
     goto_page: 8
   }
   {
     id: 209
     type: 2
-    child_ids: ""
     title: 好感度
     sub_title: 人形の好感度を上げるには、こういうことをしなければなりません。
-    code: ""
     content: 585c8138a9384857_draw_201118180343.jpg,c941d4588f93a9ba_draw_201118180408.jpg,ef3958b937bcecdf_draw_201118180440.jpg,b87ac16396953ad4_draw_201118180502.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 210
     type: 2
-    child_ids: ""
     title: 着用エフェクト
     sub_title: 特に効果はありませんが、人形がみんな可愛くなったでしょ？
-    code: ""
     content: 4b502403bb46ec27_draw_201118180601.jpg,1227bee547ee6f53_draw_201118180601.jpg
     function_control_id: 17
-    goto_page: 0
   }
   {
     id: 211
     type: 2
-    child_ids: ""
     title: 人形スキン
     sub_title: 人形たちに衣服を用意することを忘れずに。
-    code: ""
     content: c8f46b81c19bff7c_draw_201118180646.jpg,07c07e2a7b16b904_draw_201118180714.jpg,42efe63c42728e73_draw_201118180714.jpg,8dee59bd81d054fb_draw_201118180815.jpg,64b5772e2b9b5338_draw_201118180846.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 212
     type: 2
-    child_ids: ""
     title: メンタルアップグレード
     sub_title: 人形の能力を上限突破させられます。
-    code: ""
     content: 66402db7c225fe0f_draw_201118181519.jpg,9988efa9c6b08d33_draw_201118181542.jpg,54fd2e38399e0784_draw_201118181542.jpg
     function_control_id: 10
     goto_page: 186
@@ -259,39 +184,29 @@
     title: 装備指南
     sub_title: 装備を効率的に着用し、作戦能力を上げましょう。
     code: manural_equip
-    content: ""
     function_control_id: 2
-    goto_page: 0
   }
   {
     id: 301
     type: 2
-    child_ids: ""
     title: 装備分類
     sub_title: 装備ごとに異なる特性を理解し、使用できる対象を確認しましょう。
-    code: ""
     content: be3b82e3217f7f6c_draw_201118181628.jpg,7d707329e0b42733_draw_201118181628.jpg,c1ebdc9386f54b97_draw_201118181628.jpg,d40bad1b7bc4d948_draw_201118181629.jpg
     function_control_id: 2
-    goto_page: 0
   }
   {
     id: 302
     type: 2
-    child_ids: ""
     title: 装備着用
     sub_title: 装備を効率的に着用し、最大限の能力を引き出しましょう。
-    code: ""
     content: ea0b7de48f2489cf_draw_201118183347.jpg,ca71df1747ead374_draw_201118183404.jpg
     function_control_id: 2
-    goto_page: 0
   }
   {
     id: 303
     type: 2
-    child_ids: ""
     title: 装備製造
     sub_title: 工廠内で、装備製造を完了。
-    code: ""
     content: 48a67bd3a168b369_draw_201118181812.jpg,628474c1bfcfdd5d_draw_201118183158.jpg,3067b208415fc837_draw_201118183231.jpg,83191c1649b37acc_draw_201118183311.jpg
     function_control_id: 2
     goto_page: 21
@@ -299,10 +214,8 @@
   {
     id: 304
     type: 2
-    child_ids: ""
     title: 装備強化
     sub_title: 装備を強化し、ステータスを上げましょう。
-    code: ""
     content: 0e9d832a70298c67_draw_201118183619.jpg,2d87e937e9b4ce3f_draw_201118183619.jpg
     function_control_id: 5
     goto_page: 250
@@ -310,10 +223,8 @@
   {
     id: 305
     type: 2
-    child_ids: ""
     title: 装備較正
     sub_title: 装備のステータスを引き上げることができます。
-    code: ""
     content: aa4dfd8bdb646ef8_draw_201118183500.jpg,bad827ac3567404d_draw_201118183500.jpg
     function_control_id: 6
     goto_page: 54
@@ -325,28 +236,21 @@
     title: 戦術妖精
     sub_title: 戦術妖精たちを仲間に加えましょう。
     code: manural_fairy
-    content: ""
     function_control_id: 1
-    goto_page: 0
   }
   {
     id: 401
     type: 2
-    child_ids: ""
     title: 妖精分類
     sub_title: 異なるタイプの妖精は、発揮する効果もそれぞれです。
-    code: ""
     content: 5d36398418deffec_draw_201118183711.jpg
     function_control_id: 1
-    goto_page: 0
   }
   {
     id: 402
     type: 2
-    child_ids: ""
     title: 妖精製造
     sub_title: 装備大型製造では妖精が獲得できます。
-    code: ""
     content: 3067b208415fc837_draw_201118183808.jpg,f05e333dbeed1d13_draw_201118183835.jpg
     function_control_id: 1
     goto_page: 21
@@ -354,32 +258,24 @@
   {
     id: 403
     type: 2
-    child_ids: ""
     title: 妖精グレードアップ
     sub_title: 妖精は部隊の戦闘を通しても経験値を獲得できます。
-    code: ""
     content: 096c3a2ef7455d46_draw_201118183906.jpg,038b92cb8e85fb7a_draw_201118183944.jpg,aec8781a225bb950_draw_201118183944.jpg
     function_control_id: 1
-    goto_page: 0
   }
   {
     id: 404
     type: 2
-    child_ids: ""
     title: 妖精スキル
     sub_title: スキル訓練を通じて、妖精スキルを強化できます。
-    code: ""
     content: 4f25c9b06e08f783_draw_201118184035.jpg,4858bfb4c216ea2a_draw_201118184035.jpg
     function_control_id: 1
-    goto_page: 0
   }
   {
     id: 405
     type: 2
-    child_ids: ""
     title: 妖精較正
     sub_title: 較正では妖精に新たな天賦の選択肢を提供できます。
-    code: ""
     content: 9bc1f6d54e3348e3_draw_201118184152.jpg,ef0d09fb5eb67cd6_draw_201118184152.jpg,078c619ca7bc6e18_draw_201118184152.jpg
     function_control_id: 1
     goto_page: 172
@@ -387,10 +283,8 @@
   {
     id: 406
     type: 2
-    child_ids: ""
     title: 妖精強化
     sub_title: 妖精を強化し、効率よく活用しましょう。
-    code: ""
     content: 4b4a8a9de7ebae11_draw_201118184239.jpg,1aa1b72fa385289f_draw_201118184302.jpg,1504e5ffa8d8cf77_draw_201118184302.jpg
     function_control_id: 1
     goto_page: 144
@@ -398,10 +292,8 @@
   {
     id: 407
     type: 2
-    child_ids: ""
     title: 妖精格納庫
     sub_title: 妖精格納庫では、妖精関連の設備が管理されています。
-    code: ""
     content: 13845042b7d5ed62_draw_201118184418.jpg,b0d310d2306c7704_draw_201118184418.jpg
     function_control_id: 1
     goto_page: 206
@@ -413,28 +305,21 @@
     title: 重装部隊
     sub_title: 重装部隊の登場で、局面を打開できるかもしれません。
     code: manural_squad
-    content: ""
     function_control_id: 15
-    goto_page: 0
   }
   {
     id: 501
     type: 2
-    child_ids: ""
     title: 重装紹介
     sub_title: 重装部隊は強大な火力支援を提供します。
-    code: ""
     content: 5b9498559466dc10_draw_201118184542.jpg,e99b9c94b4b3d23c_draw_201118184542.jpg
     function_control_id: 15
-    goto_page: 0
   }
   {
     id: 502
     type: 2
-    child_ids: ""
     title: 重装開発
     sub_title: 情報解析を通して、重装部隊を開発します。
-    code: ""
     content: e1e464c461e8a310_draw_201118192120.jpg,e4cac1c636710fd2_draw_201118192151.jpg,091e5d201f8e7e00_draw_201118192216.jpg,736ac1e4e12eab16_draw_201118192242.jpg,f4500ada24903999_draw_201118192303.jpg
     function_control_id: 15
     goto_page: 202
@@ -442,21 +327,16 @@
   {
     id: 503
     type: 2
-    child_ids: ""
     title: 重装作戦
     sub_title: 重装部隊は高い火力を持ちますが、単独での作戦能力を持ちません。
-    code: ""
     content: c33bd46318a9b262_draw_201118192412.jpg,072899467f87aa41_draw_201118192545.jpg,db4c4281b0c22000_draw_201118192634.jpg,707cd9d566de5c56_draw_201118192700.jpg,5b9a0365110c6f1f_draw_201118192728.jpg,2a5f7415ef71cda6_draw_201118192754.jpg
     function_control_id: 15
-    goto_page: 0
   }
   {
     id: 504
     type: 2
-    child_ids: ""
     title: 重装育成
     sub_title: 重装部隊を強化し続けましょう！
-    code: ""
     content: 5ab92bd4fe301e55_draw_201118192918.jpg,c15fabb8f7b3e1e3_draw_201118192919.jpg
     function_control_id: 15
     goto_page: 203
@@ -464,21 +344,16 @@
   {
     id: 505
     type: 2
-    child_ids: ""
     title: 重装回路
     sub_title: 重装回路にチップを装備し、さらに能力を引き上げましょう。
-    code: ""
     content: 9ec51ac4d16c0e25_draw_201118193003.jpg,81fabb53a66fc3e1_draw_201118193035.jpg,673935a26149febb_draw_201118193059.jpg,155e2ad8ce4e16c3_draw_201118193113.jpg
     function_control_id: 15
-    goto_page: 0
   }
   {
     id: 506
     type: 2
-    child_ids: ""
     title: 重装スキル
     sub_title: 重装部隊のスキルを強化にするには、より一層厳格な訓練が必要です。
-    code: ""
     content: 7cd648e10ff9a15c_draw_201118201159.jpg
     function_control_id: 15
     goto_page: 203
@@ -486,21 +361,16 @@
   {
     id: 507
     type: 2
-    child_ids: ""
     title: 重装バージョンアップ
     sub_title: 重装部隊はレベルが上限に達した後も、更なるバージョンアップが可能です。
-    code: ""
     content: 46e41778c8694327_draw_201118201254.jpg,4e7358a3d271712f_draw_201118201254.jpg
     function_control_id: 15
-    goto_page: 0
   }
   {
     id: 508
     type: 2
-    child_ids: ""
     title: 格納庫
     sub_title: 格納庫では、重装部隊の管理と確認ができます。
-    code: ""
     content: 313d3f0c35cf0c06_draw_201118201346.jpg,e9072a2bd834f08e_draw_201118201346.jpg
     function_control_id: 15
     goto_page: 203
@@ -508,10 +378,8 @@
   {
     id: 509
     type: 2
-    child_ids: ""
     title: 情報センター
     sub_title: 重装部隊の入手は、基本的に情報センターでのサンプル解析経由になります。
-    code: ""
     content: 4ed066a6246cfd4d_draw_201118201426.jpg,af985a567795486c_draw_201118201426.jpg
     function_control_id: 15
     goto_page: 202
@@ -523,83 +391,57 @@
     title: 戦闘任務
     sub_title: 様々な戦闘任務について理解を深め、挑戦しましょう。
     code: manual_combat
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 601
     type: 2
-    child_ids: ""
     title: 作戦任務
     sub_title: メイン任務攻略
-    code: ""
     content: 6a4e7f314b430c41_draw_201118224512.jpg,27394cebdb62e5a6_draw_201118224512.jpg
-    function_control_id: 0
     goto_page: 4
   }
   {
     id: 602
     type: 2
-    child_ids: ""
     title: 夜戦
     sub_title: 夜間戦闘時は視野が重要です。
-    code: ""
     content: 84112c3efcbde5d3_draw_201118224542.jpg,b11c462db9e17e49_draw_201118224542.jpg,80216fc0e47a3639_draw_201118224542.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 603
     type: 2
-    child_ids: ""
     title: 自律作戦
     sub_title: 人形を攻略済みのステージに送り、報酬を獲得できます。
-    code: ""
     content: aea4b11cb0212138_draw_201118225714.jpg,e176168819a943f6_draw_201118225714.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 604
     type: 2
-    child_ids: ""
     title: 後方支援
     sub_title: 後方支援を通じて、多くの物資を獲得できます。
-    code: ""
     content: 11f8bbcb855d88bc_draw_201118224653.jpg,848a614c9adc5179_draw_201118224653.jpg
-    function_control_id: 0
     goto_page: 41
   }
   {
     id: 605
     type: 2
-    child_ids: ""
     title: 模擬作戦
     sub_title: 曜日に応じて異なる模擬作戦が開放されます、必要に応じて攻略しましょう。
-    code: ""
     content: bbbdeb9c5902189a_draw_201118224748.jpg,cdd154f28e12d8ee_draw_201118224808.jpg,69a95bcc019a3ddd_draw_201118224808.jpg
-    function_control_id: 0
     goto_page: 3
   }
   {
     id: 606
     type: 2
-    child_ids: ""
     title: 防御演習
     sub_title: 部隊を指揮し、無限に出現する敵の侵攻を食い止めましょう。
-    code: ""
     content: 439af54ddd6dbd48_draw_201118224843.jpg,0de2cc05ce8b5d3e_draw_201118224905.jpg,4cbf12a63d1eb334_draw_201118224905.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 607
     type: 2
-    child_ids: ""
     title: 融合演習
     sub_title: プリセットされた人形で部隊編成と作戦を行えば、融合勢力の育成アイテムが手に入ります。
-    code: ""
     content: 9d3c46ee99b03271_draw_210915150747.jpg,c0252440d841487d_draw_210915150642.jpg,4d4a9694634e0bf5_draw_210915150708.jpg
     function_control_id: 21
     goto_page: 232
@@ -607,10 +449,8 @@
   {
     id: 608
     type: 2
-    child_ids: ""
     title: ターゲット訓練
     sub_title: こちらで部隊の強さをテストできます。
-    code: ""
     content: 2f90042d6279a780_draw_201123182723.jpg
     function_control_id: 23
     goto_page: 242
@@ -618,13 +458,9 @@
   {
     id: 609
     type: 2
-    child_ids: ""
     title: イベント任務
     sub_title: 様々な事件が不定期で起きます、見逃さないようにしましょう！
-    code: ""
     content: 34f8dae43f56f765_draw_201118225008.jpg,dc3ccd807e2be6d4_draw_201118225009.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 700
@@ -633,141 +469,94 @@
     title: 戦場案内
     sub_title: 作戦における規則や、テクニックを覚えましょう。
     code: manural_battle
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 701
     type: 2
-    child_ids: ""
     title: 戦場説明
     sub_title: 戦いの前にしっかり準備を行うのは、指揮官にとって基本中の基本です。
-    code: ""
     content: ee710129cbfb8f4e_draw_201119165538.jpg,4d6db247edfe4c7c_draw_201119165538.jpg,a3123af98953844a_draw_201119165538.jpg,c5434800dff765bb_draw_201119165538.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 702
     type: 2
-    child_ids: ""
     title: 部隊配置
     sub_title: 部隊を配置することが作戦の第一歩となります。
-    code: ""
     content: 3c5074acab642beb_draw_201119165832.jpg,e6cb15f59f106c3b_draw_201119165832.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 703
     type: 2
-    child_ids: ""
     title: 行動と占領
     sub_title: 一歩一歩着実に前進し、勝利を勝ち取りましょう。
-    code: ""
     content: c2be3de2cb9dc47f_draw_201119165906.jpg,3cc3adf51085e3f0_draw_201119165937.jpg,f5ec78df3d136baa_draw_201119170250.jpg,8e0364785e0fa821_draw_201119170320.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 704
     type: 2
-    child_ids: ""
     title: 補給と撤退
     sub_title: 補給は素早く、撤退は合理的に、人形には優しくしましょう。
-    code: ""
     content: bf84b50de33d716b_draw_201119170417.jpg,45f997056ee24951_draw_201119170417.jpg,37b0db1418dd0847_draw_201119170417.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 705
     type: 2
-    child_ids: ""
     title: 人形作戦
     sub_title: 人形が作戦を実行している間、指揮官は指揮を行いましょう。
-    code: ""
     content: 719c81a6e36ead18_draw_201119170522.jpg,8e0235013272cc66_draw_201119170550.jpg,7927d0950a553fb7_draw_201119170549.jpg,788e0b0fa0bdf9d3_draw_201119170549.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 706
     type: 2
-    child_ids: ""
     title: 支援部隊
     sub_title: 優秀な指揮官は、決して戦友の協力を拒みません。
-    code: ""
     content: e5536b6fde012754_draw_201119183948.jpg,ebe747c248ca903a_draw_201119184012.jpg,602f5419a635c19a_draw_201119184013.jpg,69db6856fc37dfe7_draw_201119184013.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 707
     type: 2
-    child_ids: ""
     title: プランモード
     sub_title: 適宜プランモードを利用し、操作を簡略化するとよいでしょう。
-    code: ""
     content: 19e7cfd8d936aff1_draw_201119170715.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 708
     type: 2
-    child_ids: ""
     title: 戦場情報モード
     sub_title: 彼を知り己を知れば百戦殆うからず。
-    code: ""
     content: 634361fe83d5d4bb_draw_201119183909.jpg,d2678a67eb6481c0_draw_201119183910.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 709
     type: 2
-    child_ids: ""
     title: 妖精作戦
     sub_title: 妖精のスキルを適宜使用すれば、戦局を覆すことだって可能です。
-    code: ""
     content: 96b3adec8d00d90a_draw_201119170744.jpg,97e2d5c4c5ddcbdd_draw_201119170743.jpg,0db696e5192dc568_draw_201119170743.jpg
     function_control_id: 1
-    goto_page: 0
   }
   {
     id: 710
     type: 2
-    child_ids: ""
     title: 重装作戦
     sub_title: 重装部隊の火力は強力ですが、単独作戦能力には欠けます。
-    code: ""
     content: c33bd46318a9b262_draw_201119170904.jpg,072899467f87aa41_draw_201119170931.jpg,db4c4281b0c22000_draw_201119170956.jpg,707cd9d566de5c56_draw_201119171017.jpg,5b9a0365110c6f1f_draw_201119171053.jpg,2a5f7415ef71cda6_draw_201119171116.jpg
     function_control_id: 15
-    goto_page: 0
   }
   {
     id: 711
     type: 2
-    child_ids: ""
     title: 融合勢力作戦
     sub_title: 融合勢力は人形とは少々異なりますので、指揮をする際には気をつけましょう。
-    code: ""
     content: 3f8a2ebfcee92f34_draw_210915152312.jpg,7cb079d85a6aae14_draw_210915152433.jpg,0cdf963f7a036ad8_draw_210915155225.jpg,07bc0e43d6afbcb3_draw_210915155453.jpg
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 712
     type: 2
-    child_ids: ""
     title: 友軍部隊
     sub_title: 味方部隊が加勢してくれる時があります、その際には団結して作戦に臨みましょう！
-    code: ""
     content: a36a000187ee6ada_draw_200803005.jpg,33db76217bd37ea5_draw_200811002.jpg
     function_control_id: 10000
-    goto_page: 0
   }
   {
     id: 800
@@ -776,130 +565,83 @@
     title: 戦場設備
     sub_title: 戦場の設備を上手に利用することは、指揮官にとって必須です。
     code: manual_building
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 801
     type: 2
-    child_ids: ""
     title: 陣地設備
     sub_title: 陣地は周囲のマスに影響を及ぼします、戦局に応じて適切に処理しましょう。
-    code: ""
     content: 59c62544e1946068_draw_210818193655.jpg,b796aa85054986f5_draw_210818193655.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 802
     type: 2
-    child_ids: ""
     title: 制御パネル&防御ゲート
     sub_title: 防御ゲートはマスを通行できるかどうかに関わります。制御パネルは防御ゲートの制御に使用します。
-    code: ""
     content: 54051339869e409b_draw_210818191712.jpg,6f0b104e48447660_draw_210818191712.jpg,85dc3e826d981a77_draw_210818191713.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 803
     type: 2
-    child_ids: ""
     title: 廃棄されたゴリアテ&瓦礫の山&要路
     sub_title: 廃棄されたゴリアテは障害物を爆破し道を開いたり、要路を爆破し道を封鎖することが可能です。
-    code: ""
     content: 725560bd2c04d099_draw_210818200345.jpg,011a58dc95ffa1ff_draw_210818200345.jpg,06a252e0a2a97b0a_draw_210818200345.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 804
     type: 2
-    child_ids: ""
     title: 廃棄された建物&起爆装置&廃墟
     sub_title: 廃棄された建物はマス上の部隊に掩護を提供し、起爆後は廃墟と化します。
-    code: ""
     content: 2ec3026f2ff3de3b_draw_210325174558.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 805
     type: 2
-    child_ids: ""
     title: 変電所&EMP発生器
     sub_title: EMP発生器は変電所による電力供給があれば、周囲の敵に対してEMP攻撃を行えます。
-    code: ""
     content: 71bf4b767d501fed_draw_210325174558.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 806
     type: 2
-    child_ids: ""
     title: EMP手榴弾
     sub_title: EMP手榴弾は投擲することでターゲットにEMP攻撃を行えます。
-    code: ""
     content: d16fdf78c7b32ec1_draw_210818190509.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 807
     type: 2
-    child_ids: ""
     title: 大型バルブ
     sub_title: 大型バルブは廃棄されたゴリアテを利用して起爆できます。
-    code: ""
     content: 6b14453ce3e88581_draw_210818190510.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 808
     type: 2
-    child_ids: ""
     title: 沿岸砲
     sub_title: 沿岸砲は範囲内の部隊に支援を提供します。或いは手動操作で攻撃を行うこともできます。
-    code: ""
     content: c57b8daeffd6375b_draw_210818190509.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 809
     type: 2
-    child_ids: ""
     title: 階層間エレベーター
     sub_title: 階層間エレベーターを使用することで異なる階層に移動できる。
-    code: ""
     content: 81b7bf8d8861481f_draw_220113160703.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 810
     type: 2
-    child_ids: ""
     title: 転送ポイント
     sub_title: 転送ポイントに移動した部隊は他の転送ポイントへ送られる。
-    code: ""
     content: 05c1927e82454403_draw_220113160703.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 811
     type: 2
-    child_ids: ""
     title: 迷いウサギの穴
     sub_title: 迷いウサギの穴に移動すると下の階層に落下してしまう。
-    code: ""
     content: e18698f39211ec28_draw_220113160703.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 900
@@ -908,86 +650,57 @@
     title: 作戦目標
     sub_title: 任務ごとに異なる目標が存在しますので、作戦の前にご確認ください。
     code: manual_mission
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 901
     type: 2
-    child_ids: ""
     title: 消滅目標
     sub_title: 目標を消滅させることで勝利します。
-    code: ""
     content: aea75a773cbcfd61_draw_200717028.jpg
     function_control_id: 10000
-    goto_page: 0
   }
   {
     id: 902
     type: 2
-    child_ids: ""
     title: ターン数制限
     sub_title: 時間は有限です、1ターンだろうと無駄にはできません。
-    code: ""
     content: b7ade7a77298720c_draw_201119224012.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 903
     type: 2
-    child_ids: ""
     title: マス占領
     sub_title: 目標のマスを占領することで勝利となります。
-    code: ""
     content: 0ae3b58e57a12668_draw_201123182537.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 904
     type: 2
-    child_ids: ""
     title: 作戦誘導
     sub_title: ユニットの索敵アルゴリズムを合理的に利用し、指定のマスに誘導しましょう。
-    code: ""
     content: fa97bc36489a88cd_draw_200717029.jpg
     function_control_id: 10000
-    goto_page: 0
   }
   {
     id: 905
     type: 2
-    child_ids: ""
     title: 人質救助
     sub_title: 人質を救助し直ちに撤退しましょう。
-    code: ""
     content: 7e515f1496b9f6f0_draw_201119224118.jpg,8afe283b667e3670_draw_201119224131.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 906
     type: 2
-    child_ids: ""
     title: 補給線維持
     sub_title: 司令部と補給ポイントの間に補給線を確立しましょう。
-    code: ""
     content: fd79fc4f82c00522_draw_201119224157.jpg,54e887aacd51abe6_draw_201119224218.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 907
     type: 2
-    child_ids: ""
     title: 堅守作戦
     sub_title: 守り抜くことで勝利につながります。
-    code: ""
     content: 4c8cf5532f04bfe3_draw_201119224231.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1000
@@ -996,64 +709,44 @@
     title: 部隊編成
     sub_title: 合理的に部隊を編成し部隊の実力を最大限発揮しましょう。
     code: manual_formation
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1001
     type: 2
-    child_ids: ""
     title: 陣形編成
     sub_title: 人形は相互に影響を及ぼし合いますので、合理的な陣形はより強力な戦力に繋がります。
-    code: ""
     content: 14582da10fd0828d_draw_201118211229.jpg,7ed28b5cf422df1e_draw_201118211253.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1002
     type: 2
-    child_ids: ""
     title: クイック編成
     sub_title: どのように編成すればいいか分からない時は、クイック編成に任せてみるのも良いかもしれません。
-    code: ""
     content: e151e34d1c0f82f0_draw_201118211002.jpg,53fcc836b0f440ac_draw_201118211020.jpg,e97a802e2b41fe77_draw_201118211048.jpg,ab0707284b92ba79_draw_201118211112.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1003
     type: 2
-    child_ids: ""
     title: 融合勢力編成
     sub_title: 融合勢力は隊長の指揮により依存しますので、隊長を軸に編成してみましょう。
-    code: ""
     content: ff21c029d98927f9_draw_210915160204.jpg,5e40cdb64e8dfbd8_draw_210915160236.jpg,e5f3267d1a1528d2_draw_210915160306.jpg
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 1004
     type: 2
-    child_ids: ""
     title: 融合勢力クイック編成
     sub_title: クイック編成は融合勢力の編成にも使用できます。
-    code: ""
     content: ae99a28f8a115e6c_draw_210916120427.jpg,16497b875e114f89_draw_210916120404.jpg,16f590b59e8fbb6f_draw_210916120454.jpg,c757e2e23409deac_draw_210916120527.jpg
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 1005
     type: 2
-    child_ids: ""
     title: 装備プリセット
     sub_title: 装備をプリセットすれば、あとは必要に応じて簡単に切り替えできます。
-    code: ""
     content: 9470873eb8b226d4_draw_201119191237.jpg,fabe0a9ceffa954d_draw_201119191237.jpg,3538a60fead6c818_draw_201119191237.jpg
     function_control_id: 2
-    goto_page: 0
   }
   {
     id: 1100
@@ -1062,116 +755,80 @@
     title: 拠点
     sub_title: 拠点の中では様々な事務の管理と確認ができます。
     code: manual_dorm
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1101
     type: 2
-    child_ids: ""
     title: 宿舎
     sub_title: 戦術人形たちの宿舎へようこそ！きれいな服を着せ、たくさん交流しましょう！
-    code: ""
     content: 30c67fe1ca238610_draw_201118201908.jpg,b165e1bf52d997e1_draw_201118201925.jpg
-    function_control_id: 0
     goto_page: 11
   }
   {
     id: 1102
     type: 2
-    child_ids: ""
     title: ガチャ
     sub_title: コインをケチるのはやめましょう。
-    code: ""
     content: 7dcc952bae269e12_draw_201118202012.jpg,c28f4448a3c43c51_draw_201118202058.jpg,621d0d79acbdf907_draw_201118202122.jpg,9564575f93bbac06_draw_201119224752.jpg,851ae92c9b7aa633_draw_201118202212.jpg
-    function_control_id: 0
     goto_page: 251
   }
   {
     id: 1103
     type: 2
-    child_ids: ""
     title: 宿舎編集
     sub_title: 作戦の実力以外に、宿舎を飾りつける実力も見せつけてやりましょう。
-    code: ""
     content: 10988d9f677aa4d8_draw_201118202453.jpg,b2646572c1ad329e_draw_201118202529.jpg,42711d9c4fa45b95_draw_201118202556.jpg,f74fdff5e2c55049_draw_201118202729.jpg,d57a8cc88f06a010_draw_201118202817.jpg,d70c5edcde402130_draw_201118202845.jpg,7dcc952bae269e12_draw_201118202910.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1104
     type: 2
-    child_ids: ""
     title: ギフト贈呈
     sub_title: 人形を励ますためにも、ギフトは積極的に送りましょう。
-    code: ""
     content: e198fa2cfc24845b_draw_201118202959.jpg,42a377181a7e42ae_draw_201118203034.jpg,154279cf6254f37c_draw_201118203100.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1105
     type: 2
-    child_ids: ""
     title: 宿舎見学
     sub_title: 他の指揮官の宿舎を見学し、挨拶を残しましょう。
-    code: ""
     content: 5ae195472dc4bc6f_draw_201118203159.jpg,be00e8143d219f3e_draw_201118203218.jpg,03d4d7e576ca6b14_draw_201118203245.jpg,f56273e9e4b702c8_draw_201118203303.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1106
     type: 2
-    child_ids: ""
     title: バッテリー
     sub_title: バッテリーは重要な開発に必要な資源です、拠点の建設には欠かせません。
-    code: ""
     content: 296367121622581a_draw_201118203328.jpg,6caa3e80de0f21fb_draw_201118203346.jpg,2ffbceec0dabdbb0_draw_201118203346.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1107
     type: 2
-    child_ids: ""
     title: データルーム
     sub_title: 溢れた経験値でカリーナに作戦報告書を書いてもらえます。
-    code: ""
     content: 666b17e373e971ba_draw_201118203452.jpg,32f9cc304425566e_draw_201118203512.jpg,8424f4201ef39aae_draw_201118203533.jpg,eb2fcec86016d9ed_draw_201118203533.jpg
-    function_control_id: 0
     goto_page: 205
   }
   {
     id: 1108
     type: 2
-    child_ids: ""
     title: カフェ
     sub_title: コーヒーを一杯淹れて、人形たちの物語を楽しみましょう。
-    code: ""
     content: 3faa3896d9bb68cd_draw_201118203612.jpg,b80c754cc1297411_draw_201118203644.jpg,ea924ebd43e92694_draw_201118203705.jpg,5f460aad4bf4a6e8_draw_201118203722.jpg
-    function_control_id: 0
     goto_page: 207
   }
   {
     id: 1109
     type: 2
-    child_ids: ""
     title: 救護室
     sub_title: 野良の動物を受け入れ、温かい環境を提供してあげましょう。
-    code: ""
     content: a578fa14a01c060b_draw_201118203803.jpg,9f19a60b88a53a79_draw_201118203803.jpg
-    function_control_id: 0
     goto_page: 204
   }
   {
     id: 1110
     type: 2
-    child_ids: ""
     title: 妖精格納庫
     sub_title: 妖精格納庫では、妖精関連の設備が管理されています。
-    code: ""
     content: 13845042b7d5ed62_draw_201118203904.jpg,b0d310d2306c7704_draw_201118203904.jpg
     function_control_id: 1
     goto_page: 206
@@ -1179,10 +836,8 @@
   {
     id: 1111
     type: 2
-    child_ids: ""
     title: 前線基地
     sub_title: 人形を派遣し探検を行い、希少な物資を手に入れましょう。
-    code: ""
     content: b3617afcaaaeee82_draw_201118204010.jpg,784b28d42ffac647_draw_201118204030.jpg,8e8948252b943283_draw_201118204048.jpg
     function_control_id: 17
     goto_page: 217
@@ -1190,10 +845,8 @@
   {
     id: 1112
     type: 2
-    child_ids: ""
     title: 格納庫
     sub_title: 格納庫では、重装部隊の管理と確認ができます。
-    code: ""
     content: 313d3f0c35cf0c06_draw_201118204127.jpg,e9072a2bd834f08e_draw_201118204127.jpg
     function_control_id: 15
     goto_page: 203
@@ -1201,10 +854,8 @@
   {
     id: 1113
     type: 2
-    child_ids: ""
     title: 情報センター
     sub_title: 重装部隊の入手は、基本的に情報センターでのサンプル解析経由になります。
-    code: ""
     content: 4ed066a6246cfd4d_draw_201118204201.jpg,af985a567795486c_draw_201118204201.jpg
     function_control_id: 15
     goto_page: 202
@@ -1212,10 +863,8 @@
   {
     id: 1114
     type: 2
-    child_ids: ""
     title: 協定コントロールセンター
     sub_title: 協定コントロールセンターでは、融合勢力の関連施設を管理できます。
-    code: ""
     content: bc20500330e8ac44_draw_210915172654.jpg
     function_control_id: 21
     goto_page: 228
@@ -1227,39 +876,29 @@
     title: 融合勢力
     sub_title: グリフィンの最新技術により、他の勢力も作戦に参加できるようになりました。
     code: manual_sangvis
-    content: ""
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 1201
     type: 2
-    child_ids: ""
     title: 融合勢力作戦
     sub_title: 融合勢力は人形とは少々異なりますので、指揮をする際には気をつけましょう。
-    code: ""
     content: 3f8a2ebfcee92f34_draw_210915152312.jpg,7cb079d85a6aae14_draw_210915152433.jpg,0cdf963f7a036ad8_draw_210915155225.jpg,07bc0e43d6afbcb3_draw_210915155453.jpg
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 1202
     type: 2
-    child_ids: ""
     title: 融合勢力編成
     sub_title: 融合勢力は隊長の指揮により依存しますので、隊長を軸に編成してみましょう。
-    code: ""
     content: ff21c029d98927f9_draw_210915160204.jpg,5e40cdb64e8dfbd8_draw_210915160236.jpg,e5f3267d1a1528d2_draw_210915160306.jpg
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 1203
     type: 2
-    child_ids: ""
     title: 融合勢力獲得
     sub_title: 融合勢力を獲得し部隊を強化しましょう！
-    code: ""
     content: d2fcf3cd39a540e7_draw_210915163014.jpg,be4b005f657c143a_draw_210915163051.jpg,123c29fbd58cf1e6_draw_210915163122.jpg,93c301a67479c034_draw_210915163148.jpg
     function_control_id: 21
     goto_page: 224
@@ -1267,10 +906,8 @@
   {
     id: 1204
     type: 2
-    child_ids: ""
     title: 融合勢力解析
     sub_title: 同じ融合勢力を使用して解析を行い、作戦能力を引き上げましょう。
-    code: ""
     content: f5ff6c6393ebed4a_draw_210915163512.jpg,05d9a85dbf7ab55c_draw_210915163646.jpg
     function_control_id: 21
     goto_page: 235
@@ -1278,10 +915,8 @@
   {
     id: 1205
     type: 2
-    child_ids: ""
     title: 融合勢力開発
     sub_title: 融合勢力開発を通じて、融合勢力のステータスを引き上げましょう。
-    code: ""
     content: b240c9bd2090eeb9_draw_210915163819.jpg,7daca903060a3ba5_draw_210915163928.jpg
     function_control_id: 21
     goto_page: 236
@@ -1289,10 +924,8 @@
   {
     id: 1206
     type: 2
-    child_ids: ""
     title: 戦術チップ
     sub_title: 戦術チップは様々な種類があります、戦局に応じて必要なものを使用しましょう。
-    code: ""
     content: 6fdb63b3563a1f89_draw_210916181101.jpg,46f66b2eb5348ece_draw_210915165112.jpg
     function_control_id: 21
     goto_page: 229
@@ -1300,10 +933,8 @@
   {
     id: 1207
     type: 2
-    child_ids: ""
     title: データ転移
     sub_title: 同名の融合勢力のユニット同士は育成データを交換できます。
-    code: ""
     content: 4a4bc2293f681fc2_draw_210915165546.jpg
     function_control_id: 21
     goto_page: 237
@@ -1311,10 +942,8 @@
   {
     id: 1208
     type: 2
-    child_ids: ""
     title: 融合演習
     sub_title: プリセットされた人形で部隊編成と作戦を行えば、融合勢力の育成アイテムが手に入ります。
-    code: ""
     content: 9d3c46ee99b03271_draw_210915150747.jpg,c0252440d841487d_draw_210915150642.jpg,4d4a9694634e0bf5_draw_210915150708.jpg
     function_control_id: 21
     goto_page: 232
@@ -1322,21 +951,16 @@
   {
     id: 1209
     type: 2
-    child_ids: ""
     title: 分解と交換
     sub_title: 余った融合勢力は分解を行い、コアショップでアイテムと交換できます。
-    code: ""
     content: 632f794c55f6afc2_draw_210915165945.jpg
     function_control_id: 21
-    goto_page: 0
   }
   {
     id: 1210
     type: 2
-    child_ids: ""
     title: 協定コントロールセンター
     sub_title: 協定コントロールセンターでは、融合勢力の関連施設を管理できます。
-    code: ""
     content: bc20500330e8ac44_draw_210915172654.jpg
     function_control_id: 21
     goto_page: 228
@@ -1348,39 +972,28 @@
     title: 工廠
     sub_title: 工廠内で人形と装備を製造し部隊を強化しましょう。
     code: manual_factory
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1301
     type: 2
-    child_ids: ""
     title: 人形製造
     sub_title: 資源を消費し人形をたくさん獲得しましょう。
-    code: ""
     content: bd67108eda6499a8_draw_201118204507.jpg,a6784a4c04007935_draw_201118204523.jpg,be1841814655bcee_draw_201118204551.jpg,85e3790d4dc8de9a_draw_201118204621.jpg
-    function_control_id: 0
     goto_page: 25
   }
   {
     id: 1302
     type: 2
-    child_ids: ""
     title: 編制拡大
     sub_title: 人形を編制拡大することで戦力が上がり、経験値獲得量が増えます。
-    code: ""
     content: 3c8cdb032683aabe_draw_201118204735.jpg,807412062c34ffb8_draw_201118204753.jpg,a0ee427d46f221ee_draw_201118204812.jpg
-    function_control_id: 0
     goto_page: 5
   }
   {
     id: 1303
     type: 2
-    child_ids: ""
     title: 融合勢力解析
     sub_title: 同じ融合勢力を使用して解析を行い、作戦能力を引き上げましょう。
-    code: ""
     content: f5ff6c6393ebed4a_draw_210915163512.jpg,05d9a85dbf7ab55c_draw_210915163646.jpg
     function_control_id: 21
     goto_page: 235
@@ -1388,21 +1001,16 @@
   {
     id: 1304
     type: 2
-    child_ids: ""
     title: 人形強化
     sub_title: 人形を強化し、ステータスを上げましょう。
-    code: ""
     content: fb77322e7c47ab58_draw_201118204944.jpg,6880c6b9165a8aa8_draw_201118205005.jpg
-    function_control_id: 0
     goto_page: 7
   }
   {
     id: 1305
     type: 2
-    child_ids: ""
     title: 融合勢力開発
     sub_title: 融合勢力開発を通じて、融合勢力のステータスを引き上げましょう。
-    code: ""
     content: b240c9bd2090eeb9_draw_210915163819.jpg,7daca903060a3ba5_draw_210915163928.jpg
     function_control_id: 21
     goto_page: 236
@@ -1410,21 +1018,16 @@
   {
     id: 1306
     type: 2
-    child_ids: ""
     title: 回収分解
     sub_title: 余った人形と装備を分解し資源を回収しましょう。
-    code: ""
     content: b4e04dffb3bb1814_draw_201118205027.jpg
-    function_control_id: 0
     goto_page: 63
   }
   {
     id: 1307
     type: 2
-    child_ids: ""
     title: 装備製造
     sub_title: 資源を消費し装備をたくさん獲得しましょう。
-    code: ""
     content: 48a67bd3a168b369_draw_201118205242.jpg,628474c1bfcfdd5d_draw_201118205300.jpg,3067b208415fc837_draw_201118205319.jpg,83191c1649b37acc_draw_201118205343.jpg
     function_control_id: 2
     goto_page: 21
@@ -1436,28 +1039,20 @@
     title: 開発
     sub_title: 開発では人形と装備を強化できます。
     code: manual_research
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1401
     type: 2
-    child_ids: ""
     title: スキル訓練
     sub_title: 訓練を通じてスキルを強化しましょう。
-    code: ""
     content: 2e818e5ddbf42e60_draw_201118205421.jpg,dd7871175abd9422_draw_201118205442.jpg
-    function_control_id: 0
     goto_page: 8
   }
   {
     id: 1402
     type: 2
-    child_ids: ""
     title: 装備強化
     sub_title: 装備を強化し、ステータスを上げましょう。
-    code: ""
     content: 0e9d832a70298c67_draw_201118205529.jpg,2d87e937e9b4ce3f_draw_201118205549.jpg
     function_control_id: 2
     goto_page: 250
@@ -1465,10 +1060,8 @@
   {
     id: 1403
     type: 2
-    child_ids: ""
     title: 装備較正
     sub_title: 装備のステータスを引き上げることができます。
-    code: ""
     content: aa4dfd8bdb646ef8_draw_201118205619.jpg,bad827ac3567404d_draw_201118205618.jpg
     function_control_id: 2
     goto_page: 54
@@ -1476,10 +1069,8 @@
   {
     id: 1404
     type: 2
-    child_ids: ""
     title: 妖精強化
     sub_title: 妖精を強化し、効率よく活用しましょう。
-    code: ""
     content: 4b4a8a9de7ebae11_draw_201118205707.jpg,1aa1b72fa385289f_draw_201118205707.jpg,1504e5ffa8d8cf77_draw_201118205707.jpg
     function_control_id: 1
     goto_page: 144
@@ -1487,10 +1078,8 @@
   {
     id: 1405
     type: 2
-    child_ids: ""
     title: 妖精較正
     sub_title: 較正では妖精に新たな天賦の選択肢を提供できます。
-    code: ""
     content: 9bc1f6d54e3348e3_draw_201118205744.jpg,ef0d09fb5eb67cd6_draw_201118205744.jpg,078c619ca7bc6e18_draw_201118205743.jpg
     function_control_id: 1
     goto_page: 172
@@ -1498,10 +1087,8 @@
   {
     id: 1406
     type: 2
-    child_ids: ""
     title: メンタルアップグレード
     sub_title: 人形の能力を上限突破させられます。
-    code: ""
     content: 66402db7c225fe0f_draw_201118205831.jpg,9988efa9c6b08d33_draw_201118205831.jpg,54fd2e38399e0784_draw_201118205831.jpg
     function_control_id: 10
     goto_page: 186
@@ -1513,42 +1100,28 @@
     title: グループ交流
     sub_title: グリフィンの指揮官は独りではありません。
     code: manual_social
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1501
     type: 2
-    child_ids: ""
     title: 戦友
     sub_title: 戦友が多いに越したことはありません。
-    code: ""
     content: c86b3f7c41a97913_draw_201119112215.jpg,d943308590f69343_draw_201119112216.jpg,04d788f2e81a6173_draw_201119112216.jpg
-    function_control_id: 0
     goto_page: 136
   }
   {
     id: 1502
     type: 2
-    child_ids: ""
     title: IDカード
     sub_title: 皆の自分の名前を覚えてもらいましょう！
-    code: ""
     content: d68be320f1006e72_draw_201119112029.jpg,3927e165f205a5e8_draw_201119112030.jpg,996af1c17d332411_draw_201119112030.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1503
     type: 2
-    child_ids: ""
     title: 支援部隊
     sub_title: 優秀な指揮官は、決して戦友の協力を拒みません。
-    code: ""
     content: e5536b6fde012754_draw_201119183948.jpg,ebe747c248ca903a_draw_201119184012.jpg,602f5419a635c19a_draw_201119184013.jpg,69db6856fc37dfe7_draw_201119184013.jpg
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1600
@@ -1557,17 +1130,13 @@
     title: 指揮官クローゼット
     sub_title: 指揮官、時間がある時に新しい服を見繕いましょう。
     code: manual_uniform
-    content: ""
     function_control_id: 20
-    goto_page: 0
   }
   {
     id: 1601
     type: 2
-    child_ids: ""
     title: 指揮官衣装
     sub_title: 服を一新し、心も新たにしましょう。
-    code: ""
     content: 7a5de62902ce623e_draw_201118210453.jpg
     function_control_id: 20
     goto_page: 210
@@ -1575,10 +1144,8 @@
   {
     id: 1602
     type: 2
-    child_ids: ""
     title: 指揮官スキル
     sub_title: きれいな服を身に着けた途端、とんでもない能力に目覚めたようです。
-    code: ""
     content: 3240830851cfee6d_draw_201118210509.jpg
     function_control_id: 20
     goto_page: 210
@@ -1586,10 +1153,8 @@
   {
     id: 1603
     type: 2
-    child_ids: ""
     title: 染色システム
     sub_title: 服の色が気に入らない？それなら染色を試してみましょう。
-    code: ""
     content: 7adc8593de4bf9eb_draw_201118210526.jpg
     function_control_id: 20
     goto_page: 209
@@ -1597,13 +1162,10 @@
   {
     id: 1604
     type: 2
-    child_ids: ""
     title: 宿舎表示
     sub_title: 服を着替えたら宿舎を散策しましょう。
-    code: ""
     content: 7a729c4d78054df3_draw_201118210540.jpg
     function_control_id: 20
-    goto_page: 0
   }
   {
     id: 1700
@@ -1612,17 +1174,13 @@
     title: 前線基地
     sub_title: 戦いに疲れた？それなら前線基地へようこそ！
     code: manual_explore
-    content: ""
     function_control_id: 17
-    goto_page: 0
   }
   {
     id: 1701
     type: 2
-    child_ids: ""
     title: 前線基地紹介
     sub_title: 人形を派遣し探検を行い、希少な物資を手に入れましょう。
-    code: ""
     content: b3617afcaaaeee82_draw_201118210609.jpg,784b28d42ffac647_draw_201118210626.jpg,8e8948252b943283_draw_201118210655.jpg
     function_control_id: 17
     goto_page: 217
@@ -1630,24 +1188,18 @@
   {
     id: 1702
     type: 2
-    child_ids: ""
     title: 探索準備
     sub_title: 探索前の準備をしっかりすることでより良い探索の結果が得られます。
-    code: ""
     content: 88f289036523bd78_draw_201118210721.jpg,bc68f9da9467610f_draw_201118210756.jpg,8d372f7f90680303_draw_201118210756.jpg
     function_control_id: 17
-    goto_page: 0
   }
   {
     id: 1703
     type: 2
-    child_ids: ""
     title: ブラックマーケット
     sub_title: 集めた物資をブラックマーケットで他のものに交換できます。
-    code: ""
     content: bc02615fa4266c21_draw_201118210829.jpg
     function_control_id: 17
-    goto_page: 0
   }
   {
     id: 1800
@@ -1656,17 +1208,12 @@
     title: グリフィン思い出話
     sub_title: グリフィンと人形たちへの理解を深めましょう。
     code: manual_fetter
-    content: ""
-    function_control_id: 0
-    goto_page: 0
   }
   {
     id: 1801
     type: 2
-    child_ids: ""
     title: 思い出回顧録
     sub_title: 人形たちの間でどんなことが起きているか、知りたくありませんか？
-    code: ""
     content: 5f21d243294ebb7a_draw_210525153836.jpg,060a1e434d8d5362_draw_210525153836.jpg,7b5396690a26adee_draw_210525153836.jpg
     function_control_id: 22
     goto_page: 247
@@ -1674,13 +1221,10 @@
   {
     id: 1802
     type: 2
-    child_ids: ""
     title: 内部一覧
     sub_title: グリフィンの内部構造を把握しましょう！
-    code: ""
     content: 7a6c558ac7c0348a_draw_210916150548.jpg,5e7180c2ca2ab5ca_draw_210916150650.jpg,b98638789d20f53c_draw_210916150623.jpg,155e638cfc59051e_draw_210916150715.jpg
     function_control_id: 22
-    goto_page: 0
   }
   {
     id: 1900
@@ -1689,119 +1233,87 @@
     title: ラフベリーチェス
     sub_title: 策略性と娯楽性を兼ね備えたボードゲーム。
     code: manual_chess
-    content: ""
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1901
     type: 2
-    child_ids: ""
     title: ゲームモード
     sub_title: カジュアル、ランクマッチ、プラクティスからモードを選べます。
-    code: ""
     content: da5628a2f788e826_draw_220224150548.jpg,7d3417041951d278_draw_220224150551.jpg,7afbd801e94bc9e2_draw_220224150554.jpg,e01427690ef9b661_draw_220224150544.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1902
     type: 2
-    child_ids: ""
     title: マップ紹介
     sub_title: マップの構造を理解し、地形を合理的に利用しましょう。
-    code: ""
     content: 166daa72c2eafb84_draw_220224150545.jpg,a213bfdbb7528f8b_draw_220224150525.jpg,ebf66e308cae9021_draw_220224150553.jpg,35419c0fcb84724b_draw_220224150535.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1903
     type: 2
-    child_ids: ""
     title: 部隊設定
     sub_title: あなただけのチームを作成しましょう。
-    code: ""
     content: a0bf79acb0656f1e_draw_220224150548.jpg,85dfe183213fe909_draw_220225145424.jpg,9c559de5a3ce7c6a_draw_220224150537.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1904
     type: 2
-    child_ids: ""
     title: ゲームスタート
     sub_title: 何事も始めが肝心。
-    code: ""
     content: c04d4e0e140d27fb_draw_220224150552.jpg,a6240376495f3ca8_draw_220224150553.jpg,a0bf79acb0656f1e_draw_220224150548.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1905
     type: 2
-    child_ids: ""
     title: 航空補給
     sub_title: 定期的に投下される補給は、あなたの強力な助けとなります。
-    code: ""
     content: 6ca0c862cec14310_draw_220225174739.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1906
     type: 2
-    child_ids: ""
     title: 駒配置
     sub_title: チェスの駒がこのゲームの主役です。
-    code: ""
     content: 0186e7faf91c7510_draw_220224150521.jpg,d3192e0a5a89d930_draw_220225143747.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1907
     type: 2
-    child_ids: ""
     title: ショップフェーズ
     sub_title: ショップでカードを購入して駒を強化しましょう。
-    code: ""
     content: 51babd202f482a06_draw_220224150546.jpg,55f16ca23dfc3e1e_draw_220224150521.jpg,3314bfc2801207d4_draw_220224150544.jpg,94a3489e1242ed27_draw_220224150547.jpg,5fd9ee987c732ba0_draw_220224150521.jpg,f627ae20bf815313_draw_220224150544.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1908
     type: 2
-    child_ids: ""
     title: ラウンドフェーズ
     sub_title: 基本的なゲームプロセスを学びましょう。
-    code: ""
     content: 2fae439a36928b0e_draw_220224150538.jpg,6bf71da8b64d8e32_draw_220224150537.jpg,b3fb709c2d194277_draw_220224150547.jpg,2ef03504a1ddcfd2_draw_220224150536.jpg,dcab1381a5a468a9_draw_220224150547.jpg,3474d807ce3df25f_draw_220224150538.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1909
     type: 2
-    child_ids: ""
     title: 勝利条件
     sub_title: 勝利に向かって前進！
-    code: ""
     content: 51cc92e0c804a4fe_draw_220224150557.jpg,e632c65ba09382cf_draw_220224150522.jpg
     function_control_id: 26
-    goto_page: 0
   }
   {
     id: 1910
     type: 2
-    child_ids: ""
     title: ガチャポン
     sub_title: ラフベリーチェスで手に入れたガチャ券を使えば、抽選に参加できます。
-    code: ""
     content: 97b5dff2d899c83f_draw_211231001.jpg,ec88a32e3e771594_draw_211231002.jpg
     function_control_id: 10000
-    goto_page: 0
   }
   {
     id: 2000
@@ -1810,118 +1322,86 @@
     title: 戦区攻略
     sub_title: 指揮官の作戦能力を全面的にテストする大規模な演習です。
     code: manual_chess
-    content: ""
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2001
     type: 2
-    child_ids: ""
     title: 戦区紹介
     sub_title: 局地戦はI.O.Pの提供による大規模な演習作戦です。
-    code: ""
     content: c0fd974137499fb3_draw_220309143306.jpg,620313dd4bf32719_draw_220309143307.jpg,1bf7ba43e0ebef7e_draw_220309143307.jpg,9018fdbb0ff24129_draw_220309143307.jpg,ca2edf581eada938_draw_220309143308.jpg,b6381bb58115cf9b_draw_220309143309.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2002
     type: 2
-    child_ids: ""
     title: 戦区施設
     sub_title: 戦区の施設を強化する事でスコアが手に入り、部隊にボーナスが付与されます。
-    code: ""
     content: 40af229a47ba593e_draw_220309143441.jpg,bbd57c876c810d02_draw_220309143441.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2003
     type: 2
-    child_ids: ""
     title: 戦区偵察
     sub_title: 戦区偵察を行うと、スコアを獲得できます。
-    code: ""
     content: a627bc122ed3930f_draw_220309143510.jpg,08e6a7fd8ee0f1b7_draw_220309143510.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2004
     type: 2
-    child_ids: ""
     title: 戦区部隊編成
     sub_title: 局地戦部隊は出撃部隊、バックアップ部隊、支援部隊に分かれます。
-    code: ""
     content: dd79670172bd134d_draw_220309143538.jpg,b8d4e413c99e3fbf_draw_220309143538.jpg,c0193ae9ce799e5c_draw_220309143539.jpg,f90e5c294a45f151_draw_220309143539.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2005
     type: 2
-    child_ids: ""
     title: 戦区ステージ
     sub_title: 戦区ステージの情報を徹底的に分析すれば、作戦が楽になります。
-    code: ""
     content: 1e5ad7767f6b9a5f_draw_220309143624.jpg,ea49abe7cd433546_draw_220309143624.jpg,f302b5d3a3e1a856_draw_220309143624.jpg,b56d5bb5ea431444_draw_220309143624.jpg,311c59196a127a7d_draw_220309143625.jpg,eed4866932407c85_draw_220309143626.jpg,e8823502f57bff64_draw_220309143626.jpg,263cf4522e778398_draw_220309143626.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2006
     type: 2
-    child_ids: ""
     title: 戦区作戦
     sub_title: 戦区作戦をクリアすると、スコアと素材を獲得できます。
-    code: ""
     content: 6de674e01773b4a7_draw_220309143740.jpg,dc24bc6259b0554b_draw_220309143740.jpg,a1ad621984f7d31a_draw_220309143740.jpg,7d085c742f63c01c_draw_220309143741.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2007
     type: 2
-    child_ids: ""
     title: 戦区報酬
     sub_title: 局地戦報酬はスコア報酬、攻略報酬、ランキング報酬に分かれます。
-    code: ""
     content: f997dc044547576f_draw_220309144735.jpg,23c4d586ced94604_draw_220309144735.jpg,fe78a68286413b20_draw_220309144736.jpg,b36beb1ed59d35e3_draw_220309144736.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2008
     type: 2
-    child_ids: ""
     title: 電子戦
     sub_title: 電子戦に失敗しても、本戦闘における損傷は記録されず、戦闘後に自動回復します。
-    code: ""
     content: 8e571450bc7ecd04_draw_220309143850.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2009
     type: 2
-    child_ids: ""
     title: 防衛戦
     sub_title: 一定時間持ちこたえるとクリア。
-    code: ""
     content: 4c0aec3ae2114a9e_draw_220309143850.jpg
     function_control_id: 16
-    goto_page: 0
   }
   {
     id: 2010
     type: 2
-    child_ids: ""
     title: 狙撃戦
     sub_title: 指定ターゲットを撃破することでクリア。
-    code: ""
     content: 5113f84d52f728ed_draw_220309143850.jpg
     function_control_id: 16
-    goto_page: 0
   }
 ]

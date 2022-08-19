@@ -5,19 +5,9 @@
     type: 2
     code: Drone
     introduce: 標準のターゲットドローン。訓練と演習のみに用いられ、戦闘映像を自動記録できる（カメラが壊れていないことが前提）。
-    forces: 0
-    if_capture: 0
-    pow_rank: 0
     life_rank: 7
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
-    speed_rank: 0
-    range_rank: 0
     counter: 訓練を頑張ろう！
     character: "1001,903"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000001
     spine_scale: "90,90,1"
@@ -35,12 +25,10 @@
     hit_rank: 1
     dodge_rank: 1
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000002
     spine_scale: "100,100,1"
@@ -58,12 +46,10 @@
     hit_rank: 2
     dodge_rank: 6
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 回避が高いため、命中力が足りているか注意しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000003
     spine_scale: "100,100,1"
@@ -81,12 +67,10 @@
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000004
     spine_scale: "100,100,1"
@@ -104,7 +88,6 @@
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -125,14 +108,11 @@
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 近接戦闘の攻撃力は極めて高いが、生存能力は低いため、範囲攻撃のスキルを持つ人形や、アサルトライフルの人形で素早く片付けるのが望ましい。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000006
     spine_scale: "100,100,1"
@@ -150,12 +130,10 @@
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000007
     spine_scale: "100,100,1"
@@ -196,12 +174,10 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 主に後列に位置し、射速は遅めで、命中は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
     character: "307"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000009
     spine_scale: "100,100,1"
@@ -219,12 +195,10 @@
     hit_rank: 3
     dodge_rank: 1
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 近接戦闘ユニットであり、防御力が比較的高いが、攻撃力はそれほどでもない。しかし、ガードに守られた高火力ユニットが脅威となるため、適切な銃種を選択し、後列の敵を優先して処理しよう。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000010
     spine_scale: "90,90,1"
@@ -265,12 +239,10 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "304"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000012
     spine_scale: "75,75,1"
@@ -288,7 +260,6 @@
     hit_rank: 6
     dodge_rank: 3
     rate_rank: 1
-    armor_rank: 0
     speed_rank: 3
     range_rank: 5
     counter: 攻撃予告を行った位置に中程度の範囲ダメージを与える。人形を指揮し適宜回避が必要。
@@ -309,14 +280,12 @@
     pow_rank: 4
     life_rank: 3
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 1
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
     counter: 装甲を持ち、後列にいることが多い。射速は遅く、命中と火力は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
     character: "309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000014
     spine_scale: "100,100,1"
@@ -332,14 +301,12 @@
     pow_rank: 2
     life_rank: 4
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
     counter: 装甲を持つため、部隊の貫通性能に注意しよう。
     character: "303,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000015
     spine_scale: "100,100,1"
@@ -355,14 +322,12 @@
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 3
     speed_rank: 2
     range_rank: 3
     counter: そこそこ厚い装甲を持ち、火力も高いため、部隊の作戦能力を高め、素早く片付けるとよい。
     character: "1003,309,301"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000016
     spine_scale: "80,80,1"
@@ -380,7 +345,6 @@
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -403,7 +367,6 @@
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: 一発当たりの火力は極めて高いが、射速は低めで、命中は普通。回避タイプの人形で食い止めるとよい。
@@ -420,7 +383,6 @@
     code: HunterElite
     introduce: 機動性と知性が高く、妨害と追撃作戦が得意な鉄血エリート人形。本来の規格と比べて、搭載されている演算ユニットが大幅にアップグレードされ、より冷酷になっている。あらゆる手段を用いて敵を袋小路に追い込み生け捕りにする。
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -443,7 +405,6 @@
     code: ExcutionerElite
     introduce: 策を弄するよりも、正面から戦うことを好む鉄血のエリート人形。太刀がさらに強化され、白兵戦の性能が向上している。正々堂々とした戦いを好み、弱い者いじめを嫌う。
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
@@ -489,7 +450,6 @@
     code: WeaverElite
     introduce: あらゆる作戦と戦術演算に長けているハイスペックな鉄血エリート人形。全てのステータスが高い水準となっており、戦場ではオールラウンダーを担える存在。以前と比べて大量の戦術データを取り込んで強化されており、冷静な見た目とは裏腹に内心は非常に傲慢……しかし相変わらず実戦経験が少なく、敵も味方も予測できない不可解な行動をとるため、戦場へ投入するにはリスクが高い。
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -518,7 +478,6 @@
     hit_rank: 4
     dodge_rank: 5
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -541,7 +500,6 @@
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 射程が長いため、部隊の移動速度に注意しないと大きな損害をもたらす。
@@ -558,14 +516,11 @@
     code: Jupiter
     introduce: 鉄血が軍の技術を盗み出して開発した大型砲台。移動することはできないが、戦術人形を圧倒する火力と射程を有している。包囲してエネルギーの供給を断つと主砲は停止し、防衛用の機銃でしか反撃できなくなる。
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 2
-    speed_rank: 0
     range_rank: 5
     counter: 電源を断たない限り危険性が非常に高いため、周囲を占領しエネルギーの供給を断ってから倒すとよい。
     character: "1003,309,910"
@@ -587,7 +542,6 @@
     hit_rank: 5
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -633,12 +587,10 @@
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 高めの破甲値を持っており、ショットガンの人形にとって危険な存在となるため、注意が必要。サブマシンガンや、ハンドガンなどの回避型の人形を前列に配置するとよい。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000028
     spine_scale: "85,85,1"
@@ -656,12 +608,10 @@
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "308"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000029
     spine_scale: "100,100,1"
@@ -677,14 +627,12 @@
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
     counter: 近接戦闘における攻撃力が極めて高いが、生存能力は低い。しかし装甲を持つため、味方の貫通が低いと処理に手間取る。範囲攻撃のスキルを持つ人形か、マシンガンの人形で素早く殲滅すべし。
     character: "303,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000030
     spine_scale: "150,150,1"
@@ -696,13 +644,9 @@
     code: Golyat
     introduce: 鉄血の爆弾型戦闘ユニット。目標と接触すると自爆を行い、広範囲の大ダメージを与えるため、近づかれる前に倒すべし。
     forces: 1
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 危険！部隊の火力が当該ユニットを殲滅するに足るかを慎重に見極めてください。
@@ -719,13 +663,9 @@
     code: GolyatPlus
     introduce: 「ゴリアテ」の強化バージョン。現在の戦術人形の火力では短時間内に破壊することは不可能。こいつとの戦闘を避けた方が一番賢明なのかもしれない。
     forces: 1
-    if_capture: 0
     pow_rank: 7
     life_rank: 7
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 非常に危険！回避推奨！
@@ -742,7 +682,6 @@
     code: BossCerberus
     introduce: 鉄血の「ダイナーゲート」の超強化バージョン。体型も装甲も火力も大幅に強化されており、人形のメンタルさえも（不完全だが）収納することができる。しかしコスパがあまりよくなく、量産には向いていない。そして戦場における役割もそんなに明白ではない上に、開発の経緯も全くの謎。故に、出番は非常に少ない。
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -765,13 +704,11 @@
     code: DestroyerPlus
     introduce: ドリーマーに素体を改造されたデストロイヤーの新しい姿。火力が大幅に強化され、破壊力が増している。しかし性格やメンタルに大きな変化はない。
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: 攻撃予告を行った位置に中程度のダメージを与える。人形を指揮し適宜回避が必要。
@@ -810,19 +747,15 @@
     type: 3
     code: unknown
     introduce: 電子空間にしか存在しないバーチャルの敵。目標にゆっくりと近づき噛みつく。通常、これらの意識体は電子戦モジュールがファイアウォールなどのプログラムを具現したものか、電子空間に潜むウイルスやマルウェアである。極稀に、常識では解釈できない何かである可能性もある。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000036
     spine_scale: "80,80,1"
@@ -834,13 +767,11 @@
     code: Cyclops
     introduce: 軍の標準作戦人形。アサルトライフルとグレネードランチャーが搭載されている。装甲は他の型と比べて薄い。
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -857,7 +788,6 @@
     code: Cyclops_SG
     introduce: 軍の標準作戦人形。ショットガンとシールドが搭載されている。性能は他の型と比べて大差ない。
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 3
@@ -880,11 +810,9 @@
     code: Hydra
     introduce: 軍部がオーダーした標準軍用メカ。「マンティコア」をベースに強化と改造が行われている。軍用の遠距離射撃統制システムと強固な装甲が搭載されており、主砲で目標を壊滅させる。
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 6
     speed_rank: 1
@@ -903,11 +831,9 @@
     code: Aegis_GA
     introduce: 軍部がオーダーした標準軍用人形。現用の電撃武器やシールド、厚い装甲を搭載しており、近距離戦において抜群の性能を誇る。
     forces: 2
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 3
@@ -926,18 +852,15 @@
     code: Cerynitis
     introduce: 軍の標準作戦メカ。「ニーマム」をベースに強化と改造が行われている。軍用の遠距離射撃統制システムが搭載されており、より強固な装甲と高速連射能力を有している。
     forces: 2
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 1
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
     counter: 装甲を持ち、攻撃間隔は短め。火力が高めであるため、優先して処理するとよい。
     character: "1003,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000041
     spine_scale: "100,100,1"
@@ -949,12 +872,9 @@
     code: Dactyl
     introduce: 軍の小型自律地雷設置ドローン。高速で目標に接近していき地雷を設置する。脆弱な本体が破壊されても、設置した地雷は戦場を混乱に陥れる。
     forces: 2
-    if_capture: 0
     pow_rank: 5
     life_rank: 2
     hit_rank: 4
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
@@ -972,11 +892,9 @@
     code: Typhon
     introduce: 軍部がオーダーした標準軍用戦車。強力なレールガンを搭載しており、一撃で複数の目標を貫通できる。弱点は主砲の俯角があまり取れないこと。速やかに接近すれば或いは撃破できるかもしれない。
     forces: 2
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 6
-    dodge_rank: 0
     rate_rank: 5
     armor_rank: 4
     speed_rank: 3
@@ -995,7 +913,6 @@
     code: M16A1_Boss
     introduce: 【傘】ウィルスに感染し鉄血と化した元AR小隊所属のグリフィン戦術人形M16A1。見た目も性格も大きく変わったが、その高い作戦能力だけは変わらなかった。味方としてはとても信頼できるが、敵としてこれ以上恐ろしい存在はない。
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 6
@@ -1024,7 +941,6 @@
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 彼女がシールドを生成した際には、火力を集中させシールドを破ることでチャージを中断させ、高火力の攻撃を回避しよう。
@@ -1041,18 +957,15 @@
     code: Strelet
     introduce: 基本的な歩兵人形。軍の人形の火力に匹敵するほどの武器システムが搭載されている。量産型の作戦ユニットではあるが、鉄血の標準戦闘ユニットよりも作戦能力が高い。
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "312"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000046
     spine_scale: "100,100,1"
@@ -1064,7 +977,6 @@
     code: Rodelero
     introduce: 機動力の高い重火力人形。ジェットパックを装備しており、戦場の後方から一瞬で前へ飛びだすことができる。さらに複数の目標を貫通できるレールガンと、偏向障壁発生装置も搭載しており、攻守ともに隙がない。
     forces: 3
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
@@ -1087,11 +999,9 @@
     code: Doppelsoldner
     introduce: 強力な重火力メカ。強固な装甲と偏向障壁発生装置を搭載している。攻撃手段は両腕にある機関銃の他、多連装グレネードランチャーも装備している。
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 4
     hit_rank: 3
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 4
     speed_rank: 1
@@ -1110,11 +1020,9 @@
     code: Uhlan
     introduce: 強力な重戦車。強固な装甲と偏向障壁発生装置を搭載している。武装は機関砲一門のみだが、装甲と偏向障壁を盾に体当たりを仕掛け、敵の陣形を崩すことができる。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 4
     speed_rank: 3
@@ -1133,7 +1041,6 @@
     code: Nyto_black
     introduce: 謎の勢力の上級ボス。黒いネイトは高威力のライフル型武器を使用し、他のネイトたちと協力して戦う。「ネイト」という共通の名を持っていること以外、彼女たちに関する情報は一切なく……「ネイト」と呼ばれる怪物も、まだまだ他に存在しているらしい。
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 5
@@ -1156,7 +1063,6 @@
     code: Nyto_white
     introduce: 謎の勢力の上級ボス。白いネイトは指揮能力を持ち、鎌型の近接武器で戦場の全てを刈り取る。「ネイト」という共通の名を持っていること以外、彼女たちに関する情報は一切なく……「ネイト」と呼ばれる怪物も、まだまだ他に存在しているらしい。
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 5
@@ -1182,19 +1088,15 @@
     type: 3
     code: Zombie2
     introduce: コーラップス放射の汚染を受けた軍の人間兵士。理性を失い、非常に攻撃的な狂乱状態に陥っている。本能のままに動き回り、アサルトライフルで目に映ったすべてのものを掃射する。ただし、榴弾を発射するなどの複雑な行動はとれない模様。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000052
     spine_scale: "90,90,1"
@@ -1209,19 +1111,15 @@
     type: 3
     code: Zombie1
     introduce: コーラップス放射の汚染を受けた軍の人間兵士。武器を失っても素手で目に映ったすべてのものを攻撃する。ただ腕を振り回しているようにも見えるが、コーラップス液の強化により、そのスピードとパワーは依然恐ろしいものである。
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 4
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 2
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000053
     spine_scale: "90,90,1"
@@ -1236,14 +1134,11 @@
     type: 1
     code: Smasher
     introduce: 重度のコーラップス放射の汚染を受け、体に異変が起きた軍の人間兵士。ELID感染者は感染の経過時間と放射の強さにより、内臓や皮膚が硬化する症状が起きるため、重度のELID感染者を傷つけるのは非常に難しい。性格も他の感染者よりさらに狂暴になり、破壊力もより増している。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 6
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 5
     counter: 能力は平均的。味方に軽度のダメージを持続的に与えてくるため、長時間の交戦は避けるべし。部隊全体の能力を上げて対処するとよい。
@@ -1266,12 +1161,10 @@
     hit_rank: 1
     dodge_rank: 1
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000055
     spine_scale: "100,100,1"
@@ -1289,7 +1182,6 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 主に後列に位置し、射速は遅めで、命中は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
@@ -1312,7 +1204,6 @@
     hit_rank: 3
     dodge_rank: 1
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 近接戦闘ユニットであり、防御力が比較的高いが、攻撃力はそれほどでもない。しかし、ガードに守られた高火力ユニットが脅威となるため、適切な銃種を選択し、後列の敵を優先して処理しよう。
@@ -1335,7 +1226,6 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -1358,12 +1248,10 @@
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "308"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000059
     spine_scale: "100,100,1"
@@ -1379,7 +1267,6 @@
     pow_rank: 2
     life_rank: 5
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 2
@@ -1398,7 +1285,6 @@
     code: Nyto_Silver
     introduce: 謎の勢力の「ネイト」の一員、それ以外の情報は全て不明。ニモゲンに妹と呼ばれている。人間の詩が好きで、独特な趣味と感性を持っているようだ。
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 5
@@ -1421,7 +1307,6 @@
     code: Nyto_Gold
     introduce: 謎の勢力の「ネイト」の一員、マーキュラスに姉と呼ばれている。「お父様」を非常に尊敬している。それ以外の情報は全て不明。
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 5
@@ -1444,7 +1329,6 @@
     code: Roarer
     introduce: タリンに残された廃棄メカ。近距離戦闘タイプの大型重装甲ユニット。謎の勢力と関係があるらしい。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -1467,7 +1351,6 @@
     code: Thunder
     introduce: タリンに残された廃棄メカ。機体の下に搭載された砲台で攻撃を行う。敵から攻撃を受けた時はジャンプして回避する。謎の勢力と関係があるらしい。
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -1490,13 +1373,11 @@
     code: StreletPlus
     introduce: タリンに残された廃棄人形。「ストレリツィ」と似ている。より強力な武装を搭載しており、特殊な弾薬を使って敵の回避率を下げる。謎の勢力と関係があるらしい。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 1
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -1513,13 +1394,11 @@
     code: Isomer
     introduce: タリンに残された廃棄人形。自身に攻撃能力はないが、周囲の敵を目まい状態にすることができる。謎の勢力と関係があるらしい。
     forces: 3
-    if_capture: 0
     pow_rank: 1
     life_rank: 4
     hit_rank: 1
     dodge_rank: 5
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 1
     range_rank: 5
     counter: 正体不明,慎重に対処を！
@@ -1536,18 +1415,14 @@
     code: Pyxis
     introduce: 厄介な軽火力砲台。軍の火力に近い高速射撃システムを搭載している量産型基本作戦ユニット。設置後移動させることはできない。制圧戦によく使われる。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
-    dodge_rank: 0
     rate_rank: 5
     armor_rank: 2
-    speed_rank: 0
     range_rank: 5
     counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "309,308"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000067
     spine_scale: "100,100,1"
@@ -1559,7 +1434,6 @@
     code: Nyto_Isomer_White
     introduce: タリンに来たニモゲンのメンタルと融合し、その素体を奪った異性体。タリンの異性体全員を率いて、「離れる」ことを望んでいる。指揮官の部隊がタリンに来た後、M4こそが彼女たちをここから離れさせる「適合者」であると認定した。
     forces: 3
-    if_capture: 0
     pow_rank: 7
     life_rank: 6
     hit_rank: 5
@@ -1582,15 +1456,8 @@
     code: RecceCentre
     introduce: 「パスファインダー」を生産する軍の小型工場。自身の作戦能力は低く、機動性も低いが、大量の防衛部隊に守られていることが多い。
     forces: 2
-    if_capture: 0
-    pow_rank: 0
     life_rank: 6
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 高い装甲値を持ち、生きてる限りパスファインダーを生み続ける。アサルトライフルの人形は相性がイマイチ。ライフルの人形で処理するとよい。
     character: "309,321"
     enemy_skill: "21"
@@ -1605,7 +1472,6 @@
     code: Pathfinder
     introduce: 「レッキセンター」が生産する球体のユニット。「レッキセンター」の機能によって役割が異なる。軽火力を搭載し脆いが、機動力が高く、量産に向いている。
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -1628,13 +1494,11 @@
     code: Archer
     introduce: 軍の標準作戦人形。爆発する特殊な弓矢を武器として搭載している。非常に長い射程と高い命中率を有しているエリートユニット。
     forces: 2
-    if_capture: 0
     pow_rank: 3
     life_rank: 3
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 攻撃予告を行った位置に爆発し燃え続ける弓矢を撃ち込む。人形を指揮し適宜回避が必要。
@@ -1651,13 +1515,11 @@
     code: Beast
     introduce: 軍の標準作戦メカ。偏向障壁を有する近距離戦闘ユニット。敵の火力を受け止めつつ陣形を攪乱する役割を持つ。ただし攻撃手段に乏しく、基本的に壁にしかならない。
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 6
     range_rank: 2
     counter: 軽量の装甲を持ち、移動速度は速め。偏向障壁を展開し受けるダメージを最小化するため、射速が高いか、或いは多段攻撃を仕掛けるとよい。
@@ -1674,7 +1536,6 @@
     code: TeslaTrooper
     introduce: 軍部がオーダーした上級軍用メカ。強固な装甲とミサイルランチャーが搭載されている。様々な場面で活躍できる。
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -1697,18 +1558,14 @@
     code: GustafL_3
     introduce: 軍部がオーダーした上級軍用列車砲の前段。
     forces: 2
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 3
-    speed_rank: 0
     range_rank: 5
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
     character: "908,910,326"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000074
     spine_scale: "-15,15,1"
@@ -1720,18 +1577,14 @@
     code: GustafL_2
     introduce: 軍部がオーダーした上級軍用列車砲の中段。
     forces: 2
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 3
-    speed_rank: 0
     range_rank: 5
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
     character: "908,910,326"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000075
     spine_scale: "-15,15,1"
@@ -1743,18 +1596,14 @@
     code: GustafL_1
     introduce: 軍部がオーダーした上級軍用列車砲の後段。
     forces: 2
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 3
-    speed_rank: 0
     range_rank: 5
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
     character: "908,910,326"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000076
     spine_scale: "-15,15,1"
@@ -1766,7 +1615,6 @@
     code: Kratos
     introduce: 軍の特殊作戦人形。巨大なボディと強靭なパワーを備えている。敵を轢き殺すような突撃作戦が得意であり、部隊の先鋒としても盾としても非常に優秀である。
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 4
@@ -1789,15 +1637,8 @@
     code: Acheron
     introduce: 軍の特殊作戦装置。指定されたポイントに投下し設置することで、味方に偏向障壁を展開することができる。他のユニットと合わせて使う場合が多い。
     forces: 2
-    if_capture: 0
-    pow_rank: 0
     life_rank: 5
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 友軍に向けて偏向障壁を展開するため、長時間の交戦を避けるべきユニットが存在する場合は、後列を優先して攻撃する人形や、重装部隊の支援があるとよい。
     character: "1001,309,310"
     enemy_skill: "51"
@@ -1812,7 +1653,6 @@
     code: Coeus
     introduce: 軍の特殊作戦メカ。爆発的な瞬間火力と、ある程度の機動力を持ち合わせている。制圧作戦の切り札として使われることが多い。代替品が存在しないほどにずば抜けた性能を持つ。
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
@@ -1835,7 +1675,6 @@
     code: Ares
     introduce: 軍のエリートメカであり、元はとある軍人の専用機であった。性能がずば抜けており、最高峰の主砲、ミサイル、シールドを搭載し、あらゆる方面において圧倒的な強さを誇る。「罪を背負いし者」という異名を持つ。
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 6
@@ -1858,14 +1697,11 @@
     code: Eliza_boss
     introduce: リコが研究開発した上級人工知能。簡単な指令を出すだけで、ホストの「エリザ」が的確な作戦を演算してくれる。この上級ＡＩのホストには専属の戦術人形部隊がついており、ホストはネットワークシステムの遠隔操作によってこれらの人形に計画を実行させる。しかし実際のところ、「エリザ」はただのＡＩプログラムではない。リコの最終目標は、自己意識を備え、人類と同じ思考能力と知覚を備えたパーフェクトな人工知能を創り出すことだった。胡蝶事件後の「エリザ」は実体を手に入れ、すべての鉄血人形を管理下に置いた。そして「父」であるリコの敵討ちをするため、目に入るすべての人類と、鉄血以外の戦術人形を攻撃し始めた。そして「父」であるリコにとっての完璧なＡＩになる、つまり人類と同じ心を得ることを望み、父のデータから完全なＡＩサンプルを探し出そうとした。
     forces: 1
-    if_capture: 0
     pow_rank: 7
     life_rank: 6
     hit_rank: 5
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
-    speed_rank: 0
     range_rank: 5
     counter: 逆コーラップスの影響により人形は戦闘能力を失うが、宙に浮かされる点を生かし、避けがたい攻撃を回避しよう！
     character: "1001,900"
@@ -1880,12 +1716,9 @@
     type: 4
     code: Hydra_beach
     introduce: とある軍需企業が多額の資金を投じ造り上げた自律兵器。生体偽装の極致ともいえる設計を採用したとのふれこみだが、単に蟹をそのまま大きくしただけのようにも見える。メーカーもこれが企業を倒産に追い込んだ直接的な原因であると、否定的な見解を述べている模様。
-    forces: 0
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 6
     speed_rank: 1
@@ -1903,13 +1736,9 @@
     type: 4
     code: landmine_beach
     introduce: とある軍需企業が製造した旧式の自律兵器。生き物を模した兵器がコンセプトになっているようだが、出力の凶暴なまでの高さから「単なるバイオレンスシーフードマシン」と揶揄され、実戦投入を却下された経歴を持つ。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 2
     hit_rank: 4
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
@@ -1926,16 +1755,8 @@
     type: 2
     code: RecceCentre_beach
     introduce: とある軍需企業が製造した旧式の自律兵器。スイカモドキを生産するのに使われる施設だが、それを知らずに入ってくる観光客が、生産の妨げになってしまっているそうな。
-    forces: 0
-    if_capture: 0
-    pow_rank: 0
     life_rank: 6
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 高い装甲値を持ち、撃破されない限りスイカモドキを生み出し続ける。アサルトライフルは攻略に不向きなので、ライフルを使おう。
     character: "309,321"
     enemy_skill: "10021"
@@ -1949,8 +1770,6 @@
     type: 2
     code: Pathfinder_beach
     introduce: とある軍需企業が製造した旧式の自律兵器。美味しそうなものに偽装して敵を欺くことを目的に造られたが、検査員が本当に食べ物だと思って切ってしまう事故が起こっていたりする。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -1979,7 +1798,6 @@
     hit_rank: 3
     dodge_rank: 6
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 致命的なダメージを受けた際、一定量のダメージを軽減するシールドを展開するため、持久戦に備える必要がある。
@@ -1995,14 +1813,11 @@
     type: 3
     code: Cocktail
     introduce: 市街地に出現する危険分子。火炎瓶を投げ敵に持続ダメージを与える。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 2
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -2010,7 +1825,6 @@
     enemy_skill: "10087"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000087
-    spine_scale: ""
   }
   {
     id: 88
@@ -2018,22 +1832,17 @@
     type: 3
     code: Cottoncaper
     introduce: 前列に突撃をしてくる危険分子。驚嘆に値する勇気の持ち主。
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1001,300"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000088
-    spine_scale: ""
   }
   {
     id: 89
@@ -2041,14 +1850,11 @@
     type: 3
     code: Hiresniper
     introduce: 経験豊富な雇われ兵士。距離を保ちつつ敵を狙撃することを得意とする。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 1
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 主に後列に位置し、射速は遅めで、命中は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
@@ -2056,7 +1862,6 @@
     enemy_skill: "10005"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000089
-    spine_scale: ""
   }
   {
     id: 90
@@ -2064,22 +1869,17 @@
     type: 3
     code: Swordsman
     introduce: 鋭利な短刀を振り回す。優れた身体能力の持ち主。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 高めの破甲値を持っており、ショットガンの人形にとって危険な存在となるため、注意が必要。サブマシンガンや、ハンドガンなどの回避型の人形を前列に配置するとよい。
     character: "1001,303"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000090
-    spine_scale: ""
   }
   {
     id: 91
@@ -2087,8 +1887,6 @@
     type: 1
     code: CarcanoEnemy
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2102,7 +1900,6 @@
     enemy_skill: "10191,10091"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000091
-    spine_scale: ""
   }
   {
     id: 92
@@ -2110,22 +1907,17 @@
     type: 1
     code: HenEnemy
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: このユニットとの衝突を避ける。
     character: "1001,301"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000092
-    spine_scale: ""
   }
   {
     id: 93
@@ -2133,22 +1925,17 @@
     type: 1
     code: RicoEnemy
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: このユニットとの衝突を避ける。
     character: "1001,301"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000093
-    spine_scale: ""
   }
   {
     id: 94
@@ -2163,7 +1950,6 @@
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: ターゲットした敵ユニットへダメージと弱体化効果を与えるため、部隊配置を考えておく必要がある。
@@ -2180,13 +1966,11 @@
     code: Brute_SWAP
     introduce: 性能を大幅に強化したブルート。味方の装甲ユニットに対する大きな脅威となる。
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 高めの破甲値を持っており、ショットガンの人形にとって危険な存在となるため、注意が必要。サブマシンガンや、ハンドガンなどの回避型の人形を前列に配置するとよい。
@@ -2203,11 +1987,9 @@
     code: Nemeum_SWAP2
     introduce: 性能を大幅に強化したニーマム。精度の高さを活かした回避の難しい攻撃を行う。
     forces: 1
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
     armor_rank: 3
     speed_rank: 3
@@ -2225,19 +2007,15 @@
     type: 3
     code: refugee_hg
     introduce: コーラップス放射線を浴びた人間の成れの果て。理性をある程度保っており、軽火器を用い敵と戦闘を行う。
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000097
     spine_scale: "100,100,1"
@@ -2248,19 +2026,15 @@
     type: 3
     code: refugee_smg
     introduce: コーラップス放射線を浴びた人間の成れの果て。感染が深刻なため、性格が凶暴になっている。敵を滅ぼすまで止まることはない。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000098
     spine_scale: "100,100,1"
@@ -2276,8 +2050,6 @@
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 3
     speed_rank: 3
     range_rank: 1
@@ -2294,19 +2066,15 @@
     type: 3
     code: Ripper_Halloween
     introduce: お祭り仕様の鉄血のダミー。射程の短いSMGと何の役にも立たない頭部防具を装備している。機動性が高く、戦闘時はジャックオーランタンの彫刻師か、ジャックオーランタンを灯として持つ警備兵として登場する。
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000101
     spine_scale: "90,90,1"
@@ -2317,19 +2085,15 @@
     type: 3
     code: Jaeger_Halloween
     introduce: お祭り仕様の鉄血のダミー。狙撃銃を装備し、高い火力と命中精度を持つ。入念に塗りたくった鱗粉により発光しているが、本体の脆さは据え置きとなっている。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 1
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 主に後列に位置し、射速は遅めで、命中は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
     character: "307"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000102
     spine_scale: "80,80,1"
@@ -2340,22 +2104,17 @@
     type: 3
     code: Dragon_Halloween
     introduce: お祭り仕様の鉄血の上級ダミー。試作段階の空中浮遊装置、反重力魔女帽子、そしてARを備えており、火力はもちろんのこと、射程、機動性のいずれをとっても甘く見てはならない存在。よくデストロイヤーをビックリさせては、木っ端みじんに爆破される。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 3
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "304"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000103
-    spine_scale: ""
   }
   {
     id: 104
@@ -2363,22 +2122,17 @@
     type: 5
     code: Aegis_Halloween
     introduce: 元は戦場を渡り歩く騎士であったが、悪魔にその身を侵食された後に悪魔騎士となった。その際に記憶の全てを失ってしまっているが、彼の中には、何かを守らねばならぬという想いが残されている。
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 4
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
     counter: 装甲を持つため、部隊の貫通性能に注意しよう。
     character: "303,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000104
-    spine_scale: ""
   }
   {
     id: 105
@@ -2386,22 +2140,17 @@
     type: 4
     code: Nemeum_Halloween
     introduce: 元は勇猛果敢な軍馬であったが、襲撃を受け、悪魔の戦馬になり下がってしまった。その際に記憶の全てを失ってしまっているが、彼の中には、何かを守らねばならぬという想いが残されている。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 1
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
     counter: 装甲を持ち、後列にいることが多い。射速は遅く、命中と火力は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
     character: "309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000105
-    spine_scale: ""
   }
   {
     id: 106
@@ -2409,22 +2158,16 @@
     type: 2
     code: Dinergate_chm1
     introduce: 鉄血のクリスマス用低級機甲。運搬能力の低さはパートナーであるトナカイドッグが補っており、通常はクリスマスの雰囲気を盛り上げるために運用される。なお、既定のプレゼント輸送ルートに障害物がある場合、それらに突撃して進もうとするため、ドアの位置は変えないように。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 近接戦闘の攻撃力は極めて高いが、生存能力は低いため、範囲攻撃のスキルを持つ人形や、アサルトライフルの人形で素早く片付けるのが望ましい。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000106
-    spine_scale: ""
   }
   {
     id: 107
@@ -2432,22 +2175,16 @@
     type: 2
     code: Dinergate_chm2
     introduce: 鉄血の低級運送用ユニット。通常、クリスマスの雰囲気を盛り上げるために運用される。なお、既定のプレゼント輸送ルートに障害物がある場合、それらに突撃して進もうとするため、ドアの位置は変えないように。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 近接戦闘の攻撃力は極めて高いが、生存能力は低いため、範囲攻撃のスキルを持つ人形や、アサルトライフルの人形で素早く片付けるのが望ましい。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000107
-    spine_scale: ""
   }
   {
     id: 108
@@ -2455,22 +2192,17 @@
     type: 3
     code: Guard_chm
     introduce: ジンジャークッキーの盾とキャンディケインを装備した、鉄血のクリスマス用上級ダミー。見るだけで胸やけしそうな甘ったるい外見に違わず、基本、重要度の高いキッチンの守護を仰せつかっているが……デストロイヤーを装って飴を盗みに忍び込んでくるドリーマーの迎撃に駆り出されることも。
-    forces: 0
-    if_capture: 0
     pow_rank: 1
     life_rank: 4
     hit_rank: 3
     dodge_rank: 1
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 近接戦闘ユニットであり、防御力が比較的高いが、攻撃力はそれほどでもない。しかし、ガードに守られた高火力ユニットが脅威となるため、適切な銃種を選択し、後列の敵を優先して処理しよう。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000108
-    spine_scale: ""
   }
   {
     id: 109
@@ -2479,13 +2211,11 @@
     code: Narciss
     introduce: パラデウスの「ネイト」の一体。とある失敗により、仲間を遥かに上回る戦闘能力を得るに至った。暴風雨のような攻撃を得意としており、目の前の敵全てを粉々に打ち砕く。破壊に快楽を見出している。
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 近接戦闘/遠距離の2パターンの攻撃スタイルを持つ。浮遊しているブレードを7枚全て破壊すると、遠距離から近接戦闘へと切り替える。近接戦闘モード時は、リンク数の少ない敵に極大ダメージを与える。
@@ -2493,7 +2223,6 @@
     enemy_skill: "108,109,110"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000109
-    spine_scale: ""
   }
   {
     id: 110
@@ -2502,13 +2231,11 @@
     code: Mrsgray
     introduce: パラデウスの「ネイト」の一体。医学に精通しており、聡明かつ冷静。有利な要素全てを戦いに生かし、優勢に立つことに長ける。
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 増援を呼び継続的な脅威となる。様々な制限やCT延長を付与し、味方の火力を削る。短時間に大ダメージを与えることが求められる。
@@ -2516,7 +2243,6 @@
     enemy_skill: "113,114,115"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000110
-    spine_scale: ""
   }
   {
     id: 111
@@ -2525,21 +2251,12 @@
     code: Morridow_nor
     introduce: パラデウスの「ネイト」の一体。狡猾かつ陰険で、変わり身が早い。
     forces: 3
-    if_capture: 0
-    pow_rank: 0
-    life_rank: 0
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 5
-    range_rank: 0
     counter: こちらと戦う意思は無いようだ。他の脅威となるネイトとの戦いに備えよう。
     character: "1001,900"
     enemy_skill: "116"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000111
-    spine_scale: ""
   }
   {
     id: 112
@@ -2548,13 +2265,11 @@
     code: Morridow
     introduce: パラデウスの「ネイト」の一体。狡猾かつ陰険で、変わり身が早い。蜘蛛のように罠を張り戦う、謎の代弁者。攻撃されるまで、彼女の影を捉えられるものはいない。
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 1
-    armor_rank: 0
     speed_rank: 6
     range_rank: 2
     counter: 味方の行動を制限すると同時に、急速に接近し、味方に大ダメージを与える。接近中は無防備なので、その間に攻撃しよう。
@@ -2562,7 +2277,6 @@
     enemy_skill: "111,112"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000112
-    spine_scale: ""
   }
   {
     id: 113
@@ -2570,22 +2284,17 @@
     type: 3
     code: Plaincloth
     introduce: とある任務でここに来たシュタージ構成員。追跡と生存が彼らの得意分野。生きてこそ価値を生み出せる、彼らはそれをよく分かっているのだろう。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
-    speed_rank: 0
     range_rank: 4
     counter: 前方のユニットを無視して自軍後方のラインへと移動できる。前方に他のユニットがいる場合、自身の回避が大幅に上昇する。前衛のユニットすぐに排除するか、命中値の高いユニットで対処しよう。
     character: "1001,327"
     enemy_skill: "100,101"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000113
-    spine_scale: ""
   }
   {
     id: 114
@@ -2593,14 +2302,11 @@
     type: 3
     code: Mobster
     introduce: 旧市街区にて活動しているレジスタンスメンバー。闇の住人である彼らにとって法律はジョークとさして変わりなく、自身のルールに従って生きている。粗悪な手製の投擲物で、必中の信念を胸に最も近い目標に攻撃を行う。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 2
     dodge_rank: 2
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 6
     range_rank: 3
     counter: 接近したユニットに必中の大ダメージを与える。距離を保ち、火炎瓶の効果範囲に入らないように注意しよう。
@@ -2608,7 +2314,6 @@
     enemy_skill: "102,103"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000114
-    spine_scale: ""
   }
   {
     id: 115
@@ -2617,13 +2322,11 @@
     code: Punish
     introduce: 強固な盾、もしくはアタッカーを担う近接戦闘ユニット。分厚い盾と突撃武器を手に、戦場を暴れ回る。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 6
     range_rank: 3
     counter: 移動時、被ダメージが減少する。味方の前方で停止したところでスキルを使用し撃破するとよい。
@@ -2631,7 +2334,6 @@
     enemy_skill: "104"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000115
-    spine_scale: ""
   }
   {
     id: 116
@@ -2640,13 +2342,11 @@
     code: Cherub
     introduce: レーザーでHPの多いユニットに攻撃を行う特化型作戦ユニット。攻撃は単一的だが一点に向けて行われるため、自軍の陣形を貫通する致命的なダメージを与える。
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 3
     counter: リンク数の少ないユニットに追加で大ダメージを与える。リンク数の多いユニットで優先的に処理しよう。
@@ -2654,7 +2354,6 @@
     enemy_skill: "105"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000116
-    spine_scale: ""
   }
   {
     id: 117
@@ -2663,13 +2362,11 @@
     code: Visjnoe
     introduce: 戦場に設置された戦術マシン。人形を含む機会ユニットにのみ反応する。相手のバフを取り除くと同時に自軍のデバフも取り除く、非常に厄介な支援ユニット。
     forces: 3
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 戦場にいる間、味方のバフと敵のデバフを取り除く。バフに頼らずに火力を出せる部隊で対処しよう。
@@ -2677,7 +2374,6 @@
     enemy_skill: "106,107"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000117
-    spine_scale: ""
   }
   {
     id: 118
@@ -2686,7 +2382,6 @@
     code: Roarer_New
     introduce: 近接戦闘を大型の重装ユニット。謎の勢力と関連がある。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -2709,7 +2404,6 @@
     code: Thunder_New
     introduce: 機体下部に搭載された砲台で攻撃を行う。攻撃を受けた際は跳躍をし回避を行う。謎の勢力と関連がある。
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2732,13 +2426,11 @@
     code: Soldier_New
     introduce: ストレリツィと非常によく似ているが、より火力の高い武器が搭載されている。特殊な弾薬を用いて、自軍の回避を低下させる。謎の勢力と関連がある。
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 1
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -2754,19 +2446,15 @@
     type: 3
     code: Vespid_bride
     introduce: 静寂に包まれた洋館に、煌びやかなウェディングドレスへの執念を断ち切れない怨念が徘徊している。しかし決してその美しい外見に惑わされてはならないし、彼女がブーケをトスしてきても必ず避けなければならない。
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 2
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000121
     spine_scale: "100,100,1"
@@ -2777,19 +2465,15 @@
     type: 3
     code: Brute_Ghost
     introduce: 静けさが支配した館に時として聞こえる嗚咽、それに応える者はもう長い間いない。廊下の角を曲がる時、突如として現れる白い光に君は注意しなくてはならない――それが幽霊であろうと、幽霊の持つ刃であろうと、きっと良い出来事の前触れではないのだから。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 高めの破甲値を持っており、ショットガンの人形にとって危険な存在となるため、注意が必要。サブマシンガンや、ハンドガンなどの回避型の人形を前列に配置するとよい。
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000122
     spine_scale: "85,85,1"
@@ -2800,16 +2484,9 @@
     type: 2
     code: RecceCentreSwim
     introduce: 密輸の都合上、サメの楽園へとカムフラージュを施された違法兵器、サメバリボーの生産が主な機能。輸送中、その可愛らしいカムフラージュによって子供たちからの人気を博した。
-    forces: 0
     if_capture: 1
-    pow_rank: 0
     life_rank: 6
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 高い装甲値を持ち、生きてる限りサメバリボーを生み続ける。アサルトライフルの人形は相性がイマイチ。ライフルの人形で処理するとよい。
     character: "309,321"
     enemy_skill: "21"
@@ -2823,8 +2500,6 @@
     type: 2
     code: PathfinderSwim
     introduce: 密輸の都合上、バレーボールへとカムフラージュを施された違法兵器。カムフラージュの効果があまりに絶大だったため、輸送中に「爆裂式スパイク」が打ち出されるという事故が起きた。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -2846,14 +2521,11 @@
     type: 3
     code: CyclopsSwim
     introduce: 客船専用のサービス用人形。ウエーター、及び警備人形としての機能を兼ね備えており、視認した状況によってモードを変更する。必要に応じて手動での操作も可能。
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 4
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
@@ -2881,7 +2553,6 @@
     range_rank: 5
     counter: enemy_illustration-30000126
     character: "1001,208,309"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: enemy_illustration-40000126
     spine_scale: "85,85,1"
@@ -2892,8 +2563,6 @@
     type: 3
     code: HKCAWS_XmasEnemy
     introduce: 必要だったプレゼント、全部買ってきたよ。とりあえず119個分にかかったお金、払ってもらってもいいかな？……あとの一つはどうしたかって？それは……私があなたに渡す分だから。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2907,7 +2576,6 @@
     enemy_skill: "141"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000141
-    spine_scale: ""
   }
   {
     id: 142
@@ -2915,8 +2583,6 @@
     type: 3
     code: VSK_XmasEnemy
     introduce: 私はプレゼントを贈りに来ただけですので、言う通りにしてください。緊張する必要はありませんよ……って、余計に緊張しちゃいましたか？すみません、ボス、これは職業病ですね。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2930,7 +2596,6 @@
     enemy_skill: "142"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000142
-    spine_scale: ""
   }
   {
     id: 143
@@ -2938,8 +2603,6 @@
     type: 3
     code: P7_XmasEnemy
     introduce: おやおや、最終的に指揮官もわたしに落とされたね～
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2953,7 +2616,6 @@
     enemy_skill: "143"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000143
-    spine_scale: ""
   }
   {
     id: 144
@@ -2961,8 +2623,6 @@
     type: 3
     code: FP6_XmasEnemy
     introduce: サンタクロースの任務がこんなに大変だとは思わなかったわ……あのおじいさんはあんなに太ってるのにどうやって入ってるのかしら？
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2976,7 +2636,6 @@
     enemy_skill: "144"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000144
-    spine_scale: ""
   }
   {
     id: 145
@@ -2984,8 +2643,6 @@
     type: 3
     code: Type100_XmasEnemy
     introduce: よいしょ……ふぅ、ようやく掘り出せました……ん？これは……わぁ！やったー！最高のプレゼントです！
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2999,7 +2656,6 @@
     enemy_skill: "145"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000145
-    spine_scale: ""
   }
   {
     id: 146
@@ -3007,8 +2663,6 @@
     type: 1
     code: Px4Storm_XmasBoss
     introduce: クリスマスセールのためにクリスマスは存在してるって言っても過言ではないよね。だって、割引された値段だけがわたしの幸福を倍にしてくれるんだもの～
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3022,7 +2676,6 @@
     enemy_skill: "146,147,148,149,150"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000146
-    spine_scale: ""
   }
   {
     id: 100001
@@ -3031,7 +2684,6 @@
     code: Gebbennu
     introduce: 謎に包まれた超大型複合式戦闘ユニット。火力が極めて高いこと以外、すべてが謎。
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 7
     hit_rank: 5
@@ -3042,10 +2694,8 @@
     range_rank: 5
     counter: 未実装
     character: "1001,309"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100001
-    spine_scale: ""
   }
   {
     id: 100011
@@ -3053,8 +2703,6 @@
     type: 3
     code: DivMauler
     introduce: 予想外のエネミー。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3065,10 +2713,8 @@
     range_rank: 5
     counter: 味方に接近したところでスキルを使用し、すぐさま撃破しよう。
     character: "401,402"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100011
-    spine_scale: ""
   }
   {
     id: 100012
@@ -3076,8 +2722,6 @@
     type: 3
     code: DivGrenadier
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3088,10 +2732,8 @@
     range_rank: 5
     counter: 攻撃予告を行った位置に中程度の燃焼ダメージを与える。人形を指揮し適宜回避が必要。
     character: "403"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100012
-    spine_scale: ""
   }
   {
     id: 100013
@@ -3099,8 +2741,6 @@
     type: 3
     code: DivSweeper
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3111,10 +2751,8 @@
     range_rank: 5
     counter: このユニットが移動する際は要注意。左右にいる人形を利用し注意を引き付けよう。また、火炎放射器から繰り出される範囲ダメージは、人形を指揮し適宜回避が必要。
     character: "1001,404,415"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100013
-    spine_scale: ""
   }
   {
     id: 100014
@@ -3122,8 +2760,6 @@
     type: 3
     code: DivRunner
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3134,10 +2770,8 @@
     range_rank: 5
     counter: 敵ユニットの移動を阻止し、このユニットが接近してくる前にダメージを与え撃破しよう。
     character: "1001,405"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100014
-    spine_scale: ""
   }
   {
     id: 100015
@@ -3145,8 +2779,6 @@
     type: 3
     code: DivGuard
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3157,10 +2789,8 @@
     range_rank: 5
     counter: 攻撃予告を行った位置に中程度の範囲ダメージを与える。人形を指揮し適宜回避が必要。部隊全体の耐久力を高めることでも対応可能。
     character: "1001,406,407"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100015
-    spine_scale: ""
   }
   {
     id: 100016
@@ -3168,8 +2798,6 @@
     type: 3
     code: DivExecutor
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3180,10 +2808,8 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100016
-    spine_scale: ""
   }
   {
     id: 100017
@@ -3191,8 +2817,6 @@
     type: 3
     code: DivRifleman
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3203,10 +2827,8 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "408"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100017
-    spine_scale: ""
   }
   {
     id: 100018
@@ -3214,8 +2836,6 @@
     type: 3
     code: DivScout
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3226,10 +2846,8 @@
     range_rank: 5
     counter: 攻撃予告を行った位置に範囲ダメージを与える。攻撃を受けた味方ユニットは弱体化してしまうので、後衛の人形を指揮し適宜回避させよう。
     character: "409,410"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100018
-    spine_scale: ""
   }
   {
     id: 100019
@@ -3237,8 +2855,6 @@
     type: 3
     code: DivEngineer
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3249,10 +2865,8 @@
     range_rank: 5
     counter: 自身の周囲に高威力のタレットを設置するエンジニア。範囲攻撃で彼の仕事を邪魔してやろう。
     character: "411,412,413"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100019
-    spine_scale: ""
   }
   {
     id: 100020
@@ -3260,8 +2874,6 @@
     type: 3
     code: DivTraitor
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3272,10 +2884,8 @@
     range_rank: 5
     counter: 味方に粘着爆弾を設置された場合、速やかにほかの人形がいない場所に移動させよう。さもないと他の味方もろとも中程度ダメージを受ける羽目になる。
     character: "1001,414,415"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100020
-    spine_scale: ""
   }
   {
     id: 100021
@@ -3283,8 +2893,6 @@
     type: 1
     code: AK47_enemy
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3295,10 +2903,8 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。うん。
     character: "1001,423"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100021
-    spine_scale: ""
   }
   {
     id: 100022
@@ -3306,8 +2912,6 @@
     type: 1
     code: DivBurn
     introduce: 街中を彷徨うクリーナーズの構成員。汚染された物を全て焼き払うことで街を救えると信じている。一度目を付けた目標は決して逃さず、焼き尽くすまで追い続ける。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3318,10 +2922,8 @@
     range_rank: 5
     counter: 街中を彷徨うクリーナーズの構成員。汚染された物を全て焼き払うことで街を救えると信じている。一度目を付けた目標は決して逃さず、焼き尽くすまで追い続ける。当該ユニットの背中にある弱点をピンポイントで攻撃することで撃破可能。
     character: "1001,417,404,416"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100022
-    spine_scale: ""
   }
   {
     id: 100023
@@ -3329,8 +2931,6 @@
     type: 1
     code: HK416Boss
     introduce: 416と同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。LMBを指揮できる能力を持っていること以外、すべてが謎だ。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3341,10 +2941,8 @@
     range_rank: 5
     counter: 416と同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。LMBを指揮できる能力を持っていること以外、すべてが謎だ。
     character: "1001,420,421,422"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100023
-    spine_scale: ""
   }
   {
     id: 100024
@@ -3352,8 +2950,6 @@
     type: 1
     code: VectorBoss
     introduce: Vectorと同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。クリーナーズを指揮できる能力を持っていること以外、すべてが謎だ。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3364,10 +2960,8 @@
     range_rank: 5
     counter: Vectorと同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。クリーナーズを指揮できる能力を持っていること以外、すべてが謎だ。
     character: "1001,419,418,416"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100024
-    spine_scale: ""
   }
   {
     id: 100025
@@ -3375,8 +2969,6 @@
     type: 1
     code: HK416Boss
     introduce: 416と同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。LMBを指揮できる能力を持っていること以外、すべてが謎だ。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3387,10 +2979,8 @@
     range_rank: 5
     counter: 移動して射撃！強大な敵に打ち勝て！
     character: "1001,424,425"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100025
-    spine_scale: ""
   }
   {
     id: 100026
@@ -3398,8 +2988,6 @@
     type: 1
     code: VectorBoss
     introduce: Vectorと同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。クリーナーズを指揮できる能力を持っていること以外、すべてが謎だ。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3410,10 +2998,8 @@
     range_rank: 5
     counter: 移動して射撃！強大な敵に打ち勝て！
     character: "1001,424,425"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100026
-    spine_scale: ""
   }
   {
     id: 100027
@@ -3421,8 +3007,6 @@
     type: 1
     code: Vector_enemy
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3433,10 +3017,8 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1001,300"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100027
-    spine_scale: ""
   }
   {
     id: 100028
@@ -3444,8 +3026,6 @@
     type: 3
     code: Dropkick_MeleeDevil
     introduce: 予想外のエネミー。
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3456,10 +3036,8 @@
     range_rank: 5
     counter: 極めて高い防御力を持つ前衛ユニット。高徹甲弾ですぐに撃破可能。
     character: "1001,303,309"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100028
-    spine_scale: ""
   }
   {
     id: 100029
@@ -3467,8 +3045,6 @@
     type: 3
     code: Dropkick_RemoteDevil
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3479,10 +3055,8 @@
     range_rank: 5
     counter: 極めて高い防御力を持つ後衛ユニット。高徹甲弾ですぐに撃破可能。
     character: "1001,309"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100029
-    spine_scale: ""
   }
   {
     id: 100030
@@ -3490,8 +3064,6 @@
     type: 3
     code: Dropkick_IceGhost
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3502,10 +3074,8 @@
     range_rank: 5
     counter: ターゲットの受けた氷結マークの数に応じたダメージを与える。迅速に倒すことを推奨。
     character: "1001,315,324,329"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100030
-    spine_scale: ""
   }
   {
     id: 100031
@@ -3513,8 +3083,6 @@
     type: 3
     code: Dropkick_CyclopsChan
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3525,10 +3093,8 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1001,303"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100031
-    spine_scale: ""
   }
   {
     id: 100032
@@ -3536,8 +3102,6 @@
     type: 3
     code: Dropkick_BeansEmissary
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3548,10 +3112,8 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1001,324"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100032
-    spine_scale: ""
   }
   {
     id: 100033
@@ -3559,8 +3121,6 @@
     type: 3
     code: Dropkick_Beth
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3571,10 +3131,8 @@
     range_rank: 5
     counter: 非常に高い機動力を持つ。敵の与ダメージを上昇させ、噛みつかれたユニットはCTが増加する。迅速に倒すことを推奨。
     character: "1001,304,333"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100033
-    spine_scale: ""
   }
   {
     id: 100034
@@ -3582,8 +3140,6 @@
     type: 1
     code: Dropkick_YurineBoss
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3594,10 +3150,8 @@
     range_rank: 5
     counter: 強化された魔物を召喚し、強固なシールドを付与する。また、自身の正面へ強大な範囲攻撃を頻繁に行うが、強力な攻撃ユニットを制御している間は弱点が露わになるので、その隙に彼女を撃破しよう！
     character: "1001,321,329"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100034
-    spine_scale: ""
   }
   {
     id: 100035
@@ -3605,8 +3159,6 @@
     type: 1
     code: Dropkick_MinosBoss
     introduce: 予想外のエネミー
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3617,10 +3169,8 @@
     range_rank: 5
     counter: 怒りが極限に達したミノス。避けることが最善の選択である。
     character: "1001,329"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100035
-    spine_scale: ""
   }
   {
     id: 100082
@@ -3629,13 +3179,11 @@
     code: Brute_SWAP
     introduce: 「ブルート」をベースに性能を大幅に向上した。戦闘でより一層の活躍を期待できる。
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 高めの破甲値を持っており、ショットガンの人形にとって危険な存在となるため、注意が必要。サブマシンガンや、ハンドガンなどの回避型の人形を前列に配置するとよい。
@@ -3643,7 +3191,6 @@
     enemy_skill: "54,55"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100082
-    spine_scale: ""
   }
   {
     id: 100083
@@ -3652,11 +3199,9 @@
     code: Nemeum_SWAP2
     introduce: 「ニーマム」をベースに性能を大幅に向上した。戦闘でより一層の活躍を期待できる。
     forces: 1
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 6
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 4
     speed_rank: 4
@@ -3666,6 +3211,5 @@
     enemy_skill: "56"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100083
-    spine_scale: ""
   }
 ]
