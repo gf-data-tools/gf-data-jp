@@ -1,7 +1,7 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.DeploymentTeamController)
 
---修正梯队被替换数据问题
+--修正梯队被替换数据问题--直接修改会造成第三方敌方交战报错
 local Fade = function(self)
 	self:Fade();
 	if self.currentSpot.currentTeam == self and self.currentSpot.currentTeamTemp ~= nil then
@@ -31,7 +31,7 @@ local Start = function(self)
 		self.offset = CS.UnityEngine.Vector3(0,0,80);
 	end
 end
-util.hotfix_ex(CS.DeploymentTeamController,'Fade',Fade)
-util.hotfix_ex(CS.DeploymentTeamController,'Die',Die)
+--util.hotfix_ex(CS.DeploymentTeamController,'Fade',Fade)
+--util.hotfix_ex(CS.DeploymentTeamController,'Die',Die)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferComplete',TransferComplete)
 --util.hotfix_ex(CS.DeploymentTeamController,'Start',Start)
