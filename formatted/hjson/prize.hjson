@@ -8539,6 +8539,13 @@
     icon: Bumdle_katsudon
   }
   {
+    id: 1190
+    name: prize-10001190
+    gem: 90
+    equip_ids: "237"
+    content: prize-20001190
+  }
+  {
     id: 1196
     name: prize-10001196
     gem: 120
@@ -10450,6 +10457,36 @@
     content: prize-20004281
   }
   {
+    id: 4283
+    name: prize-10004283
+    item_ids: 1835-1
+    content: prize-20004283
+  }
+  {
+    id: 4290
+    name: prize-10004290
+    sangvis: "1015"
+    content: prize-20004290
+  }
+  {
+    id: 4291
+    name: prize-10004291
+    item_ids: 1930-1
+    content: prize-20004291
+  }
+  {
+    id: 4294
+    name: prize-10004294
+    sangvis: "2015"
+    content: prize-20004294
+  }
+  {
+    id: 4296
+    name: prize-10004296
+    item_ids: 1988-1
+    content: prize-20004296
+  }
+  {
     id: 5001
     name: カフェPV報酬-2018年9月大型イベント
     furniture: "2004"
@@ -10586,6 +10623,18 @@
     name: prize-10005023
     furniture: "2080"
     content: prize-20005023
+  }
+  {
+    id: 5024
+    name: カフェPV報酬-2022年7月大型イベント-Decalcomanie
+    furniture: "20024"
+    content: 報酬受領
+  }
+  {
+    id: 5026
+    name: カフェPV報酬-2022年7月大型イベント-Protean
+    furniture: "20026"
+    content: 報酬受領
   }
   {
     id: 6001
@@ -28557,6 +28606,62 @@
     content: prize-20094252
     send_limit: 1
     commander_uniform: "4252"
+  }
+  {
+    id: 94511
+    name: prize-10094511
+    content: prize-20094511
+    send_limit: 1
+    commander_uniform: "4511"
+  }
+  {
+    id: 94512
+    name: prize-10094512
+    content: prize-20094512
+    send_limit: 1
+    commander_uniform: "4512"
+  }
+  {
+    id: 94520
+    name: prize-10094520
+    content: prize-20094520
+    send_limit: 1
+    commander_uniform: "4520"
+  }
+  {
+    id: 94531
+    name: prize-10094531
+    content: prize-20094531
+    send_limit: 1
+    commander_uniform: "4531"
+  }
+  {
+    id: 94532
+    name: prize-10094532
+    content: prize-20094532
+    send_limit: 1
+    commander_uniform: "4532"
+  }
+  {
+    id: 94540
+    name: prize-10094540
+    content: prize-20094540
+    send_limit: 1
+    commander_uniform: "4540"
+  }
+  {
+    id: 94551
+    name: prize-10094551
+    content: prize-20094551
+    send_limit: 1
+    commander_uniform: "4551"
+  }
+  {
+    id: 94552
+    name: prize-10094552
+    content: prize-20094552
+    send_limit: 1
+    commander_uniform: "4552"
   }
   {
     id: 99999

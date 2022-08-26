@@ -24465,6 +24465,36 @@
     interact_point_offset: "0,0,0"
   }
   {
+    id: 20024
+    name: ポスター-鏡像論-Decalcomanie
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2022年7月大型イベント-鏡像論-Decalcomanie限定ポスター
+    code: pv_2021winter
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
+    id: 20026
+    name: ポスター-鏡像論-Protean
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2022年7月大型イベント-鏡像論-Protean限定ポスター
+    code: pv_2021winter_Protean
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 20028
     name: 秘密のレコード
     classes: 81
@@ -25670,6 +25700,51 @@
     rotate: "3"
   }
   {
+    id: 30550
+    name: 樹間の朝日
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4A1のポスター。
+    code: poster_Carnival2021_M4A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30551
+    name: 森の鳴き声
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4 SOPMOD IIのポスター。
+    code: poster_Carnival2021_M4 SOPMOD II
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30552
+    name: 春日の幻風
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ST AR-15のポスター。
+    code: poster_Carnival2021_AR15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30553
     name: 墟上の烈日
     classes: 300
@@ -25679,6 +25754,21 @@
     decompose_gift: 100003
     description: M16A1のポスター。
     code: poster_Carnival2021_M16A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30554
+    name: 水中に融ける月
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RO635のポスター。
+    code: poster_Carnival2021_RO635
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -25754,6 +25844,96 @@
     decompose_gift: 100003
     description: UMP40のポスター。
     code: poster_Carnival2021_UMP40
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30560
+    name: 厳粛な行進
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M200のポスター。
+    code: poster_Carnival2021_M200
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30561
+    name: セレナーデ第10番
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG Paraのポスター。
+    code: poster_Carnival2021_AUGPARA
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30562
+    name: 滑稽な白鳥の湖
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VHSのポスター。
+    code: poster_Carnival2021_VHS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30563
+    name: 悠思の朝
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 劉氏歩槍のポスター。
+    code: poster_Carnival2021_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30564
+    name: 即興狂想曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr SL8のポスター。
+    code: poster_Carnival2021_SL8
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30565
+    name: 輝きの観測者
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr G36のポスター。
+    code: poster_Carnival2021_G36
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

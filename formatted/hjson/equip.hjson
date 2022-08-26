@@ -7071,6 +7071,39 @@
     obtain_ids: "3007"
   }
   {
+    id: 237
+    name: MkV可動性外骨格
+    description:
+      '''
+      回避+<dodge>
+      移動速度+<speed>スキル強化$グリズリーMkⅤ専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "10,20"
+    speed: "3,3"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形装备_外骨骼_灰熊MkV
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "96"
+    equip_introduction: グリズリーMkVからの要望で開発された新型可動性外骨格。レトロな外観だが、性能は見た者を驚かせるグリズリーの愛用品。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: dodge:500
+    passive_skill: "100507"
+    max_level: 10
+    auto_select_id: 20037
+    is_show: 1
+    obtain_ids: "3008"
+  }
+  {
     id: 243
     name: 専用オプティカルサイト
     description:

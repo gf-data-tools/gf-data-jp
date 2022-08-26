@@ -4020,6 +4020,110 @@
     classification_id: 4000
   }
   {
+    id: 4511
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: オシャレな前髪
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94511
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4512
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 大人びたロングヘア
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94512
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4520
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 日常のサプライズ
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94520
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4531
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 未来への期待
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94531
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4532
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 今の憩い
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94532
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4540
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 個性ある小道具
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94540
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4551
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: ビジネスホットパンツ
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94551
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
+    id: 4552
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 願いの革靴
+    event_code: dailyGiftbag
+    discount: 1.0
+    prize_id: 94552
+    on_sale_days: 30
+    classification_id: 4000
+  }
+  {
     id: 10017
     type: 8
     sort: 11
@@ -10980,11 +11084,7 @@
     gemprice: 1280
     if_cheap: 1
     quota: 2001
-    giftbag_name:
-      '''
-      ラビットスキンパック
-      (M4 SOPMOD Ⅱ)
-      '''
+    giftbag_name: ラビットスキンパック(M4 SOPMOD Ⅱ)
     event_code: dailyGiftbag
     icon: Bumdle_rabbit
     discount: 1.0
@@ -22977,7 +23077,6 @@
     item_ids: 7-1,41-100
     gift: 5803-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(M82A1)
     event_code: dailyGiftbag
@@ -22991,7 +23090,6 @@
     item_ids: 7-1,41-100
     gift: 5804-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(VSK94)
     event_code: dailyGiftbag
@@ -23086,6 +23184,88 @@
     giftbag_name: 融合勢力専用補給パック
     event_code: dailyGiftbag
     icon: Bumdle_yuugo01
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 31302
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 562-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(VHS)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin06
+    discount: 1.0
+    classification_id: 3003
+  }
+  {
+    id: 31303
+    type: 8
+    item_ids: 41-100
+    gift: 564-1
+    gemprice: 1998
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(Gr SL8)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin07
+    discount: 1.0
+    classification_id: 3003
+  }
+  {
+    id: 31304
+    type: 8
+    item_ids: 7-1,41-50
+    gift: 565-1
+    gemprice: 1888
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(Gr G36)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: 1.0
+    classification_id: 3003
+  }
+  {
+    id: 31305
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 560-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(M200)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin08
+    discount: 1.0
+    classification_id: 3003
+  }
+  {
+    id: 31306
+    type: 8
+    item_ids: 8-1,41-100,506-1000
+    gift: 100003-10
+    gemprice: 580
+    quota: 2002
+    giftbag_name: 9月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_aki2
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 31307
+    type: 8
+    item_ids: 506-100,515-200,605-1
+    gemprice: 158
+    quota: 2001
+    giftbag_name: 9月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_red
+    daily_quota: 1
     discount: 1.0
     classification_id: 3002
   }

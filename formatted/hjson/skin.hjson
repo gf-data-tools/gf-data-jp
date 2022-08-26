@@ -912,6 +912,39 @@
     class_id: 53
   }
   {
+    id: 550
+    name: 樹間の朝日
+    fit_gun: 55
+    voice: 4
+    dialog: こうしてみんなと一緒に、同じことのために頑張るのが、一番大好きです……えっ、私の番ですか？は、はい！行きます！
+    note: skin-30000550
+    illustrator_cv: 暖森,戸松遥,
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 551
+    name: 森の鳴き声
+    fit_gun: 56
+    voice: 4
+    dialog: わぁ！これ吹くと面白そう！叩いてもいい音が出るよ！こうやって、爪でトントンすると……え？ダメなの？なんで？
+    note: skin-30000551
+    illustrator_cv: 暖森,田村ゆかり,
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 552
+    name: 春日の幻風
+    fit_gun: 57
+    voice: 4
+    dialog: 運指はそんなに難しくなさそう。問題ないわ、いつでもいける。あなたたちは？
+    note: skin-30000552
+    illustrator_cv: 暖森,加藤英美里,
+    order: 68
+    class_id: 60
+  }
+  {
     id: 553
     name: 墟上の烈日
     fit_gun: 54
@@ -919,6 +952,17 @@
     dialog: この楽器、見た目のわりには軽いな。しかし、演奏は資料をダウンロードしただけで出来るもんじゃない……指揮官、おまえはどうだ？
     note: skin-30000553
     illustrator_cv: 暖森,山根希美,
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 554
+    name: 水中に融ける月
+    fit_gun: 143
+    voice: 4
+    dialog: こういう滑らかな音色が好きなんです。さっきの合奏もいい感じでした、みんなもう一度お願いします！
+    note: skin-30000554
+    illustrator_cv: 暖森,福原綾香,
     order: 68
     class_id: 60
   }
@@ -976,6 +1020,76 @@
     illustrator_cv: --,上間江望,
     order: 51
     class_id: 64
+  }
+  {
+    id: 560
+    name: 厳粛な行進
+    fit_gun: 257
+    voice: 4
+    dialog: こんな晴れやかな式典に参加するのは初めてです……少し緊張しますね。指揮官は？
+    note: skin-30000560
+    gift_position: "-74.7,-105.2"
+    illustrator_cv: skin-40000560
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 561
+    name: セレナーデ第10番
+    fit_gun: 315
+    voice: 4
+    dialog: 式典曲の後で、先輩のために独奏をさせてください！曲目はすでに決めていますよ！
+    note: skin-30000561
+    illustrator_cv: skin-40000561
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 562
+    name: 滑稽な白鳥の湖
+    fit_gun: 318
+    voice: 4
+    dialog: 楽譜通りにやればいいんでしょ？そんなに難しくないね。
+    note: skin-30000562
+    gift_position: "-112.3,-15.4"
+    illustrator_cv: skin-40000562
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 563
+    name: 悠思の朝
+    fit_gun: 316
+    voice: 4
+    dialog: 今日はわたしもマーチングに……まだリズムについていけない感じですが、頑張ります。
+    note: skin-30000563
+    illustrator_cv: skin-40000563
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 564
+    name: 即興狂想曲
+    fit_gun: 296
+    voice: 4
+    dialog: テナーサックスか！こいつはいい！感じるままに演奏するのも悪くないな！
+    note: skin-30000564
+    gift_position: "-237.8,-104.6"
+    illustrator_cv: skin-40000564
+    order: 68
+    class_id: 60
+  }
+  {
+    id: 565
+    name: 輝きの観測者
+    fit_gun: 64
+    voice: 4
+    dialog: 見て、あの輝かしい場所……あれが、我々の目的地ですか、ご主人様？
+    note: skin-30000565
+    gift_position: "-40.4,-2.3"
+    illustrator_cv: skin-40000565
+    order: 68
+    class_id: 60
   }
   {
     id: 567
