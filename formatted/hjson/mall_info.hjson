@@ -23270,6 +23270,106 @@
     classification_id: "3002"
   }
   {
+    id: "31308"
+    type: "8"
+    sort: "2"
+    mp: "9000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(人力)
+    event_code: dailyGiftbag
+    icon: Bumdle_Manpower
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31309"
+    type: "8"
+    sort: "3"
+    ammo: "9000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(弾薬)
+    event_code: dailyGiftbag
+    icon: Bumdle_Ammunition
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31310"
+    type: "8"
+    sort: "4"
+    mre: "9000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(配給)
+    event_code: dailyGiftbag
+    icon: Bumdle_Ration
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31311"
+    type: "8"
+    sort: "5"
+    part: "3000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(部品)
+    event_code: dailyGiftbag
+    icon: Bumdle_Parts
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31312"
+    type: "8"
+    sort: "6"
+    item_ids: 1-10,3-10
+    gemprice: "430"
+    original_price: "860"
+    quota: "2001"
+    giftbag_name: 半額パック(契約)
+    event_code: dailyGiftbag
+    icon: Bumdle_contract01
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31313"
+    type: "8"
+    item_ids: 602-1,601-10,506-500,6009-5,6003-5
+    gemprice: "980"
+    quota: "2001"
+    giftbag_name: 染色剤お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_jpcolour
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31314"
+    type: "8"
+    sort: "6"
+    gemprice: "580"
+    quota: "2005"
+    giftbag_name: 局地戦区訓練補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_sennku
+    discount: "1.00"
+    prize_id: "330276"
+    classification_id: "3002"
+  }
+  {
     id: "99001"
     type: "102"
     gemprice: "980"
