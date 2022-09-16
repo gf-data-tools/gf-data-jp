@@ -16928,6 +16928,62 @@
     icon: Medal_Chess
   }
   {
+    id: 10722
+    name: 少佐の栄誉
+    user_exp: 30
+    item_ids: 106-5,2011-1
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、少佐の栄誉を獲得しました！報酬：ラフベリー勲章×5、指揮官経験値×30、アイコン「定理解明」
+    icon: Medal_Chess
+  }
+  {
+    id: 10723
+    name: 中佐の栄誉
+    user_exp: 60
+    item_ids: 106-10
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、中佐の栄誉を獲得しました！報酬：ラフベリー勲章×10、指揮官経験値×60
+    icon: Medal_Chess
+  }
+  {
+    id: 10724
+    name: 大佐の栄誉
+    user_exp: 100
+    item_ids: 106-20
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、大佐の栄誉を獲得しました！報酬：ラフベリー勲章×20、指揮官経験値×100
+    icon: Medal_Chess
+  }
+  {
+    id: 10725
+    name: 少将の栄誉
+    user_exp: 200
+    item_ids: 106-30,2010-1
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、少将の栄誉を獲得しました！報酬：ラフベリー勲章×30、指揮官経験値×200、アイコン「構想推論」
+    icon: Medal_Chess
+  }
+  {
+    id: 10726
+    name: 中将の栄誉
+    user_exp: 500
+    item_ids: 106-40
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、中将の栄誉を獲得しました！報酬：ラフベリー勲章×40、指揮官経験値×500
+    icon: Medal_Chess
+  }
+  {
+    id: 10727
+    name: 大将の栄誉
+    user_exp: 1000
+    item_ids: 106-50
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、大将の栄誉を獲得しました！報酬：ラフベリー勲章×50、指揮官経験値×1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10728
+    name: 元帥の栄誉
+    user_exp: 2000
+    item_ids: 106-60,2009-1
+    content: おめでとうございます！「コードII：回折」今シーズンにおいて、元帥の栄誉を獲得しました！報酬：ラフベリー勲章×60、指揮官経験値×2000、アイコン「ブレインストーミング」
+    icon: Medal_Chess
+  }
+  {
     id: 11000
     name: ハンガーが欲しい
     user_exp: 30
@@ -28886,6 +28942,34 @@
     content: prize-20094252
     send_limit: 1
     commander_uniform: "4252"
+  }
+  {
+    id: 94411
+    name: 気高きチョップカット&エースのジャケット&特殊作戦ズボン
+    content: prize-20094411
+    icon: chessgahsa_94411
+    commander_uniform: "4411,4431,4451"
+  }
+  {
+    id: 94412
+    name: 気ままなスタイル&狩人のジャンパー&猟兵のアラミドパンツ
+    content: prize-20094412
+    icon: chessgahsa_94412
+    commander_uniform: "4412,4432,4452"
+  }
+  {
+    id: 94420
+    name: 隠されし鷹の目&最終防衛線
+    content: prize-20094420
+    icon: chessgahsa_94420
+    commander_uniform: "4420,4440"
+  }
+  {
+    id: 94451
+    name: 榴弾キャッチャー
+    item_ids: 130015-1
+    content: prize-20094451
+    icon: chessgahsa_94451
   }
   {
     id: 94511
