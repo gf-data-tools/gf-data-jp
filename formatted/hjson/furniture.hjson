@@ -24266,6 +24266,200 @@
     touch_area: "6,3,0,0,10,0"
   }
   {
+    id: 10301
+    name: 疾風怒球-テニスの集落
+    classes: 103
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 今回は大量の予算を使ってこの会場を用意したんだ、だから変な必殺技とかでコートを壊すなよ。カリーナから請求書が来ても知らんからな。
+    code: Children2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10302
+    name: 疾風怒球-藍の景色
+    classes: 103
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: この窓からの眺めは絶景と言える。休憩時間中はこうやって広い空を見渡すことで、心を落ち着かせることができる。しかし、試合がまだ続いていることを忘れずに。
+    code: Children2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10303
+    name: 疾風怒球-シャッターカーテン
+    classes: 103
+    type: 302
+    position: "3,0"
+    space: "10,16,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 室内運動の宣伝も兼ねたシャッターカーテンだ。「見た目は悪くないけど、いつもそこからこっそり試合を覗いている人たちがいるよ？あの人たち、チケットすら買いたくないの？」
+    code: Children2022_deco_01
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10304
+    name: 疾風怒球-スポーツしようぜ！
+    classes: 103
+    type: 302
+    position: "22,2"
+    space: "8,4,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: とある秘密小隊のジムにあったオリジナルポスター。今は皆を励ますために、指揮官によって、ここに貼られた――君たちも反面教師として貼られたくないでしょう？ならもっと身体を動かして！
+    code: Children2022_deco_02,Children2022_deco_03
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.20842300906,0.281529,0.00000010876205587|2.095827,0.281529,0"
+    rotate: "3,3"
+  }
+  {
+    id: 10305
+    name: 疾風怒球-勝負の時
+    classes: 103
+    type: 302
+    position: "16,0"
+    space: "3,4,1,1,0,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 勝負がつく最後の一秒まで、お互いに全力を尽くさなければならない。これはもはや本物の戦闘と変わらない。もしすでに参戦しているのなら、持久戦になる準備をしておくように！
+    code: Children2022_deco_04
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10306
+    name: 疾風怒球-応援展示壁
+    classes: 103
+    type: 201
+    position: "5,0"
+    space: "25,1,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 観客が選んだ、歴代応援団代表の肖像が飾られている。何度も再任されている代表もいれば、サボり過ぎてすぐに辞めさせられた代表もいる。それが具体的に誰なのかは内緒だ。
+    code: Children2022_deco_05,Children2022_deco_06,Children2022_deco_07,Children2022_lightDecoA,Children2022_lightDecoB,Children2022_lightDecoC,Children2022_lightDecoD
+    texture_type: "1,1,1,2,2,2,2"
+    sorting: "0,0,0,0,0,0,0"
+    offset: "-2.7473747782,-0.47635812062,0.58184130207|1.855912157,-0.47635812062,0.58184130207|6.4587309199,-0.47635812062,0.58184130207|-3.3291721826,2.596323,0.875868|-1.0687132796,2.6380289146,0.76326192631|1.00094122051,2.6203040573,0.86335601708|3.2426322534,2.5785981427,0.86335601708"
+    rotate: "2,2,2,2,2,2,2"
+  }
+  {
+    id: 10307
+    name: 疾風怒球-暗潮の地
+    classes: 103
+    type: 202
+    position: "5,1"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: よし、このハーフタイムで作戦を練ろう……いや、背後から奇襲を仕掛けるつもりはない。それとその手榴弾をしまっとけ、まだ使う時じゃない！
+    code: Children2022_deco_08,Children2022_deco_09
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.14783077363,-0.3878844,0.78202510427|2.1458766,-0.3878844,0.782025"
+    rotate: "2,2"
+    interact_point: "19"
+    interact_point_offset: *0.321,1.110,-0.285
+  }
+  {
+    id: 10308
+    name: 疾風怒球-正々堂々
+    classes: 103
+    type: 202
+    position: "23,1"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: はっ！やっぱり相手はよからぬことを考えているわね！でも、こっちもラケットをロケットランチャーに改造しておいたから、いざという時はその威力を見せてあげるわ！
+    code: Children2022_deco_10,Children2022_deco_11
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.11458032187,-0.198113,-0.045878706157|2.18967,-0.198113,-0.0458788"
+    rotate: "2,2"
+    interact_point: "18"
+    interact_point_offset: *0.117,1.252,-0.285
+  }
+  {
+    id: 10309
+    name: 疾風怒球-風読み緑
+    classes: 103
+    type: 201
+    position: "31,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: ここにいて退屈することはないよ。ほら、少女たちの叫び声や、ボールとラケットのぶつかり合う音、これは全部、青春と熱血の響きだ……
+    code: Children2022_deco_12,Children2022_deco_13
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.0542204,-0.0719463,-0.0166832|0.054220452135,2.1666169457,0.50046972396"
+    rotate: "2,2"
+  }
+  {
+    id: 10310
+    name: 疾風怒球-コートの一コマ
+    classes: 103
+    type: 201
+    position: "28,8"
+    space: "4,3,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 少女たちがラケットを振る姿を集めた写真集、今月号はグリフィン選手の特集だ。「通販分はすでに売り切れになったので、追加で豪華限定版を出せば、もっと儲かるんじゃないかしら？」――カリーナの手帳にはそう書かれていた。
+    code: Children2022_deco_14
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10311
+    name: 疾風怒球-審判員席
+    classes: 103
+    type: 202
+    position: "4,11"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: コートを俯瞰して、公平に審判を行う。審判員は常に募集しておりますが、高いところが苦手な方は無理をしないでくださいね。
+    code: Children2022_speakerDeco,Children2022_deco_15
+    texture_type: "2,1"
+    sorting: "0,20"
+    offset: "0,0.177259,0.041708|-0.31281,0.177259,0.041707958292"
+    rotate: "2,2"
+    interact_point: "62"
+    interact_point_offset: *0.263,2.419,0.142
+    touch_area: "3,3,3"
+  }
+  {
+    id: 10312
+    name: 疾風怒球-強攻領域
+    classes: 103
+    type: 201
+    position: "16,5"
+    space: "3,9,1,1,1,1"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 特注のグラスコートだ、どんな強攻戦術をとられても問題はない。ああそうだ、前衛速攻でも高速カーブでもなんでも……スーパートルネードマシンガン3倍速回転赤い魔球って、なんの技だ！？
+    code: Children2022_deco_16,Children2022_deco_17,Children2022_deco_18
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-2.2938232176,-1.814298,4.806847|0,-1.814298,4.806847|2.2979940176,-1.814298,4.806847"
+    rotate: "2,2,2"
+  }
+  {
     id: 20004
     name: 四度目の輝けるステージ
     classes: 31
@@ -31679,6 +31873,96 @@
     decompose_gift: 100003
     description: C14のポスター。
     code: poster_OfficeLady2022_C14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37501
+    name: 氷海の幻舞
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PA-15のポスター。
+    code: poster_Sport2022_PA15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37502
+    name: ホームベース・ヒーロー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SR2のポスター。
+    code: poster_Sport2022_SR2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37503
+    name: 逆境のアタッカー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: CAWSのポスター。
+    code: poster_Sport2022_HKCAWS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37504
+    name: 山野を駆ける
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SAFのポスター。
+    code: poster_Sport2022_SAF
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37505
+    name: 七色のシューティングスター
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Novaのポスター。
+    code: poster_Sport2022_Nova
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37506
+    name: 白い月のアーク
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C14のポスター。
+    code: poster_Sport2022_C14
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
