@@ -6227,7 +6227,11 @@
   {
     id: 390101
     name: Summom The Devil? Stage 1
-    description: mission_skill_config-20390101
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390101
     skill_group_id: 390101
     level: 1
@@ -6244,7 +6248,11 @@
   {
     id: 390102
     name: Summom The Devil? Stage 2
-    description: mission_skill_config-20390102
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390102
     skill_group_id: 390102
     level: 1
@@ -6261,7 +6269,11 @@
   {
     id: 390103
     name: Summom The Devil? Stage 3
-    description: mission_skill_config-20390103
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390103
     skill_group_id: 390103
     level: 1
@@ -6278,7 +6290,11 @@
   {
     id: 390104
     name: Summom The Devil? Stage 4
-    description: mission_skill_config-20390104
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390104
     skill_group_id: 390104
     level: 1
@@ -6455,7 +6471,11 @@
   {
     id: 390117
     name: Summom The Devil? Stage 5
-    description: mission_skill_config-20390117
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390117
     skill_group_id: 390117
     level: 1
@@ -6512,7 +6532,11 @@
   {
     id: 390121
     name: Summom The Devil? Stage 6
-    description: mission_skill_config-20390121
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390121
     skill_group_id: 390121
     level: 1
@@ -6569,7 +6593,11 @@
   {
     id: 390125
     name: Summom The Devil? Stage 7
-    description: mission_skill_config-20390125
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390125
     skill_group_id: 390125
     level: 1
@@ -6626,7 +6654,11 @@
   {
     id: 390129
     name: Summom The Devil? Stage 8
-    description: mission_skill_config-20390129
+    description:
+      '''
+      戦役開始時より自軍が占領している飛行場の四方に敵部隊の増援が出現する。
+      注意:四方のマスにすでに部隊が存在する場合、そのマスに増援部隊は出現しません。
+      '''
     lvup_description: mission_skill_config-30390129
     skill_group_id: 390129
     level: 1
@@ -6683,7 +6715,7 @@
   {
     id: 390133
     name: Stay in hell【↖】
-    description: mission_skill_config-20390133
+    description: 本モードを起動後、左上の区域にある敵飛行場に強力な敵部隊が継続的に出現する。
     lvup_description: mission_skill_config-30390133
     skill_group_id: 390133
     level: 1
@@ -6713,7 +6745,7 @@
   {
     id: 390135
     name: Stay in hell【↗】
-    description: mission_skill_config-20390135
+    description: 本モードを起動後、右上の区域にある敵飛行場に強力な敵部隊が継続的に出現する。
     lvup_description: mission_skill_config-30390135
     skill_group_id: 390135
     level: 1
@@ -6743,7 +6775,7 @@
   {
     id: 390137
     name: Stay in hell【↙】
-    description: mission_skill_config-20390137
+    description: 本モードを起動後、左下の区域にある敵飛行場に強力な敵部隊が継続的に出現する。
     lvup_description: mission_skill_config-30390137
     skill_group_id: 390137
     level: 1
@@ -6773,7 +6805,7 @@
   {
     id: 390139
     name: Stay in hell【↘】
-    description: mission_skill_config-20390139
+    description: 本モードを起動後、右下の区域にある敵飛行場に強力な敵部隊が継続的に出現する。
     lvup_description: mission_skill_config-30390139
     skill_group_id: 390139
     level: 1
@@ -29482,7 +29514,7 @@
     id: 6390302
     name: mission_skill_config-16390302
     code: "1"
-    description: mission_skill_config-26390302
+    description: 瓦礫の山が通路を塞いでいる。どうやら迂回するしかなさそうだ。
     lvup_description: mission_skill_config-36390302
     skill_group_id: 6390302
     level: 1
@@ -29494,7 +29526,7 @@
     id: 6390303
     name: mission_skill_config-16390303
     code: "1"
-    description: mission_skill_config-26390303
+    description: 古びた制御パネル。今にも爆発しそうな雰囲気を纏っている。
     lvup_description: mission_skill_config-36390303
     skill_group_id: 6390303
     level: 1
@@ -29616,7 +29648,7 @@
   }
   {
     id: 6390335
-    name: mission_skill_config-16390335
+    name: ゲートを開き機甲を召喚する
     code: "1"
     description: mission_skill_config-26390335
     lvup_description: mission_skill_config-36390335
@@ -29739,7 +29771,7 @@
   }
   {
     id: 6410201
-    name: mission_skill_config-16410201
+    name: 砲台初期化
     code: "1"
     description: mission_skill_config-26410201
     lvup_description: mission_skill_config-36410201

@@ -7104,6 +7104,40 @@
     obtain_ids: "3008"
   }
   {
+    id: 242
+    name: 7N14
+    description:
+      '''
+      破甲+<armor_piercing>
+      火力+<pow>スキル強化$SVD専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "1,2"
+    armor_piercing: "110,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_子弹_SVD
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "43"
+    equip_introduction: ドラグノフの狙撃システムのために開発された7.62mm口径徹甲榴弾。装甲ユニットに対する殺傷能力が向上した。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:500,pow:1000
+    skill: 756005
+    passive_skill: "756004"
+    max_level: 10
+    auto_select_id: 19032
+    is_show: 1
+    obtain_ids: "3009"
+  }
+  {
     id: 243
     name: 専用オプティカルサイト
     description:
