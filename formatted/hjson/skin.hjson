@@ -919,7 +919,7 @@
     dialog: こうしてみんなと一緒に、同じことのために頑張るのが、一番大好きです……えっ、私の番ですか？は、はい！行きます！
     note: skin-30000550
     illustrator_cv: 暖森,戸松遥,
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -930,7 +930,7 @@
     dialog: わぁ！これ吹くと面白そう！叩いてもいい音が出るよ！こうやって、爪でトントンすると……え？ダメなの？なんで？
     note: skin-30000551
     illustrator_cv: 暖森,田村ゆかり,
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -941,7 +941,7 @@
     dialog: 運指はそんなに難しくなさそう。問題ないわ、いつでもいける。あなたたちは？
     note: skin-30000552
     illustrator_cv: 暖森,加藤英美里,
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -952,7 +952,7 @@
     dialog: この楽器、見た目のわりには軽いな。しかし、演奏は資料をダウンロードしただけで出来るもんじゃない……指揮官、おまえはどうだ？
     note: skin-30000553
     illustrator_cv: 暖森,山根希美,
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -963,7 +963,7 @@
     dialog: こういう滑らかな音色が好きなんです。さっきの合奏もいい感じでした、みんなもう一度お願いします！
     note: skin-30000554
     illustrator_cv: 暖森,福原綾香,
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -1030,7 +1030,7 @@
     note: skin-30000560
     gift_position: "-74.7,-105.2"
     illustrator_cv: skin-40000560
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -1041,7 +1041,7 @@
     dialog: 式典曲の後で、先輩のために独奏をさせてください！曲目はすでに決めていますよ！
     note: skin-30000561
     illustrator_cv: skin-40000561
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -1053,7 +1053,7 @@
     note: skin-30000562
     gift_position: "-112.3,-15.4"
     illustrator_cv: skin-40000562
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -1064,7 +1064,7 @@
     dialog: 今日はわたしもマーチングに……まだリズムについていけない感じですが、頑張ります。
     note: skin-30000563
     illustrator_cv: skin-40000563
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -1076,7 +1076,7 @@
     note: skin-30000564
     gift_position: "-237.8,-104.6"
     illustrator_cv: skin-40000564
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -1088,7 +1088,7 @@
     note: skin-30000565
     gift_position: "-40.4,-2.3"
     illustrator_cv: skin-40000565
-    order: 68
+    order: 65
     class_id: 60
   }
   {
@@ -5140,6 +5140,62 @@
     illustrator_cv: skin-40005045
   }
   {
+    id: 5101
+    name: 枝垂れ夢見る狐の影
+    fit_gun: 316
+    voice: 18
+    dialog: 枝先に掛かる金色の輪、夢へと入る仙狐たち……良い夢を、指揮官さん。
+    note: skin-30005101
+    illustrator_cv: skin-40005101
+    order: 68
+    class_id: 50
+  }
+  {
+    id: 5102
+    name: 死寂の舞人
+    fit_gun: 276
+    voice: 18
+    dialog: これ以上進まないでください、指揮官さん。地獄の門前は孤立無援、なぜならそこに神はいませんから。
+    note: skin-30005102
+    illustrator_cv: skin-40005102
+    order: 68
+    class_id: 50
+  }
+  {
+    id: 5103
+    name: 魔女グレーテル
+    fit_gun: 130
+    voice: 18
+    dialog: 急いでよ、指揮官さま！お菓子屋はすぐそこだよ、遅れたら全部95式お姉ちゃんに取られちゃうんだから！
+    note: skin-30005103
+    gift_position: "-228.13,102.3"
+    illustrator_cv: Nagu,佐倉綾音,
+    order: 68
+    class_id: 50
+  }
+  {
+    id: 5104
+    name: 灯影の魔翼
+    fit_gun: 295
+    voice: 18
+    dialog: 灯影苕片と繍球魚翅はピリ辛でもいけるよ！もう、指揮官ったらそんなに怖がらないでって、この程度なら誰でも……待って、指揮官！？死なないで！
+    note: skin-30005104
+    illustrator_cv: skin-40005104
+    order: 68
+    class_id: 50
+  }
+  {
+    id: 5105
+    name: 非凡な見習い
+    fit_gun: 297
+    voice: 18
+    dialog: 必ずや、優秀かつ非凡な人形になって見せます！ですがその前に、まずは魔女さんに弟子としてとってもらわねば……
+    note: skin-30005105
+    illustrator_cv: skin-40005105
+    order: 68
+    class_id: 50
+  }
+  {
     id: 5106
     name: 甘い夜の怪盗
     fit_gun: 6
@@ -5148,7 +5204,18 @@
     note: skin-30005106
     gift_position: "-154.45,-47.3"
     illustrator_cv: skin-40005106
-    order: 53
+    order: 68
+    class_id: 50
+  }
+  {
+    id: 5107
+    name: 魔境の番人
+    fit_gun: 38
+    voice: 18
+    dialog: 今から怖い話をするね。昔々、門を守る一人の魔女が……え？行かないでよ！お菓子あげるから！
+    note: skin-30005107
+    illustrator_cv: skin-40005107
+    order: 68
     class_id: 50
   }
   {
@@ -5493,7 +5560,7 @@
     dialog: ジャジャジャジャーン――周年限定バージョンのC93、華麗に登場！さぁ、すべてのスポットライトよ！あたしのためにもっと光輝け！
     note: skin-30005801
     illustrator_cv: skin-40005801
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5504,7 +5571,7 @@
     dialog: 指揮官、私と賭けをしないか？指揮官がこのシャンパンを飲み終わるまでに、私が指揮官の心を奪えるかどうかを……
     note: skin-30005802
     illustrator_cv: skin-40005802
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5516,7 +5583,7 @@
     note: skin-30005803
     gift_position: "-183,101.6"
     illustrator_cv: skin-40005803
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5528,7 +5595,7 @@
     note: skin-30005804
     gift_position: "-100.7,-115.2"
     illustrator_cv: skin-40005804
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5539,7 +5606,7 @@
     dialog: シッ――指揮官、この酒全然ダメなんですよ、やっぱパイカルのほうがカッとくるって！今のうちに、こっそり倉庫に行って思いっきり飲んできます？
     note: skin-30005805
     illustrator_cv: 豆芽,大坪由佳,
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5550,7 +5617,7 @@
     dialog: 雨の日に、相傘を差してこの道を通れば、二人の魂は永遠に分かつことなく……あらまあ、冗談ですわよ。
     note: skin-30005806
     illustrator_cv: skin-40005806
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5561,7 +5628,7 @@
     dialog: 指揮官、わたしと一緒に踊ってくれる？せっかくの晴れ着なんだから、わたしとだけの思い出を、少し残してほしいな……
     note: skin-30005807
     illustrator_cv: skin-40005807
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -5572,7 +5639,7 @@
     dialog: 風船がこのように好きに浮いていられるのは、きっとその紐の端が信頼できる人に掴んでもらっているからなんですよ。こういうとても安心できる感じ、私もよくわかります。
     note: skin-30005808
     illustrator_cv: skin-40005808
-    order: 69
+    order: 66
     class_id: 61
   }
   {
@@ -6083,7 +6150,7 @@
     dialog: 昼も夜もなく、数えきれないほどハードなトレーニングを積んできたのは、今日ここで私の舞姿を披露するため——さあ私の出番ね。指揮官、瞬き厳禁だよ。
     note: skin-30007501
     illustrator_cv: skin-40007501
-    order: 92
+    order: 67
     class_id: 79
   }
   {
@@ -6095,7 +6162,7 @@
     note: skin-30007502
     gift_position: "-132,-67"
     illustrator_cv: skin-40007502
-    order: 92
+    order: 67
     class_id: 79
   }
   {
@@ -6106,7 +6173,7 @@
     dialog: 相手は物凄い剣幕だし、このゲーム危険だよね、指揮官、降参しようよ……ダメなの？　仕方ないなぁ、じゃあとりあえず、始めよっか。
     note: skin-30007503
     illustrator_cv: skin-40007503
-    order: 92
+    order: 67
     class_id: 79
   }
   {
@@ -6117,7 +6184,7 @@
     dialog: 指揮官もヒルクライムに参加しない？　この辺りの地形は反射神経と技術が試されるんだ。腕に覚えがあるなら、一緒に行こうよ！
     note: skin-30007504
     illustrator_cv: skin-40007504
-    order: 92
+    order: 67
     class_id: 79
   }
   {
@@ -6128,7 +6195,7 @@
     dialog: イェーイ、あたしとGsh-18のおかげで、選手たちの士気が上がったよ~!　おーっと、もうこんな時間！　急いで次の試合の応援に行かないと……ねぇ、Gsh-18、ちょっと待ってよ!
     note: skin-30007505
     illustrator_cv: skin-40007505
-    order: 92
+    order: 67
     class_id: 79
   }
   {
@@ -6139,7 +6206,7 @@
     dialog: 仲間たちの期待に応えるため、ここは必ず勝つ——いざ勝負の時、最後の反撃を見届けてくれ！
     note: skin-30007506
     illustrator_cv: skin-40007506
-    order: 92
+    order: 67
     class_id: 79
   }
 ]

@@ -1339,7 +1339,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "暖森,戸松遥,",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1356,7 +1356,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "暖森,田村ゆかり,",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1373,7 +1373,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "暖森,加藤英美里,",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1390,7 +1390,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "暖森,山根希美,",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1407,7 +1407,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "暖森,福原綾香,",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1509,7 +1509,7 @@
         "explore_tag": "",
         "gift_position": "-74.7,-105.2",
         "illustrator_cv": "skin-40000560",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1526,7 +1526,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40000561",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1543,7 +1543,7 @@
         "explore_tag": "",
         "gift_position": "-112.3,-15.4",
         "illustrator_cv": "skin-40000562",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1560,7 +1560,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40000563",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1577,7 +1577,7 @@
         "explore_tag": "",
         "gift_position": "-237.8,-104.6",
         "illustrator_cv": "skin-40000564",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -1594,7 +1594,7 @@
         "explore_tag": "",
         "gift_position": "-40.4,-2.3",
         "illustrator_cv": "skin-40000565",
-        "order": 68,
+        "order": 65,
         "class_id": 60
     },
     {
@@ -7497,6 +7497,91 @@
         "class_id": 0
     },
     {
+        "id": 5101,
+        "name": "枝垂れ夢見る狐の影",
+        "extra": 0,
+        "fit_gun": 316,
+        "ai": 0,
+        "voice": 18,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "枝先に掛かる金色の輪、夢へと入る仙狐たち……良い夢を、指揮官さん。",
+        "note": "skin-30005101",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005101",
+        "order": 68,
+        "class_id": 50
+    },
+    {
+        "id": 5102,
+        "name": "死寂の舞人",
+        "extra": 0,
+        "fit_gun": 276,
+        "ai": 0,
+        "voice": 18,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "これ以上進まないでください、指揮官さん。地獄の門前は孤立無援、なぜならそこに神はいませんから。",
+        "note": "skin-30005102",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005102",
+        "order": 68,
+        "class_id": 50
+    },
+    {
+        "id": 5103,
+        "name": "魔女グレーテル",
+        "extra": 0,
+        "fit_gun": 130,
+        "ai": 0,
+        "voice": 18,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "急いでよ、指揮官さま！お菓子屋はすぐそこだよ、遅れたら全部95式お姉ちゃんに取られちゃうんだから！",
+        "note": "skin-30005103",
+        "explore_tag": "",
+        "gift_position": "-228.13,102.3",
+        "illustrator_cv": "Nagu,佐倉綾音,",
+        "order": 68,
+        "class_id": 50
+    },
+    {
+        "id": 5104,
+        "name": "灯影の魔翼",
+        "extra": 0,
+        "fit_gun": 295,
+        "ai": 0,
+        "voice": 18,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "灯影苕片と繍球魚翅はピリ辛でもいけるよ！もう、指揮官ったらそんなに怖がらないでって、この程度なら誰でも……待って、指揮官！？死なないで！",
+        "note": "skin-30005104",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005104",
+        "order": 68,
+        "class_id": 50
+    },
+    {
+        "id": 5105,
+        "name": "非凡な見習い",
+        "extra": 0,
+        "fit_gun": 297,
+        "ai": 0,
+        "voice": 18,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "必ずや、優秀かつ非凡な人形になって見せます！ですがその前に、まずは魔女さんに弟子としてとってもらわねば……",
+        "note": "skin-30005105",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005105",
+        "order": 68,
+        "class_id": 50
+    },
+    {
         "id": 5106,
         "name": "甘い夜の怪盗",
         "extra": 0,
@@ -7510,7 +7595,24 @@
         "explore_tag": "",
         "gift_position": "-154.45,-47.3",
         "illustrator_cv": "skin-40005106",
-        "order": 53,
+        "order": 68,
+        "class_id": 50
+    },
+    {
+        "id": 5107,
+        "name": "魔境の番人",
+        "extra": 0,
+        "fit_gun": 38,
+        "ai": 0,
+        "voice": 18,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "今から怖い話をするね。昔々、門を守る一人の魔女が……え？行かないでよ！お菓子あげるから！",
+        "note": "skin-30005107",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005107",
+        "order": 68,
         "class_id": 50
     },
     {
@@ -8020,7 +8122,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005801",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8037,7 +8139,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005802",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8054,7 +8156,7 @@
         "explore_tag": "",
         "gift_position": "-183,101.6",
         "illustrator_cv": "skin-40005803",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8071,7 +8173,7 @@
         "explore_tag": "",
         "gift_position": "-100.7,-115.2",
         "illustrator_cv": "skin-40005804",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8088,7 +8190,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "豆芽,大坪由佳,",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8105,7 +8207,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005806",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8122,7 +8224,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005807",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8139,7 +8241,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005808",
-        "order": 69,
+        "order": 66,
         "class_id": 61
     },
     {
@@ -8904,7 +9006,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40007501",
-        "order": 92,
+        "order": 67,
         "class_id": 79
     },
     {
@@ -8921,7 +9023,7 @@
         "explore_tag": "",
         "gift_position": "-132,-67",
         "illustrator_cv": "skin-40007502",
-        "order": 92,
+        "order": 67,
         "class_id": 79
     },
     {
@@ -8938,7 +9040,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40007503",
-        "order": 92,
+        "order": 67,
         "class_id": 79
     },
     {
@@ -8955,7 +9057,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40007504",
-        "order": 92,
+        "order": 67,
         "class_id": 79
     },
     {
@@ -8972,7 +9074,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40007505",
-        "order": 92,
+        "order": 67,
         "class_id": 79
     },
     {
@@ -8989,7 +9091,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40007506",
-        "order": 92,
+        "order": 67,
         "class_id": 79
     }
 ]

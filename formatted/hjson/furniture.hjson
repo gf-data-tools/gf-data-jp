@@ -22783,6 +22783,233 @@
     interact_point_offset: *-0.379,1.127,0.290
   }
   {
+    id: 9101
+    name: セーフハウス-合成フロア
+    classes: 91
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: たとえ床の下からノック音が聞こえても、これをこじ開けない方がいい。こいつは十分に頑丈だ、床の下から揺さぶりをかけられてもそんなに問題はない――もし君の友達がまだ生きていたら、きっと同じように分かるはずだ。
+    code: Halloween2020_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 9102
+    name: セーフハウス-厄夜の来客
+    classes: 91
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 人がいるところに悲劇が起きる。しかし最近悲劇はどんどん少なくなっている。これはいいことかもしれない。
+    code: Halloween2020_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 9103
+    name: セーフハウス-化繊の絨毯
+    classes: 91
+    type: 102
+    position: "16,6"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 今ならお金を払わなくても高級な羊毛絨毯を手に入れられる、店の前で構えているあの怪物さえ頷けば……なら、そいつと交渉してみる気はあるかな？ないの？ではこの化繊の絨毯をこのまま使うしかないな。
+    code: Halloween2020_deco_01,Halloween2020_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.1155732603,0,0|1.178251,0,0"
+    rotate: "1,1"
+  }
+  {
+    id: 9104
+    name: セーフハウス-堅実な壁
+    classes: 91
+    type: 302
+    position: "14,10"
+    space: "5,13,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: この壁は優秀な耐衝撃素材を使用しており、たとえ爆発を受けてもそう簡単に崩れることはないが、外の音を隔てることはできない。まぁ、泣くな、絶望はより多くの絶望を引き寄せてくるぞ。
+    code: Halloween2020_deco_03,Halloween2020_deco_04
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.604766,0.9707537,0.1126116|3.9620285206,0.9707537,0.1126116"
+    rotate: "3,3"
+  }
+  {
+    id: 9105
+    name: セーフハウス-武器陳列棚
+    classes: 91
+    type: 201
+    position: "8,0"
+    space: "8,3,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 如何にして手に馴染む武器を迅速に取れるよう練習した方がいい、これが最後の食糧を手に入れるコツであり、或いは最後の食料を創る方法でもある。
+    code: Halloween2020_deco_05,Halloween2020_deco_06,Halloween2020_deco_07,Halloween2020_deco_08
+    texture_type: "1,1,1,1"
+    sorting: "0,0,0,0"
+    offset: "-0.24920602989,-0.40434070848,0.29198154615|-0.260675,1.8330666,0.7934947|2.0383617176,1.8330666,0.79349490854|2.0456606176,-0.40434070848,0.29198154615"
+    rotate: "2,2,2,2"
+  }
+  {
+    id: 9106
+    name: セーフハウス-柔らかいソファー
+    classes: 91
+    type: 201
+    position: "16,6"
+    space: "11,6,0,0,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 順番に休憩をしよう、最後の夢を見るチャンスは全員に等しく与えるべきだ。
+    code: Halloween2020_deco_09,Halloween2020_deco_10
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.5484602,-0.1501488,0.0688182|1.7527787,-0.1501488,0.0688182"
+    rotate: "2,2"
+    interact_point: "12,14,7"
+    interact_point_offset: *-3.418,1.753,0.589|*2.882,1.360,-0.356|*-0.347,2.717,0.504
+  }
+  {
+    id: 9107
+    name: セーフハウス-メッセージ受信地点
+    classes: 91
+    type: 201
+    position: "25,0"
+    space: "9,3,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 以前ここに座ったやつは正気を失った。急にテレビの中から連絡してくる人がいると言い出し、ファイルと椅子が勝手に動いて今の様子になっているとわけの分からんことを口にしていた。誰もやつのことを信じなかった。そしてやつはドアから飛び出し、希望の餌食となったのさ。
+    code: Halloween2020_deco_11,Halloween2020_deco_12
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.6349494492,0,-0.542256|1.6485827317,0,-0.5401186"
+    rotate: "2,2"
+    interact_point: "14"
+    interact_point_offset: *-0.088,1.793,-1.309
+  }
+  {
+    id: 9108
+    name: セーフハウス-レトロなバイク
+    classes: 91
+    type: 201
+    position: "27,11"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: このバイクは今でも動く。しかしこいつに乗って外で命を賭ける勇気あるやつはもういない。
+    code: Halloween2020_deco_13
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 9109
+    name: セーフハウス-白熱電球のペンダントライト
+    classes: 91
+    type: 201
+    position: "22,2"
+    space: "0,0,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: いつでも爆発しそうな感じだが、騙し騙しに使っていこう。なにしろ予備の電球は残り一つしかないから。
+    code: Halloween2020_deco_14
+    texture_type: "1"
+    offset: "0,1.887287,0"
+    rotate: "2"
+    touch_area: "2,2,2"
+  }
+  {
+    id: 9110
+    name: セーフハウス-独立発電機
+    classes: 91
+    type: 201
+    position: "30,8"
+    space: "3,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: かつて独立発電機の存在意義を疑う者がいて、掲示板で違う意見の人とずっと論争を繰り広げていた。今となっては掲示板はもうなくなっているが、君なら分かっているはずだ、彼は間違っていたと。
+    code: Halloween2020_deco_15
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 9111
+    name: セーフハウス-救急ロッカー
+    classes: 91
+    type: 302
+    position: "29,12"
+    space: "2,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 最初は皆救急箱を持って外を探索したが、最近は薬の消耗が少なくなっている――外で彷徨っているやつらが薬を使わせる機会を与えてくれないことと、我々がもう外へ出なくなったことが原因であるかもしれない。
+    code: Halloween2020_deco_16
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 9112
+    name: セーフハウス-補強した壁
+    classes: 91
+    type: 201
+    position: "3,0"
+    space: "5,14,0,0,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 外から壁を引っ掻く音が聞こえるかい？特に変なことではない……こいつを造った人間はありとあらゆる危機の可能性を考慮したが、唯一思いつかなかったのは、危機が訪れた時自分が外に締め出されることだった。
+    code: Halloween2020_deco_17,Halloween2020_deco_18,Halloween2020_deco_19,Halloween2020_deco_22
+    texture_type: "1,1,1,1"
+    sorting: "-10,0,0,10"
+    offset: "-0.604766,-1.491061,4.076957|-0.60476579146,2.9939524742,5.1350284834|-0.93843,-0.802879,4.27507|-1.000992,-0.041504266847,-0.218967"
+    rotate: "2,2,2,2"
+    interact_point: "891121,891122"
+    interact_point_offset: *-3.967,0.000,11.297|*-3.704,0.000,6.004
+    touch_area: "5,15"
+    bonus_id: 3076
+  }
+  {
+    id: 9113
+    name: セーフハウス-雑貨と長テーブル
+    classes: 91
+    type: 201
+    position: "9,11"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: ここを整理しても何の意味もない。罪は隠されても存在し続ける、しかも、ここに残ってあるのは生を求める証だけだ。
+    code: Halloween2020_deco_20,Halloween2020_deco_21
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0,0,0|2.304367,0,0"
+    rotate: "2,2"
+  }
+  {
+    id: 9114
+    name: セーフハウス-電子マップ
+    classes: 91
+    type: 302
+    position: "20,10"
+    space: "6,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 赤は連絡が途絶えたエリア、緑は安全なエリアと、AIが記してある。しかしこのマップは五か月間更新されておらず、信号塔の状況を確認しに行った者も帰って来ることがなかった。
+    code: Halloween2020_deco_23
+    texture_type: "1"
+    sorting: "50"
+    offset: "0,0.542204,0"
+    rotate: "3"
+  }
+  {
     id: 9201
     name: 防空拠点-参照用フロア
     classes: 92
@@ -30649,6 +30876,81 @@
     rotate: "3"
   }
   {
+    id: 35101
+    name: 枝垂れ夢見る狐の影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 劉氏歩槍のポスター
+    code: poster_Halloween2020_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35102
+    name: 死寂の舞人
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kordのポスター
+    code: poster_Halloween2020_Kord
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35103
+    name: 魔女グレーテル
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 97式のポスター
+    code: poster_Halloween2020_97type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35104
+    name: 灯影の魔翼
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: CF-05のポスター
+    code: poster_Halloween2020_06TypeSMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35105
+    name: 非凡な見習い
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: FI M82のポスター
+    code: poster_Halloween2020_M82
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 35106
     name: 甘い夜の怪盗
     classes: 300
@@ -30658,6 +30960,21 @@
     decompose_gift: 100003
     description: トカレフのポスター
     code: poster_Halloween2020_TT33
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35107
+    name: 魔境の番人
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M21のポスター
+    code: poster_Halloween2020_M21
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
