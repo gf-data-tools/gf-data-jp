@@ -23544,6 +23544,57 @@
     classification_id: 3002
   }
   {
+    id: 31329
+    type: 8
+    item_ids: 8-5,41-200
+    gift: 100003-20
+    gemprice: 998
+    quota: 2001
+    giftbag_name: 11月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_aki2
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 31330
+    type: 8
+    item_ids: 506-100,515-200,605-1
+    gemprice: 158
+    quota: 2001
+    giftbag_name: 11月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_purple
+    daily_quota: 1
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 31331
+    type: 8
+    item_ids: 7-2
+    gemprice: 998
+    quota: 2002
+    giftbag_name: ウェディングお買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_ring
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 31332
+    type: 8
+    gemprice: 398
+    quota: 2001
+    giftbag_name: メンタルアップグレードお買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_update
+    daily_quota: 5
+    discount: 1.0
+    prize_id: 330135
+    classification_id: 3002
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980

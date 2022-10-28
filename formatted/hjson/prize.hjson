@@ -8716,6 +8716,13 @@
     icon: Bumdle_cashgold
   }
   {
+    id: 1236
+    name: prize-10001236
+    gem: 90
+    equip_ids: "246"
+    content: prize-20001236
+  }
+  {
     id: 1239
     name: prize-10001239
     equip_ids: "247"
@@ -9325,6 +9332,14 @@
     content: prize-20003007
   }
   {
+    id: 3008
+    name: prize-10003008
+    item_ids: 1861-1
+    equip_ids: "238"
+    skin: 5046
+    content: prize-20003008
+  }
+  {
     id: 3012
     name: prize-10003012
     item_ids: 1551-1
@@ -9589,6 +9604,14 @@
     content: prize-20003124
   }
   {
+    id: 3125
+    name: prize-10003125
+    item_ids: 1862-1
+    equip_ids: "239"
+    skin: 5047
+    content: prize-20003125
+  }
+  {
     id: 3136
     name: prize-10003136
     item_ids: 1768-1
@@ -9621,6 +9644,14 @@
     content: prize-20003154
   }
   {
+    id: 3159
+    name: prize-10003159
+    item_ids: 1863-1
+    equip_ids: "240"
+    skin: 5048
+    content: prize-20003159
+  }
+  {
     id: 3161
     name: prize-10003161
     item_ids: 1710-1
@@ -9643,6 +9674,14 @@
     equip_ids: "215"
     skin: 5045
     content: prize-20003199
+  }
+  {
+    id: 3200
+    name: prize-10003200
+    item_ids: 1864-1
+    equip_ids: "241"
+    skin: 5049
+    content: prize-20003200
   }
   {
     id: 3221
