@@ -7,7 +7,7 @@ local spineList={}
 
 local _imgCombo,_imgComboNum1,_imgComboNum2,_imgComboNum3
 local _imgComboCoef,_imgComboCoefNum1,_imgComboCoefNum2,_imgComboCoefDot
-local _imgDanceProgressBar
+local _imgDanceProgressBar,_imgFeverGauge
 local spriteListCombo,spriteListComboNum,spriteListComboCoef,spriteListComboCoefText,spriteListComboCoefDot,spriteListActionItem
 local txtTime,txtScore,txtFever,txtPlayerTime
 
@@ -56,21 +56,26 @@ Awake = function()
 	danceRandomMax = startingRandomRangeMax
 end
 Start = function()
-
+	self.transform:SetParent(CS.BattleUIController.Instance.transform:Find('UI'),false)
 	--初始化spine
 	leaderSpine = CS.UnityEngine.Object.Instantiate(CS.CommonController.GetSpinePrefab(leaderSpineCode))
-	leaderSpine.transform.localScale = CS.UnityEngine.Vector3(170,170,170)
+	leaderSpine.transform.localScale = CS.UnityEngine.Vector3(160,160,160)
 	leaderSpine.transform:SetParent(GetSpineHolder(-1),false)
+	leaderSpine.transform.localPosition = CS.UnityEngine.Vector3(0,-240,0)
 	leaderSpine:SetActive(true)
 	leaderSpine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, "wait", true, 0)
+	leaderSpine:GetComponent(typeof(CS.UnityEngine.Renderer)).sortingOrder = 15
 	--spine:GetComponent(typeof(CS.UnityEngine.Renderer)).sortingOrder = 13
 	
 	for i=1,7 do
 		local spine = CS.UnityEngine.Object.Instantiate(CS.CommonController.GetSpinePrefab(dancerSpineCode[i]))
-		spine.transform.localScale = CS.UnityEngine.Vector3(170,170,170)
+		spine.transform.localScale = CS.UnityEngine.Vector3(160,160,160)
 		spine.transform:SetParent(GetSpineHolder(i),false)
+		spine.transform.localPosition = CS.UnityEngine.Vector3(0,-160,0)
 		spine:SetActive(true)
+		
 		spine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, "wait", true, 0)
+		spine:GetComponent(typeof(CS.UnityEngine.Renderer)).sortingOrder = 15
 		if i == 4 then
 			centerSpine = spine
 		end
@@ -83,30 +88,31 @@ Start = function()
 	_imgComboNum2 = imgComboNum2:GetComponent(typeof(CS.ExImage))
 	_imgComboNum3 = imgComboNum3:GetComponent(typeof(CS.ExImage))
 	_imgComboCoef = imgComboCoefText:GetComponent(typeof(CS.ExImage))
-	_imgComboCoefNum1 = imgComboCoefNum1:GetComponent(typeof(CS.ExImage))
-	_imgComboCoefNum2 = imgComboCoefNum2:GetComponent(typeof(CS.ExImage))
+	_imgComboCoefNum1 = imgComboCoef1:GetComponent(typeof(CS.ExImage))
+	_imgComboCoefNum2 = imgComboCoef2:GetComponent(typeof(CS.ExImage))
 	_imgComboCoefDot = imgComboCoefDot:GetComponent(typeof(CS.ExImage))
+	_imgFeverGauge = imgFeverGauge:GetComponent(typeof(CS.ExImage))
 	_imgDanceProgressBar = goDanceProgressBar:GetComponent(typeof(CS.ExImage))
 	spriteListCombo = imgCombo:GetComponent(typeof(CS.UGUISpriteHolder))
 	spriteListComboNum = imgCombo.transform.parent:Find("Num").gameObject:GetComponent(typeof(CS.UGUISpriteHolder))
 	spriteListComboCoef = imgComboCoefText:GetComponent(typeof(CS.UGUISpriteHolder))
 	spriteListComboCoefText = imgComboCoef1:GetComponent(typeof(CS.UGUISpriteHolder))
 	spriteListComboCoefDot = imgComboCoefDot:GetComponent(typeof(CS.UGUISpriteHolder))
-	spriteListActionItem = goDanceActionItem.transform:Find("Img_ActionIcon")
+	spriteListActionItem = goDanceActionItem.transform:Find("Img_ActionIcon"):GetComponent(typeof(CS.UGUISpriteHolder))
 	txtPlayerTime = textDanceRemainTime:GetComponent(typeof(CS.ExText))
 	txtScore = textScore:GetComponent(typeof(CS.ExText))
 	txtFever = textFever:GetComponent(typeof(CS.ExText))
-
+	
 	goActionButton1 = GetActionButton(1)
 	goActionButton2 = GetActionButton(2)
 	goActionButton3 = GetActionButton(3)
 	goActionButton4 = GetActionButton(4)
 	goActionButton5 = GetActionButton(5)
 	btnActionButton1 = goActionButton1:GetComponent(typeof(CS.ExButton))
-	btnActionButton2 = goActionButton1:GetComponent(typeof(CS.ExButton))
-	btnActionButton3 = goActionButton1:GetComponent(typeof(CS.ExButton))
-	btnActionButton4 = goActionButton1:GetComponent(typeof(CS.ExButton))
-	btnActionButton5 = goActionButton1:GetComponent(typeof(CS.ExButton))
+	btnActionButton2 = goActionButton2:GetComponent(typeof(CS.ExButton))
+	btnActionButton3 = goActionButton3:GetComponent(typeof(CS.ExButton))
+	btnActionButton4 = goActionButton4:GetComponent(typeof(CS.ExButton))
+	btnActionButton5 = goActionButton5:GetComponent(typeof(CS.ExButton))
 	goActionButton1HL = goActionButton1.transform:Find("Img_HighLight").gameObject
 	goActionButton2HL = goActionButton2.transform:Find("Img_HighLight").gameObject
 	goActionButton3HL = goActionButton3.transform:Find("Img_HighLight").gameObject
@@ -139,7 +145,7 @@ Start = function()
 				goActionButton1HL:SetActive(not isUp)
 			end
 		end
-		)
+	)
 	btnActionButton2:SetButtonPointerDownUpAction(
 		function(isUp,pos)
 			if isPlayerAct then
@@ -171,6 +177,10 @@ Start = function()
 	UpdateCombo(0)
 	UpdateFever(0)
 	UpdateScore(playerScore)
+	CS.BattleFrameManager.StopTime(true,9999999)
+	CS.BattleUIController.Instance.transform:Find('DynamicCanvas').gameObject:SetActive(false)
+	
+	StartRound()
 end
 
 OnDestroy = function()
@@ -244,9 +254,12 @@ function GenerateDanceSequence()
 	end
 	--更新舞蹈用时
 	danceTotalFrame = 0
+	local printlog = "round"..normalRoundCount.." Seq:"
 	for i=1,#danceSeq do
 		danceTotalFrame = danceTotalFrame + danceAnimFrame[danceSeq[i]] 
+		printlog = printlog..danceSeq[i]..' '
 	end
+	print(printlog)
 end
 function DiscardDanceActionItem()
 	for i=1,#danceActionItemList do
@@ -257,6 +270,7 @@ function ShowDanceActionItem(pos,type,state)
 	local item 
 	if #danceActionItemList < pos then
 		item = CS.UnityEngine.Object.Instantiate(goDanceActionItem)
+		item.transform:SetParent(goDanceActionItem.transform.parent,false)
 		danceActionItemList[#danceActionItemList+1] = item
 	else
 		item = danceActionItemList[pos]
@@ -270,13 +284,13 @@ function SetActionItemState(item,type,state)
 	if item == nil then
 		return
 	end
-		
-	local correctBG = item.transform.Find("Img_CorrectBG")
-	local failedBG = item.transform.Find("Img_ErrorBG")
-	local correctMark = item.transform.Find("Img_Correct")
-	local failedMark = item.transform.Find("Img_Error")
-	local actionIcon = item.transform.Find("Img_ActionIcon")
-	actionIcon.gameObject:GetComponent(typeof(CS.ExImage)).sprite = spriteListActionItem[type-1]
+	
+	local correctBG = item.transform:Find("Img_CorrectBG")
+	local failedBG = item.transform:Find("Img_ErrorBG")
+	local correctMark = item.transform:Find("Img_Correct")
+	local failedMark = item.transform:Find("Img_Error")
+	local actionIcon = item.transform:Find("Img_ActionIcon")
+	actionIcon.gameObject:GetComponent(typeof(CS.ExImage)).sprite = spriteListActionItem.listSprite[type-1]
 	correctBG.gameObject:SetActive(state > 0)
 	correctMark.gameObject:SetActive(state > 0)
 	failedBG.gameObject:SetActive(state < 0)
@@ -313,30 +327,30 @@ function CoroutineLeadDance()
 				leaderSpine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, actionAnimCode[i], false, 0)
 				coroutine.yield(CS.UnityEngine.WaitForSeconds(danceAnimFrame[danceSeq[i]] /30)) 
 			end							
-			)		
-	end)
+			
+		end)
 end
 function FinishLeadDance()
 	isLeadDance = false
 	leaderSpine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, "wait",true, 0)
-
+	
 	StartPlayerAction()
 end
 
 ---phase 玩家操作
 function StartPlayerAction()
 	isPlayerAct = true
---玩家可操作时间更新
+	--玩家可操作时间更新
 	playerActMaxTime = baseWaitTime + extraWaitTime * #danceSeq
 	playerActTimer = 0
---顶栏切换
+	--顶栏切换
 	goDanceLeader:SetActive(false)
 	goDanceDancer:SetActive(true)
 	goDanceDancer.transform:GetChild(0).gameObject:SetActive(true)
 	goDanceDancer.transform:GetChild(1).gameObject:SetActive(true)
 	SetDanceProgressBar(1)
 	UpdatePlayerActTime()
---set to 1
+	--set to 1
 	curPlayerActPosition = 1
 	playerActSuccessCount = 0
 end
@@ -358,10 +372,10 @@ function OnSuccessAct(pos)
 	UpdateFever(playerFeverValue + 1)
 	--顶部确认
 	ShowDanceActionItem(curPlayerActPosition,danceSeq[curPlayerActPosition],1)
-
+	
 	curPlayerActPosition = curPlayerActPosition + 1
 	playerActSuccessCount = playerActSuccessCount + 1
-
+	
 	--如果输入完成最后一个舞步，提前进行结算
 	if curPlayerActPosition > #danceSeq then
 		FinishPlayerActPhase(true)
@@ -410,7 +424,7 @@ function StartPlayerDancePhase()
 		centerSpine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, yamadaFailedAnimCode, true, 0)
 	end
 	--其余npc演出
-
+	
 	for i=1,#spineList do
 		if i ~= 4 then
 			--roll一次npc是否成功表演
@@ -437,8 +451,8 @@ function CoroutinePlayerDance(spine,breakPoint)
 				spine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, actionAnimCode[i], false, 0)
 				coroutine.yield(CS.UnityEngine.WaitForSeconds(danceAnimFrame[danceSeq[i]] /30)) 
 			end							
-		)		
-	end)
+			
+		end)
 end
 function FinishPlayerDancePhase()
 	--spine归位
@@ -488,7 +502,7 @@ function UpdateCombo(comboNum)
 			--else
 			--	comboEffectObj1 =CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("Effect/DXG_combo_fire01"),transComboEffectHolder,false)
 			--end
-		--else
+			--else
 			--if comboEffectObj1 ~= nil then
 			--	comboEffectObj1:SetActive(false)
 			--end
@@ -501,7 +515,7 @@ function UpdateCombo(comboNum)
 			--else
 			--	comboEffectObj2 =CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("Effect/DXG_combo_fire02"),transComboEffectHolder,false)
 			--end
-		--else
+			--else
 			--if comboEffectObj2 ~= nil then
 			--	comboEffectObj2:SetActive(false)
 			--end
@@ -514,7 +528,7 @@ function UpdateCombo(comboNum)
 			--else
 			--	comboEffectObj3 =CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("Effect/DXG_combo_fire03"),transComboEffectHolder,false)
 			--end
-		--else
+			--else
 			--if comboEffectObj3 ~= nil then
 			--	comboEffectObj3:SetActive(false)
 			--end
@@ -531,16 +545,16 @@ function UpdateCombo(comboNum)
 	print(comboNum..' '..strcount)
 	if strcount == 1 then
 		_imgComboNum1.sprite = spriteListComboNum.listSprite[(combolevel-1)*10 +comboNum]
-		_imgComboNum2:SetActive(false)
-		_imgComboNum3:SetActive(false)
+		imgComboNum2:SetActive(false)
+		imgComboNum3:SetActive(false)
 	end
 	if strcount == 2 then
 		local ten = math.modf(comboNum/10)
 		local one = math.modf(comboNum - 10 * ten)
 		_imgComboNum2.sprite = spriteListComboNum.listSprite[(combolevel-1)*10 +ten]
 		_imgComboNum1.sprite = spriteListComboNum.listSprite[(combolevel-1)*10 +one]
-		_imgComboNum2:SetActive(true)
-		_imgComboNum3:SetActive(false)
+		imgComboNum2:SetActive(true)
+		imgComboNum3:SetActive(false)
 	end
 	if strcount == 3 then
 		local hundred = math.modf(comboNum/100)
@@ -549,12 +563,13 @@ function UpdateCombo(comboNum)
 		_imgComboNum3.sprite = spriteListComboNum.listSprite[(combolevel-1)*10 +hundred]
 		_imgComboNum2.sprite = spriteListComboNum.listSprite[(combolevel-1)*10 +ten]
 		_imgComboNum1.sprite = spriteListComboNum.listSprite[(combolevel-1)*10 +one]
-		_imgComboNum2:SetActive(true)
-		_imgComboNum3:SetActive(true)
+		imgComboNum2:SetActive(true)
+		imgComboNum3:SetActive(true)
 	end
 	--倍率系数
 	
 	local one, minor
+	local coef = baseScore[combolevel] / baseScore[1] 
 	one, minor = math.modf(coef)
 	minor = math.modf(minor * 10)
 	_imgComboCoefNum1.sprite = spriteListComboCoefText.listSprite[(combolevel-1)*10 + one]
@@ -566,14 +581,14 @@ function UpdateFever(feverCount)
 		playerFeverValue = feverValueLimit
 	end
 	local feverpercent = playerFeverValue / feverValueLimit
-	imgFeverGauge:DOFillAmount(feverpercent,0.1) 
+	_imgFeverGauge:DOFillAmount(feverpercent,0.1) 
 	txtFever.text = playerFeverValue..'/'..feverValueLimit
 end
 function UpdateScore()
 	txtScore.text = string.format("%06d",playerScore) 
 end
 function UpdateScoreAnim()
-	txtScore:DOText(string.format("%06d",playerScore)  ,0.5,true,DG.Tweening.ScrambleMode.Numerals)
+	txtScore:DOText(string.format("%06d",playerScore)  ,0.5,true,CS.DG.Tweening.ScrambleMode.Numerals)
 end
 function UpdatePlayerActTime()
 	txtPlayerTime.text = string.format("%02d",math.ceil(playerActMaxTime - playerActTimer)) 
