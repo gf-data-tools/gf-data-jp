@@ -1,5 +1,16 @@
 local util = require 'xlua.util'
 local config = require ('collaboration/ZLSR/MinigameDanceConfig')
+xlua.private_accessible(CS.CommonAudioController)
+xlua.private_accessible(CS.CommonController)
+xlua.private_accessible(CS.ResManager)
+xlua.private_accessible(CS.BattleManualSkillController)
+xlua.private_accessible(CS.BattleMemberController)
+xlua.private_accessible(CS.GF.Battle.BattleCharacterController)
+xlua.private_accessible(CS.GF.Battle.CSkillInstance)
+xlua.private_accessible(CS.BattleFieldTeamHolder)
+xlua.private_accessible(CS.GF.Battle.BattleStatistics)
+xlua.private_accessible(CS.BattleSkillCfg)
+xlua.private_accessible(CS.ExButton)
 
 local leaderSpine
 local centerSpine
@@ -8,19 +19,19 @@ local spineList={}
 local _imgCombo,_imgComboNum1,_imgComboNum2,_imgComboNum3
 local _imgComboCoef,_imgComboCoefNum1,_imgComboCoefNum2,_imgComboCoefDot
 local _imgDanceProgressBar,_imgFeverGauge
-local spriteListCombo,spriteListComboNum,spriteListComboCoef,spriteListComboCoefText,spriteListComboCoefDot,spriteListActionItem
+local spriteListCombo,spriteListComboNum,spriteListComboCoef,spriteListComboCoefText,spriteListComboCoefDot,spriteListActionItem,spriteListResultScore
 local txtTime,txtScore,txtFever,txtPlayerTime
 
 local goActionButton1,goActionButton2,goActionButton3,goActionButton4,goActionButton5
 local btnActionButton1,btnActionButton2,btnActionButton3,btnActionButton4,btnActionButton5
 --local imgAction1,imgAction2,imgAction3,imgAction4,imgAction5
 local goActionButton1HL,goActionButton2HL,goActionButton3HL,goActionButton4HL,goActionButton5HL
-
 local playerCombo = 0
 local playerMaxCombo = -1
 local curComboLevel = 1
 local playerFeverValue = 0
 local playerScore = 0
+local playerUsedTime = 0
 
 local normalRoundCount = 0
 local feverValueLimit
@@ -34,18 +45,22 @@ local leadDanceTimer = 0
 local leadDanceMaxTime
 
 local isPlayerAct = false
+local isPlayerActDance = false
 local playerActTimer = 0
 local playerActMaxTime
 local curPlayerActPosition = 1
 local playerActSuccessCount = 0
 local isPlayerActSuccessFinish = false
 
+local WaitForPlayerDance1 = false
+local WaitForPlayerDance2 = false
 local isPlayerDance = false
 local playerDanceTimer  =0
 local playerDanceMaxTime  =0
 
 local danceTotalFrame
 
+local isUIPausing = false
 local danceActionItemList = {}
 Awake = function()
 	
@@ -99,6 +114,7 @@ Start = function()
 	spriteListComboCoefText = imgComboCoef1:GetComponent(typeof(CS.UGUISpriteHolder))
 	spriteListComboCoefDot = imgComboCoefDot:GetComponent(typeof(CS.UGUISpriteHolder))
 	spriteListActionItem = goDanceActionItem.transform:Find("Img_ActionIcon"):GetComponent(typeof(CS.UGUISpriteHolder))
+	spriteListResultScore = goResultScoreItem:GetComponent(typeof(CS.UGUISpriteHolder))
 	txtPlayerTime = textDanceRemainTime:GetComponent(typeof(CS.ExText))
 	txtScore = textScore:GetComponent(typeof(CS.ExText))
 	txtFever = textFever:GetComponent(typeof(CS.ExText))
@@ -174,6 +190,22 @@ Start = function()
 			end
 		end
 	)
+	goShow.transform:Find("Img_BlurBG").gameObject:AddComponent(typeof(CS.ExButton)).onClick:AddListener(
+		function()
+			EndGame()
+		end)
+	btnPause:GetComponent(typeof(CS.ExButton)).onClick:AddListener(
+		function()
+			PauseGame(true)
+		end)
+	btnPauseEndGame:GetComponent(typeof(CS.ExButton)).onClick:AddListener(
+		function()
+			ExitGame()
+		end)
+	btnPauseContinue:GetComponent(typeof(CS.ExButton)).onClick:AddListener(
+		function()
+			PauseGame(false)
+		end)
 	UpdateCombo(0)
 	UpdateFever(0)
 	UpdateScore(playerScore)
@@ -203,6 +235,14 @@ Update = function()
 		UpdatePlayerActTime()
 		if playerActTimer >= playerActMaxTime then
 			FinishPlayerActPhase(false)
+		end
+		
+	end
+	if isPlayerActDance then
+		leadDanceTimer = leadDanceTimer + CS.UnityEngine.Time.deltaTime
+		if leadDanceTimer >= leadDanceMaxTime then
+			isPlayerActDance = false
+			CallPlayerDancePhase(2)
 		end
 	end
 	if isPlayerDance then
@@ -304,17 +344,22 @@ function StartLeadDance()
 	DiscardDanceActionItem()
 	SetDanceProgressBar(0)
 	--切换到领舞模式
-	goDanceLeader:SetActive(true)
-	goDanceDancer:SetActive(false)
+	goDanceLeader:SetActive(false)
+	goDanceDancer:SetActive(true)
 	--显示actionItem
-	for i=1,#danceSeq do
-		ShowDanceActionItem(i,danceSeq[i],0)
-	end
+	
 	--开始领舞计时
 	isLeadDance = true
 	leadDanceTimer = 0
-	leadDanceMaxTime = (danceTotalFrame + leadDanceExtraWaitFrame) / 30
-	PlayLeadDanceAnim()
+	if normalRoundCount == 1 then
+		leadDanceMaxTime = preWaitTimeFrameFirstRound / 30
+	else
+		leadDanceMaxTime = preWaitTimeFrame / 30
+	end
+	for i=1,#danceSeq do
+		ShowDanceActionItem(i,danceSeq[i],0)
+	end
+	--
 end
 --
 
@@ -332,17 +377,22 @@ function CoroutineLeadDance()
 end
 function FinishLeadDance()
 	isLeadDance = false
-	leaderSpine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, "wait",true, 0)
+	--leaderSpine:GetComponent(typeof(CS.SkeletonAnimation)).state:AddAnimation(0, "wait",true, 0)
 	
 	StartPlayerAction()
 end
 
 ---phase 玩家操作
 function StartPlayerAction()
+	
+	PlayLeadDanceAnim()
 	isPlayerAct = true
+	isPlayerActDance = true
 	--玩家可操作时间更新
 	playerActMaxTime = baseWaitTime + extraWaitTime * #danceSeq
+	leadDanceMaxTime = ((danceTotalFrame + playerDanceExtraWaitFrame) / 30)
 	playerActTimer = 0
+	leadDanceTimer = 0
 	--顶栏切换
 	goDanceLeader:SetActive(false)
 	goDanceDancer:SetActive(true)
@@ -391,6 +441,7 @@ function OnFailedAct(pos)
 end
 function FinishPlayerActPhase(isSuccess)
 	isPlayerActSuccessFinish  = isSuccess
+	playerUsedTime = playerUsedTime + math.ceil(playerActMaxTime - playerActTimer)
 	-- 如果失败则扣完combo
 	if not isSuccess then
 		UpdateCombo(0)
@@ -410,9 +461,23 @@ function FinishPlayerActPhase(isSuccess)
 	goDanceDancer.transform:GetChild(0).gameObject:SetActive(false)
 	goDanceDancer.transform:GetChild(1).gameObject:SetActive(false)
 	--表演阶段
-	StartPlayerDancePhase()
+	CallPlayerDancePhase(1)
 end
 ---phase 玩家操作表演
+function CallPlayerDancePhase(pos)
+	--这个阶段的表演如果比领舞完成的更早，就要等待；领舞等待时间结束才进行
+	if pos == 1 then
+		WaitForPlayerDance1 = true
+	else
+		WaitForPlayerDance2 = true
+	end
+	if WaitForPlayerDance1 and WaitForPlayerDance2 then
+		WaitForPlayerDance1 = false
+		WaitForPlayerDance2 = false
+		StartPlayerDancePhase()
+	end
+	
+end
 function StartPlayerDancePhase()
 	isPlayerDance = true
 	playerDanceTimer = 0
@@ -437,7 +502,6 @@ function StartPlayerDancePhase()
 		end	
 	end
 end
-
 function PlayNPCDanceAnim(spine,breakPoint)
 	self:StartCoroutine(CoroutinePlayerDance(spine,breakPoint))
 end
@@ -462,6 +526,7 @@ function FinishPlayerDancePhase()
 	isPlayerDance = false
 	--开始下个轮次
 	StartRound()
+	--ShowResult()
 end
 function GetSpineHolder(pos)
 	local transSpineHolder = goSpineHolder.transform
@@ -592,4 +657,49 @@ function UpdateScoreAnim()
 end
 function UpdatePlayerActTime()
 	txtPlayerTime.text = string.format("%02d",math.ceil(playerActMaxTime - playerActTimer)) 
+end
+function PauseGame(isPause)
+	isUIPausing = isPause
+	if isUIPausing then
+		goPauseMenu:SetActive(true)
+		CS.UnityEngine.Time.timeScale = 0
+	else
+		goPauseMenu:SetActive(false)
+		CS.UnityEngine.Time.timeScale = 1
+	end
+end
+function ExitGame()
+	CS.UnityEngine.Time.timeScale = 1
+	CS.BattleFrameManager.ResumeTime()
+	CS.GF.Battle.BattleController.Instance:TriggerBattleFinishEvent(true)
+	CS.UnityEngine.Object.Destroy(self.gameObject)
+end
+
+function ShowResult()
+	goResultScoreItem:SetActive(false)
+	goShow:SetActive(true)
+	if CS.GameData.userInfo ~= nil then
+		textResultName:GetComponent(typeof(CS.ExText)).text = CS.GameData.userInfo.name
+		textResultID:GetComponent(typeof(CS.ExText)).text = CS.GameData.userInfo.userId
+	end
+	textResultCombo:GetComponent(typeof(CS.ExText)).text = playerMaxCombo 
+	textResultTime:GetComponent(typeof(CS.ExText)).text = playerUsedTime
+	local strScore = tostring(playerScore) 
+	for i=1,string.len(strScore) do
+		local num = tonumber(string.sub(strScore,i,i)) 
+		local scoreitem =CS.UnityEngine.Object.Instantiate(goResultScoreItem) 
+		scoreitem.transform:SetParent(transResultScore.transform,false)
+		scoreitem:SetActive(true)
+		scoreitem:GetComponent(typeof(CS.ExImage)).sprite = spriteListResultScore.listSprite[num]
+	end
+end
+function EndGame()
+	
+	for i=CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter.Count-1,0,-1 do
+		local DamageInfo = CS.GF.Battle.BattleDamageInfo()
+		CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter[i]:UpdateLife(DamageInfo, -999999)
+	end
+	CS.BattleFrameManager.ResumeTime()
+	CS.UnityEngine.Object.Destroy(GoResult)
+	CS.UnityEngine.Object.Destroy(self.gameObject)
 end

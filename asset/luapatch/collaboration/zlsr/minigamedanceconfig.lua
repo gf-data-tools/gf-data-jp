@@ -29,9 +29,11 @@ feverScoreCoef = 100 --fever状态下连点得分
 feverDuration = 5 --fever持续时间（单位：秒）
 
 ------------------表现相关参数---------------------
---正常轮次：领舞->玩家操作->npc反馈
+--正常轮次：前置等待->领舞+玩家操作->npc反馈
 --fever轮次：展示进入fever->玩家操控（连点）->展示离开fever
 danceAnimFrame = {20,20,20,20,20} --舞蹈动作播放所需帧数 按照这个得出每轮领舞的舞步总时间（和spine动作对应）
+preWaitTimeFrameFirstRound = 90 -- 第一轮开始玩家输入之前的等待时
+preWaitTimeFrame = 30 -- 每轮开始玩家输入之前的等待时间
 leadDanceExtraWaitFrame = 30 --领舞动作结束后转到玩家操作的额外等待时间（单位：帧）
 playerDanceExtraWaitFrame = 30 --玩家舞蹈动作结束后转到下一轮的额外等待时间（单位：帧）
 feverStartingFrame = 240 --fever前转场时间

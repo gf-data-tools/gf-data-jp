@@ -519,6 +519,26 @@
     detail_introduction: item-30000106
   }
   {
+    id: 109
+    type: 3
+    arg: "10"
+    code: Medal_Theater8th
+    item_name: 第八戦区開拓者勲章
+    introduction: 第八期局地戦区にて、弛まぬ努力によって目覚ましいスコアを獲得したことを表彰します。「天を突く怒涛、荒ぶる巨浪、座して機を待つことも選べたにもかかわらず、君は勇敢に波に逆らい、進み続けた」
+    rank: 1
+    detail_introduction: item-30000109
+  }
+  {
+    id: 110
+    type: 3
+    arg: "11"
+    code: Medal_Theater8th_rank
+    item_name: 第八戦区征服者勲章
+    introduction: 第八期局地戦区にて、卓越した戦果を残したことを表彰します。「数々の強者が嵐の中で墜ちた。この止まない嵐を止めれるのは、君だけだけだった」
+    rank: 1
+    detail_introduction: item-30000110
+  }
+  {
     id: 301
     type: 1
     arg: "1"

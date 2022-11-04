@@ -6,7 +6,7 @@
         "evo_step": "1",
         "appearance_id": "1",
         "item_id": "100",
-        "medal_obtain": "大型イベントにて、全ての戦役をクリアして獲得。",
+        "medal_obtain": "大型イベントにて、全ての戦役をクリアした指揮官に授与します。",
         "medal_color": "#009bff",
         "is_date": "0",
         "decorate_code": ""
@@ -18,7 +18,7 @@
         "evo_step": "1,50,150,250,350,900",
         "appearance_id": "2,3,4,5,6,6",
         "item_id": "101",
-        "medal_obtain": "局地戦イベントにて、優秀な成績を収めて獲得。",
+        "medal_obtain": "局地戦イベントにて、優秀な成績を収めた指揮官に授与します。",
         "medal_color": "#ff9200",
         "is_date": "0",
         "decorate_code": ""
@@ -30,7 +30,7 @@
         "evo_step": "1,30,90,150,210,540",
         "appearance_id": "7,8,9,10,11,11",
         "item_id": "102",
-        "medal_obtain": "人形収集と家具収集ランキングにて、卓越した成績を収めて獲得。",
+        "medal_obtain": "人形収集と家具収集ランキングにて、優秀な成績を収めた指揮官に授与します。",
         "medal_color": "#009bff",
         "is_date": "0",
         "decorate_code": ""
@@ -42,7 +42,7 @@
         "evo_step": "1,6,18,30,50,120",
         "appearance_id": "12,13,14,15,16,16",
         "item_id": "103",
-        "medal_obtain": "カーニバルイベントで獲得。",
+        "medal_obtain": "カーニバルイベントにて活躍した指揮官に授与します。",
         "medal_color": "#12ff00",
         "is_date": "2",
         "decorate_code": ""
@@ -54,7 +54,7 @@
         "evo_step": "1",
         "appearance_id": "17",
         "item_id": "104",
-        "medal_obtain": "特殊な期間限定イベントにて、全ての戦役をクリアして獲得。",
+        "medal_obtain": "特殊な期間限定イベントにて、全ての戦役をクリアした指揮官に授与します。",
         "medal_color": "#ffd800",
         "is_date": "0",
         "decorate_code": ""
@@ -66,7 +66,7 @@
         "evo_step": "1,5,30,90,150",
         "appearance_id": "18,19,20,21,22",
         "item_id": "105",
-        "medal_obtain": "大型イベントにて、特殊な融合勢力作戦条件を達成して獲得。",
+        "medal_obtain": "大型イベントにて、融合勢力を指揮し、特別な作戦目標を達成した指揮官に授与します。",
         "medal_color": "#ff9200",
         "is_date": "2",
         "decorate_code": ""
@@ -78,9 +78,33 @@
         "evo_step": "1,50,150,300,600,1000",
         "appearance_id": "23,24,25,26,27,28",
         "item_id": "106",
-        "medal_obtain": "ラフベリーチェスで獲得。",
+        "medal_obtain": "ラフベリーチェスにて活躍した指揮官に授与します。",
         "medal_color": "#ff0000",
         "is_date": "2",
         "decorate_code": ""
+    },
+    {
+        "id": "10",
+        "name": "第八戦区開拓者勲章",
+        "order": "4",
+        "evo_step": "1",
+        "appearance_id": "42",
+        "item_id": "109",
+        "medal_obtain": "第八期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。",
+        "medal_color": "#ff0000",
+        "is_date": "2",
+        "decorate_code": "Logo_Events"
+    },
+    {
+        "id": "11",
+        "name": "第八戦区征服者勲章",
+        "order": "5",
+        "evo_step": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "appearance_id": "43,44,45,46,47,48,49,50,51,52,53,54",
+        "item_id": "110",
+        "medal_obtain": "第八期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。",
+        "medal_color": "#ff0000",
+        "is_date": "2",
+        "decorate_code": "Logo_Events"
     }
 ]
