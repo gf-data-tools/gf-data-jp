@@ -6490,6 +6490,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_mask_2020winter
     order: 100
     rarity: 5
@@ -6501,6 +6502,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-2000
+    onsale: 1
     code: profilePic_2020winter
     order: 1
     rarity: 5
@@ -6512,6 +6514,7 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: card_2020winter
     order: 1
     rarity: 5
@@ -9758,6 +9761,110 @@
     order: 1
     rarity: 5
     filter_type: "1"
+  }
+  {
+    id: 892
+    item_id: 1892
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Children2021_RPK203
+    order: 1
+    rarity: 5
+    skin: 5901
+    filter_type: "4"
+  }
+  {
+    id: 893
+    item_id: 1893
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Children2021_Lusa
+    order: 1
+    rarity: 5
+    skin: 5902
+    filter_type: "4"
+  }
+  {
+    id: 894
+    item_id: 1894
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Children2021_SACR
+    order: 1
+    rarity: 5
+    skin: 5903
+    filter_type: "4"
+  }
+  {
+    id: 895
+    item_id: 1895
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Children2021_PKP
+    order: 1
+    rarity: 5
+    skin: 5904
+    filter_type: "4"
+  }
+  {
+    id: 896
+    item_id: 1896
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Children2021_06TypeSMG
+    order: 1
+    rarity: 5
+    skin: 5905
+    filter_type: "4"
+  }
+  {
+    id: 897
+    item_id: 1897
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Children2021_Ak5
+    order: 1
+    rarity: 5
+    skin: 5906
+    filter_type: "4"
+  }
+  {
+    id: 898
+    item_id: 1898
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Children2021_M82
+    order: 1
+    rarity: 5
+    skin: 5907
+    filter_type: "4"
+  }
+  {
+    id: 899
+    item_id: 1899
+    sub_type: 1
+    gem: 80
+    item_ids: 508-2000
+    onsale: 1
+    code: profilePic_Children2021_wz29
+    order: 1
+    rarity: 5
+    skin: 5908
+    filter_type: "4"
   }
   {
     id: 900

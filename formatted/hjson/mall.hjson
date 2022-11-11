@@ -23523,7 +23523,6 @@
     item_ids: 7-1,41-100
     gift: 5103-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(97式)
     event_code: dailyGiftbag
@@ -23605,6 +23604,48 @@
     icon: Bumdle_jyuusou
     discount: 1.0
     classification_id: 3002
+  }
+  {
+    id: 31334
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 5902-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(Lusa)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin01
+    discount: 1.0
+    classification_id: 3003
+  }
+  {
+    id: 31335
+    type: 8
+    item_ids: 7-1,41-50
+    gift: 5906-1
+    gemprice: 1888
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(Ak 5)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin06
+    discount: 1.0
+    classification_id: 3003
+  }
+  {
+    id: 31336
+    type: 8
+    item_ids: 41-50
+    gift: 5908-1
+    gemprice: 999
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(wz.29)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin03
+    discount: 1.0
+    classification_id: 3003
   }
   {
     id: 99001

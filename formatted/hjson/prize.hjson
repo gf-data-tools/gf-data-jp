@@ -15502,6 +15502,610 @@
     content: prize-20006880
   }
   {
+    id: 6889
+    name: 直進性II-任務報酬
+    item_ids: 9-100
+    content: prize-20006889
+  }
+  {
+    id: 6890
+    name: 臨界角II-任務報酬
+    coins: 1-200
+    content: prize-20006890
+  }
+  {
+    id: 6891
+    name: 反射面III-任務報酬
+    coins: 2-200
+    content: prize-20006891
+  }
+  {
+    id: 6892
+    name: 全反射II-任務報酬
+    core: 10
+    content: prize-20006892
+  }
+  {
+    id: 6893
+    name: 可逆性II-任務報酬
+    item_ids: 44-200
+    content: prize-20006893
+  }
+  {
+    id: 6894
+    name: 導波管II-任務報酬
+    content: prize-20006894
+    fairy_ids: 26-0-100-5,26-0-100-5
+  }
+  {
+    id: 6895
+    name: 干渉計II-任務報酬
+    item_ids: 51-2
+    content: prize-20006895
+  }
+  {
+    id: 6896
+    name: 偏光器II-任務報酬
+    item_ids: 14-200
+    content: prize-20006896
+  }
+  {
+    id: 6897
+    name: 分光器II-任務報酬
+    coins: 1-500
+    content: prize-20006897
+  }
+  {
+    id: 6898
+    name: 鏡像体過剰III-任務報酬
+    item_ids: 1-5
+    content: prize-20006898
+  }
+  {
+    id: 6899
+    name: 不斉誘導II-任務報酬
+    item_ids: 3-5
+    content: prize-20006899
+  }
+  {
+    id: 6900
+    name: 焼戻しII-任務報酬
+    item_ids: 46-200
+    content: prize-20006900
+  }
+  {
+    id: 6901
+    name: 切断II-任務報酬
+    core: 25
+    content: prize-20006901
+  }
+  {
+    id: 6902
+    name: 鍍銀II-任務報酬
+    item_ids: 1-5
+    content: prize-20006902
+  }
+  {
+    id: 6903
+    name: 粉砕II-任務報酬
+    item_ids: 45-350
+    content: prize-20006903
+  }
+  {
+    id: 6904
+    name: 鍍銀III-任務報酬
+    item_ids: 51-2
+    content: prize-20006904
+  }
+  {
+    id: 6905
+    name: 予熱II-任務報酬
+    item_ids: 506-100
+    content: prize-20006905
+  }
+  {
+    id: 6906
+    name: 観測可能限界III-任務報酬
+    item_ids: 44-50
+    content: prize-20006906
+  }
+  {
+    id: 6907
+    name: 泡沫安定化II-任務報酬
+    item_ids: 9-50
+    content: prize-20006907
+  }
+  {
+    id: 6908
+    name: 光円錐座標系II-任務報酬
+    item_ids: 51-2
+    content: prize-20006908
+  }
+  {
+    id: 6909
+    name: 観測可能限界II-任務報酬
+    core: 5
+    content: prize-20006909
+  }
+  {
+    id: 6910
+    name: 黒体放射II-任務報酬
+    content: prize-20006910
+    fairy_ids: 26-0-100-5,26-0-100-5,26-0-100-5
+  }
+  {
+    id: 6911
+    name: 脱出速度II-任務報酬
+    item_ids: 44-100
+    content: prize-20006911
+  }
+  {
+    id: 6912
+    name: 真空管EX-任務報酬
+    item_ids: 45-400
+    content: prize-20006912
+  }
+  {
+    id: 6913
+    name: 臨界角EX-I-任務報酬
+    item_ids: 15-200
+    content: prize-20006913
+  }
+  {
+    id: 6914
+    name: 臨界角EX-II-任務報酬
+    item_ids: 51-2
+    content: prize-20006914
+  }
+  {
+    id: 6915
+    name: 泡沫安定化EX-任務報酬
+    item_ids: 51-2
+    content: prize-20006915
+  }
+  {
+    id: 6916
+    name: 観測可能限界EX-任務報酬
+    item_ids: 45-200
+    content: prize-20006916
+  }
+  {
+    id: 6917
+    name: 脱出速度EX-任務報酬
+    content: prize-20006917
+  }
+  {
+    id: 6919
+    name: 反射面II-任務報酬
+    gift: 200001-200
+    content: prize-20006919
+  }
+  {
+    id: 6920
+    name: 偏光器III-任務報酬
+    item_ids: 506-200
+    content: prize-20006920
+  }
+  {
+    id: 6921
+    name: 偏極面粉砕III-任務報酬
+    coins: 2-500
+    content: prize-20006921
+  }
+  {
+    id: 6922
+    name: 再結晶分割III-任務報酬
+    coins: 3-500
+    content: prize-20006922
+  }
+  {
+    id: 6923
+    name: 焼鈍しEX-任務報酬
+    coins: 3-500
+    content: prize-20006923
+  }
+  {
+    id: 6924
+    name: 焼鈍しI-任務報酬
+    item_ids: 41-40
+    content: prize-20006924
+  }
+  {
+    id: 6925
+    name: 焼鈍しIII-任務報酬
+    item_ids: 41-40
+    content: prize-20006925
+  }
+  {
+    id: 6926
+    name: 点灯管-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006926
+  }
+  {
+    id: 6927
+    name: 直進性I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006927
+  }
+  {
+    id: 6928
+    name: 屈折点-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006928
+  }
+  {
+    id: 6929
+    name: 臨界角I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006929
+  }
+  {
+    id: 6930
+    name: 反射面I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006930
+  }
+  {
+    id: 6931
+    name: 臨界角III-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006931
+  }
+  {
+    id: 6932
+    name: 全反射I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006932
+  }
+  {
+    id: 6933
+    name: 正弦曲線-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006933
+  }
+  {
+    id: 6934
+    name: 可逆性I-任務報酬
+    gift: 200001-50
+    content: prize-20006934
+  }
+  {
+    id: 6935
+    name: 余弦波信号-任務報酬
+    item_ids: 44-50
+    content: prize-20006935
+  }
+  {
+    id: 6936
+    name: 偏光器I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006936
+  }
+  {
+    id: 6937
+    name: 回折格子-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006937
+  }
+  {
+    id: 6938
+    name: 導波管I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006938
+  }
+  {
+    id: 6939
+    name: 分割器-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006939
+  }
+  {
+    id: 6940
+    name: 干渉計I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006940
+  }
+  {
+    id: 6941
+    name: 絞り-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006941
+  }
+  {
+    id: 6942
+    name: 真空管-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006942
+  }
+  {
+    id: 6943
+    name: 加速器-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006943
+  }
+  {
+    id: 6944
+    name: 分光器I-任務報酬
+    item_ids: 506-50
+    content: prize-20006944
+  }
+  {
+    id: 6945
+    name: 検光子-任務報酬
+    item_ids: 506-50
+    content: prize-20006945
+  }
+  {
+    id: 6946
+    name: 鏡像体過剰I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006946
+  }
+  {
+    id: 6947
+    name: 鏡像体過剰II-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006947
+  }
+  {
+    id: 6948
+    name: 再結晶分割I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006948
+  }
+  {
+    id: 6949
+    name: 偏極面粉砕I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006949
+  }
+  {
+    id: 6950
+    name: 再結晶分割II-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006950
+  }
+  {
+    id: 6951
+    name: 偏極面粉砕II-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006951
+  }
+  {
+    id: 6952
+    name: 不斉誘導I-任務報酬
+    item_ids: 46-50
+    content: prize-20006952
+  }
+  {
+    id: 6953
+    name: 光学異性体-任務報酬
+    item_ids: 506-50
+    content: prize-20006953
+  }
+  {
+    id: 6954
+    name: 粉砕I-任務報酬
+    item_ids: 44-50
+    content: prize-20006954
+  }
+  {
+    id: 6955
+    name: 混合-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006955
+  }
+  {
+    id: 6956
+    name: 予熱I-任務報酬
+    item_ids: 506-50
+    content: prize-20006956
+  }
+  {
+    id: 6957
+    name: 焼結-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006957
+  }
+  {
+    id: 6958
+    name: 発泡-任務報酬
+    item_ids: 44-50
+    content: prize-20006958
+  }
+  {
+    id: 6959
+    name: 泡沫安定化I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006959
+  }
+  {
+    id: 6960
+    name: 成型-任務報酬
+    item_ids: 44-50
+    content: prize-20006960
+  }
+  {
+    id: 6961
+    name: 焼鈍しII-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006961
+  }
+  {
+    id: 6962
+    name: 焼戻しI-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006962
+  }
+  {
+    id: 6963
+    name: 切断I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006963
+  }
+  {
+    id: 6964
+    name: 研磨-任務報酬
+    gift: 200001-50
+    content: prize-20006964
+  }
+  {
+    id: 6965
+    name: 鍍銀I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006965
+  }
+  {
+    id: 6966
+    name: 虚像改鋳任務報酬
+    item_ids: 44-50
+    content: prize-20006966
+  }
+  {
+    id: 6967
+    name: 不可知特異点-任務報酬
+    item_ids: 506-50
+    content: prize-20006967
+  }
+  {
+    id: 6968
+    name: 観測可能限界I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006968
+  }
+  {
+    id: 6969
+    name: 光円錐座標系I-任務報酬
+    item_ids: 44-50
+    content: prize-20006969
+  }
+  {
+    id: 6970
+    name: 因果隔離面-任務報酬
+    item_ids: 506-50
+    content: prize-20006970
+  }
+  {
+    id: 6971
+    name: 黒体放射I-任務報酬
+    item_ids: 46-50
+    content: prize-20006971
+  }
+  {
+    id: 6972
+    name: 脱出速度I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006972
+  }
+  {
+    id: 6973
+    name: 事象の地平線の先へ-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20006973
+  }
+  {
+    id: 6974
+    name: 脱出速度EXII-任務報酬
+    content: prize-20006974
+  }
+  {
     id: 7001
     name: <深層映写>虚数迷宮PLUSポイントランキング1位報酬
     mp: 30000
@@ -20209,6 +20813,42 @@
     name: prize-10012184
     furniture: "7231"
     content: prize-20012184
+  }
+  {
+    id: 12192
+    name: prize-10012192
+    furniture: "1927"
+    content: prize-20012192
+  }
+  {
+    id: 12193
+    name: prize-10012193
+    furniture: "1928"
+    content: prize-20012193
+  }
+  {
+    id: 12194
+    name: prize-10012194
+    furniture: "1929"
+    content: prize-20012194
+  }
+  {
+    id: 12195
+    name: prize-10012195
+    furniture: "1930"
+    content: prize-20012195
+  }
+  {
+    id: 12196
+    name: prize-10012196
+    furniture: "1931"
+    content: prize-20012196
+  }
+  {
+    id: 12197
+    name: prize-10012197
+    furniture: "1932"
+    content: prize-20012197
   }
   {
     id: 12201

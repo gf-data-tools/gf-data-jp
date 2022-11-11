@@ -16214,12 +16214,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "244"
+    support_available: 1
     drop_mission_key: "0,0,1038900:1"
     mission_group_id: 10
     open_mission_keys: 1042700:1
     mission_describe: mission-20010389
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "360101,360111"
     difficulty_recommend: 1000;10
@@ -16247,12 +16247,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "244"
+    support_available: 1
     drop_mission_key: "0,0,1039000:1"
     mission_group_id: 10
     open_mission_keys: 1042900:1
     mission_describe: mission-20010390
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "1,360801"
     difficulty_recommend: 2500;20
@@ -16274,19 +16274,19 @@
     expect_turn: 6
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "202,314,232"
+    limit_gun_pool: "314,232"
     limit_team: "2"
     map_res_name: OPS37_Y
     map_information: "9000,9000|5000,3400|2000,1800"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "245"
+    support_available: 1
     drop_mission_key: "0,0,1039100:1"
     mission_group_id: 10
     open_mission_keys: 1041900:1
     mission_describe: mission-20010391
     round_config: 1:1,2:5,3:2
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "360311,360301"
     difficulty_recommend: 2800;20
@@ -16308,20 +16308,20 @@
     expect_turn: 5
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "274,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "3"
     map_res_name: OPS37_Y
     map_information: "12000,12000|5200,4300|600,2500"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "246"
+    support_available: 1
     expect_hostage_num: "2,2"
     drop_mission_key: "0,0,1039200:1"
     mission_group_id: 10
     open_mission_keys: 1043200:1
     mission_describe: mission-20010392
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "360201,360211"
     difficulty_recommend: 3000;25
@@ -16343,19 +16343,19 @@
     expect_turn: 6
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "272,314,232"
+    limit_gun_pool: "314,232"
     limit_team: "2"
     map_res_name: OPS37_Y
     map_information: "10000,10000|4900,3550|-850,1100"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "246"
+    support_available: 1
     drop_mission_key: "0,0,1039300:1"
     mission_group_id: 10
     open_mission_keys: 1043400:1
     mission_describe: mission-20010393
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "365001"
     difficulty_recommend: 4000;35
@@ -16377,19 +16377,19 @@
     expect_turn: 6
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "289,267,284"
+    limit_gun_pool: "267,284"
     limit_team: "2"
     map_res_name: OPS33_Y
     map_information: "20000,20000|5100,4000|7700,-2700"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "246"
+    support_available: 1
     drop_mission_key: "0,0,1039400:1"
     mission_group_id: 10
     open_mission_keys: 1043800:1
     mission_describe: mission-20010394
     round_config: 1:1,2:5,3:2
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "360601,360611"
     difficulty_recommend: 4200;35
@@ -16411,19 +16411,19 @@
     expect_turn: 6
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "234,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "2"
     map_res_name: OPS33_Y
     map_information: "16000,16000|4800,3700|6370,-100"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "246"
+    support_available: 1
     drop_mission_key: "0,0,1039500:1"
     mission_group_id: 10
     open_mission_keys: 1044000:1
     mission_describe: mission-20010395
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "367001,367011"
     difficulty_recommend: 4500;40
@@ -16452,12 +16452,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "248"
+    support_available: 1
     drop_mission_key: "0,0,1039600:1;0,0,1039600:1"
     mission_group_id: 10
     open_mission_keys: 1043600:1
     mission_describe: mission-20010396
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: 1|360401
     difficulty_recommend: 4600;44
@@ -16486,13 +16486,13 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "248"
+    support_available: 1
     drop_mission_key: "0,0,1039700:1"
     mission_group_id: 10
     open_mission_keys: 1044400:1
     mission_describe: mission-20010397
     force_type: "1"
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "360901"
     difficulty_recommend: 4700;44
@@ -16514,20 +16514,20 @@
     expect_turn: 6
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "250,267,284"
+    limit_gun_pool: "267,284"
     limit_team: "2"
     map_res_name: OPS34_Y
     map_information: "20000,20000|5000,3550|1500,520"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "249"
+    support_available: 1
     drop_mission_key: "0,0,1039800:1"
     mission_group_id: 10
     open_mission_keys: 1044700:1
     mission_describe: mission-20010398
     force_type: "1"
     round_config: 1:1,2:2,3:6
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "361001,361011"
     difficulty_recommend: 5700;52
@@ -16549,20 +16549,20 @@
     expect_turn: 7
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "274,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "3"
     map_res_name: OPS35_Y
     map_information: "10000,10000|5500,5000|1600,-1800"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "249"
+    support_available: 1
     expect_defend_line_turn: 2
     drop_mission_key: "0,0,1039900:1"
     mission_group_id: 10
     open_mission_keys: 1045200:1
     mission_describe: mission-20010399
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "3611001"
     difficulty_recommend: 6200;56
@@ -16584,18 +16584,18 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "272,314,232"
+    limit_gun_pool: "314,232"
     map_res_name: OPS35_Y
     map_information: "10000,10000|6400,3800|-200,-1500"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "249"
+    support_available: 1
     drop_mission_key: "0,0,1040000:1;0,0,1040001:1"
     mission_group_id: 10
     open_mission_keys: 1046200:1
     mission_describe: mission-20010400
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 1
     win_type: "361202,361200,361203|361201,361204"
     difficulty_recommend: 12000;80
@@ -16617,18 +16617,18 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "289,267,284"
+    limit_gun_pool: "267,284"
     map_res_name: OPS34_Y
     map_information: "14600,14600|6300,3500|600,600"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "249"
+    support_available: 1
     drop_mission_key: "0,0,1040100:1"
     mission_group_id: 10
     open_mission_keys: 1046300:1
     mission_describe: mission-20010401
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 1
     win_type: "361300"
     difficulty_recommend: 12000;80
@@ -16650,18 +16650,18 @@
     expect_turn: 5
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "234,220,241"
+    limit_gun_pool: "220,241"
     map_res_name: OPS34_Y
     map_information: "14500,14500|5000,3800|1600,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "249"
+    support_available: 1
     drop_mission_key: "0,0,1040200:1;0,0,1040201:1"
     mission_group_id: 10
     open_mission_keys: 1046500:1
     mission_describe: mission-20010402
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 1
     win_type: "361400,361401,361403|361402,361404"
     difficulty_recommend: 12000;80
@@ -16689,12 +16689,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "248"
+    support_available: 1
     drop_mission_key: "0,0,1040300:1"
     mission_group_id: 10
     open_mission_keys: 1045400:1
     mission_describe: mission-20010403
     round_config: 1:1,2:4,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 2
     win_type: "361500,361501,361502"
     difficulty_recommend: 12000;80
@@ -16723,12 +16723,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "248"
+    support_available: 1
     drop_mission_key: "0,0,1040400:1;0,0,1040401:1"
     mission_group_id: 10
     open_mission_keys: 1040200:1|1040201:1
     mission_describe: mission-20010404
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 1
     win_type: "361600,361604|361601,361602,361600,361603"
     difficulty_recommend: 14000;85
@@ -16750,18 +16750,18 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "146,202,220,241"
+    limit_gun_pool: "220,241"
     map_res_name: BloodNetwork_Y
     map_information: "5760,5040|3000,3000|0,0"
     fog_length: "0,400"
     fog_color: "#000000FF"
     draw_event_s_id: "260"
+    support_available: 1
     drop_mission_key: "0,0,1040500:1"
     mission_group_id: 10
     open_mission_keys: 1045600:1
     mission_describe: mission-20010405
     round_config: 1:1,2:4,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 2
     win_type: "1"
     difficulty_recommend: 12000;80
@@ -16784,20 +16784,20 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "250,274,314,232"
+    limit_gun_pool: "314,232"
     limit_team: "4"
     map_res_name: OPS34_Y
     map_information: "8000,8000|4000,3600|1600,-500"
     fog_length: "0,400"
     fog_color: "#000000FF"
     draw_event_s_id: "261"
+    support_available: 1
     drop_mission_key: "0,0,1040600:1"
     mission_group_id: 10
     open_mission_keys: 1046800:1
     mission_describe: mission-20010406
     force_type: "1"
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 2
     win_type: "361801"
     difficulty_recommend: 14000;85
@@ -16819,19 +16819,19 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "272,289,267,284"
+    limit_gun_pool: "267,284"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "5760,5040|4000,3200|0,0"
     fog_length: "0,400"
     fog_color: "#000000FF"
     draw_event_s_id: "261"
+    support_available: 1
     drop_mission_key: "0,0,1040700:1"
     mission_group_id: 10
     open_mission_keys: 1045900:1
     mission_describe: mission-20010407
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 2
     win_type: "361901"
     difficulty_recommend: 12000;80
@@ -16854,19 +16854,19 @@
     expect_turn: 7
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "234,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "4"
     map_res_name: OPS36_Y
     map_information: "8000,8000|4000,3000|2000,-600"
     fog_length: "0,400"
     fog_color: "#000000FF"
     draw_event_s_id: "261"
+    support_available: 1
     drop_mission_key: "0,0,1040800:1"
     mission_group_id: 10
     open_mission_keys: 1040600:1
     mission_describe: mission-20010408
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 2
     win_type: "362001"
     difficulty_recommend: 14000;85
@@ -16894,6 +16894,7 @@
     map_information: "15000,15000|1500,1200|400,-800"
     fog_length: "0,400"
     fog_color: "#000000FF"
+    support_available: 1
     drop_mission_key: "0,0,1040900:1"
     mission_group_id: 10
     open_mission_keys: 1046800:1
@@ -16928,12 +16929,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "260"
+    support_available: 1
     drop_mission_key: "0,0,1041000:1;0,0,1041000:1"
     mission_group_id: 10
     open_mission_keys: 1047100:1
     mission_describe: mission-20010410
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "362200,362201|362210,3,5"
     difficulty_recommend: 14000;85
@@ -16961,12 +16962,12 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "260"
+    support_available: 1
     drop_mission_key: "0,0,1041100:1"
     mission_group_id: 10
     open_mission_keys: 1047200:1
     mission_describe: mission-20010411
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "362300"
     difficulty_recommend: 14000;85
@@ -16989,19 +16990,19 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "146,202,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "5"
     map_res_name: BloodNetwork_Y
     map_information: "11520,10080|5500,3200|300,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "251"
+    support_available: 1
     drop_mission_key: "0,0,1041200:1"
     mission_group_id: 10
     open_mission_keys: 1044300:1;1044500:1
     mission_describe: mission-20010412
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 2
     win_type: "2"
     difficulty_recommend: 26000;99
@@ -17024,19 +17025,19 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "250,274,314,232"
+    limit_gun_pool: "314,232"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "5760,5040|2700,1500|700,-100"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "252"
+    support_available: 1
     drop_mission_key: "0,0,1041300:1"
     mission_group_id: 10
     open_mission_keys: 1043100:1;1043500:1
     mission_describe: mission-20010413
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "362500"
     difficulty_recommend: 30000;99
@@ -17059,19 +17060,19 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "272,289,267,284"
+    limit_gun_pool: "267,284"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "11520,10080|4600,2580|8950,2100"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "255"
+    support_available: 1
     drop_mission_key: "0,0,1041400:1"
     mission_group_id: 10
     open_mission_keys: 1041300:1
     mission_describe: mission-20010414
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "362600,362601"
     difficulty_recommend: 34000;99
@@ -17100,13 +17101,13 @@
     fog_length: "50,500"
     fog_color: "#000000FF"
     draw_event_s_id: "254"
+    support_available: 1
     expect_hostage_num: "1,1"
     drop_mission_key: "0,0,1041500:1;0,0,1041500:1"
     mission_group_id: 10
     open_mission_keys: 1046600:1
     mission_describe: mission-20010415
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: mission-30010415
@@ -17132,18 +17133,18 @@
     expect_turn: 8
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "250,234,314,232"
+    limit_gun_pool: "314,232"
     map_res_name: OPS40_Y
     map_information: "3570,3570|4000,2600|-100,200"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "255"
+    support_available: 1
     drop_mission_key: "0,0,1041600:1"
     mission_group_id: 10
     open_mission_keys: 1047300:1
     mission_describe: mission-20010416
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "362800"
     difficulty_recommend: 42000;99
@@ -17171,12 +17172,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 13
-    limit_gun_pool: "274,272,267,284"
+    limit_gun_pool: "267,284"
     map_res_name: OPS36_Y
     map_information: "14500,14500|7000,5400|-4300,100"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "255"
+    support_available: 1
     supply_parameter: 8;20-2;500
     drop_mission_key: "0,0,1041700:1"
     mission_group_id: 10
@@ -17184,7 +17186,6 @@
     mission_describe: mission-20010417
     force_type: "1"
     round_config: 1:1,2:5,3:6
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: 4
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: mission-30010417
@@ -17206,12 +17207,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 8
-    limit_gun_pool: "250,234,297,295,146,202,314,232,267,284,220,241"
+    limit_gun_pool: "251,234,297,295,275,98,277,278,279,284,268,271"
     limit_team: "10"
     map_res_name: OPS38_Y
     map_information: "9000,9000|8300,5200|50,400"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    support_available: 1
     random_line_spot: "90674,90660,90658"
     drop_mission_key: "0,0,1041800:1"
     mission_group_id: 10
@@ -17240,19 +17242,19 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "146,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "2"
     map_res_name: OPS37_Y
     map_information: "9000,9000|3500,2800|3400,-4000"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "245"
+    support_available: 1
     drop_mission_key: "0,0,1041900:1"
     mission_group_id: 10
     open_mission_keys: 1043000:1
     mission_describe: mission-20010419
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "1,363101"
     difficulty_recommend: 2600;20
@@ -17275,19 +17277,19 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "250,267,284"
+    limit_gun_pool: "267,284"
     limit_team: "2"
     map_res_name: OPS33_Y
     map_information: "16000,16000|4000,2900|3950,-2350"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "246"
+    support_available: 1
     drop_mission_key: "0,0,1042000:1"
     mission_group_id: 10
     open_mission_keys: 1039600:1
     mission_describe: mission-20010420
     round_config: 1:1,2:7,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "3610301,3610311"
     difficulty_recommend: 3500;35
@@ -17310,20 +17312,20 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "146,220,241"
+    limit_gun_pool: "220,241"
     limit_team: "2"
     map_res_name: OPS33_Y
     map_information: "19000,19000|4000,3000|4280,-2700"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "248"
+    support_available: 1
     expect_defend_line_turn: 2
     drop_mission_key: "0,0,1042100:1"
     mission_group_id: 10
     open_mission_keys: 1045100:1
     mission_describe: mission-20010421
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "3612001"
     difficulty_recommend: 4800;44
@@ -17346,19 +17348,19 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "202,314,232"
+    limit_gun_pool: "314,232"
     limit_team: "3"
     map_res_name: OPS33_Y
     map_information: "16000,16000|5500,4300|3800,-1050"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "248"
+    support_available: 1
     drop_mission_key: "0,0,1042200:1"
     mission_group_id: 10
     open_mission_keys: 1045000:1
     mission_describe: mission-20010422
     round_config: 1:1,2:5,3:3
-    draw_code: 0;9004,40,PolarizedLight_MissionPanelTip
     limit_squad: -1
     win_type: "3611301,3611311"
     difficulty_recommend: 4900;44
@@ -17384,6 +17386,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "244"
+    support_available: 1
     drop_mission_key: "0,0,1042300:1"
     mission_group_id: 10
     open_mission_keys: 1046600:1
@@ -17416,6 +17419,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "244"
+    support_available: 1
     drop_mission_key: "0,0,1042400:1"
     mission_group_id: 10
     open_mission_keys: 1046000:1
@@ -17449,6 +17453,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "244"
+    support_available: 1
     drop_mission_key: "0,0,1042500:1"
     mission_group_id: 10
     open_mission_keys: 1046100:1
