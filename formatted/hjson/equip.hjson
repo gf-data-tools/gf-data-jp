@@ -7435,6 +7435,39 @@
     obtain_ids: "3061"
   }
   {
+    id: 248
+    name: 9A高性能チップ
+    description:
+      '''
+      火力+<pow>
+      射速+<rate>スキル追加$9A-91占用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "8,10"
+    rate: "12,16"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_芯片_9A91
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "118"
+    equip_introduction: 9A-91のために用意されたアップグレードチップ。人形の性能を大きく引き上げる。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:500,rate:600
+    passive_skill: "756117"
+    max_level: 10
+    auto_select_id: 20042
+    is_show: 1
+    obtain_ids: "3011"
+  }
+  {
     id: 251
     name: 揺れる魔の鐘
     description:
