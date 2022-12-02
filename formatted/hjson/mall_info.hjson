@@ -331,6 +331,28 @@
     classification_id: "5004"
   }
   {
+    id: "35"
+    type: "1"
+    sort: "3"
+    item_ids: 10606-5
+    gemprice: "20"
+    giftbag_name: mall-10000035
+    discount: "1.00"
+    label: "1"
+    classification_id: "5004"
+  }
+  {
+    id: "36"
+    type: "1"
+    sort: "3"
+    item_ids: 10606-5
+    gemprice: "20"
+    giftbag_name: mall-10000036
+    discount: "1.00"
+    label: "1"
+    classification_id: "5004"
+  }
+  {
     id: "253"
     type: "8"
     quota: "2001"
@@ -23611,7 +23633,6 @@
     item_ids: 7-1,41-100
     gift: 5902-1
     gemprice: "2588"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(Lusa)
     event_code: dailyGiftbag
@@ -23625,7 +23646,6 @@
     item_ids: 7-1,41-50
     gift: 5906-1
     gemprice: "1888"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(Ak 5)
     event_code: dailyGiftbag
@@ -23639,7 +23659,6 @@
     item_ids: 41-50
     gift: 5908-1
     gemprice: "999"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(wz.29)
     event_code: dailyGiftbag
@@ -23748,6 +23767,87 @@
     daily_quota: "1"
     discount: "1.00"
     prize_id: "265"
+    classification_id: "3002"
+  }
+  {
+    id: "31345"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 5304-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(HS2000)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin02
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31346"
+    type: "8"
+    item_ids: 41-50
+    gift: 5307-1
+    gemprice: "1288"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(PM1910)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31347"
+    type: "8"
+    item_ids: 7-1,41-50
+    gift: 5306-1
+    gemprice: "1888"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(K5)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin01
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31348"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 6604-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(VP1915)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin04
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31349"
+    type: "8"
+    gemprice: "999"
+    quota: "2002"
+    giftbag_name: 復帰強化パック
+    event_code: dailyGiftbag
+    icon: Bumdle_fukki
+    discount: "1.00"
+    prize_id: "330303"
+    classification_id: "3002"
+  }
+  {
+    id: "31350"
+    type: "8"
+    item_ids: 515-3000,516-2000,514-300
+    gift: 400001-1000
+    gemprice: "999"
+    quota: "2002"
+    giftbag_name: 復帰突貫パック
+    event_code: dailyGiftbag
+    icon: Bumdle_fukki
+    discount: "1.00"
     classification_id: "3002"
   }
   {

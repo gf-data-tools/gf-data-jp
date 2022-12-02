@@ -1,5 +1,25 @@
 [
   {
+    id: -14
+    name: グリフィン
+    code: Org_Griffin
+    title: グリフィン
+    ai: 9999
+    unlock_text: npc-29999986
+    org_id: "101"
+    org_introduction: グリフォンが空高く舞うほど、各部門の連携がより重要となる。
+  }
+  {
+    id: -13
+    name: 指揮官
+    code: Org_Commander
+    title: 指揮官
+    ai: 9999
+    unlock_text: npc-29999987
+    org_id: "10101"
+    org_introduction: 若きグリフォンの騎士。行く道先には多くの困難が待ち受けているが、騎士には多くの仲間たちがいる。
+  }
+  {
     id: -12
     name: マホロ
     code: NPC_Maid
@@ -8,6 +28,7 @@
     is_adjutant: 1
     unlock_text: 緊急11-4をクリアで解放
     mission_id: 114
+    org_introduction: npc-39999988
   }
   {
     id: -11
@@ -18,6 +39,7 @@
     is_adjutant: 1
     unlock_text: 緊急11-4をクリアで解放
     mission_id: 114
+    org_introduction: npc-39999989
   }
   {
     id: -10
@@ -28,6 +50,7 @@
     is_adjutant: 1
     unlock_text: 通常10-1をクリアで解放
     mission_id: 95
+    org_introduction: npc-39999990
   }
   {
     id: -9
@@ -38,6 +61,7 @@
     is_adjutant: 1
     unlock_text: 通常9-2をクリアで解放
     mission_id: 86
+    org_introduction: npc-39999991
   }
   {
     id: -8
@@ -48,6 +72,7 @@
     is_adjutant: 1
     unlock_text: 深層映写-認知混迷I をクリアで解放
     mission_id: 10030
+    org_introduction: npc-39999992
   }
   {
     id: -7
@@ -58,6 +83,7 @@
     is_adjutant: 1
     unlock_text: 深層映写-認知混迷I をクリアで解放
     mission_id: 10030
+    org_introduction: npc-39999993
   }
   {
     id: -6
@@ -68,6 +94,7 @@
     is_adjutant: 1
     unlock_text: 通常5-2をクリアで解放
     mission_id: 46
+    org_introduction: npc-39999994
   }
   {
     id: -5
@@ -78,6 +105,7 @@
     is_adjutant: 1
     unlock_text: 通常2-4をクリアで解放
     mission_id: 18
+    org_introduction: npc-39999995
   }
   {
     id: -4
@@ -88,6 +116,7 @@
     is_adjutant: 1
     unlock_text: 通常1-2をクリアで解放
     mission_id: 6
+    org_introduction: npc-39999996
   }
   {
     id: -3
@@ -96,6 +125,7 @@
     title: TGS
     ai: 9999
     unlock_text: npc-29999997
+    org_introduction: npc-39999997
   }
   {
     id: -2
@@ -105,6 +135,7 @@
     ai: 9999
     unlock_text: npc-29999998
     voice_code: T77
+    org_introduction: npc-39999998
   }
   {
     id: -1
@@ -114,5 +145,7 @@
     ai: 9999
     is_adjutant: 1
     unlock_text: npc-29999999
+    org_id: "108,10103"
+    org_introduction: こと取引において、損をしたことがないと自負している後方幕僚。しかしなぜか、一人分の給料で二人分の働きをしている。
   }
 ]

@@ -166,5 +166,29 @@
         "code": "Special_TDoll",
         "fit_gun_type": "0",
         "des": "特殊な人形装備。装備する人形の種類によって、異なる効果が得られる"
+    },
+    {
+        "type": 21,
+        "name": "固定銃架",
+        "category": 3,
+        "code": "GroundMount",
+        "fit_gun_type": "5",
+        "des": "人形の<color=#FFB400FF>命中</color>和<color=#FFB400FF>リロード速度</color>を上昇させることができるが、<color=#FFB400FF>移動速度</color>が少し低下する"
+    },
+    {
+        "type": 22,
+        "name": "チョーク",
+        "category": 1,
+        "code": "Cylinder",
+        "fit_gun_type": "6",
+        "des": "人形の<color=#FFB400FF>装弾数</color>と<color=#FFB400FF>命中</color>を上昇させることができる"
+    },
+    {
+        "type": 23,
+        "name": "測距儀",
+        "category": 3,
+        "code": "RangeFinder",
+        "fit_gun_type": "3",
+        "des": "人形の<color=#FFB400FF>火力</color>を上昇させ、スキルの<color=#FFB400FF>開幕CT</color>を短縮させることができる"
     }
 ]

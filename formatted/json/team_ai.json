@@ -193,7 +193,7 @@
         "force_id": 1,
         "ai_type": 999,
         "name": "駐留",
-        "description": "team_ai-20000022",
+        "description": "目標は移動せず、そのまま立ち止まる。",
         "pic": "ai_stand",
         "color": "ffffff"
     },
@@ -201,9 +201,18 @@
         "id": 23,
         "force_id": 3,
         "ai_type": 104,
-        "name": "team_ai-10000023",
-        "description": "team_ai-20000023",
+        "name": "巡回",
+        "description": "特定のルートに沿い移動するのみ。周囲の味方以外のユニットに対しても反応はしない。",
         "pic": "ai_patrol",
+        "color": "ffffff"
+    },
+    {
+        "id": 24,
+        "force_id": 2,
+        "ai_type": 106,
+        "name": "team_ai-10000024",
+        "description": "team_ai-20000024",
+        "pic": "ai_guard",
         "color": "ffffff"
     }
 ]

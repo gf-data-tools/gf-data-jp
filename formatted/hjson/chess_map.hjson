@@ -13,8 +13,14 @@
   }
   {
     id: 3
-    name: chess_map-10000003
+    name: 辺境の地
     code: FlightChessMap4
     default_unlock: 1
+  }
+  {
+    id: 4
+    name: 地獄のハイウェイ
+    code: FlightChessMap3
+    unlock_item_id: 121001
   }
 ]

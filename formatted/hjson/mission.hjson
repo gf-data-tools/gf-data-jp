@@ -22,7 +22,11 @@
     difficulty_recommend: 10000;99
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000001
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 2
@@ -47,7 +51,11 @@
     difficulty_recommend: 12000;99
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000002
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 3
@@ -72,7 +80,11 @@
     difficulty_recommend: 14000;99
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000003
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 4
@@ -97,7 +109,11 @@
     difficulty_recommend: 16000;99
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: 火力が低く攻撃頻度が高い敵と戦う際は、ショットガンを前衛に据えることで、より効果的に敵を食い止めることができます。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 5
@@ -122,7 +138,11 @@
     difficulty_recommend: 200;1
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000005
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 6
@@ -148,7 +168,11 @@
     difficulty_recommend: 350;3
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000006
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 7
@@ -176,7 +200,11 @@
     difficulty_recommend: 500;5
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000007
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 8
@@ -203,7 +231,11 @@
     difficulty_recommend: 550;7
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000008
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 9
@@ -230,7 +262,11 @@
     difficulty_recommend: 650;9
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000009
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10
@@ -250,17 +286,19 @@
     limit_gun_pool: "15"
     map_res_name: Chapter1_Y
     map_information: "3000,2625|-3490,-3097|0,0"
-    draw_event_s_id: "6080"
     support_available: 2
     reinforce_ally_team: "10"
     mission_describe: mission-20000010
     round_config: 1:1,2:2,3:3
-    draw_code: "6080,1,zongzi;0"
     limit_squad: -1
     difficulty_recommend: 800;10
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000010
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 11
@@ -288,7 +326,11 @@
     difficulty_recommend: 700;10
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000011
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 12
@@ -316,7 +358,11 @@
     difficulty_recommend: 800;12
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000012
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 13
@@ -344,7 +390,11 @@
     difficulty_recommend: 1000;14
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000013
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 14
@@ -365,7 +415,6 @@
     limit_gun_pool: "15"
     map_res_name: Chapter1_Y
     map_information: "3000,2625|-3485,-3106|0,0"
-    draw_event_s_id: "6014"
     support_available: 2
     reinforce_ally_team: "14"
     mission_describe: mission-20000014
@@ -374,7 +423,11 @@
     difficulty_recommend: 1400;16
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000014
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 15
@@ -401,7 +454,11 @@
     difficulty_recommend: 1000;15
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000015
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 16
@@ -428,7 +485,11 @@
     difficulty_recommend: 1200;18
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000016
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 17
@@ -455,7 +516,11 @@
     difficulty_recommend: 1400;20
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000017
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 18
@@ -482,7 +547,11 @@
     difficulty_recommend: 1600;20
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000018
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 19
@@ -509,7 +578,11 @@
     difficulty_recommend: 1800;20
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000019
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 20
@@ -529,17 +602,19 @@
     limit_gun_pool: "19"
     map_res_name: Chapter2_Y
     map_information: "4096,3584|4096,3595|243,-182"
-    draw_event_s_id: "6081"
     support_available: 2
     reinforce_ally_team: "20"
     mission_describe: mission-20000020
     round_config: 1:1,2:2,3:3
-    draw_code: "6081,1,zongzi;0"
     limit_squad: -1
     difficulty_recommend: 2000;25
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: 敵司令部上から敵が動かない場合、敵司令部を包囲し任務目標を達成しましょう。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 21
@@ -567,7 +642,11 @@
     difficulty_recommend: 2000;25
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000021
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 22
@@ -595,7 +674,11 @@
     difficulty_recommend: 2200;25
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000022
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 23
@@ -623,7 +706,11 @@
     difficulty_recommend: 2400;30
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000023
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 24
@@ -644,7 +731,6 @@
     limit_gun_pool: "19"
     map_res_name: Chapter2_Y
     map_information: "4096,3584|4096,3595|243,-182"
-    draw_event_s_id: "6015"
     support_available: 2
     reinforce_ally_team: "24"
     mission_describe: mission-20000024
@@ -653,7 +739,11 @@
     difficulty_recommend: 2800;35
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000024
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 25
@@ -680,7 +770,11 @@
     difficulty_recommend: 2200;25
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000025
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 26
@@ -707,7 +801,11 @@
     difficulty_recommend: 2600;28
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000026
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 27
@@ -734,7 +832,11 @@
     difficulty_recommend: 3200;34
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000027
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 28
@@ -761,7 +863,11 @@
     difficulty_recommend: 3500;36
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000028
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 29
@@ -788,7 +894,11 @@
     difficulty_recommend: 3800;38
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000029
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 30
@@ -808,17 +918,19 @@
     limit_gun_pool: "108"
     map_res_name: Chapter3_Y
     map_information: "3724,3265|4214,3617|-5,-70"
-    draw_event_s_id: "6082"
     support_available: 2
     reinforce_ally_team: "30"
     mission_describe: mission-20000030
     round_config: 1:1,2:2,3:3
-    draw_code: "6082,1,zongzi;0"
     limit_squad: -1
     difficulty_recommend: 4200;40
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000030
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 31
@@ -846,7 +958,11 @@
     difficulty_recommend: 4200;40
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000031
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 32
@@ -874,7 +990,11 @@
     difficulty_recommend: 4500;44
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000032
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 33
@@ -902,7 +1022,11 @@
     difficulty_recommend: 4800;46
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000033
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 34
@@ -923,7 +1047,6 @@
     limit_gun_pool: "108"
     map_res_name: Chapter3_Y
     map_information: "3724,3265|4214,3617|-5,-70"
-    draw_event_s_id: "6016"
     support_available: 2
     reinforce_ally_team: "34"
     mission_describe: mission-20000034
@@ -932,7 +1055,11 @@
     difficulty_recommend: 5200;50
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000034
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 35
@@ -959,7 +1086,11 @@
     difficulty_recommend: 4400;40
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000035
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 36
@@ -986,7 +1117,11 @@
     difficulty_recommend: 4600;45
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000036
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 37
@@ -1013,7 +1148,11 @@
     difficulty_recommend: 4800;48
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000037
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 38
@@ -1040,7 +1179,11 @@
     difficulty_recommend: 5200;50
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000038
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 39
@@ -1067,7 +1210,11 @@
     difficulty_recommend: 5500;53
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000039
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 40
@@ -1087,17 +1234,19 @@
     limit_gun_pool: "38"
     map_res_name: Chapter4_Y
     map_information: "3770,3299|4257,3799|0,0"
-    draw_event_s_id: "6083"
     support_available: 2
     reinforce_ally_team: "40"
     mission_describe: mission-20000040
     round_config: 1:1,2:2,3:3
-    draw_code: "6083,1,zongzi;0"
     limit_squad: -1
     difficulty_recommend: 6000;55
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000040
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 41
@@ -1125,7 +1274,11 @@
     difficulty_recommend: 5800;55
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000041
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 42
@@ -1153,7 +1306,11 @@
     difficulty_recommend: 6100;58
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000042
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 43
@@ -1181,7 +1338,11 @@
     difficulty_recommend: 6400;60
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000043
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 44
@@ -1202,7 +1363,6 @@
     limit_gun_pool: "38"
     map_res_name: Chapter4_Y
     map_information: "3770,3299|4257,3799|0,0"
-    draw_event_s_id: "6017"
     support_available: 2
     reinforce_ally_team: "44"
     mission_describe: mission-20000044
@@ -1211,7 +1371,11 @@
     difficulty_recommend: 7000;65
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000044
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 45
@@ -1238,7 +1402,11 @@
     difficulty_recommend: 6200;60
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000045
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 46
@@ -1264,7 +1432,11 @@
     difficulty_recommend: 6400;60
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000046
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 47
@@ -1290,7 +1462,11 @@
     difficulty_recommend: 6700;63
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000047
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 48
@@ -1316,7 +1492,11 @@
     difficulty_recommend: 7000;65
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000048
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 49
@@ -1342,7 +1522,11 @@
     difficulty_recommend: 7500;65
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000049
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 50
@@ -1361,17 +1545,19 @@
     limit_gun_pool: "79"
     map_res_name: Chapter5_Y
     map_information: "4656,3951|4001,3647|-575,393"
-    draw_event_s_id: "6084"
     support_available: 2
     reinforce_ally_team: "50"
     mission_describe: mission-20000050
     round_config: 1:1,2:2,3:3
-    draw_code: "6084,1,zongzi;0"
     limit_squad: -1
     difficulty_recommend: 8500;70
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000050
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 51
@@ -1398,7 +1584,11 @@
     difficulty_recommend: 8500;70
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000051
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 52
@@ -1425,7 +1615,11 @@
     difficulty_recommend: 8800;74
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000052
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 53
@@ -1452,7 +1646,11 @@
     difficulty_recommend: 9200;76
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000053
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 54
@@ -1472,7 +1670,6 @@
     limit_gun_pool: "79"
     map_res_name: Chapter5_Y
     map_information: "4656,3951|4001,3647|-575,393"
-    draw_event_s_id: "6018"
     support_available: 2
     reinforce_ally_team: "54"
     mission_describe: mission-20000054
@@ -1481,7 +1678,11 @@
     difficulty_recommend: 9600;80
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000054
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 55
@@ -1507,7 +1708,11 @@
     difficulty_recommend: 9000;70
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000055
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 56
@@ -1533,7 +1738,11 @@
     difficulty_recommend: 9500;72
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000056
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 57
@@ -1559,7 +1768,11 @@
     difficulty_recommend: 10000;74
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000057
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 58
@@ -1585,7 +1798,11 @@
     difficulty_recommend: 11000;76
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000058
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 59
@@ -1611,7 +1828,11 @@
     difficulty_recommend: 12000;78
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000059
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 60
@@ -1630,17 +1851,19 @@
     limit_gun_pool: "35"
     map_res_name: Chapter6_Y
     map_information: "4000,3751|4500,3667|17,283"
-    draw_event_s_id: "6085"
     support_available: 2
     reinforce_ally_team: "60"
     mission_describe: mission-20000060
     round_config: 1:1,2:2,3:3
-    draw_code: "6085,1,zongzi;0"
     limit_squad: -1
     difficulty_recommend: 13000;80
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: もし戦役中、損耗が激しく攻略が難しいと感じたら、IOP特殊任務を達成することで受け取れる資源を上手く活用し、部隊の作戦能力を向上させてから挑みましょう。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 61
@@ -1667,7 +1890,11 @@
     difficulty_recommend: 12000;82
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000061
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 62
@@ -1694,7 +1921,11 @@
     difficulty_recommend: 13000;84
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000062
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 63
@@ -1721,7 +1952,11 @@
     difficulty_recommend: 14000;86
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000063
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 64
@@ -1741,7 +1976,6 @@
     limit_gun_pool: "35"
     map_res_name: Chapter6_Y
     map_information: "4000,3751|4500,4251|0,0"
-    draw_event_s_id: "6019"
     support_available: 2
     reinforce_ally_team: "64"
     mission_describe: mission-20000064
@@ -1750,7 +1984,11 @@
     difficulty_recommend: 15000;90
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000064
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 65
@@ -1776,7 +2014,11 @@
     difficulty_recommend: 13000;80
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000065
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 66
@@ -1802,7 +2044,11 @@
     difficulty_recommend: 13500;82
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000066
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 67
@@ -1828,7 +2074,11 @@
     difficulty_recommend: 14000;84
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000067
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 68
@@ -1854,7 +2104,11 @@
     difficulty_recommend: 14500;86
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000068
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 69
@@ -1880,7 +2134,11 @@
     difficulty_recommend: 15000;88
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000069
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 70
@@ -1899,7 +2157,6 @@
     limit_gun_pool: "140"
     map_res_name: Chapter7_Y
     map_information: "5000,4374|3500,-2764|-364,473"
-    draw_event_s_id: "6013"
     support_available: 2
     reinforce_ally_team: "70"
     mission_describe: mission-20000070
@@ -1908,7 +2165,11 @@
     difficulty_recommend: 16000;90
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: ドリーマーは射程が非常に長いので、部隊全体の移動速度を向上させ、移動中のダメージを軽減させましょう。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 71
@@ -1935,7 +2196,11 @@
     difficulty_recommend: 15000;88
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000071
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 72
@@ -1962,7 +2227,11 @@
     difficulty_recommend: 16000;90
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000072
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 73
@@ -1989,7 +2258,11 @@
     difficulty_recommend: 18000;92
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000073
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 74
@@ -2009,7 +2282,6 @@
     limit_gun_pool: "140"
     map_res_name: Chapter7_Y
     map_information: "5000,4374|3641,-2993|-347,473"
-    draw_event_s_id: "6013"
     support_available: 2
     reinforce_ally_team: "74"
     mission_describe: mission-20000074
@@ -2018,7 +2290,11 @@
     difficulty_recommend: 20000;94
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: ドリーマーは射程が非常に長いので、部隊全体の移動速度を向上させ、移動中のダメージを軽減させましょう。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 75
@@ -2046,7 +2322,11 @@
     difficulty_recommend: 15000;85
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000075
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 76
@@ -2074,7 +2354,11 @@
     difficulty_recommend: 15500;86
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000076
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 77
@@ -2102,7 +2386,11 @@
     difficulty_recommend: 16000;88
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000077
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 78
@@ -2130,7 +2418,12 @@
     difficulty_recommend: 17000;90
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000078
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      瞬間火力特化型編成
+      '''
   }
   {
     id: 79
@@ -2158,7 +2451,12 @@
     difficulty_recommend: 18000;92
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000079
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 80
@@ -2187,7 +2485,11 @@
     difficulty_recommend: 20000;95
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: ドリーマーは射程が非常に長いので、部隊全体の移動速度を向上させ、移動中のダメージを軽減させましょう。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 81
@@ -2216,7 +2518,12 @@
     difficulty_recommend: 18000;95
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000081
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      範囲攻撃型編成
+      '''
   }
   {
     id: 82
@@ -2245,7 +2552,11 @@
     difficulty_recommend: 20000;96
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000082
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 83
@@ -2274,7 +2585,13 @@
     difficulty_recommend: 21000;97
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000083
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      範囲攻撃型編成
+      瞬間火力特化型編成
+      '''
   }
   {
     id: 84
@@ -2304,7 +2621,12 @@
     difficulty_recommend: 22000;98
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: ドリーマーは射程が非常に長いので、部隊全体の移動速度を向上させ、移動中のダメージを軽減させましょう。
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      範囲攻撃型編成
+      '''
   }
   {
     id: 85
@@ -2333,7 +2655,11 @@
     difficulty_recommend: 18000;90
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000085
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 86
@@ -2362,7 +2688,11 @@
     difficulty_recommend: 19000;92
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000086
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 87
@@ -2391,7 +2721,11 @@
     difficulty_recommend: 20000;94
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000087
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 88
@@ -2420,7 +2754,11 @@
     difficulty_recommend: 21000;96
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000088
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 89
@@ -2449,7 +2787,11 @@
     difficulty_recommend: 22000;98
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000089
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 90
@@ -2481,8 +2823,8 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      火力が低く攻撃頻度が高い敵と戦う際は、ショットガンを前衛に据えることで、より効果的に敵を食い止めることができます。
-      ジャッジは同時に2人の人形を攻撃します。前衛に配置する人形の数に注意しましょう。
+      おすすめの部隊編成：
+      バランス型編成
       '''
   }
   {
@@ -2512,7 +2854,11 @@
     difficulty_recommend: 22000;95
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000091
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 92
@@ -2541,7 +2887,11 @@
     difficulty_recommend: 23000;97
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000092
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 93
@@ -2571,7 +2921,11 @@
     difficulty_recommend: 24000;98
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40000093
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      バランス型編成
+      '''
   }
   {
     id: 94
@@ -2604,8 +2958,9 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      火力が低く攻撃頻度が高い敵と戦う際は、ショットガンを前衛に据えることで、より効果的に敵を食い止めることができます。
-      ジャッジは同時に2人の人形を攻撃します。前衛に配置する人形の数に注意しましょう。
+      おすすめの部隊編成：
+      バランス型編成
+      軽装混合編成
       '''
   }
   {
@@ -2634,7 +2989,11 @@
     difficulty_recommend: 22000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥1</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000095
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 96
@@ -2665,7 +3024,11 @@
     difficulty_recommend: 23000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥1</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000096
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 97
@@ -2696,7 +3059,12 @@
     difficulty_recommend: 24000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥2</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000097
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
+      '''
   }
   {
     id: 98
@@ -2727,7 +3095,12 @@
     difficulty_recommend: 25000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥2</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000098
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 99
@@ -2758,7 +3131,12 @@
     difficulty_recommend: 26000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥4</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000099
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力特化型編成
+      '''
   }
   {
     id: 100
@@ -2790,7 +3168,11 @@
     difficulty_recommend: 27000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥5</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000100
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 101
@@ -2822,7 +3204,12 @@
     difficulty_recommend: 29000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥4</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000101
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 102
@@ -2854,7 +3241,11 @@
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥6</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000102
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 103
@@ -2886,7 +3277,11 @@
     difficulty_recommend: 31000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥8</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000103
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 104
@@ -2920,7 +3315,12 @@
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥10</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000104
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 105
@@ -2952,8 +3352,9 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      偏向障壁を持つ敵への与ダメージは一定量軽減されてしまいます。重装部隊の支援を要請することで、より有効なダメージを与えることができます。
-      <Color=#FFB400FF>重装部隊の支援を要請しましょう。</Color>
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
       '''
   }
   {
@@ -2983,7 +3384,12 @@
     difficulty_recommend: 29000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥15</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000106
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力特化型編成
+      '''
   }
   {
     id: 107
@@ -3014,8 +3420,10 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      偏向障壁を持つ敵への与ダメージは一定量軽減されてしまいます。重装部隊の支援を要請することで、より有効なダメージを与えることができます。
-      <Color=#FFB400FF>重装部隊の支援を要請しましょう。</Color>
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
+      瞬間火力狙撃編成
       '''
   }
   {
@@ -3046,7 +3454,11 @@
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥24</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000108
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 109
@@ -3075,7 +3487,12 @@
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥28</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000109
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 110
@@ -3108,8 +3525,10 @@
     limit_sangvis: 2
     mission_tip:
       '''
-      偏向障壁を持つ敵への与ダメージは一定量軽減されてしまいます。重装部隊の支援を要請することで、より有効なダメージを与えることができます。
-      <Color=#FFB400FF>重装部隊の支援を要請しましょう。</Color>
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
+      瞬間火力狙撃編成
       '''
   }
   {
@@ -3141,7 +3560,13 @@
     difficulty_recommend: 36000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥25</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000111
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 112
@@ -3173,8 +3598,9 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      偏向障壁を持つ敵への与ダメージは一定量軽減されてしまいます。重装部隊の支援を要請することで、より有効なダメージを与えることができます。
-      <Color=#FFB400FF>重装部隊の支援を要請しましょう。</Color>
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
       '''
   }
   {
@@ -3209,8 +3635,10 @@
     limit_sangvis: 2
     mission_tip:
       '''
-      偏向障壁を持つ敵への与ダメージは一定量軽減されてしまいます。重装部隊の支援を要請することで、より有効なダメージを与えることができます。
-      <Color=#FFB400FF>重装部隊の支援を要請しましょう。</Color>
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
+      瞬間火力狙撃編成
       '''
   }
   {
@@ -3244,8 +3672,9 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      偏向障壁を持つ敵への与ダメージは一定量軽減されてしまいます。重装部隊の支援を要請することで、より有効なダメージを与えることができます。
-      <Color=#FFB400FF>重装部隊の支援を要請しましょう。</Color>
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
       '''
   }
   {
@@ -3274,9 +3703,13 @@
     win_type: "9120100"
     medal_type_silver: "7,8"
     difficulty_recommend: 38000;99
-    difficulty_recommend_addendum: mission-30000115
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥30</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000115
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 116
@@ -3288,7 +3721,7 @@
     type: "6"
     enemy_ai_type: 4
     win_spot_id: "90061"
-    expect_enemy_die_num: 10
+    expect_enemy_die_num: 99
     expect_turn: 9
     boss_team_id: "9120202"
     turn_duration: 360000000
@@ -3299,7 +3732,7 @@
     fog_color: "#000000FF"
     support_available: 2
     expect_defend_line_turn: 1
-    expect_hostage_num: "1,99"
+    expect_hostage_num: "1,1"
     reinforce_ally_team: "116"
     mission_describe: mission-20000116
     round_config: 1:1,2:4,3:3
@@ -3307,9 +3740,14 @@
     win_type: "9120200"
     medal_type_silver: "9120210,9120211"
     difficulty_recommend: 39000;99
-    difficulty_recommend_addendum: mission-30000116
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥32</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000116
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 117
@@ -3320,7 +3758,7 @@
     exp_parameter: 57
     type: "3"
     enemy_ai_type: 4
-    expect_enemy_die_num: 4
+    expect_enemy_die_num: 99
     expect_turn: 6
     boss_team_id: "9120302"
     turn_duration: 360000000
@@ -3330,7 +3768,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     support_available: 2
-    expect_hostage_num: "2,99"
+    expect_hostage_num: "2,2"
     reinforce_ally_team: "117"
     mission_describe: mission-20000117
     round_config: 1:1,2:4,3:3
@@ -3338,9 +3776,13 @@
     win_type: "9120300"
     medal_type_silver: "9120310"
     difficulty_recommend: 40000;99
-    difficulty_recommend_addendum: mission-30000117
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥34</Color>，ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000117
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 118
@@ -3369,9 +3811,13 @@
     win_type: "9120400"
     medal_type_silver: "9120410"
     difficulty_recommend: 41000;99
-    difficulty_recommend_addendum: mission-30000118
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥36</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000118
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 119
@@ -3400,9 +3846,14 @@
     win_type: "9120500"
     medal_type_silver: "9120510"
     difficulty_recommend: 42000;99
-    difficulty_recommend_addendum: mission-30000119
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥38</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000119
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 120
@@ -3434,9 +3885,13 @@
     win_type: "9120600"
     medal_type_silver: "9120610"
     difficulty_recommend: 43000;99
-    difficulty_recommend_addendum: mission-30000120
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥40</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 2
-    mission_tip: mission-40000120
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 121
@@ -3466,9 +3921,13 @@
     win_type: "9120700"
     medal_type_silver: "9120710"
     difficulty_recommend: 42000;99
-    difficulty_recommend_addendum: mission-30000121
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥35</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 2
-    mission_tip: mission-40000121
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      範囲攻撃型編成
+      '''
   }
   {
     id: 122
@@ -3498,9 +3957,13 @@
     win_type: "1"
     medal_type_silver: "9120810"
     difficulty_recommend: 43000;99
-    difficulty_recommend_addendum: mission-30000122
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥38</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000122
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      範囲攻撃型編成
+      '''
   }
   {
     id: 123
@@ -3530,9 +3993,13 @@
     win_type: "9120900"
     medal_type_silver: "9120910"
     difficulty_recommend: 44000;99
-    difficulty_recommend_addendum: mission-30000123
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥42</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000123
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 124
@@ -3560,9 +4027,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 4
     difficulty_recommend: 45000;99
-    difficulty_recommend_addendum: mission-30000124
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000124
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      範囲攻撃型編成
+      '''
   }
   {
     id: 125
@@ -3593,7 +4065,11 @@
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000125
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 126
@@ -3625,7 +4101,12 @@
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000126
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 127
@@ -3657,7 +4138,12 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000127
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 128
@@ -3689,7 +4175,11 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥70</Color>、ランク<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000128
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      範囲攻撃型編成
+      '''
   }
   {
     id: 129
@@ -3719,7 +4209,12 @@
     difficulty_recommend: 44000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥70</Color>、ランク<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000129
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 130
@@ -3751,7 +4246,12 @@
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000130
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 131
@@ -3763,7 +4263,7 @@
     exp_parameter: 58
     type: "2"
     enemy_ai_type: 4
-    expect_enemy_die_num: 2
+    expect_enemy_die_num: 99
     expect_turn: 10
     boss_team_id: "9130701"
     turn_duration: 360000000
@@ -3784,7 +4284,11 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000131
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 132
@@ -3817,7 +4321,11 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥45</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: -1
-    mission_tip: mission-40000132
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      基本狙撃編成
+      '''
   }
   {
     id: 133
@@ -3849,7 +4357,12 @@
     difficulty_recommend: 44000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥70</Color>、ランク<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000133
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 134
@@ -3881,7 +4394,12 @@
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥70</Color>、ランク<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000134
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 1101
@@ -4283,7 +4801,7 @@
     campaign: 5
     sub: 1
     if_emergency: 2
-    name: mission-10001601
+    name: レベル上昇素材ステージ
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4306,7 +4824,7 @@
     campaign: 5
     sub: 2
     if_emergency: 2
-    name: mission-10001602
+    name: レアリティ上昇素材ステージ
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4329,7 +4847,7 @@
     campaign: 5
     sub: 3
     if_emergency: 2
-    name: mission-10001603
+    name: スキル強化素材ステージ
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4351,7 +4869,7 @@
     campaign: 6
     sub: 1
     if_emergency: 2
-    name: mission-10001701
+    name: カスタマイズターゲットドローン
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4374,7 +4892,7 @@
     campaign: 6
     sub: 2
     if_emergency: 2
-    name: mission-10001702
+    name: マルチターゲットドローン
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4396,7 +4914,7 @@
     campaign: 6
     sub: 9
     if_emergency: 2
-    name: mission-10001708
+    name: 模擬:双連乱数01
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4418,7 +4936,7 @@
     campaign: 6
     sub: 10
     if_emergency: 2
-    name: mission-10001709
+    name: 模擬:双連乱数02
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4440,7 +4958,7 @@
     campaign: 6
     sub: 11
     if_emergency: 2
-    name: mission-10001710
+    name: 模擬:双連乱数03
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4462,7 +4980,7 @@
     campaign: 6
     sub: 12
     if_emergency: 2
-    name: mission-10001711
+    name: 模擬:双連乱数04
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4484,7 +5002,7 @@
     campaign: 6
     sub: 13
     if_emergency: 2
-    name: mission-10001712
+    name: 模擬:双連乱数05
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4506,7 +5024,7 @@
     campaign: 6
     sub: 14
     if_emergency: 2
-    name: mission-10001713
+    name: 模擬:双連乱数06
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4528,7 +5046,7 @@
     campaign: 6
     sub: 3
     if_emergency: 2
-    name: mission-10001714
+    name: 収集ターゲット
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4550,7 +5068,7 @@
     campaign: 6
     sub: 20
     if_emergency: 2
-    name: mission-10001720
+    name: 異性体01
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4572,7 +5090,7 @@
     campaign: 6
     sub: 21
     if_emergency: 2
-    name: mission-10001721
+    name: 異性体02
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4594,7 +5112,7 @@
     campaign: 6
     sub: 22
     if_emergency: 2
-    name: mission-10001722
+    name: 異性体03
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4616,7 +5134,7 @@
     campaign: 6
     sub: 24
     if_emergency: 2
-    name: mission-10001724
+    name: 01：逆説·洶涌
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4638,7 +5156,7 @@
     campaign: 6
     sub: 25
     if_emergency: 2
-    name: mission-10001725
+    name: 02：逆説·伏蠍
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4660,7 +5178,7 @@
     campaign: 6
     sub: 26
     if_emergency: 2
-    name: mission-10001726
+    name: 03：逆説·帰蜂
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4682,7 +5200,7 @@
     campaign: 6
     sub: 27
     if_emergency: 2
-    name: mission-10001727
+    name: 01：分裂
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4704,7 +5222,7 @@
     campaign: 6
     sub: 28
     if_emergency: 2
-    name: mission-10001728
+    name: 02：分裂
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4726,7 +5244,7 @@
     campaign: 6
     sub: 29
     if_emergency: 2
-    name: mission-10001729
+    name: 03：分裂
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4770,7 +5288,7 @@
     campaign: 6
     sub: 31
     if_emergency: 2
-    name: mission-10001731
+    name: 大地·罪を負う者
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4792,7 +5310,7 @@
     campaign: 6
     sub: 32
     if_emergency: 2
-    name: 鉄血・エレクトラ
+    name: 鉄血·エレクトラ
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4814,7 +5332,7 @@
     campaign: 6
     sub: 33
     if_emergency: 2
-    name: 鉄血・ここにいた者は
+    name: 鉄血·帰らぬ者
     difficulty: 28000
     type: "3"
     enemy_ai_type: 2
@@ -4856,7 +5374,11 @@
     difficulty_recommend: 2000;20
     difficulty_recommend_addendum: mission-30010001
     limit_sangvis: 3
-    mission_tip: mission-40010001
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10002
@@ -4885,7 +5407,11 @@
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: mission-30010002
     limit_sangvis: 3
-    mission_tip: mission-40010002
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10003
@@ -4914,7 +5440,11 @@
     difficulty_recommend: 6000;55
     difficulty_recommend_addendum: mission-30010003
     limit_sangvis: 4
-    mission_tip: mission-40010003
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10004
@@ -4943,7 +5473,12 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010004
     limit_sangvis: 4
-    mission_tip: mission-40010004
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 10005
@@ -4973,7 +5508,11 @@
     difficulty_recommend: 2000;20
     difficulty_recommend_addendum: mission-30010005
     limit_sangvis: 4
-    mission_tip: mission-40010005
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10006
@@ -5004,7 +5543,11 @@
     difficulty_recommend: 3000;32
     difficulty_recommend_addendum: mission-30010006
     limit_sangvis: 4
-    mission_tip: mission-40010006
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10007
@@ -5035,7 +5578,11 @@
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: mission-30010007
     limit_sangvis: 4
-    mission_tip: mission-40010007
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10008
@@ -5065,7 +5612,11 @@
     difficulty_recommend: 5500;55
     difficulty_recommend_addendum: mission-30010008
     limit_sangvis: 4
-    mission_tip: mission-40010008
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10009
@@ -5095,7 +5646,12 @@
     difficulty_recommend: 6000;60
     difficulty_recommend_addendum: mission-30010009
     limit_sangvis: 2
-    mission_tip: mission-40010009
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 10010
@@ -5125,7 +5681,11 @@
     difficulty_recommend: 7000;65
     difficulty_recommend_addendum: mission-30010010
     limit_sangvis: 3
-    mission_tip: mission-40010010
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10011
@@ -5155,7 +5715,12 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010011
     limit_sangvis: 4
-    mission_tip: mission-40010011
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 10012
@@ -5184,7 +5749,11 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010012
     limit_sangvis: 4
-    mission_tip: mission-40010012
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10013
@@ -5214,7 +5783,13 @@
     difficulty_recommend: 11000;81
     difficulty_recommend_addendum: mission-30010013
     limit_sangvis: 4
-    mission_tip: mission-40010013
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      軽装混合編成
+      '''
   }
   {
     id: 10014
@@ -5245,7 +5820,11 @@
     difficulty_recommend: 12000;87
     difficulty_recommend_addendum: mission-30010014
     limit_sangvis: 4
-    mission_tip: mission-40010014
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10015
@@ -5276,7 +5855,11 @@
     difficulty_recommend: 16000;83
     difficulty_recommend_addendum: mission-30010015
     limit_sangvis: 4
-    mission_tip: mission-40010015
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10016
@@ -5306,7 +5889,11 @@
     difficulty_recommend: 20000;99
     difficulty_recommend_addendum: mission-30010016
     limit_sangvis: 4
-    mission_tip: mission-40010016
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10017
@@ -5361,7 +5948,11 @@
     difficulty_recommend: 2000;20
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010018
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 10019
@@ -5390,7 +5981,11 @@
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010019
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10020
@@ -5419,7 +6014,11 @@
     difficulty_recommend: 6000;55
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010020
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10021
@@ -5448,7 +6047,11 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010021
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10022
@@ -5476,7 +6079,11 @@
     difficulty_recommend: 12000;75
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010022
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10023
@@ -5504,7 +6111,11 @@
     difficulty_recommend: 15000;87
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010023
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10024
@@ -5533,7 +6144,11 @@
     difficulty_recommend: 18000;99
     difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010024
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10025
@@ -5560,9 +6175,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 22000;99
-    difficulty_recommend_addendum: mission-30010025
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010025
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10026
@@ -5700,9 +6319,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 1500;20
-    difficulty_recommend_addendum: mission-30010030
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010030
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10031
@@ -5731,9 +6354,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 3000;35
-    difficulty_recommend_addendum: mission-30010031
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010031
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10032
@@ -5760,9 +6387,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 5000;50
-    difficulty_recommend_addendum: mission-30010032
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010032
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10033
@@ -5790,9 +6421,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 8000;65
-    difficulty_recommend_addendum: mission-30010033
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010033
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10034
@@ -5822,9 +6457,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 10000;70
-    difficulty_recommend_addendum: mission-30010034
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 2
-    mission_tip: mission-40010034
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10035
@@ -5853,9 +6492,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 12000;75
-    difficulty_recommend_addendum: mission-30010035
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010035
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10036
@@ -5883,7 +6526,7 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 25000;105
-    difficulty_recommend_addendum: mission-30010036
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥10</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
     mission_tip: mission-40010036
   }
@@ -5915,9 +6558,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 14000;80
-    difficulty_recommend_addendum: mission-30010037
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010037
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      '''
   }
   {
     id: 10038
@@ -5949,9 +6596,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 16000;85
-    difficulty_recommend_addendum: mission-30010038
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40010038
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 10039
@@ -5978,9 +6630,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 18000;95
-    difficulty_recommend_addendum: mission-30010039
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40010039
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10040
@@ -6008,9 +6664,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 20000;99
-    difficulty_recommend_addendum: mission-30010040
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥1</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40010040
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 10041
@@ -6038,9 +6699,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 22000;99
-    difficulty_recommend_addendum: mission-30010041
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥1</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40010041
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      高速混合編成
+      '''
   }
   {
     id: 10042
@@ -6072,9 +6737,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 24000;99
-    difficulty_recommend_addendum: mission-30010042
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥1</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40010042
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 10051
@@ -6112,7 +6782,7 @@
     difficulty_recommend: 1500;15
     difficulty_recommend_addendum: mission-30010051
     limit_sangvis: 4
-    mission_tip: mission-40010051
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10052
@@ -6149,7 +6819,7 @@
     difficulty_recommend: 2500;25
     difficulty_recommend_addendum: mission-30010052
     limit_sangvis: 4
-    mission_tip: mission-40010052
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10053
@@ -6187,7 +6857,7 @@
     difficulty_recommend: 4000;35
     difficulty_recommend_addendum: mission-30010053
     limit_sangvis: 4
-    mission_tip: mission-40010053
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10054
@@ -6223,7 +6893,7 @@
     difficulty_recommend: 5000;45
     difficulty_recommend_addendum: mission-30010054
     limit_sangvis: 4
-    mission_tip: mission-40010054
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10055
@@ -6258,7 +6928,7 @@
     difficulty_recommend: 6500;55
     difficulty_recommend_addendum: mission-30010055
     limit_sangvis: 4
-    mission_tip: mission-40010055
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10056
@@ -6295,7 +6965,7 @@
     difficulty_recommend: 8000;65
     difficulty_recommend_addendum: mission-30010056
     limit_sangvis: 1
-    mission_tip: mission-40010056
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10057
@@ -6331,7 +7001,7 @@
     difficulty_recommend: 4000;35
     difficulty_recommend_addendum: mission-30010057
     limit_sangvis: 4
-    mission_tip: mission-40010057
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10058
@@ -6365,7 +7035,7 @@
     difficulty_recommend: 5000;45
     difficulty_recommend_addendum: mission-30010058
     limit_sangvis: 4
-    mission_tip: mission-40010058
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10059
@@ -6402,7 +7072,7 @@
     difficulty_recommend: 6500;55
     difficulty_recommend_addendum: mission-30010059
     limit_sangvis: 4
-    mission_tip: mission-40010059
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10060
@@ -6438,7 +7108,7 @@
     difficulty_recommend: 8000;65
     difficulty_recommend_addendum: mission-30010060
     limit_sangvis: 4
-    mission_tip: mission-40010060
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10061
@@ -6475,7 +7145,7 @@
     difficulty_recommend: 6000;60
     difficulty_recommend_addendum: mission-30010061
     limit_sangvis: 4
-    mission_tip: mission-40010061
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10062
@@ -6510,7 +7180,7 @@
     difficulty_recommend: 7000;65
     difficulty_recommend_addendum: mission-30010062
     limit_sangvis: 4
-    mission_tip: mission-40010062
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10063
@@ -6547,7 +7217,7 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010063
     limit_sangvis: 4
-    mission_tip: mission-40010063
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10064
@@ -6583,7 +7253,7 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010064
     limit_sangvis: 4
-    mission_tip: mission-40010064
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10065
@@ -6622,7 +7292,7 @@
     difficulty_recommend: 10000;70
     difficulty_recommend_addendum: mission-30010065
     limit_sangvis: 4
-    mission_tip: mission-40010065
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10066
@@ -6659,7 +7329,7 @@
     difficulty_recommend: 11000;70
     difficulty_recommend_addendum: mission-30010066
     limit_sangvis: 4
-    mission_tip: mission-40010066
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10067
@@ -6696,7 +7366,7 @@
     difficulty_recommend: 12000;75
     difficulty_recommend_addendum: mission-30010067
     limit_sangvis: 4
-    mission_tip: mission-40010067
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10068
@@ -6735,7 +7405,7 @@
     difficulty_recommend: 13000;75
     difficulty_recommend_addendum: mission-30010068
     limit_sangvis: 4
-    mission_tip: mission-40010068
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10069
@@ -6773,7 +7443,7 @@
     difficulty_recommend: 15000;80
     difficulty_recommend_addendum: mission-30010069
     limit_sangvis: 4
-    mission_tip: mission-40010069
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10070
@@ -6810,7 +7480,7 @@
     difficulty_recommend: 13500;80
     difficulty_recommend_addendum: mission-30010070
     limit_sangvis: 4
-    mission_tip: mission-40010070
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10071
@@ -6849,7 +7519,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010071
     limit_sangvis: 4
-    mission_tip: mission-40010071
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10072
@@ -6885,7 +7555,7 @@
     difficulty_recommend: 15000;85
     difficulty_recommend_addendum: mission-30010072
     limit_sangvis: 4
-    mission_tip: mission-40010072
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10073
@@ -6925,7 +7595,7 @@
     difficulty_recommend: 16000;90
     difficulty_recommend_addendum: mission-30010073
     limit_sangvis: 3
-    mission_tip: mission-40010073
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10074
@@ -6960,7 +7630,7 @@
     difficulty_recommend: 11500;75
     difficulty_recommend_addendum: mission-30010074
     limit_sangvis: 4
-    mission_tip: mission-40010074
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10075
@@ -6996,7 +7666,7 @@
     difficulty_recommend: 13000;80
     difficulty_recommend_addendum: mission-30010075
     limit_sangvis: 4
-    mission_tip: mission-40010075
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10076
@@ -7037,7 +7707,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010076
     limit_sangvis: 1
-    mission_tip: mission-40010076
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10077
@@ -7077,7 +7747,7 @@
     difficulty_recommend: 16000;90
     difficulty_recommend_addendum: mission-30010077
     limit_sangvis: 3
-    mission_tip: mission-40010077
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10078
@@ -7115,7 +7785,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010078
     limit_sangvis: 4
-    mission_tip: mission-40010078
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10079
@@ -7152,7 +7822,7 @@
     difficulty_recommend: 15000;90
     difficulty_recommend_addendum: mission-30010079
     limit_sangvis: 4
-    mission_tip: mission-40010079
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10080
@@ -7190,7 +7860,7 @@
     difficulty_recommend: 16000;90
     difficulty_recommend_addendum: mission-30010080
     limit_sangvis: 4
-    mission_tip: mission-40010080
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10081
@@ -7229,7 +7899,7 @@
     difficulty_recommend: 18000;95
     difficulty_recommend_addendum: mission-30010081
     limit_sangvis: 4
-    mission_tip: mission-40010081
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10082
@@ -7263,7 +7933,7 @@
     difficulty_recommend: 22000;105
     difficulty_recommend_addendum: mission-30010082
     limit_sangvis: 4
-    mission_tip: mission-40010082
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、軽装混合編成
   }
   {
     id: 10083
@@ -7300,7 +7970,7 @@
     difficulty_recommend: 23000;105
     difficulty_recommend_addendum: mission-30010083
     limit_sangvis: 4
-    mission_tip: mission-40010083
+    mission_tip: おすすめの部隊編成：基本狙撃編成、軽装混合編成
   }
   {
     id: 10084
@@ -7335,7 +8005,7 @@
     difficulty_recommend: 24000;110
     difficulty_recommend_addendum: mission-30010084
     limit_sangvis: 4
-    mission_tip: mission-40010084
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、軽装混合編成
   }
   {
     id: 10085
@@ -7373,7 +8043,7 @@
     difficulty_recommend: 25000;115
     difficulty_recommend_addendum: mission-30010085
     limit_sangvis: 4
-    mission_tip: mission-40010085
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10086
@@ -7411,7 +8081,7 @@
     difficulty_recommend: 26000;120
     difficulty_recommend_addendum: mission-30010086
     limit_sangvis: 4
-    mission_tip: mission-40010086
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成、軽装混合編成
   }
   {
     id: 10087
@@ -7449,7 +8119,7 @@
     difficulty_recommend: 27000;125
     difficulty_recommend_addendum: mission-30010087
     limit_sangvis: 4
-    mission_tip: mission-40010087
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、軽装混合編成
   }
   {
     id: 10088
@@ -7483,7 +8153,7 @@
     difficulty_recommend: 8000;80
     difficulty_recommend_addendum: mission-30010088
     limit_sangvis: 1
-    mission_tip: mission-40010088
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10089
@@ -7519,7 +8189,7 @@
     difficulty_recommend: 20000;110
     difficulty_recommend_addendum: mission-30010089
     limit_sangvis: 4
-    mission_tip: mission-40010089
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10090
@@ -7553,7 +8223,7 @@
     difficulty_recommend: 32000;125
     difficulty_recommend_addendum: mission-30010090
     limit_sangvis: 4
-    mission_tip: mission-40010090
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10091
@@ -7622,7 +8292,7 @@
     difficulty_recommend: 50;10
     difficulty_recommend_addendum: mission-30010092
     limit_sangvis: 4
-    mission_tip: mission-40010092
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、軽装混合編成
   }
   {
     id: 10093
@@ -8006,7 +8676,7 @@
     difficulty_recommend: 1500;15
     difficulty_recommend_addendum: mission-30010106
     limit_sangvis: 4
-    mission_tip: mission-40010106
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10107
@@ -8073,7 +8743,7 @@
     difficulty_recommend: 2000;20
     difficulty_recommend_addendum: mission-30010108
     limit_sangvis: 4
-    mission_tip: mission-40010108
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10109
@@ -8107,7 +8777,7 @@
     difficulty_recommend: 2500;25
     difficulty_recommend_addendum: mission-30010109
     limit_sangvis: 4
-    mission_tip: mission-40010109
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10110
@@ -8142,7 +8812,7 @@
     difficulty_recommend: 3000;30
     difficulty_recommend_addendum: mission-30010110
     limit_sangvis: 4
-    mission_tip: mission-40010110
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10111
@@ -8179,7 +8849,7 @@
     difficulty_recommend: 3500;35
     difficulty_recommend_addendum: mission-30010111
     limit_sangvis: 4
-    mission_tip: mission-40010111
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10112
@@ -8245,7 +8915,7 @@
     difficulty_recommend: 3500;35
     difficulty_recommend_addendum: mission-30010113
     limit_sangvis: 4
-    mission_tip: mission-40010113
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10114
@@ -8280,7 +8950,7 @@
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: mission-30010114
     limit_sangvis: 4
-    mission_tip: mission-40010114
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10115
@@ -8316,7 +8986,7 @@
     difficulty_recommend: 4500;45
     difficulty_recommend_addendum: mission-30010115
     limit_sangvis: 4
-    mission_tip: mission-40010115
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10116
@@ -8351,7 +9021,7 @@
     difficulty_recommend: 5000;50
     difficulty_recommend_addendum: mission-30010116
     limit_sangvis: 4
-    mission_tip: mission-40010116
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10117
@@ -8386,7 +9056,7 @@
     difficulty_recommend: 6000;55
     difficulty_recommend_addendum: mission-30010117
     limit_sangvis: 4
-    mission_tip: mission-40010117
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10118
@@ -8421,7 +9091,7 @@
     difficulty_recommend: 8000;65
     difficulty_recommend_addendum: mission-30010118
     limit_sangvis: 4
-    mission_tip: mission-40010118
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10120
@@ -8454,7 +9124,7 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010120
     limit_sangvis: 4
-    mission_tip: mission-40010120
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10121
@@ -8489,7 +9159,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010121
     limit_sangvis: 4
-    mission_tip: mission-40010121
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10122
@@ -8524,7 +9194,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010122
     limit_sangvis: 4
-    mission_tip: mission-40010122
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10123
@@ -8561,7 +9231,7 @@
     difficulty_recommend: 16000;92
     difficulty_recommend_addendum: mission-30010123
     limit_sangvis: 4
-    mission_tip: mission-40010123
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10124
@@ -8599,7 +9269,7 @@
     difficulty_recommend: 18000;97
     difficulty_recommend_addendum: mission-30010124
     limit_sangvis: 4
-    mission_tip: mission-40010124
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10125
@@ -8635,7 +9305,7 @@
     difficulty_recommend: 18000;97
     difficulty_recommend_addendum: mission-30010125
     limit_sangvis: 3
-    mission_tip: mission-40010125
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10126
@@ -8672,7 +9342,7 @@
     difficulty_recommend: 18000;97
     difficulty_recommend_addendum: mission-30010126
     limit_sangvis: 4
-    mission_tip: mission-40010126
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10127
@@ -8707,7 +9377,7 @@
     difficulty_recommend: 18000;98
     difficulty_recommend_addendum: mission-30010127
     limit_sangvis: 4
-    mission_tip: mission-40010127
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10128
@@ -8743,7 +9413,7 @@
     difficulty_recommend: 20000;103
     difficulty_recommend_addendum: mission-30010128
     limit_sangvis: 4
-    mission_tip: mission-40010128
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10129
@@ -8778,7 +9448,7 @@
     difficulty_recommend: 20000;103
     difficulty_recommend_addendum: mission-30010129
     limit_sangvis: 4
-    mission_tip: mission-40010129
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10130
@@ -8878,7 +9548,7 @@
     difficulty_recommend: 22000;110
     difficulty_recommend_addendum: mission-30010132
     limit_sangvis: 1
-    mission_tip: mission-40010132
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10133
@@ -8916,7 +9586,7 @@
     difficulty_recommend: 24000;115
     difficulty_recommend_addendum: mission-30010133
     limit_sangvis: 3
-    mission_tip: mission-40010133
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10134
@@ -8957,7 +9627,7 @@
     difficulty_recommend: 24000;115
     difficulty_recommend_addendum: mission-30010134
     limit_sangvis: 3
-    mission_tip: mission-40010134
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10135
@@ -8994,7 +9664,7 @@
     difficulty_recommend: 26000;120
     difficulty_recommend_addendum: mission-30010135
     limit_sangvis: 4
-    mission_tip: mission-40010135
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10136
@@ -9030,7 +9700,7 @@
     difficulty_recommend: 28000;120
     difficulty_recommend_addendum: mission-30010136
     limit_sangvis: 4
-    mission_tip: mission-40010136
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10137
@@ -9069,7 +9739,7 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30010137
     limit_sangvis: 4
-    mission_tip: mission-40010137
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10138
@@ -9109,7 +9779,7 @@
     difficulty_recommend: 32000;120
     difficulty_recommend_addendum: mission-30010138
     limit_sangvis: 2
-    mission_tip: mission-40010138
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10139
@@ -9148,7 +9818,7 @@
     difficulty_recommend: 34000;120
     difficulty_recommend_addendum: mission-30010139
     limit_sangvis: 2
-    mission_tip: mission-40010139
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10140
@@ -9188,7 +9858,7 @@
     difficulty_recommend: 36000;120
     difficulty_recommend_addendum: mission-30010140
     limit_sangvis: 3
-    mission_tip: mission-40010140
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、軽装混合編成
   }
   {
     id: 10141
@@ -9228,7 +9898,7 @@
     difficulty_recommend: 38000;120
     difficulty_recommend_addendum: mission-30010141
     limit_sangvis: 3
-    mission_tip: mission-40010141
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10142
@@ -9326,7 +9996,7 @@
     difficulty_recommend: 40000;120
     difficulty_recommend_addendum: mission-30010144
     limit_sangvis: 4
-    mission_tip: mission-40010144
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10145
@@ -9704,7 +10374,7 @@
     difficulty_recommend: 1000;20
     difficulty_recommend_addendum: mission-30010194
     limit_sangvis: 4
-    mission_tip: mission-40010194
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10195
@@ -9773,7 +10443,7 @@
     difficulty_recommend: 2200;30
     difficulty_recommend_addendum: mission-30010196
     limit_sangvis: 4
-    mission_tip: mission-40010196
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10197
@@ -9879,7 +10549,7 @@
     difficulty_recommend: 2200;40
     difficulty_recommend_addendum: mission-30010199
     limit_sangvis: 4
-    mission_tip: mission-40010199
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10200
@@ -10108,7 +10778,7 @@
     difficulty_recommend: 2500;30
     difficulty_recommend_addendum: mission-30010206
     limit_sangvis: 4
-    mission_tip: mission-40010206
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10207
@@ -10179,7 +10849,7 @@
     difficulty_recommend: 3500;40
     difficulty_recommend_addendum: mission-30010208
     limit_sangvis: 4
-    mission_tip: mission-40010208
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10209
@@ -10245,7 +10915,7 @@
     difficulty_recommend: 3400;50
     difficulty_recommend_addendum: mission-30010210
     limit_sangvis: 4
-    mission_tip: mission-40010210
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10211
@@ -10281,7 +10951,7 @@
     difficulty_recommend: 4500;70
     difficulty_recommend_addendum: mission-30010211
     limit_sangvis: 4
-    mission_tip: mission-40010211
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10212
@@ -10383,7 +11053,7 @@
     difficulty_recommend: 3500;60
     difficulty_recommend_addendum: mission-30010214
     limit_sangvis: 4
-    mission_tip: mission-40010214
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10215
@@ -10489,7 +11159,7 @@
     difficulty_recommend: 5000;75
     difficulty_recommend_addendum: mission-30010217
     limit_sangvis: 4
-    mission_tip: mission-40010217
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10218
@@ -10625,7 +11295,7 @@
     difficulty_recommend: 4600;60
     difficulty_recommend_addendum: mission-30010221
     limit_sangvis: 4
-    mission_tip: mission-40010221
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10222
@@ -10700,7 +11370,7 @@
     difficulty_recommend: 5500;70
     difficulty_recommend_addendum: mission-30010223
     limit_sangvis: 4
-    mission_tip: mission-40010223
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10224
@@ -10766,7 +11436,7 @@
     difficulty_recommend: 8000;80
     difficulty_recommend_addendum: mission-30010225
     limit_sangvis: 4
-    mission_tip: mission-40010225
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10226
@@ -10869,7 +11539,7 @@
     difficulty_recommend: 18000;90
     difficulty_recommend_addendum: mission-30010228
     limit_sangvis: 4
-    mission_tip: mission-40010228
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10229
@@ -10970,7 +11640,7 @@
     difficulty_recommend: 15000;90
     difficulty_recommend_addendum: mission-30010231
     limit_sangvis: 4
-    mission_tip: mission-40010231
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10232
@@ -11041,7 +11711,7 @@
     difficulty_recommend: 18000;100
     difficulty_recommend_addendum: mission-30010233
     limit_sangvis: 4
-    mission_tip: mission-40010233
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10234
@@ -11142,7 +11812,7 @@
     difficulty_recommend: 14000;90
     difficulty_recommend_addendum: mission-30010236
     limit_sangvis: 4
-    mission_tip: mission-40010236
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10237
@@ -11208,7 +11878,7 @@
     difficulty_recommend: 15000;100
     difficulty_recommend_addendum: mission-30010238
     limit_sangvis: 4
-    mission_tip: mission-40010238
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10239
@@ -11249,7 +11919,7 @@
     difficulty_recommend: 23000;105
     difficulty_recommend_addendum: mission-30010239
     limit_sangvis: 4
-    mission_tip: mission-40010239
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10240
@@ -11440,7 +12110,7 @@
     difficulty_recommend: 25000;105
     difficulty_recommend_addendum: mission-30010245
     limit_sangvis: 4
-    mission_tip: mission-40010245
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10246
@@ -11575,7 +12245,7 @@
     difficulty_recommend: 27000;110
     difficulty_recommend_addendum: mission-30010249
     limit_sangvis: 4
-    mission_tip: mission-40010249
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10250
@@ -11712,7 +12382,7 @@
     difficulty_recommend: 25000;110
     difficulty_recommend_addendum: mission-30010253
     limit_sangvis: 4
-    mission_tip: mission-40010253
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
     event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
   }
   {
@@ -11751,7 +12421,7 @@
     difficulty_recommend: 27000;110
     difficulty_recommend_addendum: mission-30010254
     limit_sangvis: 4
-    mission_tip: mission-40010254
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10255
@@ -11791,7 +12461,7 @@
     difficulty_recommend: 28000;118
     difficulty_recommend_addendum: mission-30010255
     limit_sangvis: 4
-    mission_tip: mission-40010255
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10256
@@ -11830,7 +12500,7 @@
     difficulty_recommend: 25000;115
     difficulty_recommend_addendum: mission-30010256
     limit_sangvis: 4
-    mission_tip: mission-40010256
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10257
@@ -11866,7 +12536,7 @@
     difficulty_recommend: 32000;120
     difficulty_recommend_addendum: mission-30010257
     limit_sangvis: 4
-    mission_tip: mission-40010257
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10258
@@ -11901,7 +12571,7 @@
     difficulty_recommend: 35000;120
     difficulty_recommend_addendum: mission-30010258
     limit_sangvis: 4
-    mission_tip: mission-40010258
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10259
@@ -11937,7 +12607,7 @@
     difficulty_recommend: 37000;120
     difficulty_recommend_addendum: mission-30010259
     limit_sangvis: 4
-    mission_tip: mission-40010259
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10260
@@ -11977,7 +12647,7 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30010260
     limit_sangvis: 4
-    mission_tip: mission-40010260
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10261
@@ -12013,7 +12683,7 @@
     difficulty_recommend: 37000;120
     difficulty_recommend_addendum: mission-30010261
     limit_sangvis: 4
-    mission_tip: mission-40010261
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10262
@@ -12052,7 +12722,7 @@
     difficulty_recommend: 35000;120
     difficulty_recommend_addendum: mission-30010262
     limit_sangvis: 4
-    mission_tip: mission-40010262
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10263
@@ -12092,7 +12762,7 @@
     difficulty_recommend: 36000;120
     difficulty_recommend_addendum: mission-30010263
     limit_sangvis: 4
-    mission_tip: mission-40010263
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10264
@@ -12127,7 +12797,7 @@
     difficulty_recommend: 36000;120
     difficulty_recommend_addendum: mission-30010264
     limit_sangvis: 4
-    mission_tip: mission-40010264
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10265
@@ -12168,7 +12838,7 @@
     difficulty_recommend: 35000;120
     difficulty_recommend_addendum: mission-30010265
     limit_sangvis: 4
-    mission_tip: mission-40010265
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10266
@@ -12207,7 +12877,7 @@
     difficulty_recommend: 38000;120
     difficulty_recommend_addendum: mission-30010266
     limit_sangvis: 4
-    mission_tip: mission-40010266
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10267
@@ -12247,7 +12917,7 @@
     difficulty_recommend: 38000;120
     difficulty_recommend_addendum: mission-30010267
     limit_sangvis: 4
-    mission_tip: mission-40010267
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10268
@@ -12286,7 +12956,7 @@
     difficulty_recommend: 38000;120
     difficulty_recommend_addendum: mission-30010268
     limit_sangvis: 4
-    mission_tip: mission-40010268
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10269
@@ -12321,7 +12991,7 @@
     difficulty_recommend: 39000;120
     difficulty_recommend_addendum: mission-30010269
     limit_sangvis: 4
-    mission_tip: mission-40010269
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10270
@@ -12362,7 +13032,7 @@
     difficulty_recommend: 40000;120
     difficulty_recommend_addendum: mission-30010270
     limit_sangvis: 4
-    mission_tip: mission-40010270
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10271
@@ -12398,7 +13068,7 @@
     difficulty_recommend: 40000;120
     difficulty_recommend_addendum: mission-30010271
     limit_sangvis: 4
-    mission_tip: mission-40010271
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10272
@@ -12434,7 +13104,7 @@
     difficulty_recommend: 42000;120
     difficulty_recommend_addendum: mission-30010272
     limit_sangvis: 4
-    mission_tip: mission-40010272
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
   }
   {
     id: 10273
@@ -12471,7 +13141,7 @@
     difficulty_recommend: 42000;120
     difficulty_recommend_addendum: mission-30010273
     limit_sangvis: 4
-    mission_tip: mission-40010273
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、基本狙撃編成
     event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
   }
   {
@@ -13215,7 +13885,7 @@
     difficulty_recommend: 1000;15
     difficulty_recommend_addendum: mission-30010295
     limit_sangvis: 4
-    mission_tip: mission-40010295
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10296
@@ -13331,7 +14001,7 @@
     difficulty_recommend: 1500;20
     difficulty_recommend_addendum: mission-30010299
     limit_sangvis: 4
-    mission_tip: mission-40010299
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10300
@@ -13394,7 +14064,7 @@
     difficulty_recommend: 2000;25
     difficulty_recommend_addendum: mission-30010301
     limit_sangvis: 4
-    mission_tip: mission-40010301
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力特化型編成
   }
   {
     id: 10302
@@ -13457,7 +14127,7 @@
     difficulty_recommend: 2500;30
     difficulty_recommend_addendum: mission-30010303
     limit_sangvis: 4
-    mission_tip: mission-40010303
+    mission_tip: おすすめの部隊編成：瞬間火力特化型編成
   }
   {
     id: 10304
@@ -13520,7 +14190,7 @@
     difficulty_recommend: 3500;35
     difficulty_recommend_addendum: mission-30010305
     limit_sangvis: 4
-    mission_tip: mission-40010305
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、高速混合編成
   }
   {
     id: 10306
@@ -13583,7 +14253,7 @@
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: mission-30010307
     limit_sangvis: 4
-    mission_tip: mission-40010307
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10308
@@ -13647,7 +14317,7 @@
     difficulty_recommend: 4500;45
     difficulty_recommend_addendum: mission-30010309
     limit_sangvis: 4
-    mission_tip: mission-40010309
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10310
@@ -13737,7 +14407,7 @@
     difficulty_recommend: 5000;50
     difficulty_recommend_addendum: mission-30010312
     limit_sangvis: 4
-    mission_tip: mission-40010312
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10313
@@ -13800,7 +14470,7 @@
     difficulty_recommend: 5500;55
     difficulty_recommend_addendum: mission-30010314
     limit_sangvis: 4
-    mission_tip: mission-40010314
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10315
@@ -13891,7 +14561,7 @@
     difficulty_recommend: 7000;65
     difficulty_recommend_addendum: mission-30010317
     limit_sangvis: 4
-    mission_tip: mission-40010317
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10318
@@ -14008,7 +14678,7 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010321
     limit_sangvis: 4
-    mission_tip: mission-40010321
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10322
@@ -14071,7 +14741,7 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010323
     limit_sangvis: 4
-    mission_tip: mission-40010323
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10324
@@ -14135,7 +14805,7 @@
     difficulty_recommend: 12000;81
     difficulty_recommend_addendum: mission-30010325
     limit_sangvis: 4
-    mission_tip: mission-40010325
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、高速混合編成
   }
   {
     id: 10326
@@ -14198,7 +14868,7 @@
     difficulty_recommend: 14000;87
     difficulty_recommend_addendum: mission-30010327
     limit_sangvis: 4
-    mission_tip: mission-40010327
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10328
@@ -14262,7 +14932,7 @@
     difficulty_recommend: 15000;91
     difficulty_recommend_addendum: mission-30010329
     limit_sangvis: 4
-    mission_tip: mission-40010329
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10330
@@ -14327,7 +14997,7 @@
     difficulty_recommend: 16500;95
     difficulty_recommend_addendum: mission-30010331
     limit_sangvis: 4
-    mission_tip: mission-40010331
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、瞬間火力特化型編成、範囲攻撃型編成
   }
   {
     id: 10332
@@ -14365,7 +15035,7 @@
     difficulty_recommend: 20000;99
     difficulty_recommend_addendum: mission-30010332
     limit_sangvis: 4
-    mission_tip: mission-40010332
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10333
@@ -14430,7 +15100,7 @@
     difficulty_recommend: 22000;99
     difficulty_recommend_addendum: mission-30010334
     limit_sangvis: 4
-    mission_tip: mission-40010334
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10335
@@ -14583,7 +15253,7 @@
     difficulty_recommend: 24000;99
     difficulty_recommend_addendum: mission-30010339
     limit_sangvis: 4
-    mission_tip: mission-40010339
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10340
@@ -14622,7 +15292,7 @@
     difficulty_recommend: 27000;99
     difficulty_recommend_addendum: mission-30010340
     limit_sangvis: 4
-    mission_tip: mission-40010340
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10341
@@ -14722,7 +15392,7 @@
     difficulty_recommend: 26000;99
     difficulty_recommend_addendum: mission-30010343
     limit_sangvis: 4
-    mission_tip: mission-40010343
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10344
@@ -14758,7 +15428,7 @@
     difficulty_recommend: 27000;99
     difficulty_recommend_addendum: mission-30010344
     limit_sangvis: 4
-    mission_tip: mission-40010344
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10345
@@ -14795,7 +15465,7 @@
     difficulty_recommend: 28000;99
     difficulty_recommend_addendum: mission-30010345
     limit_sangvis: 4
-    mission_tip: mission-40010345
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力特化型編成
   }
   {
     id: 10346
@@ -14833,7 +15503,7 @@
     difficulty_recommend: 28500;99
     difficulty_recommend_addendum: mission-30010346
     limit_sangvis: 1
-    mission_tip: mission-40010346
+    mission_tip: おすすめの部隊編成：瞬間火力特化型編成
   }
   {
     id: 10347
@@ -14869,7 +15539,7 @@
     difficulty_recommend: 29000;99
     difficulty_recommend_addendum: mission-30010347
     limit_sangvis: 4
-    mission_tip: mission-40010347
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、高速混合編成
   }
   {
     id: 10348
@@ -14905,7 +15575,7 @@
     difficulty_recommend: 29500;99
     difficulty_recommend_addendum: mission-30010348
     limit_sangvis: 4
-    mission_tip: mission-40010348
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10349
@@ -14942,7 +15612,7 @@
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: mission-30010349
     limit_sangvis: 4
-    mission_tip: mission-40010349
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10350
@@ -14978,7 +15648,7 @@
     difficulty_recommend: 31000;99
     difficulty_recommend_addendum: mission-30010350
     limit_sangvis: 4
-    mission_tip: mission-40010350
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10351
@@ -15014,7 +15684,7 @@
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: mission-30010351
     limit_sangvis: 4
-    mission_tip: mission-40010351
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10352
@@ -15051,7 +15721,7 @@
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: mission-30010352
     limit_sangvis: 4
-    mission_tip: mission-40010352
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10353
@@ -15087,7 +15757,7 @@
     difficulty_recommend: 35000;99
     difficulty_recommend_addendum: mission-30010353
     limit_sangvis: 4
-    mission_tip: mission-40010353
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10354
@@ -15123,7 +15793,7 @@
     difficulty_recommend: 36000;99
     difficulty_recommend_addendum: mission-30010354
     limit_sangvis: 4
-    mission_tip: mission-40010354
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10355
@@ -15160,7 +15830,7 @@
     difficulty_recommend: 37000;99
     difficulty_recommend_addendum: mission-30010355
     limit_sangvis: 4
-    mission_tip: mission-40010355
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、高速混合編成
   }
   {
     id: 10356
@@ -15196,7 +15866,7 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: mission-30010356
     limit_sangvis: 4
-    mission_tip: mission-40010356
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力狙撃編成
   }
   {
     id: 10357
@@ -15234,7 +15904,7 @@
     difficulty_recommend: 39000;99
     difficulty_recommend_addendum: mission-30010357
     limit_sangvis: 4
-    mission_tip: mission-40010357
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10358
@@ -15271,7 +15941,7 @@
     difficulty_recommend: 40000;99
     difficulty_recommend_addendum: mission-30010358
     limit_sangvis: 4
-    mission_tip: mission-40010358
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、瞬間火力特化型編成、範囲攻撃型編成
   }
   {
     id: 10359
@@ -15309,7 +15979,7 @@
     difficulty_recommend: 41000;99
     difficulty_recommend_addendum: mission-30010359
     limit_sangvis: 4
-    mission_tip: mission-40010359
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10360
@@ -15347,7 +16017,7 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: mission-30010360
     limit_sangvis: 4
-    mission_tip: mission-40010360
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10361
@@ -15448,7 +16118,7 @@
     difficulty_recommend: 44000;99
     difficulty_recommend_addendum: mission-30010363
     limit_sangvis: 4
-    mission_tip: mission-40010363
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10364
@@ -15488,7 +16158,7 @@
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: mission-30010364
     limit_sangvis: 4
-    mission_tip: mission-40010364
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10365
@@ -16225,7 +16895,7 @@
     difficulty_recommend: 1000;10
     difficulty_recommend_addendum: mission-30010389
     limit_sangvis: 2
-    mission_tip: mission-40010389
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10390
@@ -16258,7 +16928,7 @@
     difficulty_recommend: 2500;20
     difficulty_recommend_addendum: mission-30010390
     limit_sangvis: 3
-    mission_tip: mission-40010390
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10391
@@ -16292,7 +16962,7 @@
     difficulty_recommend: 2800;20
     difficulty_recommend_addendum: mission-30010391
     limit_sangvis: 2
-    mission_tip: mission-40010391
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10392
@@ -16327,7 +16997,7 @@
     difficulty_recommend: 3000;25
     difficulty_recommend_addendum: mission-30010392
     limit_sangvis: 3
-    mission_tip: mission-40010392
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10393
@@ -16361,7 +17031,7 @@
     difficulty_recommend: 4000;35
     difficulty_recommend_addendum: mission-30010393
     limit_sangvis: 2
-    mission_tip: mission-40010393
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10394
@@ -16395,7 +17065,7 @@
     difficulty_recommend: 4200;35
     difficulty_recommend_addendum: mission-30010394
     limit_sangvis: 2
-    mission_tip: mission-40010394
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10395
@@ -16429,7 +17099,7 @@
     difficulty_recommend: 4500;40
     difficulty_recommend_addendum: mission-30010395
     limit_sangvis: 2
-    mission_tip: mission-40010395
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10396
@@ -16463,7 +17133,7 @@
     difficulty_recommend: 4600;44
     difficulty_recommend_addendum: mission-30010396
     limit_sangvis: 3
-    mission_tip: mission-40010396
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10397
@@ -16498,7 +17168,7 @@
     difficulty_recommend: 4700;44
     difficulty_recommend_addendum: mission-30010397
     limit_sangvis: 3
-    mission_tip: mission-40010397
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10398
@@ -16533,7 +17203,7 @@
     difficulty_recommend: 5700;52
     difficulty_recommend_addendum: mission-30010398
     limit_sangvis: 2
-    mission_tip: mission-40010398
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10399
@@ -16568,7 +17238,7 @@
     difficulty_recommend: 6200;56
     difficulty_recommend_addendum: mission-30010399
     limit_sangvis: 3
-    mission_tip: mission-40010399
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10400
@@ -16601,7 +17271,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010400
     limit_sangvis: 4
-    mission_tip: mission-40010400
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10401
@@ -16634,7 +17304,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010401
     limit_sangvis: 4
-    mission_tip: mission-40010401
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力狙撃編成
   }
   {
     id: 10402
@@ -16667,7 +17337,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010402
     limit_sangvis: 4
-    mission_tip: mission-40010402
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力狙撃編成
   }
   {
     id: 10403
@@ -16700,7 +17370,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010403
     limit_sangvis: 4
-    mission_tip: mission-40010403
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10404
@@ -16734,7 +17404,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010404
     limit_sangvis: 4
-    mission_tip: mission-40010404
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力狙撃編成
   }
   {
     id: 10405
@@ -16767,7 +17437,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010405
     limit_sangvis: 4
-    mission_tip: mission-40010405
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10406
@@ -16803,7 +17473,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010406
     limit_sangvis: 4
-    mission_tip: mission-40010406
+    mission_tip: おすすめの部隊編成：夜戦特化型編成，瞬間火力狙撃編成
   }
   {
     id: 10407
@@ -16837,7 +17507,7 @@
     difficulty_recommend: 12000;80
     difficulty_recommend_addendum: mission-30010407
     limit_sangvis: 2
-    mission_tip: mission-40010407
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10408
@@ -16872,7 +17542,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010408
     limit_sangvis: 4
-    mission_tip: mission-40010408
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
   }
   {
     id: 10409
@@ -16906,7 +17576,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010409
     limit_sangvis: 4
-    mission_tip: mission-40010409
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10410
@@ -16940,7 +17610,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010410
     limit_sangvis: 1
-    mission_tip: mission-40010410
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成
   }
   {
     id: 10411
@@ -16973,7 +17643,7 @@
     difficulty_recommend: 14000;85
     difficulty_recommend_addendum: mission-30010411
     limit_sangvis: 4
-    mission_tip: mission-40010411
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力狙撃編成
   }
   {
     id: 10412
@@ -17008,7 +17678,7 @@
     difficulty_recommend: 26000;99
     difficulty_recommend_addendum: mission-30010412
     limit_sangvis: 4
-    mission_tip: mission-40010412
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力狙撃編成
   }
   {
     id: 10413
@@ -17043,7 +17713,7 @@
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: mission-30010413
     limit_sangvis: 2
-    mission_tip: mission-40010413
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10414
@@ -17078,7 +17748,7 @@
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: mission-30010414
     limit_sangvis: 2
-    mission_tip: mission-40010414
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10415
@@ -17112,7 +17782,7 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: mission-30010415
     limit_sangvis: 1
-    mission_tip: mission-40010415
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10416
@@ -17150,7 +17820,7 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: mission-30010416
     limit_sangvis: 4
-    mission_tip: mission-40010416
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成
   }
   {
     id: 10417
@@ -17190,7 +17860,7 @@
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: mission-30010417
     limit_sangvis: 4
-    mission_tip: mission-40010417
+    mission_tip: おすすめの部隊編成：夜戦特化型編成、範囲攻撃型編成、瞬間火力狙撃編成
     event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,0,10,0
   }
   {
@@ -17260,7 +17930,7 @@
     difficulty_recommend: 2600;20
     difficulty_recommend_addendum: mission-30010419
     limit_sangvis: 2
-    mission_tip: mission-40010419
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10420
@@ -17295,7 +17965,7 @@
     difficulty_recommend: 3500;35
     difficulty_recommend_addendum: mission-30010420
     limit_sangvis: 2
-    mission_tip: mission-40010420
+    mission_tip: おすすめの部隊編成：基本狙撃編成
   }
   {
     id: 10421
@@ -17331,7 +18001,7 @@
     difficulty_recommend: 4800;44
     difficulty_recommend_addendum: mission-30010421
     limit_sangvis: 2
-    mission_tip: mission-40010421
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10422
@@ -17366,7 +18036,7 @@
     difficulty_recommend: 4900;44
     difficulty_recommend_addendum: mission-30010422
     limit_sangvis: 3
-    mission_tip: mission-40010422
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10423
@@ -17397,7 +18067,7 @@
     difficulty_recommend: 1000;10
     difficulty_recommend_addendum: mission-30010423
     limit_sangvis: 4
-    mission_tip: mission-40010423
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10424
@@ -17431,7 +18101,7 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010424
     limit_sangvis: 4
-    mission_tip: mission-40010424
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10425
@@ -17465,7 +18135,7 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010425
     limit_sangvis: 4
-    mission_tip: mission-40010425
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10426
@@ -19916,7 +20586,7 @@
     win_type: "64101011"
     difficulty_recommend: 3000;20
     difficulty_recommend_addendum: mission-30010510
-    mission_tip: mission-40010510
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051000:1,1051001:1,1051002:1,1051003:1,1051004:1
   }
   {
@@ -19947,7 +20617,7 @@
     win_type: "64102011"
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010511
-    mission_tip: mission-40010511
+    mission_tip: おすすめの部隊編成：夜戦特化型編成
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
   {
@@ -19980,7 +20650,7 @@
     win_type: "1051210"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010512
-    mission_tip: mission-40010512
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -19988,7 +20658,7 @@
     campaign: -41
     sub: 5
     if_emergency: -1
-    name: 喰蛇作戦①
+    name: 喰蛇作戦
     difficulty: 10000
     exp_parameter: 50
     type: "3"
@@ -20011,7 +20681,7 @@
     win_type: "64104011"
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010513
-    mission_tip: mission-40010513
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -20019,7 +20689,7 @@
     campaign: -41
     sub: 6
     if_emergency: -1
-    name: 断惑無間①
+    name: 断惑無間
     difficulty: 15000
     exp_parameter: 50
     type: "3"
@@ -20045,7 +20715,7 @@
     difficulty_recommend: 15000;99
     difficulty_recommend_addendum: mission-30010514
     limit_sangvis: -1
-    mission_tip: mission-40010514
+    mission_tip: おすすめの部隊編成：n/a
     drop_key_info: 1051400:1,1051401:1,1051402:1
   }
   {
@@ -20080,7 +20750,7 @@
     draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: 15000;99
     difficulty_recommend_addendum: mission-30010515
-    mission_tip: mission-40010515
+    mission_tip: おすすめの部隊編成：範囲攻撃型編成、瞬間火力特化型編成
     drop_key_info: 1051000:1,1051001:1,1051002:1,1051003:1,1051004:1
   }
   {
@@ -20115,7 +20785,7 @@
     draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: 18000;99
     difficulty_recommend_addendum: mission-30010516
-    mission_tip: mission-40010516
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
   {
@@ -20151,7 +20821,7 @@
     draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: 21000;99
     difficulty_recommend_addendum: mission-30010517
-    mission_tip: mission-40010517
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -20186,7 +20856,7 @@
     draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: 21000;99
     difficulty_recommend_addendum: mission-30010518
-    mission_tip: mission-40010518
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力狙撃編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -20349,7 +21019,7 @@
     draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: 3000;20
     difficulty_recommend_addendum: mission-30010523
-    mission_tip: mission-40010523
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10524
@@ -20381,7 +21051,7 @@
     draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010524
-    mission_tip: mission-40010524
+    mission_tip: おすすめの部隊編成：基本狙撃編成
   }
   {
     id: 10525
@@ -20415,7 +21085,7 @@
     win_type: 1|3
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010525
-    mission_tip: mission-40010525
+    mission_tip: おすすめの部隊編成：瞬間火力特化型編成
   }
   {
     id: 10526
@@ -20448,7 +21118,7 @@
     win_type: "64103111"
     difficulty_recommend: 10000;99
     difficulty_recommend_addendum: mission-30010526
-    mission_tip: mission-40010526
+    mission_tip: おすすめの部隊編成：高速混合編成、瞬間火力特化型編成
   }
   {
     id: 10527
@@ -20481,7 +21151,7 @@
     win_type: "1"
     difficulty_recommend: 15000;99
     difficulty_recommend_addendum: mission-30010527
-    mission_tip: mission-40010527
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10528
@@ -21871,7 +22541,7 @@
     campaign: -42
     sub: 3
     if_emergency: -1
-    name: 凶事の終り
+    name: 凶事の終り|凶事の終り：電子|凶事の終り：現実
     difficulty: 7000
     exp_parameter: 36
     type: "3"
@@ -21966,7 +22636,7 @@
     campaign: -42
     sub: 6
     if_emergency: -1
-    name: 凶事の終りEX
+    name: 凶事の終りEX|凶事の終りEX：電子|凶事の終りEX：現実
     difficulty: 32000
     exp_parameter: 54
     type: "3"
@@ -27215,7 +27885,7 @@
     sub: 10
     if_emergency: -1
     special_type: 1
-    name: 写真館の謎 ∞
+    name: 写真館の謎∞
     difficulty: 14000
     exp_parameter: 44
     type: "3"
@@ -29285,7 +29955,7 @@
     campaign: -41
     sub: 70
     if_emergency: -1
-    name: mission-10010950
+    name: 離席の時②
     difficulty: 3000
     exp_parameter: 50
     type: "3"
@@ -29307,7 +29977,7 @@
     win_type: "64101021"
     difficulty_recommend: 3000;20
     difficulty_recommend_addendum: mission-30010950
-    mission_tip: mission-40010950
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051000:1,1051001:1,1051002:1,1051003:1,1051004:1
   }
   {
@@ -29341,7 +30011,7 @@
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010951
     limit_sangvis: 1
-    mission_tip: mission-40010951
+    mission_tip: おすすめの部隊編成：n/a
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
   {
@@ -29375,7 +30045,7 @@
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010952
     limit_sangvis: -1
-    mission_tip: mission-40010952
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
   {
@@ -29405,7 +30075,7 @@
     win_type: "64102041"
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010953
-    mission_tip: mission-40010953
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
   {
@@ -29439,7 +30109,7 @@
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010954
     limit_sangvis: 1
-    mission_tip: mission-40010954
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
   {
@@ -29468,7 +30138,7 @@
     round_config: 1:1,2:2,3:3
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010955
-    mission_tip: mission-40010955
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "64102051"
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
@@ -29499,7 +30169,7 @@
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010956
     limit_sangvis: -1
-    mission_tip: mission-40010956
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "64102061"
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
@@ -29532,7 +30202,7 @@
     medal_type_silver: "64102031"
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010957
-    mission_tip: mission-40010957
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "64102031"
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
@@ -29562,7 +30232,7 @@
     round_config: 1:1,2:2,3:3
     difficulty_recommend: 6000;50
     difficulty_recommend_addendum: mission-30010958
-    mission_tip: mission-40010958
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "64102091"
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
   }
@@ -29625,7 +30295,7 @@
     win_type: "1051220"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010960
-    mission_tip: mission-40010960
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29656,7 +30326,7 @@
     win_type: "1051230"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010961
-    mission_tip: mission-40010961
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29687,7 +30357,7 @@
     win_type: "1051240"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010962
-    mission_tip: mission-40010962
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29718,7 +30388,7 @@
     win_type: "1051250"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010963
-    mission_tip: mission-40010963
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29750,7 +30420,7 @@
     medal_type_silver: "1051260"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010964
-    mission_tip: mission-40010964
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29781,7 +30451,7 @@
     win_type: "1051270"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010965
-    mission_tip: mission-40010965
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29812,7 +30482,7 @@
     win_type: "1051280"
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010966
-    mission_tip: mission-40010966
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
   {
@@ -29842,7 +30512,7 @@
     round_config: 1:1,2:2,3:3
     difficulty_recommend: 9000;75
     difficulty_recommend_addendum: mission-30010967
-    mission_tip: mission-40010967
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "1051290"
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
   }
@@ -29905,7 +30575,7 @@
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010969
     limit_sangvis: -1
-    mission_tip: mission-40010969
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -29935,7 +30605,7 @@
     win_type: "64104031"
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010970
-    mission_tip: mission-40010970
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -29966,7 +30636,7 @@
     medal_type_silver: "64104042"
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010971
-    mission_tip: mission-40010971
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -29996,7 +30666,7 @@
     win_type: "64104051"
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010972
-    mission_tip: mission-40010972
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -30026,7 +30696,7 @@
     win_type: "64104061"
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010973
-    mission_tip: mission-40010973
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -30057,7 +30727,7 @@
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010974
     limit_sangvis: -1
-    mission_tip: mission-40010974
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -30090,7 +30760,7 @@
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010975
     limit_sangvis: -1
-    mission_tip: mission-40010975
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -30121,7 +30791,7 @@
     difficulty_recommend: 10000;80
     difficulty_recommend_addendum: mission-30010976
     limit_sangvis: -1
-    mission_tip: mission-40010976
+    mission_tip: おすすめの部隊編成：高速混合編成
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
   }
   {
@@ -30187,7 +30857,7 @@
     difficulty_recommend: 15000;100
     difficulty_recommend_addendum: mission-30010978
     limit_sangvis: -1
-    mission_tip: mission-40010978
+    mission_tip: おすすめの部隊編成：n/a
     drop_key_info: 1051400:1,1051401:1,1051402:1
   }
   {
@@ -30218,7 +30888,7 @@
     difficulty_recommend: 15000;100
     difficulty_recommend_addendum: mission-30010979
     limit_sangvis: -1
-    mission_tip: mission-40010979
+    mission_tip: おすすめの部隊編成：n/a
     win_step: "1051430"
     drop_key_info: 1051400:1,1051401:1,1051402:1
   }
@@ -30839,9 +31509,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 2500;30
-    difficulty_recommend_addendum: mission-30090001
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 2
-    mission_tip: mission-40090001
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90002
@@ -30867,9 +31541,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 4000;35
-    difficulty_recommend_addendum: mission-30090002
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 2
-    mission_tip: mission-40090002
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90003
@@ -30895,9 +31573,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 4500;40
-    difficulty_recommend_addendum: mission-30090003
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40090003
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90004
@@ -30924,9 +31606,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 5000;45
-    difficulty_recommend_addendum: mission-30090004
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090004
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90005
@@ -30952,9 +31639,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 5200;50
-    difficulty_recommend_addendum: mission-30090005
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40090005
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90006
@@ -30980,9 +31671,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 5800;55
-    difficulty_recommend_addendum: mission-30090006
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 3
-    mission_tip: mission-40090006
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90007
@@ -31008,9 +31704,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 6400;60
-    difficulty_recommend_addendum: mission-30090007
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090007
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90008
@@ -31037,9 +31738,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 7000;65
-    difficulty_recommend_addendum: mission-30090008
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090008
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90009
@@ -31065,9 +31771,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 8000;68
-    difficulty_recommend_addendum: mission-30090009
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090009
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90010
@@ -31093,9 +31804,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 9000;70
-    difficulty_recommend_addendum: mission-30090010
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090010
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90011
@@ -31121,9 +31837,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 9500;75
-    difficulty_recommend_addendum: mission-30090011
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090011
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      瞬間火力狙撃編成
+      '''
   }
   {
     id: 90012
@@ -31150,9 +31871,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 10000;80
-    difficulty_recommend_addendum: mission-30090012
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090012
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90013
@@ -31178,9 +31904,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 11000;84
-    difficulty_recommend_addendum: mission-30090013
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090013
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90014
@@ -31206,9 +31937,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 12000;86
-    difficulty_recommend_addendum: mission-30090014
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090014
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90015
@@ -31234,9 +31969,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 14000;88
-    difficulty_recommend_addendum: mission-30090015
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090015
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90016
@@ -31263,9 +32002,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 16000;90
-    difficulty_recommend_addendum: mission-30090016
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090016
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90017
@@ -31293,9 +32036,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 16000;99
-    difficulty_recommend_addendum: mission-30090017
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090017
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90018
@@ -31323,9 +32071,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 18000;100
-    difficulty_recommend_addendum: mission-30090018
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090018
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90019
@@ -31353,9 +32106,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 20000;102
-    difficulty_recommend_addendum: mission-30090019
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090019
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90020
@@ -31384,9 +32142,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 22000;105
-    difficulty_recommend_addendum: mission-30090020
+    difficulty_recommend_addendum: 推奨無し
     limit_sangvis: 4
-    mission_tip: mission-40090020
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      基本狙撃編成
+      '''
   }
   {
     id: 90021
@@ -31413,9 +32176,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 22000;99
-    difficulty_recommend_addendum: mission-30090021
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥4</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090021
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90022
@@ -31442,9 +32210,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 22000;99
-    difficulty_recommend_addendum: mission-30090022
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥6</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090022
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90023
@@ -31471,9 +32243,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 23000;99
-    difficulty_recommend_addendum: mission-30090023
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥8</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090023
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90024
@@ -31501,9 +32277,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 24000;99
-    difficulty_recommend_addendum: mission-30090024
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥10</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090024
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90025
@@ -31531,9 +32311,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 25000;99
-    difficulty_recommend_addendum: mission-30090025
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥14</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090025
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90026
@@ -31561,9 +32346,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 26000;99
-    difficulty_recommend_addendum: mission-30090026
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥16</Color>、ランク<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090026
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90027
@@ -31591,9 +32381,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 27000;99
-    difficulty_recommend_addendum: mission-30090027
+    difficulty_recommend_addendum: 妖精推奨レベルColor=#FFB400FF>≥18</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090027
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90028
@@ -31622,9 +32417,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: 28000;99
-    difficulty_recommend_addendum: mission-30090028
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥24</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090028
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90029
@@ -31652,9 +32452,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 27000;99
-    difficulty_recommend_addendum: mission-30090029
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥24</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090029
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90030
@@ -31682,9 +32487,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 28000;99
-    difficulty_recommend_addendum: mission-30090030
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥26</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090030
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90031
@@ -31712,9 +32522,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 29000;99
-    difficulty_recommend_addendum: mission-30090031
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥28</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 2
-    mission_tip: mission-40090031
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90032
@@ -31744,9 +32559,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 33000;99
-    difficulty_recommend_addendum: mission-30090032
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥30</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 3
-    mission_tip: mission-40090032
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      バランス型編成
+      '''
   }
   {
     id: 90033
@@ -31774,9 +32594,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 28000;99
-    difficulty_recommend_addendum: mission-30090033
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥24</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 3
-    mission_tip: mission-40090033
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90034
@@ -31804,9 +32629,14 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 29000;99
-    difficulty_recommend_addendum: mission-30090034
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥26</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090034
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90035
@@ -31835,9 +32665,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 31000;99
-    difficulty_recommend_addendum: mission-30090035
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥28</Color>、ランク<Color=#FFB400FF>≥2</Color>
     limit_sangvis: 2
-    mission_tip: mission-40090035
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90036
@@ -31865,9 +32699,13 @@
     round_config: 1:1,2:2,3:3
     limit_squad: 2
     difficulty_recommend: 35000;99
-    difficulty_recommend_addendum: mission-30090036
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥30</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090036
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90037
@@ -31897,9 +32735,14 @@
     limit_squad: 2
     win_type: "1"
     difficulty_recommend: 36000;99
-    difficulty_recommend_addendum: mission-30090037
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥30</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 2
-    mission_tip: mission-40090037
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90038
@@ -31928,9 +32771,14 @@
     limit_squad: 2
     win_type: "10220,10221|7,10220"
     difficulty_recommend: 37500;99
-    difficulty_recommend_addendum: mission-30090038
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥32</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 2
-    mission_tip: mission-40090038
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜戦特化型編成
+      軽装混合編成
+      '''
   }
   {
     id: 90039
@@ -31960,9 +32808,13 @@
     limit_squad: 2
     win_type: "10230"
     difficulty_recommend: 39000;99
-    difficulty_recommend_addendum: mission-30090039
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥34</Color>，ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40090039
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
   {
     id: 90040
@@ -31991,8 +32843,12 @@
     limit_squad: 2
     win_type: "10240,10241"
     difficulty_recommend: 40000;99
-    difficulty_recommend_addendum: mission-30090040
+    difficulty_recommend_addendum: 妖精推奨レベル<Color=#FFB400FF>≥35</Color>、ランク<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40090040
+    mission_tip:
+      '''
+      おすすめの部隊編成：
+      夜战特化编队
+      '''
   }
 ]

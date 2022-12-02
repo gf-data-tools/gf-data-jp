@@ -22,14 +22,14 @@
     is_class: 1
     des_year: "2019"
     source: 2
-    source_description: commander_class-40000011
+    source_description: 新人の入職用制服
   }
   {
     id: 12
     name: グリフィンの夏
     description: お知らせ:バーチャルサンシャインビーチはあと40分で終了となります。開催時間にご注意ください。
     group_id: "53"
-    code: commander_12_icon
+    code: commander_1232_icon
     bonus_plastic: "130001"
     skill_id: 104
     path: CLASS12
@@ -50,7 +50,7 @@
     is_class: 1
     des_year: "2021"
     source: 2
-    source_description: commander_class-40000013
+    source_description: イベント「連鎖分裂」クリア報酬
   }
   {
     id: 14
@@ -75,7 +75,7 @@
     path: CLASS15
     des_year: "2021"
     source: 2
-    source_description: commander_class-40000015
+    source_description: イベント「連鎖分裂」ランキング報酬
   }
   {
     id: 16

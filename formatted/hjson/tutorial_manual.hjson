@@ -250,7 +250,7 @@
     id: 402
     type: 2
     title: 妖精製造
-    sub_title: 装備大型製造では妖精が獲得できます。
+    sub_title: 大型妖精製造で妖精を獲得する。
     content: 3067b208415fc837_draw_201118183808.jpg,f05e333dbeed1d13_draw_201118183835.jpg
     function_control_id: 1
     goto_page: 21
@@ -336,7 +336,7 @@
     id: 504
     type: 2
     title: 重装育成
-    sub_title: 重装部隊を強化し続けましょう！
+    sub_title: 重装部隊を強化し続けてましょう！
     content: 5ab92bd4fe301e55_draw_201118192918.jpg,c15fabb8f7b3e1e3_draw_201118192919.jpg
     function_control_id: 15
     goto_page: 203
@@ -590,8 +590,8 @@
   {
     id: 804
     type: 2
-    title: 廃棄された建物&起爆装置&廃墟
-    sub_title: 廃棄された建物はマス上の部隊に掩護を提供し、起爆後は廃墟と化します。
+    title: 放棄された建物&起爆装置&廃墟
+    sub_title: 放棄された建物はマス上の部隊に掩護を提供し、起爆後は廃墟と化します。
     content: 2ec3026f2ff3de3b_draw_210325174558.jpg
   }
   {
@@ -611,8 +611,8 @@
   {
     id: 807
     type: 2
-    title: 大型バルブ
-    sub_title: 大型バルブは廃棄されたゴリアテを利用して起爆できます。
+    title: シールドジェネレータ
+    sub_title: シールドジェネレータは部隊にシールドによる支援を提供します。
     content: 6b14453ce3e88581_draw_210818190510.jpg
   }
   {
@@ -677,7 +677,7 @@
     id: 904
     type: 2
     title: 作戦誘導
-    sub_title: ユニットの索敵アルゴリズムを合理的に利用し、指定のマスに誘導しましょう。
+    sub_title: ユニットの索敵暗号を合理的に利用し、指定のマスに誘導しましょう。
     content: fa97bc36489a88cd_draw_200717029.jpg
     function_control_id: 10000
   }

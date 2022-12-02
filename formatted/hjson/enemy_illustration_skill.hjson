@@ -728,22 +728,22 @@
   }
   {
     id: 131
-    name: 羽根の折れた蝶
+    name: 羽無き蝶
     description: HPの最も少ない敵をロックし必中ダメージと射速低下効果を与え、マークする。マークされていない敵が優先してロックされ、敵全てがマークされるとダメージのみを与えるようになる。
   }
   {
     id: 132
-    name: 残忍な爪
+    name: 残爪
     description: 鋼の爪で前方の一定の範囲内の目標に破甲ダメージを複数回与え、裂創効果を付与する。裂創効果を付与された敵は常に少量のダメージを受ける。
   }
   {
     id: 133
-    name: マンティスブレード
+    name: 蟷螂刀
     description: 鋭利なブレードで前列のユニットを貫き、必中ダメージを複数回与える。
   }
   {
     id: 134
-    name: 空より落ちた蝉
+    name: 空蝉落とし
     description: 最も与ダメージの多いユニットのダミーを一体消し去り、大ダメージを与えようと試みる。そのターゲットがダミーを一体失った際、シールドを獲得し永久に自身の射速を上げる。それぞれのHPの段階：75%、50%、25%に応じて、三度発動する。
   }
   {
@@ -759,7 +759,7 @@
   {
     id: 137
     name: メンタル凝集
-    description: 1/3/5つのメンタルを盗んだ後、通常攻撃はそれぞれ2/3/4レベルまで強化される。レベル1：ストレリツィを召喚/レベル2：セキュリティを追加で召喚/レベル3：コマンダーを追加で召喚/レベル4：ハンマーを追加で召喚
+    description: 1/3/5つのメンタルを盗んだ後、通常攻撃はそれぞれ2/3/4レベルまで強化される。レベル1：ストレリツィを召喚/レベル2：センチネルを追加で召喚/レベル3：コマンダーを追加で召喚/レベル4：マカバイを追加で召喚
   }
   {
     id: 138
@@ -900,6 +900,71 @@
     id: 165
     name: 魔の箱
     description: 高頻度で自身の火力と射速を上昇させる。
+  }
+  {
+    id: 166
+    name: 預言者
+    description: 独特な水鉄砲で通常攻撃を行う。味方最前列のユニットをロックし、横列の後ろにも届く貫通攻撃を仕掛けてくる。
+  }
+  {
+    id: 167
+    name: enemy_illustration_skill-10000167
+    description: enemy_illustration_skill-20000167
+  }
+  {
+    id: 168
+    name: enemy_illustration_skill-10000168
+    description: enemy_illustration_skill-20000168
+  }
+  {
+    id: 169
+    name: enemy_illustration_skill-10000169
+    description: enemy_illustration_skill-20000169
+  }
+  {
+    id: 170
+    name: enemy_illustration_skill-10000170
+    description: enemy_illustration_skill-20000170
+  }
+  {
+    id: 171
+    name: enemy_illustration_skill-10000171
+    description: enemy_illustration_skill-20000171
+  }
+  {
+    id: 172
+    name: enemy_illustration_skill-10000172
+    description: enemy_illustration_skill-20000172
+  }
+  {
+    id: 173
+    name: enemy_illustration_skill-10000173
+    description: enemy_illustration_skill-20000173
+  }
+  {
+    id: 174
+    name: 全弾発射
+    description: enemy_illustration_skill-20000174
+  }
+  {
+    id: 175
+    name: enemy_illustration_skill-10000175
+    description: enemy_illustration_skill-20000175
+  }
+  {
+    id: 176
+    name: enemy_illustration_skill-10000176
+    description: enemy_illustration_skill-20000176
+  }
+  {
+    id: 177
+    name: enemy_illustration_skill-10000177
+    description: enemy_illustration_skill-20000177
+  }
+  {
+    id: 178
+    name: enemy_illustration_skill-10000178
+    description: enemy_illustration_skill-20000178
   }
   {
     id: 999

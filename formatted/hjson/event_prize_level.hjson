@@ -1,7 +1,7 @@
 [
   {
     id: 1
-    name: 鏡像論
+    name: "\ufffdR\ufffd\ufffd\u0553"
     type: 2
     value: "110039"
     condition: 400000:40343;800000:40344;1200000:40345;1600000:40346;2000000:40347;2400000:40348;2800000:40349;3800000:40350;4800000:40351;5800000:40352;7200000:40353;10000000:40354
@@ -11,17 +11,11 @@
     prize_end_time: 2022-08-19 23:59:59
     left_icon: 2020f8c0140dc6bb_draw_220711200929.png
     background: c4fe8cc30ac8c15a_draw_220711200930.png
-    notice_txt:
-      '''
-      1.イベント期間中、『鏡像論』のランキングモードにて、スコアを獲得し目標を達成することで、報酬を獲得することができます。
-      2.イベントごとの報酬は一回しか受け取れません。
-      3.『鏡像論』イベント終了後、スコアを獲得することができなくなりますが、イベントページは報酬受け取り期間終了までに開放されます。
-      4.イベントページが閉鎖されるまで、メイン画面の左下バナーから報酬受け取り画面に入ることができます。報酬受け取り期間終了後、報酬を受け取れなくなります。
-      '''
+    notice_txt: "1.\ufffd\ufffd\ufffd\u0665\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdg\ufffd\u0421\ufffd\ufffd\ufffd\ufffdR\ufffd\ufffd\u0553\ufffd\ufffd\ufffd\u03a5\ufffd\ufffd\udb56\udf65\udb57\udc25\ufffd\ufffd`\ufffd\u0264\u02e4\u01a1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffd\u00e4\ufffd\u013f\ufffd\u02e4\ufffd\ufffd_\ufffd\u0264\ufffd\ufffd\ub933\ufffd\u0224\u01e1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffd\u00e4\ufffd\ufffd\ub933\ufffd\u0224\ufffd\ufffd\u01e4\ufffd\ufffd\u07a4\ufffd\ufffd\ufffd\n2.\ufffd\ufffd\ufffd\u0665\ufffd\ufffd\u0224\ufffd\ufffd\u0224\u0388\ufffd\ufffd\ufffd\ufffd\ufffd\u04bb\ufffd\u0624\ufffd\ufffd\ufffd\ufffd\u0724\ufffd\u0221\ufffd\ufffd\ufffd\u07a4\ufffd\ufffd\ufffd\ufffd\ufffd\n3.\ufffd\ufffd\ufffdR\ufffd\ufffd\u0553\ufffd\ufffd\ufffd\ufffd\ufffd\u0665\ufffd\ufffd\u023dK\ufffd\ufffd\ufffd\u1862\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffd\u00e4\ufffd\ufffd\ub933\ufffd\u0224\ufffd\ufffd\u01e4\ufffd\ufffd\u02a4\ufffd\ufffd\u02a4\ufffd\ufffd\u07a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0665\ufffd\ufffd\u0225\u06a9`\ufffd\ufffd\ufffd\u03c8\ufffd\ufffd\ufffd\ufffd\u0724\ufffd\u0221\ufffd\ufffd\ufffd\ufffd\ufffdg\ufffdK\ufffd\u02e4\u07a4\u01e4\ufffd\ufffd_\ufffd\u0164\ufffd\ufffd\ufffd\ufffd\u07a4\ufffd\ufffd\ufffd\n4.\ufffd\ufffd\ufffd\u0665\ufffd\ufffd\u0225\u06a9`\ufffd\ufffd\ufffd\ufffd\ufffd]\ufffdi\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u07a4\u01e1\ufffd\ufffd\u1964\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u00a5\u0425\u02a9`\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0724\ufffd\u0221\ufffd\uaeed\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ub933\ufffd\u0224\ufffd\ufffd\u01e4\ufffd\ufffd\u07a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0724\ufffd\u0221\ufffd\ufffd\ufffd\ufffd\ufffdg\ufffdK\ufffd\ufffd\ufffd\u1862\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0724\ufffd\u0221\ufffd\ufffd\ufffd\u02a4\ufffd\ufffd\u02a4\ufffd\ufffd\u07a4\ufffd\ufffd\ufffd"
   }
   {
     id: 1001
-    name: ハチの巣+
+    name: event_prize_level-10001001
     type: 2
     value: "110044"
     condition: 48000:330290;88888:330291;480000:330292;880000:330293;1280000:330294;1680000:330295;2080000:330296;2380000:330297;2680000:330298;2980000:330299;3280000:330300;3680000:330301
@@ -31,12 +25,6 @@
     prize_end_time: 2022-10-21 23:59:59
     left_icon: bdf5d023f76fb56c_draw_220920123545.png
     background: f0a00eb03302e6ed_draw_220920123545.png
-    notice_txt:
-      '''
-      1.イベント期間中、『ハチの巣+』にて、スコアを獲得し目標を達成することで、報酬を獲得することができます。
-      2.イベントごとの報酬は一回しか受け取れません。
-      3.『ハチの巣+』イベント終了後、スコアを獲得することができなくなりますが、イベントページは報酬受け取り期間終了までに開放されます。
-      4.イベントページが閉鎖されるまで、メイン画面の左下バナーから報酬受け取り画面に入ることができます。報酬受け取り期間終了後、報酬を受け取れなくなります。
-      '''
+    notice_txt: event_prize_level-20001001
   }
 ]

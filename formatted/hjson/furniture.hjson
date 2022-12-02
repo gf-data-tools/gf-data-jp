@@ -23223,6 +23223,224 @@
     rotate: "2"
   }
   {
+    id: 9301
+    name: 氷原を超えろ-果て無き雪
+    classes: 93
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 一枚一枚が雪のように……互いに噛み合うことができれば、そこに境界線などない。
+    code: Christmas2020_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9302
+    name: 氷原を超えろ-オーロラの夜
+    classes: 93
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 美しい光景が与えるものが幸福でなければ、あとは孤独だけなのだ。
+    code: Christmas2020_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9303
+    name: 氷原を超えろ-スキー用品店
+    classes: 93
+    type: 201
+    position: "26,6"
+    space: "8,3,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: お客さまにここを十二分に楽しんでもらうため、道具を忘れちゃった人向けの販売を行っております！神聖な消費の為なら、どんなことでもありうるのです！
+    code: Christmas2020_deco_01,Christmas2020_deco_02,Christmas2020_deco_03,Christmas2020_deco_04,Christmas2020_deco_05,Christmas2020_deco_06
+    texture_type: "1,1,1,1,1,1"
+    sorting: "0,0,0,0,20,20"
+    offset: "-0.583912,-0.2898706,-0.0709036|1.710028,-0.2898706,-0.0709036|-0.583912,1.9519344,0.4452329|1.7110707,1.9561052,0.44001950427|-0.4035249,0.9916077,-0.0709036|1.8997994,0.990565,-0.0709036"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "30"
+    interact_point_offset: *1.517,2.931,-0.285
+  }
+  {
+    id: 9304
+    name: 氷原を超えろ-ミラクルファストフード店
+    classes: 93
+    type: 201
+    position: "1,6"
+    space: "8,4,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: どれほどの対価を要するか見当もつかない幸運に比べ、金を払いさえすれば手に入る「奇跡」はなんと信頼に足ることか！
+    code: Christmas2020_deco_07,Christmas2020_deco_08,Christmas2020_deco_09,Christmas2020_deco_10,Christmas2020_deco_11,Christmas2020_deco_12
+    texture_type: "1,1,1,1,1,1"
+    sorting: "20,20,0,0,20,20"
+    offset: "-0.354518,-0.0792452,0|1.9342085,-0.0792452,0|-0.354518,-0.0792452,0|1.9456782,-0.0823733,0|-0.3367921,1.3930472,0.3075965|1.9654895,1.5087869,0.3326213"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "36"
+    interact_point_offset: *1.400,0.512,0.171
+  }
+  {
+    id: 9305
+    name: 氷原を超えろ-魔女の館
+    classes: 93
+    type: 201
+    position: "16,0"
+    space: "18,3,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 時計の針が十二時を指すとき、奇跡の舞踏会はお開きとなる。警報は解かれた、箸を止めるんじゃない！もう我々の欲求を止めるものなど無い！
+    code: Christmas2020_deco_13,Christmas2020_deco_14,Christmas2020_deco_15,Christmas2020_deco_16
+    texture_type: "1,1,1,1"
+    sorting: "0,0,0,0"
+    offset: "-1.000992,-0.2429491,0|3.5897835779,-0.2429491,0|0.14696251734,4.2362627914,1.0427|2.4439136264,4.2362627914,1.0427"
+    rotate: "2,2,2,2"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9306
+    name: 氷原を超えろ-周辺の防護フェンス
+    classes: 93
+    type: 201
+    position: "4,1"
+    space: "12,1,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 雪が少なくなったとしても暖かくなったとは限らない。フェンスを乗り越えた子供がいた可能性だってある。
+    code: Christmas2020_deco_17,Christmas2020_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.0427,0,0|1.2585389,0,0"
+    rotate: "2,2"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9307
+    name: 氷原を超えろ-リフト
+    classes: 93
+    type: 201
+    position: "8,4"
+    space: "24,1,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: かつては「チャレンジャーズ」リフトと呼ばれていたが、チャレンジャーが現れなくなったため、リフトだけが残った。
+    code: Christmas2020_deco_cable01,Christmas2020_deco_cable02,Christmas2020_deco_cable03,Christmas2020_deco_cable04,Christmas2020_deco_cablecarA,Christmas2020_deco_cablecarB
+    texture_type: "1,1,1,1,2,2"
+    sorting: "10,10,30,0,40,20"
+    offset: "3.02383,-0.166832,0|-3.1686036815,-0.166832,0|-0.10427,3.6765643708,0.68397658236|0.0260675,3.7568481,0.89980442974|-0.070898709737,2.481626,0|0.016683669215,2.4055089,0.42435742038"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "51,52"
+    interact_point_offset: *0,0,0|*0,0,0
+  }
+  {
+    id: 9308
+    name: 氷原を超えろ-駆け抜けし者専用車
+    classes: 93
+    type: 201
+    position: "19,11"
+    space: "6,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: これに乗って重力から解き放たれよう。家庭や悩みなんかにもおさらばして、大脳を刺激で真っ白けにしちゃおうぜ。悩みは影の如く付き纏ってくるだろうけど、その一瞬だけ君はただの、雪原を駆け抜けし者なのだ。
+    code: Christmas2020_deco_19
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9309
+    name: 氷原を超えろ-越冬物資
+    classes: 93
+    type: 201
+    position: "10,7"
+    space: "4,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 触っちゃだめだ、それはただのセメントにペイントしただけのお飾りなのだから。人とは安心に飢えている生き物で、いつもこうした昔ながらの行動を通して自分と自然との繋がりを確かめたがるのだ。
+    code: Christmas2020_deco_20
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9310
+    name: 氷原を超えろ-スキーをされる皆様へ
+    classes: 93
+    type: 201
+    position: "30,10"
+    space: "4,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 非常に詳しく書かれた注意事項。管理側のリスクを負うことに対する恐怖がぎゅうぎゅうに詰められている。
+    code: Christmas2020_deco_21
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 9311
+    name: 氷原を超えろ-休憩用ウッドチェア(左)
+    classes: 93
+    type: 202
+    position: "10,12"
+    space: "2,2,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 冒険のあとには休憩できる場所が欠かせない。このことをみんなに広めて、椅子くんを助けてあげて！
+    code: Christmas2020_deco_22
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "12"
+    interact_point_offset: *0.265,1.184,-0.285
+  }
+  {
+    id: 9312
+    name: 氷原を超えろ-休憩用ウッドチェア(右)
+    classes: 93
+    type: 202
+    position: "16,12"
+    space: "2,2,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 冒険のあとには休憩できる場所が欠かせない。休憩を怠る勇者が一人増えることで、失業する椅子くんが一人増えてしまうことになるのだ。
+    code: Christmas2020_deco_23
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "14"
+    interact_point_offset: *-0.158,1.115,-0.285
+  }
+  {
+    id: 9313
+    name: 氷原を超えろ-夢の食卓
+    classes: 93
+    type: 201
+    position: "12,11"
+    space: "4,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 夢は言った。この食事を来客時に熱々で提供するには人間たちの十分な努力が必要なのだと。「夢にだって時間切れはあるからね」。
+    code: Christmas2020_deco_24
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point_offset: "0,0,0"
+  }
+  {
     id: 9401
     name: 雪花茶に入りて-霜灰色の石畳
     classes: 94
@@ -26460,6 +26678,21 @@
     decompose_gift: 100003
     description: M4 SOPMOD IIのポスター
     code: poster_AprilFool2022_M4 SOPMOD II
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30586
+    name: カスティリアの女王
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: OBRのポスター。
+    code: poster_ChessBonus_OBR
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -31071,6 +31304,111 @@
     rotate: "3"
   }
   {
+    id: 35301
+    name: 聖夜の警官
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VSK-94のポスター。
+    code: poster_Christmas2020_VSK
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35302
+    name: パ・ド・ドゥ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: R5のポスター。
+    code: poster_Christmas2020_R5RGP
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35303
+    name: 甘い願い事
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: S-ACRのポスター。
+    code: poster_Christmas2020_SACR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35304
+    name: 心燃ゆるブリキ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HS2000のポスター。
+    code: poster_Christmas2020_HS2000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35305
+    name: トワイライト・フェアリー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 四式のポスター。
+    code: poster_Christmas2020_4type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35306
+    name: 願いを拾うKデレラ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: K5のポスター
+    code: poster_Christmas2020_K5
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35307
+    name: 女王のタワーパーティー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PM1910のポスター。
+    code: poster_Christmas2020_PM1910
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 35308
     name: メイド隊怒涛の真夜中
     classes: 300
@@ -31080,6 +31418,21 @@
     decompose_gift: 100003
     description: 漢陽88式のポスター。
     code: poster_Christmas2020_88type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 35309
+    name: ルージュスノープリンセス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1895のポスター。
+    code: poster_Christmas2020_M1895
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -32085,6 +32438,21 @@
     decompose_gift: 100003
     description: パイソンのポスター。
     code: poster_Christmas2021_Python
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36604
+    name: ペロサの隣に
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VP1915のポスター。
+    code: poster_Christmas2021_VP1915
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -36574,5 +36942,20 @@
     sorting: "0,10,50"
     offset: "0,0,0|0.5,-2.08,-3.836|0.7,-1.53,-2"
     rotate: "3,2,2"
+  }
+  {
+    id: 330001
+    name: 夏の午後の風
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ST AR-15のポスター。
+    code: poster_BattlePass_AR15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
   }
 ]

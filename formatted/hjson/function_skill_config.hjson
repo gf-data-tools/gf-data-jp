@@ -8,6 +8,8 @@
     arguments: 3
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: extra_drop_rate_up
   }
   {
     id: 102
@@ -17,26 +19,32 @@
     description: プランモード使用中、戦闘における動作の速度が {0}%上昇する{1}
     arguments: 1
     max_level: 5
+    type: 1
+    function_skill: battle_speed_up
   }
   {
     id: 103
     name: 魅力
     level: 1
     code: function_skill_icon_103
-    description: 戦闘によって得られる人形の好感度が{0}%上昇する{1}
+    description: 戦闘によって得られる人形、融合勢力の好感度が{0}%上昇する{1}
     arguments: 3
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: battle_favor_up
   }
   {
     id: 104
     name: 作戦報告
     level: 1
     code: function_skill_icon_104
-    description: 戦闘によって得られる人形の経験値が{0}%上昇する{1}
+    description: 戦闘によって得られる人形、融合勢力の経験値が{0}%上昇する{1}
     arguments: 3
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: battle_gun_exp_up
   }
   {
     id: 105
@@ -47,6 +55,8 @@
     arguments: 5
     max_level: 3
     is_show: 1
+    type: 1
+    function_skill: battle_commander_exp_up
   }
   {
     id: 106
@@ -57,6 +67,8 @@
     arguments: 3
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: battle_fairy_exp_up
   }
   {
     id: 107
@@ -67,6 +79,8 @@
     arguments: 3
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: battle_squad_exp_up
   }
   {
     id: 108
@@ -77,6 +91,8 @@
     arguments: 10
     max_level: 3
     is_show: 1
+    type: 1
+    function_skill: repair_time_reduce
   }
   {
     id: 109
@@ -87,6 +103,8 @@
     arguments: 1
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: report_time_reduce
   }
   {
     id: 110
@@ -96,6 +114,8 @@
     description: 探索によって得られる帰還報酬の数が{0}%上昇する{1}
     arguments: 5
     max_level: 3
+    type: 1
+    function_skill: exploration_reward_up
   }
   {
     id: 111
@@ -105,6 +125,8 @@
     description: 探索で中途報酬を得られる確率が {0}%上昇する{1}
     arguments: 1
     max_level: 5
+    type: 1
+    function_skill: exploration_mid_rate_up
   }
   {
     id: 112
@@ -115,6 +137,8 @@
     arguments: 3
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: skill_time_reduce
   }
   {
     id: 113
@@ -125,6 +149,8 @@
     arguments: 1
     max_level: 5
     is_show: 1
+    type: 1
+    function_skill: equip_upgrade_up
   }
   {
     id: 114
@@ -134,6 +160,8 @@
     description: 妖精強化時に得られる開発値が{0}%上昇する{1}
     arguments: 1
     max_level: 5
+    type: 1
+    function_skill: fairy_upgrade_up
   }
   {
     id: 115
@@ -143,23 +171,228 @@
     description: コンデンサの充電速度が{0}%上昇する{1}
     arguments: 1
     max_level: 5
+    is_show: 1
+    type: 1
+    function_skill: battery_recovery_up
   }
   {
-    id: 116
-    name: ファーミング
+    id: 118
+    name: 自律消費軽減
     level: 1
-    code: function_skill_icon_116
-    description: 作物生産量が {0}%増加する{1}
+    code: function_skill_icon_118
+    description: 自律作戦にて資源の消費量を{0}%軽減させる{1}
     arguments: 1
-    max_level: 5
+    max_level: 10
+    type: 2
+    function_skill: auto_combat_resource_reduce
   }
   {
-    id: 117
-    name: 供給管理
+    id: 119
+    name: 妖精指令回復速度アップ
     level: 1
-    code: function_skill_icon_117
-    description: 食糧消費量が{0}%減少する{1}
+    code: function_skill_icon_119
+    description: 妖精指令の回復時間を{0}%短縮させる{1}
     arguments: 1
-    max_level: 5
+    max_level: 10
+    type: 2
+    function_skill: fairy_command_recovery_time_reduce
+  }
+  {
+    id: 120
+    name: サンプル生成速度アップ
+    level: 1
+    code: function_skill_icon_120
+    description: 傍受設備のサンプル生成時間を{0}%短縮させる{1}
+    arguments: 1
+    max_level: 10
+    type: 2
+    function_skill: data_recovery_time_reduce
+  }
+  {
+    id: 124
+    name: 後方支援効率アップ
+    level: 1
+    code: function_skill_icon_124
+    description: 後方支援にて獲得できる資源を{0}%増加させる{1}
+    arguments: 1
+    max_level: 10
+    type: 2
+    function_skill: logistics_reward_up
+  }
+  {
+    id: 125
+    name: 融合演習報酬アップ
+    level: 1
+    code: function_skill_icon_125
+    description: 「模擬作戦-融合演習」にて獲得できる報酬の量を{0}%増加させる{1}
+    arguments: 1
+    max_level: 10
+    type: 2
+    function_skill: coalitiondrill_reward_up
+  }
+  {
+    id: 126
+    name: スキル訓練時間短縮
+    level: 1
+    code: function_skill_icon_112
+    description: スキル訓練に必要な時間が{0}%短縮される(人形、妖精、重装部隊を含む)
+    arguments: 1
+    max_level: 10
+    type: 2
+    function_skill: skill_time_reduce
+  }
+  {
+    id: 127
+    name: バッテリー回復量アップ
+    level: 1
+    code: function_skill_icon_115
+    description: コンデンサの充電速度が{0}%上昇する{1}
+    arguments: 1
+    max_level: 10
+    type: 2
+    function_skill: battery_recovery_up
+  }
+  {
+    id: 128
+    name: 指揮官経験値アップ
+    level: 1
+    code: function_skill_icon_105
+    description: 戦闘によって得られる指揮官経験値が{0}%上昇する{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: battle_commander_exp_up
+  }
+  {
+    id: 129
+    name: 探索報酬アップ
+    level: 1
+    code: function_skill_icon_110
+    description: 探索によって得られる帰還報酬の数が{0}%上昇する{1}
+    arguments: 1
+    max_level: 10
+    type: 2
+    function_skill: exploration_reward_up
+  }
+  {
+    id: 130
+    name: 自律消費軽減
+    level: 1
+    code: function_skill_icon_118
+    description: 自律作戦にて資源の消費量を{0}%軽減させる{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: auto_combat_resource_reduce
+  }
+  {
+    id: 131
+    name: 妖精指令回復速度アップ
+    level: 1
+    code: function_skill_icon_119
+    description: 妖精指令の回復時間を{0}%短縮させる{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: fairy_command_recovery_time_reduce
+  }
+  {
+    id: 132
+    name: サンプル生成速度アップ
+    level: 1
+    code: function_skill_icon_120
+    description: 傍受設備のサンプル生成時間を{0}%短縮させる{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: data_recovery_time_reduce
+  }
+  {
+    id: 133
+    name: 後方支援効率アップ
+    level: 1
+    code: function_skill_icon_124
+    description: 後方支援にて獲得できる資源を{0}%増加させる{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: logistics_reward_up
+  }
+  {
+    id: 134
+    name: 融合演習報酬アップ
+    level: 1
+    code: function_skill_icon_125
+    description: 「模擬作戦-融合演習」にて獲得できる報酬の量を{0}%増加させる{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: coalitiondrill_reward_up
+  }
+  {
+    id: 135
+    name: スキル訓練時間短縮
+    level: 1
+    code: function_skill_icon_112
+    description: スキル訓練に必要な時間が{0}%短縮される(人形、妖精、重装部隊を含む)
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: skill_time_reduce
+  }
+  {
+    id: 136
+    name: バッテリー回復量アップ
+    level: 1
+    code: function_skill_icon_115
+    description: コンデンサの充電速度が{0}%上昇する{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: battery_recovery_up
+  }
+  {
+    id: 137
+    name: 指揮官経験値アップ
+    level: 1
+    code: function_skill_icon_105
+    description: 戦闘によって得られる指揮官経験値が{0}%上昇する{1}
+    arguments: 3
+    max_level: 10
+    type: 2
+    function_skill: battle_commander_exp_up
+  }
+  {
+    id: 138
+    name: 探索報酬アップ
+    level: 1
+    code: function_skill_icon_110
+    description: 探索によって得られる帰還報酬の数が{0}%上昇する{1}
+    arguments: 2
+    max_level: 10
+    type: 2
+    function_skill: exploration_reward_up
+  }
+  {
+    id: 139
+    name: 妖精指令回復速度アップ
+    level: 1
+    code: function_skill_icon_119
+    description: 妖精指令の回復時間を{0}%短縮させる{1}
+    arguments: 3
+    max_level: 10
+    type: 2
+    function_skill: fairy_command_recovery_time_reduce
+  }
+  {
+    id: 140
+    name: バッテリー回復量アップ
+    level: 1
+    code: function_skill_icon_115
+    description: コンデンサの充電速度が{0}%上昇する{1}
+    arguments: 3
+    max_level: 10
+    type: 2
+    function_skill: battery_recovery_up
   }
 ]

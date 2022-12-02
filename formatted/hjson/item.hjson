@@ -11,7 +11,7 @@
       人形1体につき1枚必要。
       '''
     rank: 1
-    sort: 2
+    sort: 10
     item_access: "1,4,5,3"
     detail_introduction: 「工廠-人形製造」でI.O.Pに人形の製造を依頼できる。
   }
@@ -27,7 +27,7 @@
       装備1点につき1枚必要。
       '''
     rank: 1
-    sort: 3
+    sort: 15
     item_access: "1,4,5,3"
     detail_introduction: 「工廠-装備製造」で16Labに装備の製造を依頼できる。
   }
@@ -43,7 +43,7 @@
       人形または装備の製造が直ちに完了する。
       '''
     rank: 1
-    sort: 4
+    sort: 20
     item_access: "1,4,5,3"
     detail_introduction: 「工廠」で人形や装備の製造を即完了させることができる。
   }
@@ -59,7 +59,7 @@
       人形の修復を直ちに完了する。
       '''
     rank: 1
-    sort: 5
+    sort: 25
     item_access: "1,4,5,3"
     detail_introduction: 損傷したユニットのダメージを即修復させることができる。
   }
@@ -95,7 +95,7 @@
       誓約した人形は更に多くの権限と使命を得る。
       '''
     rank: 1
-    sort: 1
+    sort: 5
     item_access: "1"
     detail_introduction: 好感度が上限になった人形と誓約を結ぶことができる。
   }
@@ -111,7 +111,7 @@
       人形の訓練が直ちに完了する。
       '''
     rank: 1
-    sort: 6
+    sort: 30
     item_access: "1,3"
     detail_introduction: 「開発-スキル訓練」でユニットのスキル訓練を即完了させることができる。
   }
@@ -128,7 +128,7 @@
       一度に10個以上使用すると、他のステータスに振り分けることもできる。
       '''
     rank: 1
-    sort: 7
+    sort: 35
     item_access: "25,6"
     detail_introduction: 「工廠-人形強化」で人形のステータスをそれぞれ1上げることができる。上限を超えた分は別のステータスに振り分けられる。
   }
@@ -144,7 +144,7 @@
       所有者の許可なしでは外せない。
       '''
     rank: 1
-    sort: 8
+    sort: 40
     item_access: "7,5,6,3"
     detail_introduction: 「工廠-編制拡大」で同じ人形の代わりに編制拡大を行うことができる。
   }
@@ -180,7 +180,7 @@
       「みんな(あなた自身を含む)にもう一度自分を見てもらうきっかけになるだろう」。
       '''
     rank: 1
-    sort: -39
+    sort: -195
     item_access: "2"
     detail_introduction: item-30000013
   }
@@ -192,7 +192,7 @@
     item_name: 原始サンプル
     introduction: 分析することでチップや重装の欠片を手に入れることができる。「また同じ結果になるのかな？インスピレーションがちょっと足りないだけだったりして」。
     rank: 1
-    sort: 19
+    sort: 95
     item_access: "8,5"
     detail_introduction: 「情報センター」で解析を行うことができ、重装部隊の中枢データやチップを獲得することができる。
   }
@@ -204,7 +204,7 @@
     item_name: 純正サンプル
     introduction: 分析することでチップや重装の欠片を手に入れることができる。また、純正サンプルを使用すると、より良い結果が得られやすくなる。「少なくとも見た目は純正に見えるね」。
     rank: 1
-    sort: 20
+    sort: 100
     item_access: "8,5"
     detail_introduction: 「情報センター」で解析を行うことができる。原始サンプルよりも重装部隊の中枢データや高レア度のチップが入手しやすい。
   }
@@ -216,7 +216,7 @@
     item_name: 快速解析契約
     introduction: 一度にデータサンプルの分析を全て完了させる。「向こうの個人的な趣味のために、実写の猫の写真を一枚おまけして出す必要がある」。
     rank: 1
-    sort: 21
+    sort: 105
     item_access: "1,5,2"
     detail_introduction: 「情報センター」で進行中の情報解析を即完了させることができる。
   }
@@ -228,7 +228,7 @@
     item_name: データパッチ
     introduction: レベルを上限まで上げた重装部隊を解体することによって入手でき、重装部隊のランクアップの際に使用される。『「三人行えば、必ず我が師有り」。だから……「さようなら、先生」。』
     rank: 1
-    sort: 22
+    sort: 110
     item_access: "9,10"
     detail_introduction: ランクが上限に達した重装部隊のバージョンアップに使用できる。
   }
@@ -244,7 +244,7 @@
       模擬作戦で入手可能。
       '''
     rank: 1
-    sort: 9
+    sort: 45
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 「開発-スキル訓練」でグリフィンのユニットに初級の訓練を受けさせることができる。
@@ -261,7 +261,7 @@
       模擬作戦で入手可能。
       '''
     rank: 1
-    sort: 10
+    sort: 50
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 「開発-スキル訓練」でグリフィンのユニットに中級の訓練を受けさせることができる。
@@ -278,7 +278,7 @@
       模擬作戦で入手可能。
       '''
     rank: 1
-    sort: 11
+    sort: 55
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 「開発-スキル訓練」でグリフィンのユニットに上級の訓練を受けさせることができる。
@@ -291,7 +291,7 @@
     item_name: コイン
     introduction: スキンや家具の購入に用いる特殊通貨。
     rank: 1
-    sort: 12
+    sort: 60
     upper_limit: 300000
     item_access: "1,4,5,2"
     detail_introduction: 「宿舎」で家具や人形スキンのガチャに使用できる。
@@ -308,7 +308,7 @@
       流石は業界でも良心的と言われているIOPだ！
       '''
     rank: 1
-    sort: 13
+    sort: 65
     item_access: "11"
     detail_introduction: 「宿舎-ガチャ-限定交換」で期間限定ガチャの家具及び人形スキンと交換できる。期間終了後、同じ数のコインに変換される。
   }
@@ -324,7 +324,7 @@
       指揮官にスキンの直接購入権を提供する。
       '''
     rank: 1
-    sort: 14
+    sort: 70
     item_access: "11"
     detail_introduction: 「宿舎-ガチャ-ブラックカード引換」で人形スキンと交換できる。
   }
@@ -340,7 +340,7 @@
       見た目的に大した価値はなさそうだが・・・。
       '''
     rank: 1
-    sort: 15
+    sort: 75
     item_access: "13,5"
     detail_introduction: 「開発」で装備と妖精の校正に使用できる。
   }
@@ -356,7 +356,7 @@
       「貴方達は我々に自由を差し出すが、我々はただアイスクリームが欲しい。」
       '''
     rank: 1
-    sort: 18
+    sort: 90
     upper_limit: 9999
     item_access: "14,15"
     detail_introduction: 「開発-メンタルアップグレード」で人形のメンタルアップグレードに使用できる。
@@ -369,7 +369,7 @@
     item_name: 特種作戦報告書
     introduction: 重装部隊のレベルを上げる際に使用される。「失敗は成功の基。この訓練から、皆が大切なことを見つけてくれることを祈る」。
     rank: 1
-    sort: 23
+    sort: 115
     item_access: "24,16,6"
     detail_introduction: 「格納庫」で重装部隊の経験値訓練に使用できる。
   }
@@ -411,7 +411,7 @@
     item_name: 汎用部品
     introduction: 人形たちが任務のついでに回収してきた古い部品。少し洗って加工すれば装備強化に使用できる。カリーナ、指揮官両名ともこれにすこぶる機嫌を良くし、回収を提案した人形を表彰までしたが、給料を上げたりはしていない模様。
     rank: 1
-    sort: 26
+    sort: 130
     item_access: "6,5"
     detail_introduction: 「開発-装備強化」で装備の強化に使用できる。
   }
@@ -423,7 +423,7 @@
     item_name: 新型射撃管制モジュール
     introduction: 拡張スペースのあるハイエンド人形のためにIOPが特別に開発した強化モジュール。調整段階であるため、数が非常に限られる。
     rank: 5
-    sort: 26
+    sort: 130
     upper_limit: 9999
     item_access: "6"
     detail_introduction: ハイエンド人形のメンタルアップグレードに用いられる。
@@ -447,6 +447,28 @@
     introduction: ラフベリーチェスショップガチャアイテム
     rank: 1
     detail_introduction: item-30000053
+  }
+  {
+    id: 54
+    type: 1
+    arg: "1"
+    code: PieceBlackCard
+    item_name: ブラックカードピース
+    introduction: 特殊な材料で構成されている半導体、ブラックカードを製造するための重要パーツ。
+    rank: 1
+    sort: -70
+    detail_introduction: ブラックカードピースは、複数個使用してブラックカードを合成することができます。
+  }
+  {
+    id: 55
+    type: 1
+    arg: "1"
+    code: Fairy_Biscuit
+    item_name: 妖精ビスケット
+    introduction: 妖精にとっては極めて美味な食べ物らしい。食用後、大量の経験値を獲得できるが、これを製造する素材は意図的に隠されている……
+    rank: 1
+    sort: -71
+    detail_introduction: 改造&進化にて妖精に進化経験値を与えることができます。
   }
   {
     id: 100
@@ -686,7 +708,7 @@
     item_name: バッテリー
     introduction: 付属施設の機能開拓に用いる特殊バッテリー。
     rank: 1
-    sort: 17
+    sort: 85
     upper_limit: 9999
     item_access: "17,6,5"
     detail_introduction: 「宿舎-付属施設設備」で設備の利用やレベルアップに使用できる。
@@ -713,9 +735,9 @@
       みんな友達になろう！
       '''
     rank: 1
-    sort: 16
+    sort: 80
     item_access: "17,18,5"
-    detail_introduction: item-30000508
+    detail_introduction: 「友情ショップ」でIDカード背景、アイコン、基地背景などの報酬と交換できる。
   }
   {
     id: 509
@@ -756,7 +778,7 @@
     item_name: 超星コア
     introduction: 初期ランクが☆2、☆3の融合勢力のユニットからドロップする、キラキラと輝く星状の塊。コアショップにて交換することができる。
     rank: 1
-    sort: 32
+    sort: 160
     item_access: "7"
     detail_introduction: 「捕獲作戦-コアショップ」で上級アイテムと交換できる。
   }
@@ -768,7 +790,7 @@
     item_name: 暗星コア
     introduction: 初期ランクが☆1の融合勢力のユニットからドロップする、ほの暗く光る星状の塊。コアショップにて交換することができる。
     rank: 1
-    sort: 33
+    sort: 165
     item_access: "7"
     detail_introduction: 「捕獲作戦-コアショップ」でアイテムと交換できる。
   }
@@ -780,7 +802,7 @@
     item_name: 開発シャーレ
     introduction: エーテル開発に使われる素材。開発調節訓練にて入手可能。
     rank: 1
-    sort: 27
+    sort: 135
     item_access: "20,19,22"
     detail_introduction: 「工廠-強化&開発」で融合勢力にエーテル開発を行うことができる。
   }
@@ -792,7 +814,7 @@
     item_name: 初級訓練ディスク
     introduction: 融合ユニットに初級スキル訓練を行わせる。暗号解読訓練にて入手可能。
     rank: 1
-    sort: 28
+    sort: 140
     item_access: "20,19,22"
     detail_introduction: 「開発-スキル訓練」で融合勢力に初級スキル訓練を受けさせることができる。
   }
@@ -804,7 +826,7 @@
     item_name: 上級訓練ディスク
     introduction: 融合ユニットに上級スキル訓練を行わせる。暗号解読訓練にて入手可能。
     rank: 1
-    sort: 29
+    sort: 145
     item_access: "20,19,22"
     detail_introduction: 「開発-スキル訓練」で融合勢力に上級スキル訓練を受けさせることができる。
   }
@@ -816,9 +838,19 @@
     item_name: 指定装備契約
     introduction: 指定した種類の装備の製造を委託する発注書。指定する装備一点につき一枚必要。
     rank: 1
-    sort: -40
+    sort: -200
     item_access: "2"
-    detail_introduction: item-30000517
+    detail_introduction: 「工廠-装備製造」でI.O.P特殊オーダーを注文できる。
+  }
+  {
+    id: 518
+    type: 1
+    arg: "1"
+    code: sangvis_skill_coin2
+    item_name: mission_skillドロップ/アイテム消費
+    introduction: mission_skillドロップ/アイテム消費
+    rank: 1
+    detail_introduction: item-30000518
   }
   {
     id: 519
@@ -828,7 +860,7 @@
     item_name: 重装部隊汎用データ
     introduction: 一部の重装部隊に使用されるパーツ。戦場から回収してきたものらしい。節約とは、グリフィン伝統の美徳である。
     rank: 1
-    sort: -30
+    sort: -150
     item_access: "9"
     detail_introduction: 重装部隊のランクアップ時、選択した汎用データの数だけ中枢データの代わりに使用することができます。
   }
@@ -840,7 +872,7 @@
     item_name: フラググレネード
     introduction: 飛散する破片は範囲的な殺傷効果を持つ、特にバリケードの後ろに隠れているやつに対して。
     rank: 1
-    sort: -35
+    sort: -175
     item_access: "2"
     detail_introduction: item-30000520
   }
@@ -852,7 +884,7 @@
     item_name: フラッシュバングレネード
     introduction: フラッシュバングレネードは目標の視覚と聴覚を一時的に奪うことができる。ただし、ちゃんと自分の目を閉じることも忘れないように。
     rank: 1
-    sort: -36
+    sort: -180
     item_access: "2"
     detail_introduction: item-30000521
   }
@@ -864,7 +896,7 @@
     item_name: タレット
     introduction: 戦場に配置できる自律型兵器。破壊されるか、バッテリーが尽きるまで、近くの敵を攻撃し続ける。
     rank: 1
-    sort: -37
+    sort: -185
     item_access: "2"
     detail_introduction: item-30000522
   }
@@ -886,7 +918,7 @@
     item_name: 投擲型ゴリアテ
     introduction: 携帯式爆弾ロボット。プロトタイプと比べ威力は落ちたが、その分機動性が増した。投擲後、指定のポイントで爆発を起こし、敵の配置を乱す。（鏡像論アンジェ視点の戦役限定）
     rank: 1
-    sort: -38
+    sort: -190
     item_access: "2"
     detail_introduction: item-30000524
   }
@@ -898,9 +930,20 @@
     item_name: 快速自律契約
     introduction: 人形の潜在能力を最大限引き出し、戦闘を素早く終了させる。グリフィン戦術はスピードが命！
     rank: 1
-    sort: 7
+    sort: 35
     item_access: "23,5,2"
     detail_introduction: 即座に自律作戦を完了できる。
+  }
+  {
+    id: 526
+    type: 1
+    arg: "1"
+    code: Special_Equip_Ticket_2
+    item_name: 指定大型製造契約test
+    introduction: 製造する装備の種類を指定できる大型製造契約。契約1個につき、指定した種類の装備を1個製造できます。test
+    rank: 1
+    sort: -40
+    detail_introduction: 「工廠-装備製造」にて大型製造のI.O.P特殊オーダーを注文できます。Testtest
   }
   {
     id: 601
@@ -910,7 +953,7 @@
     item_name: ランダム染色剤
     introduction: その色は果たして自分に似合うかどうかは、誰にも分からない。ならば、ランダム性がもたらすサプライズに期待しようではないか。
     rank: 1
-    sort: 24
+    sort: 120
     item_access: "1,2"
     detail_introduction: 指揮官衣装を一回ランダム染色できる。
   }
@@ -922,7 +965,7 @@
     item_name: カラー指定染色剤
     introduction: もう十連ガチャで欲しい色が出ないことで落ち込む必要はない。自分の望む色は、自分の手で選ぶべきだ！
     rank: 1
-    sort: 25
+    sort: 125
     item_access: "2"
     detail_introduction: 指揮官衣装を一回指定染色できる。
   }
@@ -956,7 +999,7 @@
     item_name: 協力委託書
     introduction: 融合勢力の捕獲協力を、スヴァローグ重工へ要請できる証明書。カリーナが言うに、この証明書を手に入れるのに莫大なコストがかかっているという。「指揮官さま、使いどころはよーく考えてくださいね！」
     rank: 1
-    sort: 31
+    sort: 155
     item_access: "1,5,3,2"
     detail_introduction: 「捕獲作戦」でスヴァローグ重工に依頼し、区域に残ったユニットの中から一回捕獲を行うことができる。
   }
@@ -968,7 +1011,7 @@
     item_name: 転移触媒
     introduction: 融合ユニット2体の育成度を入れ替えることができる。「目を醒ますと、また無一文になっていた」。
     rank: 1
-    sort: 34
+    sort: 170
     item_access: "19"
     detail_introduction: 「協定コントロールセンター-潜在転移駆動装置」で同じ融合勢力ユニットの練度を交換できる。
   }
@@ -8206,6 +8249,76 @@
     detail_introduction: item-30001779
   }
   {
+    id: 1780
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_VSK
+    item_name: 聖夜の警官
+    introduction: 聖夜の警官
+    rank: 1
+    detail_introduction: item-30001780
+  }
+  {
+    id: 1781
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_R5RGP
+    item_name: パ・ド・ドゥ
+    introduction: パ・ド・ドゥ
+    rank: 1
+    detail_introduction: item-30001781
+  }
+  {
+    id: 1782
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_SACR
+    item_name: 甘い願い事
+    introduction: 甘い願い事
+    rank: 1
+    detail_introduction: item-30001782
+  }
+  {
+    id: 1783
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_HS2000
+    item_name: 心燃ゆるブリキ
+    introduction: 心燃ゆるブリキ
+    rank: 1
+    detail_introduction: item-30001783
+  }
+  {
+    id: 1784
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_4type
+    item_name: トワイライト・フェアリー
+    introduction: トワイライト・フェアリー
+    rank: 1
+    detail_introduction: item-30001784
+  }
+  {
+    id: 1785
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_K5
+    item_name: 願いを拾うKデレラ
+    introduction: 願いを拾うKデレラ
+    rank: 1
+    detail_introduction: item-30001785
+  }
+  {
+    id: 1786
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_PM1910
+    item_name: 女王のタワーパーティー
+    introduction: 女王のタワーパーティー
+    rank: 1
+    detail_introduction: item-30001786
+  }
+  {
     id: 1787
     type: 5
     arg: "1"
@@ -8214,6 +8327,16 @@
     introduction: メイド隊怒涛の真夜中
     rank: 1
     detail_introduction: item-30001787
+  }
+  {
+    id: 1788
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2020_M1895
+    item_name: ルージュスノープリンセス
+    introduction: ルージュスノープリンセス
+    rank: 1
+    detail_introduction: item-30001788
   }
   {
     id: 1789
@@ -9776,6 +9899,16 @@
     detail_introduction: item-30001994
   }
   {
+    id: 1995
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2021_VP1915
+    item_name: ペロサの隣に
+    introduction: ペロサの隣に
+    rank: 1
+    detail_introduction: item-30001995
+  }
+  {
     id: 1996
     type: 5
     arg: "1"
@@ -10016,6 +10149,36 @@
     detail_introduction: item-30002019
   }
   {
+    id: 2066
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season5_1
+    item_name: メンタルミーム・コードIII：モーメント
+    introduction: メンタルミーム・コードIII：モーメント
+    rank: 1
+    detail_introduction: item-30002066
+  }
+  {
+    id: 2067
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season5_2
+    item_name: パラレルディメンション・コードIII：モーメント
+    introduction: パラレルディメンション・コードIII：モーメント
+    rank: 1
+    detail_introduction: item-30002067
+  }
+  {
+    id: 2068
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season5_3
+    item_name: シンギュラリティ・コードIII：モーメント
+    introduction: シンギュラリティ・コードIII：モーメント
+    rank: 1
+    detail_introduction: item-30002068
+  }
+  {
     id: 2069
     type: 5
     arg: "1"
@@ -10064,6 +10227,36 @@
     introduction: 新人OLちゃん
     rank: 1
     detail_introduction: item-30002073
+  }
+  {
+    id: 2136
+    type: 5
+    arg: "1"
+    code: profilePic_ChessBonus_OBR
+    item_name: カスティリアの女王
+    introduction: カスティリアの女王
+    rank: 1
+    detail_introduction: item-30002136
+  }
+  {
+    id: 2140
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_AR15
+    item_name: 夏の午後の風
+    introduction: 夏の午後の風
+    rank: 1
+    detail_introduction: item-30002140
+  }
+  {
+    id: 2141
+    type: 5
+    arg: "1"
+    code: card_BattlePass_AR15
+    item_name: IDカード背景：道の果てまで
+    introduction: IDカード背景：道の果てまで
+    rank: 1
+    detail_introduction: item-30002141
   }
   {
     id: 2157
@@ -10773,6 +10966,36 @@
     consume_type: 1
     item_access: "5,3,2"
     detail_introduction: item-30010604
+  }
+  {
+    id: 10605
+    type: 1
+    arg: "10605"
+    code: weekly_accumulation
+    item_name: 活躍度
+    introduction: 【グリフィンデイリー任務】を完了して獲得できる。現在の指揮官活躍度を表している。
+    rank: 1
+    detail_introduction: item-30010605
+  }
+  {
+    id: 10606
+    type: 16
+    arg: "10606"
+    code: pass_accumulation
+    item_name: 前線協定パス
+    introduction: 「使ったらもっとたくさんの物資が手に入るんじゃなかったのか？その物資がどこにある！？」「全部足元にありますよ、指揮官さま」
+    rank: 1
+    detail_introduction: item-30010606
+  }
+  {
+    id: 10607
+    type: 16
+    arg: "10607"
+    code: pass_accumulation
+    item_name: 前線協定パス
+    introduction: 「使ったらもっとたくさんの物資が手に入るんじゃなかったのか？その物資がどこにある！？」「全部足元にありますよ、指揮官さま」
+    rank: 1
+    detail_introduction: item-30010607
   }
   {
     id: 100001
@@ -12288,6 +12511,36 @@
     detail_introduction: item-30110050
   }
   {
+    id: 110051
+    type: 4
+    arg: "110051"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+    detail_introduction: item-30110051
+  }
+  {
+    id: 110052
+    type: 4
+    arg: "110052"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+    detail_introduction: item-30110052
+  }
+  {
+    id: 110053
+    type: 4
+    arg: "110053"
+    code: EventPT5
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+    detail_introduction: item-30110053
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -12346,6 +12599,16 @@
     introduction: スチェッキンとデザートイーグル
     rank: 1
     detail_introduction: item-30120006
+  }
+  {
+    id: 121001
+    type: 1
+    arg: "1"
+    code: FlightChessMap3_small
+    item_name: 地獄のハイウェイ
+    introduction: 環状道路ボードの背景-地獄のハイウェイ
+    rank: 1
+    detail_introduction: item-30121001
   }
   {
     id: 130001
@@ -12453,7 +12716,7 @@
     arg: "130011"
     code: Y_Z_zhihuiguan_tantei
     item_name: 悪魔の敬意
-    introduction: 夜の番人が彼の思考の電球を灯す時、弱者は喜び、罪人は怯え、悪魔は敬意を捧げる。
+    introduction: 闇の番人がその思考を灯した時、弱者は喜び、悪は恐怖に陥り、悪魔はその敬意を捧げるだろう。
     rank: 1
     detail_introduction: item-30130011
   }
@@ -12496,6 +12759,186 @@
     introduction: 精力旺盛の内は存分に手腕を振るえ、天気のいい日は楽しく通勤するべきだ。財布の中身が家賃でスカスカになっていることについては……まぁそんなに気にするな、勇者でも聖剣を手に入れる前は慎重に過ごしているだろ？
     rank: 1
     detail_introduction: item-30130016
+  }
+  {
+    id: 140001
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: 榴弾キャッチャー
+    introduction: 突然の危険に直面しても、完璧な回避を行い、そして逆転の策を思いつく。これが、指揮官として生き続ける術だ。喜べ、少なくとも今お前に向けて飛んでくる危険物は、まだ時速150キロにすら達していない。
+    rank: 1
+    detail_introduction: item-30140001
+  }
+  {
+    id: 140002
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: 榴弾キャッチャー
+    introduction: 突然の危険に直面しても、完璧な回避を行い、そして逆転の策を思いつく。これが、指揮官として生き続ける術だ。喜べ、少なくとも今お前に向けて飛んでくる危険物は、まだ時速150キロにすら達していない。
+    rank: 1
+    detail_introduction: item-30140002
+  }
+  {
+    id: 140003
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: 榴弾キャッチャー
+    introduction: 突然の危険に直面しても、完璧な回避を行い、そして逆転の策を思いつく。これが、指揮官として生き続ける術だ。喜べ、少なくとも今お前に向けて飛んでくる危険物は、まだ時速150キロにすら達していない。
+    rank: 1
+    detail_introduction: item-30140003
+  }
+  {
+    id: 140004
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: 榴弾キャッチャー
+    introduction: 突然の危険に直面しても、完璧な回避を行い、そして逆転の策を思いつく。これが、指揮官として生き続ける術だ。喜べ、少なくとも今お前に向けて飛んでくる危険物は、まだ時速150キロにすら達していない。
+    rank: 1
+    detail_introduction: item-30140004
+  }
+  {
+    id: 140005
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140005
+    introduction: item-20140005
+    rank: 1
+    detail_introduction: item-30140005
+  }
+  {
+    id: 140006
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140006
+    introduction: item-20140006
+    rank: 1
+    detail_introduction: item-30140006
+  }
+  {
+    id: 160001
+    type: 1
+    arg: "1"
+    code: PT
+    item_name: item-10160001
+    introduction: item-20160001
+    rank: 1
+    detail_introduction: item-30160001
+  }
+  {
+    id: 200001
+    type: 5
+    arg: "1"
+    code: profileFrame_sr_gun
+    item_name: アイコンフレーム：ファンタジアコネクト
+    introduction: アイコンフレーム：ファンタジアコネクト
+    rank: 1
+    detail_introduction: item-30200001
+  }
+  {
+    id: 200002
+    type: 5
+    arg: "1"
+    code: profileFrame_ssr_gun
+    item_name: アイコンフレーム：メンタル潮流
+    introduction: アイコンフレーム：メンタル潮流
+    rank: 1
+    detail_introduction: item-30200002
+  }
+  {
+    id: 200003
+    type: 5
+    arg: "1"
+    code: profileFrame_mod_gun
+    item_name: アイコンフレーム：極みの頂
+    introduction: アイコンフレーム：極みの頂
+    rank: 1
+    detail_introduction: item-30200003
+  }
+  {
+    id: 200004
+    type: 5
+    arg: "1"
+    code: profileFrame_sp_gun
+    item_name: アイコンフレーム：連合攻撃
+    introduction: アイコンフレーム：連合攻撃
+    rank: 1
+    detail_introduction: item-30200004
+  }
+  {
+    id: 200005
+    type: 5
+    arg: "1"
+    code: profileFrame_skin_gun
+    item_name: アイコンフレーム：霓の影
+    introduction: アイコンフレーム：霓の影
+    rank: 1
+    detail_introduction: item-30200005
+  }
+  {
+    id: 200006
+    type: 5
+    arg: "1"
+    code: profileFrame_flightchess_ssr
+    item_name: アイコンフレーム：煌めく星々
+    introduction: アイコンフレーム：煌めく星々
+    rank: 1
+    detail_introduction: item-30200006
+  }
+  {
+    id: 200007
+    type: 5
+    arg: "1"
+    code: profileFrame_flightchess_sr
+    item_name: アイコンフレーム：深謀遠慮
+    introduction: アイコンフレーム：深謀遠慮
+    rank: 1
+    detail_introduction: item-30200007
+  }
+  {
+    id: 200008
+    type: 5
+    arg: "1"
+    code: profileFrame_flightchess_r
+    item_name: アイコンフレーム：決戦の前線
+    introduction: アイコンフレーム：決戦の前線
+    rank: 1
+    detail_introduction: item-30200008
+  }
+  {
+    id: 200009
+    type: 5
+    arg: "1"
+    code: profileFrame_comic
+    item_name: アイコンフレーム：踊る筆先
+    introduction: アイコンフレーム：踊る筆先
+    rank: 1
+    detail_introduction: item-30200009
+  }
+  {
+    id: 200012
+    type: 5
+    arg: "1"
+    code: profileFrame_rare_gun
+    item_name: アイコンフレーム：ライフリング
+    introduction: アイコンフレーム：ライフリング
+    rank: 1
+    detail_introduction: item-30200012
+  }
+  {
+    id: 200013
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_AR15
+    item_name: アイコンフレーム：肉球ケアマスター
+    introduction: アイコンフレーム：肉球ケアマスター
+    rank: 1
+    detail_introduction: item-30200013
   }
   {
     id: 900030
@@ -12736,7 +13179,7 @@
     arg: "3"
     code: fetter_skill
     item_name: 銀河の誓い
-    introduction: M82と同じ部隊にいる場合、M82の通常攻撃によって自身正面の敵ユニットへ与えるダメージが10％上昇する。
+    introduction: FI M82と同じ部隊にいる場合、FI M82の通常攻撃によって自身正面の敵ユニットへ与えるダメージが10％上昇する。
     rank: 1
     detail_introduction: item-31100003
   }
@@ -12777,5 +13220,71 @@
       '''
     rank: 1
     detail_introduction: item-31100006
+  }
+  {
+    id: 1500009
+    type: 15
+    arg: "1500009"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500009
+  }
+  {
+    id: 1500010
+    type: 15
+    arg: "1500010"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500010
+  }
+  {
+    id: 1500011
+    type: 15
+    arg: "1500011"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500011
+  }
+  {
+    id: 1500012
+    type: 15
+    arg: "1500012"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500012
+  }
+  {
+    id: 1500013
+    type: 15
+    arg: "1500013"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500013
+  }
+  {
+    id: 1500014
+    type: 15
+    arg: "1500014"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500014
   }
 ]

@@ -9,10 +9,12 @@
   {
     obtain_id: "1"
     description: -通常製造で入手
+    goto_page_id: "25"
   }
   {
     obtain_id: "2"
     description: -大型製造で入手
+    goto_page_id: "25"
   }
   {
     obtain_id: "3"
@@ -146,6 +148,7 @@
   {
     obtain_id: "35"
     description: -メンタルアップグレードで獲得
+    goto_page_id: "186"
   }
   {
     obtain_id: "36"
@@ -158,6 +161,11 @@
   {
     obtain_id: "38"
     description: -大型装備製造にて入手可能
+  }
+  {
+    obtain_id: "39"
+    description: 妖精製造にて獲得
+    goto_page_id: "380"
   }
   {
     obtain_id: "101"
@@ -758,6 +766,7 @@
   {
     obtain_id: "3001"
     description: 装備製造にて入手可能
+    goto_page_id: "21"
   }
   {
     obtain_id: "3002"
@@ -766,6 +775,7 @@
   {
     obtain_id: "3003"
     description: ブラックマーケットにて交換可能
+    goto_page_id: "217"
   }
   {
     obtain_id: "3004"
@@ -818,6 +828,7 @@
   {
     obtain_id: "3016"
     description: メンタルアップグレードで獲得
+    goto_page_id: "186"
   }
   {
     obtain_id: "3017"
@@ -866,6 +877,7 @@
   {
     obtain_id: "3028"
     description: 前線基地中途報酬
+    goto_page_id: "217"
   }
   {
     obtain_id: "3029"

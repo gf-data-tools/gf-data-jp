@@ -703,7 +703,6 @@
     description: 死亡により発動する効果を三度受けられる。
     rank: 4
     skill_target_first: "16502"
-    skill_target_second: "19904"
     target_select_first: 5
     target_select_second: 5
     type: 1
@@ -1607,8 +1606,7 @@
       <color=#FFFFFF00>-----</color>アサルトライフル：アイテムカード<a press=280121>増幅</a>を獲得。
       '''
     cd_type: 2
-    init_cd: 1
-    cd: 1
+    cd: 2
     skill_target_first: "30901,31001,31101,31201"
     use_stage: "6,11"
     target_select_first: 32
@@ -1647,7 +1645,9 @@
     description: ハンドガンを配置後、初回の移動距離が3倍になる。
     rank: 5
     skill_target_first: "60201,60204,60203"
+    skill_target_second: "19904"
     target_select_first: 10
+    target_select_second: 5
     type: 1
     sell_price: 7
     experience: 1

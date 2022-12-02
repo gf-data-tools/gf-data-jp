@@ -1717,6 +1717,23 @@
         "class_id": 0
     },
     {
+        "id": 586,
+        "name": "カスティリアの女王",
+        "extra": 0,
+        "fit_gun": 230,
+        "ai": 0,
+        "voice": 4,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "盤上なら、たとえ弱いあたしでも、全員の運命を操れる……そしてあたしに挑もうというのなら、それなりの覚悟ができていますよね？",
+        "note": "skin-30000586",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40000586",
+        "order": 71,
+        "class_id": 0
+    },
+    {
         "id": 601,
         "name": "二人の旅路",
         "extra": 0,
@@ -7786,6 +7803,125 @@
         "class_id": 51
     },
     {
+        "id": 5301,
+        "name": "聖夜の警官",
+        "extra": 0,
+        "fit_gun": 312,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "私はプレゼントを贈りに来ただけですので、言う通りにしてください。緊張する必要はありませんよ……って、余計に緊張しちゃいましたか？すみません、ボス、これは職業病ですね。",
+        "note": "skin-30005301",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005301",
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5302,
+        "name": "パ・ド・ドゥ",
+        "extra": 0,
+        "fit_gun": 289,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "火中に落ちた一瞬だけ、その真心が表れる。トリガーを引く瞬間もまた、このように生死を決める……だから指揮官よ、芸術と生死って、何かで紐づいているものなのか？",
+        "note": "skin-30005302",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "二花,朝日奈丸佳,",
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5303,
+        "name": "甘い願い事",
+        "extra": 0,
+        "fit_gun": 313,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "クリスマスがこんなに楽しいものなら、毎日がクリスマスになってくれたらいいわ！それだと楽しみが減ってしまいますと？で、でしたら、わたくしも妥協できなくもなくてよ……",
+        "note": "skin-30005303",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005303",
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5304,
+        "name": "心燃ゆるブリキ",
+        "extra": 0,
+        "fit_gun": 250,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "指揮官さんの心拍数を、ずっと心地良い感じにする機会はどこにあるんでしょう……探してみますね。",
+        "note": "skin-30005304",
+        "explore_tag": "",
+        "gift_position": "-67.7,68.8",
+        "illustrator_cv": "skin-40005304",
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5305,
+        "name": "トワイライト・フェアリー",
+        "extra": 0,
+        "fit_gun": 270,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "四式鈴妖精、ただいま入隊したのであります！たとえこの装束が一日しか着れなくとも、吾輩は指揮官殿のために奮闘するのであります！",
+        "note": "skin-30005305",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005305",
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5306,
+        "name": "願いを拾うKデレラ",
+        "extra": 0,
+        "fit_gun": 212,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "ハシバミの下で願い事をすれば、仙女が現れます……では、あなたの願いを聞きましょうか。",
+        "note": "skin-30005306",
+        "explore_tag": "",
+        "gift_position": "-84.61,-120.2",
+        "illustrator_cv": "skin-40005306",
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5307,
+        "name": "女王のタワーパーティー",
+        "extra": 0,
+        "fit_gun": 319,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "こん程度のツリーなら、髪の毛で運べるぜ！",
+        "note": "skin-30005307",
+        "explore_tag": "",
+        "gift_position": "22.3,51",
+        "illustrator_cv": "skin-40005307",
+        "order": 70,
+        "class_id": 54
+    },
+    {
         "id": 5308,
         "name": "メイド隊怒涛の真夜中",
         "extra": 0,
@@ -7799,7 +7935,24 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005308",
-        "order": 40,
+        "order": 70,
+        "class_id": 54
+    },
+    {
+        "id": 5309,
+        "name": "ルージュスノープリンセス",
+        "extra": 0,
+        "fit_gun": 5,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "背が小さいのもたまにはいいことあるんじゃな！このプレゼントボックスの大きさがピッタリなのじゃ！ということで指揮官、わしからのプレゼントじゃぞ！",
+        "note": "skin-30005309",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40005309",
+        "order": 70,
         "class_id": 54
     },
     {
@@ -8326,7 +8479,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005901",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8343,7 +8496,7 @@
         "explore_tag": "",
         "gift_position": "-122.55,-129.8",
         "illustrator_cv": "skin-40005902",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8360,7 +8513,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005903",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8377,7 +8530,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005904",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8394,7 +8547,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005905",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8411,7 +8564,7 @@
         "explore_tag": "",
         "gift_position": "-73.69,-61.4",
         "illustrator_cv": "skin-40005906",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8428,7 +8581,7 @@
         "explore_tag": "",
         "gift_position": "",
         "illustrator_cv": "skin-40005907",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8445,7 +8598,7 @@
         "explore_tag": "",
         "gift_position": "-5.1,-57.61",
         "illustrator_cv": "skin-40005908",
-        "order": 70,
+        "order": 69,
         "class_id": 62
     },
     {
@@ -8942,6 +9095,23 @@
         "class_id": 70
     },
     {
+        "id": 6604,
+        "name": "ペロサの隣に",
+        "extra": 0,
+        "fit_gun": 333,
+        "ai": 0,
+        "voice": 19,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "これほどの低気温であれば、寒中水泳にはかなりの体力をつかうな。疲れただろう、指揮官。隣、あんたのためにとっておいたから。",
+        "note": "skin-30006604",
+        "explore_tag": "",
+        "gift_position": "-298.7,89.7",
+        "illustrator_cv": "skin-40006604",
+        "order": 70,
+        "class_id": 70
+    },
+    {
         "id": 6605,
         "name": "ウェイブ・スプリント",
         "extra": 0,
@@ -9022,7 +9192,7 @@
         "note": "skin-30006701",
         "explore_tag": "",
         "gift_position": "",
-        "illustrator_cv": "skin-40006701",
+        "illustrator_cv": "RIRE,早見沙織,",
         "order": 58,
         "class_id": 71
     },
@@ -9073,7 +9243,7 @@
         "note": "skin-30006704",
         "explore_tag": "",
         "gift_position": "-11,79",
-        "illustrator_cv": "skin-40006704",
+        "illustrator_cv": "GINGALA,能登麻美子,",
         "order": 58,
         "class_id": 71
     },
@@ -9297,5 +9467,22 @@
         "illustrator_cv": "skin-40007506",
         "order": 67,
         "class_id": 79
+    },
+    {
+        "id": 30001,
+        "name": "夏の午後の風",
+        "extra": 0,
+        "fit_gun": 57,
+        "ai": 0,
+        "voice": 4,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "乗って、この一杯を飲み終えたら出発するから……駆け落ち？途中で私に捨てられたいんなら試してみてもいいわよ。",
+        "note": "skin-30030001",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40030001",
+        "order": 72,
+        "class_id": 0
     }
 ]
