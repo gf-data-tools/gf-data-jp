@@ -331,18 +331,18 @@ COMMON,1311,Limited T-Doll UP,,0
 COMMON,1312, ago,,0
 COMMON,1313,Save,,0
 COMMON,1314,Echelon Preset,,0
-COMMON,1315,FP,,0
+COMMON,1315,友情(todo),,0
 COMMON,1316,Synchronizing,,0
 COMMON,1317,Friends list,,0
 COMMON,1318,Add friend,,0
 COMMON,1319,ID Card,,0
-COMMON,1320,Friendship store,,0
+COMMON,1320,友情商店(todo),,0
 COMMON,1321,Received request,,0
 COMMON,1322,Search,,0
 COMMON,1323,Delete all,,0
 COMMON,1324,My ID:,,0
 COMMON,1325,Search by UID,,0
-COMMON,1326,Friend Points,,0
+COMMON,1326,友情点数(todo),,0
 COMMON,1327,Buy more,,0
 COMMON,1328,Appearance,,0
 COMMON,1329,Background,,0
@@ -761,6 +761,7 @@ COMMON,1760,Resources damaged!,,0
 COMMON,1761,Raise any non-Prototype Fairy to 5-star and Level 100 to unlock this feature.,,0
 COMMON,1762,Login Again,,0
 COMMON,1766,Collect all,,0
+COMMON,1775,礼物盒规则测试(todo),,0
 BATTLE,10000,Retreat,,0
 BATTLE,10001,Withdraw,,0
 BATTLE,10002,WITHDRAW,,0
@@ -1812,7 +1813,7 @@ DORM,31619,Arranged furnitures,,0
 DORM,31620,Change name,,0
 DORM,31621,Please input dormitory name//c no more than 7 letters.,,0
 DORM,31622,Memory list,,0
-DORM,31623,[<color=#FFB400FF>{0}</color>] Icon is available in the Friendship Store.,,0
+DORM,31623,友情商店【<color=#FFB400FF>{0}</color>】头像已上架(todo),,0
 DORM,31624,View the memory of [<color=#FFB400FF>{0}</color>]?,,0
 DORM,31625,Swapping furnitures between<color=#FFB400FF>[{0}]</color> and <color=#FFB400FF>[{1}]</color>//c continue?,,0
 DORM,31626,Collect <color=#FFB400FF>{0}</color> {1} stories to unlock.,,0
@@ -2017,7 +2018,7 @@ DORM,31837,Upgrade to unlock more slots,,0
 DORM,31838,Loot Rack is full//c please collect your rewards first,,0
 DORM,31839,Please select at least one T-Doll,,0
 DORM,31840,Cancelling this exploration will forfeit all resources and items//c and no completion rewards will be received. Continue?,,0
-DORM,31841,Exploration team has returned,,0
+DORM,31841,探索小队已回归(todo),,0
 DORM,31842,Exploration team has set off,,0
 DORM,31843,Exploration team has found a treasure,,0
 DORM,31844,Event,,0
@@ -2697,7 +2698,7 @@ ILLUSTRATEDBOOK,35187,Present Members:,,0
 ILLUSTRATEDBOOK,35188,Switch to Pre-Evolution,,0
 ILLUSTRATEDBOOK,35189,Switch to Post-Evolution,,0
 ILLUSTRATEDBOOK,35190,This Fairy cannot be modified yet. Coming soon.,,0
-ILLUSTRATEDBOOK,35191,Protocol Assimilation Department,,0
+ILLUSTRATEDBOOK,35191,协议回归部(todo),,0
 ILLUSTRATEDBOOK,35192,,,0
 LOGIN,36000,Forget password,,0
 LOGIN,36001,Customer Support,,0
@@ -4011,7 +4012,7 @@ SEPCIALOPS,60151,This combination of ingredients cannot be cooked into any of th
 SEPCIALOPS,60152,You can only select up to 4 ingredients for a dish.,,0
 SEPCIALOPS,60153,Your missing this kind of processed ingredient. Please process it first.,,0
 SEPCIALOPS,60154,Unlimited Lemon Shaved Ice,,0
-SEPCIALOPS,60155,Kouji is kindly offering her lemon shaved ice. Will Jashin-chan go play with her?,,0
+SEPCIALOPS,60155,浩二友情提供柠檬刨冰，那么，小邪神要和她一起出去玩吗？(todo),,0
 SEPCIALOPS,60156,Free shaved ice? Eh//c alright.,,0
 SEPCIALOPS,60157,Jashin-chan can only process one ingredient at a time//c lasting for 5 seconds.//n Event unlocked – Hell's Ice Cream,,0
 SEPCIALOPS,60158,Nah. A high-ranking devil is too busy for that.,,0
@@ -4236,6 +4237,7 @@ SEPCIALOPS,60378,You have already voted {0} times today. Come again tomorrow~,,0
 SEPCIALOPS,60379,,,0
 SEPCIALOPS,60380,,,0
 SEPCIALOPS,60381,,,0
+SEPCIALOPS,60630,艾莉安娜过于强大，需要确保收集3处月印后再与其对决(todo),,0
 GASHAPON,70000,Furniture storage capacity is insufficient(,,0
 GASHAPON,70001,)//c Please organize first before carrying out procurement!,,0
 GASHAPON,70002,Can't purchase//c not enough procurement Tokens.,,0
@@ -4728,7 +4730,7 @@ OTHER,100198,Upon terminating Auto Battles//c resources for incomplete battles w
 OTHER,100199,Customer Service Email Address: support@sunborngame.com,,0
 ACTIVITY,110000,Operation: Cube,,0
 ACTIVITY,110001,Blindfold Theorem,,0
-FRIEND,110002,Friend Points,,0
+FRIEND,110002,友情点数(todo),,0
 FRIEND,110003,Icon,,0
 FRIEND,110004,Item,,0
 FRIEND,110005,ID Card,,0
@@ -4766,7 +4768,7 @@ FRIEND,110037,Welcome to the <color=#FFBB00FF>Friend System</color>. You can bui
 FRIEND,110038,In the <color=#FFBB00FF>Friends List</color>//c you can check your friends as well as send <color=#FFBB00FF>messages</color>.,,0
 FRIEND,110039,You can add friends from the <color=#FFBB00FF>Add Friends</color> page//c as well as search for other players to send friend requests.,,0
 FRIEND,110040,You can view and edit your <color=#FFBB00FF>ID Card</color> from the <color=#FFBB00FF>ID Card</color> page. Your card can be seen by other players. You can also perform other actions related to the ID card here.,,0
-FRIEND,110041,In the <color=#FFBB00FF>Friendship Store</color>//c you can purchase icons and backgrounds for your ID Card. You can also use Friend Points to buy other various items.,,0
+FRIEND,110041,在<color=#FFBB00FF>友情商店</color>中，你可以购买到头像及名片背景等装饰道具。并且可以使用友情点数购买功能性道具。(todo),,0
 FRIEND,110042,Latest message,,0
 FRIEND,110043,Most recent login,,0
 FRIEND,110044,Commander level,,0
@@ -4958,7 +4960,7 @@ GUIDE,140069,<color=#FFB400FF>Don't fight with the red Golyats!</color>,,0
 GUIDE,140070,If an enemy reaches the hostage//c the hostage's HP will drop. If the hostage's HP runs out//c they will die.,,0
 GUIDE,140071,If a hostage meets a <color=#FFB400FF>BOSS</color>//c it will be killed regardless of remaining HP.,,0
 GUIDE,140072,The rescued T-Doll travels with your Echelon. If the Echelon <color=#FFB400FF>loses</color> or <color=#FFB400FF>retreats</color>//c the hostage will be lost//c so be careful!,,0
-GUIDE,140073,Commander//c a new <color=#FFB400FF>background picture</color> are available in the Friendship Store. Buy one to decorate your base.,,0
+GUIDE,140073,指挥官，友情商店中新增了<color=#FFB400FF>基地背景</color>，快购买一个装扮您的指挥部吧。(todo),,0
 GUIDE,140074,After going back to the main page//c you can change your background in the "Commander Info" page. Please press the "<color=#FFB400FF>Background</color>" button to select your choice.,,0
 GUIDE,140075,Commander//c please press the "<color=#FFB400FF>Background</color>" button to select a background of your liking.,,0
 GUIDE,140076,You can place furniture in the new auxiliary room//c “<color=#FFB400FF>Spare Dormitory</color>”. It can be used to swap with any of your current dorms on the fly.,,0
@@ -4969,7 +4971,7 @@ GUIDE,140080,Press the Swap button to finish.,,0
 GUIDE,140081,By using Spare Dormitories//c you can switch to different furniture arrangements on the fly and store more furniture. Enjoy!,,0
 GUIDE,140082,A third party will be joining the battlefield. Please look out for the side that these units belong to.,,0
 GUIDE,140083,Units in <color=#96C9F8FF>blue</color> are friendly forces. They operate by themselves but can accept your battle strategies.,,0
-GUIDE,140084,Griffin will also provide support for you now. You can use the <color=#FFBB00FF>Griffin Support Echelon</color> in missions without incurring a timer limit after use//c but using it<color=#ff0000>will not</color> award any Friend Points.,,0
+GUIDE,140084,现在格里芬也将为您提供部分支援，在某些关卡内可以使用<color=#FFBB00FF>格里芬支援梯队</color>，梯队没有使用时间的限制，但是将<color=#ff0000>不会</color>为您提供友情点数。(todo),,0
 GUIDE,140085,Cafe is the place to be for T-Dolls to relax and chat. You can learn about their past histories and stories here. There is a <color=#FFB400FF>special bubble</color> on top of the T-Dolls who have a story to share.,,0
 GUIDE,140086,Press the <color=#FFB400FF>Gramophone</color> to select and view your T-Dolls' stories under a specific subject of your choice.,,0
 GUIDE,140087,You can view handwritten notes from T-Dolls in the notebook to the left side of counter.,,0

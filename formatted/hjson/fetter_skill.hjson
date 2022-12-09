@@ -96,4 +96,32 @@
     passive_skill: "190401"
     active_trigger: "6"
   }
+  {
+    id: 9
+    name: 融け合う光
+    code: MPKandMPL
+    description:
+      '''
+      MPKとMPLの距離が1マス以内の場合、味方に対するデメリット効果が働かなくなる。
+      MPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。
+      '''
+    gun_group: "363,364"
+    gun: 363
+    type: 1
+    dynamic_passive_skill: "119302,119303,119304,119305,119308,119309"
+  }
+  {
+    id: 10
+    name: 融け合う光
+    code: MPKandMPL
+    description:
+      '''
+      MPKとMPLの距離が1マス以内の場合、味方に対するデメリット効果が働かなくなる。
+      MPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。
+      '''
+    gun_group: "363,364"
+    gun: 364
+    type: 1
+    dynamic_passive_skill: "119203,119204,119205,119206,119207,119208,119209"
+  }
 ]
