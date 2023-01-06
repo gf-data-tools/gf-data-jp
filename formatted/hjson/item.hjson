@@ -8879,6 +8879,16 @@
     detail_introduction: item-30001854
   }
   {
+    id: 1855
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Nyto_white
+    item_name: アリーナアイコン
+    introduction: アリーナアイコン
+    rank: 1
+    detail_introduction: item-30001855
+  }
+  {
     id: 1857
     type: 5
     arg: "1"
@@ -10317,6 +10327,96 @@
     introduction: 白い月のアーク
     rank: 1
     detail_introduction: item-30002162
+  }
+  {
+    id: 2166
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_GeneralLiu
+    item_name: 浮世の風潮
+    introduction: 浮世の風潮
+    rank: 1
+    detail_introduction: item-30002166
+  }
+  {
+    id: 2173
+    type: 5
+    arg: "1"
+    code: card_BattlePass_GeneralLiu
+    item_name: IDカード背景：ベースノートファンク
+    introduction: IDカード背景：ベースノートファンク
+    rank: 1
+    detail_introduction: item-30002173
+  }
+  {
+    id: 2217
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2023_A545
+    item_name: 銀樹の謝意
+    introduction: 銀樹の謝意
+    rank: 1
+    detail_introduction: item-30002217
+  }
+  {
+    id: 2218
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2023_SL8
+    item_name: 君のもとに青い雪
+    introduction: 君のもとに青い雪
+    rank: 1
+    detail_introduction: item-30002218
+  }
+  {
+    id: 2219
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2023_FX05
+    item_name: 星の紀行
+    introduction: 星の紀行
+    rank: 1
+    detail_introduction: item-30002219
+  }
+  {
+    id: 2220
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2023_PPD40
+    item_name: 悠然と黛山
+    introduction: 悠然と黛山
+    rank: 1
+    detail_introduction: item-30002220
+  }
+  {
+    id: 2221
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2023_OTs39
+    item_name: 幻画杏子
+    introduction: 幻画杏子
+    rank: 1
+    detail_introduction: item-30002221
+  }
+  {
+    id: 2222
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2023_MicroUZI
+    item_name: 新橙影絵
+    introduction: 新橙影絵
+    rank: 1
+    detail_introduction: item-30002222
+  }
+  {
+    id: 2223
+    type: 5
+    arg: "1"
+    code: profilePic_2023NewYear_JP
+    item_name: アイコン：世界一のウインク
+    introduction: アイコン：世界一のウインク
+    rank: 1
+    detail_introduction: item-30002223
   }
   {
     id: 4001
@@ -12761,6 +12861,16 @@
     detail_introduction: item-30130016
   }
   {
+    id: 130018
+    type: 12
+    arg: "130018"
+    code: Y_Z_zhihuiguan_Athlete
+    item_name: 鍛錬の証
+    introduction: ジムの年間VIPパス。これぞ身分の証であり、鍛錬そのものである。
+    rank: 1
+    detail_introduction: item-30130018
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -12939,6 +13049,26 @@
     introduction: アイコンフレーム：肉球ケアマスター
     rank: 1
     detail_introduction: item-30200013
+  }
+  {
+    id: 200014
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_GeneralLiu
+    item_name: アイコンフレーム：街角残響
+    introduction: アイコンフレーム：街角残響
+    rank: 1
+    detail_introduction: item-30200014
+  }
+  {
+    id: 200017
+    type: 5
+    arg: "1"
+    code: profileFrame_2023NewYear_JP
+    item_name: アイコンフレーム：新春万福
+    introduction: アイコンフレーム：新春万福
+    rank: 1
+    detail_introduction: item-30200017
   }
   {
     id: 900030
@@ -13347,6 +13477,39 @@
     detail_introduction: item-31500014
   }
   {
+    id: 1500015
+    type: 15
+    arg: "1500015"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500015
+  }
+  {
+    id: 1500016
+    type: 15
+    arg: "1500016"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500016
+  }
+  {
+    id: 1500017
+    type: 15
+    arg: "1500017"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500017
+  }
+  {
     id: 1500023
     type: 15
     arg: "1500023"
@@ -13451,7 +13614,7 @@
     arg: "1500032"
     code: Bumdle_smg
     item_name: 星5 SMG人形支援要請書
-    introduction: 使用することで、「2022年7月15日(金)」より以前に実装された「星5 SMG戦術人形」から1名を要請できます。要請可能な対象の「戦術人形」は左右にスワイプすることでご確認いただけます。※「RO365」は要請可能な対象に含まれません。
+    introduction: 使用することで、「2022年7月15日(金)」より以前に実装された「星5 SMG戦術人形」から1名を要請できます。要請可能な対象の「戦術人形」は左右にスワイプすることでご確認いただけます。※「RO635」は要請可能な対象に含まれません。
     rank: 1
     sort: -1
     detail_introduction: item-31500032

@@ -2221,6 +2221,7 @@
     type: 3
     code: Guard_chm
     introduce: ジンジャークッキーの盾とキャンディケインを装備した、鉄血のクリスマス用上級ダミー。見るだけで胸やけしそうな甘ったるい外見に違わず、基本、重要度の高いキッチンの守護を仰せつかっているが……デストロイヤーを装って飴を盗みに忍び込んでくるドリーマーの迎撃に駆り出されることも。
+    if_capture: 1
     pow_rank: 1
     life_rank: 4
     hit_rank: 3
@@ -2729,6 +2730,28 @@
     enemy_skill: "146,147,148,149,150"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000146
+  }
+  {
+    id: 147
+    name: デストロイヤー-浮掠麋影
+    type: 1
+    code: Destroyer_Christmas
+    introduce: デストロイヤー-浮掠麋影、雪原での作戦向けに開発された特化型。寒冷環境下においても、高速移動および精確な打撃を行うことができ、武器の火力や爆撃の威力も強化された。デストロイヤー本人の強い要望で、外見のデザインはトナカイを参照し、さらにクリスマスツリーのアクセサリーなどを弾薬の装飾に使った。これで敵に甘い死を届けることができるだろう。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 一発当たりの火力は極めた高いが、射速は低めで、命中は普通。回避タイプの人形で食い止めるとよい。
+    character: "1001,206"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",高田憂希,"
+    spine_scale: "85,85,1"
+    org_id: 10603
   }
   {
     id: 100001

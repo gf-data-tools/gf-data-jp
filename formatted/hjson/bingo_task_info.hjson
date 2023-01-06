@@ -276,13 +276,13 @@
   {
     task_id: "27"
     type: difficulty
-    task_name: special_develop_equip
+    task_name: special_develop_fairy
     size: "1"
     ticket_num: "1"
-    title: 装备重造
-    content: 进行1次装备重型制造
+    title: 妖精重造
+    content: 进行1次妖精重型制造
     is_mutex: "10"
-    task_type_id: "27"
+    task_type_id: "129"
   }
   {
     task_id: "28"
@@ -417,48 +417,6 @@
     title: 消耗校准点券
     content: 累计消耗校准点券*30
     task_type_id: "37"
-  }
-  {
-    task_id: "41"
-    type: difficulty
-    task_name: consume_capsule
-    size: "10"
-    ticket_num: "1"
-    title: 增幅胶囊消耗
-    content: 累计消耗增幅胶囊*10
-    task_type_id: "61"
-  }
-  {
-    task_id: "42"
-    type: difficulty
-    task_name: sangvis_daily_retrieval
-    size: "1"
-    ticket_num: "1"
-    title: 日常捕获
-    content: 完成日常捕获1次
-    is_mutex: "6"
-    task_type_id: "123"
-  }
-  {
-    task_id: "43"
-    type: difficulty
-    task_name: sangvis_exercise
-    size: "1"
-    ticket_num: "1"
-    title: 融合演习
-    content: 完成融合演习1次
-    is_mutex: "6"
-    task_type_id: "125"
-  }
-  {
-    task_id: "44"
-    type: difficulty
-    task_name: finish_squad_daily_task
-    size: "1"
-    ticket_num: "1"
-    title: 完成情报任务
-    content: 完成1次情报任务
-    task_type_id: "114"
   }
   {
     task_id: "45"

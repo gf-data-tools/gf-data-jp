@@ -1328,6 +1328,20 @@
     years: 2022
   }
   {
+    id: 108
+    name: 雪夜の温泉宿
+    rank: 5
+    bonus_picture: "3102"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: 雪の夜の温泉宿をテーマにした家具セット。寒い雪の夜に、一時の安寧と温もりを。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: HotSpring2023_deco_10_icon
+    is_showed: 1
+    placement: 1
+    years: 2023
+  }
+  {
     id: 299
     name: ペット
     rank: 5

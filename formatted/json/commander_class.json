@@ -446,5 +446,19 @@
         "des_year": "2022",
         "source": 2,
         "source_description": "四周年ログイン報酬"
+    },
+    {
+        "id": 49,
+        "name": "青春の鼓動",
+        "description": "朝の涼しい風に乗って、大地を照らす日差しを踏もう。流れる汗は、朝露と伴に。",
+        "group_id": "91",
+        "code": "commander_4932_icon",
+        "bonus_plastic": "130018",
+        "skill_id": 105,
+        "path": "CLASS49",
+        "is_class": 1,
+        "des_year": "2023",
+        "source": 1,
+        "source_description": "commander_class-40000049"
     }
 ]

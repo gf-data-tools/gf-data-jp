@@ -8825,6 +8825,13 @@
     content: prize-20001290
   }
   {
+    id: 1291
+    name: prize-10001291
+    gem: 90
+    equip_ids: "250"
+    content: prize-20001291
+  }
+  {
     id: 1302
     name: prize-10001302
     item_ids: 900044-20
@@ -9442,6 +9449,14 @@
     item_ids: 1500030-1
     content: prize-20001669
     icon: Bumdle_cashblack
+  }
+  {
+    id: 1706
+    name: prize-10001706
+    gem_pay: 6100
+    item_ids: 41-100
+    content: prize-20001706
+    icon: Bumdle_cashblue
   }
   {
     id: 2001
@@ -10790,6 +10805,18 @@
     name: アイコン：プラウラーアイコン-HD
     item_ids: 1835-1
     content: prize-20004283
+  }
+  {
+    id: 4284
+    name: 融合勢力：アリーナ
+    sangvis: "1014"
+    content: prize-20004284
+  }
+  {
+    id: 4285
+    name: アイコン：アリーナアイコン
+    item_ids: 1855-1
+    content: prize-20004285
   }
   {
     id: 4290
@@ -21949,6 +21976,12 @@
     icon: NPC_Kalina_206
   }
   {
+    id: 12614
+    name: prize-10012614
+    furniture: "2052"
+    content: prize-20012614
+  }
+  {
     id: 14101
     name: prize-10014101
     equip_ids: "2"
@@ -25774,7 +25807,7 @@
   {
     id: 30203
     name: 8ライン報酬
-    gift: 6204-1
+    gift: 7907-1
     content: prize-20030203
     icon: Bumdle_bline
   }
@@ -30922,6 +30955,62 @@
     commander_uniform: "4552"
   }
   {
+    id: 94911
+    name: prize-10094911
+    content: prize-20094911
+    send_limit: 1
+    commander_uniform: "4911"
+  }
+  {
+    id: 94912
+    name: prize-10094912
+    content: prize-20094912
+    send_limit: 1
+    commander_uniform: "4912"
+  }
+  {
+    id: 94920
+    name: prize-10094920
+    content: prize-20094920
+    send_limit: 1
+    commander_uniform: "4920"
+  }
+  {
+    id: 94931
+    name: prize-10094931
+    content: prize-20094931
+    send_limit: 1
+    commander_uniform: "4931"
+  }
+  {
+    id: 94932
+    name: prize-10094932
+    content: prize-20094932
+    send_limit: 1
+    commander_uniform: "4932"
+  }
+  {
+    id: 94940
+    name: prize-10094940
+    content: prize-20094940
+    send_limit: 1
+    commander_uniform: "4940"
+  }
+  {
+    id: 94951
+    name: prize-10094951
+    content: prize-20094951
+    send_limit: 1
+    commander_uniform: "4951"
+  }
+  {
+    id: 94952
+    name: prize-10094952
+    content: prize-20094952
+    send_limit: 1
+    commander_uniform: "4952"
+  }
+  {
     id: 99999
     name: 初チャージ特典
     mp: 1000
@@ -31681,49 +31770,49 @@
   {
     id: 140025
     name: prize-10140025
-    gun_id: "347"
+    gun_id: "356"
     content: prize-20140025
   }
   {
     id: 140026
     name: prize-10140026
-    gun_id: "125"
+    gun_id: "181"
     content: prize-20140026
   }
   {
     id: 140027
     name: prize-10140027
-    gun_id: "148"
+    gun_id: "46"
     content: prize-20140027
   }
   {
     id: 140028
     name: prize-10140028
-    gun_id: "173"
+    gun_id: "183"
     content: prize-20140028
   }
   {
     id: 140029
     name: prize-10140029
-    gun_id: "109"
+    gun_id: "104"
     content: prize-20140029
   }
   {
     id: 140030
     name: prize-10140030
-    gun_id: "114"
+    gun_id: "125"
     content: prize-20140030
   }
   {
     id: 140031
     name: prize-10140031
-    gun_id: "46"
+    gun_id: "329"
     content: prize-20140031
   }
   {
     id: 140032
     name: prize-10140032
-    gun_id: "233"
+    gun_id: "257"
     content: prize-20140032
   }
   {

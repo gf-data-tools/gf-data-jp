@@ -17227,6 +17227,7 @@
     skill1: 101904
     normal_attack: 300102
     passive_skill: "756166,756187"
+    dynamic_passive_skill: "759010"
     effect_grid_center: 12
     effect_guntype: "4"
     effect_grid_pos: "6,8"
@@ -27072,7 +27073,7 @@
     name: MPL
     en_name: MPL
     code: MPL
-    extra: X布,,
+    extra: X布,東依千加,
     en_introduce:
       '''
       Type                       Submachine gun
@@ -27133,7 +27134,7 @@
     name: MPK
     en_name: MPK
     code: MPK
-    extra: gun-40000364
+    extra: X布,小島彩,
     en_introduce:
       '''
       Type                       Submachine gun
@@ -27194,7 +27195,7 @@
     name: SCR
     en_name: SCR
     code: SCR
-    extra: RIRE,,
+    extra: RIRE,春花らん,
     en_introduce:
       '''
       Type                        Assault rifle

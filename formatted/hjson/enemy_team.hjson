@@ -38032,84 +38032,84 @@
   }
   {
     id: 490101
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,136,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,319,0"
     draw_event_s_id: 517
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "136"
+    limit_guns: "319"
     team_confrontfun_des: enemy_team-10490101
     targettrain_cancollect: 1
   }
   {
     id: 490102
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,136,99,118"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,319,99,118"
     draw_event_s_id: 517
     enemy_leader: 10070
     if_stay: 1
-    limit_guns: "136"
+    limit_guns: "319"
     team_confrontfun_des: enemy_team-10490102
     targettrain_cancollect: 1
   }
   {
     id: 490103
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,136,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,319,0"
     draw_event_s_id: 519
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "136"
+    limit_guns: "319"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
   }
   {
     id: 490104
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,136,99,118"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,319,99,118"
     draw_event_s_id: 519
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "136"
+    limit_guns: "319"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
   }
   {
     id: 490201
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,207,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,332,0"
     draw_event_s_id: 517
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "207"
+    limit_guns: "332"
     team_confrontfun_des: enemy_team-10490201
     targettrain_cancollect: 1
   }
   {
     id: 490202
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,207,26,36"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,332,26,36"
     draw_event_s_id: 517
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "207"
+    limit_guns: "332"
     team_confrontfun_des: enemy_team-10490202
     targettrain_cancollect: 1
   }
   {
     id: 490203
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,207,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,332,0"
     draw_event_s_id: 519
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "207"
+    limit_guns: "332"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
   }
   {
     id: 490204
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,207,26,36"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,332,26,36"
     draw_event_s_id: 519
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "207"
+    limit_guns: "332"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
@@ -38152,63 +38152,63 @@
   }
   {
     id: 490306
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,208,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,289,0"
     draw_event_s_id: 518
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "208"
+    limit_guns: "289"
     team_confrontfun_des: enemy_team-10490306
     targettrain_cancollect: 1
   }
   {
     id: 490307
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,208,101,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,289,101,60"
     draw_event_s_id: 518
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "208"
+    limit_guns: "289"
     team_confrontfun_des: enemy_team-10490307
     targettrain_cancollect: 1
   }
   {
     id: 490308
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,208,101,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,289,101,60"
     draw_event_s_id: 518
     enemy_leader: 13222
     if_stay: 1
-    limit_guns: "208"
+    limit_guns: "289"
     team_confrontfun_des: enemy_team-10490308
     targettrain_cancollect: 1
   }
   {
     id: 490309
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,208,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,289,0"
     draw_event_s_id: 520
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "208"
+    limit_guns: "289"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
   }
   {
     id: 490310
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,208,101,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,289,101,60"
     draw_event_s_id: 520
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "208"
+    limit_guns: "289"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
   }
   {
     id: 490311
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,208,101,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,289,101,60"
     draw_event_s_id: 520
     enemy_leader: 13223
     if_stay: 1
-    limit_guns: "208"
+    limit_guns: "289"
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
     targettrain_cancollect: 1
@@ -38239,44 +38239,44 @@
   }
   {
     id: 490404
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,204,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,333,0"
     draw_event_s_id: 518
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "204"
+    limit_guns: "333"
     ai: 103
     team_confrontfun_des: enemy_team-10490404
     targettrain_cancollect: 1
   }
   {
     id: 490405
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,204,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,333,1,103"
     draw_event_s_id: 518
     enemy_leader: 13123
     if_stay: 1
-    limit_guns: "204"
+    limit_guns: "333"
     ai: 103
     team_confrontfun_des: enemy_team-10490405
     targettrain_cancollect: 1
   }
   {
     id: 490406
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,204,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,333,1,103"
     draw_event_s_id: 518
     enemy_leader: 13220
     if_stay: 1
-    limit_guns: "204"
+    limit_guns: "333"
     ai: 103
     team_confrontfun_des: enemy_team-10490406
     targettrain_cancollect: 1
   }
   {
     id: 490407
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,204,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,333,0"
     draw_event_s_id: 520
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "204"
+    limit_guns: "333"
     ai: 103
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
@@ -38284,11 +38284,11 @@
   }
   {
     id: 490408
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,204,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,333,1,103"
     draw_event_s_id: 520
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "204"
+    limit_guns: "333"
     ai: 103
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
@@ -38296,11 +38296,11 @@
   }
   {
     id: 490409
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,204,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,333,1,103"
     draw_event_s_id: 520
     enemy_leader: 900316
     if_stay: 1
-    limit_guns: "204"
+    limit_guns: "333"
     ai: 103
     team_confrontfun_pic: spe_tip
     team_confrontfun_des: この敵はさらに多くの新星勲章/白金勲章をドロップする
@@ -43627,17 +43627,15 @@
   }
   {
     id: 5081011
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10012
     team_confrontfun_des: enemy_team-15081011
     targettrain_cancollect: 1
   }
   {
     id: 5081012
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,69,150"
-    draw_event_s_id: 6101
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10012
-    limit_guns: "252"
     team_confrontfun_des: enemy_team-15081012
     targettrain_cancollect: 1
   }
@@ -43650,25 +43648,21 @@
   }
   {
     id: 5081014
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,0"
-    draw_event_s_id: 6101
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10017
-    limit_guns: "252"
     team_confrontfun_des: enemy_team-15081014
     targettrain_cancollect: 1
   }
   {
     id: 5081021
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,251,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 13124
-    limit_guns: "251"
     team_confrontfun_des: enemy_team-15081021
     targettrain_cancollect: 1
   }
   {
     id: 5081022
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10017
     team_confrontfun_des: enemy_team-15081022
     targettrain_cancollect: 1
@@ -43689,10 +43683,8 @@
   }
   {
     id: 5081025
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,251,66,78"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10012
-    limit_guns: "251"
     team_confrontfun_des: enemy_team-15081025
     targettrain_cancollect: 1
   }
@@ -43712,10 +43704,8 @@
   }
   {
     id: 5081033
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,211,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10017
-    limit_guns: "211"
     team_confrontfun_des: enemy_team-15081033
     targettrain_cancollect: 1
   }
@@ -43728,7 +43718,7 @@
   }
   {
     id: 5081035
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10017
     if_stay: 1
     team_confrontfun_des: enemy_team-15081035
@@ -43736,33 +43726,29 @@
   }
   {
     id: 5081036
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13124
     team_confrontfun_des: enemy_team-15081036
     targettrain_cancollect: 1
   }
   {
     id: 5081037
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13124
     team_confrontfun_des: enemy_team-15081037
     targettrain_cancollect: 1
   }
   {
     id: 5081038
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,211,100,39"
-    draw_event_s_id: 6102
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13124
-    limit_guns: "211"
     team_confrontfun_des: enemy_team-15081038
     targettrain_cancollect: 1
   }
   {
     id: 5081041
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,231,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 13124
-    limit_guns: "231"
     team_confrontfun_des: enemy_team-15081041
     targettrain_cancollect: 1
   }
@@ -43789,10 +43775,8 @@
   }
   {
     id: 5081045
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,231,75,23"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10017
-    limit_guns: "231"
     team_confrontfun_des: enemy_team-15081045
     targettrain_cancollect: 1
   }
@@ -43805,19 +43789,15 @@
   }
   {
     id: 5081047
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,231,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900198
-    limit_guns: "231"
     team_confrontfun_des: enemy_team-15081047
     targettrain_cancollect: 1
   }
   {
     id: 5081048
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,231,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900197
-    limit_guns: "231"
     team_confrontfun_des: enemy_team-15081048
     targettrain_cancollect: 1
   }
@@ -44520,41 +44500,33 @@
   }
   {
     id: 6350001
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,69,150"
-    draw_event_s_id: 6101
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10012
     if_stay: 1
-    limit_guns: "252"
     team_confrontfun_des: enemy_team-16350001
     targettrain_cancollect: 1
   }
   {
     id: 6350002
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,251,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "251"
     team_confrontfun_des: enemy_team-16350002
     targettrain_cancollect: 1
   }
   {
     id: 6350003
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,211,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10017
     if_stay: 1
-    limit_guns: "211"
     team_confrontfun_des: enemy_team-16350003
     targettrain_cancollect: 1
   }
   {
     id: 6350004
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,231,0"
-    draw_event_s_id: 6102
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 13124
     if_stay: 1
-    limit_guns: "231"
     team_confrontfun_des: enemy_team-16350004
     targettrain_cancollect: 1
   }
