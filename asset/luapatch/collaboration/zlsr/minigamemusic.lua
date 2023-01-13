@@ -67,11 +67,11 @@ Awake = function()
 	
 	math.randomseed(tostring(os.time()):reverse():sub(1, 7))
 	config:InitData()
-
+	
 end
 Start = function()
 	local randomMember = math.random(1,7)
-
+	
 	self.transform:SetParent(CS.BattleUIController.Instance.transform:Find('UI'),false)
 	--初始化spine
 	leaderSpine = CS.UnityEngine.Object.Instantiate(CS.CommonController.GetSpinePrefab(spineCodeList[randomMember]))
@@ -89,9 +89,9 @@ Start = function()
 	spriteListTime = holderTimeNum:GetComponent(typeof(CS.UGUISpriteHolder))
 	
 	--初始化UI
-
+	
 	_imgFeverGauge = imgFeverBar:GetComponent(typeof(CS.ExImage))
-    _imgWarningBG = goWarningBG:GetComponent(typeof(CS.ExImage))
+	_imgWarningBG = goWarningBG:GetComponent(typeof(CS.ExImage))
 	spriteListResultScore = goResultScoreItem:GetComponent(typeof(CS.UGUISpriteHolder))
 	txtScore = textScore:GetComponent(typeof(CS.ExText))
 	txtFever = textFever:GetComponent(typeof(CS.ExText))
@@ -103,7 +103,7 @@ Start = function()
 		function()
 			OnFeverClickButton()
 		end)
-
+	
 	btnMusic:SetButtonPointerDownUpAction(
 		function(isUp,pos)
 			goMusicButtonPressed:SetActive(not isUp)
@@ -115,6 +115,9 @@ Start = function()
 				currentAscendSpeed = cursorAscendStartingSpd
 			else
 				currentDescendSpeed = cursorDescendStartingSpd
+			end
+			if isHoldingButton then
+				PlaySFX("music_click")
 			end
 			isAscend = isHoldingButton
 		end
@@ -158,7 +161,7 @@ Update = function()
 	
 end
 function MainLoop()
-
+	
 	if not isFever then
 		currentFrame = currentFrame +CS.UnityEngine.Time.deltaTime
 		HandleCursorMove()
@@ -176,7 +179,7 @@ function MainLoop()
 	else
 		CountFeverTime()
 	end
-	if totalTimer > 0 then
+	if totalTimer > 0 and not isFever then
 		totalTimer = totalTimer - CS.UnityEngine.Time.deltaTime
 	end
 	UpdateRemainTime()
@@ -255,7 +258,7 @@ function CheckScore()
 	end
 end
 function MoveZone()
-
+	
 	
 	if #dictRangeInfo >= currentDictPos and currentDictPos >= 1 and  currentFrame > dictRangeInfo[currentDictPos].time then
 		currentDictPos =currentDictPos + 1		
@@ -276,7 +279,7 @@ function MoveZone()
 				currentZonePos = CS.Mathf.Lerp(lastZonePos,nextZonePos, currentTimer / currentTimeGap)
 			end
 		end
-
+		
 	end
 	if lastZoneWidth  ~= nextZoneWidth  then
 		if currentTimeGap <= 0 then
@@ -297,10 +300,12 @@ function CheckFever()
 		isFever = true
 		PlaySFX("enterFever")
 		feverTimer = 0
-		_imgFeverGauge:DOFillAmount(0,feverDuration) 
+		CS.CommonAudioController.Instance.bgmSource:Pause(true)
+		
 		goFeverEffect:SetActive(true)
 		goFeverEffect2:SetActive(true)
 		goFeverHint:SetActive(true)
+		_imgFeverGauge:DOFillAmount(0,feverDuration) 
 	end
 end
 function CountFeverTime()
@@ -308,6 +313,7 @@ function CountFeverTime()
 		feverTimer = feverTimer + CS.UnityEngine.Time.deltaTime
 		if feverTimer >= feverDuration then
 			isFever = false
+			CS.CommonAudioController.Instance.bgmSource:Pause(false)
 			goFeverEffect:SetActive(false)
 			goFeverEffect2:SetActive(false)
 			goFeverHint:SetActive(false)
@@ -344,7 +350,7 @@ function GetPosValue(parameter,type)
 	else
 		return GetRecordValue(type)
 	end	
-
+	
 end
 function RecordValue(value,type)
 	if type == 1 then
@@ -418,7 +424,7 @@ function OnFeverClickButton()
 		UpdateScore(playerScore)
 		PlaySFX("fever_click")
 	else
-		PlaySFX("music_click")
+		
 	end
 end
 function ExitGame()

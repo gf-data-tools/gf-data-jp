@@ -28871,7 +28871,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1.0
-    name: live2d_motions-10790201
+    name: C
   }
   {
     id: 790202
@@ -28879,7 +28879,7 @@
     motion_name: motions/wait_1.mtn
     hold_time: "15,17"
     probability: 0.5
-    name: live2d_motions-10790202
+    name: Standby(Special) 1
     camera: 1
   }
   {
@@ -28888,7 +28888,7 @@
     motion_name: motions/wait_2.mtn
     hold_time: "30,35"
     probability: 0.5
-    name: live2d_motions-10790203
+    name: Standby(Special) 2
     camera: 1
   }
   {
@@ -28899,7 +28899,7 @@
     probability: 1.0
     voice: GUN|A545|DIALOGUE3
     text: GUN|A545|DIALOGUE3
-    name: live2d_motions-10790204
+    name: Interaction 1
     camera: 1
     voice_code: DIALOGUE3
   }
@@ -28911,7 +28911,7 @@
     probability: 1.0
     voice: GUN|A545|NEWYEAR
     text: GUN|A545|NEWYEAR
-    name: live2d_motions-10790205
+    name: Interaction 2
     camera: 1
     voice_code: NEWYEAR
   }
@@ -28923,7 +28923,7 @@
     probability: 1.0
     voice: GUN|A545|FEED
     text: GUN|A545|FEED
-    name: live2d_motions-10790206
+    name: Interaction 3
     camera: 1
     voice_code: FEED
   }
@@ -28935,7 +28935,7 @@
     probability: 1.0
     voice: GUN|A545|LOADING
     text: GUN|A545|LOADING
-    name: live2d_motions-10790207
+    name: Interaction 4
     camera: 1
     voice_code: LOADING
   }
@@ -28947,7 +28947,7 @@
     probability: 1.0
     voice: GUN|A545|BUILDOVER
     text: GUN|A545|BUILDOVER
-    name: live2d_motions-10790208
+    name: Interaction 5
     camera: 1
     voice_code: BUILDOVER
   }
@@ -28959,7 +28959,7 @@
     probability: 1.0
     voice: GUN|A545|DIALOGUEWEDDING
     text: GUN|A545|DIALOGUEWEDDING
-    name: live2d_motions-10790209
+    name: Post-Oath
     camera: 1
     voice_code: DIALOGUEWEDDING
   }
@@ -28970,7 +28970,7 @@
     probability: 1.0
     voice: GUN|A545|SOULCONTRACT
     text: GUN|A545|SOULCONTRACT
-    name: live2d_motions-10790210
+    name: Oath Scene
     camera: 1
     voice_code: SOULCONTRACT
   }
@@ -28979,7 +28979,7 @@
     type: 300
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: live2d_motions-10790211
+    name: Shaking
     camera: 1
   }
   {
@@ -28989,7 +28989,7 @@
     probability: 1.0
     voice: GUN|A545|HELLO
     text: GUN|A545|HELLO
-    name: live2d_motions-10790212
+    name: Login
     camera: 1
     voice_code: HELLO
   }
@@ -28998,7 +28998,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1.0
-    name: live2d_motions-10790213
+    name: C
     is_hurt: 1
   }
   {
@@ -29009,7 +29009,7 @@
     probability: 1.0
     voice: GUN|A545|BREAK
     text: GUN|A545|BREAK
-    name: live2d_motions-10790214
+    name: Interaction 1
     camera: 1
     is_hurt: 1
     voice_code: BREAK
@@ -29022,7 +29022,7 @@
     probability: 1.0
     voice: GUN|A545|RETREAT
     text: GUN|A545|RETREAT
-    name: live2d_motions-10790215
+    name: Interaction 2
     camera: 1
     is_hurt: 1
     voice_code: RETREAT
@@ -29035,7 +29035,7 @@
     probability: 1.0
     voice: GUN|A545|DIALOGUE2
     text: GUN|A545|DIALOGUE2
-    name: live2d_motions-10790216
+    name: Interaction 3
     camera: 1
     is_hurt: 1
     voice_code: DIALOGUE2
@@ -29048,7 +29048,7 @@
     probability: 1.0
     voice: GUN|A545|FIX
     text: GUN|A545|FIX
-    name: live2d_motions-10790217
+    name: Interaction 4
     camera: 1
     is_hurt: 1
     voice_code: FIX
@@ -29061,7 +29061,7 @@
     probability: 1.0
     voice: GUN|A545|OPERATIONOVER
     text: GUN|A545|OPERATIONOVER
-    name: live2d_motions-10790218
+    name: Interaction 5
     camera: 1
     is_hurt: 1
     voice_code: OPERATIONOVER
@@ -29073,7 +29073,7 @@
     probability: 1.0
     voice: GUN|A545|HELLO
     text: GUN|A545|HELLO
-    name: live2d_motions-10790219
+    name: Login
     camera: 1
     is_hurt: 1
     voice_code: HELLO
@@ -29083,7 +29083,7 @@
     type: 301
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: live2d_motions-10790220
+    name: Shaking
     camera: 1
     is_hurt: 1
   }
