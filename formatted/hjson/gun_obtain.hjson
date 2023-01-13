@@ -360,6 +360,18 @@
     description: -期間限定イベント【邪神ちゃん前線】ショップ引換
   }
   {
+    obtain_id: 245
+    description: -期間限定イベント【回帰定理】人質救援で獲得
+  }
+  {
+    obtain_id: 246
+    description: -期間限定イベント【回帰定理】クリア報酬
+  }
+  {
+    obtain_id: 247
+    description: -期間限定イベント【回帰定理】物資箱で獲得
+  }
+  {
     obtain_id: 301
     description: -イベント【赤色のテーゼ】報酬
   }
@@ -815,7 +827,7 @@
   }
   {
     obtain_id: 3013
-    description: gun_obtain-10003013
+    description: -2023年2月ログイン報酬
   }
   {
     obtain_id: 3014

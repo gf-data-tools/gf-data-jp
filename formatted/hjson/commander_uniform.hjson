@@ -1856,6 +1856,20 @@
     color_icon_id: "550"
   }
   {
+    id: 3820
+    name: ワイヤートリック
+    description: ギリギリの賭けが日常となった瞬間、君はまだ生命本来の重さを覚えていられるかい？
+    code: HeadAcco
+    icon: commander_3820_icon
+    type: 2
+    uniform_class: "38"
+    color_normal: Commander_3820_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.077,0.254"
+    color_icon_id: "551"
+  }
+  {
     id: 3911
     name: 孤独の狼
     description: 夜空の下、人々は絢爛な花火を追いかける。孤狼の赤い瞳を灯すのは、あの月光と白毛だ。

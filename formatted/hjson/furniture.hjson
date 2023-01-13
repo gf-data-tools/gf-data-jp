@@ -20733,7 +20733,7 @@
     id: 8007
     name: 瑞雪苑-大理石製の白椅子
     classes: 80
-    type: 203
+    type: 202
     position: "31,11"
     space: "1,1,0,0,0,0"
     deco_rate: 950
@@ -25090,7 +25090,7 @@
     offset: "0.000,0.000,0.000|0.000,0.000,0.000|0.000,1.227,0.284|2.297,1.227,0.284"
     rotate: "2,2,2,2"
     interact_point: "14"
-    interact_point_offset: *1.254,2.134,-0.285
+    interact_point_offset: *1.254,1.545,-0.285
   }
   {
     id: 20004
@@ -25273,6 +25273,114 @@
     interact_point_offset: "0,0,0"
     touch_area: "3,3,3"
     bonus_id: 3088
+  }
+  {
+    id: 20016
+    name: ターゲットドローンの使命
+    classes: 19
+    type: 201
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 突如の爆発が、このターゲットドローンの一生を変えた。危機を前に、人形に破壊されるはずだったターゲットドローンは、人形を守る盾となった。
+    code: 2021SummerActivity_Target
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20017
+    name: 思いの碑
+    classes: 19
+    type: 201
+    space: "4,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 昔、思いとは忙しない電話であった。私はここ、あなたは向こう。そして今、思いは薄っぺらい石碑となった。私は外、あなたは中。
+    code: 2021SummerActivity_Flower
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20018
+    name: 致命の弾痕
+    classes: 19
+    type: 201
+    space: "12,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 窓に残ったスナイパーライフルの弾痕。その殺気が無き今、人形たちはよく指を入れて遊んでいる。
+    code: 2021SummerActivity_Window
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20019
+    name: 花火打ち上げ装置
+    classes: 19
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 花火が打ち上げられた瞬間を再現したホログラム映像。一瞬の美しさを、ここに永遠に残す。
+    code: 2021SummerActivity_Booth
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "55"
+    interact_point_offset: "0,0,0"
+    touch_area: "4,4,4"
+  }
+  {
+    id: 20020
+    name: 世界終末時計
+    classes: 19
+    type: 302
+    space: "5,7,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: この時計の針が、すでに長い間止まっていても、この時計を直そうと思う者は誰一人いない。
+    code: 2021SummerActivity_DoomsdayClock
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20021
+    name: カイバー型目覚まし
+    classes: 19
+    type: 201
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 発売直後でMDRにブラックリストに入れられた目覚まし時計。「ハッカーの人形で目覚ましを作る奴がいるか！」というのが理由らしい。しかし自分をモデルにした目覚ましに対しては、真逆の反応を見せるのであった。
+    code: 2021SummerActivity_Clock
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "55"
+    interact_point_offset: "0,0,0"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20022
+    name: ブルドッグのベリー
+    classes: 299
+    type: 299
+    space: "3,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「ブルドッグだ。もう一度言う、ブルドッグだ！あの見るからにアホそうなパグと一緒にするな！」厳ついベリーは、本日七度目の説明を強く繰り返した。
+    code: 2021SummerActivity_Pele
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "4"
+    interact_point_offset: *-0.050,0.953,-0.285
+    touch_area: "3,3,3"
+    bonus_id: 3090
   }
   {
     id: 20023
@@ -32821,6 +32929,21 @@
     decompose_gift: 100003
     description: M14のポスター。
     code: poster_NewYear2022_M14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36809
+    name: 蜀錦羞
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: FF FN49のポスター。
+    code: poster_SpringFes2022_FN49
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

@@ -679,4 +679,79 @@
     part: 4000
     prize_reward: 61:10000,62:10000,63:10000
   }
+  {
+    id: 173401
+    target_type: 3
+    name: 01回帰·刺霜
+    target_des: 【ドローン特訓】は【回帰理論】にて得た情報を元に、敵のユニットをシミュレートし、指揮官たちにより万全な準備を整えさせることができます。特訓期間中、全プレイヤーの挑戦時間及び挑戦データは全て記録され、他のプレイヤーに参考されることができます。
+    code: mission_targettrain_1734
+    rank: 1
+    rank_inorder: 1
+    hit_rank: 1
+    hit_rank_inorder: 1
+    difficult_level_limit: 1
+    difficult_level: 1
+    recommend_level: 100
+    target_id: "2411"
+    battle_timelimit: 300
+    is_time_limit: 1
+    start_time: 2023-01-13 13:00:00
+    end_time: 2023-02-10 13:00:00
+    cost_item: "9,5"
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    prize_reward: 61:10000,62:10000,63:10000
+  }
+  {
+    id: 173501
+    target_type: 3
+    name: 02回帰·夜靄
+    target_des: 【ドローン特訓】は【回帰理論】にて得た情報を元に、敵のユニットをシミュレートし、指揮官たちにより万全な準備を整えさせることができます。特訓期間中、全プレイヤーの挑戦時間及び挑戦データは全て記録され、他のプレイヤーに参考されることができます。
+    code: mission_targettrain_1735
+    rank: 1
+    rank_inorder: 1
+    hit_rank: 1
+    hit_rank_inorder: 1
+    difficult_level_limit: 1
+    difficult_level: 1
+    recommend_level: 100
+    target_id: "2412"
+    battle_timelimit: 300
+    is_time_limit: 1
+    start_time: 2023-01-13 13:00:00
+    end_time: 2023-02-10 13:00:00
+    cost_item: "9,5"
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    prize_reward: 61:10000,62:10000,63:10000
+  }
+  {
+    id: 173601
+    target_type: 3
+    name: 03回帰·冥霧
+    target_des: 【ドローン特訓】は【回帰理論】にて得た情報を元に、敵のユニットをシミュレートし、指揮官たちにより万全な準備を整えさせることができます。特訓期間中、全プレイヤーの挑戦時間及び挑戦データは全て記録され、他のプレイヤーに参考されることができます。
+    code: mission_targettrain_1736
+    rank: 1
+    rank_inorder: 1
+    hit_rank: 1
+    hit_rank_inorder: 1
+    difficult_level_limit: 1
+    difficult_level: 1
+    recommend_level: 100
+    target_id: "2413"
+    battle_timelimit: 300
+    is_time_limit: 1
+    start_time: 2023-01-13 13:00:00
+    end_time: 2023-02-10 13:00:00
+    cost_item: "9,5"
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    prize_reward: 61:10000,62:10000,63:10000
+  }
 ]

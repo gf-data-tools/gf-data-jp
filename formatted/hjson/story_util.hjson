@@ -9011,96 +9011,723 @@
   }
   {
     id: 829
+    mission_id: "10799"
+    description: 「お前は平和を求めている、そして平和のために戦っている」
+    scripts: -48-1-0
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ①
+    start: -48-1-0
+  }
+  {
+    id: 830
+    mission_id: "10851"
+    description: 「今日こそ調べてやる……誰にも邪魔させはしない」
+    scripts: -48-1-1
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ②
+    start: -48-1-1
+  }
+  {
+    id: 831
+    mission_id: "10801"
+    description: 「あれはライトが一番使いこなしていたショットガンだ。ライトはここで戦っていた」
+    scripts: -48-1-2-First,-48-1-2-point1,-48-1-2-point2,-48-1-2-point3,-48-1-2-point4
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ③
+    start: -48-1-2-First
+    point: 64307:-48-1-2-point3,64302:-48-1-2-point4
+  }
+  {
+    id: 832
+    mission_id: "10852"
+    description: 「薬瓶の表面には薄っすらと埃が被っていた……ガラテアグループの物だ」
+    scripts: -48-1-3
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ④
+    start: -48-1-3
+  }
+  {
+    id: 833
+    mission_id: "10853"
+    description: 「お父様、どうか私を信じてください」
+    scripts: -48-1-4
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑤
+    start: -48-1-4
+  }
+  {
+    id: 834
+    mission_id: "10854"
+    description: 「『チャンス』だけなら、意味はない。グリフィンは失望させられるのが嫌いだ」
+    scripts: -48-1-6
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑦
+    start: -48-1-6
+  }
+  {
+    id: 835
+    mission_id: "10855"
+    description: 「この件を調べたいんなら、シュタージに残る以外の道はない」
+    scripts: -48-1-7
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑧
+    start: -48-1-7
+  }
+  {
+    id: 836
+    mission_id: "10856"
+    description: 「医学の研究に身を投じた以上、私たちは皆、覚悟ができています！必ず最後まで戦い抜いてみせます！」
+    scripts: -48-1-9
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑩
+    start: -48-1-9
+  }
+  {
+    id: 837
+    mission_id: "10857"
+    description: 「私はガラテアの研究員です、薬を持っています」
+    scripts: -48-1-10
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑪
+    start: -48-1-10
+  }
+  {
+    id: 838
+    mission_id: "10858"
+    description: 「未来とはあまりにも儚い。今のドイツは、今を見ることしかできない」
+    scripts: -48-1-12
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑫
+    start: -48-1-12
+  }
+  {
+    id: 839
+    mission_id: "10859"
+    description: 「オレはシュタージのエージェント、Kの同僚だ。Jって呼んでくれ」
+    scripts: -48-1-13
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑭
+    start: -48-1-13
+  }
+  {
+    id: 840
+    mission_id: "10860"
+    description: 「こんな国はもう、我々の尽くしてきた祖国ではない」
+    scripts: -48-1-14
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⑮
+    start: -48-1-14
+  }
+  {
+    id: 841
+    mission_id: "10861"
+    description: 「コードネームは『ニオ』、目標は失踪した貨物車だ」
+    scripts: -48-2-1
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅰ
+    start: -48-2-1
+  }
+  {
+    id: 842
+    mission_id: "10862"
+    description: 「……心配しないでください、また会うまでに、そんなに時間はかからないと思います」
+    scripts: -48-2-2
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅱ
+    start: -48-2-2
+  }
+  {
+    id: 843
+    mission_id: "10863"
+    description: 「なぜなんでもできるのに、お父様に逆らうわけ？」
+    scripts: -48-2-4
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅳ
+    start: -48-2-4
+  }
+  {
+    id: 844
+    mission_id: "10864"
+    description: 「時計の針がチクタクと進むにつれ、Jの表情も段々と険しくなっていく」
+    scripts: -48-2-5
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅴ
+    start: -48-2-5
+  }
+  {
+    id: 845
+    mission_id: "10865"
+    description: 「我々は未だに、敵の正体を掴めていないからだ」
+    scripts: -48-2-6
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅵ
+    start: -48-2-6
+  }
+  {
+    id: 846
+    mission_id: "10866"
+    description: 「わたしを獲物にするやつは初めてね……フフフッ、いいよ、お前らの実力見せてもらおうじゃない！」
+    scripts: -48-2-8
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅷ
+    start: -48-2-8
+  }
+  {
+    id: 847
+    mission_id: "10867"
+    description: 「騙された世論と、隠された真相」
+    scripts: -48-2-9
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅸ
+    start: -48-2-9
+  }
+  {
+    id: 848
+    mission_id: "10868"
+    description: 「協力者ってのは、そんなに簡単なもんじゃないぞ、ネーレちゃん？」
+    scripts: -48-2-11
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Ⅺ
+    start: -48-2-11
+  }
+  {
+    id: 849
+    mission_id: "10869"
+    description: 「ブラメドという名のネイトが、動き始める」
+    scripts: -48-2-12
+    campaign: -48
+    bgm: BGM_Frontline
+    title: XII
+    start: -48-2-12
+  }
+  {
+    id: 850
+    mission_id: "10870"
+    description: 「失敗作に、存在する意味はない。姉様が教えてくれたことだ」
+    scripts: -48-2-14
+    campaign: -48
+    bgm: BGM_Frontline
+    title: XIV
+    start: -48-2-14
+  }
+  {
+    id: 851
+    mission_id: "10871"
+    description: 「君の血は、まだ熱いままだ」
+    scripts: -48-2-15
+    campaign: -48
+    bgm: BGM_Frontline
+    title: XV
+    start: -48-2-15
+  }
+  {
+    id: 852
+    mission_id: "10872"
+    description: 「数分前の情交は、ただの演技だった」
+    scripts: -48-3-1
+    campaign: -48
+    bgm: BGM_Frontline
+    title: IA
+    start: -48-3-1
+  }
+  {
+    id: 853
+    mission_id: "10873"
+    description: 「ニモゲンが助けてくれましたし、そのお返しということで」
+    scripts: -48-3-2
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅡA
+    start: -48-3-2
+  }
+  {
+    id: 854
+    mission_id: "10874"
+    description: 「依頼人の名前は——ウムルス」
+    scripts: -48-3-4
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅣB
+    start: -48-3-4
+  }
+  {
+    id: 855
+    mission_id: "10875"
+    description: 「グレイ小学校には一年生しかいないのか？」
+    scripts: -48-3-5
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅤB
+    start: -48-3-5
+  }
+  {
+    id: 856
+    mission_id: "10876"
+    description: 「これは無謀じゃねぇ、なんなら今までで一番核心に近づいている」
+    scripts: -48-3-6
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅥB
+    start: -48-3-6
+  }
+  {
+    id: 857
+    mission_id: "10877"
+    description: 「この民族の未来を損なうような真似はしない。俺のすることは、すべてこの国のためにある」
+    scripts: -48-3-8
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅠB
+    start: -48-3-8
+  }
+  {
+    id: 858
+    mission_id: "10878"
+    description: 「時は来た、役者はそろった」
+    scripts: -48-3-9
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅡB
+    start: -48-3-9
+  }
+  {
+    id: 859
+    mission_id: "10879"
+    description: 「この武器をなくしたら、あなただって責任を問われるわ！」
+    scripts: -48-3-10
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅢA
+    start: -48-3-10
+  }
+  {
+    id: 860
+    mission_id: "10880"
+    description: 「思い出しました……AR小隊には、もう一人人形がいましたね……」
+    scripts: -48-3-12
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅤA
+    start: -48-3-12
+  }
+  {
+    id: 861
+    mission_id: "10881"
+    description: 「まるで、時を超えたような再会みたいだ」
+    scripts: -48-3-14
+    campaign: -48
+    bgm: BGM_Frontline
+    title: ⅦA
+    start: -48-3-14
+  }
+  {
+    id: 862
+    mission_id: "10882"
+    description: 「彼女はM4であって、M4ではない」
+    scripts: -48-4-1
+    campaign: -48
+    bgm: BGM_Frontline
+    title: alpha
+    start: -48-4-1
+  }
+  {
+    id: 863
+    mission_id: "10883"
+    description: 「先生、かつてのあなたは慈悲に溢れる心を持っていました」
+    scripts: -48-4-2
+    campaign: -48
+    bgm: BGM_Frontline
+    title: beta
+    start: -48-4-2
+  }
+  {
+    id: 864
+    mission_id: "10884"
+    description: 「あなたが行くのなら、わたしも行く」
+    scripts: -48-4-3
+    campaign: -48
+    bgm: BGM_Frontline
+    title: gamma
+    start: -48-4-3
+  }
+  {
+    id: 865
+    mission_id: "10813,10833"
+    description: 「あっちでパラデウスが掃除してるよ……」
+    scripts: -48-4-4-point1,-48-4-4-point2
+    campaign: -48
+    bgm: BGM_Frontline
+    title: delta
+  }
+  {
+    id: 866
+    mission_id: "10885"
+    description: 「アンジェはこの工場の中にいる。彼女の言葉を信じるのなら……」
+    scripts: -48-4-5
+    campaign: -48
+    bgm: BGM_Frontline
+    title: epsilon
+    start: -48-4-5
+  }
+  {
+    id: 867
+    mission_id: "10886"
+    description: 「……生きろ、J。生きて彼らの仇を取れ」
+    scripts: -48-4-7
+    campaign: -48
+    bgm: BGM_Frontline
+    title: eta
+    start: -48-4-7
+  }
+  {
+    id: 868
+    mission_id: "10834"
+    description: 「ここと同じ工場は……もう一か所ある」
+    campaign: -48
+    bgm: BGM_Frontline
+    title: theta
+    point: 74104:-48-EXT-4-3-2
+  }
+  {
+    id: 869
+    mission_id: "10887"
+    description: 「あいつは最初から、オレたちを罠に嵌めようとした」
+    scripts: -48-4-9
+    campaign: -48
+    bgm: BGM_Frontline
+    title: iota
+    start: -48-4-9
+  }
+  {
+    id: 870
+    mission_id: "10888"
+    description: 「いつも他人に代償を払わせるばかりだ……自分の身勝手さのために……」
+    scripts: -48-4-11
+    campaign: -48
+    bgm: BGM_Frontline
+    title: lambda
+    start: -48-4-11
+  }
+  {
+    id: 871
+    mission_id: "10889"
+    description: 「そろそろ、友人を変える時かもしれんな」
+    scripts: -48-4-12
+    campaign: -48
+    bgm: BGM_Frontline
+    title: mu
+    start: -48-4-12
+  }
+  {
+    id: 872
+    mission_id: "10890"
+    description: 「今日はドイツにとって、記念すべき日となるだろう」
+    scripts: -48-4-13
+    campaign: -48
+    bgm: BGM_Frontline
+    title: nu
+    start: -48-4-13
+  }
+  {
+    id: 873
+    mission_id: "10891"
+    description: 「カレンダーの上に、大きな赤い丸が描かれていた。今日はめでたい日だ」
+    scripts: -48-5-1
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "1"
+    start: -48-5-1
+  }
+  {
+    id: 874
+    mission_id: "10892"
+    description: 「あの快い夜のなかへおとなしく流されてはいけない」
+    scripts: -48-5-3
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "11"
+    start: -48-5-3
+  }
+  {
+    id: 875
+    mission_id: "10818,10837"
+    description: 「我々はまだ負けていない。まだ、我々を待っている仲間がいる」
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "100"
+    point: 74365:-48-EXT-5-2-2,74431:-48-EXT-5-2-2
+  }
+  {
+    id: 876
+    mission_id: "10893"
+    description: 「目に見えるものがすべて真実じゃない。あまり自分の目に頼らない方がいいわね、指揮官」
+    scripts: -48-5-5
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "101"
+    start: -48-5-5
+  }
+  {
+    id: 877
+    mission_id: "10894"
+    description: 「今度はそっちの番だ。アンジェを確認させろ」
+    scripts: -48-5-6
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "110"
+    start: -48-5-6
+  }
+  {
+    id: 878
+    mission_id: "10820,10839"
+    description: 「ちょうどいいタイミングみたいですね」
+    scripts: -48-5-7-point
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "111"
+    round: 4:-48-5-7-point
+  }
+  {
+    id: 879
+    mission_id: "10895"
+    description: 「我々が勝つための唯一の希望は、メンタルサーバーを無事、送り出すことだ」
+    scripts: -48-5-8
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "1000"
+    start: -48-5-8
+  }
+  {
+    id: 880
+    mission_id: "10819,10838"
+    description: 「ただ死者のみが戦争の終わりを見ることができる」
+    scripts: -48-5-9-point
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "1001"
+    start: -48-5-9-point
+  }
+  {
+    id: 881
+    mission_id: "10896"
+    description: 「グリフィンの未来はまた、我々の手に委ねられた」
+    scripts: -48-5-10
+    campaign: -48
+    bgm: BGM_Frontline
+    title: "1010"
+    start: -48-5-10
+  }
+  {
+    id: 882
+    mission_id: "10897"
+    description: 「この工場が、一つの小さな博物館のように感じていた。愛と、死と、人形の」
+    scripts: -48-6-1
+    campaign: -48
+    bgm: BGM_Frontline
+    title: pico
+    start: -48-6-1
+  }
+  {
+    id: 883
+    mission_id: "10898"
+    description: 「私たちだけで、あいつらをここに食い止める」
+    scripts: -48-6-2
+    campaign: -48
+    bgm: BGM_Frontline
+    title: nano
+    start: -48-6-2
+  }
+  {
+    id: 884
+    mission_id: "10899"
+    description: 「立ちなさい、みんな後ろで見ていますわよ」
+    scripts: -48-6-4
+    campaign: -48
+    bgm: BGM_Frontline
+    title: milli
+    start: -48-6-4
+  }
+  {
+    id: 885
+    mission_id: "10900"
+    description: 「ベルリンで会おう」
+    scripts: -48-6-6
+    campaign: -48
+    bgm: BGM_Frontline
+    title: deci
+    start: -48-6-6
+  }
+  {
+    id: 886
+    mission_id: "10901"
+    description: 「とある特別顧問に来てもらった」
+    scripts: -48-6-7
+    campaign: -48
+    bgm: BGM_Frontline
+    title: deca
+    start: -48-6-7
+  }
+  {
+    id: 887
+    mission_id: "10821,10840"
+    description: 「ソ連では、入れ墨と言えば犯罪者だからな」
+    campaign: -48
+    bgm: BGM_Frontline
+    title: hecta
+    point: 74687:-48-EXT-6-1,74782:-48-EXT-6-1
+  }
+  {
+    id: 888
+    mission_id: "10902"
+    description: 「――あなたに死を、届けに参りました」
+    scripts: -48-6-9
+    campaign: -48
+    bgm: BGM_Frontline
+    title: kilo
+    start: -48-6-9
+  }
+  {
+    id: 889
+    mission_id: "10824,10842"
+    description: 「今回はこっちの番よ」――by Bramedb
+    scripts: -48-6-10-point
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Mega
+    start: -48-6-10-point
+  }
+  {
+    id: 890
+    mission_id: "10903"
+    description: 「おたく、ますますシュタージに似てきてるぜ」
+    scripts: -48-6-11
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Giga
+    start: -48-6-11
+  }
+  {
+    id: 891
+    mission_id: "10904"
+    description: 「主よ、永遠の安息をかれに与え。絶えざる光をかれの上に照らし給え。かれの安らかに憩わんことを」
+    scripts: -48-6-12
+    campaign: -48
+    bgm: BGM_Frontline
+    title: Tera
+    start: -48-6-12
+  }
+  {
+    id: 910
     mission_id: "10980"
-    description: story_util-10000829
+    description: ディジュリドゥ演奏指導
     scripts: -32-1-1,-32-1-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000829
+    title: ディジュリドゥ演奏指導
     start: -32-1-1
     first: -32-1-2First
     end: -32-1-2First
   }
   {
-    id: 830
+    id: 911
     mission_id: "10981"
-    description: story_util-10000830
+    description: 青春期
     scripts: -32-2-1,-32-2-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000830
+    title: 青春期
     start: -32-2-1
     first: -32-2-2First
     end: -32-2-2First
   }
   {
-    id: 831
+    id: 912
     mission_id: "10982"
-    description: story_util-10000831
+    description: 先駆者
     scripts: -32-3-1,-32-3-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000831
+    title: 先駆者
     start: -32-3-1
     first: -32-3-2First
     end: -32-3-2First
   }
   {
-    id: 832
+    id: 913
     mission_id: "10983"
-    description: story_util-10000832
+    description: ソニックブーム
     scripts: -32-4-1,-32-4-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000832
+    title: ソニックブーム
     start: -32-4-1
     first: -32-4-2First
     end: -32-4-2First
   }
   {
-    id: 833
+    id: 914
     mission_id: "10984"
-    description: story_util-10000833
+    description: 鶏むね肉
     scripts: -32-5-1,-32-5-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000833
+    title: 鶏むね肉
     start: -32-5-1
     first: -32-5-2First
     end: -32-5-2First
   }
   {
-    id: 834
+    id: 915
     mission_id: "10985"
-    description: story_util-10000834
+    description: スピーチ恐怖症
     scripts: -32-6-1,-32-6-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000834
+    title: スピーチ恐怖症
     start: -32-6-1
     first: -32-6-2First
     end: -32-6-2First
   }
   {
-    id: 835
+    id: 916
     mission_id: "10986"
-    description: story_util-10000835
+    description: 本音大冒険
     scripts: -32-7-1,-32-7-2First
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000835
+    title: 本音大冒険
     start: -32-7-1
     first: -32-7-2First
     end: -32-7-2First
   }
   {
-    id: 836
+    id: 917
     mission_id: "10987"
-    description: story_util-10000836
+    description: この世界最後の雨
     scripts: -32-8-1,-32-8-2First,-32-8-2End,-32-8-4-Point12833
     campaign: -32
     bgm: BGM_Frontline
-    title: story_util-20000836
+    title: この世界最後の雨
     start: -32-8-1
     point: 12833:-32-8-4-Point12833
     first: -32-8-2First

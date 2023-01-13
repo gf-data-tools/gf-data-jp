@@ -10207,7 +10207,7 @@
     creation_delay: "0,21,0"
     sound_order: BT_BOSS_skill
     sound_delay: "31"
-    effect_order: 3(Bramede;曼珠沙华舞;曼珠沙华舞;Bramede),7(redshine),7(redshine)
+    effect_order: 3(Bramede;曼珠沙華の舞;曼珠沙華の舞;Bramede),7(redshine),7(redshine)
     effect_delay: "20,0,10"
     effect_duration: "1,10,10"
     stop_time_duration: "30"
@@ -14506,7 +14506,7 @@
     name: ***
     action_order: "3"
     action_playspeed: "100"
-    creation_order: "565701,565702,565703,565704,565705,565706,565707,565708,565709"
+    creation_order: "565701,565702,565703,565704,565705,565706,565707,565708,565709,565710"
     creation_delay: "0,0,0,0,0,0,0,0,5"
   }
   {
@@ -14514,7 +14514,7 @@
     name: ***
     action_order: "3"
     action_playspeed: "80"
-    creation_order: "565701,565702,565703,565704,565705,565706,565707,565708"
+    creation_order: "565701,565702,565703,565704,565705,565706,565707,565708,565710"
     creation_delay: "0,0,0,0,0,0,0,0"
   }
   {
@@ -15570,7 +15570,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5811,21,138,581101,581102"
-    creation_delay: "0,0,0,3,3"
+    creation_delay: "0,0,0,3,6"
   }
   {
     id: 5525
@@ -15578,7 +15578,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5812,21,138,581201,581102"
-    creation_delay: "0,0,0,3,3"
+    creation_delay: "0,0,0,3,6"
   }
   {
     id: 5526
@@ -16276,7 +16276,7 @@
     creation_order: "8115,8116,8132,8138,8139,8142,8147,4062,4063"
     creation_delay: "90,115,25,80,115,90,85,0,21"
     sound_delay: "3"
-    effect_order: 3(Teal;落空蝉;Fallen Cicada;TEAL),7(redshine),7(redshine)
+    effect_order: 3(Teal;空蝉落とし;Fallen Cicada;TEAL),7(redshine),7(redshine)
     effect_delay: "20,0,10"
     effect_duration: "1,10,10"
     move_order: "1006"
@@ -19668,7 +19668,7 @@
     action_order: skill3
     action_playspeed: "100"
     creation_order: "8729,8730"
-    creation_delay: "25,30"
+    creation_delay: "25,24"
     sound_order: BT_TheresaSpearDash
     sound_delay: "25"
   }
@@ -22672,6 +22672,56 @@
     creation_order: "570130"
   }
   {
+    id: 541831
+    name: 刘皮肤7701增援lv1
+    creation_order: "570131"
+  }
+  {
+    id: 541832
+    name: 刘皮肤7701增援lv2
+    creation_order: "570132"
+  }
+  {
+    id: 541833
+    name: 刘皮肤7701增援lv3
+    creation_order: "570133"
+  }
+  {
+    id: 541834
+    name: 刘皮肤7701增援lv4
+    creation_order: "570134"
+  }
+  {
+    id: 541835
+    name: 刘皮肤7701增援lv5
+    creation_order: "570135"
+  }
+  {
+    id: 541836
+    name: 刘皮肤7701增援lv6
+    creation_order: "570136"
+  }
+  {
+    id: 541837
+    name: 刘皮肤7701增援lv7
+    creation_order: "570137"
+  }
+  {
+    id: 541838
+    name: 刘皮肤7701增援lv8
+    creation_order: "570138"
+  }
+  {
+    id: 541839
+    name: 刘皮肤7701增援lv9
+    creation_order: "570139"
+  }
+  {
+    id: 541840
+    name: 刘皮肤7701增援lv10
+    creation_order: "570140"
+  }
+  {
     id: 542701
     name: 警卫EX普攻
     action_order: sp
@@ -23889,7 +23939,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5811,21,138,581101,581103"
-    creation_delay: "0,0,0,3,3"
+    creation_delay: "0,0,0,3,6"
   }
   {
     id: 552402
@@ -23897,7 +23947,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5811,21,138,581101,581104"
-    creation_delay: "0,0,0,3,3"
+    creation_delay: "0,0,0,3,6"
   }
   {
     id: 552501
@@ -23905,7 +23955,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5812,21,138,581201,581103"
-    creation_delay: "0,0,0,3,3"
+    creation_delay: "0,0,0,3,6"
   }
   {
     id: 552502
@@ -23913,7 +23963,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5812,21,138,581201,581104"
-    creation_delay: "0,0,0,3,3"
+    creation_delay: "0,0,0,3,6"
   }
   {
     id: 552701

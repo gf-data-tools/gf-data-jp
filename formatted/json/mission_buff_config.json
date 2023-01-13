@@ -3500,7 +3500,7 @@
     {
         "id": 480102,
         "name": "mission_buff_config-10480102",
-        "description": "mission_buff_config-20480102",
+        "description": "EMP携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -3533,7 +3533,7 @@
     {
         "id": 481400,
         "name": "mission_buff_config-10481400",
-        "description": "mission_buff_config-20481400",
+        "description": "炸薬携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -3763,8 +3763,8 @@
     },
     {
         "id": 482430,
-        "name": "mission_buff_config-10482430",
-        "description": "mission_buff_config-20482430",
+        "name": "ダミー配置cost",
+        "description": "布置傀儡cost",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -3896,7 +3896,7 @@
     {
         "id": 483501,
         "name": "mission_buff_config-10483501",
-        "description": "mission_buff_config-20483501",
+        "description": "炸薬携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -3962,7 +3962,7 @@
     {
         "id": 483601,
         "name": "mission_buff_config-10483601",
-        "description": "mission_buff_config-20483601",
+        "description": "炸薬携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -4028,7 +4028,7 @@
     {
         "id": 483903,
         "name": "mission_buff_config-10483903",
-        "description": "mission_buff_config-20483903",
+        "description": "プラスチック爆弾携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -6800,7 +6800,7 @@
     {
         "id": 6480001,
         "name": "mission_buff_config-16480001",
-        "description": "mission_buff_config-26480001",
+        "description": "各ステータスを低下",
         "code": "debuff",
         "type": 2,
         "duration_type": "1",
@@ -6833,7 +6833,7 @@
     {
         "id": 6480002,
         "name": "mission_buff_config-16480002",
-        "description": "mission_buff_config-26480002",
+        "description": "炸薬携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -6866,7 +6866,7 @@
     {
         "id": 6480003,
         "name": "mission_buff_config-16480003",
-        "description": "mission_buff_config-26480003",
+        "description": "プラスチック爆弾携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
@@ -6899,7 +6899,7 @@
     {
         "id": 6480004,
         "name": "mission_buff_config-16480004",
-        "description": "mission_buff_config-26480004",
+        "description": "プラスチック爆弾携帯中",
         "code": "",
         "type": 1,
         "duration_type": "1",
