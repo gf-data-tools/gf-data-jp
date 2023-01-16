@@ -1,37 +1,18 @@
 [
-    {
-        "id": 1,
-        "name": "chess_seasonevent-10000001",
-        "start_time": "2022-02-25 13:00:00",
-        "end_time": "2022-05-06 13:00:00",
-        "mission_id": 1
-    },
-    {
-        "id": 2,
-        "name": "chess_seasonevent-10000002",
-        "start_time": "2022-05-09 13:00:00",
-        "end_time": "2022-06-10 13:00:00",
-        "mission_id": 2
-    },
-    {
-        "id": 3,
-        "name": "chess_seasonevent-10000003",
-        "start_time": "2022-06-24 13:00:00",
-        "end_time": "2022-09-02 13:00:00",
-        "mission_id": 3
-    },
-    {
-        "id": 4,
-        "name": "chess_seasonevent-10000004",
-        "start_time": "2022-09-16 13:00:00",
-        "end_time": "2022-11-18 13:00:00",
-        "mission_id": 1
-    },
-    {
-        "id": 5,
-        "name": "chess_seasonevent-10000005",
-        "start_time": "2022-12-02 13:00:00",
-        "end_time": "2023-02-03 13:00:00",
-        "mission_id": 2
-    }
+  {
+    "id": 1, "name": "chess_seasonevent-10000001", "start_time": "2022-02-25 13:00:00", "end_time": "2022-05-06 13:00:00", 
+    "mission_id": 1
+  }, {
+    "id": 2, "name": "chess_seasonevent-10000002", "start_time": "2022-05-09 13:00:00", "end_time": "2022-06-10 13:00:00", 
+    "mission_id": 2
+  }, {
+    "id": 3, "name": "chess_seasonevent-10000003", "start_time": "2022-06-24 13:00:00", "end_time": "2022-09-02 13:00:00", 
+    "mission_id": 3
+  }, {
+    "id": 4, "name": "chess_seasonevent-10000004", "start_time": "2022-09-16 13:00:00", "end_time": "2022-11-18 13:00:00", 
+    "mission_id": 1
+  }, {
+    "id": 5, "name": "chess_seasonevent-10000005", "start_time": "2022-12-02 13:00:00", "end_time": "2023-02-03 13:00:00", 
+    "mission_id": 2
+  }
 ]

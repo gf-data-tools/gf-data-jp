@@ -1,1136 +1,364 @@
 [
-    {
-        "id": 101,
-        "name": "ターゲット調整",
-        "des": "ターゲット調整",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950046,
-        "log_fitter_id": 0,
-        "log_fitter_name": "ターゲット調整",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 102,
-        "name": "ターゲット調整",
-        "des": "ターゲット調整",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950047,
-        "log_fitter_id": 0,
-        "log_fitter_name": "ターゲット調整",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 103,
-        "name": "ターゲット調整",
-        "des": "ターゲット調整",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950048,
-        "log_fitter_id": 0,
-        "log_fitter_name": "ターゲット調整",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 104,
-        "name": "ターゲット調整",
-        "des": "ターゲット調整",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950049,
-        "log_fitter_id": 0,
-        "log_fitter_name": "ターゲット調整",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 105,
-        "name": "ターゲット調整",
-        "des": "ターゲット調整",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950050,
-        "log_fitter_id": 0,
-        "log_fitter_name": "ターゲット調整",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 301,
-        "name": "ケルベロス",
-        "des": "特殊ターゲット-ケルベロス、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！",
-        "power": 126250,
-        "recommend_power": 126250,
-        "enemy_team_id": 2371,
-        "log_fitter_id": 0,
-        "log_fitter_name": "ケルベロス",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 401,
-        "name": "エゴール",
-        "des": "特殊ターゲット-エゴール、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！",
-        "power": 143733,
-        "recommend_power": 143733,
-        "enemy_team_id": 9130301,
-        "log_fitter_id": 0,
-        "log_fitter_name": "エゴール",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 501,
-        "name": "失格異性体",
-        "des": "特殊ターゲット-失格異性体、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！",
-        "power": 154709,
-        "recommend_power": 154709,
-        "enemy_team_id": 337257,
-        "log_fitter_id": 0,
-        "log_fitter_name": "失格異性体",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 601,
-        "name": "M16A1!",
-        "des": "特殊ターゲット-M16A1!、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！",
-        "power": 169976,
-        "recommend_power": 169976,
-        "enemy_team_id": 317907,
-        "log_fitter_id": 0,
-        "log_fitter_name": "M16A1!",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 701,
-        "name": "mission_targettrain_enemy-10000701",
-        "des": "特殊ターゲット-掩護中隊、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！",
-        "power": 175920,
-        "recommend_power": 175920,
-        "enemy_team_id": 1770,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30000701",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 801,
-        "name": "mission_targettrain_enemy-10000801",
-        "des": "mission_targettrain_enemy-20000801",
-        "power": 73800,
-        "recommend_power": 73800,
-        "enemy_team_id": 9411205,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30000801",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 901,
-        "name": "mission_targettrain_enemy-10000901",
-        "des": "mission_targettrain_enemy-20000901",
-        "power": 91475,
-        "recommend_power": 91475,
-        "enemy_team_id": 9410318,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30000901",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1001,
-        "name": "mission_targettrain_enemy-10001001",
-        "des": "mission_targettrain_enemy-20001001",
-        "power": 100248,
-        "recommend_power": 100248,
-        "enemy_team_id": 9411206,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001001",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1101,
-        "name": "mission_targettrain_enemy-10001101",
-        "des": "mission_targettrain_enemy-20001101",
-        "power": 80829,
-        "recommend_power": 80829,
-        "enemy_team_id": 9411407,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001101",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1201,
-        "name": "mission_targettrain_enemy-10001201",
-        "des": "mission_targettrain_enemy-20001201",
-        "power": 248736,
-        "recommend_power": 248736,
-        "enemy_team_id": 9411408,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001201",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1301,
-        "name": "mission_targettrain_enemy-10001301",
-        "des": "mission_targettrain_enemy-20001301",
-        "power": 407438,
-        "recommend_power": 407438,
-        "enemy_team_id": 9411422,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001301",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1601,
-        "name": "mission_targettrain_enemy-10001601",
-        "des": "mission_targettrain_enemy-20001601",
-        "power": 40866,
-        "recommend_power": 40866,
-        "enemy_team_id": 336405,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001601",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1701,
-        "name": "mission_targettrain_enemy-10001701",
-        "des": "mission_targettrain_enemy-20001701",
-        "power": 70480,
-        "recommend_power": 70480,
-        "enemy_team_id": 390149,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001701",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1801,
-        "name": "mission_targettrain_enemy-10001801",
-        "des": "mission_targettrain_enemy-20001801",
-        "power": 88645,
-        "recommend_power": 88645,
-        "enemy_team_id": 9411418,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001801",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 1901,
-        "name": "mission_targettrain_enemy-10001901",
-        "des": "mission_targettrain_enemy-20001901",
-        "power": 55346,
-        "recommend_power": 55346,
-        "enemy_team_id": 9130113,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30001901",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2001,
-        "name": "mission_targettrain_enemy-10002001",
-        "des": "mission_targettrain_enemy-20002001",
-        "power": 169976,
-        "recommend_power": 169976,
-        "enemy_team_id": 317907,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002001",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2101,
-        "name": "mission_targettrain_enemy-10002101",
-        "des": "mission_targettrain_enemy-20002101",
-        "power": 172301,
-        "recommend_power": 172301,
-        "enemy_team_id": 317993,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002101",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2201,
-        "name": "mission_targettrain_enemy-10002201",
-        "des": "mission_targettrain_enemy-20002201",
-        "power": 244970,
-        "recommend_power": 244970,
-        "enemy_team_id": 317994,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002201",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2401,
-        "name": "mission_targettrain_enemy-10002401",
-        "des": "mission_targettrain_enemy-20002401",
-        "power": 124783,
-        "recommend_power": 124783,
-        "enemy_team_id": 6441807,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002401",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2402,
-        "name": "mission_targettrain_enemy-10002402",
-        "des": "mission_targettrain_enemy-20002402",
-        "power": 237147,
-        "recommend_power": 237147,
-        "enemy_team_id": 44400003,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002402",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2403,
-        "name": "mission_targettrain_enemy-10002403",
-        "des": "mission_targettrain_enemy-20002403",
-        "power": 418751,
-        "recommend_power": 418751,
-        "enemy_team_id": 6441801,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002403",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2404,
-        "name": "mission_targettrain_enemy-10002404",
-        "des": "mission_targettrain_enemy-20002404",
-        "power": 77122,
-        "recommend_power": 77122,
-        "enemy_team_id": 334701,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002404",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2405,
-        "name": "mission_targettrain_enemy-10002405",
-        "des": "mission_targettrain_enemy-20002405",
-        "power": 73455,
-        "recommend_power": 73455,
-        "enemy_team_id": 336807,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002405",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2406,
-        "name": "mission_targettrain_enemy-10002406",
-        "des": "mission_targettrain_enemy-20002406",
-        "power": 251937,
-        "recommend_power": 251937,
-        "enemy_team_id": 336901,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002406",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2407,
-        "name": "mission_targettrain_enemy-10002407",
-        "des": "mission_targettrain_enemy-20002407",
-        "power": 272650,
-        "recommend_power": 272650,
-        "enemy_team_id": 461008,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002407",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2408,
-        "name": "mission_targettrain_enemy-10002408",
-        "des": "mission_targettrain_enemy-20002408",
-        "power": 219183,
-        "recommend_power": 219183,
-        "enemy_team_id": 363099,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002408",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2409,
-        "name": "mission_targettrain_enemy-10002409",
-        "des": "mission_targettrain_enemy-20002409",
-        "power": 149503,
-        "recommend_power": 149503,
-        "enemy_team_id": 362921,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002409",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2410,
-        "name": "mission_targettrain_enemy-10002410",
-        "des": "mission_targettrain_enemy-20002410",
-        "power": 34544,
-        "recommend_power": 34544,
-        "enemy_team_id": 362801,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002410",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2411,
-        "name": "mission_targettrain_enemy-10002411",
-        "des": "mission_targettrain_enemy-20002411",
-        "power": 360000,
-        "recommend_power": 360000,
-        "enemy_team_id": 480142,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002411",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2412,
-        "name": "mission_targettrain_enemy-10002412",
-        "des": "mission_targettrain_enemy-20002412",
-        "power": 480000,
-        "recommend_power": 480000,
-        "enemy_team_id": 480143,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002412",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 2413,
-        "name": "mission_targettrain_enemy-10002413",
-        "des": "mission_targettrain_enemy-20002413",
-        "power": 184845,
-        "recommend_power": 184845,
-        "enemy_team_id": 6486203,
-        "log_fitter_id": 0,
-        "log_fitter_name": "mission_targettrain_enemy-30002413",
-        "code": "Targettrain_SingleTarget",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20101,
-        "name": "一匹狼",
-        "des": "作戦能力さえ基準に到達していれば楽に対処できる。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950001,
-        "log_fitter_id": 201,
-        "log_fitter_name": "通常敵グループ(低装甲/中HP)",
-        "code": "Targettrain_950001",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20102,
-        "name": "密集の悪夢",
-        "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950006,
-        "log_fitter_id": 202,
-        "log_fitter_name": "密集型敵グループ(高HP)",
-        "code": "Targettrain_950006",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20103,
-        "name": "盾の裏からの奇襲",
-        "des": "盾は厄介な存在だが、その裏にある剣を失ってしまえば、盾もまた存在意義を失う。(敵後衛を優先して攻撃できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950011,
-        "log_fitter_id": 203,
-        "log_fitter_name": "ガン&シールド",
-        "code": "Targettrain_950011",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20104,
-        "name": "屈折信仰",
-        "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950016,
-        "log_fitter_id": 204,
-        "log_fitter_name": "白い敵グループ",
-        "code": "Targettrain_950016",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20105,
-        "name": "移動爆弾",
-        "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950021,
-        "log_fitter_id": 205,
-        "log_fitter_name": "クイック爆破",
-        "code": "Targettrain_950021",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20106,
-        "name": "金城鉄壁",
-        "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950026,
-        "log_fitter_id": 206,
-        "log_fitter_name": "エリート肉壁",
-        "code": "Targettrain_950026",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20107,
-        "name": "破壊の嵐",
-        "des": "群れを成したマンティコアに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950031,
-        "log_fitter_id": 207,
-        "log_fitter_name": "無敵のペア",
-        "code": "Targettrain_950031",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20108,
-        "name": "天眼の狩人",
-        "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950036,
-        "log_fitter_id": 208,
-        "log_fitter_name": "巨像来たる",
-        "code": "Targettrain_950036",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20109,
-        "name": "コイオス！",
-        "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950041,
-        "log_fitter_id": 209,
-        "log_fitter_name": "コイオス！",
-        "code": "Targettrain_950041",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20201,
-        "name": "一匹狼",
-        "des": "作戦能力さえ基準に到達していれば楽に対処できる。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950002,
-        "log_fitter_id": 201,
-        "log_fitter_name": "通常敵グループ(低装甲/中HP)",
-        "code": "Targettrain_950002",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20202,
-        "name": "密集の悪夢",
-        "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950007,
-        "log_fitter_id": 202,
-        "log_fitter_name": "密集型敵グループ(高HP)",
-        "code": "Targettrain_950007",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20203,
-        "name": "盾の裏からの奇襲",
-        "des": "盾は厄介な存在だが、その裏にある剣を失ってしまえば、盾もまた存在意義を失う。(敵後衛を優先して攻撃できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950012,
-        "log_fitter_id": 203,
-        "log_fitter_name": "ガン&シールド",
-        "code": "Targettrain_950012",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20204,
-        "name": "屈折信仰",
-        "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950017,
-        "log_fitter_id": 204,
-        "log_fitter_name": "白い敵グループ",
-        "code": "Targettrain_950017",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20205,
-        "name": "移動爆弾",
-        "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950022,
-        "log_fitter_id": 205,
-        "log_fitter_name": "クイック爆破",
-        "code": "Targettrain_950022",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20206,
-        "name": "金城鉄壁",
-        "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950027,
-        "log_fitter_id": 206,
-        "log_fitter_name": "エリート肉壁",
-        "code": "Targettrain_950027",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20207,
-        "name": "破壊の嵐",
-        "des": "群れを成したマンティコアに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950032,
-        "log_fitter_id": 207,
-        "log_fitter_name": "無敵のペア",
-        "code": "Targettrain_950032",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20208,
-        "name": "天眼の狩人",
-        "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950037,
-        "log_fitter_id": 208,
-        "log_fitter_name": "巨像来たる",
-        "code": "Targettrain_950037",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20209,
-        "name": "コイオス！",
-        "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950042,
-        "log_fitter_id": 209,
-        "log_fitter_name": "コイオス！",
-        "code": "Targettrain_950042",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20301,
-        "name": "一匹狼",
-        "des": "作戦能力さえ基準に到達していれば楽に対処できる。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950003,
-        "log_fitter_id": 201,
-        "log_fitter_name": "通常敵グループ(低装甲/中HP)",
-        "code": "Targettrain_950003",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20302,
-        "name": "密集の悪夢",
-        "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950008,
-        "log_fitter_id": 202,
-        "log_fitter_name": "密集型敵グループ(高HP)",
-        "code": "Targettrain_950008",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20303,
-        "name": "盾の裏からの奇襲",
-        "des": "盾は厄介な存在だが、その裏にある剣を失ってしまえば、盾もまた存在意義を失う。(敵後衛を優先して攻撃できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950013,
-        "log_fitter_id": 203,
-        "log_fitter_name": "ガン&シールド",
-        "code": "Targettrain_950013",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20304,
-        "name": "屈折信仰",
-        "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950018,
-        "log_fitter_id": 204,
-        "log_fitter_name": "白い敵グループ",
-        "code": "Targettrain_950018",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20305,
-        "name": "移動爆弾",
-        "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950023,
-        "log_fitter_id": 205,
-        "log_fitter_name": "クイック爆破",
-        "code": "Targettrain_950023",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20306,
-        "name": "金城鉄壁",
-        "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950028,
-        "log_fitter_id": 206,
-        "log_fitter_name": "エリート肉壁",
-        "code": "Targettrain_950028",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20307,
-        "name": "破壊の嵐",
-        "des": "群れを成したマンティコアに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950033,
-        "log_fitter_id": 207,
-        "log_fitter_name": "無敵のペア",
-        "code": "Targettrain_950033",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20308,
-        "name": "天眼の狩人",
-        "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950038,
-        "log_fitter_id": 208,
-        "log_fitter_name": "巨像来たる",
-        "code": "Targettrain_950038",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20309,
-        "name": "コイオス！",
-        "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950043,
-        "log_fitter_id": 209,
-        "log_fitter_name": "コイオス！",
-        "code": "Targettrain_950043",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20401,
-        "name": "一匹狼",
-        "des": "愚か者や臆病者を揶揄うのに必要なのは機動的な戦略だけではない、機動力に長けた人形もまた必要だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950004,
-        "log_fitter_id": 201,
-        "log_fitter_name": "通常敵グループ(低装甲/中HP)",
-        "code": "Targettrain_950004",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20402,
-        "name": "密集の悪夢",
-        "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950009,
-        "log_fitter_id": 202,
-        "log_fitter_name": "密集型敵グループ(高HP)",
-        "code": "Targettrain_950009",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20403,
-        "name": "重装行軍",
-        "des": "彼らの甲冑を貫けないというのであれば、いくら兵力を注いだところでただの徒労に過ぎない。(後衛を優先して攻撃する、破甲能力を持つ部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950014,
-        "log_fitter_id": 203,
-        "log_fitter_name": "ガン&シールド",
-        "code": "Targettrain_950014",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20404,
-        "name": "屈折信仰",
-        "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950019,
-        "log_fitter_id": 204,
-        "log_fitter_name": "白い敵グループ",
-        "code": "Targettrain_950019",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20405,
-        "name": "移動爆弾",
-        "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950024,
-        "log_fitter_id": 205,
-        "log_fitter_name": "クイック爆破",
-        "code": "Targettrain_950024",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20406,
-        "name": "金城鉄壁",
-        "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950029,
-        "log_fitter_id": 206,
-        "log_fitter_name": "エリート肉壁",
-        "code": "Targettrain_950029",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20407,
-        "name": "破壊の嵐",
-        "des": "群れを成したヒドラに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950034,
-        "log_fitter_id": 207,
-        "log_fitter_name": "無敵のペア",
-        "code": "Targettrain_950034",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20408,
-        "name": "天眼の狩人",
-        "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950039,
-        "log_fitter_id": 208,
-        "log_fitter_name": "巨像来たる",
-        "code": "Targettrain_950039",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20409,
-        "name": "コイオス！",
-        "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950044,
-        "log_fitter_id": 209,
-        "log_fitter_name": "コイオス！",
-        "code": "Targettrain_950044",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20501,
-        "name": "一匹狼",
-        "des": "愚か者や臆病者を揶揄うのに必要なのは機動的な戦略だけではない、機動力に長けた人形もまた必要だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950005,
-        "log_fitter_id": 201,
-        "log_fitter_name": "通常敵グループ(低装甲/中HP)",
-        "code": "Targettrain_950005",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20502,
-        "name": "密集の悪夢",
-        "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950010,
-        "log_fitter_id": 202,
-        "log_fitter_name": "密集型敵グループ(高HP)",
-        "code": "Targettrain_950010",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20503,
-        "name": "イージスと鹿",
-        "des": "彼らの甲冑を貫けないというのであれば、いくら兵力を注いだところでただの徒労に過ぎない。(後衛を優先して攻撃する、破甲能力を持つ部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950015,
-        "log_fitter_id": 203,
-        "log_fitter_name": "ガン&シールド",
-        "code": "Targettrain_950015",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20504,
-        "name": "屈折信仰",
-        "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950020,
-        "log_fitter_id": 204,
-        "log_fitter_name": "白い敵グループ",
-        "code": "Targettrain_950020",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20505,
-        "name": "移動爆弾",
-        "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950025,
-        "log_fitter_id": 205,
-        "log_fitter_name": "クイック爆破",
-        "code": "Targettrain_950025",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20506,
-        "name": "金城鉄壁",
-        "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950030,
-        "log_fitter_id": 206,
-        "log_fitter_name": "エリート肉壁",
-        "code": "Targettrain_950030",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20507,
-        "name": "破壊の嵐",
-        "des": "群れを成したヒドラに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950035,
-        "log_fitter_id": 207,
-        "log_fitter_name": "無敵のペア",
-        "code": "Targettrain_950035",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20508,
-        "name": "天眼の狩人",
-        "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950040,
-        "log_fitter_id": 208,
-        "log_fitter_name": "巨像来たる",
-        "code": "Targettrain_950040",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    },
-    {
-        "id": 20509,
-        "name": "戦慄陣形",
-        "des": "正規軍のタンクが君に向かってきている。壊すか壊されるか、その決断を下すのは新人には酷というものだろう。",
-        "power": 3000,
-        "recommend_power": 3000,
-        "enemy_team_id": 950045,
-        "log_fitter_id": 209,
-        "log_fitter_name": "コイオス！",
-        "code": "Targettrain_950045",
-        "fight_type": 0,
-        "type_coef": "",
-        "fight_environment_group": ""
-    }
+  {
+    "id": 101, "name": "ターゲット調整", "des": "ターゲット調整", "power": 3000, "recommend_power": 3000, "enemy_team_id": 950046, 
+    "log_fitter_id": 0, "log_fitter_name": "ターゲット調整", "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", 
+    "fight_environment_group": ""
+  }, {
+    "id": 102, "name": "ターゲット調整", "des": "ターゲット調整", "power": 3000, "recommend_power": 3000, "enemy_team_id": 950047, 
+    "log_fitter_id": 0, "log_fitter_name": "ターゲット調整", "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", 
+    "fight_environment_group": ""
+  }, {
+    "id": 103, "name": "ターゲット調整", "des": "ターゲット調整", "power": 3000, "recommend_power": 3000, "enemy_team_id": 950048, 
+    "log_fitter_id": 0, "log_fitter_name": "ターゲット調整", "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", 
+    "fight_environment_group": ""
+  }, {
+    "id": 104, "name": "ターゲット調整", "des": "ターゲット調整", "power": 3000, "recommend_power": 3000, "enemy_team_id": 950049, 
+    "log_fitter_id": 0, "log_fitter_name": "ターゲット調整", "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", 
+    "fight_environment_group": ""
+  }, {
+    "id": 105, "name": "ターゲット調整", "des": "ターゲット調整", "power": 3000, "recommend_power": 3000, "enemy_team_id": 950050, 
+    "log_fitter_id": 0, "log_fitter_name": "ターゲット調整", "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", 
+    "fight_environment_group": ""
+  }, {
+    "id": 301, "name": "ケルベロス", "des": "特殊ターゲット-ケルベロス、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！", "power": 126250, 
+    "recommend_power": 126250, "enemy_team_id": 2371, "log_fitter_id": 0, "log_fitter_name": "ケルベロス", 
+    "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 401, "name": "エゴール", "des": "特殊ターゲット-エゴール、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！", "power": 143733, 
+    "recommend_power": 143733, "enemy_team_id": 9130301, "log_fitter_id": 0, "log_fitter_name": "エゴール", 
+    "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 501, "name": "失格異性体", "des": "特殊ターゲット-失格異性体、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！", "power": 154709, 
+    "recommend_power": 154709, "enemy_team_id": 337257, "log_fitter_id": 0, "log_fitter_name": "失格異性体", 
+    "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 601, "name": "M16A1!", "des": "特殊ターゲット-M16A1!、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！", "power": 169976, 
+    "recommend_power": 169976, "enemy_team_id": 317907, "log_fitter_id": 0, "log_fitter_name": "M16A1!", 
+    "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 701, "name": "mission_targettrain_enemy-10000701", 
+    "des": "特殊ターゲット-掩護中隊、ターゲット開放期間は全員の挑戦時間及び対応する挑戦データが記録されます。指揮官同士高め合いましょう！", "power": 175920, "recommend_power": 175920, 
+    "enemy_team_id": 1770, "log_fitter_id": 0, "log_fitter_name": "mission_targettrain_enemy-30000701", 
+    "code": "Targettrain_SingleTarget", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 801, "name": "mission_targettrain_enemy-10000801", "des": "mission_targettrain_enemy-20000801", "power": 73800, 
+    "recommend_power": 73800, "enemy_team_id": 9411205, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30000801", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 901, "name": "mission_targettrain_enemy-10000901", "des": "mission_targettrain_enemy-20000901", "power": 91475, 
+    "recommend_power": 91475, "enemy_team_id": 9410318, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30000901", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1001, "name": "mission_targettrain_enemy-10001001", "des": "mission_targettrain_enemy-20001001", "power": 100248, 
+    "recommend_power": 100248, "enemy_team_id": 9411206, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001001", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1101, "name": "mission_targettrain_enemy-10001101", "des": "mission_targettrain_enemy-20001101", "power": 80829, 
+    "recommend_power": 80829, "enemy_team_id": 9411407, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001101", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1201, "name": "mission_targettrain_enemy-10001201", "des": "mission_targettrain_enemy-20001201", "power": 248736, 
+    "recommend_power": 248736, "enemy_team_id": 9411408, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001201", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1301, "name": "mission_targettrain_enemy-10001301", "des": "mission_targettrain_enemy-20001301", "power": 407438, 
+    "recommend_power": 407438, "enemy_team_id": 9411422, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001301", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1601, "name": "mission_targettrain_enemy-10001601", "des": "mission_targettrain_enemy-20001601", "power": 40866, 
+    "recommend_power": 40866, "enemy_team_id": 336405, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001601", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1701, "name": "mission_targettrain_enemy-10001701", "des": "mission_targettrain_enemy-20001701", "power": 70480, 
+    "recommend_power": 70480, "enemy_team_id": 390149, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001701", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1801, "name": "mission_targettrain_enemy-10001801", "des": "mission_targettrain_enemy-20001801", "power": 88645, 
+    "recommend_power": 88645, "enemy_team_id": 9411418, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001801", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 1901, "name": "mission_targettrain_enemy-10001901", "des": "mission_targettrain_enemy-20001901", "power": 55346, 
+    "recommend_power": 55346, "enemy_team_id": 9130113, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30001901", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2001, "name": "mission_targettrain_enemy-10002001", "des": "mission_targettrain_enemy-20002001", "power": 169976, 
+    "recommend_power": 169976, "enemy_team_id": 317907, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002001", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2101, "name": "mission_targettrain_enemy-10002101", "des": "mission_targettrain_enemy-20002101", "power": 172301, 
+    "recommend_power": 172301, "enemy_team_id": 317993, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002101", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2201, "name": "mission_targettrain_enemy-10002201", "des": "mission_targettrain_enemy-20002201", "power": 244970, 
+    "recommend_power": 244970, "enemy_team_id": 317994, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002201", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2401, "name": "mission_targettrain_enemy-10002401", "des": "mission_targettrain_enemy-20002401", "power": 124783, 
+    "recommend_power": 124783, "enemy_team_id": 6441807, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002401", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2402, "name": "mission_targettrain_enemy-10002402", "des": "mission_targettrain_enemy-20002402", "power": 237147, 
+    "recommend_power": 237147, "enemy_team_id": 44400003, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002402", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2403, "name": "mission_targettrain_enemy-10002403", "des": "mission_targettrain_enemy-20002403", "power": 418751, 
+    "recommend_power": 418751, "enemy_team_id": 6441801, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002403", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2404, "name": "mission_targettrain_enemy-10002404", "des": "mission_targettrain_enemy-20002404", "power": 77122, 
+    "recommend_power": 77122, "enemy_team_id": 334701, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002404", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2405, "name": "mission_targettrain_enemy-10002405", "des": "mission_targettrain_enemy-20002405", "power": 73455, 
+    "recommend_power": 73455, "enemy_team_id": 336807, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002405", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2406, "name": "mission_targettrain_enemy-10002406", "des": "mission_targettrain_enemy-20002406", "power": 251937, 
+    "recommend_power": 251937, "enemy_team_id": 336901, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002406", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2407, "name": "mission_targettrain_enemy-10002407", "des": "mission_targettrain_enemy-20002407", "power": 272650, 
+    "recommend_power": 272650, "enemy_team_id": 461008, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002407", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2408, "name": "mission_targettrain_enemy-10002408", "des": "mission_targettrain_enemy-20002408", "power": 219183, 
+    "recommend_power": 219183, "enemy_team_id": 363099, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002408", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2409, "name": "mission_targettrain_enemy-10002409", "des": "mission_targettrain_enemy-20002409", "power": 149503, 
+    "recommend_power": 149503, "enemy_team_id": 362921, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002409", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2410, "name": "mission_targettrain_enemy-10002410", "des": "mission_targettrain_enemy-20002410", "power": 34544, 
+    "recommend_power": 34544, "enemy_team_id": 362801, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002410", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2411, "name": "mission_targettrain_enemy-10002411", "des": "mission_targettrain_enemy-20002411", "power": 360000, 
+    "recommend_power": 360000, "enemy_team_id": 480142, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002411", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2412, "name": "mission_targettrain_enemy-10002412", "des": "mission_targettrain_enemy-20002412", "power": 480000, 
+    "recommend_power": 480000, "enemy_team_id": 480143, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002412", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 2413, "name": "mission_targettrain_enemy-10002413", "des": "mission_targettrain_enemy-20002413", "power": 184845, 
+    "recommend_power": 184845, "enemy_team_id": 6486203, "log_fitter_id": 0, 
+    "log_fitter_name": "mission_targettrain_enemy-30002413", "code": "Targettrain_SingleTarget", "fight_type": 0, 
+    "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20101, "name": "一匹狼", "des": "作戦能力さえ基準に到達していれば楽に対処できる。", "power": 3000, "recommend_power": 3000, 
+    "enemy_team_id": 950001, "log_fitter_id": 201, "log_fitter_name": "通常敵グループ(低装甲/中HP)", "code": "Targettrain_950001", 
+    "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20102, "name": "密集の悪夢", 
+    "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950006, "log_fitter_id": 202, "log_fitter_name": "密集型敵グループ(高HP)", 
+    "code": "Targettrain_950006", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20103, "name": "盾の裏からの奇襲", "des": "盾は厄介な存在だが、その裏にある剣を失ってしまえば、盾もまた存在意義を失う。(敵後衛を優先して攻撃できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950011, "log_fitter_id": 203, "log_fitter_name": "ガン&シールド", 
+    "code": "Targettrain_950011", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20104, "name": "屈折信仰", "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950016, "log_fitter_id": 204, "log_fitter_name": "白い敵グループ", 
+    "code": "Targettrain_950016", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20105, "name": "移動爆弾", "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950021, "log_fitter_id": 205, "log_fitter_name": "クイック爆破", 
+    "code": "Targettrain_950021", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20106, "name": "金城鉄壁", 
+    "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950026, "log_fitter_id": 206, "log_fitter_name": "エリート肉壁", 
+    "code": "Targettrain_950026", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20107, "name": "破壊の嵐", "des": "群れを成したマンティコアに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950031, "log_fitter_id": 207, "log_fitter_name": "無敵のペア", 
+    "code": "Targettrain_950031", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20108, "name": "天眼の狩人", "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950036, "log_fitter_id": 208, "log_fitter_name": "巨像来たる", 
+    "code": "Targettrain_950036", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20109, "name": "コイオス！", "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950041, "log_fitter_id": 209, "log_fitter_name": "コイオス！", 
+    "code": "Targettrain_950041", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20201, "name": "一匹狼", "des": "作戦能力さえ基準に到達していれば楽に対処できる。", "power": 3000, "recommend_power": 3000, 
+    "enemy_team_id": 950002, "log_fitter_id": 201, "log_fitter_name": "通常敵グループ(低装甲/中HP)", "code": "Targettrain_950002", 
+    "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20202, "name": "密集の悪夢", 
+    "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950007, "log_fitter_id": 202, "log_fitter_name": "密集型敵グループ(高HP)", 
+    "code": "Targettrain_950007", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20203, "name": "盾の裏からの奇襲", "des": "盾は厄介な存在だが、その裏にある剣を失ってしまえば、盾もまた存在意義を失う。(敵後衛を優先して攻撃できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950012, "log_fitter_id": 203, "log_fitter_name": "ガン&シールド", 
+    "code": "Targettrain_950012", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20204, "name": "屈折信仰", "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950017, "log_fitter_id": 204, "log_fitter_name": "白い敵グループ", 
+    "code": "Targettrain_950017", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20205, "name": "移動爆弾", "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950022, "log_fitter_id": 205, "log_fitter_name": "クイック爆破", 
+    "code": "Targettrain_950022", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20206, "name": "金城鉄壁", 
+    "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950027, "log_fitter_id": 206, "log_fitter_name": "エリート肉壁", 
+    "code": "Targettrain_950027", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20207, "name": "破壊の嵐", "des": "群れを成したマンティコアに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950032, "log_fitter_id": 207, "log_fitter_name": "無敵のペア", 
+    "code": "Targettrain_950032", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20208, "name": "天眼の狩人", "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950037, "log_fitter_id": 208, "log_fitter_name": "巨像来たる", 
+    "code": "Targettrain_950037", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20209, "name": "コイオス！", "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950042, "log_fitter_id": 209, "log_fitter_name": "コイオス！", 
+    "code": "Targettrain_950042", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20301, "name": "一匹狼", "des": "作戦能力さえ基準に到達していれば楽に対処できる。", "power": 3000, "recommend_power": 3000, 
+    "enemy_team_id": 950003, "log_fitter_id": 201, "log_fitter_name": "通常敵グループ(低装甲/中HP)", "code": "Targettrain_950003", 
+    "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20302, "name": "密集の悪夢", 
+    "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950008, "log_fitter_id": 202, "log_fitter_name": "密集型敵グループ(高HP)", 
+    "code": "Targettrain_950008", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20303, "name": "盾の裏からの奇襲", "des": "盾は厄介な存在だが、その裏にある剣を失ってしまえば、盾もまた存在意義を失う。(敵後衛を優先して攻撃できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950013, "log_fitter_id": 203, "log_fitter_name": "ガン&シールド", 
+    "code": "Targettrain_950013", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20304, "name": "屈折信仰", "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950018, "log_fitter_id": 204, "log_fitter_name": "白い敵グループ", 
+    "code": "Targettrain_950018", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20305, "name": "移動爆弾", "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950023, "log_fitter_id": 205, "log_fitter_name": "クイック爆破", 
+    "code": "Targettrain_950023", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20306, "name": "金城鉄壁", 
+    "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950028, "log_fitter_id": 206, "log_fitter_name": "エリート肉壁", 
+    "code": "Targettrain_950028", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20307, "name": "破壊の嵐", "des": "群れを成したマンティコアに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950033, "log_fitter_id": 207, "log_fitter_name": "無敵のペア", 
+    "code": "Targettrain_950033", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20308, "name": "天眼の狩人", "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950038, "log_fitter_id": 208, "log_fitter_name": "巨像来たる", 
+    "code": "Targettrain_950038", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20309, "name": "コイオス！", "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950043, "log_fitter_id": 209, "log_fitter_name": "コイオス！", 
+    "code": "Targettrain_950043", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20401, "name": "一匹狼", "des": "愚か者や臆病者を揶揄うのに必要なのは機動的な戦略だけではない、機動力に長けた人形もまた必要だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950004, "log_fitter_id": 201, "log_fitter_name": "通常敵グループ(低装甲/中HP)", 
+    "code": "Targettrain_950004", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20402, "name": "密集の悪夢", 
+    "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950009, "log_fitter_id": 202, "log_fitter_name": "密集型敵グループ(高HP)", 
+    "code": "Targettrain_950009", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20403, "name": "重装行軍", "des": "彼らの甲冑を貫けないというのであれば、いくら兵力を注いだところでただの徒労に過ぎない。(後衛を優先して攻撃する、破甲能力を持つ部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950014, "log_fitter_id": 203, "log_fitter_name": "ガン&シールド", 
+    "code": "Targettrain_950014", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20404, "name": "屈折信仰", "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950019, "log_fitter_id": 204, "log_fitter_name": "白い敵グループ", 
+    "code": "Targettrain_950019", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20405, "name": "移動爆弾", "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950024, "log_fitter_id": 205, "log_fitter_name": "クイック爆破", 
+    "code": "Targettrain_950024", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20406, "name": "金城鉄壁", 
+    "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950029, "log_fitter_id": 206, "log_fitter_name": "エリート肉壁", 
+    "code": "Targettrain_950029", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20407, "name": "破壊の嵐", "des": "群れを成したヒドラに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950034, "log_fitter_id": 207, "log_fitter_name": "無敵のペア", 
+    "code": "Targettrain_950034", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20408, "name": "天眼の狩人", "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950039, "log_fitter_id": 208, "log_fitter_name": "巨像来たる", 
+    "code": "Targettrain_950039", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20409, "name": "コイオス！", "des": "計略で彼を制圧しようとしてはいけない。なぜなら彼自身が戦術による制圧を具現化させたような存在だからだ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950044, "log_fitter_id": 209, "log_fitter_name": "コイオス！", 
+    "code": "Targettrain_950044", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20501, "name": "一匹狼", "des": "愚か者や臆病者を揶揄うのに必要なのは機動的な戦略だけではない、機動力に長けた人形もまた必要だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950005, "log_fitter_id": 201, "log_fitter_name": "通常敵グループ(低装甲/中HP)", 
+    "code": "Targettrain_950005", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20502, "name": "密集の悪夢", 
+    "des": "悪夢は必然的に様々な怖い要素の詰め合わせとなる。抜け出したいのであれば、当然一気に全てを破壊せねばならない。(範囲ダメージを与えることができる部隊で対処するのがおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950010, "log_fitter_id": 202, "log_fitter_name": "密集型敵グループ(高HP)", 
+    "code": "Targettrain_950010", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20503, "name": "イージスと鹿", "des": "彼らの甲冑を貫けないというのであれば、いくら兵力を注いだところでただの徒労に過ぎない。(後衛を優先して攻撃する、破甲能力を持つ部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950015, "log_fitter_id": 203, "log_fitter_name": "ガン&シールド", 
+    "code": "Targettrain_950015", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20504, "name": "屈折信仰", "des": "固い信仰を持つ敵に勝てないのであれば、まずはその信仰の根底――偏向障壁から壊してみては？(HPが高い敵に対処でき、一定の破砕効果を持つ部隊がおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950020, "log_fitter_id": 204, "log_fitter_name": "白い敵グループ", 
+    "code": "Targettrain_950020", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20505, "name": "移動爆弾", "des": "悪い夢から覚める最良の手段とはすぐに目を覚ますこと。もしくはそうなる前に元凶を絞め殺すこと。(戦闘開始直後に爆破能力を発動できる部隊で対処するのがおすすめです)", 
+    "power": 3000, "recommend_power": 3000, "enemy_team_id": 950025, "log_fitter_id": 205, "log_fitter_name": "クイック爆破", 
+    "code": "Targettrain_950025", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20506, "name": "金城鉄壁", 
+    "des": "正面からの突破が難しくても、厄介な装甲持ちさえ片付ければ道は開けるかもしれない。(高HPの敵に対抗できる能力、もしくは比較的高い生存力を持ち、偏向障壁に破砕攻撃ができる部隊がおすすめです)", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950030, "log_fitter_id": 206, "log_fitter_name": "エリート肉壁", 
+    "code": "Targettrain_950030", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20507, "name": "破壊の嵐", "des": "群れを成したヒドラに向かっていくのは賢いとは言えないな。君が歴戦の兵であるか、やつらの弱点を知り尽くしている場合は話が別だがね。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950035, "log_fitter_id": 207, "log_fitter_name": "無敵のペア", 
+    "code": "Targettrain_950035", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20508, "name": "天眼の狩人", "des": "廃棄されたパトローラたちが自身に再利用の余地があることを証明したがっている。君がまだ新米ならば、避けて通るのが賢明だ。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950040, "log_fitter_id": 208, "log_fitter_name": "巨像来たる", 
+    "code": "Targettrain_950040", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }, {
+    "id": 20509, "name": "戦慄陣形", "des": "正規軍のタンクが君に向かってきている。壊すか壊されるか、その決断を下すのは新人には酷というものだろう。", "power": 3000, 
+    "recommend_power": 3000, "enemy_team_id": 950045, "log_fitter_id": 209, "log_fitter_name": "コイオス！", 
+    "code": "Targettrain_950045", "fight_type": 0, "type_coef": "", "fight_environment_group": ""
+  }
 ]

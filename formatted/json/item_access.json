@@ -1,152 +1,27 @@
 [
-    {
-        "id": 1,
-        "name": "ショップ",
-        "carnival_goto_page_id": -1,
-        "function_control_id": 0
-    },
-    {
-        "id": 2,
-        "name": "イベント",
-        "carnival_goto_page_id": 0,
-        "function_control_id": 0
-    },
-    {
-        "id": 3,
-        "name": "デイリーログイン",
-        "carnival_goto_page_id": 0,
-        "function_control_id": 0
-    },
-    {
-        "id": 4,
-        "name": "後方支援",
-        "carnival_goto_page_id": 41,
-        "function_control_id": 0
-    },
-    {
-        "id": 5,
-        "name": "任務",
-        "carnival_goto_page_id": 254,
-        "function_control_id": 0
-    },
-    {
-        "id": 6,
-        "name": "ブラックマーケット",
-        "carnival_goto_page_id": 217,
-        "function_control_id": 17
-    },
-    {
-        "id": 7,
-        "name": "回収分解",
-        "carnival_goto_page_id": 63,
-        "function_control_id": 0
-    },
-    {
-        "id": 8,
-        "name": "情報センター",
-        "carnival_goto_page_id": 202,
-        "function_control_id": 15
-    },
-    {
-        "id": 9,
-        "name": "情報解析",
-        "carnival_goto_page_id": 202,
-        "function_control_id": 15
-    },
-    {
-        "id": 10,
-        "name": "データ再構築",
-        "carnival_goto_page_id": 203,
-        "function_control_id": 15
-    },
-    {
-        "id": 11,
-        "name": "ガチャ",
-        "carnival_goto_page_id": 251,
-        "function_control_id": 0
-    },
-    {
-        "id": 12,
-        "name": "資料収集",
-        "carnival_goto_page_id": 358,
-        "function_control_id": 0
-    },
-    {
-        "id": 13,
-        "name": "防御演習",
-        "carnival_goto_page_id": 359,
-        "function_control_id": 6
-    },
-    {
-        "id": 14,
-        "name": "メンタル回廊",
-        "carnival_goto_page_id": 360,
-        "function_control_id": 12
-    },
-    {
-        "id": 15,
-        "name": "コーヒーマシン",
-        "carnival_goto_page_id": 207,
-        "function_control_id": 11
-    },
-    {
-        "id": 16,
-        "name": "データルーム",
-        "carnival_goto_page_id": 205,
-        "function_control_id": 0
-    },
-    {
-        "id": 17,
-        "name": "宿舎",
-        "carnival_goto_page_id": 66,
-        "function_control_id": 0
-    },
-    {
-        "id": 18,
-        "name": "支援部隊",
-        "carnival_goto_page_id": 0,
-        "function_control_id": 0
-    },
-    {
-        "id": 19,
-        "name": "コアショップ",
-        "carnival_goto_page_id": 230,
-        "function_control_id": 21
-    },
-    {
-        "id": 20,
-        "name": "融合演習",
-        "carnival_goto_page_id": 232,
-        "function_control_id": 21
-    },
-    {
-        "id": 21,
-        "name": "家具回収",
-        "carnival_goto_page_id": 12,
-        "function_control_id": 0
-    },
-    {
-        "id": 22,
-        "name": "捕獲作戦",
-        "carnival_goto_page_id": 224,
-        "function_control_id": 21
-    },
-    {
-        "id": 23,
-        "name": "月額カード",
-        "carnival_goto_page_id": 0,
-        "function_control_id": 0
-    },
-    {
-        "id": 24,
-        "name": "経験特訓",
-        "carnival_goto_page_id": 356,
-        "function_control_id": 0
-    },
-    {
-        "id": 25,
-        "name": "強化練習",
-        "carnival_goto_page_id": 357,
-        "function_control_id": 0
-    }
+  { "id":  1, "name": "ショップ"          , "carnival_goto_page_id":  -1, "function_control_id":  0 }, 
+  { "id":  2, "name": "イベント"          , "carnival_goto_page_id":   0, "function_control_id":  0 }, 
+  { "id":  3, "name": "デイリーログイン"  , "carnival_goto_page_id":   0, "function_control_id":  0 }, 
+  { "id":  4, "name": "後方支援"          , "carnival_goto_page_id":  41, "function_control_id":  0 }, 
+  { "id":  5, "name": "任務"              , "carnival_goto_page_id": 254, "function_control_id":  0 }, 
+  { "id":  6, "name": "ブラックマーケット", "carnival_goto_page_id": 217, "function_control_id": 17 }, 
+  { "id":  7, "name": "回収分解"          , "carnival_goto_page_id":  63, "function_control_id":  0 }, 
+  { "id":  8, "name": "情報センター"      , "carnival_goto_page_id": 202, "function_control_id": 15 }, 
+  { "id":  9, "name": "情報解析"          , "carnival_goto_page_id": 202, "function_control_id": 15 }, 
+  { "id": 10, "name": "データ再構築"      , "carnival_goto_page_id": 203, "function_control_id": 15 }, 
+  { "id": 11, "name": "ガチャ"            , "carnival_goto_page_id": 251, "function_control_id":  0 }, 
+  { "id": 12, "name": "資料収集"          , "carnival_goto_page_id": 358, "function_control_id":  0 }, 
+  { "id": 13, "name": "防御演習"          , "carnival_goto_page_id": 359, "function_control_id":  6 }, 
+  { "id": 14, "name": "メンタル回廊"      , "carnival_goto_page_id": 360, "function_control_id": 12 }, 
+  { "id": 15, "name": "コーヒーマシン"    , "carnival_goto_page_id": 207, "function_control_id": 11 }, 
+  { "id": 16, "name": "データルーム"      , "carnival_goto_page_id": 205, "function_control_id":  0 }, 
+  { "id": 17, "name": "宿舎"              , "carnival_goto_page_id":  66, "function_control_id":  0 }, 
+  { "id": 18, "name": "支援部隊"          , "carnival_goto_page_id":   0, "function_control_id":  0 }, 
+  { "id": 19, "name": "コアショップ"      , "carnival_goto_page_id": 230, "function_control_id": 21 }, 
+  { "id": 20, "name": "融合演習"          , "carnival_goto_page_id": 232, "function_control_id": 21 }, 
+  { "id": 21, "name": "家具回収"          , "carnival_goto_page_id":  12, "function_control_id":  0 }, 
+  { "id": 22, "name": "捕獲作戦"          , "carnival_goto_page_id": 224, "function_control_id": 21 }, 
+  { "id": 23, "name": "月額カード"        , "carnival_goto_page_id":   0, "function_control_id":  0 }, 
+  { "id": 24, "name": "経験特訓"          , "carnival_goto_page_id": 356, "function_control_id":  0 }, 
+  { "id": 25, "name": "強化練習"          , "carnival_goto_page_id": 357, "function_control_id":  0 }
 ]

@@ -1,394 +1,117 @@
 [
-    {
-        "id": 1,
-        "name": "戦闘勝利",
-        "type": 1,
-        "desc": "ステージ勝利",
-        "condition_coef": "1",
-        "score_coef": 100
-    },
-    {
-        "id": 2,
-        "name": "残存人員",
-        "type": 2,
-        "desc": "戦闘勝利時、場の人形が4人未満ではない",
-        "condition_coef": "4",
-        "score_coef": 100
-    },
-    {
-        "id": 3,
-        "name": "損失",
-        "type": 3,
-        "desc": "全戦闘を通して失ったダミーが5体を超えない",
-        "condition_coef": "5",
-        "score_coef": 100
-    },
-    {
-        "id": 4,
-        "name": "撃破時間(単体)",
-        "type": 4,
-        "desc": "30秒以内にドッペルゾルドナー1体を撃破する",
-        "condition_coef": "30|10041,1",
-        "score_coef": 100
-    },
-    {
-        "id": 5,
-        "name": "撃破時間(複数)",
-        "type": 4,
-        "desc": "30秒以内にヴェスピド3体とガード3体を撃破する",
-        "condition_coef": "30|10007,3;10005,3",
-        "score_coef": 100
-    },
-    {
-        "id": 6,
-        "name": "戦闘時間",
-        "type": 5,
-        "desc": "60秒以内に戦闘に勝利する",
-        "condition_coef": "60",
-        "score_coef": 100
-    },
-    {
-        "id": 7,
-        "name": "最高ダメージ",
-        "type": 6,
-        "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の50%以下ではない",
-        "condition_coef": "2,50",
-        "score_coef": 100
-    },
-    {
-        "id": 8,
-        "name": "最低ダメージ",
-        "type": 7,
-        "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が低いユニットの貢献割合が全体の10%以下ではない",
-        "condition_coef": "2,10",
-        "score_coef": 100
-    },
-    {
-        "id": 9,
-        "name": "スキル発動回数",
-        "type": 8,
-        "desc": "隊の人形のスキル発動回数が5回を超えない",
-        "condition_coef": "5",
-        "score_coef": 100
-    },
-    {
-        "id": 10,
-        "name": "指定人形(or)",
-        "type": 9,
-        "desc": "部隊にトンプソン/Gr MP5/Gr G36cのいずれかを編成する",
-        "condition_coef": "16,26,104",
-        "score_coef": 100
-    },
-    {
-        "id": 11,
-        "name": "指定人形(and)",
-        "type": 10,
-        "desc": "部隊にトンプソン/Gr MP5/Gr G36cを全て編成する",
-        "condition_coef": "16,26,104",
-        "score_coef": 100
-    },
-    {
-        "id": 12,
-        "name": "指定人数・銃種",
-        "type": 11,
-        "desc": "最低2人のHGが戦闘に参加する",
-        "condition_coef": "1,2",
-        "score_coef": 100
-    },
-    {
-        "id": 13,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "SMGとARが戦闘に参加する",
-        "condition_coef": "1|2,4",
-        "score_coef": 100
-    },
-    {
-        "id": 14,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "SMGとARが戦闘に参加しない",
-        "condition_coef": "0|2,4",
-        "score_coef": 100
-    },
-    {
-        "id": 701,
-        "name": "戦闘時間",
-        "type": 5,
-        "desc": "30秒以内に戦闘に勝利する",
-        "condition_coef": "30",
-        "score_coef": 100
-    },
-    {
-        "id": 702,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "HGが戦闘に参加しない",
-        "condition_coef": "0|1",
-        "score_coef": 100
-    },
-    {
-        "id": 703,
-        "name": "最高ダメージ",
-        "type": 6,
-        "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の50%以上ではない",
-        "condition_coef": "1,50",
-        "score_coef": 100
-    },
-    {
-        "id": 704,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "RFが戦闘に参加しない",
-        "condition_coef": "0|3",
-        "score_coef": 100
-    },
-    {
-        "id": 705,
-        "name": "撃破時間(単体)",
-        "type": 4,
-        "desc": "50秒以内にM16A1を撃破する",
-        "condition_coef": "50|800003,1",
-        "score_coef": 100
-    },
-    {
-        "id": 706,
-        "name": "指定人数・銃種",
-        "type": 11,
-        "desc": "最低3人のARが戦闘に参加する",
-        "condition_coef": "4,3",
-        "score_coef": 100
-    },
-    {
-        "id": 707,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "SGが戦闘に参加しない",
-        "condition_coef": "0|6",
-        "score_coef": 100
-    },
-    {
-        "id": 708,
-        "name": "スキル発動回数",
-        "type": 8,
-        "desc": "隊の人形のスキル発動回数が10回を超えない",
-        "condition_coef": "10",
-        "score_coef": 100
-    },
-    {
-        "id": 709,
-        "name": "指定人数・銃種",
-        "type": 11,
-        "desc": "最低2人のSMGが戦闘に参加する",
-        "condition_coef": "2,2",
-        "score_coef": 100
-    },
-    {
-        "id": 710,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "ARが戦闘に参加する",
-        "condition_coef": "1|4",
-        "score_coef": 100
-    },
-    {
-        "id": 711,
-        "name": "最高ダメージ",
-        "type": 6,
-        "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の40%以上ではない",
-        "condition_coef": "1,40",
-        "score_coef": 100
-    },
-    {
-        "id": 712,
-        "name": "HG参戦",
-        "type": 11,
-        "desc": "最低1人のHGが戦闘に参加する",
-        "condition_coef": "1,1",
-        "score_coef": 100
-    },
-    {
-        "id": 713,
-        "name": "戦闘時間",
-        "type": 5,
-        "desc": "30秒以内に戦闘に勝利する",
-        "condition_coef": "30",
-        "score_coef": 100
-    },
-    {
-        "id": 714,
-        "name": "RF参戦",
-        "type": 11,
-        "desc": "最低1人のRFが戦闘に参加する",
-        "condition_coef": "3,1",
-        "score_coef": 100
-    },
-    {
-        "id": 715,
-        "name": "撃破時間(単体)",
-        "type": 4,
-        "desc": "50秒以内にウロボロスを撃破する",
-        "condition_coef": "50|800001,1",
-        "score_coef": 100
-    },
-    {
-        "id": 716,
-        "name": "残存人員",
-        "type": 2,
-        "desc": "戦闘勝利時、場の人形が4人以下ではない",
-        "condition_coef": "4",
-        "score_coef": 100
-    },
-    {
-        "id": 717,
-        "name": "3RF参戦",
-        "type": 11,
-        "desc": "最低3人のRFが戦闘に参加する",
-        "condition_coef": "3,3",
-        "score_coef": 100
-    },
-    {
-        "id": 718,
-        "name": "MG参戦",
-        "type": 11,
-        "desc": "最低1人のMGが戦闘に参加する",
-        "condition_coef": "5,1",
-        "score_coef": 100
-    },
-    {
-        "id": 719,
-        "name": "最高ダメージ",
-        "type": 6,
-        "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の40%以上ではない",
-        "condition_coef": "1,40",
-        "score_coef": 100
-    },
-    {
-        "id": 720,
-        "name": "スキル発動回数",
-        "type": 8,
-        "desc": "隊の人形のスキル発動回数が5回を超えない",
-        "condition_coef": "5",
-        "score_coef": 100
-    },
-    {
-        "id": 721,
-        "name": "指定人形(or)",
-        "type": 9,
-        "desc": "部隊にMG3/Gr MG4/Gr MG5のいずれかを編成する",
-        "condition_coef": "88,125,109",
-        "score_coef": 100
-    },
-    {
-        "id": 722,
-        "name": "最高ダメージ",
-        "type": 6,
-        "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の50%以上ではない",
-        "condition_coef": "1,50",
-        "score_coef": 100
-    },
-    {
-        "id": 723,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "HGが戦闘に参加しない",
-        "condition_coef": "0|1",
-        "score_coef": 100
-    },
-    {
-        "id": 724,
-        "name": "指定人数・銃種",
-        "type": 11,
-        "desc": "最低3人のHGが戦闘に参加する",
-        "condition_coef": "1,3",
-        "score_coef": 100
-    },
-    {
-        "id": 725,
-        "name": "撃破時間(単体)",
-        "type": 4,
-        "desc": "60秒以内にウロボロスを撃破する",
-        "condition_coef": "60|800001,1",
-        "score_coef": 100
-    },
-    {
-        "id": 726,
-        "name": "指定人数・銃種",
-        "type": 11,
-        "desc": "最低2人のSGが戦闘に参加する",
-        "condition_coef": "6,2",
-        "score_coef": 100
-    },
-    {
-        "id": 727,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "SMGが戦闘に参加しない",
-        "condition_coef": "0|2",
-        "score_coef": 100
-    },
-    {
-        "id": 728,
-        "name": "指定人数・銃種",
-        "type": 11,
-        "desc": "最低2人ARが戦闘に参加する",
-        "condition_coef": "4,2",
-        "score_coef": 100
-    },
-    {
-        "id": 729,
-        "name": "銃種限定",
-        "type": 12,
-        "desc": "MGが戦闘に参加しない",
-        "condition_coef": "0|5",
-        "score_coef": 100
-    },
-    {
-        "id": 801,
-        "name": "撃破時間(単体)",
-        "type": 4,
-        "desc": "40秒以内で「ネイト アシスト」を1体倒す",
-        "condition_coef": "40|10094,1",
-        "score_coef": 100
-    },
-    {
-        "id": 802,
-        "name": "撃破時間(単体)",
-        "type": 4,
-        "desc": "40秒以内で「コマンダー」を2体倒す",
-        "condition_coef": "40|10090,2",
-        "score_coef": 100
-    },
-    {
-        "id": 901,
-        "name": "fight_success_condition-10000901",
-        "type": 11,
-        "desc": "fight_success_condition-20000901",
-        "condition_coef": "3,2",
-        "score_coef": 100
-    },
-    {
-        "id": 902,
-        "name": "fight_success_condition-10000902",
-        "type": 9,
-        "desc": "fight_success_condition-20000902",
-        "condition_coef": "55,56,57",
-        "score_coef": 100
-    },
-    {
-        "id": 903,
-        "name": "fight_success_condition-10000903",
-        "type": 11,
-        "desc": "fight_success_condition-20000903",
-        "condition_coef": "5,2",
-        "score_coef": 100
-    },
-    {
-        "id": 904,
-        "name": "fight_success_condition-10000904",
-        "type": 11,
-        "desc": "fight_success_condition-20000904",
-        "condition_coef": "5,3",
-        "score_coef": 100
-    }
+  {"id": 1, "name": "戦闘勝利", "type": 1, "desc": "ステージ勝利", "condition_coef": "1", "score_coef": 100}, 
+  {
+    "id": 2, "name": "残存人員", "type": 2, "desc": "戦闘勝利時、場の人形が4人未満ではない", "condition_coef": "4", "score_coef": 100
+  }, {
+    "id": 3, "name": "損失", "type": 3, "desc": "全戦闘を通して失ったダミーが5体を超えない", "condition_coef": "5", "score_coef": 100
+  }, {
+    "id": 4, "name": "撃破時間(単体)", "type": 4, "desc": "30秒以内にドッペルゾルドナー1体を撃破する", "condition_coef": "30|10041,1", 
+    "score_coef": 100
+  }, {
+    "id": 5, "name": "撃破時間(複数)", "type": 4, "desc": "30秒以内にヴェスピド3体とガード3体を撃破する", "condition_coef": "30|10007,3;10005,3", 
+    "score_coef": 100
+  }, 
+  {"id": 6, "name": "戦闘時間", "type": 5, "desc": "60秒以内に戦闘に勝利する", "condition_coef": "60", "score_coef": 100}, 
+  {
+    "id": 7, "name": "最高ダメージ", "type": 6, "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の50%以下ではない", 
+    "condition_coef": "2,50", "score_coef": 100
+  }, {
+    "id": 8, "name": "最低ダメージ", "type": 7, "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が低いユニットの貢献割合が全体の10%以下ではない", 
+    "condition_coef": "2,10", "score_coef": 100
+  }, {
+    "id": 9, "name": "スキル発動回数", "type": 8, "desc": "隊の人形のスキル発動回数が5回を超えない", "condition_coef": "5", "score_coef": 100
+  }, {
+    "id": 10, "name": "指定人形(or)", "type": 9, "desc": "部隊にトンプソン/Gr MP5/Gr G36cのいずれかを編成する", "condition_coef": "16,26,104", 
+    "score_coef": 100
+  }, {
+    "id": 11, "name": "指定人形(and)", "type": 10, "desc": "部隊にトンプソン/Gr MP5/Gr G36cを全て編成する", "condition_coef": "16,26,104", 
+    "score_coef": 100
+  }, {
+    "id": 12, "name": "指定人数・銃種", "type": 11, "desc": "最低2人のHGが戦闘に参加する", "condition_coef": "1,2", "score_coef": 100
+  }, {
+    "id": 13, "name": "銃種限定", "type": 12, "desc": "SMGとARが戦闘に参加する", "condition_coef": "1|2,4", "score_coef": 100
+  }, {
+    "id": 14, "name": "銃種限定", "type": 12, "desc": "SMGとARが戦闘に参加しない", "condition_coef": "0|2,4", "score_coef": 100
+  }, {
+    "id": 701, "name": "戦闘時間", "type": 5, "desc": "30秒以内に戦闘に勝利する", "condition_coef": "30", "score_coef": 100
+  }, 
+  {"id": 702, "name": "銃種限定", "type": 12, "desc": "HGが戦闘に参加しない", "condition_coef": "0|1", "score_coef": 100}, 
+  {
+    "id": 703, "name": "最高ダメージ", "type": 6, "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の50%以上ではない", 
+    "condition_coef": "1,50", "score_coef": 100
+  }, 
+  {"id": 704, "name": "銃種限定", "type": 12, "desc": "RFが戦闘に参加しない", "condition_coef": "0|3", "score_coef": 100}, 
+  {
+    "id": 705, "name": "撃破時間(単体)", "type": 4, "desc": "50秒以内にM16A1を撃破する", "condition_coef": "50|800003,1", "score_coef": 100
+  }, {
+    "id": 706, "name": "指定人数・銃種", "type": 11, "desc": "最低3人のARが戦闘に参加する", "condition_coef": "4,3", "score_coef": 100
+  }, 
+  {"id": 707, "name": "銃種限定", "type": 12, "desc": "SGが戦闘に参加しない", "condition_coef": "0|6", "score_coef": 100}, 
+  {
+    "id": 708, "name": "スキル発動回数", "type": 8, "desc": "隊の人形のスキル発動回数が10回を超えない", "condition_coef": "10", "score_coef": 100
+  }, {
+    "id": 709, "name": "指定人数・銃種", "type": 11, "desc": "最低2人のSMGが戦闘に参加する", "condition_coef": "2,2", "score_coef": 100
+  }, 
+  {"id": 710, "name": "銃種限定", "type": 12, "desc": "ARが戦闘に参加する", "condition_coef": "1|4", "score_coef": 100}, 
+  {
+    "id": 711, "name": "最高ダメージ", "type": 6, "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の40%以上ではない", 
+    "condition_coef": "1,40", "score_coef": 100
+  }, {
+    "id": 712, "name": "HG参戦", "type": 11, "desc": "最低1人のHGが戦闘に参加する", "condition_coef": "1,1", "score_coef": 100
+  }, {
+    "id": 713, "name": "戦闘時間", "type": 5, "desc": "30秒以内に戦闘に勝利する", "condition_coef": "30", "score_coef": 100
+  }, {
+    "id": 714, "name": "RF参戦", "type": 11, "desc": "最低1人のRFが戦闘に参加する", "condition_coef": "3,1", "score_coef": 100
+  }, {
+    "id": 715, "name": "撃破時間(単体)", "type": 4, "desc": "50秒以内にウロボロスを撃破する", "condition_coef": "50|800001,1", "score_coef": 100
+  }, {
+    "id": 716, "name": "残存人員", "type": 2, "desc": "戦闘勝利時、場の人形が4人以下ではない", "condition_coef": "4", "score_coef": 100
+  }, {
+    "id": 717, "name": "3RF参戦", "type": 11, "desc": "最低3人のRFが戦闘に参加する", "condition_coef": "3,3", "score_coef": 100
+  }, {
+    "id": 718, "name": "MG参戦", "type": 11, "desc": "最低1人のMGが戦闘に参加する", "condition_coef": "5,1", "score_coef": 100
+  }, {
+    "id": 719, "name": "最高ダメージ", "type": 6, "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の40%以上ではない", 
+    "condition_coef": "1,40", "score_coef": 100
+  }, {
+    "id": 720, "name": "スキル発動回数", "type": 8, "desc": "隊の人形のスキル発動回数が5回を超えない", "condition_coef": "5", "score_coef": 100
+  }, {
+    "id": 721, "name": "指定人形(or)", "type": 9, "desc": "部隊にMG3/Gr MG4/Gr MG5のいずれかを編成する", "condition_coef": "88,125,109", 
+    "score_coef": 100
+  }, {
+    "id": 722, "name": "最高ダメージ", "type": 6, "desc": "出撃人形及び融合勢力ユニット内で、最もダメージ貢献度が高いユニットの貢献割合が全体の50%以上ではない", 
+    "condition_coef": "1,50", "score_coef": 100
+  }, 
+  {"id": 723, "name": "銃種限定", "type": 12, "desc": "HGが戦闘に参加しない", "condition_coef": "0|1", "score_coef": 100}, 
+  {
+    "id": 724, "name": "指定人数・銃種", "type": 11, "desc": "最低3人のHGが戦闘に参加する", "condition_coef": "1,3", "score_coef": 100
+  }, {
+    "id": 725, "name": "撃破時間(単体)", "type": 4, "desc": "60秒以内にウロボロスを撃破する", "condition_coef": "60|800001,1", "score_coef": 100
+  }, {
+    "id": 726, "name": "指定人数・銃種", "type": 11, "desc": "最低2人のSGが戦闘に参加する", "condition_coef": "6,2", "score_coef": 100
+  }, 
+  {"id": 727, "name": "銃種限定", "type": 12, "desc": "SMGが戦闘に参加しない", "condition_coef": "0|2", "score_coef": 100}, 
+  {
+    "id": 728, "name": "指定人数・銃種", "type": 11, "desc": "最低2人ARが戦闘に参加する", "condition_coef": "4,2", "score_coef": 100
+  }, 
+  {"id": 729, "name": "銃種限定", "type": 12, "desc": "MGが戦闘に参加しない", "condition_coef": "0|5", "score_coef": 100}, 
+  {
+    "id": 801, "name": "撃破時間(単体)", "type": 4, "desc": "40秒以内で「ネイト アシスト」を1体倒す", "condition_coef": "40|10094,1", 
+    "score_coef": 100
+  }, {
+    "id": 802, "name": "撃破時間(単体)", "type": 4, "desc": "40秒以内で「コマンダー」を2体倒す", "condition_coef": "40|10090,2", 
+    "score_coef": 100
+  }, {
+    "id": 901, "name": "fight_success_condition-10000901", "type": 11, "desc": "fight_success_condition-20000901", 
+    "condition_coef": "3,2", "score_coef": 100
+  }, {
+    "id": 902, "name": "fight_success_condition-10000902", "type": 9, "desc": "fight_success_condition-20000902", 
+    "condition_coef": "55,56,57", "score_coef": 100
+  }, {
+    "id": 903, "name": "fight_success_condition-10000903", "type": 11, "desc": "fight_success_condition-20000903", 
+    "condition_coef": "5,2", "score_coef": 100
+  }, {
+    "id": 904, "name": "fight_success_condition-10000904", "type": 11, "desc": "fight_success_condition-20000904", 
+    "condition_coef": "5,3", "score_coef": 100
+  }
 ]
