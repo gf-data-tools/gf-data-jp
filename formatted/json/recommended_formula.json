@@ -12,8 +12,9 @@
     "preview": "2:16-0,17-0,18-0,20-0,21-0,22-0,23-0,24-0,25-0,26-0,27-0,29-0,31-0,32-0,33-0,92-0,93-0,94-0,101-0,103-0,104-0,115-0,127-0,135-0,137-0,150-0,213-0,228-0,245-0,286-0,304-0,328-0,336-0,347-0,355-0,363-0,364-0|4:58-0,60-0,61-0,63-0,65-0,66-0,68-0,69-0,70-0,71-0,74-0,105-0,107-0,118-0,122-0,133-0,216-0,237-0,262-0,288-0,330-0,338-0,349-0,356-0,365-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
-    "id": 3, "develop_type": 1, "type": "3", "name": "ライフル", "en_name": "RIFLE", "content": "recommended_formula-30000003", 
-    "background": "rf_bg", "mp": 400, "ammo": 100, "mre": 400, "part": 200, "type_rarity": "3:S,2:D,4:D", 
+    "id": 3, "develop_type": 1, "type": "3", "name": "ライフル", "en_name": "RIFLE", 
+    "content": "recommended_formula-30000003", "background": "rf_bg", "mp": 400, "ammo": 100, "mre": 400, "part": 200, 
+    "type_rarity": "3:S,2:D,4:D", 
     "preview": "2:16-0,17-0,18-0,21-0,22-0,24-0,25-0,26-0,27-0,31-0,32-0,33-0,92-0,93-0,94-0|3:34-0,36-0,37-0,39-0,40-0,41-0,42-0,43-0,44-0,46-0,47-0,48-0,50-0,51-0,52-0,53-0,95-0,128-0,148-0,184-0,197-0,198-0,235-0,247-0,257-0,261-0,270-0,305-0,312-0,329-0,337-0,348-0|4:58-0,60-0,61-0,63-0,65-0,66-0,68-0,69-0,70-0,71-0,74-0,105-0,107-0,118-0,122-0,133-0,216-0,237-0,262-0,288-0,330-0,338-0,349-0,356-0,365-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -30,8 +31,8 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 6, "develop_type": 1, "type": "2,3,4", "name": "人形混合", "en_name": "HYBRID", 
-    "content": "※SMG、RF、ARタイプの人形が製造されますが、製造確率はそれぞれの銃種のレシピより低くなります。", "background": "hybrid_bg", "mp": 400, "ammo": 400, 
-    "mre": 400, "part": 200, "type_rarity": "2:C,3:C,4:C", 
+    "content": "※SMG、RF、ARタイプの人形が製造されますが、製造確率はそれぞれの銃種のレシピより低くなります。", 
+    "background": "hybrid_bg", "mp": 400, "ammo": 400, "mre": 400, "part": 200, "type_rarity": "2:C,3:C,4:C", 
     "preview": "2:16-0,17-0,18-0,20-0,21-0,22-0,23-0,24-0,25-0,26-0,27-0,29-0,31-0,32-0,33-0,92-0,93-0,94-0,101-0,103-0,104-0,115-0,127-0,135-0,137-0,150-0,213-0,228-0,245-0,286-0,304-0,328-0,336-0,347-0,355-0,363-0,364-0|3:34-0,36-0,37-0,39-0,40-0,41-0,42-0,43-0,44-0,46-0,47-0,48-0,50-0,51-0,52-0,53-0,95-0,128-0,148-0,184-0,197-0,198-0,235-0,247-0,257-0,261-0,270-0,305-0,312-0,329-0,337-0,348-0|4:58-0,60-0,61-0,62-0,63-0,64-0,65-0,66-0,68-0,69-0,70-0,71-0,72-0,74-0,105-0,106-0,107-0,118-0,122-0,129-0,130-0,133-0,171-0,172-0,181-0,194-0,196-0,205-0,206-0,214-0,215-0,216-0,236-0,237-0,243-0,262-0,287-0,288-0,290-0,293-0,306-0,313-0,330-0,338-0,349-0,356-0,365-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -41,8 +42,9 @@
     "preview": "2:16-0,18-0,20-0,22-0,23-0,26-0,27-0,28-0,29-0,32-0,101-0,103-0,104-0,115-0,116-0,127-0,135-0,137-0,150-0,178-0,213-0,228-0,245-0,286-0,304-0,328-0,336-0,347-0,355-0,363-0,364-0|4:58-0,60-0,61-0,65-0,66-0,69-0,70-0,105-0,118-0,120-0,122-0,216-0,237-0,262-0,288-0,330-0,338-0,349-0,356-0,365-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
-    "id": 8, "develop_type": 2, "type": "3", "name": "ライフル", "en_name": "RIFLE", "content": "recommended_formula-30000008", 
-    "background": "rf_bg", "mp": 4000, "ammo": 1000, "mre": 4000, "part": 2000, "type_rarity": "3:S,2:D,4:D", 
+    "id": 8, "develop_type": 2, "type": "3", "name": "ライフル", "en_name": "RIFLE", 
+    "content": "recommended_formula-30000008", "background": "rf_bg", "mp": 4000, "ammo": 1000, "mre": 4000, "part": 2000, 
+    "type_rarity": "3:S,2:D,4:D", 
     "preview": "2:16-0,18-0,22-0,26-0,27-0,32-0,116-0,178-0|3:34-0,36-0,37-0,39-0,42-0,43-0,44-0,46-0,48-0,50-0,53-0,95-0,117-0,128-0,145-0,146-0,148-0,180-0,184-0,197-0,198-0,235-0,247-0,257-0,261-0,270-0,305-0,312-0,329-0,337-0,348-0|4:58-0,60-0,61-0,65-0,66-0,69-0,70-0,105-0,118-0,120-0,122-0,216-0,237-0,262-0,288-0,330-0,338-0,349-0,356-0,365-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -65,14 +67,14 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 12, "develop_type": 2, "type": "6", "name": "ショットガン低消費", "en_name": "SHOTGUN", 
-    "content": "※適度に資源消費を減らせます。ショットガンが製造される確率は、ショットガン最適レシピを使用するより低いです。", "background": "sg_bg", "mp": 6000, "ammo": 1000, 
-    "mre": 6000, "part": 4000, "type_rarity": "6:B,3:B,2:D,4:D", 
+    "content": "※適度に資源消費を減らせます。ショットガンが製造される確率は、ショットガン最適レシピを使用するより低いです。", 
+    "background": "sg_bg", "mp": 6000, "ammo": 1000, "mre": 6000, "part": 4000, "type_rarity": "6:B,3:B,2:D,4:D", 
     "preview": "2:16-0,18-0,22-0,26-0,27-0,32-0,116-0,178-0|3:34-0,36-0,37-0,39-0,42-0,43-0,44-0,46-0,48-0,50-0,53-0,95-0,117-0,128-0,145-0,146-0,148-0,180-0,184-0,197-0,198-0,235-0,247-0,257-0,261-0,270-0,305-0,312-0,329-0,337-0,348-0|4:58-0,60-0,61-0,65-0,66-0,69-0,70-0,105-0,118-0,120-0,122-0,216-0,237-0,262-0,288-0,330-0,338-0,349-0,356-0,365-0|6:152-0,153-0,154-0,155-0,156-0,157-0,158-0,159-0,160-0,162-0,163-0,164-0,165-0,188-0,189-0,190-0,281-0,282-0,283-0,323-0,324-0,325-0,326-0,350-0,351-0,352-0,353-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 13, "develop_type": 3, "type": "1", "name": "オプティカルサイト", "en_name": "recommended_formula-20000013", 
-    "content": "*HG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>を向上させる", "background": "equip_bg", "mp": 140, "ammo": 10, 
-    "mre": 110, "part": 10, "type_rarity": "1:A,2:A,3:A,4:C,9:C,10:C,11:C,13:C,15:C,16:C", 
+    "content": "*HG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>を向上させる", "background": "equip_bg", "mp": 140, 
+    "ammo": 10, "mre": 110, "part": 10, "type_rarity": "1:A,2:A,3:A,4:C,9:C,10:C,11:C,13:C,15:C,16:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224", 
     "is_produce": 1, "produce_mp": 140, "produce_ammo": 10, "produce_mre": 110, "produce_part": 10, 
     "produce_preview": "1:4,2:4,3:3,4:2"
@@ -94,22 +96,25 @@
     "produce_preview": "9:4,10:4,11:3,12:2"
   }, {
     "id": 16, "develop_type": 3, "type": "4", "name": "夜戦装備", "en_name": "recommended_formula-20000016", 
-    "content": "*RF、MG以外は装備可能\n人形の<color=#FFB400FF>夜戦時における命中低下</color>を抑える", "background": "equip_bg", "mp": 70, "ammo": 10, 
-    "mre": 150, "part": 30, "type_rarity": "4:A,1:C,2:C,3:C,9:C,10:C,11:C,13:C,15:C,16:C", 
+    "content": "*RF、MG以外は装備可能\n人形の<color=#FFB400FF>夜戦時における命中低下</color>を抑える", 
+    "background": "equip_bg", "mp": 70, "ammo": 10, "mre": 150, "part": 30, 
+    "type_rarity": "4:A,1:C,2:C,3:C,9:C,10:C,11:C,13:C,15:C,16:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224", 
     "is_produce": 1, "produce_mp": 70, "produce_ammo": 10, "produce_mre": 150, "produce_part": 30, 
     "produce_preview": "13:4,14:4,15:3,16:1,305:1"
   }, {
     "id": 17, "develop_type": 3, "type": "13", "name": "サイレンサー", "en_name": "recommended_formula-20000017", 
-    "content": "*MG、SG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>と<color=#FFB400FF>回避</color>を向上させる", "background": "equip_bg", 
-    "mp": 150, "ammo": 50, "mre": 50, "part": 50, "type_rarity": "13:A,9:B,16:B,11:C,10:C,1:C,2:C,3:C,4:C,15:C", 
+    "content": "*MG、SG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>と<color=#FFB400FF>回避</color>を向上させる", 
+    "background": "equip_bg", "mp": 150, "ammo": 50, "mre": 50, "part": 50, 
+    "type_rarity": "13:A,9:B,16:B,11:C,10:C,1:C,2:C,3:C,4:C,15:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224", 
     "is_produce": 1, "produce_mp": 150, "produce_ammo": 50, "produce_mre": 50, "produce_part": 50, 
     "produce_preview": "63:4,64:4,65:3,66:2"
   }, {
     "id": 18, "develop_type": 3, "type": "5", "name": "徹甲弾", "en_name": "recommended_formula-20000018", 
-    "content": "*RF、MGのみが装備可能\n人形<color=#FFB400FF>破甲能力</color>を向上させ、装甲ユニットに与えるダメージが増加する", "background": "equip_bg", "mp": 10, 
-    "ammo": 150, "mre": 90, "part": 100, "type_rarity": "5:A,7:B,6:C,8:C,17:C,4:C,1:C,2:C,3:C,9:C,10:C,11:C,13:C,15:C,16:C", 
+    "content": "*RF、MGのみが装備可能\n人形<color=#FFB400FF>破甲能力</color>を向上させ、装甲ユニットに与えるダメージが増加する", 
+    "background": "equip_bg", "mp": 10, "ammo": 150, "mre": 90, "part": 100, 
+    "type_rarity": "5:A,7:B,6:C,8:C,17:C,4:C,1:C,2:C,3:C,9:C,10:C,11:C,13:C,15:C,16:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|5:17,18,19,20,226,227|6:69,70,71,72,225|7:73,74,75,76,77,78,79,80,230,231,235|8:29,30,31,32|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224|17:228,229", 
     "is_produce": 1, "produce_mp": 10, "produce_ammo": 150, "produce_mre": 90, "produce_part": 100, 
     "produce_preview": "17:4,18:4,19:3,226:3,20:2,227:2"
@@ -123,8 +128,8 @@
     "produce_preview": "69:4,70:4,71:3,72:2,225:2"
   }, {
     "id": 20, "develop_type": 3, "type": "8", "name": "高速弾", "en_name": "recommended_formula-20000020", 
-    "content": "*ARのみが装備可能\n人形の<color=#FFB400FF>火力</color>を向上させる", "background": "equip_bg", "mp": 10, "ammo": 230, 
-    "mre": 120, "part": 80, "type_rarity": "8:A,5:B,23:C,6:C,9:C,7:C,17:C,4:C,10:C,11:C,13:C,15:C,16:C", 
+    "content": "*ARのみが装備可能\n人形の<color=#FFB400FF>火力</color>を向上させる", "background": "equip_bg", "mp": 10, 
+    "ammo": 230, "mre": 120, "part": 80, "type_rarity": "8:A,5:B,23:C,6:C,9:C,7:C,17:C,4:C,10:C,11:C,13:C,15:C,16:C", 
     "preview": "4:13,14,15,16,305|5:17,18,19,20,226,227|6:69,70,71,72,225|7:73,74,75,76,77,78,79,80,230,231,235|8:29,30,31,32|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224|17:228,229|23:310,311", 
     "is_produce": 1, "produce_mp": 10, "produce_ammo": 230, "produce_mre": 120, "produce_part": 80, 
     "produce_preview": "29:4,30:4,31:3,32:2"
@@ -138,8 +143,8 @@
     "produce_preview": "73:3,77:3,74:3,78:3,75:3,79:3,230:3,76:1,80:1,231:1,235:1"
   }, {
     "id": 22, "develop_type": 3, "type": "10", "name": "外骨格", "en_name": "recommended_formula-20000022", 
-    "content": "*HG、SMG、ARのみが装備可能\n人形の<color=#FFB400FF>回避</color>を向上させる", "background": "equip_bg", "mp": 100, "ammo": 80, 
-    "mre": 10, "part": 100, "type_rarity": "10:A,9:C,1:C,2:C,3:C,4:C,11:C,13:C,15:C,16:C", 
+    "content": "*HG、SMG、ARのみが装備可能\n人形の<color=#FFB400FF>回避</color>を向上させる", "background": "equip_bg", 
+    "mp": 100, "ammo": 80, "mre": 10, "part": 100, "type_rarity": "10:A,9:C,1:C,2:C,3:C,4:C,11:C,13:C,15:C,16:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224", 
     "is_produce": 1, "produce_mp": 100, "produce_ammo": 80, "produce_mre": 10, "produce_part": 100, 
     "produce_preview": "37:3,55:3,38:3,56:3,39:2,57:2,40:1,58:1"
@@ -169,27 +174,28 @@
     "produce_preview": "87:4,88:4,89:3,90:2"
   }, {
     "id": 26, "develop_type": 3, "type": "102", "name": "装備混合", "en_name": "recommended_formula-20000026", 
-    "content": "※すべての装備が製造されますが、製造確率はそれぞれの装備単独のレシピより低くなります。", "background": "equip_bg", "mp": 150, "ammo": 150, "mre": 150, 
-    "part": 150, "type_rarity": "1:C,2:C,3:C,21:C,23:C,8:C,7:C,14:C,22:C,17:C,6:C,5:C,16:C,13:C,9:C,15:C,11:C,10:C,4:C", 
+    "content": "※すべての装備が製造されますが、製造確率はそれぞれの装備単独のレシピより低くなります。", 
+    "background": "equip_bg", "mp": 150, "ammo": 150, "mre": 150, "part": 150, 
+    "type_rarity": "1:C,2:C,3:C,21:C,23:C,8:C,7:C,14:C,22:C,17:C,6:C,5:C,16:C,13:C,9:C,15:C,11:C,10:C,4:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|5:17,18,19,20,226,227|6:69,70,71,72,225|7:73,74,75,76,77,78,79,80,230,231,235|8:29,30,31,32|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|14:67,68|15:87,88,89,90|16:222,223,224|17:228,229|21:312,313,314|22:306,307,308|23:310,311", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 27, "develop_type": 4, "type": "101", "name": "妖精低消費", "en_name": "recommended_formula-20000027", 
-    "content": "※このレシピでは一部の妖精のみが製造されます", "background": "fairy_bg", "mp": 500, "ammo": 500, "mre": 500, "part": 500, 
-    "type_rarity": "101:C,1:C,2:C,3:C,4:C,13:C,16:C,10:C,11:C,15:C,9:C", 
+    "content": "※このレシピでは一部の妖精のみが製造されます", "background": "fairy_bg", "mp": 500, "ammo": 500, "mre": 500, 
+    "part": 500, "type_rarity": "101:C,1:C,2:C,3:C,4:C,13:C,16:C,10:C,11:C,15:C,9:C", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 28, "develop_type": 4, "type": "101", "name": "妖精一般", "en_name": "recommended_formula-20000028", 
-    "content": "※このレシピではすべての妖精を製造できます\n投入する資源が多いほど、妖精は出やすいです\n同じ資源量の場合、参式が一番妖精は出やすいです", "background": "fairy_bg", "mp": 2000, 
-    "ammo": 2000, "mre": 2000, "part": 2000, 
+    "content": "※このレシピではすべての妖精を製造できます\n投入する資源が多いほど、妖精は出やすいです\n同じ資源量の場合、参式が一番妖精は出やすいです", 
+    "background": "fairy_bg", "mp": 2000, "ammo": 2000, "mre": 2000, "part": 2000, 
     "type_rarity": "101:C,1:C,2:C,3:C,4:C,13:C,16:C,5:C,6:C,8:C,7:C,10:C,11:C,15:C,9:C", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|5:18,19,20,226,227|6:70,71,72,225|7:74,75,76,78,79,80,230,231,235|8:30,31,32|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|17:228,229|101:15,16,17,1,2,3,4,6,24,25,7,8,9,5,10,11,12,13,14,23", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 29, "develop_type": 4, "type": "1", "name": "オプティカルサイト", "en_name": "recommended_formula-20000029", 
-    "content": "*HG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>を向上させる", "background": "equip_bg", "mp": 2000, "ammo": 500, 
-    "mre": 1650, "part": 500, "type_rarity": "1:A,101:C,2:A,3:A,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
+    "content": "*HG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>を向上させる", "background": "equip_bg", "mp": 2000, 
+    "ammo": 500, "mre": 1650, "part": 500, "type_rarity": "1:A,101:C,2:A,3:A,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -208,20 +214,22 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 32, "develop_type": 4, "type": "4", "name": "夜戦装備", "en_name": "recommended_formula-20000032", 
-    "content": "*RF、MG以外は装備可能\n人形の<color=#FFB400FF>夜戦時における命中低下</color>を抑える", "background": "equip_bg", "mp": 1000, 
-    "ammo": 500, "mre": 2250, "part": 500, "type_rarity": "4:A,101:C,1:D,2:D,3:D,13:D,16:D,10:D,11:D,15:D,9:D", 
+    "content": "*RF、MG以外は装備可能\n人形の<color=#FFB400FF>夜戦時における命中低下</color>を抑える", 
+    "background": "equip_bg", "mp": 1000, "ammo": 500, "mre": 2250, "part": 500, 
+    "type_rarity": "4:A,101:C,1:D,2:D,3:D,13:D,16:D,10:D,11:D,15:D,9:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 33, "develop_type": 4, "type": "13", "name": "サイレンサー", "en_name": "recommended_formula-20000033", 
-    "content": "*MG、SG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>と<color=#FFB400FF>回避</color>を向上させる", "background": "equip_bg", 
-    "mp": 2250, "ammo": 750, "mre": 750, "part": 750, "type_rarity": "13:A,101:C,1:D,2:D,3:D,4:D,16:D,10:D,11:D,15:D,9:D", 
+    "content": "*MG、SG以外は装備可能\n人形の<color=#FFB400FF>会心率</color>と<color=#FFB400FF>回避</color>を向上させる", 
+    "background": "equip_bg", "mp": 2250, "ammo": 750, "mre": 750, "part": 750, 
+    "type_rarity": "13:A,101:C,1:D,2:D,3:D,4:D,16:D,10:D,11:D,15:D,9:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 34, "develop_type": 4, "type": "5", "name": "徹甲弾", "en_name": "recommended_formula-20000034", 
-    "content": "*RF、MGのみが装備可能\n人形<color=#FFB400FF>破甲能力</color>を向上させ、装甲ユニットに与えるダメージが増加する", "background": "equip_bg", 
-    "mp": 500, "ammo": 2250, "mre": 1350, "part": 1500, 
+    "content": "*RF、MGのみが装備可能\n人形<color=#FFB400FF>破甲能力</color>を向上させ、装甲ユニットに与えるダメージが増加する", 
+    "background": "equip_bg", "mp": 500, "ammo": 2250, "mre": 1350, "part": 1500, 
     "type_rarity": "5:A,101:C,6:D,8:D,7:D,17:D,1:D,2:D,3:D,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|5:18,19,20,226,227|6:70,71,72,225|7:74,75,76,78,79,80,230,231,235|8:30,31,32|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|17:228,229|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
@@ -234,8 +242,8 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 36, "develop_type": 4, "type": "8", "name": "高速弾", "en_name": "recommended_formula-20000036", 
-    "content": "*ARのみが装備可能\n人形の<color=#FFB400FF>火力</color>を向上させる", "background": "equip_bg", "mp": 500, "ammo": 3500, 
-    "mre": 1800, "part": 1200, "type_rarity": "8:A,101:C,5:D,6:D,7:D,17:D,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
+    "content": "*ARのみが装備可能\n人形の<color=#FFB400FF>火力</color>を向上させる", "background": "equip_bg", "mp": 500, 
+    "ammo": 3500, "mre": 1800, "part": 1200, "type_rarity": "8:A,101:C,5:D,6:D,7:D,17:D,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
     "preview": "4:14,15,16|5:18,19,20,226,227|6:70,71,72,225|7:74,75,76,78,79,80,230,231,235|8:30,31,32|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|17:228,229|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -247,8 +255,8 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 38, "develop_type": 4, "type": "10", "name": "外骨格", "en_name": "recommended_formula-20000038", 
-    "content": "*HG、SMG、ARのみが装備可能\n人形の<color=#FFB400FF>回避</color>を向上させる", "background": "equip_bg", "mp": 1500, "ammo": 1200, 
-    "mre": 500, "part": 1500, "type_rarity": "10:A,101:C,11:D,15:D,9:D,1:D,2:D,3:D,4:D,13:D,16:D", 
+    "content": "*HG、SMG、ARのみが装備可能\n人形の<color=#FFB400FF>回避</color>を向上させる", "background": "equip_bg", 
+    "mp": 1500, "ammo": 1200, "mre": 500, "part": 1500, "type_rarity": "10:A,101:C,11:D,15:D,9:D,1:D,2:D,3:D,4:D,13:D,16:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -274,20 +282,22 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 42, "develop_type": 4, "type": "102", "name": "装備混合", "en_name": "recommended_formula-20000042", 
-    "content": "※すべての装備が製造されますが、製造確率はそれぞれの装備単独のレシピより低くなります。", "background": "equip_bg", "mp": 2500, "ammo": 2500, 
-    "mre": 2500, "part": 2500, "type_rarity": "1:D,2:D,3:D,4:D,13:D,16:D,5:D,6:D,8:D,7:D,17:D,10:D,11:D,14:D,15:D,9:D", 
+    "content": "※すべての装備が製造されますが、製造確率はそれぞれの装備単独のレシピより低くなります。", 
+    "background": "equip_bg", "mp": 2500, "ammo": 2500, "mre": 2500, "part": 2500, 
+    "type_rarity": "1:D,2:D,3:D,4:D,13:D,16:D,5:D,6:D,8:D,7:D,17:D,10:D,11:D,14:D,15:D,9:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|5:18,19,20,226,227|6:70,71,72,225|7:74,75,76,78,79,80,230,231,235|8:30,31,32|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|14:67,68|15:88,89,90|16:222,223,224|17:228,229|101:15,16,17,1,2,3,4,6,24,25,7,8,9,5,10,11,12,13,14,23", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 43, "develop_type": 2, "type": "2,3,4", "name": "人形混合", "en_name": "HYBRID", 
-    "content": "※SMG、RF、ARタイプの人形が製造されますが、製造確率はそれぞれの銃種のレシピより低くなります。", "background": "hybrid_bg", "mp": 4000, "ammo": 4000, 
-    "mre": 4000, "part": 2000, "type_rarity": "2:C,3:C,4:C", 
+    "content": "※SMG、RF、ARタイプの人形が製造されますが、製造確率はそれぞれの銃種のレシピより低くなります。", 
+    "background": "hybrid_bg", "mp": 4000, "ammo": 4000, "mre": 4000, "part": 2000, "type_rarity": "2:C,3:C,4:C", 
     "preview": "2:16-0,18-0,20-0,22-0,23-0,26-0,27-0,28-0,29-0,32-0,101-0,103-0,104-0,115-0,116-0,127-0,135-0,137-0,150-0,178-0,213-0,228-0,245-0,286-0,304-0,328-0,336-0,347-0,355-0,363-0,364-0|3:34-0,36-0,37-0,39-0,42-0,43-0,44-0,46-0,48-0,50-0,53-0,95-0,117-0,128-0,145-0,146-0,148-0,180-0,184-0,197-0,198-0,235-0,247-0,257-0,261-0,270-0,305-0,312-0,329-0,337-0,348-0|4:58-0,60-0,61-0,62-0,64-0,65-0,66-0,69-0,70-0,72-0,105-0,106-0,118-0,120-0,122-0,129-0,130-0,171-0,172-0,181-0,194-0,196-0,205-0,206-0,214-0,215-0,216-0,236-0,237-0,243-0,262-0,287-0,288-0,290-0,293-0,306-0,313-0,330-0,338-0,349-0,356-0,365-0", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 44, "develop_type": 3, "type": "16", "name": "予備サイト", "en_name": "recommended_formula-20000044", 
-    "content": "*HG、MGのみが装備可能\n人形の<color=#FFB400FF>命中</color>と<color=#FFB400FF>会心率</color>を向上させる", "background": "equip_bg", 
-    "mp": 180, "ammo": 65, "mre": 65, "part": 65, "type_rarity": "16:A,13:B,9:B,15:C,1:C,2:C,3:C,11:C,10:C,4:C", 
+    "content": "*HG、MGのみが装備可能\n人形の<color=#FFB400FF>命中</color>と<color=#FFB400FF>会心率</color>を向上させる", 
+    "background": "equip_bg", "mp": 180, "ammo": 65, "mre": 65, "part": 65, 
+    "type_rarity": "16:A,13:B,9:B,15:C,1:C,2:C,3:C,11:C,10:C,4:C", 
     "preview": "1:1,2,3,4|2:5,6,7,8|3:9,10,11,12|4:13,14,15,16,305|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224", 
     "is_produce": 1, "produce_mp": 180, "produce_ammo": 65, "produce_mre": 65, "produce_part": 65, 
     "produce_preview": "222:5,223:3,224:2"
@@ -301,8 +311,9 @@
     "produce_preview": "232:5,233:3,234:1,309:1"
   }, {
     "id": 46, "develop_type": 4, "type": "16", "name": "予備サイト", "en_name": "recommended_formula-20000046", 
-    "content": "*HG、MGのみが装備可能\n人形の<color=#FFB400FF>命中</color>と<color=#FFB400FF>会心率</color>を向上させる", "background": "equip_bg", 
-    "mp": 2500, "ammo": 900, "mre": 900, "part": 900, "type_rarity": "16:A,1:D,2:D,3:D,4:D,13:C,10:D,11:D,15:D,9:D", 
+    "content": "*HG、MGのみが装備可能\n人形の<color=#FFB400FF>命中</color>と<color=#FFB400FF>会心率</color>を向上させる", 
+    "background": "equip_bg", "mp": 2500, "ammo": 900, "mre": 900, "part": 900, 
+    "type_rarity": "16:A,1:D,2:D,3:D,4:D,13:C,10:D,11:D,15:D,9:D", 
     "preview": "1:2,3,4|2:6,7,8|3:10,11,12|4:14,15,16|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
@@ -314,60 +325,66 @@
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 48, "develop_type": 4, "type": "17", "name": "特殊徹甲弾", "en_name": "recommended_formula-20000048", 
-    "content": "*MGのみが装備可能\n<color=#FFB400FF>破甲能力</color>を大きく向上させ、装甲ユニットに与えるダメージが増加する", "background": "equip_bg", "mp": 500, 
-    "ammo": 4000, "mre": 500, "part": 500, "type_rarity": "17:A,101:C,5:D,6:D,8:D,7:D,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
+    "content": "*MGのみが装備可能\n<color=#FFB400FF>破甲能力</color>を大きく向上させ、装甲ユニットに与えるダメージが増加する", 
+    "background": "equip_bg", "mp": 500, "ammo": 4000, "mre": 500, "part": 500, 
+    "type_rarity": "17:A,101:C,5:D,6:D,8:D,7:D,4:D,13:D,16:D,10:D,11:D,15:D,9:D", 
     "preview": "4:14,15,16|5:18,19,20,226,227|6:70,71,72,225|7:74,75,76,78,79,80,230,231,235|8:30,31,32|9:232,233,234|10:38,39,40,56,57,58|11:42,43,44|13:64,65,66|15:88,89,90|16:222,223,224|17:228,229|101:15,16,17,1,2,3,4,6,24,25,7,8,9", 
     "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 49, "develop_type": 3, "type": "17", "name": "特殊徹甲弾", "en_name": "recommended_formula-20000049", 
-    "content": "*MGのみが装備可能\n<color=#FFB400FF>破甲能力</color>を大きく向上させ、装甲ユニットに与えるダメージが増加する", "background": "equip_bg", "mp": 10, 
-    "ammo": 300, "mre": 10, "part": 10, "type_rarity": "17:A,7:C,6:C,8:C,5:C,16:C,13:C,9:C,15:C,11:C,10:C,4:C", 
+    "content": "*MGのみが装備可能\n<color=#FFB400FF>破甲能力</color>を大きく向上させ、装甲ユニットに与えるダメージが増加する", 
+    "background": "equip_bg", "mp": 10, "ammo": 300, "mre": 10, "part": 10, 
+    "type_rarity": "17:A,7:C,6:C,8:C,5:C,16:C,13:C,9:C,15:C,11:C,10:C,4:C", 
     "preview": "4:13,14,15,16,305|5:17,18,19,20,226,227|6:69,70,71,72,225|7:73,74,75,76,77,78,79,80,230,231,235|8:29,30,31,32|9:232,233,234,309|10:37,38,39,40,55,56,57,58|11:42,43,44|13:63,64,65,66|15:87,88,89,90|16:222,223,224|17:228,229", 
     "is_produce": 1, "produce_mp": 10, "produce_ammo": 300, "produce_mre": 10, "produce_part": 10, 
     "produce_preview": "228:5,229:2"
   }, {
     "id": 50, "develop_type": 6, "type": "101", "name": "妖精低消費", "en_name": "recommended_formula-20000050", 
-    "content": "※このオーダーは一部の妖精のみを製造できます", "background": "fairy_bg", "mp": 500, "ammo": 500, "mre": 500, "part": 500, 
-    "type_rarity": "1:B,2:B,3:B,4:B", "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, 
-    "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
+    "content": "※このオーダーは一部の妖精のみを製造できます", "background": "fairy_bg", "mp": 500, "ammo": 500, "mre": 500, 
+    "part": 500, "type_rarity": "1:B,2:B,3:B,4:B", "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, 
+    "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 51, "develop_type": 6, "type": "101", "name": "妖精一般", "en_name": "recommended_formula-20000051", 
-    "content": "※このレシピではすべての妖精を製造できます\n投入する資源が多いほど、妖精は出やすいです\n同じ資源量の場合、参式が一番妖精は出やすいです", "background": "fairy_bg", "mp": 2000, 
-    "ammo": 2000, "mre": 2000, "part": 1000, "type_rarity": "1:C,2:C,3:C,4:C,5:C,6:C", 
+    "content": "※このレシピではすべての妖精を製造できます\n投入する資源が多いほど、妖精は出やすいです\n同じ資源量の場合、参式が一番妖精は出やすいです", 
+    "background": "fairy_bg", "mp": 2000, "ammo": 2000, "mre": 2000, "part": 1000, "type_rarity": "1:C,2:C,3:C,4:C,5:C,6:C", 
     "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9|5:5,10,11|6:12,13,14,23", "is_produce": 0, "produce_mp": 0, 
     "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 52, "develop_type": 6, "type": "1", "name": "強化タイプ", "en_name": "recommended_formula-20000052", 
-    "content": "※戦闘タイプの妖精。戦闘中、味方に防御面の強化効果を与えることができる。", "background": "fairy_bg", "mp": 750, "ammo": 500, "mre": 1000, 
-    "part": 500, "type_rarity": "1:A,2:C,3:C,4:C", "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, 
-    "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
+    "content": "※戦闘タイプの妖精。戦闘中、味方に防御面の強化効果を与えることができる。", "background": "fairy_bg", 
+    "mp": 750, "ammo": 500, "mre": 1000, "part": 500, "type_rarity": "1:A,2:C,3:C,4:C", 
+    "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, 
+    "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 53, "develop_type": 6, "type": "2", "name": "属性タイプ", "en_name": "recommended_formula-20000053", 
-    "content": "※戦闘タイプの妖精。直接敵にダメージを与えることができる。", "background": "fairy_bg", "mp": 750, "ammo": 1000, "mre": 500, "part": 500, 
-    "type_rarity": "1:C,2:A,3:B,4:B", "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, 
-    "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
+    "content": "※戦闘タイプの妖精。直接敵にダメージを与えることができる。", "background": "fairy_bg", "mp": 750, 
+    "ammo": 1000, "mre": 500, "part": 500, "type_rarity": "1:C,2:A,3:B,4:B", 
+    "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, 
+    "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 54, "develop_type": 6, "type": "3", "name": "防御タイプ", "en_name": "recommended_formula-20000054", 
-    "content": "※戦闘外でも、様々な援護や便利な効果を与えることができる。", "background": "fairy_bg", "mp": 1000, "ammo": 750, "mre": 500, "part": 500, 
-    "type_rarity": "1:C,2:B,3:A,4:C", "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, 
-    "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
+    "content": "※戦闘外でも、様々な援護や便利な効果を与えることができる。", "background": "fairy_bg", "mp": 1000, 
+    "ammo": 750, "mre": 500, "part": 500, "type_rarity": "1:C,2:B,3:A,4:C", 
+    "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, 
+    "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 55, "develop_type": 6, "type": "4", "name": "凶暴タイプ", "en_name": "recommended_formula-20000055", 
-    "content": "※戦闘外のスキルを持ち、ステージマップ上で使用できる。スキルを使用したそのターン、またそれ以降の数ターンの間で効果を発揮する。", "background": "fairy_bg", "mp": 500, 
-    "ammo": 1000, "mre": 750, "part": 500, "type_rarity": "1:C,2:B,3:C,4:A", 
+    "content": "※戦闘外のスキルを持ち、ステージマップ上で使用できる。スキルを使用したそのターン、またそれ以降の数ターンの間で効果を発揮する。", 
+    "background": "fairy_bg", "mp": 500, "ammo": 1000, "mre": 750, "part": 500, "type_rarity": "1:C,2:B,3:C,4:A", 
     "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9", "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, 
     "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 56, "develop_type": 6, "type": "5", "name": "増援タイプ", "en_name": "recommended_formula-20000056", 
-    "content": "※戦闘に直接な影響を与えないが、プレイヤーや部隊に対して何かしらの便利な効果を与えることができる。（経験値ボーナス、ドロップ率ボーナス、視界など）", "background": "fairy_bg", 
-    "mp": 3000, "ammo": 500, "mre": 2000, "part": 1500, "type_rarity": "1:C,2:C,3:C,4:C,5:A", 
+    "content": "※戦闘に直接な影響を与えないが、プレイヤーや部隊に対して何かしらの便利な効果を与えることができる。（経験値ボーナス、ドロップ率ボーナス、視界など）", 
+    "background": "fairy_bg", "mp": 3000, "ammo": 500, "mre": 2000, "part": 1500, "type_rarity": "1:C,2:C,3:C,4:C,5:A", 
     "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9|5:5,10,11", "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, 
     "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 57, "develop_type": 6, "type": "6", "name": "戦役タイプ", "en_name": "recommended_formula-20000057", 
-    "content": "※戦闘タイプの妖精。戦闘中、味方に攻撃面の強化効果を与えることができる。", "background": "fairy_bg", "mp": 500, "ammo": 2000, "mre": 3000, 
-    "part": 1500, "type_rarity": "1:C,2:C,3:C,4:C,6:A", "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9|6:12,13,14,23", 
-    "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, "produce_mre": 0, "produce_part": 0, "produce_preview": ""
+    "content": "※戦闘タイプの妖精。戦闘中、味方に攻撃面の強化効果を与えることができる。", "background": "fairy_bg", 
+    "mp": 500, "ammo": 2000, "mre": 3000, "part": 1500, "type_rarity": "1:C,2:C,3:C,4:C,6:A", 
+    "preview": "1:15,16,17|2:1,2|3:3,4,6,24,25|4:7,8,9|6:12,13,14,23", "is_produce": 0, "produce_mp": 0, "produce_ammo": 0, 
+    "produce_mre": 0, "produce_part": 0, "produce_preview": ""
   }, {
     "id": 58, "develop_type": 3, "type": "21", "name": "固定銃架", "en_name": "recommended_formula-20000058", 
     "content": "*MGのみが装備可能\n人形の<color=#FFB400FF>命中</color>和<color=#FFB400FF>リロード速度</color>を上昇させることができるが、<color=#FFB400FF>移動速度</color>が少し低下する", 

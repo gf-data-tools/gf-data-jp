@@ -34,7 +34,8 @@
     "type": 11, "name": "防弾ベスト", "category": 3, "code": "ArmorPlate", "fit_gun_type": "6", 
     "des": "<color=#FFB400FF>防御</color>を向上させるが、<color=#FFB400FF>回避</color>が低下する"
   }, {
-    "type": 12, "name": "勲章", "category": 3, "code": "Medal", "fit_gun_type": "0", "des": "特殊な装備。装備する人形の種類によって、異なる効果が得られる"
+    "type": 12, "name": "勲章", "category": 3, "code": "Medal", "fit_gun_type": "0", 
+    "des": "特殊な装備。装備する人形の種類によって、異なる効果が得られる"
   }, {
     "type": 13, "name": "サイレンサー", "category": 1, "code": "Suppressor", "fit_gun_type": "1,2,3,4", 
     "des": "<color=#FFB400FF>会心率</color>と<color=#FFB400FF>回避</color>を向上させる"

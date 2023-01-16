@@ -1,136 +1,147 @@
 [
   {
-    "id": 1, "name": "エネルギーシールド", "desc": "戦闘時、本部隊にいるSMG全てに、最大40ダメージ吸収するシールドを展開する。", "if_display": 1, "code": "shield", 
+    "id": 1, "name": "エネルギーシールド", 
+    "desc": "戦闘時、本部隊にいるSMG全てに、最大40ダメージ吸収するシールドを展開する。", "if_display": 1, "code": "shield", 
     "skill_group": "900101"
   }, {
-    "id": 2, "name": "狙撃指令", "desc": "戦闘時、残りHPが最も高い敵に照準を合わせ、2500ダメージを与える。", "if_display": 1, "code": "sniper", 
-    "skill_group": "900102"
+    "id": 2, "name": "狙撃指令", "desc": "戦闘時、残りHPが最も高い敵に照準を合わせ、2500ダメージを与える。", "if_display": 1, 
+    "code": "sniper", "skill_group": "900102"
   }, {
-    "id": 3, "name": "ライオットシールド", "desc": "戦闘時、本部隊にいるSG全てに会心抵抗強化を付与し、20秒間、防御力を15％上昇させる。", "if_display": 1, "code": "armor", 
-    "skill_group": "900103"
+    "id": 3, "name": "ライオットシールド", 
+    "desc": "戦闘時、本部隊にいるSG全てに会心抵抗強化を付与し、20秒間、防御力を15％上昇させる。", "if_display": 1, 
+    "code": "armor", "skill_group": "900103"
   }, {
-    "id": 4, "name": "挑発ドローン", "desc": "戦闘時、敵の攻撃を引きつけるドローンを一体投入する。\nドローンのHP:400", "if_display": 1, "code": "target", 
-    "skill_group": "900104"
+    "id": 4, "name": "挑発ドローン", "desc": "戦闘時、敵の攻撃を引きつけるドローンを一体投入する。\nドローンのHP:400", 
+    "if_display": 1, "code": "target", "skill_group": "900104"
   }, {
-    "id": 5, "name": "砲撃指令", "desc": "戦闘時、迫撃砲弾を1発発射し、2.5ヤード内の敵に200ダメージを与える。", "if_display": 1, "code": "bombard", 
-    "skill_group": "900108"
+    "id": 5, "name": "砲撃指令", "desc": "戦闘時、迫撃砲弾を1発発射し、2.5ヤード内の敵に200ダメージを与える。", 
+    "if_display": 1, "code": "bombard", "skill_group": "900108"
   }, {
-    "id": 6, "name": "デスエアレイド", "desc": "戦闘時、空爆を要請し敵全体に80ダメージを与える。", "if_display": 1, "code": "air_attack", 
-    "skill_group": "900109"
+    "id": 6, "name": "デスエアレイド", "desc": "戦闘時、空爆を要請し敵全体に80ダメージを与える。", "if_display": 1, 
+    "code": "air_attack", "skill_group": "900109"
   }, {
-    "id": 7, "name": "アグレッシブ", "desc": "戦闘時、20秒間、本部隊の一部ステータスを上昇させる(累積不可)。\nステータス効果:火力+5%/射速+5%", "if_display": 1, 
-    "code": "fighting", "skill_group": "900110"
+    "id": 7, "name": "アグレッシブ", 
+    "desc": "戦闘時、20秒間、本部隊の一部ステータスを上昇させる(累積不可)。\nステータス効果:火力+5%/射速+5%", 
+    "if_display": 1, "code": "fighting", "skill_group": "900110"
   }, {
-    "id": 8, "name": "フュリオス", "desc": "戦闘時、20秒間、本部隊の一部ステータスを上昇させる(累積不可)。\nステータス効果:命中+10%/10%", "if_display": 1, 
+    "id": 8, "name": "フュリオス", 
+    "desc": "戦闘時、20秒間、本部隊の一部ステータスを上昇させる(累積不可)。\nステータス効果:命中+10%/10%", "if_display": 1, 
     "code": "crit", "skill_group": "900111"
   }, {
-    "id": 701, "name": "夜間激昂", "desc": "夜戦時において、味方全体の会心率と会心ダメージを30%上昇させる。", "if_display": 1, "code": "fight_skill_buff106", 
-    "skill_group": "756071"
+    "id": 701, "name": "夜間激昂", "desc": "夜戦時において、味方全体の会心率と会心ダメージを30%上昇させる。", 
+    "if_display": 1, "code": "fight_skill_buff106", "skill_group": "756071"
   }, {
-    "id": 702, "name": "近接打撃", "desc": "3ヤード内の敵ユニットに対する味方全体のダメージを20%上昇させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756072"
+    "id": 702, "name": "近接打撃", "desc": "3ヤード内の敵ユニットに対する味方全体のダメージを20%上昇させる。", 
+    "if_display": 1, "code": "fight_skill_buff101", "skill_group": "756072"
   }, {
-    "id": 703, "name": "突撃慣性", "desc": "この戦闘における味方全体の火力と回避を4秒ごとに3%上昇させる(最大10重まで累積)。", "if_display": 1, 
-    "code": "fight_skill_buff102", "skill_group": "756082"
+    "id": 703, "name": "突撃慣性", "desc": "この戦闘における味方全体の火力と回避を4秒ごとに3%上昇させる(最大10重まで累積)。", 
+    "if_display": 1, "code": "fight_skill_buff102", "skill_group": "756082"
   }, {
-    "id": 704, "name": "高速整備", "desc": "味方全体の開幕CTを30%短縮させる。", "if_display": 1, "code": "fight_skill_buff105", 
-    "skill_group": "756076"
+    "id": 704, "name": "高速整備", "desc": "味方全体の開幕CTを30%短縮させる。", "if_display": 1, 
+    "code": "fight_skill_buff105", "skill_group": "756076"
   }, {
-    "id": 705, "name": "偏向障壁", "desc": "戦闘開始より8秒間、HPが最も多い味方ユニットに9999ポイントの偏向障壁を展開する。", "if_display": 1, 
-    "code": "fight_skill_buff104", "skill_group": "756077"
+    "id": 705, "name": "偏向障壁", "desc": "戦闘開始より8秒間、HPが最も多い味方ユニットに9999ポイントの偏向障壁を展開する。", 
+    "if_display": 1, "code": "fight_skill_buff104", "skill_group": "756077"
   }, {
-    "id": 706, "name": "装甲不備", "desc": "この戦闘における味方全体の防御を90%低下させる。", "if_display": 1, "code": "fight_skill_buff203", 
-    "skill_group": "756078"
+    "id": 706, "name": "装甲不備", "desc": "この戦闘における味方全体の防御を90%低下させる。", "if_display": 1, 
+    "code": "fight_skill_buff203", "skill_group": "756078"
   }, {
-    "id": 707, "name": "火力抑制", "desc": "10秒ごとに、最もダメージ貢献度が高い味方ユニットを5秒間目まい状態にさせる。", "if_display": 1, 
-    "code": "fight_skill_buff201", "skill_group": "756079"
+    "id": 707, "name": "火力抑制", "desc": "10秒ごとに、最もダメージ貢献度が高い味方ユニットを5秒間目まい状態にさせる。", 
+    "if_display": 1, "code": "fight_skill_buff201", "skill_group": "756079"
   }, {
-    "id": 708, "name": "焼夷打撃", "desc": "戦闘開始時、味方部隊の第一列に、10秒間燃焼エリアを生成し、10フレームごとに50ダメージを受ける。\nこの攻撃にはリンク保護は適用されない。", 
+    "id": 708, "name": "焼夷打撃", 
+    "desc": "戦闘開始時、味方部隊の第一列に、10秒間燃焼エリアを生成し、10フレームごとに50ダメージを受ける。\nこの攻撃にはリンク保護は適用されない。", 
     "if_display": 1, "code": "fight_skill_hurt102", "skill_group": "756084"
   }, {
-    "id": 709, "name": "中枢遅滞", "desc": "味方全体の開幕CTを30%延長させる。", "if_display": 1, "code": "fight_skill_buff204", 
-    "skill_group": "756081"
+    "id": 709, "name": "中枢遅滞", "desc": "味方全体の開幕CTを30%延長させる。", "if_display": 1, 
+    "code": "fight_skill_buff204", "skill_group": "756081"
   }, {
-    "id": 710, "name": "隊長死す", "desc": "味方部隊の隊長の火力/命中/回避/防御/会心率を90%低下させる。", "if_display": 1, "code": "fight_skill_buff204", 
-    "skill_group": "756086"
+    "id": 710, "name": "隊長死す", "desc": "味方部隊の隊長の火力/命中/回避/防御/会心率を90%低下させる。", "if_display": 1, 
+    "code": "fight_skill_buff204", "skill_group": "756086"
   }, {
-    "id": 711, "name": "歩行困難", "desc": "味方全体の移動速度を50%低下させる。", "if_display": 1, "code": "fight_skill_hurt202", 
-    "skill_group": "756085"
+    "id": 711, "name": "歩行困難", "desc": "味方全体の移動速度を50%低下させる。", "if_display": 1, 
+    "code": "fight_skill_hurt202", "skill_group": "756085"
   }, {
-    "id": 712, "name": "雁字搦め", "desc": "この戦闘における味方全体の回避を90%低下させる。", "if_display": 1, "code": "fight_skill_hurt202", 
-    "skill_group": "990003"
+    "id": 712, "name": "雁字搦め", "desc": "この戦闘における味方全体の回避を90%低下させる。", "if_display": 1, 
+    "code": "fight_skill_hurt202", "skill_group": "990003"
   }, {
     "id": 713, "name": "敵影消失", "desc": "敵全体の回避を500%上昇させる。", "if_display": 1, "code": "fight_skill_buff202", 
     "skill_group": "990004"
   }, {
-    "id": 714, "name": "おサボり禁止", "desc": "15秒ごとに、最もダメージ貢献度が低い味方ユニットに999ダメージ与える。", "if_display": 1, 
-    "code": "fight_skill_hurt201", "skill_group": "990006"
+    "id": 714, "name": "おサボり禁止", "desc": "15秒ごとに、最もダメージ貢献度が低い味方ユニットに999ダメージ与える。", 
+    "if_display": 1, "code": "fight_skill_hurt201", "skill_group": "990006"
   }, {
-    "id": 715, "name": "鉄の肉壁", "desc": "HPの最も多い味方ユニットの被ダメージを50%減少させる。", "if_display": 1, "code": "fight_skill_buff104", 
-    "skill_group": "990007"
+    "id": 715, "name": "鉄の肉壁", "desc": "HPの最も多い味方ユニットの被ダメージを50%減少させる。", "if_display": 1, 
+    "code": "fight_skill_buff104", "skill_group": "990007"
   }, {
-    "id": 716, "name": "天罰覿面", "desc": "15秒ごとに、ランダムで人形ユニット1人の火力/射速/命中/回避/防御を5秒間、50%低下させる。", "if_display": 1, 
+    "id": 716, "name": "天罰覿面", 
+    "desc": "15秒ごとに、ランダムで人形ユニット1人の火力/射速/命中/回避/防御を5秒間、50%低下させる。", "if_display": 1, 
     "code": "fight_skill_buff204", "skill_group": "990009"
   }, {
-    "id": 717, "name": "焦土戦略", "desc": "6秒ごとに最もHPの多い敵に燃焼物を投擲し、15秒間、3×3の範囲に0.33秒ごとに100ダメージを与える。", "if_display": 1, 
+    "id": 717, "name": "焦土戦略", 
+    "desc": "6秒ごとに最もHPの多い敵に燃焼物を投擲し、15秒間、3×3の範囲に0.33秒ごとに100ダメージを与える。", "if_display": 1, 
     "code": "fight_skill_hurt102", "skill_group": "990011"
   }, {
-    "id": 718, "name": "陣地堅守", "desc": "3秒ごとに味方の前衛人形の回避と防御を10%上昇させる(最大10重まで累積)。", "if_display": 1, 
-    "code": "fight_skill_buff103", "skill_group": "990013"
+    "id": 718, "name": "陣地堅守", "desc": "3秒ごとに味方の前衛人形の回避と防御を10%上昇させる(最大10重まで累積)。", 
+    "if_display": 1, "code": "fight_skill_buff103", "skill_group": "990013"
   }, {
-    "id": 719, "name": "徹底抗戦", "desc": "15秒ごとに、敵のHP減少量の10%と同数のダメージを吸収するシールドを6秒間展開する。", "if_display": 1, 
+    "id": 719, "name": "徹底抗戦", 
+    "desc": "15秒ごとに、敵のHP減少量の10%と同数のダメージを吸収するシールドを6秒間展開する。", "if_display": 1, 
     "code": "fight_skill_buff203", "skill_group": "990014"
   }, {
-    "id": 720, "name": "鋼鉄の的", "desc": "10秒ごとに、リンク5/各HP1000のターゲットドローンを1グループ召喚する。", "if_display": 1, 
-    "code": "fight_skill_hurt103", "skill_group": "990017"
+    "id": 720, "name": "鋼鉄の的", "desc": "10秒ごとに、リンク5/各HP1000のターゲットドローンを1グループ召喚する。", 
+    "if_display": 1, "code": "fight_skill_hurt103", "skill_group": "990017"
   }, {
-    "id": 721, "name": "袋のネズミ", "desc": "6秒ごとに、味方部隊前方に敵ユニットを1グループ呼び寄せる。", "if_display": 1, "code": "fight_skill_hurt203", 
-    "skill_group": "990019"
+    "id": 721, "name": "袋のネズミ", "desc": "6秒ごとに、味方部隊前方に敵ユニットを1グループ呼び寄せる。", "if_display": 1, 
+    "code": "fight_skill_hurt203", "skill_group": "990019"
   }, {
-    "id": 722, "name": "戦意向上", "desc": "スキル使用後、その味方ユニットの次回CTを20%短縮させる。", "if_display": 1, "code": "fight_skill_buff105", 
-    "skill_group": "756087"
+    "id": 722, "name": "戦意向上", "desc": "スキル使用後、その味方ユニットの次回CTを20%短縮させる。", "if_display": 1, 
+    "code": "fight_skill_buff105", "skill_group": "756087"
   }, {
-    "id": 723, "name": "火力全開", "desc": "味方全体の射速を100%上昇させる。", "if_display": 1, "code": "fight_skill_buff102", 
-    "skill_group": "756088"
+    "id": 723, "name": "火力全開", "desc": "味方全体の射速を100%上昇させる。", "if_display": 1, 
+    "code": "fight_skill_buff102", "skill_group": "756088"
   }, {
-    "id": 724, "name": "応急保護", "desc": "10秒ごとに、味方のHP減少量の30%と同数のダメージを吸収するシールドを6秒間展開する。", "if_display": 1, 
+    "id": 724, "name": "応急保護", 
+    "desc": "10秒ごとに、味方のHP減少量の30%と同数のダメージを吸収するシールドを6秒間展開する。", "if_display": 1, 
     "code": "fight_skill_buff104", "skill_group": "756089"
   }, {
-    "id": 725, "name": "無作為打撃", "desc": "15秒ごとに、ランダムで敵ユニット1人の火力/射速/命中/回避/防御を50%低下させる。", "if_display": 1, 
+    "id": 725, "name": "無作為打撃", 
+    "desc": "15秒ごとに、ランダムで敵ユニット1人の火力/射速/命中/回避/防御を50%低下させる。", "if_display": 1, 
     "code": "fight_skill_hurt101", "skill_group": "756093"
   }, {
     "id": 726, "name": "機械故障", "desc": "味方全体の射速を50%低下させる。", "if_display": 1, "code": "fight_skill_hurt202", 
     "skill_group": "756091"
   }, {
-    "id": 727, "name": "長の風格", "desc": "味方部隊の隊長の火力/命中/回避/防御/会心率を50%上昇させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756114"
+    "id": 727, "name": "長の風格", "desc": "味方部隊の隊長の火力/命中/回避/防御/会心率を50%上昇させる。", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756114"
   }, {
-    "id": 728, "name": "射撃専心", "desc": "味方全体の射速を20%低下させる代わりに、火力と命中を20%上昇させる。", "if_display": 1, 
-    "code": "fight_skill_buff103", "skill_group": "756115"
+    "id": 728, "name": "射撃専心", "desc": "味方全体の射速を20%低下させる代わりに、火力と命中を20%上昇させる。", 
+    "if_display": 1, "code": "fight_skill_buff103", "skill_group": "756115"
   }, {
-    "id": 729, "name": "応急保護", "desc": "10秒ごとに、味方のHP減少量の30%と同数のダメージを吸収するシールドを6秒間展開する。", "if_display": 1, 
+    "id": 729, "name": "応急保護", 
+    "desc": "10秒ごとに、味方のHP減少量の30%と同数のダメージを吸収するシールドを6秒間展開する。", "if_display": 1, 
     "code": "fight_skill_buff104", "skill_group": "756089"
   }, {
     "id": 730, "name": "HGマスタリー", "desc": "味方HGのCTを20%短縮させる。", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756126"
   }, {
-    "id": 731, "name": "SMGマスタリー", "desc": "味方SMGの命中と回避を100%上昇させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756127"
+    "id": 731, "name": "SMGマスタリー", "desc": "味方SMGの命中と回避を100%上昇させる。", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756127"
   }, {
-    "id": 732, "name": "RFマスタリー", "desc": "味方RFの射速と会心率を20%上昇させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756128"
+    "id": 732, "name": "RFマスタリー", "desc": "味方RFの射速と会心率を20%上昇させる。", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756128"
   }, {
-    "id": 733, "name": "ARマスタリー", "desc": "味方ARの火力を20%、命中を100%上昇させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756129"
+    "id": 733, "name": "ARマスタリー", "desc": "味方ARの火力を20%、命中を100%上昇させる。", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756129"
   }, {
-    "id": 734, "name": "SGマスタリー", "desc": "味方SGの防御を20%上昇させ、被ダメージを20%減少させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756130"
+    "id": 734, "name": "SGマスタリー", "desc": "味方SGの防御を20%上昇させ、被ダメージを20%減少させる。", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756130"
   }, {
-    "id": 735, "name": "MGマスタリー", "desc": "味方RFの装弾数を15増加させる。", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756131"
+    "id": 735, "name": "MGマスタリー", "desc": "味方RFの装弾数を15増加させる。", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756131"
   }, {
-    "id": 736, "name": "加護を受けし者", "desc": "戦闘開始時、味方全体に20%のシールドを10秒間展開する。", "if_display": 1, "code": "fight_skill_buff102", 
-    "skill_group": "756124"
+    "id": 736, "name": "加護を受けし者", "desc": "戦闘開始時、味方全体に20%のシールドを10秒間展開する。", "if_display": 1, 
+    "code": "fight_skill_buff102", "skill_group": "756124"
   }, {
     "id": 737, "name": "突撃号令", "desc": "味方全体の射速を50%上昇させる。", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756133"
@@ -141,17 +152,17 @@
     "id": 739, "name": "激怒号令", "desc": "会心ダメージを50%上昇させる。", "if_display": 1, "code": "fight_skill_buff102", 
     "skill_group": "756135"
   }, {
-    "id": 740, "name": "総員出撃", "desc": "部隊の銃種1種類につき、味方全体の火力/射速/命中/回避を30%上昇させる。", "if_display": 1, 
-    "code": "fight_skill_buff103", "skill_group": "756136"
+    "id": 740, "name": "総員出撃", "desc": "部隊の銃種1種類につき、味方全体の火力/射速/命中/回避を30%上昇させる。", 
+    "if_display": 1, "code": "fight_skill_buff103", "skill_group": "756136"
   }, {
-    "id": 741, "name": "排除指令", "desc": "8秒ごとに味方の増益効果を取り除く。", "if_display": 1, "code": "fight_skill_hurt201", 
-    "skill_group": "756144"
+    "id": 741, "name": "排除指令", "desc": "8秒ごとに味方の増益効果を取り除く。", "if_display": 1, 
+    "code": "fight_skill_hurt201", "skill_group": "756144"
   }, {
     "id": 742, "name": "会心抑制", "desc": "会心率を100%低下させる。", "if_display": 1, "code": "fight_skill_buff201", 
     "skill_group": "756146"
   }, {
-    "id": 743, "name": "回線切断", "desc": "スキルを発動するたび、CTが100%延長される。", "if_display": 1, "code": "fight_skill_buff202", 
-    "skill_group": "756147"
+    "id": 743, "name": "回線切断", "desc": "スキルを発動するたび、CTが100%延長される。", "if_display": 1, 
+    "code": "fight_skill_buff202", "skill_group": "756147"
   }, {
     "id": 901, "name": "fight_environment_skill-10000901", "desc": "fight_environment_skill-20000901", "if_display": 1, 
     "code": "fight_skill_buff107", "skill_group": "756193"

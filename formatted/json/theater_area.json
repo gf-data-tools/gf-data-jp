@@ -1,65 +1,72 @@
 [
   {
-    "id": 411, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 411, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 12000000, "type": 1, "construction": "411", "enemy_group": "1843-0-4,1846-0-4,1847-0-4", 
     "enemy_lv": "-30,-29,-28,-27,-26,-25,-24,-23,-22,-21", "enemy_score": "70,71,72,73,74,75,76,77,78,80", 
     "occupied_enemy_lv": "-34,-34,-33,-32,-32,-31,-31,-30,-29,-28", "occupied_enemy_score": "70,71,72,73,74,75,76,77,78,80", 
     "boss": "", "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "36,26,100", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 41, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 1000, "area_mission_id": 900411, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000411"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 1000, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000411"
   }, {
-    "id": 412, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 412, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 12000000, "end_score": 30000000, "type": 1, "construction": "", 
     "enemy_group": "1848-0-4,1844-0-4,1847-0-4", "enemy_lv": "-20,-19,-18,-17,-16,-15,-14,-13,-12,-11", 
     "enemy_score": "80,81,82,83,84,85,86,87,88,90", "occupied_enemy_lv": "-24,-24,-23,-22,-21,-20,-20,-19,-18,-17", 
     "occupied_enemy_score": "80,81,82,83,84,85,86,87,88,90", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "36,26,100", "material_item": 47, "battle_background": "wasteland", "theater_id": 41, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 2600, 
-    "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000412"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 2600, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000412"
   }, {
-    "id": 413, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 413, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 30000000, "end_score": 50000000, "type": 1, "construction": "", "enemy_group": "490-0-4,1499-0-4,565-0-4", 
     "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", "enemy_score": "90,91,92,93,94,95,96,97,98,100", 
     "occupied_enemy_lv": "-16,-16,-15,-14,-13,-12,-12,-11,-10,-9", "occupied_enemy_score": "90,91,92,93,94,95,96,97,98,100", 
     "boss": "", "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "36,26,100", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 41, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 4200, "area_mission_id": 900411, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000413"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 4200, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000413"
   }, {
-    "id": 414, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 414, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 50000000, "end_score": 105000000, "type": 2, "construction": "", 
     "enemy_group": "901-1-4,568-1-4,900-0-4,904-0-4", "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", 
     "enemy_score": "100,101,102,103,104,105,106,107,108,110", "occupied_enemy_lv": "-18,-18,-17,-16,-15,-14,-14,-13,-12,-11", 
     "occupied_enemy_score": "100,101,102,103,104,105,106,107,108,110", "boss": "700001-0", "occupied_boss_score": 60, 
     "score_limit": 1046, "advantage_gun": "36,26,100", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 41, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 41, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 4800, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000414"
   }, {
-    "id": 415, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 415, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 105000000, "end_score": 117000000, "type": 1, "construction": "", 
     "enemy_group": "577-1-4,670-0-4,914-1-4", "enemy_lv": "-10,-9,-9,-8,-8,-7,-7,-6,-6,-5", 
     "enemy_score": "110,111,112,113,114,115,116,117,118,120", "occupied_enemy_lv": "-20,-20,-20,-19,-19,-18,-18,-17,-17,-16", 
     "occupied_enemy_score": "110,111,112,113,114,115,116,117,118,120", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "53,129,118", "material_item": 47, "battle_background": "wasteland", "theater_id": 41, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 5200, 
-    "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000415"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 5200, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000415"
   }, {
     "id": 416, "name": "通常ステージ", "fight_type": 4, "type_coef": "1006,1", "success_type_condition": "1;3;6", 
     "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
@@ -70,8 +77,10 @@
     "enemy_score": "120,121,122,123,124,125,126,127,128,130", "occupied_enemy_lv": "-16,-16,-16,-15,-15,-14,-14,-13,-13,-12", 
     "occupied_enemy_score": "120,121,122,123,124,125,126,127,128,130", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "53,129,118", "material_item": 47, "battle_background": "wasteland", "theater_id": 41, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 5800, 
-    "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000416"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 5800, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000416"
   }, {
     "id": 417, "name": "通常ステージ", "fight_type": 4, "type_coef": "1006,2;1008,1", "success_type_condition": "1;4;7", 
     "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
@@ -82,25 +91,28 @@
     "enemy_score": "130,131,132,133,134,135,136,137,138,140", "occupied_enemy_lv": "-22,-22,-22,-21,-21,-20,-20,-19,-19,-18", 
     "occupied_enemy_score": "130,131,132,133,134,135,136,137,138,140", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "53,129,118", "material_item": 47, "battle_background": "wasteland", "theater_id": 41, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 6400, 
-    "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000417"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 6400, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000417"
   }, {
-    "id": 418, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 418, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 147000000, "end_score": 195000000, "type": 2, "construction": "", 
     "enemy_group": "939-0-4,938-1-4,442-0-4", "enemy_lv": "-5,-4,-4,-3,-3,-2,-2,-1,-1,0", 
     "enemy_score": "140,141,142,143,144,145,146,147,148,150", "occupied_enemy_lv": "-18,-18,-18,-17,-17,-16,-16,-15,-15,-14", 
     "occupied_enemy_score": "140,141,142,143,144,145,146,147,148,150", "boss": "700002-0", "occupied_boss_score": 60, 
     "score_limit": 2205, "advantage_gun": "53,129,118", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 41, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 41, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 7500, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000418"
   }, {
-    "id": 421, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 421, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 28000000, "type": 1, "construction": "421", "enemy_group": "939-0-4,938-1-4,669-0-4", 
     "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", "enemy_score": "150,152,154,156,158,160,162,164,167,170", 
@@ -108,12 +120,13 @@
     "occupied_enemy_score": "150,152,154,156,158,160,162,164,167,170", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "128,202,228", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 7800, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000421"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 7800, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000421"
   }, {
-    "id": 422, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 422, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 28000000, "end_score": 73000000, "type": 1, "construction": "", "enemy_group": "637-0-4,637-1-4,638-1-4", 
     "enemy_lv": "-10,-10,-10,-9,-9,-9,-9,-8,-8,-8", "enemy_score": "170,172,174,176,178,180,182,184,187,190", 
@@ -121,12 +134,13 @@
     "occupied_enemy_score": "170,172,174,176,178,180,182,184,187,190", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "128,202,228", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8000, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000422"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8000, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000422"
   }, {
-    "id": 423, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 423, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 73000000, "end_score": 123000000, "type": 1, "construction": "", "enemy_group": "642-1-4,639-0-4,640-0-4", 
     "enemy_lv": "-7,-7,-7,-6,-6,-6,-6,-5,-5,-5", "enemy_score": "190,192,194,196,198,200,202,204,207,210", 
@@ -134,12 +148,13 @@
     "occupied_enemy_score": "190,192,194,196,198,200,202,204,207,210", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "128,202,228", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8500, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000423"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8500, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000423"
   }, {
-    "id": 424, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 424, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 123000000, "end_score": 258000000, "type": 2, "construction": "", 
     "enemy_group": "643-0-4,2239-1-4,2237-0-4,1423-1-4", "enemy_lv": "-4,-4,-4,-3,-3,-3,-3,-2,-2,-2", 
@@ -147,12 +162,13 @@
     "occupied_enemy_score": "210,212,214,216,218,220,222,224,227,230", "boss": "700003-1", "occupied_boss_score": 60, 
     "score_limit": 2193, "advantage_gun": "128,202,228", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8800, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000424"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8800, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000424"
   }, {
-    "id": 425, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 425, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 258000000, "end_score": 285000000, "type": 1, "construction": "425", 
     "enemy_group": "1421-0-4,743-1-4,744-0-4,745-1-4", "enemy_lv": "-11,-11,-11,-10,-10,-10,-10,-9,-9,-9", 
@@ -160,8 +176,9 @@
     "occupied_enemy_score": "230,232,234,236,238,240,242,244,247,250", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "208,189,179", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9200, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000425"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9200, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000425"
   }, {
     "id": 426, "name": "通常ステージ", "fight_type": 4, "type_coef": "1006,1", "success_type_condition": "1;2;5", 
     "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
@@ -173,8 +190,9 @@
     "occupied_enemy_score": "250,252,254,256,258,260,262,264,267,270", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "208,189,179", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9600, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000426"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9600, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000426"
   }, {
     "id": 427, "name": "通常ステージ", "fight_type": 4, "type_coef": "1006,2;1008,1", "success_type_condition": "1;3;6", 
     "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
@@ -186,12 +204,13 @@
     "occupied_enemy_score": "270,272,274,276,278,280,282,284,287,290", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "208,189,179", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 13000, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000427"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 13000, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000427"
   }, {
-    "id": 428, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 428, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 350000000, "end_score": 465000000, "type": 2, "construction": "", 
     "enemy_group": "1120-0-4,1123-1-4,1105-1-4,804-1-4,745-0-4", "enemy_lv": "-2,-2,-2,-1,-1,-1,-1,0,0,0", 
@@ -199,12 +218,13 @@
     "occupied_enemy_score": "290,292,294,296,298,300,302,304,307,310", "boss": "700005-0", "occupied_boss_score": 60, 
     "score_limit": 3975, "advantage_gun": "208,189,179", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 42, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 14500, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000428"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 14500, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000428"
   }, {
-    "id": 431, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 431, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 82000000, "type": 1, "construction": "431", 
     "enemy_group": "317967-0-4,1390-1-4,1393-0-4,1429-0-4", "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", 
@@ -216,9 +236,9 @@
     "difficulty": 13000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000431"
   }, {
-    "id": 432, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 432, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 82000000, "end_score": 170000000, "type": 1, "construction": "", 
     "enemy_group": "317976-0-4,1473-0-4,1475-1-4,1474-0-4", "enemy_lv": "-10,-10,-9,-9,-8,-8,-7,-7,-6,-6", 
@@ -230,9 +250,9 @@
     "difficulty": 16000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000432"
   }, {
-    "id": 433, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 433, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 170000000, "end_score": 545000000, "type": 2, "construction": "", 
     "enemy_group": "317984-0-4,749-0-4,1194-0-4,1381-1-4,1385-0-4", "enemy_lv": "-5,-5,-4,-4,-3,-3,-2,-2,-1,-1", 
@@ -244,9 +264,9 @@
     "difficulty": 20000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000433"
   }, {
-    "id": 434, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 434, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 545000000, "end_score": 627000000, "type": 1, "construction": "434", 
     "enemy_group": "317975-0-4,1563-0-4,1564-1-4,2387-0-4", "enemy_lv": "-10,-10,-9,-9,-8,-8,-7,-7,-6,-6", 
@@ -258,9 +278,9 @@
     "difficulty": 22000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000434"
   }, {
-    "id": 435, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 435, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 627000000, "end_score": 702000000, "type": 1, "construction": "", 
     "enemy_group": "2677-0-4,1791-0-4,1792-0-4", "enemy_lv": "-5,-5,-4,-4,-4,-3,-3,-3,-2,-2", 
@@ -300,9 +320,9 @@
     "difficulty": 29000, "area_mission_id": 900432, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000437"
   }, {
-    "id": 438, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 438, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 1130000000, "end_score": 1640000000, "type": 2, "construction": "", 
     "enemy_group": "2667-0-4,1999-1-4,1985-0-4,1795-0-4,1999-0-4", "enemy_lv": "-3,-3,-2,-2,-2,-1,-1,-1,0,0", 
@@ -314,9 +334,9 @@
     "difficulty": 31000, "area_mission_id": 900432, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000438"
   }, {
-    "id": 441, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 441, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 60000000, "type": 1, "construction": "441", "enemy_group": "490-1-4,565-0-4,1843-0-4", 
     "enemy_lv": "-30,-28,-26,-24,-22,-20,-18,-16,-14,-12", "enemy_score": "140,144,148,152,156,160,164,168,174,180", 
@@ -328,9 +348,9 @@
     "difficulty": 2400, "area_mission_id": 900441, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000441"
   }, {
-    "id": 442, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 442, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 60000000, "end_score": 130000000, "type": 1, "construction": "442", 
     "enemy_group": "1004-1-4,1043-0-4,1041-0-4,1044-1-4,568-0-4", "enemy_lv": "-20,-18,-16,-14,-12,-10,-8,-6,-4,-2", 
@@ -342,9 +362,9 @@
     "difficulty": 4800, "area_mission_id": 900441, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000442"
   }, {
-    "id": 443, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 443, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 130000000, "end_score": 420000000, "type": 2, "construction": "443", 
     "enemy_group": "939-1-4,938-1-4,669-0-4,672-0-4,637-0-4", "enemy_lv": "-20,-18,-16,-14,-12,-10,-8,-6,-4,-2", 
@@ -356,9 +376,9 @@
     "difficulty": 6400, "area_mission_id": 900441, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000443"
   }, {
-    "id": 444, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 444, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 420000000, "end_score": 530000000, "type": 1, "construction": "", 
     "enemy_group": "744-0-4,745-1-4,747-0-4,748-1-4,808-0-4,804-0-4", "enemy_lv": "-20,-18,-16,-14,-12,-10,-8,-6,-4,-2", 
@@ -370,9 +390,9 @@
     "difficulty": 14000, "area_mission_id": 900442, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000444"
   }, {
-    "id": 445, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 445, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 530000000, "end_score": 630000000, "type": 1, "construction": "", 
     "enemy_group": "317968-0-4,1791-0-4,1792-1-4,1981-0-4,1823-1-4,2414-0-4", 
@@ -415,9 +435,9 @@
     "difficulty": 30000, "area_mission_id": 900443, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000447"
   }, {
-    "id": 448, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 448, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 1150000000, "end_score": 2145000000, "type": 2, "construction": "", 
     "enemy_group": "2691-0-4,2691-0-4,2730-1-4,2730-1-4,2730-1-4,317972-1-4,317972-1-4,2740-1-4,2723-0-4,2720-0-4", 
@@ -430,65 +450,71 @@
     "difficulty": 34000, "area_mission_id": 900443, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000448"
   }, {
-    "id": 511, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 511, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 12000000, "type": 1, "construction": "511", "enemy_group": "1843-0-4,1846-0-4,1847-0-4", 
     "enemy_lv": "-30,-29,-28,-27,-26,-25,-24,-23,-22,-21", "enemy_score": "70,71,72,73,74,75,76,77,78,80", 
     "occupied_enemy_lv": "-34,-34,-33,-32,-32,-31,-31,-30,-29,-28", "occupied_enemy_score": "70,71,72,73,74,75,76,77,78,80", 
     "boss": "", "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "36,16,100,27,6", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 51, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 1000, "area_mission_id": 900411, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000511"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 1000, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000511"
   }, {
-    "id": 512, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 512, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 12000000, "end_score": 30000000, "type": 1, "construction": "", 
     "enemy_group": "1848-0-4,1844-0-4,1847-0-4", "enemy_lv": "-20,-19,-18,-17,-16,-15,-14,-13,-12,-11", 
     "enemy_score": "80,81,82,83,84,85,86,87,88,90", "occupied_enemy_lv": "-24,-24,-23,-22,-21,-20,-20,-19,-18,-17", 
     "occupied_enemy_score": "80,81,82,83,84,85,86,87,88,90", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "36,16,100,27,6", "material_item": 47, "battle_background": "wasteland", "theater_id": 51, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 2600, 
-    "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000512"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 2600, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000512"
   }, {
-    "id": 513, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 513, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 30000000, "end_score": 50000000, "type": 1, "construction": "", "enemy_group": "490-0-4,1499-0-4,565-0-4", 
     "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", "enemy_score": "90,91,92,93,94,95,96,97,98,100", 
     "occupied_enemy_lv": "-16,-16,-15,-14,-13,-12,-12,-11,-10,-9", "occupied_enemy_score": "90,91,92,93,94,95,96,97,98,100", 
     "boss": "", "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "36,16,100,27,6", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 51, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 4200, "area_mission_id": 900411, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000513"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 4200, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000513"
   }, {
-    "id": 514, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 514, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 50000000, "end_score": 105000000, "type": 2, "construction": "", 
     "enemy_group": "901-1-4,568-1-4,900-0-4,904-0-4", "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", 
     "enemy_score": "100,101,102,103,104,105,106,107,108,110", "occupied_enemy_lv": "-18,-18,-17,-16,-15,-14,-14,-13,-12,-11", 
     "occupied_enemy_score": "100,101,102,103,104,105,106,107,108,110", "boss": "700001-0", "occupied_boss_score": 60, 
     "score_limit": 1046, "advantage_gun": "36,16,100,27,6", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 51, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 51, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 4800, "area_mission_id": 900411, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000514"
   }, {
-    "id": 515, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 515, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 105000000, "end_score": 117000000, "type": 1, "construction": "", 
     "enemy_group": "577-1-4,670-0-4,914-1-4", "enemy_lv": "-10,-9,-9,-8,-8,-7,-7,-6,-6,-5", 
     "enemy_score": "110,111,112,113,114,115,116,117,118,120", "occupied_enemy_lv": "-20,-20,-20,-19,-19,-18,-18,-17,-17,-16", 
     "occupied_enemy_score": "110,111,112,113,114,115,116,117,118,120", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "161,129,130,126,118", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 51, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 51, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 5200, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000515"
   }, {
@@ -501,7 +527,8 @@
     "enemy_score": "120,121,122,123,124,125,126,127,128,130", "occupied_enemy_lv": "-16,-16,-16,-15,-15,-14,-14,-13,-13,-12", 
     "occupied_enemy_score": "120,121,122,123,124,125,126,127,128,130", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "161,129,130,126,118", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 51, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 51, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 5800, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000516"
   }, {
@@ -514,26 +541,28 @@
     "enemy_score": "130,131,132,133,134,135,136,137,138,140", "occupied_enemy_lv": "-22,-22,-22,-21,-21,-20,-20,-19,-19,-18", 
     "occupied_enemy_score": "130,131,132,133,134,135,136,137,138,140", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "161,129,130,126,118", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 51, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 51, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 6400, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000517"
   }, {
-    "id": 518, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 518, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 147000000, "end_score": 195000000, "type": 2, "construction": "", 
     "enemy_group": "939-0-4,938-1-4,442-0-4,2506-0-3", "enemy_lv": "-5,-4,-4,-3,-3,-2,-2,-1,-1,0", 
     "enemy_score": "140,141,142,143,144,145,146,147,148,150", "occupied_enemy_lv": "-18,-18,-18,-17,-17,-16,-16,-15,-15,-14", 
     "occupied_enemy_score": "140,141,142,143,144,145,146,147,148,150", "boss": "700002-0", "occupied_boss_score": 100, 
     "score_limit": 2205, "advantage_gun": "161,129,130,126,118", "material_item": 47, "battle_background": "wasteland", 
-    "theater_id": 51, "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "theater_id": 51, "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
     "difficulty": 7500, "area_mission_id": 900412, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000518"
   }, {
-    "id": 521, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 521, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 28000000, "type": 1, "construction": "521", 
     "enemy_group": "939-0-4,938-1-4,669-0-4,333201-0-3", "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", 
@@ -541,12 +570,13 @@
     "occupied_enemy_score": "150,152,154,156,158,160,162,164,167,170", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "128,202,228,185,221", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 7800, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000521"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 7800, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000521"
   }, {
-    "id": 522, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 522, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 28000000, "end_score": 73000000, "type": 1, "construction": "", 
     "enemy_group": "637-0-4,637-1-4,638-1-4,333405-0-3", "enemy_lv": "-10,-10,-10,-9,-9,-9,-9,-8,-8,-8", 
@@ -554,12 +584,13 @@
     "occupied_enemy_score": "170,172,174,176,178,180,182,184,187,190", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "128,202,228,185,221", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8000, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000522"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8000, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000522"
   }, {
-    "id": 523, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 523, "name": "通常ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 73000000, "end_score": 123000000, "type": 1, "construction": "", "enemy_group": "642-1-4,639-0-4,640-0-4", 
     "enemy_lv": "-7,-7,-7,-6,-6,-6,-6,-5,-5,-5", "enemy_score": "190,192,194,196,198,200,202,204,207,210", 
@@ -567,12 +598,13 @@
     "occupied_enemy_score": "190,192,194,196,198,200,202,204,207,210", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "128,202,228,185,221", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8500, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000523"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8500, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000523"
   }, {
-    "id": 524, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 524, "name": "要塞ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 123000000, "end_score": 258000000, "type": 2, "construction": "", 
     "enemy_group": "643-0-4,2239-1-4,2237-0-4,1423-1-4", "enemy_lv": "-4,-4,-4,-3,-3,-3,-3,-2,-2,-2", 
@@ -580,12 +612,13 @@
     "occupied_enemy_score": "210,212,214,216,218,220,222,224,227,230", "boss": "700003-1", "occupied_boss_score": 60, 
     "score_limit": 2193, "advantage_gun": "128,202,228,185,221", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8800, 
-    "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000524"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8800, "area_mission_id": 900421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000524"
   }, {
-    "id": 525, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 525, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 258000000, "end_score": 285000000, "type": 1, "construction": "525", 
     "enemy_group": "1421-0-4,743-1-4,744-0-4,745-1-4", "enemy_lv": "-11,-11,-11,-10,-10,-10,-10,-9,-9,-9", 
@@ -593,8 +626,9 @@
     "occupied_enemy_score": "230,232,234,236,238,240,242,244,247,250", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "208,189,179,171,252", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9200, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000525"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9200, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000525"
   }, {
     "id": 526, "name": "通常ステージ", "fight_type": 4, "type_coef": "1006,1", "success_type_condition": "1;2;3", 
     "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
@@ -606,8 +640,9 @@
     "occupied_enemy_score": "250,252,254,256,258,260,262,264,267,270", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "208,189,179,171,252", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9600, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000526"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9600, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000526"
   }, {
     "id": 527, "name": "通常ステージ", "fight_type": 4, "type_coef": "1006,2;1008,1", "success_type_condition": "1;2;5", 
     "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
@@ -619,12 +654,13 @@
     "occupied_enemy_score": "270,272,274,276,278,280,282,284,287,290", "boss": "", "occupied_boss_score": 60, 
     "score_limit": 0, "advantage_gun": "208,189,179,171,252", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 13000, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000527"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 13000, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000527"
   }, {
-    "id": 528, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 528, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 350000000, "end_score": 465000000, "type": 2, "construction": "", 
     "enemy_group": "1120-0-4,1123-1-4,1105-1-4,804-1-4,745-0-4,333901-1-2", "enemy_lv": "-2,-2,-2,-1,-1,-1,-1,0,0,0", 
@@ -632,12 +668,13 @@
     "occupied_enemy_score": "290,292,294,296,298,300,302,304,307,310", "boss": "700005-0", "occupied_boss_score": 60, 
     "score_limit": 3975, "advantage_gun": "208,189,179,171,252", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 52, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 14500, 
-    "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000528"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 14500, "area_mission_id": 900422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000528"
   }, {
-    "id": 531, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 531, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 82000000, "type": 1, "construction": "531", 
     "enemy_group": "317967-0-4,1390-1-4,1393-0-4,1429-0-4,334609-1-2", "enemy_lv": "-10,-9,-8,-7,-6,-5,-4,-3,-2,-1", 
@@ -649,9 +686,9 @@
     "difficulty": 13000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000531"
   }, {
-    "id": 532, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 532, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 82000000, "end_score": 170000000, "type": 1, "construction": "", 
     "enemy_group": "317976-0-3,1473-0-3,1475-1-3,1474-0-3,337252-1-2,337210-1-2", 
@@ -664,9 +701,9 @@
     "difficulty": 16000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000532"
   }, {
-    "id": 533, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 533, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 170000000, "end_score": 545000000, "type": 2, "construction": "", 
     "enemy_group": "317984-0-3,749-0-3,1194-0-3,1381-1-3,1385-0-3,337212-1-3", "enemy_lv": "-5,-5,-4,-4,-3,-3,-2,-2,-1,-1", 
@@ -678,9 +715,9 @@
     "difficulty": 20000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000533"
   }, {
-    "id": 534, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 534, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 545000000, "end_score": 627000000, "type": 1, "construction": "534", 
     "enemy_group": "317975-0-3,1563-0-3,1564-1-3,2387-0-3,335203-1-3", "enemy_lv": "-10,-10,-9,-9,-8,-8,-7,-7,-6,-6", 
@@ -692,9 +729,9 @@
     "difficulty": 22000, "area_mission_id": 900431, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000534"
   }, {
-    "id": 535, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 535, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 627000000, "end_score": 702000000, "type": 1, "construction": "", 
     "enemy_group": "2677-0-3,1791-0-3,1792-0-3,335204-1-3", "enemy_lv": "-5,-5,-4,-4,-4,-3,-3,-3,-2,-2", 
@@ -735,9 +772,9 @@
     "difficulty": 29000, "area_mission_id": 900432, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000537"
   }, {
-    "id": 538, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 538, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 1130000000, "end_score": 1640000000, "type": 2, "construction": "", 
     "enemy_group": "2667-0-2,1999-1-3,1985-0-3,1795-0-2,1999-0-3,335904-0-1,337250-1-2", 
@@ -750,9 +787,9 @@
     "difficulty": 31000, "area_mission_id": 900432, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000538"
   }, {
-    "id": 541, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 541, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 0, "end_score": 170000000, "type": 1, "construction": "541", "enemy_group": "490-1-4,565-0-4,1843-0-4", 
     "enemy_lv": "-30,-28,-26,-24,-22,-20,-18,-16,-14,-12", "enemy_score": "410,420,430,440,450,460,470,480,490,500", 
@@ -764,9 +801,9 @@
     "difficulty": 2400, "area_mission_id": 900441, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000541"
   }, {
-    "id": 542, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", "basic_score": 300, 
-    "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 542, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;2;3", 
+    "basic_score": 300, "fight_environment_group": "1;2;3", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 170000000, "end_score": 360000000, "type": 1, "construction": "542", 
     "enemy_group": "1004-1-4,1043-0-4,1041-0-4,1044-1-4,568-0-4,2506-0-3", "enemy_lv": "-20,-18,-16,-14,-12,-10,-8,-6,-4,-2", 
@@ -778,9 +815,9 @@
     "difficulty": 4800, "area_mission_id": 900441, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000542"
   }, {
-    "id": 543, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", "basic_score": 300, 
-    "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 543, "name": "要塞ステージ", "fight_type": 3, "type_coef": "0", "success_type_condition": "1;2;5", 
+    "basic_score": 300, "fight_environment_group": "1;2;5", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 360000000, "end_score": 1090000000, "type": 2, "construction": "543", 
     "enemy_group": "939-1-4,938-1-4,669-0-4,672-0-4,637-0-4,334910-1-2", "enemy_lv": "-20,-18,-16,-14,-12,-10,-8,-6,-4,-2", 
@@ -792,9 +829,9 @@
     "difficulty": 6400, "area_mission_id": 900441, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000543"
   }, {
-    "id": 544, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 544, "name": "通常ステージ", "fight_type": 3, "type_coef": "180", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 1090000000, "end_score": 1300000000, "type": 1, "construction": "", 
     "enemy_group": "745-1-3,747-0-3,748-1-3,808-0-3,804-0-3,334954-1-2,333804-1-2,334606-1-2", 
@@ -807,9 +844,9 @@
     "difficulty": 14000, "area_mission_id": 900442, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000544"
   }, {
-    "id": 545, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", "basic_score": 300, 
-    "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 545, "name": "通常ステージ", "fight_type": 4, "type_coef": "0", "success_type_condition": "1;4;7", 
+    "basic_score": 300, "fight_environment_group": "1;4;7", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 1300000000, "end_score": 1450000000, "type": 1, "construction": "", 
     "enemy_group": "317968-0-2,1791-0-3,1792-1-3,1981-0-3,1823-1-3,2414-0-3,334707-1-3,337211-1-3", 
@@ -852,9 +889,9 @@
     "difficulty": 30000, "area_mission_id": 900443, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000547"
   }, {
-    "id": 548, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", "basic_score": 300, 
-    "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 548, "name": "要塞ステージ", "fight_type": 5, "type_coef": "0", "success_type_condition": "1;3;6", 
+    "basic_score": 300, "fight_environment_group": "1;3;6", "is_enemy_random": 0, "theater_spare_gun_num": 10, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 10, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "100;0;50;0;200;50;100;00;100;50;00;100;100", "boss_score_display": "-2;0;0;0;2;0;1;0;1;0;0;-1;0", 
     "start_score": 2080000000, "end_score": 2180000000, "type": 2, "construction": "", 
     "enemy_group": "2691-0-2,2730-1-2,317972-1-2,2740-1-3,2720-0-3,336609-1-2,336613-1-2,336707-1-2,336304-1-3,334999-0-2", 
@@ -876,8 +913,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "330,27,10,13,328,115", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 61, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 1000, "area_mission_id": 901411, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000611"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 1000, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000611"
   }, {
     "id": 612, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 1000, 
     "fight_environment_group": "736", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -888,8 +926,10 @@
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "330,27,10,13,328,115", "material_item": 47, "battle_background": "network", "theater_id": 61, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 2600, 
-    "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000612"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 2600, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000612"
   }, {
     "id": 613, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1", "basic_score": 1000, 
     "fight_environment_group": "738", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -900,8 +940,10 @@
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "330,27,10,13,328,115", "material_item": 47, "battle_background": "wasteland", "theater_id": 61, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 4200, 
-    "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000613"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 4200, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000613"
   }, {
     "id": 614, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 1000, 
     "fight_environment_group": "703", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -912,12 +954,14 @@
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "700002-0", "occupied_boss_score": 60, "score_limit": 1046, 
     "advantage_gun": "330,27,10,13,328,115", "material_item": 47, "battle_background": "network", "theater_id": 61, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 4800, 
-    "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000614"
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 4800, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000614"
   }, {
-    "id": 615, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1", "basic_score": 2000, 
-    "fight_environment_group": "720", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 615, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1", 
+    "basic_score": 2000, "fight_environment_group": "720", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 35370000, "end_score": 47030000, "type": 1, "construction": "", 
     "enemy_group": "1051501-0-1-1,1051502-0-1-1,1051503-0-1-1,1051504-0-1-1,1051505-0-1-1", 
@@ -925,8 +969,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "298,171,73,106,70,6", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 61, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 5200, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000615"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 5200, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000615"
   }, {
     "id": 616, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 2000, 
     "fight_environment_group": "719", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -938,8 +983,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "298,171,73,106,70,6", "material_item": 47, 
     "battle_background": "network", "theater_id": 61, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 5800, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000616"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 5800, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000616"
   }, {
     "id": 617, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1", "basic_score": 3000, 
     "fight_environment_group": "713", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -951,8 +997,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "298,171,73,106,70,6", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 61, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 6400, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000617"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 6400, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000617"
   }, {
     "id": 618, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 3000, 
     "fight_environment_group": "710", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -964,12 +1011,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", 
     "boss": "700001-0", "occupied_boss_score": 60, "score_limit": 2205, "advantage_gun": "298,171,73,106,70,6", 
     "material_item": 47, "battle_background": "network", "theater_id": 61, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 7500, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000618"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 7500, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000618"
   }, {
-    "id": 621, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;712", "basic_score": 1000, 
-    "fight_environment_group": "704;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 621, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;712", 
+    "basic_score": 1000, "fight_environment_group": "704;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", "start_score": 0, 
     "end_score": 18000000, "type": 1, "construction": "621", 
     "enemy_group": "1052101-0-1-1,1052102-0-1-1,1052103-0-1-1,1052104-0-1-1", "enemy_lv": "-2,-2,-2,-1,-1,-1,-1,0,0,0", 
@@ -977,25 +1025,27 @@
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "176,203,315,223,61,338,20061", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 7800, 
-    "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000621"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 7800, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000621"
   }, {
-    "id": 622, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;6", "basic_score": 1000, 
-    "fight_environment_group": "710;731", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 622, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;6", 
+    "basic_score": 1000, "fight_environment_group": "710;731", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 18000000, "end_score": 50980000, "type": 1, "construction": "", 
     "enemy_group": "1052201-0-1-1,1052202-0-1-1,1052203-0-1-1,1052204-0-1-1", "enemy_lv": "-2,-2,-2,-1,-1,-1,-1,0,0,0", 
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "176,203,315,223,61,338,20061", "material_item": 47, "battle_background": "network", "theater_id": 62, 
-    "display_length": 300, "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "display_length": 300, 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
     "difficulty": 8000, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", 
     "advantage_desc": "theater_area-30000622"
   }, {
-    "id": 623, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3", "basic_score": 1000, 
-    "fight_environment_group": "701;736", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 623, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3", 
+    "basic_score": 1000, "fight_environment_group": "701;736", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 50980000, "end_score": 77110000, "type": 1, "construction": "", 
     "enemy_group": "1052301-1-1-1,1052302-1-1-1,1052303-1-1-1,1052304-1-1-1,1052305-1-1-1", 
@@ -1003,12 +1053,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "176,203,315,223,61,338,20061", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8500, 
-    "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000623"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8500, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000623"
   }, {
-    "id": 624, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;704", "basic_score": 1000, 
-    "fight_environment_group": "704;728", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 624, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;704", 
+    "basic_score": 1000, "fight_environment_group": "704;728", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;10;6;11;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;1;0;1;0;0;0;0;0;0;0;0;0", 
     "start_score": 77110000, "end_score": 105920000, "type": 2, "construction": "", 
     "enemy_group": "1052401-0-1-1,1052402-0-1-1,1052403-0-1-1,1052404-0-1-1,1052405-0-1-1", 
@@ -1016,12 +1067,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", 
     "boss": "700001-0", "occupied_boss_score": 60, "score_limit": 2193, "advantage_gun": "176,203,315,223,61,338,20061", 
     "material_item": 47, "battle_background": "network", "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8800, 
-    "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000624"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8800, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000624"
   }, {
-    "id": 625, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1;709", "basic_score": 2000, 
-    "fight_environment_group": "729;703", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 625, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1;709", 
+    "basic_score": 2000, "fight_environment_group": "729;703", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 105920000, "end_score": 187750000, "type": 1, "construction": "625", 
     "enemy_group": "1052501-0-1-1,1052502-0-1-1,1052503-0-1-1,1052504-0-1-1,1052505-0-1-1", 
@@ -1029,12 +1081,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "232,202,162,164,209,286", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9200, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000625"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9200, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000625"
   }, {
-    "id": 626, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;706", "basic_score": 2000, 
-    "fight_environment_group": "716;707", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 626, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;706", 
+    "basic_score": 2000, "fight_environment_group": "716;707", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 187750000, "end_score": 248950000, "type": 1, "construction": "", 
     "enemy_group": "1052601-1-1-1,1052602-1-1-1,1052603-1-1-1,1052604-1-1-1,1052605-1-1-1,1052606-1-1-1", 
@@ -1042,12 +1095,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "232,202,162,164,209,286", "material_item": 47, 
     "battle_background": "network", "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9600, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000626"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9600, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000626"
   }, {
-    "id": 627, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;716", "basic_score": 3000, 
-    "fight_environment_group": "731;733", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 627, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;716", 
+    "basic_score": 3000, "fight_environment_group": "731;733", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 248950000, "end_score": 321200000, "type": 1, "construction": "", 
     "enemy_group": "1052701-0-1-1,1052702-0-1-1,1052703-0-1-1,1052704-0-1-1,1052705-0-1-1,1052706-0-1-1", 
@@ -1055,12 +1109,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "232,202,162,164,209,286", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 13000, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000627"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 13000, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000627"
   }, {
-    "id": 628, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;724", "basic_score": 3000, 
-    "fight_environment_group": "705;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 628, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;724", 
+    "basic_score": 3000, "fight_environment_group": "705;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "16;10;6;7;3;8;1;5;3;1;1;1;1", "boss_score_display": "1;1;0;0;0;1;0;0;0;0;0;0;0", 
     "start_score": 321200000, "end_score": 468370000, "type": 2, "construction": "", 
     "enemy_group": "1052801-0-1-1,1052802-0-1-1,1052803-0-1-1,1052804-0-1-1,1052805-0-1-1,1052806-0-1-1", 
@@ -1068,8 +1123,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", 
     "boss": "700006-0", "occupied_boss_score": 60, "score_limit": 3975, "advantage_gun": "232,202,162,164,209,286", 
     "material_item": 47, "battle_background": "network", "theater_id": 62, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 14500, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", "advantage_desc": "theater_area-30000628"
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 14500, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "", 
+    "advantage_desc": "theater_area-30000628"
   }, {
     "id": 631, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;712;713", 
     "basic_score": 1000, "fight_environment_group": "720;713;739", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
@@ -1304,8 +1360,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "330,27,10,13,328,115", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 71, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 1000, "area_mission_id": 901411, 
-    "advantage_sangvis": "", "advantage_skill": "77703801", "advantage_desc": "theater_area-30000711"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 1000, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "advantage_desc": "theater_area-30000711"
   }, {
     "id": 712, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 1000, 
     "fight_environment_group": "736", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -1316,8 +1373,9 @@
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "330,27,10,13,328,115", "material_item": 47, "battle_background": "network", "theater_id": 71, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 2600, 
-    "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 2600, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
     "advantage_desc": "theater_area-30000712"
   }, {
     "id": 713, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1", "basic_score": 1000, 
@@ -1329,8 +1387,9 @@
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "330,27,10,13,328,115", "material_item": 47, "battle_background": "wasteland", "theater_id": 71, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 4200, 
-    "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 4200, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
     "advantage_desc": "theater_area-30000713"
   }, {
     "id": 714, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 1000, 
@@ -1342,13 +1401,14 @@
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "700002-0", "occupied_boss_score": 60, "score_limit": 1046, 
     "advantage_gun": "330,27,10,13,328,115", "material_item": 47, "battle_background": "network", "theater_id": 71, 
-    "display_length": 300, "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 4800, 
-    "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "display_length": 300, 
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 4800, "area_mission_id": 901411, "advantage_sangvis": "", "advantage_skill": "77703801", 
     "advantage_desc": "theater_area-30000714"
   }, {
-    "id": 715, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1", "basic_score": 2000, 
-    "fight_environment_group": "720", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 715, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1", 
+    "basic_score": 2000, "fight_environment_group": "720", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 35370000, "end_score": 47030000, "type": 1, "construction": "", 
     "enemy_group": "1071501-0-1-1,1071502-0-1-1,1071503-0-1-1,1071504-0-1-1,1071505-0-1-1", 
@@ -1356,8 +1416,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "298,171,73,106,70,6", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 71, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 5200, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "77703801", "advantage_desc": "theater_area-30000715"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 5200, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "advantage_desc": "theater_area-30000715"
   }, {
     "id": 716, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 2000, 
     "fight_environment_group": "719", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -1369,8 +1430,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "298,171,73,106,70,6", "material_item": 47, 
     "battle_background": "network", "theater_id": 71, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 5800, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "77703801", "advantage_desc": "theater_area-30000716"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 5800, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "advantage_desc": "theater_area-30000716"
   }, {
     "id": 717, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1", "basic_score": 3000, 
     "fight_environment_group": "713", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -1382,8 +1444,9 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "298,171,73,106,70,6", "material_item": 47, 
     "battle_background": "wasteland", "theater_id": 71, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 6400, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "77703801", "advantage_desc": "theater_area-30000717"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 6400, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "advantage_desc": "theater_area-30000717"
   }, {
     "id": 718, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1", "basic_score": 3000, 
     "fight_environment_group": "710", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
@@ -1395,12 +1458,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", 
     "boss": "700001-0", "occupied_boss_score": 60, "score_limit": 2205, "advantage_gun": "298,171,73,106,70,6", 
     "material_item": 47, "battle_background": "network", "theater_id": 71, "display_length": 300, 
-    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", "difficulty": 7500, "area_mission_id": 901412, 
-    "advantage_sangvis": "", "advantage_skill": "77703801", "advantage_desc": "theater_area-30000718"
+    "description": "硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。", 
+    "difficulty": 7500, "area_mission_id": 901412, "advantage_sangvis": "", "advantage_skill": "77703801", 
+    "advantage_desc": "theater_area-30000718"
   }, {
-    "id": 721, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;712", "basic_score": 1000, 
-    "fight_environment_group": "704;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 721, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;712", 
+    "basic_score": 1000, "fight_environment_group": "704;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", "start_score": 0, 
     "end_score": 18000000, "type": 1, "construction": "721", 
     "enemy_group": "1072101-0-1-1,1072102-0-1-1,1072103-0-1-1,1072104-0-1-1", "enemy_lv": "-2,-2,-2,-1,-1,-1,-1,0,0,0", 
@@ -1408,26 +1472,27 @@
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "176,203,315,223,335,338", "material_item": 47, "battle_background": "abandonedvillage", 
     "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 7800, 
-    "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 7800, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000721"
   }, {
-    "id": 722, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;6", "basic_score": 1000, 
-    "fight_environment_group": "710;731", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 722, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;6", 
+    "basic_score": 1000, "fight_environment_group": "710;731", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 18000000, "end_score": 50980000, "type": 1, "construction": "", 
     "enemy_group": "1072201-0-1-1,1072202-0-1-1,1072203-0-1-1,1072204-0-1-1", "enemy_lv": "-2,-2,-2,-1,-1,-1,-1,0,0,0", 
     "enemy_score": "0,0,0,0,0,0,0,0,0,0", "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", 
     "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", "occupied_boss_score": 60, "score_limit": 0, 
     "advantage_gun": "176,203,315,223,335,338", "material_item": 47, "battle_background": "network", "theater_id": 72, 
-    "display_length": 300, "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "display_length": 300, 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
     "difficulty": 8000, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000722"
   }, {
-    "id": 723, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3", "basic_score": 1000, 
-    "fight_environment_group": "701;736", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 723, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;3", 
+    "basic_score": 1000, "fight_environment_group": "701;736", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 50980000, "end_score": 77110000, "type": 1, "construction": "", 
     "enemy_group": "1072301-1-1-1,1072302-1-1-1,1072303-1-1-1,1072304-1-1-1,1072305-1-1-1", 
@@ -1435,13 +1500,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "176,203,315,223,335,338", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8500, 
-    "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8500, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000723"
   }, {
-    "id": 724, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;704", "basic_score": 1000, 
-    "fight_environment_group": "704;728", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 724, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;704", 
+    "basic_score": 1000, "fight_environment_group": "704;728", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;10;6;11;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;1;0;1;0;0;0;0;0;0;0;0;0", 
     "start_score": 77110000, "end_score": 105920000, "type": 2, "construction": "", 
     "enemy_group": "1072401-0-1-1,1072402-0-1-1,1072403-0-1-1,1072404-0-1-1,1072405-0-1-1", 
@@ -1449,13 +1514,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", 
     "boss": "700001-0", "occupied_boss_score": 60, "score_limit": 2193, "advantage_gun": "176,203,315,223,335,338", 
     "material_item": 47, "battle_background": "network", "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 8800, 
-    "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 8800, "area_mission_id": 901421, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000724"
   }, {
-    "id": 725, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1;709", "basic_score": 2000, 
-    "fight_environment_group": "729;703", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 725, "name": "通常ステージ", "fight_type": 3, "type_coef": "40", "success_type_condition": "1;709", 
+    "basic_score": 2000, "fight_environment_group": "729;703", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 105920000, "end_score": 187750000, "type": 1, "construction": "725", 
     "enemy_group": "1072501-0-1-1,1072502-0-1-1,1072503-0-1-1,1072504-0-1-1,1072505-0-1-1", 
@@ -1463,13 +1528,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "232,202,162,164,209,286", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9200, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9200, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000725"
   }, {
-    "id": 726, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;706", "basic_score": 2000, 
-    "fight_environment_group": "716;707", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 726, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;706", 
+    "basic_score": 2000, "fight_environment_group": "716;707", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 187750000, "end_score": 248950000, "type": 1, "construction": "", 
     "enemy_group": "1072601-1-1-1,1072602-1-1-1,1072603-1-1-1,1072604-1-1-1,1072605-1-1-1,1072606-1-1-1", 
@@ -1477,13 +1542,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "232,202,162,164,209,286", "material_item": 47, 
     "battle_background": "network", "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 9600, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 9600, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000726"
   }, {
-    "id": 727, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;716", "basic_score": 3000, 
-    "fight_environment_group": "731;733", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 727, "name": "通常ステージ", "fight_type": 1, "type_coef": "0", "success_type_condition": "1;716", 
+    "basic_score": 3000, "fight_environment_group": "731;733", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "11;6;6;7;3;5;1;5;3;1;1;1;1", "boss_score_display": "0;0;0;0;0;0;0;0;0;0;0;0;0", 
     "start_score": 248950000, "end_score": 321200000, "type": 1, "construction": "", 
     "enemy_group": "1072701-0-1-1,1072702-0-1-1,1072703-0-1-1,1072704-0-1-1,1072705-0-1-1,1072706-0-1-1", 
@@ -1491,13 +1556,13 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", "boss": "", 
     "occupied_boss_score": 60, "score_limit": 0, "advantage_gun": "232,202,162,164,209,286", "material_item": 47, 
     "battle_background": "abandonedvillage", "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 13000, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 13000, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000727"
   }, {
-    "id": 728, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;724", "basic_score": 3000, 
-    "fight_environment_group": "705;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, "theater_spare_fairy_num": 0, 
-    "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
+    "id": 728, "name": "要塞ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;724", 
+    "basic_score": 3000, "fight_environment_group": "705;722", "is_enemy_random": 0, "theater_spare_gun_num": 5, 
+    "theater_spare_fairy_num": 0, "theater_spare_sangvis_cost": 36, "assist_npc": "", "assist_squad": "", "assist_fairy": "", 
     "boss_score_coef": "16;10;6;7;3;8;1;5;3;1;1;1;1", "boss_score_display": "1;1;0;0;0;1;0;0;0;0;0;0;0", 
     "start_score": 321200000, "end_score": 468370000, "type": 2, "construction": "", 
     "enemy_group": "1072801-0-1-1,1072802-0-1-1,1072803-0-1-1,1072804-0-1-1,1072805-0-1-1,1072806-0-1-1", 
@@ -1505,8 +1570,8 @@
     "occupied_enemy_lv": "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8", "occupied_enemy_score": "0,0,0,0,0,0,0,0,0,0", 
     "boss": "700006-0", "occupied_boss_score": 60, "score_limit": 3975, "advantage_gun": "232,202,162,164,209,286", 
     "material_item": 47, "battle_background": "network", "theater_id": 72, "display_length": 300, 
-    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", "difficulty": 14500, 
-    "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
+    "description": "状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。", 
+    "difficulty": 14500, "area_mission_id": 901422, "advantage_sangvis": "", "advantage_skill": "77703901", 
     "advantage_desc": "theater_area-30000728"
   }, {
     "id": 731, "name": "通常ステージ", "fight_type": 2, "type_coef": "0", "success_type_condition": "1;712;713", 

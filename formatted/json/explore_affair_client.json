@@ -1,178 +1,197 @@
 [
   {
     "id": 1, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は人間のグループに声を掛けられたが、その態度があまりに無礼であったため、人類と人形の友好関係にまた軋轢が生じてしまった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1]は人間のグループに声を掛けられたが、その態度があまりに無礼であったため、人類と人形の友好関係にまた軋轢が生じてしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 2, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は人間のグループに声を掛けられ、話しかけた相手が人形だと知るに至るまで、お互い仲良くお喋りをしていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は人間のグループに声を掛けられ、話しかけた相手が人形だと知るに至るまで、お互い仲良くお喋りをしていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 3, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は人間のグループに声を掛けられ、お互い楽しくお喋りしていた。彼らは人形と人類の関係なんてものに興味はないらしい。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は人間のグループに声を掛けられ、お互い楽しくお喋りしていた。彼らは人形と人類の関係なんてものに興味はないらしい。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 4, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]はうっかり熊の縄張りに入ってしまい、しばらく睨み合った後、来た道を戻り迂回することを決めた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]はうっかり熊の縄張りに入ってしまい、しばらく睨み合った後、来た道を戻り迂回することを決めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 5, "area_id": "3", "weight": 0, "tag_weight": "34:20", 
-    "content": "[gun1:34]はうっかり熊の縄張りに入ってしまい、しばらく睨み合ってると、熊の方が逃げ去っていった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 6, "area_id": "3", "weight": 0, "tag_weight": "39:20", "content": "[gun1:39]はうっかり熊の縄張りに入ってしまい、強烈な一撃を食らわされてしまった。", 
+    "content": "[gun1:34]はうっかり熊の縄張りに入ってしまい、しばらく睨み合ってると、熊の方が逃げ去っていった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 6, "area_id": "3", "weight": 0, "tag_weight": "39:20", 
+    "content": "[gun1:39]はうっかり熊の縄張りに入ってしまい、強烈な一撃を食らわされてしまった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 7, "area_id": "3", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は酔っぱらっていたため、自分がうっかり熊の縄張りに入ってしまったことにさえ気づかず、それどころか熊にも一杯すすめ始めた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 8, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]はうっかり転んでしまった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 9, "area_id": "3,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は川を渡るときに、危うく川に流されそうになった。", 
+    "content": "[gun1:50]は酔っぱらっていたため、自分がうっかり熊の縄張りに入ってしまったことにさえ気づかず、それどころか熊にも一杯すすめ始めた。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 8, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]はうっかり転んでしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 9, "area_id": "3,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は川を渡るときに、危うく川に流されそうになった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 10, "area_id": "3,4,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は川を渡る際に転んでしまい、流れが急であったため流されてしまったが、幸い途中で石にひっかかり助かった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は川を渡る際に転んでしまい、流れが急であったため流されてしまったが、幸い途中で石にひっかかり助かった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 11, "area_id": "3,4,1", "weight": 0, "tag_weight": "30:20", 
-    "content": "川沿いを歩くときは特に気をつけないと、ちょっと油断するだけで[gun1:30]によって冷えた水の底に放り込まれてしまう。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 12, "area_id": "3,4,1", "weight": 0, "tag_weight": "50:20", "content": "[gun1:50]は酔っぱらっていたため、川を渡る際中、誤って流されそうになった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 13, "area_id": "3,4,1", "weight": 0, "tag_weight": "50:20", "content": "[gun1:50]は酔っぱらっていたため、川を渡る際中、誤って流されてしまった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 14, "area_id": "3,4,1", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は酔っぱらっていたため、川を渡る際に転んでしまい、流れが急であったため流されてしまったが、幸い途中で石にひっかかり助かった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 15, "area_id": "3,4,1", "weight": 0, "tag_weight": "53:20", "content": "[gun1:53]は川の中に野生のニシキゴイを見つけた！", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 16, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は廃屋を見つけたが、どう見ても中を探る価値はないようだ。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 17, "area_id": "3,2,4", "weight": 0, "tag_weight": "5:20", "content": "[gun1:5]は廃屋の中を探したが、食べ物もなくただガッカリさせられるだけだった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 18, "area_id": "3,2,4", "weight": 0, "tag_weight": "5:20", "content": "[gun1:5]は廃屋の中で冷蔵庫を見つけたが、中はただ骸骨が眠っているだけだった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 19, "area_id": "3,2,4", "weight": 0, "tag_weight": "5:20", "content": "[gun1:5]は廃屋の中で今や絶版となった幻の牛肉缶詰を見つけ、とても喜んだ。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 20, "area_id": "3,2,4", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]は廃屋で精巧な作りをした鉄鍋と使えそうな釜戸を見つけたが、暫くしてそこでご飯を作るのをあきらめた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 21, "area_id": "3,2,4", "weight": 0, "tag_weight": "9:20", 
-    "content": "もし世が平和だったら……ここに住むのもいいかも。ーー廃屋の中を歩きながら[gun1:9]はそう考えた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 22, "area_id": "3,2,4", "weight": 0, "tag_weight": "7:20", "content": "[gun1:7]は廃屋の中を捜索したが、危うく建物そのものを壊しそうになった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 23, "area_id": "3,2,4", "weight": 0, "tag_weight": "7:20", "content": "[gun1:7]は廃屋で食べ物を見つけたが、太るのを恐れた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 24, "area_id": "3,2,4", "weight": 0, "tag_weight": "30:20", "content": "他の人形が廃屋を捜索している間、[gun1:30]は出口にトラップを仕掛けた。", 
+    "content": "川沿いを歩くときは特に気をつけないと、ちょっと油断するだけで[gun1:30]によって冷えた水の底に放り込まれてしまう。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
-    "id": 25, "area_id": "3,2,4", "weight": 0, "tag_weight": "24:20", 
-    "content": "[gun1:24]は廃屋にあったポスターの鑑賞にしばらくふけっていたが、他の人形たちはそのポスターをダサいと思っていた。", "necessary_num": "3,0", "background": "", 
+    "id": 12, "area_id": "3,4,1", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は酔っぱらっていたため、川を渡る際中、誤って流されそうになった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 13, "area_id": "3,4,1", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は酔っぱらっていたため、川を渡る際中、誤って流されてしまった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 14, "area_id": "3,4,1", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は酔っぱらっていたため、川を渡る際に転んでしまい、流れが急であったため流されてしまったが、幸い途中で石にひっかかり助かった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 15, "area_id": "3,4,1", "weight": 0, "tag_weight": "53:20", 
+    "content": "[gun1:53]は川の中に野生のニシキゴイを見つけた！", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
+  }, {
+    "id": 16, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は廃屋を見つけたが、どう見ても中を探る価値はないようだ。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 17, "area_id": "3,2,4", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は廃屋の中を探したが、食べ物もなくただガッカリさせられるだけだった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 18, "area_id": "3,2,4", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は廃屋の中で冷蔵庫を見つけたが、中はただ骸骨が眠っているだけだった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 19, "area_id": "3,2,4", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は廃屋の中で今や絶版となった幻の牛肉缶詰を見つけ、とても喜んだ。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 20, "area_id": "3,2,4", "weight": 0, "tag_weight": "3:20", 
+    "content": "[gun1:3]は廃屋で精巧な作りをした鉄鍋と使えそうな釜戸を見つけたが、暫くしてそこでご飯を作るのをあきらめた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 21, "area_id": "3,2,4", "weight": 0, "tag_weight": "9:20", 
+    "content": "もし世が平和だったら……ここに住むのもいいかも。ーー廃屋の中を歩きながら[gun1:9]はそう考えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 22, "area_id": "3,2,4", "weight": 0, "tag_weight": "7:20", 
+    "content": "[gun1:7]は廃屋の中を捜索したが、危うく建物そのものを壊しそうになった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 23, "area_id": "3,2,4", "weight": 0, "tag_weight": "7:20", 
+    "content": "[gun1:7]は廃屋で食べ物を見つけたが、太るのを恐れた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 24, "area_id": "3,2,4", "weight": 0, "tag_weight": "30:20", 
+    "content": "他の人形が廃屋を捜索している間、[gun1:30]は出口にトラップを仕掛けた。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 25, "area_id": "3,2,4", "weight": 0, "tag_weight": "24:20", 
+    "content": "[gun1:24]は廃屋にあったポスターの鑑賞にしばらくふけっていたが、他の人形たちはそのポスターをダサいと思っていた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 26, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]はオシャレなカフェを見つけたので立ち寄ろうとしたが、お金を持っていないことに気がづいた。無念。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]はオシャレなカフェを見つけたので立ち寄ろうとしたが、お金を持っていないことに気がづいた。無念。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 27, "area_id": "3,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は人の声を真似るオウムを見つけた。オウムはあたらしく「はらへった」という単語をおぼえた！", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は人の声を真似るオウムを見つけた。オウムはあたらしく「はらへった」という単語をおぼえた！", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 28, "area_id": "3,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は人の声を真似るオウムを見つけた。オウムはあたらしく「たすけて」という単語をおぼえた！", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は人の声を真似るオウムを見つけた。オウムはあたらしく「たすけて」という単語をおぼえた！", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 29, "area_id": "3,1", "weight": 10, "tag_weight": "", "content": "[gun1]は人の声を真似るオウムを見付けた。オウムはあたらしく「ママ」という単語をおぼえた！", 
+    "id": 29, "area_id": "3,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は人の声を真似るオウムを見付けた。オウムはあたらしく「ママ」という単語をおぼえた！", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 30, "area_id": "2", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は道端でエージェントの彫刻を見つけた。誰が作ったかは不明だが、非常に精巧に作られていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は道端でエージェントの彫刻を見つけた。誰が作ったかは不明だが、非常に精巧に作られていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 31, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は近くに果物がたくさん実っている木々を見つけた。そこで一度足を止め、自然の恵みを享受することにした。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 32, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]はそこで回収したガラクタを宝物にした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 33, "area_id": "3", "weight": 10, "tag_weight": "53:-5", 
-    "content": "「熊と同じ大きさをした白黒の奇妙な生物」がいるという噂を[gun1:-53]は思い出したが、彼女はそれに違和感を感じていた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 34, "area_id": "3", "weight": 10, "tag_weight": "53:-5", 
-    "content": "[gun1:-53]は林で「熊と同じ大きさをした白黒の奇妙な生物」を見つけてしまった。そんな馬鹿な……", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 35, "area_id": "3", "weight": 0, "tag_weight": "53:-100,50:20", 
-    "content": "[gun1:50]は、「熊と同じ大きさをした白黒の奇妙な生物」を見たことを熱く語っていたが、みんなは彼女の酔っ払いの戯言だと思って聞き流していた。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 36, "area_id": "3", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]林で「熊と同じ大きさをした白黒の奇妙な生物」を見た。その生物は美味しそうに竹を食べていた……", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 37, "area_id": "3", "weight": 0, "tag_weight": "53:20", 
-    "content": "[gun1:53]はパンダを見たと確信している。不思議ではあるが、グリフィンの生活と比べればそんなに大したことでもない気がする。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 38, "area_id": "3", "weight": 0, "tag_weight": "29:20", 
-    "content": "みんなが見てみたいと噂していた、「熊と同じ大きさをした白黒の奇妙な生物」を[gun1:29]は見つけた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 39, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は、強盗の集団を懲らしめたことで表彰された。", 
+    "content": "[gun1]は近くに果物がたくさん実っている木々を見つけた。そこで一度足を止め、自然の恵みを享受することにした。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
+    "id": 32, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]はそこで回収したガラクタを宝物にした。", "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 33, "area_id": "3", "weight": 10, "tag_weight": "53:-5", 
+    "content": "「熊と同じ大きさをした白黒の奇妙な生物」がいるという噂を[gun1:-53]は思い出したが、彼女はそれに違和感を感じていた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 34, "area_id": "3", "weight": 10, "tag_weight": "53:-5", 
+    "content": "[gun1:-53]は林で「熊と同じ大きさをした白黒の奇妙な生物」を見つけてしまった。そんな馬鹿な……", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 35, "area_id": "3", "weight": 0, "tag_weight": "53:-100,50:20", 
+    "content": "[gun1:50]は、「熊と同じ大きさをした白黒の奇妙な生物」を見たことを熱く語っていたが、みんなは彼女の酔っ払いの戯言だと思って聞き流していた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 36, "area_id": "3", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]林で「熊と同じ大きさをした白黒の奇妙な生物」を見た。その生物は美味しそうに竹を食べていた……", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 37, "area_id": "3", "weight": 0, "tag_weight": "53:20", 
+    "content": "[gun1:53]はパンダを見たと確信している。不思議ではあるが、グリフィンの生活と比べればそんなに大したことでもない気がする。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 38, "area_id": "3", "weight": 0, "tag_weight": "29:20", 
+    "content": "みんなが見てみたいと噂していた、「熊と同じ大きさをした白黒の奇妙な生物」を[gun1:29]は見つけた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 39, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は、強盗の集団を懲らしめたことで表彰された。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
     "id": 40, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は綺麗な花を見つけ、たまらずその花を嗅ぎに行った。しかしそれがあまりにも臭かったので、[gun1]はその場から逃げ出した。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1]は綺麗な花を見つけ、たまらずその花を嗅ぎに行った。しかしそれがあまりにも臭かったので、[gun1]はその場から逃げ出した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 41, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は真剣に何か物思いにふけているように見えるが、実際にはただボーッとしているだけだった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は真剣に何か物思いにふけているように見えるが、実際にはただボーッとしているだけだった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 42, "area_id": "2", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は嬉々として雪の中に飛び込んだ。しかし中にはゴミが埋まっており、中に入っていた鋭いもので怪我をした。", "necessary_num": "1,0", "background": "", 
+    "content": "[gun1]は嬉々として雪の中に飛び込んだ。しかし中にはゴミが埋まっており、中に入っていた鋭いもので怪我をした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 43, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は廃屋の中を捜索したが、危うく建物そのものを壊しそうになった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 44, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は廃屋の中を捜索したが、食べ物は何一つ無かった。", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
   }, {
-    "id": 43, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は廃屋の中を捜索したが、危うく建物そのものを壊しそうになった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 45, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は廃屋の中を捜索したが、中の物はすでに奪いつくされていた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 44, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は廃屋の中を捜索したが、食べ物は何一つ無かった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 45, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は廃屋の中を捜索したが、中の物はすでに奪いつくされていた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 46, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は未調査エリアで、価値のある資源を見つけた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 46, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は未調査エリアで、価値のある資源を見つけた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 47, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は未調査エリアで、迷子になった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 48, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は正義の何たるかを知るために、「レッド・ソウル・ライダー」を観た。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 48, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は正義の何たるかを知るために、「レッド・ソウル・ライダー」を観た。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 49, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は街でスリに会い、そして犯人を地面に押さえつけた。これでまた一つ、人間と人形の友好関係に汚点が生まれてしまった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は街でスリに会い、そして犯人を地面に押さえつけた。これでまた一つ、人間と人形の友好関係に汚点が生まれてしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 50, "area_id": "1", "weight": 10, "tag_weight": "", "content": "[gun1]は街でスリに遭い、犯人を逃がしてしまった！", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
@@ -180,352 +199,407 @@
     "id": 51, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は、道で誰かの落とし物を拾った。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 52, "area_id": "1", "weight": 10, "tag_weight": "", "content": "[gun1]は道中で転覆したトラックを見かけ、それに群がり貨物を取ろうとする人たちを怒鳴った。", 
+    "id": 52, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は道中で転覆したトラックを見かけ、それに群がり貨物を取ろうとする人たちを怒鳴った。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 53, "area_id": "1", "weight": 10, "tag_weight": "", "content": "[gun1]は道中で転覆したトラックを見かけ、散乱した荷物を拾い戻すのを手伝った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 53, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は道中で転覆したトラックを見かけ、散乱した荷物を拾い戻すのを手伝った。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 54, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は森の奥深くで、蔓に絡まれた廃棄人形を見つけた。いろいろ手を尽くしたが、人形は動かなかった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は森の奥深くで、蔓に絡まれた廃棄人形を見つけた。いろいろ手を尽くしたが、人形は動かなかった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 55, "area_id": "2", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は雪の中で何か柔らかいものを踏んづけた。そこで、雪の中を掘ってみると、ただのゴミだった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 56, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は廃屋の中で今や絶版となった幻の牛肉缶詰を見つけて、とても喜んだ。", 
+    "content": "[gun1]は雪の中で何か柔らかいものを踏んづけた。そこで、雪の中を掘ってみると、ただのゴミだった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 57, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は廃屋の中で冷蔵庫を見つけたが、ただ骸骨が眠っているだけだった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 58, "area_id": "3", "weight": 10, "tag_weight": "", "content": "[gun1]は珍しいトリュフを見つけた！", "necessary_num": "1,0", 
+    "id": 56, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は廃屋の中で今や絶版となった幻の牛肉缶詰を見つけて、とても喜んだ。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
+  }, {
+    "id": 57, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は廃屋の中で冷蔵庫を見つけたが、ただ骸骨が眠っているだけだった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 58, "area_id": "3", "weight": 10, "tag_weight": "", "content": "[gun1]は珍しいトリュフを見つけた！", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 59, "area_id": "2", "weight": 10, "tag_weight": "85:20", 
-    "content": "FALのフェレットは興奮してどこかへ走り去ってしまった。この雪の中では探せるはずもないので自力で戻ってきてくれと、[gun1:-85]はひそかに祈っていた。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 60, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "特に何の助けにもならなかったが、[gun1]の言葉は不安な人々の心の慰めになった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 61, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "しばらく探してみたが、空缶や空瓶しか、[gun1]は見つけられなかった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 62, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は難民に囲まれ困っていたが、彼女の仲間のおかげでなんとかそこから抜け出すことができた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 63, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "彼女たちは何もできないとわかってはいたが、それでも難民たちは[gun1]に助けを求めた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 64, "area_id": "3,2,4", "weight": 0, "tag_weight": "26:20", 
-    "content": "[gun1:26]は難民に囲まれ困っていたが、仲間のおかげでなんとかそこから抜け出すことができた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 65, "area_id": "3,2,4", "weight": 0, "tag_weight": "26:20", 
-    "content": "特に何の助けにもならなかったが、[gun1:26]の言葉は不安な人々の心の慰めになった。", "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 66, "area_id": "3,2,4", "weight": 0, "tag_weight": "18:20", "content": "[gun1:18]は前方に難民キャンプがあることに気づき、迂回することにした。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 67, "area_id": "3,2,4", "weight": 0, "tag_weight": "40:20", "content": "[gun1:40]は前方に難民キャンプがあることに気づき、ガッカリした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 68, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "仲間とはぐれたグリフィン人形に遭遇した。彼女は[gun1]からの勧誘をやんわり断った後、指揮官が来るまでそこで待ち続けた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 69, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "驚いたり、暴れているイノシシやウサギ、シカとすれ違ったので、[gun1]は森に何か恐ろしいものが潜んでいるのではないかと恐れた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 70, "area_id": "4", "weight": 10, "tag_weight": "", "content": "前に汚染区域があるからと、一人の子供が[gun1]を止めた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 71, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
-    "content": "難民の一人が自分の子供を[gun1]の小隊へ入れようとしたが、子供が嫌がっている隙に[gun1]は逃げた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 72, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は前方に難民キャンプがあることに気づき、ガッカリした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 73, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "人形達から利益をむさぼり取ろうとする闇商人がしつこくまとわりついて来るので、[gun1]はそれを追い払った。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 74, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "遠くの林から鳥の大群が飛び立っていたことに[gun1]は気付いた。どうやらグリフィンの人形以外にも誰かいるらしい。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 75, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "17:20", 
-    "content": "ここで立ち止まるべきではなかったが、[gun1:17]が茶を飲んで一休みすることはもう誰にも止められない。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 76, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", "content": "[gun1:20]はみんなにトレーニングすることを提案したが、反対された。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 77, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "41:20", 
-    "content": "人形達から利益をむさぼり取ろうとする闇商人がしつこくまとわりついて来るので、[gun1:41]はそれを追い払った。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 78, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "15:20", "content": "[gun1:15]は今日、好きなUP主が動画を投稿したことを突然思い出した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 79, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "15:20", "content": "[gun1:15]は誰にも気づかれないよう、こっそりと映画を鑑賞した。", 
+    "content": "FALのフェレットは興奮してどこかへ走り去ってしまった。この雪の中では探せるはずもないので自力で戻ってきてくれと、[gun1:-85]はひそかに祈っていた。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 80, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", 
-    "content": "仲間たちは今日、[gun1:20]の身に着けている装備がいつもより重そうであることに気が付いた。これは新しい自主トレメニューなのではと一同は予想した。", "necessary_num": "3,0", 
+    "id": 60, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "特に何の助けにもならなかったが、[gun1]の言葉は不安な人々の心の慰めになった。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 81, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "16:20", "content": "【宅配通知】[gun1:16]が頼んだ商品を、カリーナが受け取りました。", 
+    "id": 61, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "しばらく探してみたが、空缶や空瓶しか、[gun1]は見つけられなかった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 62, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は難民に囲まれ困っていたが、彼女の仲間のおかげでなんとかそこから抜け出すことができた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 63, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "彼女たちは何もできないとわかってはいたが、それでも難民たちは[gun1]に助けを求めた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 64, "area_id": "3,2,4", "weight": 0, "tag_weight": "26:20", 
+    "content": "[gun1:26]は難民に囲まれ困っていたが、仲間のおかげでなんとかそこから抜け出すことができた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 65, "area_id": "3,2,4", "weight": 0, "tag_weight": "26:20", 
+    "content": "特に何の助けにもならなかったが、[gun1:26]の言葉は不安な人々の心の慰めになった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 66, "area_id": "3,2,4", "weight": 0, "tag_weight": "18:20", 
+    "content": "[gun1:18]は前方に難民キャンプがあることに気づき、迂回することにした。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 67, "area_id": "3,2,4", "weight": 0, "tag_weight": "40:20", 
+    "content": "[gun1:40]は前方に難民キャンプがあることに気づき、ガッカリした。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 68, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "仲間とはぐれたグリフィン人形に遭遇した。彼女は[gun1]からの勧誘をやんわり断った後、指揮官が来るまでそこで待ち続けた。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 69, "area_id": "3", "weight": 10, "tag_weight": "", 
+    "content": "驚いたり、暴れているイノシシやウサギ、シカとすれ違ったので、[gun1]は森に何か恐ろしいものが潜んでいるのではないかと恐れた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 70, "area_id": "4", "weight": 10, "tag_weight": "", 
+    "content": "前に汚染区域があるからと、一人の子供が[gun1]を止めた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 71, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "難民の一人が自分の子供を[gun1]の小隊へ入れようとしたが、子供が嫌がっている隙に[gun1]は逃げた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 72, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は前方に難民キャンプがあることに気づき、ガッカリした。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 73, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "人形達から利益をむさぼり取ろうとする闇商人がしつこくまとわりついて来るので、[gun1]はそれを追い払った。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 74, "area_id": "3", "weight": 10, "tag_weight": "", 
+    "content": "遠くの林から鳥の大群が飛び立っていたことに[gun1]は気付いた。どうやらグリフィンの人形以外にも誰かいるらしい。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 75, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "17:20", 
+    "content": "ここで立ち止まるべきではなかったが、[gun1:17]が茶を飲んで一休みすることはもう誰にも止められない。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 76, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", 
+    "content": "[gun1:20]はみんなにトレーニングすることを提案したが、反対された。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 77, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "41:20", 
+    "content": "人形達から利益をむさぼり取ろうとする闇商人がしつこくまとわりついて来るので、[gun1:41]はそれを追い払った。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 78, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "15:20", 
+    "content": "[gun1:15]は今日、好きなUP主が動画を投稿したことを突然思い出した。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 79, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "15:20", 
+    "content": "[gun1:15]は誰にも気づかれないよう、こっそりと映画を鑑賞した。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 80, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", 
+    "content": "仲間たちは今日、[gun1:20]の身に着けている装備がいつもより重そうであることに気が付いた。これは新しい自主トレメニューなのではと一同は予想した。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 81, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "16:20", 
+    "content": "【宅配通知】[gun1:16]が頼んだ商品を、カリーナが受け取りました。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 82, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "16:20", 
-    "content": "【宅配通知】[gun1:16]が頼んだ商品を、黒衣を纏った正体不明の人形に爆破されてしまいました。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "【宅配通知】[gun1:16]が頼んだ商品を、黒衣を纏った正体不明の人形に爆破されてしまいました。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 83, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "16:20", 
-    "content": "【宅配通知】[gun1:16]が頼んだ商品があまりに多すぎたため、基地の入り口で止められました。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "【宅配通知】[gun1:16]が頼んだ商品があまりに多すぎたため、基地の入り口で止められました。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 84, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "1:20", 
-    "content": "[gun1:1]は出された料理がすべてしょっぱいことに気づいた。――さぁ、シェフを呼んでもらおうか。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:1]は出された料理がすべてしょっぱいことに気づいた。――さぁ、シェフを呼んでもらおうか。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 85, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "2:20", 
-    "content": "[gun1:2]は出された料理がすべて甘いことに気づいた。――さぁ、シェフを呼んでもらおうか。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:2]は出された料理がすべて甘いことに気づいた。――さぁ、シェフを呼んでもらおうか。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 86, "area_id": "3,1", "weight": 0, "tag_weight": "36:20", "content": "[gun1:36]は母親を失った子猫を見つけ、基地に連れて帰ることにした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 86, "area_id": "3,1", "weight": 0, "tag_weight": "36:20", 
+    "content": "[gun1:36]は母親を失った子猫を見つけ、基地に連れて帰ることにした。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 87, "area_id": "3", "weight": 0, "tag_weight": "54:20", 
-    "content": "隣の草むらから、誰かがずっとフィンランド語でなにか話続けているので、[gun1:54]は疑心暗鬼になり始めた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 89, "area_id": "3", "weight": 0, "tag_weight": "36:20", "content": "[gun1:36]は森の中にいる動物とお話をしようとしたが、誰にも相手をされなかった。", 
+    "content": "隣の草むらから、誰かがずっとフィンランド語でなにか話続けているので、[gun1:54]は疑心暗鬼になり始めた。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 89, "area_id": "3", "weight": 0, "tag_weight": "36:20", 
+    "content": "[gun1:36]は森の中にいる動物とお話をしようとしたが、誰にも相手をされなかった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 90, "area_id": "3", "weight": 0, "tag_weight": "36:20", 
     "content": "[gun1:36]が森の中にいる動物を会話を試みようとすると、[pet1]が来て相手をしてくれた。しかし、お互いに何を言ってるのかわからず、[gun1]はただ残念そうに別れを見送るしかなかった。", 
     "necessary_num": "1,1", "background": "", "script_type": "2"
   }, {
     "id": 91, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "40:20", 
-    "content": "人形たちが何やら雑談をしている。ーーもし世界が今すぐ滅びようとしても……自分なら世界を救えるはずだと[gun1:40]は言った。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "人形たちが何やら雑談をしている。ーーもし世界が今すぐ滅びようとしても……自分なら世界を救えるはずだと[gun1:40]は言った。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 92, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "10:20", 
-    "content": "人形たちが何やら雑談をしている。――もし隕石が降ってきたら……恐竜も同じようにして絶滅したのだから当然受け入れるべきだ。[gun1:10]はそう言った。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2"
+    "content": "人形たちが何やら雑談をしている。――もし隕石が降ってきたら……恐竜も同じようにして絶滅したのだから当然受け入れるべきだ。[gun1:10]はそう言った。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 94, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]は落ちていた空瓶を、リサイクルショップに売れるかもしれないと考え、拾った。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 95, "area_id": "3,2,4", "weight": 0, "tag_weight": "26:20,31:20,40:20", 
-    "content": "[gun1:26,31,40]は難民に出会い、しばらく悩んだ末、持っていた食料をあげることにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 96, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "43:20", 
-    "content": "[gun1:43]は任務の休憩をしているうちに、予備パーツのメンテナンスを始めた。", "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 97, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
-    "content": "[gun1:29]は、よく見ると[gun2]のアタッチメントの向きが逆になっている事に気づいた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 98, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
-    "content": "[gun1:29]は、よく見ると[gun2]のアタッチメントの向きが逆になっている事に気づいた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 99, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
-    "content": "よく見ると[gun2]の顔の傷が戦闘によるものではなく、ただのケチャップであることに[gun1:29]は気づいた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 100, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
-    "content": "[gun1:29]はしばらく観察した後、[gun2]がそもそも人形じゃないのではないかと疑い始めた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 101, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "3:20", 
-    "content": "[gun1:3]と[gun2:3]は、「きのこ派」か「たけのこ派」で言い争っていた。", "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 102, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "3:20", 
-    "content": "[gun1:3]と[gun2:3]は、目玉焼きに醤油かケチャップ、どちらをかけるかで言い争っていた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 104, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "60:20", 
-    "content": "[gun1:60]は任務中、一台の廃車を発見したが、一目でV8エンジンが搭載されていることに気づいた。V8を讃えよ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 105, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は[gun2]に何時拡大編成したのかと聞き、[gun2]は任務中の飲酒を控えるようにと命令した。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 106, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "62:20", "content": "[gun1:62]は歩いていると、うっかりその場で眠ってしまった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,801"
-  }, {
-    "id": 107, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "62:20", "content": "[gun1:62]は危うく任務の報告に遅れるというところで目を覚ました。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,801"
-  }, {
-    "id": 108, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "14:20", 
-    "content": "[gun1:14]は本の中から謎の地図を見つけ、その地図に従い宝物を手に入れた。", "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 109, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "14:20", "content": "[gun1:14]は道を歩いているときでも本を読み、つまずいてしまった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 110, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "64:20", "content": "[gun1:64]の努力によって、超おいしい料理ができた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 111, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "64:20", 
-    "content": "[gun1:64]は作っていた料理をうっかり焦がしてしまった。でもまぁ、なんとか食べられるだろう……", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 112, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "65:20", "content": "[gun1:65]は任務中に聴いていた音楽で興奮し、効率がかなり上がった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,803"
-  }, {
-    "id": 113, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "65:20", "content": "[gun1:65]は仲間のために歌い、賞賛とプレゼントをもらった。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2,803"
-  }, {
-    "id": 114, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "66:20", "content": "[gun1:66]は任務の合間にお茶を飲み、十分に休息を得た。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 115, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "66:20", "content": "[gun1:66]は仲間を呼んで一緒にお茶を飲み、晴れやかな気持ちになった。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 116, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "67:20", "content": "[gun1:67]は速く走りすぎて、転んでしまった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 117, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "67:20", "content": "[gun1:67]はトレーニング中に誰かの落とし物を拾った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 118, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "68:20", "content": "[gun1:68]は他の人形と会話中に揉め、気まずいまま別れた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 119, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "68:20", "content": "[gun1:68]は他の人形と基地内のウワサを交換した。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 120, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "69:20", 
-    "content": "[gun1:69]はボーっとしながら歩いていたので、うっかり道に迷ってしまった。", "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 121, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "69:20", 
-    "content": "[gun1:69]は真剣に物思いにふけているように見えるが、何を考えているかはわからない。", "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 122, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "70:20", 
-    "content": "[gun1:70]は大きくなるために牛乳をたくさん飲んでいたが、特に効果はなかったようだ……", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 123, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "70:20", "content": "[gun1:70]は牛乳を飲み過ぎたせいで、トイレを探す羽目になった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 124, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "71:20", "content": "[gun1:71]が放ったジョークのせいで、場が凍り付いた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 125, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "71:20", "content": "[gun1:71]のジョークが、仲間の人形を驚かせた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 126, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "50:20", "content": "[gun1:50]は酔っぱらって、道の上で寝てしまった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 127, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "50:20", "content": "[gun1:50]は飲み比べに勝利し、報酬を手に入れた。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 128, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "73:20", "content": "[gun1:73]はたくさん喋ったが、すでに聴衆は一人も残っていなかった。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 129, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "73:20", "content": "[gun1:73]は説教相手を見つけられず、機嫌を損ねている。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 130, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "60:20", "content": "[gun1:75]は車を止めた所で、使えそうな物をたまたま拾った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 131, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "75:20", "content": "[gun1:75]は食べ物をめぐる争いをしていたが、最後は取られてしまった。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 132, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "1:20", "content": "[gun1:1]はおかしを食べるために相手と勝負をし、見事勝利した。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 133, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "1:20", "content": "[gun1:1]はおかしを拾ったので、嬉しそうに食べた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 134, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "77:20", "content": "[gun1:77]は、人形達がしっかり働くよう監督をし、追加収入を得た。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 135, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "38:20", "content": "[gun1:38]はガラクタを回収し、それを修理した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 136, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", "content": "[gun1:20]は自分を強くするために訓練を行った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 137, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", "content": "[gun1:20]は任務に出ている間も訓練を怠らなかった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 138, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "79:20", "content": "[gun1:79]はとっておきの怪談で、聞いていた人たちを恐怖させた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 139, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "30:20", "content": "[gun1:30]は他の人形をからかったことで、みんなにお仕置きされた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 140, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "30:20", 
-    "content": "[gun1:30]は他の人形をからかおうとしたが、失敗した上に捕まり、お仕置きされた。", "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 141, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "81:20", "content": "[gun1:81]は未調査エリアで、価値のある資源を見つけた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 142, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "81:20", "content": "[gun1:81]は未調査エリアで、迷子になった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 143, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "82:20", "content": "[gun1:82]は、強盗集団を懲らしめたことで表彰された。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 144, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "82:20", 
-    "content": "[gun1:82]は正義の何たるかを知るために、「レッド・ソウル・ライダー」を観た。", "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 145, "area_id": "2", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]はいつもの半分の速さでアイスを食べ始めた。この寒さならアイスが溶ける心配も無い。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 146, "area_id": "2", "weight": 0, "tag_weight": "5:20", 
-    "content": "他の人が通るときには何ともなかったのに、[gun1:5]が通るときだけ雪が崩れ、足を取られてしまった。なぜだろう……", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 147, "area_id": "2", "weight": 0, "tag_weight": "7:20", 
-    "content": "[gun1:7]が踏んだ足元の雪が崩れた。なぜこんな目に合うのか、そんな思いを胸に[gun1:7]は緩やかに積雪の中へと陥っていく。", "necessary_num": "1,0", 
+    "content": "[gun1:38]は落ちていた空瓶を、リサイクルショップに売れるかもしれないと考え、拾った。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 148, "area_id": "2", "weight": 0, "tag_weight": "55:20", 
-    "content": "吹雪が来ることを知った[gun1:55]は焦りを感じ、天気が悪化する前に目的地に着くよう急ぎ始めた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "id": 95, "area_id": "3,2,4", "weight": 0, "tag_weight": "26:20,31:20,40:20", 
+    "content": "[gun1:26,31,40]は難民に出会い、しばらく悩んだ末、持っていた食料をあげることにした。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 149, "area_id": "2", "weight": 0, "tag_weight": "56:20", 
-    "content": "吹雪が来ることを知った[gun1:55]は不安を感じ、吹雪を乗り超えるために、ありとあらゆる物資を買い占め始めた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "id": 96, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "43:20", 
+    "content": "[gun1:43]は任務の休憩をしているうちに、予備パーツのメンテナンスを始めた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 150, "area_id": "2", "weight": 0, "tag_weight": "29:20", 
-    "content": "[gun1:29]は道の端にエージェントの彫刻があるのを見つけた。他の人に話すべきだろうか……", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "id": 97, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
+    "content": "[gun1:29]は、よく見ると[gun2]のアタッチメントの向きが逆になっている事に気づいた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 151, "area_id": "2", "weight": 0, "tag_weight": "30:20", "content": "[gun1:30]はこっそりエージェントの彫刻を作り、さらに道端にそれを置いていた。", 
+    "id": 98, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
+    "content": "[gun1:29]は、よく見ると[gun2]のアタッチメントの向きが逆になっている事に気づいた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 99, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
+    "content": "よく見ると[gun2]の顔の傷が戦闘によるものではなく、ただのケチャップであることに[gun1:29]は気づいた。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 152, "area_id": "2", "weight": 0, "tag_weight": "33:20", "content": "[gun1:33]はアイスピックを手に入れ、それを作戦に生かせないか研究した。", 
+    "id": 100, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "29:20", 
+    "content": "[gun1:29]はしばらく観察した後、[gun2]がそもそも人形じゃないのではないかと疑い始めた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 101, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "3:20", 
+    "content": "[gun1:3]と[gun2:3]は、「きのこ派」か「たけのこ派」で言い争っていた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 102, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "3:20", 
+    "content": "[gun1:3]と[gun2:3]は、目玉焼きに醤油かケチャップ、どちらをかけるかで言い争っていた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 104, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "60:20", 
+    "content": "[gun1:60]は任務中、一台の廃車を発見したが、一目でV8エンジンが搭載されていることに気づいた。V8を讃えよ。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 153, "area_id": "2", "weight": 0, "tag_weight": "10:20", "content": "[gun1:10]は広大な雪景色に見とれてしまったが、振り返ってみると微妙だった。", 
+    "id": 105, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は[gun2]に何時拡大編成したのかと聞き、[gun2]は任務中の飲酒を控えるようにと命令した。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 154, "area_id": "2", "weight": 0, "tag_weight": "9:20", 
-    "content": "[gun1:9]の歩く速度が落ちた、特に何も言っていなかったが、雪景色を楽しんでいることが見て取れた。", "necessary_num": "3,0", "background": "", 
+    "id": 106, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "62:20", 
+    "content": "[gun1:62]は歩いていると、うっかりその場で眠ってしまった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,801"
+  }, {
+    "id": 107, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "62:20", 
+    "content": "[gun1:62]は危うく任務の報告に遅れるというところで目を覚ました。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,801"
+  }, {
+    "id": 108, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "14:20", 
+    "content": "[gun1:14]は本の中から謎の地図を見つけ、その地図に従い宝物を手に入れた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 109, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "14:20", 
+    "content": "[gun1:14]は道を歩いているときでも本を読み、つまずいてしまった。", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
+  }, {
+    "id": 110, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "64:20", 
+    "content": "[gun1:64]の努力によって、超おいしい料理ができた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 111, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "64:20", 
+    "content": "[gun1:64]は作っていた料理をうっかり焦がしてしまった。でもまぁ、なんとか食べられるだろう……", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 112, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "65:20", 
+    "content": "[gun1:65]は任務中に聴いていた音楽で興奮し、効率がかなり上がった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,803"
+  }, {
+    "id": 113, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "65:20", 
+    "content": "[gun1:65]は仲間のために歌い、賞賛とプレゼントをもらった。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2,803"
+  }, {
+    "id": 114, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "66:20", 
+    "content": "[gun1:66]は任務の合間にお茶を飲み、十分に休息を得た。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 115, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "66:20", 
+    "content": "[gun1:66]は仲間を呼んで一緒にお茶を飲み、晴れやかな気持ちになった。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 116, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "67:20", 
+    "content": "[gun1:67]は速く走りすぎて、転んでしまった。", "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 117, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "67:20", 
+    "content": "[gun1:67]はトレーニング中に誰かの落とし物を拾った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 118, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "68:20", 
+    "content": "[gun1:68]は他の人形と会話中に揉め、気まずいまま別れた。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 119, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "68:20", 
+    "content": "[gun1:68]は他の人形と基地内のウワサを交換した。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 120, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "69:20", 
+    "content": "[gun1:69]はボーっとしながら歩いていたので、うっかり道に迷ってしまった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 121, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "69:20", 
+    "content": "[gun1:69]は真剣に物思いにふけているように見えるが、何を考えているかはわからない。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 122, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "70:20", 
+    "content": "[gun1:70]は大きくなるために牛乳をたくさん飲んでいたが、特に効果はなかったようだ……", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 123, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "70:20", 
+    "content": "[gun1:70]は牛乳を飲み過ぎたせいで、トイレを探す羽目になった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 124, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "71:20", 
+    "content": "[gun1:71]が放ったジョークのせいで、場が凍り付いた。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 125, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "71:20", 
+    "content": "[gun1:71]のジョークが、仲間の人形を驚かせた。", "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 126, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は酔っぱらって、道の上で寝てしまった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 127, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は飲み比べに勝利し、報酬を手に入れた。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 128, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "73:20", 
+    "content": "[gun1:73]はたくさん喋ったが、すでに聴衆は一人も残っていなかった。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 129, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "73:20", 
+    "content": "[gun1:73]は説教相手を見つけられず、機嫌を損ねている。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 130, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "60:20", 
+    "content": "[gun1:75]は車を止めた所で、使えそうな物をたまたま拾った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 131, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "75:20", 
+    "content": "[gun1:75]は食べ物をめぐる争いをしていたが、最後は取られてしまった。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 132, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "1:20", 
+    "content": "[gun1:1]はおかしを食べるために相手と勝負をし、見事勝利した。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 133, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "1:20", 
+    "content": "[gun1:1]はおかしを拾ったので、嬉しそうに食べた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 134, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "77:20", 
+    "content": "[gun1:77]は、人形達がしっかり働くよう監督をし、追加収入を得た。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 135, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "38:20", 
+    "content": "[gun1:38]はガラクタを回収し、それを修理した。", "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 136, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", 
+    "content": "[gun1:20]は自分を強くするために訓練を行った。", "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 137, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "20:20", 
+    "content": "[gun1:20]は任務に出ている間も訓練を怠らなかった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 138, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "79:20", 
+    "content": "[gun1:79]はとっておきの怪談で、聞いていた人たちを恐怖させた。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 139, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "30:20", 
+    "content": "[gun1:30]は他の人形をからかったことで、みんなにお仕置きされた。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 140, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "30:20", 
+    "content": "[gun1:30]は他の人形をからかおうとしたが、失敗した上に捕まり、お仕置きされた。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 141, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "81:20", 
+    "content": "[gun1:81]は未調査エリアで、価値のある資源を見つけた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 142, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "81:20", 
+    "content": "[gun1:81]は未調査エリアで、迷子になった。", "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 143, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "82:20", 
+    "content": "[gun1:82]は、強盗集団を懲らしめたことで表彰された。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 144, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "82:20", 
+    "content": "[gun1:82]は正義の何たるかを知るために、「レッド・ソウル・ライダー」を観た。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 145, "area_id": "2", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]はいつもの半分の速さでアイスを食べ始めた。この寒さならアイスが溶ける心配も無い。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 146, "area_id": "2", "weight": 0, "tag_weight": "5:20", 
+    "content": "他の人が通るときには何ともなかったのに、[gun1:5]が通るときだけ雪が崩れ、足を取られてしまった。なぜだろう……", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 147, "area_id": "2", "weight": 0, "tag_weight": "7:20", 
+    "content": "[gun1:7]が踏んだ足元の雪が崩れた。なぜこんな目に合うのか、そんな思いを胸に[gun1:7]は緩やかに積雪の中へと陥っていく。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 148, "area_id": "2", "weight": 0, "tag_weight": "55:20", 
+    "content": "吹雪が来ることを知った[gun1:55]は焦りを感じ、天気が悪化する前に目的地に着くよう急ぎ始めた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 149, "area_id": "2", "weight": 0, "tag_weight": "56:20", 
+    "content": "吹雪が来ることを知った[gun1:55]は不安を感じ、吹雪を乗り超えるために、ありとあらゆる物資を買い占め始めた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 150, "area_id": "2", "weight": 0, "tag_weight": "29:20", 
+    "content": "[gun1:29]は道の端にエージェントの彫刻があるのを見つけた。他の人に話すべきだろうか……", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 151, "area_id": "2", "weight": 0, "tag_weight": "30:20", 
+    "content": "[gun1:30]はこっそりエージェントの彫刻を作り、さらに道端にそれを置いていた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 152, "area_id": "2", "weight": 0, "tag_weight": "33:20", 
+    "content": "[gun1:33]はアイスピックを手に入れ、それを作戦に生かせないか研究した。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 153, "area_id": "2", "weight": 0, "tag_weight": "10:20", 
+    "content": "[gun1:10]は広大な雪景色に見とれてしまったが、振り返ってみると微妙だった。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 154, "area_id": "2", "weight": 0, "tag_weight": "9:20", 
+    "content": "[gun1:9]の歩く速度が落ちた、特に何も言っていなかったが、雪景色を楽しんでいることが見て取れた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 155, "area_id": "2", "weight": 0, "tag_weight": "20:20", 
-    "content": "寒さへの耐性を強化するためと称し、[gun1:20]は着ていた防寒具をいくつか脱いだ。大事に至らないといいが……", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "寒さへの耐性を強化するためと称し、[gun1:20]は着ていた防寒具をいくつか脱いだ。大事に至らないといいが……", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 157, "area_id": "2", "weight": -20, "tag_weight": "86:20", 
-    "content": "G11はHK416とパトロールをしていたが、うっかり寝てしまい、気が付いた時にはHK416に雪だるまにされ、道に放置されていた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "G11はHK416とパトロールをしていたが、うっかり寝てしまい、気が付いた時にはHK416に雪だるまにされ、道に放置されていた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 158, "area_id": "2", "weight": 0, "tag_weight": "5:20", 
     "content": "冬のチョコレートを注文する時はホワイトチョコにすると指揮官は言い、そして[gun1:5]に盗み食い厳禁と注意したが、[gun1]が物資を輸送する時、白いチョコが雪原に落ちたことを気付けなかった。任務失敗。", 
@@ -536,169 +610,176 @@
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 160, "area_id": "2", "weight": 10, "tag_weight": "83:-10,84:-10", 
-    "content": "[gun1:-83,84]は雪から反射される太陽光に照らされ、ここまで人間の眼に近づけたIOPの視覚モジュールを恨んだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:-83,84]は雪から反射される太陽光に照らされ、ここまで人間の眼に近づけたIOPの視覚モジュールを恨んだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 161, "area_id": "2", "weight": 0, "tag_weight": "31:20", 
     "content": "[gun1:31]は突然現れたエージェントに慌てふためいた。そしていざ反撃しようとした時、それがただの氷で作られた彫刻であることに気づいた。いったい誰がこんな悪趣味をしたというのだ！？", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 163, "area_id": "2", "weight": 0, "tag_weight": "57:20", 
-    "content": "[gun1:57]は頭がやけに重い気がしつつも、そのまま進み続けた。そして帰るときになって、ようやく髪の中に小動物が絡まっているのに気づき、急いで助けてあげた。", "necessary_num": "1,0", 
+    "content": "[gun1:57]は頭がやけに重い気がしつつも、そのまま進み続けた。そして帰るときになって、ようやく髪の中に小動物が絡まっているのに気づき、急いで助けてあげた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 164, "area_id": "2", "weight": 0, "tag_weight": "39:20", 
+    "content": "[gun1:39]は寒さでバグった鉄血を見つけたが、驚きのあまり氷窟へと落ちていった。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 164, "area_id": "2", "weight": 0, "tag_weight": "39:20", "content": "[gun1:39]は寒さでバグった鉄血を見つけたが、驚きのあまり氷窟へと落ちていった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 165, "area_id": "2", "weight": 0, "tag_weight": "39:20", 
+    "content": "[gun1:39]は凶暴な鉄血人形と遭遇し、勇気を出してそれを氷窟へ突き落とした。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 165, "area_id": "2", "weight": 0, "tag_weight": "39:20", "content": "[gun1:39]は凶暴な鉄血人形と遭遇し、勇気を出してそれを氷窟へ突き落とした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 166, "area_id": "2", "weight": 0, "tag_weight": "50:20", "content": "酒の匂いを感じた[gun1:50]は酒を見つけようと辺りを探し回ったが、何もなかった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 166, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
+    "content": "酒の匂いを感じた[gun1:50]は酒を見つけようと辺りを探し回ったが、何もなかった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 167, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "酒の匂いを感じた[gun1:50]は酒を見つけようと辺りを探し回ったが、何もなかったあげく、敵に見つかってしまい、狼狽しながら逃げた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "酒の匂いを感じた[gun1:50]は酒を見つけようと辺りを探し回ったが、何もなかったあげく、敵に見つかってしまい、狼狽しながら逃げた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 168, "area_id": "2", "weight": 0, "tag_weight": "7:20", 
-    "content": "[gun1:7]は厚い氷の上を踏み抜いてしまった。ショックを受けた彼女は、俯いたまま帰ってきたが、今でもかなり落ち込んでいる。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:7]は厚い氷の上を踏み抜いてしまった。ショックを受けた彼女は、俯いたまま帰ってきたが、今でもかなり落ち込んでいる。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 169, "area_id": "2", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]は道の途中、とっても楽しそうに料理の食材について話をしていたが、うっかり氷の穴へ落ちてしまった。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:3]は道の途中、とっても楽しそうに料理の食材について話をしていたが、うっかり氷の穴へ落ちてしまった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 170, "area_id": "4", "weight": 0, "tag_weight": "39:20", 
-    "content": "前に汚染区があるからこれ以上進まないようにと、[gun1:39]は一人の子供に歩みを止められた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "前に汚染区があるからこれ以上進まないようにと、[gun1:39]は一人の子供に歩みを止められた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 171, "area_id": "4", "weight": 0, "tag_weight": "8:20", 
     "content": "[gun1:8]は雰囲気を良くしようと努めていたが、石につまずいてしまった。しかし、彼女は見事なバランスで体制を立て直し、さらに宝石が落ちているのを発見した！……とまではいかず、ただのゴミを見間違えただけだった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 172, "area_id": "4", "weight": 0, "tag_weight": "8:20", 
-    "content": "[gun1:8]は雰囲気を良くしようと努めていたが、石につまずき、うろたえながら転んでしまった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:8]は雰囲気を良くしようと努めていたが、石につまずき、うろたえながら転んでしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 173, "area_id": "4", "weight": 0, "tag_weight": "9:20", 
-    "content": "[gun1:9]は広々とした荒野を堪能し、休憩がてら一人で周りを散歩していたが、うっかり敵に見つかり撤退を余儀なくされた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:9]は広々とした荒野を堪能し、休憩がてら一人で周りを散歩していたが、うっかり敵に見つかり撤退を余儀なくされた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 174, "area_id": "4", "weight": 0, "tag_weight": "11:20", 
-    "content": "[gun1:11]は借りた車で爽快に荒野を駆けていたが、タイヤがパンクしてしまった。修理する手間が増えたが、それでも予定に遅れることなく帰れた。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:11]は借りた車で爽快に荒野を駆けていたが、タイヤがパンクしてしまった。修理する手間が増えたが、それでも予定に遅れることなく帰れた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 175, "area_id": "4", "weight": 0, "tag_weight": "17:20", 
-    "content": "[gun1:17]はやっとの思いで荒野の中、紅茶を用意したが、風のせいで砂ぼこりが中に入ってしまい、せっかくの紅茶がだめになってしまった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:17]はやっとの思いで荒野の中、紅茶を用意したが、風のせいで砂ぼこりが中に入ってしまい、せっかくの紅茶がだめになってしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 176, "area_id": "4", "weight": 0, "tag_weight": "17:20", 
-    "content": "[gun1:17]はやっとの思いで紅茶を用意し、強風に吹き飛ばされないよう注意しながら楽しんだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:17]はやっとの思いで紅茶を用意し、強風に吹き飛ばされないよう注意しながら楽しんだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 177, "area_id": "4", "weight": 0, "tag_weight": "53:20", 
-    "content": "[gun1:53]は荒野の中でひらめき、詩を書いたが、作るのに時間がかかりすぎて小隊員に置いて行かれてしまった。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:53]は荒野の中でひらめき、詩を書いたが、作るのに時間がかかりすぎて小隊員に置いて行かれてしまった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 178, "area_id": "1", "weight": 0, "tag_weight": "40:20", 
-    "content": "[gun1:40]は横転しているトラックに出くわし、貨物を盗もうとしている人たちを怒鳴った。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 179, "area_id": "1", "weight": 0, "tag_weight": "14:20", 
-    "content": "[gun1:14]は辺鄙なところにある本屋で何十年も前に絶版となった本を見つけた。純金なんかよりよっぽど貴重だよこれ！", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 180, "area_id": "1", "weight": 0, "tag_weight": "32:20", 
-    "content": "チップを受け取ると、バーのマスターは小声でこう言った……[gun1:32]は昨日賭けに勝ってただ運が良かったんだと言っていたが、あれは嘘だと。", "necessary_num": "2,0", 
+    "content": "[gun1:40]は横転しているトラックに出くわし、貨物を盗もうとしている人たちを怒鳴った。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 181, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
-    "content": "チップを受け取ると、バーのマスターは小声でこう言った……[gun1:5]はもうこれ以上は何も食えないと。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "id": 179, "area_id": "1", "weight": 0, "tag_weight": "14:20", 
+    "content": "[gun1:14]は辺鄙なところにある本屋で何十年も前に絶版となった本を見つけた。純金なんかよりよっぽど貴重だよこれ！", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 182, "area_id": "1", "weight": 10, "tag_weight": "", "content": "チップを受け取ると、バーのマスターは小声でこう言った……ヘリアンは昨日、また合コンに失敗したと。", 
+    "id": 180, "area_id": "1", "weight": 0, "tag_weight": "32:20", 
+    "content": "チップを受け取ると、バーのマスターは小声でこう言った……[gun1:32]は昨日賭けに勝ってただ運が良かったんだと言っていたが、あれは嘘だと。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 181, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
+    "content": "チップを受け取ると、バーのマスターは小声でこう言った……[gun1:5]はもうこれ以上は何も食えないと。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 182, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "チップを受け取ると、バーのマスターは小声でこう言った……ヘリアンは昨日、また合コンに失敗したと。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 183, "area_id": "1", "weight": 0, "tag_weight": "50:20", 
-    "content": "チップを受け取ると、バーのマスターは小声でこう言った…[gun1:50]が先日酔っぱらっておいしいと言っていた飲み物が実はガソリンだったと。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "チップを受け取ると、バーのマスターは小声でこう言った…[gun1:50]が先日酔っぱらっておいしいと言っていた飲み物が実はガソリンだったと。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 184, "area_id": "1", "weight": 0, "tag_weight": "34:20", "content": "[gun1:34]が正面から来ている事に気づいた人たちは皆迂回を決めた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
+    "id": 184, "area_id": "1", "weight": 0, "tag_weight": "34:20", 
+    "content": "[gun1:34]が正面から来ている事に気づいた人たちは皆迂回を決めた。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 185, "area_id": "1", "weight": 0, "tag_weight": "35:20", 
-    "content": "[gun1:35]は人間のグループに声を掛けられたが、彼らの鼻へ蹴りを入れてやると、彼らはなぜか少し興奮した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:35]は人間のグループに声を掛けられたが、彼らの鼻へ蹴りを入れてやると、彼らはなぜか少し興奮した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 186, "area_id": "1", "weight": 0, "tag_weight": "29:20", 
-    "content": "[gun1:29]はショッピングモールでスリに遭った。彼女は犯人にわざとゴミを盗ませた後、相手の表情の変化を記録した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:29]はショッピングモールでスリに遭った。彼女は犯人にわざとゴミを盗ませた後、相手の表情の変化を記録した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 187, "area_id": "1", "weight": 0, "tag_weight": "30:20", 
-    "content": "[gun1:29]はショッピングモールでスリに遭った。彼女はか弱い女性のふりをすることで正義感の強い人たちを集め、犯人を懲らしめてもらい、財布を返してもらった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:29]はショッピングモールでスリに遭った。彼女はか弱い女性のふりをすることで正義感の強い人たちを集め、犯人を懲らしめてもらい、財布を返してもらった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 188, "area_id": "1", "weight": 0, "tag_weight": "36:20", 
-    "content": "[gun1:36]はお腹が空いていたが、ペットを連れていたせいで入店拒否をされた。仲間が買ってきてくれるまで外で待つしかない。", "necessary_num": "3,1", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:36]はお腹が空いていたが、ペットを連れていたせいで入店拒否をされた。仲間が買ってきてくれるまで外で待つしかない。", 
+    "necessary_num": "3,1", "background": "", "script_type": "2"
   }, {
     "id": 189, "area_id": "1", "weight": 0, "tag_weight": "38:20", 
     "content": "[gun1:38]はまだお小遣いに余裕があることに気づいたため、ショッピングモールに行こうと思っていたが、基地に宅配物が山のように積まれていることを聞き、お金を貯めることにした。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 190, "area_id": "1", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]はまだお小遣いに余裕があることに気づいたため、ショッピングモールへ行き、自分の買い物を楽しみ、指揮官へのプレゼントも用意した。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 191, "area_id": "1", "weight": 0, "tag_weight": "27:20", 
-    "content": "[gun1:27]は凄くショッピングがしたかったが、任務中であったため、その欲求をなんとか抑えた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 192, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "27:20", 
-    "content": "[gun1:27]は友人は遊んでいる途中で、仕事がまだ終わっていないことを急に思い出し、すぐ仕事をしに戻った。ーーさっきまで一緒に遊んでいた相手をそのまま残して。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 193, "area_id": "3,2,4", "weight": 0, "tag_weight": "75:20", 
-    "content": "[gun1:75]は持ち前の食べ物を切らしたことに気が付いたが、周りの人たちも切らしていた。[gun1]はその場でフリーズしそうになった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 194, "area_id": "3,2,4", "weight": 10, "tag_weight": "", "content": "[gun1]は神秘的な洞窟を見つけたが、真っ暗で何も見えないので入るか迷った。", 
+    "content": "[gun1:38]はまだお小遣いに余裕があることに気づいたため、ショッピングモールへ行き、自分の買い物を楽しみ、指揮官へのプレゼントも用意した。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 195, "area_id": "3,2,4", "weight": 0, "tag_weight": "81:20", 
-    "content": "[gun1:81]は神秘的な洞窟を見つけ、興奮しながら入っていったが、入り口の石につまずいてしまった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "id": 191, "area_id": "1", "weight": 0, "tag_weight": "27:20", 
+    "content": "[gun1:27]は凄くショッピングがしたかったが、任務中であったため、その欲求をなんとか抑えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 196, "area_id": "3,2,4", "weight": 0, "tag_weight": "79:20", "content": "[gun1]は神秘的な洞窟を見つけたが、真っ暗で何も見えないので入るか迷った。", 
+    "id": 192, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "27:20", 
+    "content": "[gun1:27]は友人は遊んでいる途中で、仕事がまだ終わっていないことを急に思い出し、すぐ仕事をしに戻った。ーーさっきまで一緒に遊んでいた相手をそのまま残して。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
+    "id": 193, "area_id": "3,2,4", "weight": 0, "tag_weight": "75:20", 
+    "content": "[gun1:75]は持ち前の食べ物を切らしたことに気が付いたが、周りの人たちも切らしていた。[gun1]はその場でフリーズしそうになった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 194, "area_id": "3,2,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は神秘的な洞窟を見つけたが、真っ暗で何も見えないので入るか迷った。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 195, "area_id": "3,2,4", "weight": 0, "tag_weight": "81:20", 
+    "content": "[gun1:81]は神秘的な洞窟を見つけ、興奮しながら入っていったが、入り口の石につまずいてしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 196, "area_id": "3,2,4", "weight": 0, "tag_weight": "79:20", 
+    "content": "[gun1]は神秘的な洞窟を見つけたが、真っ暗で何も見えないので入るか迷った。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
     "id": 197, "area_id": "3,2,4", "weight": 0, "tag_weight": "71:20", 
-    "content": "[gun1:71]は神秘的な洞窟を見つけ、冗談交じりに熊がいる可能性を示唆したが、本当に出てくるとは思わなかった。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:71]は神秘的な洞窟を見つけ、冗談交じりに熊がいる可能性を示唆したが、本当に出てくるとは思わなかった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 198, "area_id": "3,2,4", "weight": 0, "tag_weight": "20:20", 
-    "content": "[gun1:20]が神秘的な洞窟を見つけ、ほかの人形達はワクワクしながら入っていったが、[gun1]はそこに留まり腕立て伏せを始めていた。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:20]が神秘的な洞窟を見つけ、ほかの人形達はワクワクしながら入っていったが、[gun1]はそこに留まり腕立て伏せを始めていた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 199, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、そこで一旦止まって整備をすることにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、そこで一旦止まって整備をすることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 200, "area_id": "3", "weight": 0, "tag_weight": "51:20", 
-    "content": "[gun1:51]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、以前集めたよくわからない植物の種をそこに植えた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2,803"
+    "content": "[gun1:51]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、以前集めたよくわからない植物の種をそこに植えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,803"
   }, {
     "id": 201, "area_id": "3", "weight": 0, "tag_weight": "8:20", 
-    "content": "[gun1:8]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、一緒にいた人形たちとパーティーを始めた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:8]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、一緒にいた人形たちとパーティーを始めた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 202, "area_id": "3", "weight": 0, "tag_weight": "66:20", 
-    "content": "[gun1:66]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、ほかの人が気づくよりも前にティータイムの準備を始めた。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:66]は密林の中をやっとの思いで歩み進めると、景色のいい所にたどり着き、ほかの人が気づくよりも前にティータイムの準備を始めた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 203, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]がふと頭を上げると、そこに可愛らしいリスがそっとこちらを覗きながら立っていたので、嬉しそうにリスへ挨拶をした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]がふと頭を上げると、そこに可愛らしいリスがそっとこちらを覗きながら立っていたので、嬉しそうにリスへ挨拶をした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 204, "area_id": "3", "weight": 0, "tag_weight": "69:20", 
     "content": "[gun1:69]がふと頭を上げると、そこに可愛らしいリスがそっとこちらを覗きながら立っていたが、リスをじっと見つめながら歩いていたせいで目の前の木に当たってしまった。", 
@@ -712,146 +793,160 @@
     "content": "[gun1:5]がふと頭を上げると、そこに可愛らしいリスがそっとこちらを覗きながら立っていた。リスが手にしている松ぼっくりを見て[gun1]が涎を垂らしていると、それにリスはびっくりして逃げてしまった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 207, "area_id": "2", "weight": 10, "tag_weight": "", "content": "突然の吹雪に見舞われる中、[gun1]はかまくらを見つけ、その中でやり過ごすことにした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 208, "area_id": "2", "weight": 0, "tag_weight": "14:20", 
-    "content": "突然の吹雪に見舞われる中、[gun1:14]はかまくらを見つけ、その中で小説を徹夜して読んでいた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 209, "area_id": "2", "weight": 0, "tag_weight": "15:20", "content": "突然の吹雪に見舞われる中、[gun1:15]はかまくらを見つけ、好きなだけドラマを見た。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 210, "area_id": "2", "weight": 0, "tag_weight": "30:20", 
-    "content": "[gun1:30]はこっそり雪を手に取り、ほかの人形の顔へ当てた。しかしその後仕返しされ、雪だるまにされてしまった。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 211, "area_id": "2", "weight": 10, "tag_weight": "", "content": "雪の中をしばらく進み、疲れた[gun1]は皆に雪だるまを作らないか提案をした。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 212, "area_id": "2", "weight": 0, "tag_weight": "24:20", 
-    "content": "みんなで雪だるまを作り、雪だるまから誰もいなくなった後、[gun1:24]はそれにこっそりとお気に入りのマフラーを巻いてあげた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 213, "area_id": "2", "weight": 0, "tag_weight": "31:20,39:20,1:20", 
-    "content": "「冬の鉄柵は甘い味がする」という噂を信じ、[gun1:31,39,1]はみんなが気づかないうちにこっそりと鉄柵を舐めた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 214, "area_id": "4", "weight": 0, "tag_weight": "40:20", 
-    "content": "沼で溺れてる人を見つけた[gun1:40]は、助けようとして飛び込んだ。――結果、一緒に助けを求めることになった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 215, "area_id": "4", "weight": 10, "tag_weight": "", "content": "[gun1]は狩人の一団と出会い、気が付くと意気投合して楽しくお喋りをしていた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 216, "area_id": "4", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]は狩人の一団と出会い、楽しく会話をした後、彼らから捕りたての獲物をもらった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 217, "area_id": "4", "weight": 0, "tag_weight": "5:20", "content": "[gun1:5]は狩人の一団と出会い、意気投合し、狩人たちの食料をすべて食い尽くした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 218, "area_id": "4", "weight": 0, "tag_weight": "4:20", "content": "[gun1:4]は狩人の一団と出会い、意気投合し、みんなにドス黒い料理を振舞った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 219, "area_id": "4", "weight": 10, "tag_weight": "", "content": "[gun1]は道端で見たことのない花を見つけたので、思わず足を止めて熱心に観察をした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 220, "area_id": "4", "weight": 0, "tag_weight": "51:20", 
-    "content": "[gun1:51]は道端で見たことのない花を見つけたので、指揮官に見せるため、慎重に摘んで本に挟んだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2,803"
-  }, {
-    "id": 221, "area_id": "4", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]は道端で見たことのない花を見つけたので、口を大きく開け、ガブッと口に入れた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 222, "area_id": "4", "weight": 0, "tag_weight": "62:20", 
-    "content": "[gun1:62]は道端で見たことのない花を見つけたので、しっかりと観察していたが、いつの間にか眠ってしまった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2,801"
-  }, {
-    "id": 223, "area_id": "1", "weight": 10, "tag_weight": "", "content": "一人の女の子が男の子へ抱き着いているのを見て、[gun1]は指揮官のことを想った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 224, "area_id": "1", "weight": 0, "tag_weight": "14:20", 
-    "content": "一人の女の子が男の子へ抱き着いているのを見て、[gun1:14]はさっき読んだ小説での男女の悲惨な運命を思い出した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 225, "area_id": "1", "weight": 0, "tag_weight": "51:20", 
-    "content": "一人の女の子が男の子へ抱き着いているのを見て、[gun1:51]は思わず指揮官へ手紙を綴った。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2,803"
-  }, {
-    "id": 226, "area_id": "1", "weight": 10, "tag_weight": "", "content": "[gun1]は通りがかった自販機で売られていた得体の知れない物に目を奪われた。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 227, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]は通りがかった自販機を持ち帰ろうとしたが、うまくいかなかったため、駄々をこねながら他のメンバーに引きずられていった。", "necessary_num": "2,0", 
+    "id": 207, "area_id": "2", "weight": 10, "tag_weight": "", 
+    "content": "突然の吹雪に見舞われる中、[gun1]はかまくらを見つけ、その中でやり過ごすことにした。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 228, "area_id": "1", "weight": 0, "tag_weight": "69:20", "content": "[gun1:69]通りがかった自販機で売られてる商品を２時間もの間、眺め続けた。", 
+    "id": 208, "area_id": "2", "weight": 0, "tag_weight": "14:20", 
+    "content": "突然の吹雪に見舞われる中、[gun1:14]はかまくらを見つけ、その中で小説を徹夜して読んでいた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 209, "area_id": "2", "weight": 0, "tag_weight": "15:20", 
+    "content": "突然の吹雪に見舞われる中、[gun1:15]はかまくらを見つけ、好きなだけドラマを見た。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 210, "area_id": "2", "weight": 0, "tag_weight": "30:20", 
+    "content": "[gun1:30]はこっそり雪を手に取り、ほかの人形の顔へ当てた。しかしその後仕返しされ、雪だるまにされてしまった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 211, "area_id": "2", "weight": 10, "tag_weight": "", 
+    "content": "雪の中をしばらく進み、疲れた[gun1]は皆に雪だるまを作らないか提案をした。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 212, "area_id": "2", "weight": 0, "tag_weight": "24:20", 
+    "content": "みんなで雪だるまを作り、雪だるまから誰もいなくなった後、[gun1:24]はそれにこっそりとお気に入りのマフラーを巻いてあげた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 213, "area_id": "2", "weight": 0, "tag_weight": "31:20,39:20,1:20", 
+    "content": "「冬の鉄柵は甘い味がする」という噂を信じ、[gun1:31,39,1]はみんなが気づかないうちにこっそりと鉄柵を舐めた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 214, "area_id": "4", "weight": 0, "tag_weight": "40:20", 
+    "content": "沼で溺れてる人を見つけた[gun1:40]は、助けようとして飛び込んだ。――結果、一緒に助けを求めることになった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 215, "area_id": "4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は狩人の一団と出会い、気が付くと意気投合して楽しくお喋りをしていた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 216, "area_id": "4", "weight": 0, "tag_weight": "3:20", 
+    "content": "[gun1:3]は狩人の一団と出会い、楽しく会話をした後、彼らから捕りたての獲物をもらった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 217, "area_id": "4", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は狩人の一団と出会い、意気投合し、狩人たちの食料をすべて食い尽くした。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 218, "area_id": "4", "weight": 0, "tag_weight": "4:20", 
+    "content": "[gun1:4]は狩人の一団と出会い、意気投合し、みんなにドス黒い料理を振舞った。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 219, "area_id": "4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は道端で見たことのない花を見つけたので、思わず足を止めて熱心に観察をした。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 220, "area_id": "4", "weight": 0, "tag_weight": "51:20", 
+    "content": "[gun1:51]は道端で見たことのない花を見つけたので、指揮官に見せるため、慎重に摘んで本に挟んだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,803"
+  }, {
+    "id": 221, "area_id": "4", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は道端で見たことのない花を見つけたので、口を大きく開け、ガブッと口に入れた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 222, "area_id": "4", "weight": 0, "tag_weight": "62:20", 
+    "content": "[gun1:62]は道端で見たことのない花を見つけたので、しっかりと観察していたが、いつの間にか眠ってしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,801"
+  }, {
+    "id": 223, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "一人の女の子が男の子へ抱き着いているのを見て、[gun1]は指揮官のことを想った。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 224, "area_id": "1", "weight": 0, "tag_weight": "14:20", 
+    "content": "一人の女の子が男の子へ抱き着いているのを見て、[gun1:14]はさっき読んだ小説での男女の悲惨な運命を思い出した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 225, "area_id": "1", "weight": 0, "tag_weight": "51:20", 
+    "content": "一人の女の子が男の子へ抱き着いているのを見て、[gun1:51]は思わず指揮官へ手紙を綴った。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,803"
+  }, {
+    "id": 226, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は通りがかった自販機で売られていた得体の知れない物に目を奪われた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 227, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は通りがかった自販機を持ち帰ろうとしたが、うまくいかなかったため、駄々をこねながら他のメンバーに引きずられていった。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
+    "id": 228, "area_id": "1", "weight": 0, "tag_weight": "69:20", 
+    "content": "[gun1:69]通りがかった自販機で売られてる商品を２時間もの間、眺め続けた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
     "id": 229, "area_id": "1", "weight": 0, "tag_weight": "59:20", 
-    "content": "[gun1:59]は通りがかった自販機を見るや否や、みんなへ使い方を自信満々に教えようとしたが、取り出し口に手を挟んでしまった。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:59]は通りがかった自販機を見るや否や、みんなへ使い方を自信満々に教えようとしたが、取り出し口に手を挟んでしまった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 230, "area_id": "1", "weight": 0, "tag_weight": "7:20", 
-    "content": "[gun1:7]は通りがかった自販機で売られてるお菓子を買おうとしたが、体重のことを考えると手が震え出したのでやめた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:7]は通りがかった自販機で売られてるお菓子を買おうとしたが、体重のことを考えると手が震え出したのでやめた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 231, "area_id": "1", "weight": 10, "tag_weight": "", "content": "物資を補給するため[gun1]はスーパーへ向かった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 232, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
-    "content": "物資を補給するため[gun1:5]はスーパーへ向かったが、試食コーナーから離れることができなかった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "物資を補給するため[gun1:5]はスーパーへ向かったが、試食コーナーから離れることができなかった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 233, "area_id": "1", "weight": 0, "tag_weight": "16:20", 
-    "content": "物資を補給するため[gun1:16]はスーパーへ向かったが、ファッションエリアへと突っ込んでしまった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "物資を補給するため[gun1:16]はスーパーへ向かったが、ファッションエリアへと突っ込んでしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 234, "area_id": "1", "weight": 0, "tag_weight": "64:20", 
-    "content": "物資を補給するため[gun1:64]はスーパーへ向かったが、気が付いたら普通に買い物を楽しんでいた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "物資を補給するため[gun1:64]はスーパーへ向かったが、気が付いたら普通に買い物を楽しんでいた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 235, "area_id": "1", "weight": 0, "tag_weight": "24:20", 
-    "content": "物資を補給するため[gun1:24]はスーパーへ向かったが、老人向けファッションエリアへと吸い込まれていった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 236, "area_id": "1", "weight": 10, "tag_weight": "", "content": "[gun1]は連日の任務で頑張ったご褒美に、食事で自分を労うことにした。", 
+    "content": "物資を補給するため[gun1:24]はスーパーへ向かったが、老人向けファッションエリアへと吸い込まれていった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 237, "area_id": "1", "weight": 0, "tag_weight": "3:20", "content": "[gun1:3]は連日の任務で頑張ったご褒美に、自分で自分においしい料理を作った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 238, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]は連日の任務で頑張ったご褒美に、市内で最も評判の良いビュッフェへ赴き、そこのマネージャーが泣き出すまで料理を堪能した。", "necessary_num": "1,0", 
+    "id": 236, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は連日の任務で頑張ったご褒美に、食事で自分を労うことにした。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 239, "area_id": "1", "weight": 10, "tag_weight": "60:-20", "content": "都市中心部にある繁華街の盛況ぶりに[gun1]は惹かれた。", 
+    "id": 237, "area_id": "1", "weight": 0, "tag_weight": "3:20", 
+    "content": "[gun1:3]は連日の任務で頑張ったご褒美に、自分で自分においしい料理を作った。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 238, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
+    "content": "[gun1:5]は連日の任務で頑張ったご褒美に、市内で最も評判の良いビュッフェへ赴き、そこのマネージャーが泣き出すまで料理を堪能した。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 240, "area_id": "1", "weight": 0, "tag_weight": "60:20", 
-    "content": "多くの人が都市中心部にある繁華街に惹かれていったため、初めは人混みが凄かったが、気が付くと[gun1:60]の前に道ができていた。", "necessary_num": "3,0", "background": "", 
+    "id": 239, "area_id": "1", "weight": 10, "tag_weight": "60:-20", 
+    "content": "都市中心部にある繁華街の盛況ぶりに[gun1]は惹かれた。", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
+  }, {
+    "id": 240, "area_id": "1", "weight": 0, "tag_weight": "60:20", 
+    "content": "多くの人が都市中心部にある繁華街に惹かれていったため、初めは人混みが凄かったが、気が付くと[gun1:60]の前に道ができていた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 241, "area_id": "1,3", "weight": 0, "tag_weight": "52:20", 
     "content": "[gun1:52]が高所に立っていると、隊員から変顔を向けられた。\n飛び上がった彼女は足元に苔が生えてあることに気づかず盛大に転んでしまった。\n隊員たちに笑われながら、[gun1]はしょんぼりと前へ進み続けた。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 242, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "52:20", 
-    "content": "[gun1:52]はうっかり地雷を踏んでしまったが、間一髪飛び退いたことで爆発に巻き込まれずに済んだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:52]はうっかり地雷を踏んでしまったが、間一髪飛び退いたことで爆発に巻き込まれずに済んだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 243, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "21:20", 
-    "content": "[gun1:21]はこのあたりに地雷があることを見つけた。\n隊員たちが安全に任務を遂行できるように、[gun1]は地雷を撤去した。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:21]はこのあたりに地雷があることを見つけた。\n隊員たちが安全に任務を遂行できるように、[gun1]は地雷を撤去した。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 244, "area_id": "1", "weight": 0, "tag_weight": "77:20", 
-    "content": "政府は[gun1:77]を表彰した。聞いたところでは、彼女は現地のチンピラ集団を更生させ、自発的に街の自警団にさせたらしい。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "政府は[gun1:77]を表彰した。聞いたところでは、彼女は現地のチンピラ集団を更生させ、自発的に街の自警団にさせたらしい。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 245, "area_id": "1", "weight": 0, "tag_weight": "77:20", 
-    "content": "[gun1:77]は現地でチンピラの集団を発見し、過酷な訓練で彼らを更生させようと決めた。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "[gun1:77]は現地でチンピラの集団を発見し、過酷な訓練で彼らを更生させようと決めた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 246, "area_id": "1", "weight": 10, "tag_weight": "40:10", 
     "content": "[gun1]の部隊は現地住民の護衛をしている最中、鉄血の部隊に襲われた。幸い、激しい戦いの末、鉄血の撃退に成功した。その鉄血部隊のボスは倒れるまでずっと「止まるんじゃねぇぞ……」というメッセージを、誰かに送信し続けていた。", 
@@ -862,35 +957,36 @@
     "necessary_num": "2,0", "background": "", "script_type": "2,5-2"
   }, {
     "id": 248, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は道端で半分が白、もう半分が黒のクマのぬいぐるみを発見した。見た目が怖かったので即処分した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は道端で半分が白、もう半分が黒のクマのぬいぐるみを発見した。見た目が怖かったので即処分した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 249, "area_id": "1", "weight": 10, "tag_weight": "", 
     "content": "[gun1]は高さ21メートルの人型軍用兵器を発見した！驚きのあまり[gun2]はすぐ部隊に撤退を命令したが、この時[gun3]は詳しい分析を行い、このまま前進するという結論を出した――なぜなら、その巨大兵器に書いてあるメーカー名がホンダイだったから。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
-    "id": 250, "area_id": "1", "weight": 10, "tag_weight": "77:-20", "content": "[gun1:-77]は大型デパートのことが非常に気になって、進行方向を変えた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 250, "area_id": "1", "weight": 10, "tag_weight": "77:-20", 
+    "content": "[gun1:-77]は大型デパートのことが非常に気になって、進行方向を変えた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 251, "area_id": "4", "weight": 0, "tag_weight": "53:20", 
     "content": "部隊は補給ポイントに到着したが、ここはQRコード決済に対応していないことに[gun1:53]は気付き、非常に焦った。幸い、[gun2]が現金を持ち合わせていたため、事なきを得た。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 252, "area_id": "4", "weight": 0, "tag_weight": "81:20", 
-    "content": "[gun1:81]は荒野で巨大な卵を発見し、いきいきと拠点まで運んだが、それがただのおもちゃだと気づいた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:81]は荒野で巨大な卵を発見し、いきいきと拠点まで運んだが、それがただのおもちゃだと気づいた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 253, "area_id": "4", "weight": 0, "tag_weight": "81:20", 
-    "content": "[gun1:81]は廃棄された工場を発見した。中にあるのが全てリサイクル可能な資源だと知り、彼女は限界ギリギリまで詰め込んで持ち帰ると部隊の仲間にいきいきと話した。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:81]は廃棄された工場を発見した。中にあるのが全てリサイクル可能な資源だと知り、彼女は限界ギリギリまで詰め込んで持ち帰ると部隊の仲間にいきいきと話した。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 254, "area_id": "4", "weight": 0, "tag_weight": "81:20", 
-    "content": "[gun1:81]は荒野でたくさんのボトルキャップを集めた。何に使えるかはわからないが、なぜかとても楽しんでいるようだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:81]は荒野でたくさんのボトルキャップを集めた。何に使えるかはわからないが、なぜかとても楽しんでいるようだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 255, "area_id": "4", "weight": 0, "tag_weight": "81:20", 
-    "content": "[gun1:81]は自分のボーナスをすべて装備につぎ込んだ。が、最優先すべき配給の存在を忘れているようだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:81]は自分のボーナスをすべて装備につぎ込んだ。が、最優先すべき配給の存在を忘れているようだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 256, "area_id": "4", "weight": 0, "tag_weight": "81:20", 
     "content": "[gun1:81]は荒野で異形なる蟹の化け物を発見した。彼女はすぐとある世紀末サバイバルゲームのことを思い出し、それと激戦を繰り広げ始めた。しかし、あれは結局ただのカニだったと、後から来た人形がそう気づいた。", 
@@ -901,580 +997,628 @@
     "necessary_num": "2,0", "background": "", "script_type": "2,5-5"
   }, {
     "id": 258, "area_id": "4", "weight": 0, "tag_weight": "40:20", 
-    "content": "[gun1:40]は荒野で遭難した夫婦を助けた。その夫婦は後にグリフィン宛で感謝の手紙を送ってくれた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 259, "area_id": "3", "weight": 0, "tag_weight": "69:20", "content": "[gun1:69]は古い木を見つめ、何かを観察しているようだ。", 
+    "content": "[gun1:40]は荒野で遭難した夫婦を助けた。その夫婦は後にグリフィン宛で感謝の手紙を送ってくれた。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 259, "area_id": "3", "weight": 0, "tag_weight": "69:20", 
+    "content": "[gun1:69]は古い木を見つめ、何かを観察しているようだ。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 260, "area_id": "3", "weight": 0, "tag_weight": "69:20", 
-    "content": "[gun1:69]がはぐれたことに気付き皆驚いたが、幸い、[gun2]が連れ戻してくれた。", "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 261, "area_id": "3", "weight": 0, "tag_weight": "66:20", "content": "[gun1:66]は秘蔵のティーセットを取り出し、その辺の空き地でティータイムを始めた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 262, "area_id": "3", "weight": 0, "tag_weight": "65:20", "content": "[gun1:65]が森で歌い始めると、音楽好きのフレンズたちが大勢集まってきた。", 
-    "necessary_num": "2,3", "background": "", "script_type": "2,803"
-  }, {
-    "id": 263, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "66:20", 
-    "content": "暇つぶしに、[gun1:66]はみんなに茶葉のことを解説し始めた。[gun2]は興味津々のようだ。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 264, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "79:20", 
-    "content": "[gun1:79]はつい最近完結した小説の最終章をネタバレし、まだ読んでる途中の[gun2]に殺されそうになった。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 265, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "30:20", 
-    "content": "恋バナをしている最中、[gun1:30]は指揮官の恋愛遍歴を捏造した。あろうことか皆それを信じてしまい、指揮官に対する考えを少し変えた。", "necessary_num": "3,0", 
+    "content": "[gun1:69]がはぐれたことに気付き皆驚いたが、幸い、[gun2]が連れ戻してくれた。", "necessary_num": "2,0", 
     "background": "", "script_type": "2"
   }, {
+    "id": 261, "area_id": "3", "weight": 0, "tag_weight": "66:20", 
+    "content": "[gun1:66]は秘蔵のティーセットを取り出し、その辺の空き地でティータイムを始めた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 262, "area_id": "3", "weight": 0, "tag_weight": "65:20", 
+    "content": "[gun1:65]が森で歌い始めると、音楽好きのフレンズたちが大勢集まってきた。", "necessary_num": "2,3", 
+    "background": "", "script_type": "2,803"
+  }, {
+    "id": 263, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "66:20", 
+    "content": "暇つぶしに、[gun1:66]はみんなに茶葉のことを解説し始めた。[gun2]は興味津々のようだ。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 264, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "79:20", 
+    "content": "[gun1:79]はつい最近完結した小説の最終章をネタバレし、まだ読んでる途中の[gun2]に殺されそうになった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 265, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "30:20", 
+    "content": "恋バナをしている最中、[gun1:30]は指揮官の恋愛遍歴を捏造した。あろうことか皆それを信じてしまい、指揮官に対する考えを少し変えた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
     "id": 266, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "71:20", 
-    "content": "鉄血人形との激戦の中、[gun1:71]は軍の支援を得たと称し、鉄血はそれにより撤退を決定した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "6-15"
+    "content": "鉄血人形との激戦の中、[gun1:71]は軍の支援を得たと称し、鉄血はそれにより撤退を決定した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "6-15"
   }, {
     "id": 267, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "66:20", 
     "content": "[gun1:66]はあまりお茶が好きではなかったが、[gun2]が持ってきたレモンティーを飲んでから、任務のボーナスでこの黄色いパッケージのレモンティーを10箱ネットで購入する、と言い出した。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 268, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "68:20", 
-    "content": "[gun1:68]はみんなと誓約の話をし始めた。この話題は熱い議論を引き起こし、探索の速度が少し落ちた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:68]はみんなと誓約の話をし始めた。この話題は熱い議論を引き起こし、探索の速度が少し落ちた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 269, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "62:20", 
-    "content": "実は[gun1:62]はずっと寝ながら歩いていた。でも誰もそれに気づかなかった。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "実は[gun1:62]はずっと寝ながら歩いていた。でも誰もそれに気づかなかった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 270, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "62:20", 
-    "content": "[gun1:62]はどこからか布団を持ってきて身に纏い、人形をやめると宣言したが……その後すぐ[gun2]に叩き起こされ、布団を没収された。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2,801"
+    "content": "[gun1:62]はどこからか布団を持ってきて身に纏い、人形をやめると宣言したが……その後すぐ[gun2]に叩き起こされ、布団を没収された。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2,801"
   }, {
     "id": 271, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "73:20", 
-    "content": "とある人間のゴミの分類が間違っていることに[gun1:73]は気づき、「分類間違っていますよ、あなたは何ゴミ？」と親切に注意した。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "とある人間のゴミの分類が間違っていることに[gun1:73]は気づき、「分類間違っていますよ、あなたは何ゴミ？」と親切に注意した。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 272, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "65:20", 
-    "content": "よく使っているミュージックストアで好きな曲が大量に販売終了になったと、[gun1:65]は文句を言った。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "よく使っているミュージックストアで好きな曲が大量に販売終了になったと、[gun1:65]は文句を言った。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 273, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "67:20", 
-    "content": "みんなが深刻な運動不足だと[gun1:67]は気づき、運動するように呼び掛けたが、応えてくれたのは[gun2]だけだった。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "みんなが深刻な運動不足だと[gun1:67]は気づき、運動するように呼び掛けたが、応えてくれたのは[gun2]だけだった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 274, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "64:20", 
-    "content": "完璧なステーキを作るため、[gun1:64]はネットで鉄フライパンと温度計を購入しようとしたが、森の中では電波がないことに気づき、急いで森から出ることにした。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "完璧なステーキを作るため、[gun1:64]はネットで鉄フライパンと温度計を購入しようとしたが、森の中では電波がないことに気づき、急いで森から出ることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 275, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "75:20", 
-    "content": "[gun1:75]は単独で鉄血の工場を襲撃した。工場を襲撃した理由を彼女はのちの取材でこう語った。「そこに大量の食糧があったから。」", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:75]は単独で鉄血の工場を襲撃した。工場を襲撃した理由を彼女はのちの取材でこう語った。「そこに大量の食糧があったから。」", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 276, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "75:20", 
-    "content": "まだ一日は終わっていないが、[gun1:75]はすでに部隊の全ての配給を食べつくした。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "まだ一日は終わっていないが、[gun1:75]はすでに部隊の全ての配給を食べつくした。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 277, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "15:20", 
-    "content": "[gun1:15]はこっそりみんなに新人形の情報を教えた――内容は指揮官の通信チャンネルがBANされたため不明。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:15]はこっそりみんなに新人形の情報を教えた――内容は指揮官の通信チャンネルがBANされたため不明。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 278, "area_id": "1,2,3,4", "weight": -20, "tag_weight": "60:20", 
-    "content": "この複雑な地形を見て……[gun1:60]はここで[gun2:60]と競走する考えを諦めた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "この複雑な地形を見て……[gun1:60]はここで[gun2:60]と競走する考えを諦めた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 279, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "4:20", 
-    "content": "[gun1:4]がみんなにパンを焼いている時爆発が起きた。幸い、怪我をした人形はいなかった。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:4]がみんなにパンを焼いている時爆発が起きた。幸い、怪我をした人形はいなかった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 280, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "4:20", 
-    "content": "休憩後、周りが鉄血の部隊に包囲されていることに気付いた。が、その時[gun1:4]のオーブンが大爆発を起こし、みんなはこの隙に包囲を突破した。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2,6-14"
+    "content": "休憩後、周りが鉄血の部隊に包囲されていることに気付いた。が、その時[gun1:4]のオーブンが大爆発を起こし、みんなはこの隙に包囲を突破した。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2,6-14"
   }, {
     "id": 281, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "5:20", 
     "content": "[gun1:5]は、ネットで食事代行サービスを展開し、ただで美味しいものを食べまくる、という最新の荒稼ぎ方法を発見した。しかし、なぜか一番多いのが、とあるファーストフード店のセットメニューだった。噂によると、これはとある人気オンラインゲームと何か関係があるらしい。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 282, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]の盗み食いを阻止するために、同じ部隊の人形たちは配給を全部まずい雑穀クッキーに換えた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:5]の盗み食いを阻止するために、同じ部隊の人形たちは配給を全部まずい雑穀クッキーに換えた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 283, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "34:20", 
-    "content": "[gun1:34]は新しい荒稼ぎの方法を発見した。店の前で適当に何時間か立っていれば、店主がみかじめ料を献上してくれるのだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2,5-2"
+    "content": "[gun1:34]は新しい荒稼ぎの方法を発見した。店の前で適当に何時間か立っていれば、店主がみかじめ料を献上してくれるのだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,5-2"
   }, {
     "id": 284, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "77:20", 
-    "content": "[gun2]の射撃姿勢に5度の偏差があると気づいた[gun1:77]は、数時間かけてそれを直してあげた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun2]の射撃姿勢に5度の偏差があると気づいた[gun1:77]は、数時間かけてそれを直してあげた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 285, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "31:20", 
-    "content": "[gun1:31]は横から雲の形を観察したいと考え、部隊を連れてひたすらに歩いた……", "necessary_num": "2,0", "background": "", "script_type": "2"
+    "content": "[gun1:31]は横から雲の形を観察したいと考え、部隊を連れてひたすらに歩いた……", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 286, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "37:20", 
-    "content": "[gun1:37]はより効率的な進行ルートを見つけ、部隊の探索効率が上がった。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "[gun1:37]はより効率的な進行ルートを見つけ、部隊の探索効率が上がった。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 287, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "37:20", "content": "[gun1:37]は鉄血部隊のアジトを発見し、座標をすぐ指揮官に報告した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,6-13"
+    "id": 287, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "37:20", 
+    "content": "[gun1:37]は鉄血部隊のアジトを発見し、座標をすぐ指揮官に報告した。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,6-13"
   }, {
-    "id": 288, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "2:20", "content": "[gun1:2]は食糧の中に大量な酢を入れ、他の人形たちは呆れかえった。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
+    "id": 288, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "2:20", 
+    "content": "[gun1:2]は食糧の中に大量な酢を入れ、他の人形たちは呆れかえった。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 289, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "39:20", "content": "[gun1:39]は飢えている人間を見て、持っている食糧をすべてあげた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 289, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "39:20", 
+    "content": "[gun1:39]は飢えている人間を見て、持っている食糧をすべてあげた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 290, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "39:20", 
-    "content": "[gun1:39]は道端で倒れている白髪のおじいさんを発見した。そのおじいさんをゆっくりと助け起こすと、それがただのファーストフード店の立て看板であると気づいた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:39]は道端で倒れている白髪のおじいさんを発見した。そのおじいさんをゆっくりと助け起こすと、それがただのファーストフード店の立て看板であると気づいた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 291, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "21:20", 
-    "content": "今回の探索には多くの危険が潜んでいると見越し、[gun1:21]は大量なサバイバル知識を詰め込んだ。", "necessary_num": "1,0", "background": "", 
+    "content": "今回の探索には多くの危険が潜んでいると見越し、[gun1:21]は大量なサバイバル知識を詰め込んだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 292, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "トカレフの髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
   }, {
-    "id": 292, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "トカレフの髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 293, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "C96の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 293, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "C96の髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 294, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "M1A1の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 294, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "M1A1の髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 295, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "SVDの髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 295, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "SVDの髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 296, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "MG42の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 296, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "MG42の髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 297, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "PSG-1の髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 297, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "PSG-1の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 298, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
-    "content": "Five-sevenの髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "Five-sevenの髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 299, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
-    "content": "IWS 2000の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "IWS 2000の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
-    "id": 300, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", "content": "M590の髪の色は過労のせいではないかと、[gun1:29]は疑った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 300, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "29:20", 
+    "content": "M590の髪の色は過労のせいではないかと、[gun1:29]は疑った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 301, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "28:20", 
-    "content": "訓練資料を大量に手に入れたが、[gun1:28]がまじめに解析しなかったため、手に入った物資は少なかった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "訓練資料を大量に手に入れたが、[gun1:28]がまじめに解析しなかったため、手に入った物資は少なかった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 302, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "14:20", 
-    "content": "今のシチュエーションがとある小説のシーンに似ていると思い、[gun1:14]は部隊の仲間と一緒にそのシーンを演じた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2,5"
+    "content": "今のシチュエーションがとある小説のシーンに似ていると思い、[gun1:14]は部隊の仲間と一緒にそのシーンを演じた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2,5"
   }, {
-    "id": 303, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "6:20", "content": "同行する人形の身長を見て、[gun1:6]は非常に落ち込んだ。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
+    "id": 303, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "6:20", 
+    "content": "同行する人形の身長を見て、[gun1:6]は非常に落ち込んだ。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 304, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "82:10,40:10", 
-    "content": "[gun1:82,40]は難民キャンプで配給の配分が不公平であると気づき、自らの配給を分け与えた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:82,40]は難民キャンプで配給の配分が不公平であると気づき、自らの配給を分け与えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 305, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "82:20", 
-    "content": "ゲームでの勝利を得るために、[gun1:82]は勝手に部隊の人形のアイテムを使用した。ゲームが終わった後、彼女は正義はやはり自分で決めるべきだと感じた。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "ゲームでの勝利を得るために、[gun1:82]は勝手に部隊の人形のアイテムを使用した。ゲームが終わった後、彼女は正義はやはり自分で決めるべきだと感じた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 306, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "59:20", "content": "[gun1:59]は単独行動をしていたが、危うく鉄血に捕まりそうになった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,6-14,6-13"
+    "id": 306, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "59:20", 
+    "content": "[gun1:59]は単独行動をしていたが、危うく鉄血に捕まりそうになった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,6-14,6-13"
   }, {
     "id": 307, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "59:20", 
-    "content": "[gun1:59]はみんなに「すぐ戻るから」というメッセージを残し、戦場へ向かった。幸い、その後無事帰ってきた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:59]はみんなに「すぐ戻るから」というメッセージを残し、戦場へ向かった。幸い、その後無事帰ってきた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 308, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "75:10,5:10", 
     "content": "[gun1:75,5]はみんなに「すぐ戻るから」というメッセージを残し、戦場へ向かった。その後全然帰ってこなかったが……最終的に、[gun2]が戦場近くのファーストフード店で彼女を発見した。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 309, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]と[gun2]は進む道の方向で言い争ったが、最後はサイコロで六つのルートを決めた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 310, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", "content": "[gun1]は指定座標で未使用の弾薬をたくさん発見した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,5-4"
-  }, {
-    "id": 311, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]通信端末が故障した。原因を調べた結果、この地域は戦術人形の通信プロトコルに対応していないようだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 312, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "複雑の地形で[gun1]は危うく転びそうになった。幸い、[gun2]がちゃんと手を掴んでくれた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 313, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "突然雨が降り出した。[gun1]の部隊は防雨装置を持ってこなかったため、びしょ濡れになった。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 314, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "部隊の進行中、運転手を務める人形が右折と左折がそれぞれ何を意味しているのかを分かっていないことに[gun1]は気付いた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 315, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は道端猫に餌をあげ始めた。可愛さのあまり、宿舎で飼うように指揮官に申請した。", "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 316, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は整備の途中、自分の銃についているパーツが増えていたことに気が付いた。おそらく指揮官がこっそり付けたのだろう。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 317, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", "content": "[gun1]はグリフィンの人形たちにプレゼントを買った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 318, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", "content": "[gun1]は巡回中の鉄血部隊と遭遇し、激戦を繰り広げ始めた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,6-12,6-15"
-  }, {
-    "id": 319, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は自分の銃のオプションが逆になっていることに気づいた。数時間をかけてそれを直した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 320, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", "content": "実は[gun1]はずっとサボっていたが、誰もそれに気づかなかった。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 321, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "路上に突然強盗が現れ、[gun1]が所属する部隊の装備を奪っていったが、すぐに他の部隊に取り押さえられ、逆に大量の資源を奪い取った。", "necessary_num": "1,0", 
+    "content": "[gun1]と[gun2]は進む道の方向で言い争ったが、最後はサイコロで六つのルートを決めた。", "necessary_num": "2,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 322, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は行列の出来ているカフェを見つけた。好奇心から彼女も並んでみたが、三時間並んで得たものは一杯のアメリカンだった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "id": 310, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は指定座標で未使用の弾薬をたくさん発見した。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,5-4"
   }, {
-    "id": 323, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は携帯端末の充電を忘れていたため、仕方がなく24時間営業のコンビニで高額なモバイルバッテリーを購入した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 324, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]はどの配給を食べようか迷っていたら、[gun2]に自分の配給を盗み食いされていることに気が付いた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 325, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は部隊のみんなに聞かせようと、ジャズを流したが、著作権がないからダメだと告げられた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 326, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", "content": "[gun1]は編制拡大後、自身の消費する配給が多くなっていることに気が付いた。", 
+    "id": 311, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]通信端末が故障した。原因を調べた結果、この地域は戦術人形の通信プロトコルに対応していないようだ。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
+    "id": 312, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "複雑の地形で[gun1]は危うく転びそうになった。幸い、[gun2]がちゃんと手を掴んでくれた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 313, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "突然雨が降り出した。[gun1]の部隊は防雨装置を持ってこなかったため、びしょ濡れになった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 314, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "部隊の進行中、運転手を務める人形が右折と左折がそれぞれ何を意味しているのかを分かっていないことに[gun1]は気付いた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 315, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は道端猫に餌をあげ始めた。可愛さのあまり、宿舎で飼うように指揮官に申請した。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 316, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は整備の途中、自分の銃についているパーツが増えていたことに気が付いた。おそらく指揮官がこっそり付けたのだろう。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 317, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]はグリフィンの人形たちにプレゼントを買った。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 318, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は巡回中の鉄血部隊と遭遇し、激戦を繰り広げ始めた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,6-12,6-15"
+  }, {
+    "id": 319, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は自分の銃のオプションが逆になっていることに気づいた。数時間をかけてそれを直した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 320, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "実は[gun1]はずっとサボっていたが、誰もそれに気づかなかった。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 321, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "路上に突然強盗が現れ、[gun1]が所属する部隊の装備を奪っていったが、すぐに他の部隊に取り押さえられ、逆に大量の資源を奪い取った。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 322, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は行列の出来ているカフェを見つけた。好奇心から彼女も並んでみたが、三時間並んで得たものは一杯のアメリカンだった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 323, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は携帯端末の充電を忘れていたため、仕方がなく24時間営業のコンビニで高額なモバイルバッテリーを購入した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 324, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]はどの配給を食べようか迷っていたら、[gun2]に自分の配給を盗み食いされていることに気が付いた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 325, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は部隊のみんなに聞かせようと、ジャズを流したが、著作権がないからダメだと告げられた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 326, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は編制拡大後、自身の消費する配給が多くなっていることに気が付いた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
     "id": 327, "area_id": "1,2,3,4", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は自分が買ったゲームソフトがそろそろ届くことを思い出し、探索の速度を上げた。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "[gun1]は自分が買ったゲームソフトがそろそろ届くことを思い出し、探索の速度を上げた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 328, "area_id": "1,2,3,4", "weight": 0, "tag_weight": "14:20", 
-    "content": "[gun1:14]は人類の未来を知りたいと思い、著名な作家の著作である『書き直し』を読破した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:14]は人類の未来を知りたいと思い、著名な作家の著作である『書き直し』を読破した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 329, "area_id": "2", "weight": 0, "tag_weight": "25:20", 
-    "content": "[gun1:25]は絶対にペンギンを見るんだと、雪原でずっと待ち伏せして、氷像になってしまった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:25]は絶対にペンギンを見るんだと、雪原でずっと待ち伏せして、氷像になってしまった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 330, "area_id": "2", "weight": 0, "tag_weight": "7:20", 
-    "content": "部隊は雪原に到着した。[gun1:7]は、ここで食べるものは普段より確実にカロリーが少ないだろうと、嬉しそうにしていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "部隊は雪原に到着した。[gun1:7]は、ここで食べるものは普段より確実にカロリーが少ないだろうと、嬉しそうにしていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 331, "area_id": "2", "weight": 0, "tag_weight": "52:20", 
-    "content": "[gun1:52]は他の人形を連れてオーロラを探しに行ったが、なんと鉄血の秘密の工場を見つけた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2,6-13"
+    "content": "[gun1:52]は他の人形を連れてオーロラを探しに行ったが、なんと鉄血の秘密の工場を見つけた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2,6-13"
   }, {
     "id": 332, "area_id": "2", "weight": 0, "tag_weight": "52:20", 
-    "content": "希少な動物に注意を引かれた[gun1:52]は、動物を追いかけている最中に氷に開けた穴に落っこちた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "希少な動物に注意を引かれた[gun1:52]は、動物を追いかけている最中に氷に開けた穴に落っこちた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 333, "area_id": "2", "weight": 0, "tag_weight": "17:20", 
     "content": "[gun1]は[gun2:17]に天気が変わりそうだと伝えたが、その後[gun2]と[gun1]は話が盛り上がって、二人とも周りに教えてあげるのをすっかり忘れてしまったので、探索速度が少し低下した。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 334, "area_id": "2", "weight": 10, "tag_weight": "", "content": "[gun1]はお腹が空いている何匹かの小動物を目にし、食料を少し分けてやることにした。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 334, "area_id": "2", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]はお腹が空いている何匹かの小動物を目にし、食料を少し分けてやることにした。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 335, "area_id": "2", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]は予算が足りない事に気が付き、416のグッズを販売し、予算の足しにすることにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:38]は予算が足りない事に気が付き、416のグッズを販売し、予算の足しにすることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 336, "area_id": "2", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]は予算が足りない事に気が付き、G11のグッズを販売し、予算の足しにすることにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:38]は予算が足りない事に気が付き、G11のグッズを販売し、予算の足しにすることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 337, "area_id": "2", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]は予算が足りない事に気が付き、UMP45のグッズを販売し、予算の足しにすることにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:38]は予算が足りない事に気が付き、UMP45のグッズを販売し、予算の足しにすることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 338, "area_id": "2", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]は予算が足りない事に気が付き、UMP9のグッズを販売し、予算の足しにすることにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:38]は予算が足りない事に気が付き、UMP9のグッズを販売し、予算の足しにすることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 339, "area_id": "2", "weight": 0, "tag_weight": "38:20", 
-    "content": "[gun1:38]はある人形が昼なのにサーチライトを付けていることに気づき、怒り心頭に達した。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:38]はある人形が昼なのにサーチライトを付けていることに気づき、怒り心頭に達した。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 340, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]から前方に鉄血の部隊がいるとの報告があったが、彼女の手に空っぽの酒瓶が握られているのを見て、報告を無視することにした。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2,6-13"
+    "content": "[gun1:50]から前方に鉄血の部隊がいるとの報告があったが、彼女の手に空っぽの酒瓶が握られているのを見て、報告を無視することにした。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2,6-13"
   }, {
     "id": 341, "area_id": "2", "weight": 10, "tag_weight": "", 
     "content": "人形たちは雪原にて前進が困難な状況に陥っていた。その様子を見た現地の住民はすぐに[gun1]の部隊の人形たちにピッタリのスノーブーツを作ってくれた。このようなお手製のものは壊れやすいのだが、人形たちはブーツを壊すことなく帰ってきた。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 342, "area_id": "2", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は金色に輝くアザラシを見つけた。[gun2]は何を思ったのか突然槍を取り出したが、アザラシの曇りなき眼を見て、逃がしてやることにした。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1]は金色に輝くアザラシを見つけた。[gun2]は何を思ったのか突然槍を取り出したが、アザラシの曇りなき眼を見て、逃がしてやることにした。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 343, "area_id": "2", "weight": 10, "tag_weight": "", 
     "content": "廃墟と化した観測基地にて、[gun1]は旧式貨幣の100万が詰められた封筒を見つけた。指揮官に報告しようとした時、封筒の上に「へそくり」と書かれているのに気が付き、他の人形たちとの議論の結果、元の場所に戻すことに決めたーーなぜならこれは、ある人たちが夢を実現させた証である可能性が高いからだ。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 344, "area_id": "2", "weight": 0, "tag_weight": "41:20", "content": "[gun1:41]は鉄血エリートとの戦闘中、現地住民のサポートを受けた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2,6"
+    "id": 344, "area_id": "2", "weight": 0, "tag_weight": "41:20", 
+    "content": "[gun1:41]は鉄血エリートとの戦闘中、現地住民のサポートを受けた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2,6"
   }, {
-    "id": 345, "area_id": "2", "weight": 0, "tag_weight": "41:20", "content": "[gun1:41]がいたため、現地の司令部との交渉は非常にスムーズだった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 345, "area_id": "2", "weight": 0, "tag_weight": "41:20", 
+    "content": "[gun1:41]がいたため、現地の司令部との交渉は非常にスムーズだった。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 346, "area_id": "2", "weight": -20, "tag_weight": "45:20", 
-    "content": "暇つぶしに、[gun1:45]と[gun2:45]は雪原で決闘をする約束したが、[gun3]に止められた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "暇つぶしに、[gun1:45]と[gun2:45]は雪原で決闘をする約束したが、[gun3]に止められた。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 347, "area_id": "2", "weight": 0, "tag_weight": "61:20", 
     "content": "[gun1:61]はカレンダーをめくったところ、今日が休みに適した日だということに気が付いた。それを他の人形たちに提案すると、図らずもみんなと考えが一致し、休むことに決めた。そのため部隊の探索速度が少し低下した。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 348, "area_id": "2", "weight": 0, "tag_weight": "23:20", 
-    "content": "探索が長引くので、[gun1:23]は指揮官と連絡を取りたくなったが、指揮官の方から自発的に連絡してほしいとも思ったので、この情報をここに書いておくことにした。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "探索が長引くので、[gun1:23]は指揮官と連絡を取りたくなったが、指揮官の方から自発的に連絡してほしいとも思ったので、この情報をここに書いておくことにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 349, "area_id": "2", "weight": 0, "tag_weight": "9:20", 
     "content": "一匹狼気質の[gun1:9]はわざと部隊との距離を保っていたが、いつの間にか自分がペンギンたちの群れに紛れ込んでしまったことに気づき、グリフィンへの帰り道を見つかるように願った。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
-    "id": 350, "area_id": "2", "weight": 0, "tag_weight": "9:20", "content": "[gun1:9]は部隊の後方に人形が落とした大量の装備を発見した。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
+    "id": 350, "area_id": "2", "weight": 0, "tag_weight": "9:20", 
+    "content": "[gun1:9]は部隊の後方に人形が落とした大量の装備を発見した。", "necessary_num": "3,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 351, "area_id": "2", "weight": 0, "tag_weight": "8:20", 
-    "content": "[gun1:8]は部隊の人形があまりに少ないと思い、方々からペンギンをとっ掴まえてきて、部隊に加えた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:8]は部隊の人形があまりに少ないと思い、方々からペンギンをとっ掴まえてきて、部隊に加えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 352, "area_id": "2", "weight": 0, "tag_weight": "24:20", 
-    "content": "人形たちが部隊章のデザインをしていると、[gun1:24]がグリフィンの文字をもう少し大きくしてほしいと意見した。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "人形たちが部隊章のデザインをしていると、[gun1:24]がグリフィンの文字をもう少し大きくしてほしいと意見した。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 353, "area_id": "2", "weight": -20, "tag_weight": "35:20", 
     "content": "前方に鉄血の偵察部隊を発見した。[gun1:35]と[gun2:35]はしばらく鉄血を睨めつけていたが、お互い頷くと、瞬く間に鉄血の部隊を壊滅させた。その他の人形たちは二人のコンビネーションを称えた。", 
     "necessary_num": "2,0", "background": "", "script_type": "2,6-12"
   }, {
     "id": 354, "area_id": "2", "weight": 0, "tag_weight": "27:20", 
-    "content": "[gun1:27]は大量の物資を見つけたので、すぐさま部隊の人形を招集し、グリフィンに持ち帰るのを手伝ってもらった。", "necessary_num": "1,0", "background": "", 
+    "content": "[gun1:27]は大量の物資を見つけたので、すぐさま部隊の人形を招集し、グリフィンに持ち帰るのを手伝ってもらった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 355, "area_id": "2", "weight": 0, "tag_weight": "27:20", 
+    "content": "部隊のある人形が休憩を願い出たが、[gun1:27]に却下された。", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
   }, {
-    "id": 355, "area_id": "2", "weight": 0, "tag_weight": "27:20", "content": "部隊のある人形が休憩を願い出たが、[gun1:27]に却下された。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 356, "area_id": "2", "weight": 0, "tag_weight": "27:20", "content": "[gun1:27]がさぼっている人形を連れ戻したため、探索速度が少し上昇した。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
-  }, {
-    "id": 357, "area_id": "2", "weight": 0, "tag_weight": "27:20", "content": "今回の探索を楽しいと思った[gun1:27]は、週に六日は探索に行っていたいと願った。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 358, "area_id": "2", "weight": 0, "tag_weight": "19:20", "content": "[gun1:19]は大きなクマとの取っ組み合いの喧嘩に勝利した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 359, "area_id": "2", "weight": 0, "tag_weight": "19:20", "content": "[gun1:19]は虎に襲われていたウサギを助けてあげた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 360, "area_id": "2", "weight": 0, "tag_weight": "18:20", 
-    "content": "部隊は難民キャンプの救助に向かった。キャンプの子供たちに色とりどりの石をプレゼントされ、[gun1:18]は感動した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 361, "area_id": "2", "weight": 0, "tag_weight": "18:20", 
-    "content": "部隊内のある人形が限界まで消耗していることに気が付き、[gun1:18]は部隊の前進を止めた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 362, "area_id": "2", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]は料理が得意でない人形たちのためにレシピ集を作成した。その中のレシピの一つにこう記されていた。「カップ麺は必ず三分経ったら即座に食べ始めること……」", "necessary_num": "2,0", 
+    "id": 356, "area_id": "2", "weight": 0, "tag_weight": "27:20", 
+    "content": "[gun1:27]がさぼっている人形を連れ戻したため、探索速度が少し上昇した。", "necessary_num": "2,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 363, "area_id": "2", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]が部隊に編成されて、食事が豪華になったので人形たちの作戦効率が大幅に上昇した。", "necessary_num": "2,0", "background": "", 
+    "id": 357, "area_id": "2", "weight": 0, "tag_weight": "27:20", 
+    "content": "今回の探索を楽しいと思った[gun1:27]は、週に六日は探索に行っていたいと願った。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
+  }, {
+    "id": 358, "area_id": "2", "weight": 0, "tag_weight": "19:20", 
+    "content": "[gun1:19]は大きなクマとの取っ組み合いの喧嘩に勝利した。", "necessary_num": "1,0", "background": "", 
     "script_type": "2"
+  }, {
+    "id": 359, "area_id": "2", "weight": 0, "tag_weight": "19:20", 
+    "content": "[gun1:19]は虎に襲われていたウサギを助けてあげた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 360, "area_id": "2", "weight": 0, "tag_weight": "18:20", 
+    "content": "部隊は難民キャンプの救助に向かった。キャンプの子供たちに色とりどりの石をプレゼントされ、[gun1:18]は感動した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 361, "area_id": "2", "weight": 0, "tag_weight": "18:20", 
+    "content": "部隊内のある人形が限界まで消耗していることに気が付き、[gun1:18]は部隊の前進を止めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 362, "area_id": "2", "weight": 0, "tag_weight": "3:20", 
+    "content": "[gun1:3]は料理が得意でない人形たちのためにレシピ集を作成した。その中のレシピの一つにこう記されていた。「カップ麺は必ず三分経ったら即座に食べ始めること……」", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
+  }, {
+    "id": 363, "area_id": "2", "weight": 0, "tag_weight": "3:20", 
+    "content": "[gun1:3]が部隊に編成されて、食事が豪華になったので人形たちの作戦効率が大幅に上昇した。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 364, "area_id": "2", "weight": 0, "tag_weight": "58:20", 
     "content": "[gun1:58]が氷の上でスケートをしていると、そこにいたペンギンたちに同族とみなされ囲まれた。[gun2]は、おそらくペンギンたちはパートナーを奪い合っているのではないか、と分析した。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 365, "area_id": "2", "weight": 0, "tag_weight": "36:20", 
-    "content": "[gun1:36]は彼女の仲間になりたそうな顔をしている動物を沢山見つけたが、人形たちの銃を見た途端、蜘蛛の子を散らしたかのように逃げていった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:36]は彼女の仲間になりたそうな顔をしている動物を沢山見つけたが、人形たちの銃を見た途端、蜘蛛の子を散らしたかのように逃げていった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 366, "area_id": "3", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]は珍しいトリュフを見つけたので、美味しいトリュフ料理を作った。部隊の士気が上がった！", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:3]は珍しいトリュフを見つけたので、美味しいトリュフ料理を作った。部隊の士気が上がった！", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
-    "id": 367, "area_id": "3", "weight": 0, "tag_weight": "4:20", "content": "[gun1:4]は怪しいキノコを見つけ、少し迷った末に足で踏み潰した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 367, "area_id": "3", "weight": 0, "tag_weight": "4:20", 
+    "content": "[gun1:4]は怪しいキノコを見つけ、少し迷った末に足で踏み潰した。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 368, "area_id": "3", "weight": 0, "tag_weight": "59:20", 
-    "content": "[gun1:59]は珍しいトリュフを見つけたので、美味しいトリュフ料理を作ろうとしたが、失敗した。彼女はそれをコッソリ処分すると、何もなかったフリをして前に進んだ。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:59]は珍しいトリュフを見つけたので、美味しいトリュフ料理を作ろうとしたが、失敗した。彼女はそれをコッソリ処分すると、何もなかったフリをして前に進んだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 369, "area_id": "3", "weight": 0, "tag_weight": "75:20", 
-    "content": "[gun1:75]は珍しいトリュフを見つけたのでそのまま食べようとしたが、[gun2]に止められた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:75]は珍しいトリュフを見つけたのでそのまま食べようとしたが、[gun2]に止められた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 370, "area_id": "3", "weight": 0, "tag_weight": "81:20", 
     "content": "[gun1:81]は暗い洞窟を見つけたので、中に入って探険することにした。しかしそれがとある狩人の仕掛けた罠であると気づいた時にはもう遅く、トラバサミによって足首を怪我した。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 371, "area_id": "3", "weight": 0, "tag_weight": "25:20", "content": "[gun1:25]は暗い洞窟を見つけたが、中に何があるかについて隊員と揉めた。", 
-    "necessary_num": "2,0", "background": "", "script_type": "2"
+    "id": 371, "area_id": "3", "weight": 0, "tag_weight": "25:20", 
+    "content": "[gun1:25]は暗い洞窟を見つけたが、中に何があるかについて隊員と揉めた。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 372, "area_id": "3", "weight": 0, "tag_weight": "51:20", 
-    "content": "陽の光が、木々の隙間からこぼれる。少し眩しかったが、[gun1:51]はその光の彼方を眺めた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "陽の光が、木々の隙間からこぼれる。少し眩しかったが、[gun1:51]はその光の彼方を眺めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 373, "area_id": "3", "weight": 0, "tag_weight": "3:20", 
-    "content": "[gun1:3]は湖で、ダイナーゲートと同じくらいの大きさの魚を釣った。彼女はその魚で部隊の夕食を作ることにした。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:3]は湖で、ダイナーゲートと同じくらいの大きさの魚を釣った。彼女はその魚で部隊の夕食を作ることにした。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 374, "area_id": "3", "weight": -20, "tag_weight": "5:20,4:20", 
-    "content": "[gun1:5]が[gun2:4]の廃棄した試作料理をうっかり食べてしまった。その後、彼女の体から眩しい光が放たれた……", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:5]が[gun2:4]の廃棄した試作料理をうっかり食べてしまった。その後、彼女の体から眩しい光が放たれた……", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 375, "area_id": "3", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は酔ったまま木に登り、その上で寝てしまったため、他の部隊との合流に遅れた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:50]は酔ったまま木に登り、その上で寝てしまったため、他の部隊との合流に遅れた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 376, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "28:20", 
-    "content": "隊員が話し合っている中、[gun1:28]は真面目な表情で上の空になっていた。", "necessary_num": "3,0", "background": "", "script_type": "2"
+    "content": "隊員が話し合っている中、[gun1:28]は真面目な表情で上の空になっていた。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 377, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "24:20", 
     "content": "[gun1:24]は、中国東北地区の花柄綿入りジャケットの方が高価な衣類よりも、コストパフォーマンスとファッションレベルに優れていると思い、隊員に自分と一緒に着用するよう説得を試みた。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 378, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "36:20", 
-    "content": "サメのぬいぐるみで[gun1:36]のペットをじゃらすかどうかで、他の隊員たちが討論を始めた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "サメのぬいぐるみで[gun1:36]のペットをじゃらすかどうかで、他の隊員たちが討論を始めた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 379, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "30:20,29:20", 
-    "content": "[gun1:30]は、自分のいたずらにより紙を貼られたまま一日中歩き回っていることを、[gun2:39]に教えてあげるかどうか考えていた。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:30]は、自分のいたずらにより紙を貼られたまま一日中歩き回っていることを、[gun2:39]に教えてあげるかどうか考えていた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 380, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "29:20,35:20", 
-    "content": "[gun1:29]は顔の筋肉の些細な動きから他人の感情を読もうとしたが、彼女が諦めるその時まで、[gun2:35]の表情が変わることは全くなかった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:29]は顔の筋肉の些細な動きから他人の感情を読もうとしたが、彼女が諦めるその時まで、[gun2:35]の表情が変わることは全くなかった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 381, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "65:20", 
-    "content": "[gun1:65]は、最近自分が好きな音楽を[pet1]に薦めようとしたが、理解されることは無かった。", "necessary_num": "1,1", "background": "", 
-    "script_type": "2,803"
+    "content": "[gun1:65]は、最近自分が好きな音楽を[pet1]に薦めようとしたが、理解されることは無かった。", 
+    "necessary_num": "1,1", "background": "", "script_type": "2,803"
   }, {
     "id": 382, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "9:20", 
-    "content": "[gun1:9]は、自分の知覚モジュールの一部を閉じれば、短い間孤独を享受することができることに気付いた後、転んだ。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2,801"
+    "content": "[gun1:9]は、自分の知覚モジュールの一部を閉じれば、短い間孤独を享受することができることに気付いた後、転んだ。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2,801"
   }, {
-    "id": 383, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は捨てられたストッキングと鉄線で花を作ろうとしたが、失敗した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 383, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は捨てられたストッキングと鉄線で花を作ろうとしたが、失敗した。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 384, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", "content": "[gun1]は捨てられたストッキングと鉄線で花を作ろうとして、見事に成功した。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 384, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は捨てられたストッキングと鉄線で花を作ろうとして、見事に成功した。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 385, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "33:20", 
-    "content": "[gun1]は偶然[gun2:33]の日記を見つけた。日記には指揮官のスケジュールがこと細かく記されていた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は偶然[gun2:33]の日記を見つけた。日記には指揮官のスケジュールがこと細かく記されていた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 386, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "39:20", 
-    "content": "[gun1:39]は風邪を引いたことがなかったため、自分が馬鹿なのではないかと疑い始めた。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "[gun1:39]は風邪を引いたことがなかったため、自分が馬鹿なのではないかと疑い始めた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 387, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "34:20", 
-    "content": "[gun1:34]を見た難民の子供が驚きのあまり泣き出してしまったので、[gun1:34]は大きなショックを受けた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:34]を見た難民の子供が驚きのあまり泣き出してしまったので、[gun1:34]は大きなショックを受けた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 388, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "35:20,62:20", 
     "content": "[gun1:35]と[gun2:62]は瞬きもせず、十数分間互いを見つめ合い続けた。しかし、[gun2:62]が瞬きもせず目を開いたままでも眠れることに、[gun1:35]が気づくことはなかった。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 389, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "62:20", 
-    "content": "人形たちは、眠るまでに数えた羊の数を比べ合っていたが、[gun1:62]の最低記録が破られることはなかった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "人形たちは、眠るまでに数えた羊の数を比べ合っていたが、[gun1:62]の最低記録が破られることはなかった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 390, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "14:20", 
-    "content": "[gun1:14]は、[gun2]にミステリー小説として薦められた本を読んでいたが、内容は彼女にとってミステリー小説からほど遠いものだった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:14]は、[gun2]にミステリー小説として薦められた本を読んでいたが、内容は彼女にとってミステリー小説からほど遠いものだった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 391, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "70:20", 
-    "content": "[gun1:70]は、スキムミルクが無糖ドリンクと同じ魂のない飲み物だと主張した。", "necessary_num": "1,0", "background": "", "script_type": "2"
+    "content": "[gun1:70]は、スキムミルクが無糖ドリンクと同じ魂のない飲み物だと主張した。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 392, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "29:20,37:20", 
-    "content": "[gun1:29]は近頃[gun2:37]とよく目が合う。どうやら観察していることがとっくに気づかれていたようだ……", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:29]は近頃[gun2:37]とよく目が合う。どうやら観察していることがとっくに気づかれていたようだ……", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 393, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "29:20,10:20", 
-    "content": "[gun1:29]は[gun2:10]を観察することから多くの楽しみを得ていた。", "necessary_num": "2,0", "background": "", "script_type": "2"
+    "content": "[gun1:29]は[gun2:10]を観察することから多くの楽しみを得ていた。", "necessary_num": "2,0", "background": "", 
+    "script_type": "2"
   }, {
     "id": 394, "area_id": "3,2,4,1", "weight": -20, "tag_weight": "19:20,12:20", 
-    "content": "[gun1:18]はこの頃[gun2:12]が任務でいつも最前線へ突っ込んでいっていることに気が付いた。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:18]はこの頃[gun2:12]が任務でいつも最前線へ突っ込んでいっていることに気が付いた。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 395, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は前回滞在したキャンプ地を見つけた。長い時間が経ったが、ほどんと変わっていないようだった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は前回滞在したキャンプ地を見つけた。長い時間が経ったが、ほどんと変わっていないようだった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 396, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は前回滞在したキャンプ地を見つけた。たくさんの人々が訪ねていたようで、焚き火の燃え残りが以前よりも増えていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は前回滞在したキャンプ地を見つけた。たくさんの人々が訪ねていたようで、焚き火の燃え残りが以前よりも増えていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 397, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "朝、[gun1]が目を覚ますと、陽の光が彼女の肩に落ちていた。この瞬間、彼女はこれまでにない自由を感じた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "朝、[gun1]が目を覚ますと、陽の光が彼女の肩に落ちていた。この瞬間、彼女はこれまでにない自由を感じた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 398, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "このような生活は退屈だと[gun1]は思う。しかし、現実は童話ではなく、文句を垂れ流した後も再び前へ進まなければならない。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "このような生活は退屈だと[gun1]は思う。しかし、現実は童話ではなく、文句を垂れ流した後も再び前へ進まなければならない。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 399, "area_id": "3,2,4,1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は、捨てられた建物に入った拍子に、扉の枠に頭をぶつけてしまった。地面がどうやら沈んでいるようだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は、捨てられた建物に入った拍子に、扉の枠に頭をぶつけてしまった。地面がどうやら沈んでいるようだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 400, "area_id": "3,2,4", "weight": 0, "tag_weight": "58:20,6:20", 
-    "content": "[gun1:58,6]は背が低かったため、洞窟から這出るのに苦労した。もっと背が高ければ……", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:58,6]は背が低かったため、洞窟から這出るのに苦労した。もっと背が高ければ……", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 401, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は、桜の花びらが落ちているのにふと気づき、興奮しながら顔を上げたが、それはただ風に運ばれただけの埃であった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は、桜の花びらが落ちているのにふと気づき、興奮しながら顔を上げたが、それはただ風に運ばれただけの埃であった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 402, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "休憩中、[gun1]は鳥の巣を偶然見つけた。しかし中はもぬけの殻で、卵の殻がいくつか残されていただけだった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "休憩中、[gun1]は鳥の巣を偶然見つけた。しかし中はもぬけの殻で、卵の殻がいくつか残されていただけだった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 403, "area_id": "3", "weight": 0, "tag_weight": "51:20", 
-    "content": "[gun1]はとても綺麗な鳥の羽をいくつか拾い、それを森の贈り物だと[gun2:51]は称した。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]はとても綺麗な鳥の羽をいくつか拾い、それを森の贈り物だと[gun2:51]は称した。", "necessary_num": "2,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 404, "area_id": "3", "weight": 0, "tag_weight": "32:20", 
-    "content": "[gun1:32]は、その羽の持ち主が既に死んでいるであろうことを悟ったが、言わないことにした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:32]は、その羽の持ち主が既に死んでいるであろうことを悟ったが、言わないことにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 405, "area_id": "3", "weight": 0, "tag_weight": "21:20", 
-    "content": "[gun1:21]は何か変だと感じ、キノコをこっそり摘んで隠し持ったが、翌日には見当たらなくなっていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:21]は何か変だと感じ、キノコをこっそり摘んで隠し持ったが、翌日には見当たらなくなっていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 406, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は、朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけたが、毒があると決めつけた後にそれを捨てた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は、朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけたが、毒があると決めつけた後にそれを捨てた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 407, "area_id": "3", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけ、そのまま掘り続けた末、誰が埋めたかわからない古いお金を手に入れた。", "necessary_num": "1,0", 
+    "content": "[gun1]は朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけ、そのまま掘り続けた末、誰が埋めたかわからない古いお金を手に入れた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 408, "area_id": "3", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は森の中で泥沼を見つけたが、機転を利かせそれを避けた。", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 409, "area_id": "3", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は不幸にも森の中の泥沼へ落ちてしまったが、幸い隊員に発見され、助かった。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
-  }, {
-    "id": 408, "area_id": "3", "weight": 10, "tag_weight": "", "content": "[gun1]は森の中で泥沼を見つけたが、機転を利かせそれを避けた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
-  }, {
-    "id": 409, "area_id": "3", "weight": 10, "tag_weight": "", "content": "[gun1]は不幸にも森の中の泥沼へ落ちてしまったが、幸い隊員に発見され、助かった。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 410, "area_id": "3", "weight": 0, "tag_weight": "53:20", 
-    "content": "[gun1:53]は朽ちた樹の下に野生のマンネンタケが生えているのを見つけ、それを煎じて指揮官に飲ませることで滋養をつけてもらおうとした。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:53]は朽ちた樹の下に野生のマンネンタケが生えているのを見つけ、それを煎じて指揮官に飲ませることで滋養をつけてもらおうとした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 411, "area_id": "3", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]は朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけた。それを煎じて飲んでみると心なしか体が元気になった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:5]は朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけた。それを煎じて飲んでみると心なしか体が元気になった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 412, "area_id": "3", "weight": 0, "tag_weight": "30:20", 
-    "content": "[gun1:30]は朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけ、毒があると決めつけた後、新入りのメンバーへプレゼントにすることにした。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:30]は朽ちた樹の下におかしな形をした大きなキノコが生えているのを見つけ、毒があると決めつけた後、新入りのメンバーへプレゼントにすることにした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 413, "area_id": "3", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]が酔って森の中の泥沼へ落ちてしまった。発見された時、沼からは空瓶を握った彼女の右手だけが外に出ていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:50]が酔って森の中の泥沼へ落ちてしまった。発見された時、沼からは空瓶を握った彼女の右手だけが外に出ていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 414, "area_id": "3", "weight": 0, "tag_weight": "36:20", 
     "content": "[gun1:36]は不幸にも森の中の泥沼へ落ちてしまったので、通りすがりのクマへ助けを求めた。思いにもよらない形で助けられたため、バッグにあった干し肉をお礼としてクマにあげた。", 
@@ -1489,108 +1633,112 @@
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 417, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "69:20", 
-    "content": "[gun1:69]は、朝の早い時間から雲の形を観察していた。気が付くと、もう夕方になっていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:69]は、朝の早い時間から雲の形を観察していた。気が付くと、もう夕方になっていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 418, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "16:20", 
-    "content": "[gun1:16]は潜入任務の遂行中に荷物発送のメッセージを受け取ったが、着信音が大き過ぎたため敵に発見され、作戦の中断を余儀なくされた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:16]は潜入任務の遂行中に荷物発送のメッセージを受け取ったが、着信音が大き過ぎたため敵に発見され、作戦の中断を余儀なくされた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 419, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "1:20", 
-    "content": "[gun1:1]は昼食を食べようとしたが、自分が調理時に砂糖と間違えて塩を入れてしまったことに気付いたため、心を込めて準備した食事を仕方なく捨てた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:1]は昼食を食べようとしたが、自分が調理時に砂糖と間違えて塩を入れてしまったことに気付いたため、心を込めて準備した食事を仕方なく捨てた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 420, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "2:20", 
-    "content": "[gun1:1]は昼食を食べようとしたが、自分が調理時に塩と間違えて砂糖を入れてしまったことに気付いたため、心を込めて準備した食事を仕方なく捨てた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:1]は昼食を食べようとしたが、自分が調理時に塩と間違えて砂糖を入れてしまったことに気付いたため、心を込めて準備した食事を仕方なく捨てた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 421, "area_id": "3,2,4,1", "weight": 0, "tag_weight": "12:20", 
-    "content": "[gun1:12]は休憩時間に、他の人形たちの前で昨夜習得したばかりのマジックを披露したが、見事に失敗したため笑いものにされた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:12]は休憩時間に、他の人形たちの前で昨夜習得したばかりのマジックを披露したが、見事に失敗したため笑いものにされた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 422, "area_id": "2", "weight": 10, "tag_weight": "", 
-    "content": "小さな雪崩に見舞われつつも、[gun1]は逃げる途中で一人の人間を助けた。しかし、その人間は低体温症で死亡してしまった。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "小さな雪崩に見舞われつつも、[gun1]は逃げる途中で一人の人間を助けた。しかし、その人間は低体温症で死亡してしまった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 423, "area_id": "2", "weight": 10, "tag_weight": "", 
-    "content": "小さな雪崩に見舞われつつも、[gun1]は逃げる途中で一人の人間を助けた。しかし、その人間は暫くしない内に昏睡状態へ陥り、医療隊に引き渡した後も目を覚まさなかった。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2"
+    "content": "小さな雪崩に見舞われつつも、[gun1]は逃げる途中で一人の人間を助けた。しかし、その人間は暫くしない内に昏睡状態へ陥り、医療隊に引き渡した後も目を覚まさなかった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 424, "area_id": "2", "weight": 10, "tag_weight": "", 
     "content": "小さな雪崩に見舞われつつも、[gun1]は逃げる途中で一人の人間を助けた。その人間の状態は非常に良好で、部隊が安全区域に到着するまでずっと会話をし続けた上に、[gun1]との連絡先の交換を試みていた。", 
     "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
-    "id": 425, "area_id": "2", "weight": 0, "tag_weight": "50:20", "content": "[gun1:50]は酔っ払って雪原に突っ込んでしまい、危うくフリーズしかけた。", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 425, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
+    "content": "[gun1:50]は酔っ払って雪原に突っ込んでしまい、危うくフリーズしかけた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 426, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は酔っ払って雪原の上でサンバを踊った。あまりの見事なダンスにさすがの[pet1]も唖然とした。", "necessary_num": "1,1", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:50]は酔っ払って雪原の上でサンバを踊った。あまりの見事なダンスにさすがの[pet1]も唖然とした。", 
+    "necessary_num": "1,1", "background": "", "script_type": "2"
   }, {
     "id": 427, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]が酔っ払って雪原の中に埋めた爆薬が、潜んでいた敵の伏兵を思いがけず爆発させた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:50]が酔っ払って雪原の中に埋めた爆薬が、潜んでいた敵の伏兵を思いがけず爆発させた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 428, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]が酔っ払って雪の中に埋めた爆薬が小さな雪崩を引き起こし、それによって部隊が全滅しかけた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:50]が酔っ払って雪の中に埋めた爆薬が小さな雪崩を引き起こし、それによって部隊が全滅しかけた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 429, "area_id": "2", "weight": 0, "tag_weight": "40:20", 
-    "content": "[gun1:40]が雪崩の予兆に気づき、隊友と協力し、区域内にいる全ての人形と人間の避難を終わらせたことで、被害者の発生を未然に防いだ。", "necessary_num": "3,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:40]が雪崩の予兆に気づき、隊友と協力し、区域内にいる全ての人形と人間の避難を終わらせたことで、被害者の発生を未然に防いだ。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 430, "area_id": "2", "weight": -20, "tag_weight": "79:20,81:20", 
-    "content": "[gun2:81]は、[gun1:79]の言った事を信じ、雪が降る中荘園の探索を行ったが、何も得られず、仕舞いには身体を分厚い雪で覆われる羽目になった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun2:81]は、[gun1:79]の言った事を信じ、雪が降る中荘園の探索を行ったが、何も得られず、仕舞いには身体を分厚い雪で覆われる羽目になった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 431, "area_id": "2", "weight": 0, "tag_weight": "69:20", 
-    "content": "寒さで[gun1:69]の思考が鈍くなってしまったため、隊員と彼女との話し合いは長引くことになった。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "寒さで[gun1:69]の思考が鈍くなってしまったため、隊員と彼女との話し合いは長引くことになった。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 432, "area_id": "2", "weight": 0, "tag_weight": "10:20", 
-    "content": "[gun1:10]は、氷の壁の中で凍り付いている人形を見つけた。これも世界から自分を隔絶する方法の一つなのかと感心しつつ、彼女は人形の救助を始めた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:10]は、氷の壁の中で凍り付いている人形を見つけた。これも世界から自分を隔絶する方法の一つなのかと感心しつつ、彼女は人形の救助を始めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 433, "area_id": "2", "weight": 10, "tag_weight": "", "content": "夜中、[gun1]がテントから出ると、月光に照らされた雪原が銀色に光っているのが目に入った。", 
+    "id": 433, "area_id": "2", "weight": 10, "tag_weight": "", 
+    "content": "夜中、[gun1]がテントから出ると、月光に照らされた雪原が銀色に光っているのが目に入った。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 434, "area_id": "2", "weight": 0, "tag_weight": "51:20", 
-    "content": "[gun1:51]は雪の真ん中にそのまま座り、一晩中月の光を眺め続けた。翌朝、隊員が見つけた頃には、彼女はフリーズしてしまっていた。", "necessary_num": "3,0", 
+    "content": "[gun1:51]は雪の真ん中にそのまま座り、一晩中月の光を眺め続けた。翌朝、隊員が見つけた頃には、彼女はフリーズしてしまっていた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
+  }, {
+    "id": 435, "area_id": "2", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は皆とスキーをし、何度か転びつつも、存分にスキーを楽しんだ。", "necessary_num": "3,0", 
     "background": "", "script_type": "2"
   }, {
-    "id": 435, "area_id": "2", "weight": 10, "tag_weight": "", "content": "[gun1]は皆とスキーをし、何度か転びつつも、存分にスキーを楽しんだ。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
-  }, {
-    "id": 436, "area_id": "2", "weight": 10, "tag_weight": "", "content": "[gun1]は皆とスキーをし、何度か転んだ後、腹を立ててスキーをやめた。", 
-    "necessary_num": "3,0", "background": "", "script_type": "2"
+    "id": 436, "area_id": "2", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は皆とスキーをし、何度か転んだ後、腹を立ててスキーをやめた。", "necessary_num": "3,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 437, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は酒を飲んだばかりにも関わらず、スキー板に乗ってしまったため、その場で十数回の回転を経た後、思いっきり転んだ。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2,801"
+    "content": "[gun1:50]は酒を飲んだばかりにも関わらず、スキー板に乗ってしまったため、その場で十数回の回転を経た後、思いっきり転んだ。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,801"
   }, {
     "id": 438, "area_id": "2", "weight": 0, "tag_weight": "50:20", 
-    "content": "[gun1:50]は酒を飲んだばかりにも関わらず、スキー板に乗ってしまったが、下り坂で難易度の高い技の挑戦に成功した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:50]は酒を飲んだばかりにも関わらず、スキー板に乗ってしまったが、下り坂で難易度の高い技の挑戦に成功した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 439, "area_id": "2", "weight": -20, "tag_weight": "67:20,67:20", 
-    "content": "[gun1:67]と[gun2:67]は出会うや否やスキーで勝負を始め、その結果雪原の中を迷う羽目になった。", "necessary_num": "2,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:67]と[gun2:67]は出会うや否やスキーで勝負を始め、その結果雪原の中を迷う羽目になった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 440, "area_id": "2", "weight": 0, "tag_weight": "57:20", 
-    "content": "[gun1:57]は、自分の天性の強みを活かして、雪地で他の人形たちとかくれんぼをしていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:57]は、自分の天性の強みを活かして、雪地で他の人形たちとかくれんぼをしていた。", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 441, "area_id": "2", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]はうっかり転んでしまったついでに、その辺にあった雪を他人に気付かれないうちに何口か食べた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2,801"
+    "content": "[gun1:5]はうっかり転んでしまったついでに、その辺にあった雪を他人に気付かれないうちに何口か食べた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2,801"
   }, {
     "id": 442, "area_id": "4", "weight": 0, "tag_weight": "39:20", 
-    "content": "[gun1:39]はおかしな言動をする人間に遭遇した。この人間が感染されているのではないかと疑い、小隊は歩みを速めた。", "necessary_num": "3,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:39]はおかしな言動をする人間に遭遇した。この人間が感染されているのではないかと疑い、小隊は歩みを速めた。", 
+    "necessary_num": "3,0", "background": "", "script_type": "2"
   }, {
     "id": 443, "area_id": "4", "weight": 0, "tag_weight": "68:20", 
-    "content": "[gun1:68]はおかしな言動をする人間に遭遇した。巧みな会話術を用い、彼女は相手と楽しくおしゃべりをした。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:68]はおかしな言動をする人間に遭遇した。巧みな会話術を用い、彼女は相手と楽しくおしゃべりをした。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 444, "area_id": "4", "weight": 10, "tag_weight": "", 
     "content": "[gun1]一人のけが人を救助した。相手は自分を放射線物理学者と名乗り、汚染区の状況を変えたいと言った。別れに際して、放射線物理学者は10年以内に皆に結果を見せると約束した。", 
@@ -1605,58 +1753,59 @@
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 447, "area_id": "4", "weight": 10, "tag_weight": "", 
-    "content": "ボロボロの服を着た一人の人間が[gun1]を引き留め、放射線こそが世界の救世主であるという持論を彼女に提唱し始めた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "ボロボロの服を着た一人の人間が[gun1]を引き留め、放射線こそが世界の救世主であるという持論を彼女に提唱し始めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 448, "area_id": "1,4", "weight": 0, "tag_weight": "82:20", 
-    "content": "[gun1:82]は、読んでいた本から偶然トロッコ問題について学んだ。そんなことが自分の身に永遠に降らないようにと彼女は願った。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:82]は、読んでいた本から偶然トロッコ問題について学んだ。そんなことが自分の身に永遠に降らないようにと彼女は願った。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 449, "area_id": "1,4", "weight": 0, "tag_weight": "40:20", 
-    "content": "[gun1:40]は、読んでいた本から偶然トロッコ問題について学んだ。自分なら全員を救うことが出来るだろうと彼女は考えた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:40]は、読んでいた本から偶然トロッコ問題について学んだ。自分なら全員を救うことが出来るだろうと彼女は考えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 450, "area_id": "1,4", "weight": 0, "tag_weight": "32:20", 
-    "content": "[gun1:32]は、3トンもあるロードローラーの残骸を何らかの方法で退かし、進路を切り拓いた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:32]は、3トンもあるロードローラーの残骸を何らかの方法で退かし、進路を切り拓いた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 451, "area_id": "4", "weight": -20, "tag_weight": "79:20.81:20", 
-    "content": "[gun2:81]は、[gun1:79]の言うことを信じ、荒野の中地図を基に黄金を探したが、何も得られず、仕舞いにはサボテンにぶつかってしまった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun2:81]は、[gun1:79]の言うことを信じ、荒野の中地図を基に黄金を探したが、何も得られず、仕舞いにはサボテンにぶつかってしまった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 452, "area_id": "4", "weight": 0, "tag_weight": "10:20", 
-    "content": "[gun1:10]は、読んでいた本から偶然トロッコ問題について学んだ。初期化した後、荒野に消えてしまいたいとの思いが彼女に芽生えた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 453, "area_id": "4", "weight": 0, "tag_weight": "19:20", "content": "[gun1:19]は今、荒野の中心で全力で叫んでいる。", 
+    "content": "[gun1:10]は、読んでいた本から偶然トロッコ問題について学んだ。初期化した後、荒野に消えてしまいたいとの思いが彼女に芽生えた。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 453, "area_id": "4", "weight": 0, "tag_weight": "19:20", 
+    "content": "[gun1:19]は今、荒野の中心で全力で叫んでいる。", "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 454, "area_id": "4", "weight": -20, "tag_weight": "19:20,10:20", 
-    "content": "隣で全力で叫んでいる[gun1:19]を見て、うるさいと感じつつも、彼女の真っ直ぐな一面を羨ましく思う[gun2:10]なのであった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "隣で全力で叫んでいる[gun1:19]を見て、うるさいと感じつつも、彼女の真っ直ぐな一面を羨ましく思う[gun2:10]なのであった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 455, "area_id": "4", "weight": 0, "tag_weight": "9:20", 
-    "content": "[gun1:9]は一人荒野の上に立ち、タンブルウィードのような物体が彼女の傍を横切っていくのを眺めていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 456, "area_id": "4", "weight": 10, "tag_weight": "", "content": "丘の頂上まで登り山谷を一望した時、遠くに湖があるのを[gun1]は見つけた。", 
+    "content": "[gun1:9]は一人荒野の上に立ち、タンブルウィードのような物体が彼女の傍を横切っていくのを眺めていた。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 457, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女の下に一人の子供が駆け寄って来た。その子供は興味深そうに彼女のことを見ていた。", "necessary_num": "1,0", 
+    "id": 456, "area_id": "4", "weight": 10, "tag_weight": "", 
+    "content": "丘の頂上まで登り山谷を一望した時、遠くに湖があるのを[gun1]は見つけた。", "necessary_num": "1,0", 
     "background": "", "script_type": "2"
+  }, {
+    "id": 457, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女の下に一人の子供が駆け寄って来た。その子供は興味深そうに彼女のことを見ていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 458, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]がショッピングセンターの入口で持ち物の検査を受けていた時、一人の子供が、広告のチラシで作った紙飛行機を飛ばして遊ぼうとして、警備員に止められた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1]がショッピングセンターの入口で持ち物の検査を受けていた時、一人の子供が、広告のチラシで作った紙飛行機を飛ばして遊ぼうとして、警備員に止められた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 459, "area_id": "1", "weight": 0, "tag_weight": "41:20", 
-    "content": "[gun1:41]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女をおずおずと覗く一人の子供の姿があったが、怖がって近づくことはなかった。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:41]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女をおずおずと覗く一人の子供の姿があったが、怖がって近づくことはなかった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 460, "area_id": "1", "weight": 0, "tag_weight": "34:20", 
-    "content": "[gun1:34]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女の下に一人の子供が駆け寄ってきたが、彼女の醸し出す雰囲気に驚いて逃げ出した。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:34]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女の下に一人の子供が駆け寄ってきたが、彼女の醸し出す雰囲気に驚いて逃げ出した。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 461, "area_id": "1", "weight": 0, "tag_weight": "8:20", 
     "content": "[gun1:8]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女の下に一人の子供が駆け寄って来た。その子供の母親は彼女が人形だと気づくまで、彼女たちは交流を楽しんだ。", 
@@ -1666,81 +1815,85 @@
     "content": "[gun1:29]がショッピングセンターの入口で持ち物の検査を受けていた時、彼女は子供たちのグループが走り回って遊んでいるのを目にした。しばらく観察した後、[gun2:39]とこれらの人間の子供の行動論理が似ていることに気付いた。", 
     "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
-    "id": 463, "area_id": "1", "weight": 0, "tag_weight": "28:20", "content": "[gun1:28]は、アイドルとの握手会に参加するため、作業効率を倍にして働いた！", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 463, "area_id": "1", "weight": 0, "tag_weight": "28:20", 
+    "content": "[gun1:28]は、アイドルとの握手会に参加するため、作業効率を倍にして働いた！", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
-    "id": 464, "area_id": "1", "weight": 0, "tag_weight": "15:20", "content": "[gun1:15]は、アイドルとの握手会に参加するため、仕事をサボり始めた！", 
-    "necessary_num": "1,0", "background": "", "script_type": "2"
+    "id": 464, "area_id": "1", "weight": 0, "tag_weight": "15:20", 
+    "content": "[gun1:15]は、アイドルとの握手会に参加するため、仕事をサボり始めた！", "necessary_num": "1,0", 
+    "background": "", "script_type": "2"
   }, {
     "id": 465, "area_id": "1", "weight": 0, "tag_weight": "15:20", 
-    "content": "[gun1:15]は、アイドルとの握手会に参加するため、半月分もの給与を費やしてダフ屋からチケットを購入した。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 466, "area_id": "1", "weight": 0, "tag_weight": "55:20,27:20", 
-    "content": "就業時間が過ぎているにも関わらず、防御プログラムをより早く完成させるため、[gun1:55,27]は仕事を続けた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
-  }, {
-    "id": 467, "area_id": "1", "weight": 0, "tag_weight": "82:20", 
-    "content": "[gun1:82]は、本当の正義の何たるかを知るため《バーニングフィーバー》シリーズの新作《バーニングフィーバーレンジャー》を見始めた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 468, "area_id": "1", "weight": 0, "tag_weight": "82:20", 
-    "content": "[gun1:82]は有り金を全てはたいて《バーニングフィーバー》シリーズのプラモを購入したが、果たして本当の正義がこのシリーズにはあるのかと疑い始めた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 469, "area_id": "1", "weight": 0, "tag_weight": "67:20", 
-    "content": "最近流行っている小型リング状のフィットネスデバイスを使った運動では、自分の望む運動量は得られないだろうと、[gun1:67]は考えた。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
-  }, {
-    "id": 470, "area_id": "1", "weight": 0, "tag_weight": "61:20", "content": "[gun1:61]は今日の占いの結果を見た後、取り乱し始めた……", 
+    "content": "[gun1:15]は、アイドルとの握手会に参加するため、半月分もの給与を費やしてダフ屋からチケットを購入した。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
+    "id": 466, "area_id": "1", "weight": 0, "tag_weight": "55:20,27:20", 
+    "content": "就業時間が過ぎているにも関わらず、防御プログラムをより早く完成させるため、[gun1:55,27]は仕事を続けた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 467, "area_id": "1", "weight": 0, "tag_weight": "82:20", 
+    "content": "[gun1:82]は、本当の正義の何たるかを知るため《バーニングフィーバー》シリーズの新作《バーニングフィーバーレンジャー》を見始めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 468, "area_id": "1", "weight": 0, "tag_weight": "82:20", 
+    "content": "[gun1:82]は有り金を全てはたいて《バーニングフィーバー》シリーズのプラモを購入したが、果たして本当の正義がこのシリーズにはあるのかと疑い始めた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 469, "area_id": "1", "weight": 0, "tag_weight": "67:20", 
+    "content": "最近流行っている小型リング状のフィットネスデバイスを使った運動では、自分の望む運動量は得られないだろうと、[gun1:67]は考えた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
+  }, {
+    "id": 470, "area_id": "1", "weight": 0, "tag_weight": "61:20", 
+    "content": "[gun1:61]は今日の占いの結果を見た後、取り乱し始めた……", "necessary_num": "1,0", "background": "", 
+    "script_type": "2"
+  }, {
     "id": 471, "area_id": "1", "weight": 0, "tag_weight": "65:20", 
-    "content": "[gun1:65]は[gun2]からハイエンドモデルのヘッドフォンを借りた。付けた瞬間、彼女はまるで天の声でも聴いたかのような心地になった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:65]は[gun2]からハイエンドモデルのヘッドフォンを借りた。付けた瞬間、彼女はまるで天の声でも聴いたかのような心地になった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 472, "area_id": "1", "weight": 0, "tag_weight": "22:20", 
-    "content": "[gun1:22]は[gun2]からハイエンドモデルのヘッドフォンを借りた。しかし、彼女には一般的なヘッドフォンとの違いがわからなかった。", "necessary_num": "2,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:22]は[gun2]からハイエンドモデルのヘッドフォンを借りた。しかし、彼女には一般的なヘッドフォンとの違いがわからなかった。", 
+    "necessary_num": "2,0", "background": "", "script_type": "2"
   }, {
     "id": 473, "area_id": "1", "weight": 0, "tag_weight": "16:20", 
-    "content": "直近の任務の給料日が尽くクレジットカードの返済日の後へとなってしまったため、[gun1:16]は財政危機に陥った。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "直近の任務の給料日が尽くクレジットカードの返済日の後へとなってしまったため、[gun1:16]は財政危機に陥った。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 474, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は廃墟となった図書館を発見した。物資は見当たらなかったが、中には大量の本が残されていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は廃墟となった図書館を発見した。物資は見当たらなかったが、中には大量の本が残されていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 475, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は廃墟となった図書館を発見した。中は非常に清潔で本棚からもいい香りがしたが、肝心の本は一冊もなかった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は廃墟となった図書館を発見した。中は非常に清潔で本棚からもいい香りがしたが、肝心の本は一冊もなかった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 476, "area_id": "1", "weight": 10, "tag_weight": "", 
-    "content": "[gun1]は居住地へと改造された図書館を見つけた。そこでは、人々が本を薪代わりにして暖を取っていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1]は居住地へと改造された図書館を見つけた。そこでは、人々が本を薪代わりにして暖を取っていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 477, "area_id": "1", "weight": 0, "tag_weight": "14:20", 
-    "content": "[gun1:14]は廃墟となった図書館を発見し、そこで休憩することを提案したが、空が暗くなるまではまだまだかかりそうであった。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:14]は廃墟となった図書館を発見し、そこで休憩することを提案したが、空が暗くなるまではまだまだかかりそうであった。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 478, "area_id": "1", "weight": 0, "tag_weight": "14:20", 
-    "content": "[gun1:14]は廃墟となった図書館を発見し、そこでこっそりリュックを一杯にしたが、物資を探すことを完全に忘れてしまっていた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:14]は廃墟となった図書館を発見し、そこでこっそりリュックを一杯にしたが、物資を探すことを完全に忘れてしまっていた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
-    "id": 479, "area_id": "1", "weight": 10, "tag_weight": "", "content": "[gun1]は街のスラムで財布を盗まれ、犯人をしばらく探したが、見つけることはできなかった。", 
+    "id": 479, "area_id": "1", "weight": 10, "tag_weight": "", 
+    "content": "[gun1]は街のスラムで財布を盗まれ、犯人をしばらく探したが、見つけることはできなかった。", 
     "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 480, "area_id": "1", "weight": 0, "tag_weight": "40:20", 
-    "content": "[gun1:40]は街のスラムで財布を盗まれが、犯人を追いかけているうちに犯罪集団のアジトを見つけ、そこを壊滅させたことで、警察に表彰された。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:40]は街のスラムで財布を盗まれが、犯人を追いかけているうちに犯罪集団のアジトを見つけ、そこを壊滅させたことで、警察に表彰された。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 481, "area_id": "1", "weight": 0, "tag_weight": "5:20", 
-    "content": "[gun1:5]は街のスラムで物乞いに遭遇し、自分の昼のお弁当を相手に渡した。あまりの量に、その物乞いは持って帰って家族と分けると言った。", "necessary_num": "1,0", 
-    "background": "", "script_type": "2"
+    "content": "[gun1:5]は街のスラムで物乞いに遭遇し、自分の昼のお弁当を相手に渡した。あまりの量に、その物乞いは持って帰って家族と分けると言った。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 482, "area_id": "1", "weight": 0, "tag_weight": "73:20", 
-    "content": "[gun1:73]は街のスラムでイタズラ好きな子供に遭遇した。彼女は半日かけてその子供をしつけ、反省文を書かせた。", "necessary_num": "1,0", "background": "", 
-    "script_type": "2"
+    "content": "[gun1:73]は街のスラムでイタズラ好きな子供に遭遇した。彼女は半日かけてその子供をしつけ、反省文を書かせた。", 
+    "necessary_num": "1,0", "background": "", "script_type": "2"
   }, {
     "id": 483, "area_id": "3", "weight": -20, "tag_weight": "30:20,31:20", 
     "content": "[gun1:30]は奥の深い洞穴を見つけたので、探検してもらうために[gun2:31]を洞窟の中へと押し込んだ。その結果、[gun2:31]は恐怖のあまり大声で泣き叫んだ。", 

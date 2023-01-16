@@ -1,126 +1,131 @@
 [
   {
-    "establish_id": "10001", "establish_name": "救護室壁紙", "room_id": "1", "description": "救護室壁紙", "furniture_id": "40001", 
-    "update_furniture_id": "40001", "furniture_postion": "3,3", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "10001", "establish_name": "救護室壁紙", "room_id": "1", "description": "救護室壁紙", 
+    "furniture_id": "40001", "update_furniture_id": "40001", "furniture_postion": "3,3", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "10002", "establish_name": "救護室フロア", "room_id": "1", "description": "救護室フロア", "furniture_id": "40002", 
-    "update_furniture_id": "40002", "furniture_postion": "3,3", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "10002", "establish_name": "救護室フロア", "room_id": "1", "description": "救護室フロア", 
+    "furniture_id": "40002", "update_furniture_id": "40002", "furniture_postion": "3,3", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "10005", "establish_name": "赤十字", "room_id": "1", "description": "赤十字", "furniture_id": "40012", 
     "update_furniture_id": "40012", "furniture_postion": "9,10", "establish_type": "0", "establish_lv": "1", 
     "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
     "parameter_3": ""
   }, {
-    "establish_id": "10006", "establish_name": "半透明の額絵", "room_id": "1", "description": "半透明の額絵", "furniture_id": "40013", 
-    "update_furniture_id": "40013", "furniture_postion": "20,10", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "10006", "establish_name": "半透明の額絵", "room_id": "1", "description": "半透明の額絵", 
+    "furniture_id": "40013", "update_furniture_id": "40013", "furniture_postion": "20,10", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "10007", "establish_name": "救護室の照明", "room_id": "1", "description": "救護室の照明", "furniture_id": "40007", 
-    "update_furniture_id": "40007", "furniture_postion": "18,6", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "10007", "establish_name": "救護室の照明", "room_id": "1", "description": "救護室の照明", 
+    "furniture_id": "40007", "update_furniture_id": "40007", "furniture_postion": "18,6", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "10100", "establish_name": "埃だらけの作業台", "room_id": "1", 
-    "description": "長いこと使われていなかったらしい作業台。少し修繕すれば、荒地をさまよう動物たちの応急手当てに使えるだろう。", "furniture_id": "41010", 
-    "update_furniture_id": "41010", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "0", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "長いこと使われていなかったらしい作業台。少し修繕すれば、荒地をさまよう動物たちの応急手当てに使えるだろう。", 
+    "furniture_id": "41010", "update_furniture_id": "41010", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "0", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10101", "establish_name": "簡易作業台", "room_id": "1", 
-    "description": "視力の悪い指揮官のために顕微鏡を設置し、医学の調べものに便利なコンピューターまでついてある。もちろん、手術前の手洗いと消毒は忘れずにね。", "furniture_id": "41011", 
-    "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "1", 
-    "upgrade_coin": "10", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "0", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "視力の悪い指揮官のために顕微鏡を設置し、医学の調べものに便利なコンピューターまでついてある。もちろん、手術前の手洗いと消毒は忘れずにね。", 
+    "furniture_id": "41011", "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "1", "upgrade_coin": "10", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "0", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10102", "establish_name": "簡易作業台", "room_id": "1", 
-    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", "furniture_id": "41011", 
-    "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "2", 
-    "upgrade_coin": "75", "upgrade_time": "300", "upgrade_condition": "10201,10301", "parameter_1": "0", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", 
+    "furniture_id": "41011", "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "2", "upgrade_coin": "75", "upgrade_time": "300", "upgrade_condition": "10201,10301", "parameter_1": "0", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10103", "establish_name": "簡易作業台", "room_id": "1", 
-    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", "furniture_id": "41011", 
-    "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "3", 
-    "upgrade_coin": "150", "upgrade_time": "1800", "upgrade_condition": "10202,10302", "parameter_1": "0", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", 
+    "furniture_id": "41011", "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "3", "upgrade_coin": "150", "upgrade_time": "1800", "upgrade_condition": "10202,10302", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10104", "establish_name": "簡易作業台", "room_id": "1", 
-    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", "furniture_id": "41011", 
-    "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "4", 
-    "upgrade_coin": "225", "upgrade_time": "3600", "upgrade_condition": "10203,10303", "parameter_1": "0", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", 
+    "furniture_id": "41011", "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "4", "upgrade_coin": "225", "upgrade_time": "3600", "upgrade_condition": "10203,10303", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10105", "establish_name": "簡易作業台", "room_id": "1", 
-    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", "furniture_id": "41011", 
-    "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "5", 
-    "upgrade_coin": "300", "upgrade_time": "7200", "upgrade_condition": "10204,10304", "parameter_1": "0", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "視力の悪い指揮官のために顕微鏡を設置。また、コンピューターは医学資料を調べるのに便利。手術前には手洗い・消毒を忘れずに。", 
+    "furniture_id": "41011", "update_furniture_id": "41011", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "5", "upgrade_coin": "300", "upgrade_time": "7200", "upgrade_condition": "10204,10304", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10106", "establish_name": "多機能作業台", "room_id": "1", 
-    "description": "レベルアップした作業台には先進的な生体情報モニターが設置され、より高度な手術が可能になった。", "furniture_id": "41012", "update_furniture_id": "41012", 
-    "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "6", "upgrade_coin": "375", "upgrade_time": "14400", 
-    "upgrade_condition": "10205,10305", "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
+    "description": "レベルアップした作業台には先進的な生体情報モニターが設置され、より高度な手術が可能になった。", 
+    "furniture_id": "41012", "update_furniture_id": "41012", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "6", "upgrade_coin": "375", "upgrade_time": "14400", "upgrade_condition": "10205,10305", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10107", "establish_name": "多機能作業台", "room_id": "1", 
-    "description": "レベルアップした作業台には高度なモニターシステムが設置され、難易度の高い手術が可能に。", "furniture_id": "41012", "update_furniture_id": "41012", 
-    "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "7", "upgrade_coin": "525", "upgrade_time": "28800", 
-    "upgrade_condition": "10206,10306", "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
+    "description": "レベルアップした作業台には高度なモニターシステムが設置され、難易度の高い手術が可能に。", 
+    "furniture_id": "41012", "update_furniture_id": "41012", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "7", "upgrade_coin": "525", "upgrade_time": "28800", "upgrade_condition": "10206,10306", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10108", "establish_name": "多機能作業台", "room_id": "1", 
-    "description": "レベルアップした作業台には高度なモニターシステムが設置され、難易度の高い手術が可能に。", "furniture_id": "41012", "update_furniture_id": "41012", 
-    "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "8", "upgrade_coin": "675", "upgrade_time": "43200", 
-    "upgrade_condition": "10207,10307", "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
+    "description": "レベルアップした作業台には高度なモニターシステムが設置され、難易度の高い手術が可能に。", 
+    "furniture_id": "41012", "update_furniture_id": "41012", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "8", "upgrade_coin": "675", "upgrade_time": "43200", "upgrade_condition": "10207,10307", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10109", "establish_name": "多機能作業台", "room_id": "1", 
-    "description": "レベルアップした作業台には高度なモニターシステムが設置され、難易度の高い手術が可能に。", "furniture_id": "41012", "update_furniture_id": "41012", 
-    "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "9", "upgrade_coin": "900", "upgrade_time": "64800", 
-    "upgrade_condition": "10208,10308", "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
+    "description": "レベルアップした作業台には高度なモニターシステムが設置され、難易度の高い手術が可能に。", 
+    "furniture_id": "41012", "update_furniture_id": "41012", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "9", "upgrade_coin": "900", "upgrade_time": "64800", "upgrade_condition": "10208,10308", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10110", "establish_name": "アドバンス・マルチ作業台", "room_id": "1", 
-    "description": "グリフィンの中でも最先端をいく作業台。大型の無影灯や自動手術ツールを備えており、動物はもちろん、負傷した指揮官の治療も行える。", "furniture_id": "41013", 
-    "update_furniture_id": "41013", "furniture_postion": "6,8", "establish_type": "101", "establish_lv": "10", 
-    "upgrade_coin": "1200", "upgrade_time": "86400", "upgrade_condition": "10209,10309", "parameter_1": "0", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "グリフィンの中でも最先端をいく作業台。大型の無影灯や自動手術ツールを備えており、動物はもちろん、負傷した指揮官の治療も行える。", 
+    "furniture_id": "41013", "update_furniture_id": "41013", "furniture_postion": "6,8", "establish_type": "101", 
+    "establish_lv": "10", "upgrade_coin": "1200", "upgrade_time": "86400", "upgrade_condition": "10209,10309", 
+    "parameter_1": "0", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "10200", "establish_name": "埃を被った猫用ケージ", "room_id": "1", 
-    "description": "誰かが置いていった古い猫用ケージ。軽く洗えばねこちゃんの休憩所になる。", "furniture_id": "41020", "update_furniture_id": "41020", 
-    "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
-    "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", "parameter_3": "0"
+    "description": "誰かが置いていった古い猫用ケージ。軽く洗えばねこちゃんの休憩所になる。", "furniture_id": "41020", 
+    "update_furniture_id": "41020", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "0", 
+    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", 
+    "parameter_3": "0"
   }, {
     "establish_id": "10201", "establish_name": "素朴な猫用ケージ", "room_id": "1", 
-    "description": "ちゃんと猫用ケージを用意したのに、ねこたちは弾薬をしまうダンボール箱の中で眠るほうが好みらしいことに、指揮官は気づく。「今すぐ箱をどかせ！」", "furniture_id": "41021", 
-    "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "10101", 
+    "description": "ちゃんと猫用ケージを用意したのに、ねこたちは弾薬をしまうダンボール箱の中で眠るほうが好みらしいことに、指揮官は気づく。「今すぐ箱をどかせ！」", 
+    "furniture_id": "41021", "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "10101", 
     "parameter_1": "0,600,600,600|40101,400,600,600", "parameter_2": "0,2101", "parameter_3": "0"
   }, {
     "establish_id": "10202", "establish_name": "素朴な猫用ケージ", "room_id": "1", 
-    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", "furniture_id": "41021", 
-    "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "10102", 
+    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", 
+    "furniture_id": "41021", "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "10102", 
     "parameter_1": "0,550,600,600|40101,360,600,600|40102,90,600,600", "parameter_2": "0,2101,2102", "parameter_3": "0"
   }, {
     "establish_id": "10203", "establish_name": "素朴な猫用ケージ", "room_id": "1", 
-    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", "furniture_id": "41021", 
-    "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "10103", 
+    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", 
+    "furniture_id": "41021", "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "10103", 
     "parameter_1": "0,500,600,600|40101,300,600,600|40102,200,600,600", "parameter_2": "0,2101,2102", "parameter_3": "0"
   }, {
     "establish_id": "10204", "establish_name": "素朴な猫用ケージ", "room_id": "1", 
-    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", "furniture_id": "41021", 
-    "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "10104", 
+    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", 
+    "furniture_id": "41021", "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "10104", 
     "parameter_1": "0,450,600,600|40101,300,600,600|40102,200,600,600|40103,600,600,600", "parameter_2": "0,2101,2102,2103", 
     "parameter_3": "0"
   }, {
     "establish_id": "10205", "establish_name": "素朴な猫用ケージ", "room_id": "1", 
-    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", "furniture_id": "41021", 
-    "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "10105", 
+    "description": "きちんと猫用ケージを用意したのに、指揮官は気づいてしまった。猫たちは弾薬の入っていた箱の中で眠るほうが好きらしい。「今すぐ箱を片付けろ！」", 
+    "furniture_id": "41021", "update_furniture_id": "41021", "furniture_postion": "22,9", "establish_type": "102", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "10105", 
     "parameter_1": "0,400,600,600|40101,285,600,600|40102,190,600,600|40103,125,600,600", "parameter_2": "0,2101,2102,2103", 
     "parameter_3": "0"
   }, {
@@ -153,86 +158,90 @@
     "parameter_2": "0,2101,2102,2103,2104,2105", "parameter_3": "0"
   }, {
     "establish_id": "10210", "establish_name": "大型猫ハウス", "room_id": "1", 
-    "description": "大きな猫のお城も空き家へとなり果て、指揮官はねこたちが中にいる僅かな間を狙って写真を撮り、シェアすることを覚えた「どうせ誰も知らないし。ヘッヘッヘ……」", "furniture_id": "41023", 
-    "update_furniture_id": "41023", "furniture_postion": "22,9", "establish_type": "102", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "10110", 
+    "description": "大きな猫のお城も空き家へとなり果て、指揮官はねこたちが中にいる僅かな間を狙って写真を撮り、シェアすることを覚えた「どうせ誰も知らないし。ヘッヘッヘ……」", 
+    "furniture_id": "41023", "update_furniture_id": "41023", "furniture_postion": "22,9", "establish_type": "102", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "10110", 
     "parameter_1": "0,350,600,600|40101,150,600,600|40102,200,600,600|40103,200,600,600|40104,100,600,600|40105,600,600,600|2028,100,600,600", 
     "parameter_2": "0,2101,2102,2103,2104,2105,3027", "parameter_3": "0"
   }, {
     "establish_id": "10300", "establish_name": "埃を被った犬用ケージ", "room_id": "1", 
-    "description": "誰かが置いていった犬用ケージ。軽く洗えば拾ってきたイヌの一時的な寝床にはなる。", "furniture_id": "41030", "update_furniture_id": "41030", 
-    "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
-    "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", "parameter_3": "0"
-  }, {
-    "establish_id": "10301", "establish_name": "質素な犬用ケージ", "room_id": "1", 
-    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", "furniture_id": "41031", "update_furniture_id": "41031", 
-    "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", 
-    "upgrade_condition": "10101", "parameter_1": "0,600,600,600|40201,400,600,600", "parameter_2": "0,2201", 
+    "description": "誰かが置いていった犬用ケージ。軽く洗えば拾ってきたイヌの一時的な寝床にはなる。", "furniture_id": "41030", 
+    "update_furniture_id": "41030", "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "0", 
+    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", 
     "parameter_3": "0"
   }, {
+    "establish_id": "10301", "establish_name": "質素な犬用ケージ", "room_id": "1", 
+    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", 
+    "furniture_id": "41031", "update_furniture_id": "41031", "furniture_postion": "13,2", "establish_type": "103", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "10101", 
+    "parameter_1": "0,600,600,600|40201,400,600,600", "parameter_2": "0,2201", "parameter_3": "0"
+  }, {
     "establish_id": "10302", "establish_name": "質素な犬用ケージ", "room_id": "1", 
-    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", "furniture_id": "41031", "update_furniture_id": "41031", 
-    "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", 
-    "upgrade_condition": "10102", "parameter_1": "0,550,600,600|40201,360,600,600|40202,90,600,600", 
-    "parameter_2": "0,2201,2202", "parameter_3": "0"
+    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", 
+    "furniture_id": "41031", "update_furniture_id": "41031", "furniture_postion": "13,2", "establish_type": "103", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "10102", 
+    "parameter_1": "0,550,600,600|40201,360,600,600|40202,90,600,600", "parameter_2": "0,2201,2202", "parameter_3": "0"
   }, {
     "establish_id": "10303", "establish_name": "質素な犬用ケージ", "room_id": "1", 
-    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", "furniture_id": "41031", "update_furniture_id": "41031", 
-    "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", 
-    "upgrade_condition": "10103", "parameter_1": "0,500,600,600|40201,300,600,600|40202,200,600,600", 
-    "parameter_2": "0,2201,2202", "parameter_3": "0"
+    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", 
+    "furniture_id": "41031", "update_furniture_id": "41031", "furniture_postion": "13,2", "establish_type": "103", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "10103", 
+    "parameter_1": "0,500,600,600|40201,300,600,600|40202,200,600,600", "parameter_2": "0,2201,2202", "parameter_3": "0"
   }, {
     "establish_id": "10304", "establish_name": "質素な犬用ケージ", "room_id": "1", 
-    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", "furniture_id": "41031", "update_furniture_id": "41031", 
-    "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", 
-    "upgrade_condition": "10104", "parameter_1": "0,450,600,600|40201,300,600,600|40202,200,600,600|40203,600,600,600", 
-    "parameter_2": "0,2201,2202,2203", "parameter_3": "0"
+    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", 
+    "furniture_id": "41031", "update_furniture_id": "41031", "furniture_postion": "13,2", "establish_type": "103", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "10104", 
+    "parameter_1": "0,450,600,600|40201,300,600,600|40202,200,600,600|40203,600,600,600", "parameter_2": "0,2201,2202,2203", 
+    "parameter_3": "0"
   }, {
     "establish_id": "10305", "establish_name": "質素な犬用ケージ", "room_id": "1", 
-    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", "furniture_id": "41031", "update_furniture_id": "41031", 
-    "furniture_postion": "13,2", "establish_type": "103", "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", 
-    "upgrade_condition": "10105", "parameter_1": "0,400,600,600|40201,285,600,600|40202,190,600,600|40203,125,600,600", 
-    "parameter_2": "0,2201,2202,2203", "parameter_3": "0"
+    "description": "誰が置いていったか分からない犬用ケージ。綺麗にすれば、一時的に保護した子犬が夜を過ごせる。", 
+    "furniture_id": "41031", "update_furniture_id": "41031", "furniture_postion": "13,2", "establish_type": "103", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "10105", 
+    "parameter_1": "0,400,600,600|40201,285,600,600|40202,190,600,600|40203,125,600,600", "parameter_2": "0,2201,2202,2203", 
+    "parameter_3": "0"
   }, {
     "establish_id": "10306", "establish_name": "自動ドア付き犬用ケージ", "room_id": "1", 
-    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアが開き、子犬を外遊びに出す。ただ、遊びに夢中の子を連れ戻すのは、やはり指揮官がやるしかない。", "furniture_id": "41032", 
-    "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "10106", 
+    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアが開き、子犬を外遊びに出す。ただ、遊びに夢中の子を連れ戻すのは、やはり指揮官がやるしかない。", 
+    "furniture_id": "41032", "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "10106", 
     "parameter_1": "0,400,600,600|40201,210,600,600|40202,210,600,600|40203,150,600,600|40204,30,600,600", 
     "parameter_2": "0,2201,2202,2203,2204", "parameter_3": "0"
   }, {
     "establish_id": "10307", "establish_name": "自動ドア付き犬用ケージ", "room_id": "1", 
-    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアを開けて子犬を外遊びに出す。ただし、遊びに興じている子犬を連れ戻すのは、やはり指揮官の仕事。", "furniture_id": "41032", 
-    "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "10107", 
+    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアを開けて子犬を外遊びに出す。ただし、遊びに興じている子犬を連れ戻すのは、やはり指揮官の仕事。", 
+    "furniture_id": "41032", "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "10107", 
     "parameter_1": "0,350,600,600|40201,210,600,600|40202,210,600,600|40203,150,600,600|40204,80,600,600", 
     "parameter_2": "0,2201,2202,2203,2204", "parameter_3": "0"
   }, {
     "establish_id": "10308", "establish_name": "自動ドア付き犬用ケージ", "room_id": "1", 
-    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアを開けて子犬を外遊びに出す。ただし、遊びに興じている子犬を連れ戻すのは、やはり指揮官の仕事。", "furniture_id": "41032", 
-    "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "10108", 
+    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアを開けて子犬を外遊びに出す。ただし、遊びに興じている子犬を連れ戻すのは、やはり指揮官の仕事。", 
+    "furniture_id": "41032", "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "10108", 
     "parameter_1": "0,350,600,600|40201,200,600,600|40202,210,600,600|40203,150,600,600|40204,80,600,600|40205,10,600,600", 
     "parameter_2": "0,2201,2202,2203,2204,2205", "parameter_3": "0"
   }, {
     "establish_id": "10309", "establish_name": "自動ドア付き犬用ケージ", "room_id": "1", 
-    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアを開けて子犬を外遊びに出す。ただし、遊びに興じている子犬を連れ戻すのは、やはり指揮官の仕事。", "furniture_id": "41032", 
-    "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "10109", 
+    "description": "レベルアップした犬用ケージ。毎日決まった時間に自動でドアを開けて子犬を外遊びに出す。ただし、遊びに興じている子犬を連れ戻すのは、やはり指揮官の仕事。", 
+    "furniture_id": "41032", "update_furniture_id": "41032", "furniture_postion": "11,2", "establish_type": "103", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "10109", 
     "parameter_1": "0,300,600,600|40201,200,600,600|40202,210,600,600|40203,175,600,600|40204,90,600,600|40205,25,600,600|40206,25,600,600", 
     "parameter_2": "0,2201,2202,2203,2204,2205,3049", "parameter_3": "0"
   }, {
     "establish_id": "10310", "establish_name": "犬用保護ステーション", "room_id": "1", 
-    "description": "最高級の犬用ケージ。イヌの健康管理システム付きで、虫歯からチョコの誤食に至るまでをすぐに発見するため、イヌたちはプライバシーがないと嘆いている。", "furniture_id": "41033", 
-    "update_furniture_id": "41033", "furniture_postion": "8,2", "establish_type": "103", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "10110", 
+    "description": "最高級の犬用ケージ。イヌの健康管理システム付きで、虫歯からチョコの誤食に至るまでをすぐに発見するため、イヌたちはプライバシーがないと嘆いている。", 
+    "furniture_id": "41033", "update_furniture_id": "41033", "furniture_postion": "8,2", "establish_type": "103", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "10110", 
     "parameter_1": "0,350,600,600|40201,150,600,600|40202,200,600,600|40203,200,600,600|40204,100,600,600|40205,600,600,600|40206,100,600,600|2018,100,600,600|2003,100,600,600|2042,100,600,600", 
     "parameter_2": "0,2201,2202,2203,2204,2205,3049,3024,2206,3053", "parameter_3": "0"
   }, {
     "establish_id": "10400", "establish_name": "埃を被った止まり木", "room_id": "1", 
-    "description": "誰かが置いていった止まり木。錆を落とせば鳥が止まりに来てくれるかも。", "furniture_id": "41040", "update_furniture_id": "41040", 
-    "furniture_postion": "28,3", "establish_type": "104", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
-    "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", "parameter_3": "0"
+    "description": "誰かが置いていった止まり木。錆を落とせば鳥が止まりに来てくれるかも。", "furniture_id": "41040", 
+    "update_furniture_id": "41040", "furniture_postion": "28,3", "establish_type": "104", "establish_lv": "0", 
+    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", 
+    "parameter_3": "0"
   }, {
     "establish_id": "10401", "establish_name": "質素な止まり木", "room_id": "1", 
     "description": "止まり木を設置して鳥を飼い始めてからというものの、指揮官が頻繁に鳩に独り言を言いに来るようになった。人形たちの間では、指揮官が定年で退役した将官みたいになってしまったとまことしやかに囁かれている。", 
@@ -302,67 +311,68 @@
     "parameter_2": "0,3033,3034,3035,3036,3037,3039", "parameter_3": "0"
   }, {
     "establish_id": "10500", "establish_name": "埃を被った多機能恒温ボックス", "room_id": "1", 
-    "description": "誰かが置いていった水槽。軽く洗えば不思議な小動物が飼えるかも。", "furniture_id": "41050", "update_furniture_id": "41050", 
-    "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
-    "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", "parameter_3": "0"
+    "description": "誰かが置いていった水槽。軽く洗えば不思議な小動物が飼えるかも。", "furniture_id": "41050", 
+    "update_furniture_id": "41050", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "0", 
+    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "0,1000,600,600", "parameter_2": "0", 
+    "parameter_3": "0"
   }, {
     "establish_id": "10501", "establish_name": "簡素な多機能恒温ボックス", "room_id": "1", 
-    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", "furniture_id": "41051", 
-    "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "10101", 
+    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", 
+    "furniture_id": "41051", "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "10101", 
     "parameter_1": "0,600,600,600|40501,400,600,600", "parameter_2": "0,3044", "parameter_3": "0"
   }, {
     "establish_id": "10502", "establish_name": "簡素な多機能恒温ボックス", "room_id": "1", 
-    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", "furniture_id": "41051", 
-    "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "10102", 
+    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", 
+    "furniture_id": "41051", "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "10102", 
     "parameter_1": "0,550,600,600|40501,360,600,600|40502,90,600,600", "parameter_2": "0,3044,3045", "parameter_3": "0"
   }, {
     "establish_id": "10503", "establish_name": "簡素な多機能恒温ボックス", "room_id": "1", 
-    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", "furniture_id": "41051", 
-    "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "10103", 
+    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", 
+    "furniture_id": "41051", "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "10103", 
     "parameter_1": "0,500,600,600|40501,300,600,600|40502,200,600,600", "parameter_2": "0,3044,3045", "parameter_3": "0"
   }, {
     "establish_id": "10504", "establish_name": "簡素な多機能恒温ボックス", "room_id": "1", 
-    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", "furniture_id": "41051", 
-    "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "10104", 
+    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", 
+    "furniture_id": "41051", "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "10104", 
     "parameter_1": "0,450,600,600|40501,300,600,600|40502,200,600,600|40503,50,600,600", "parameter_2": "0,3044,3045,3046", 
     "parameter_3": "0"
   }, {
     "establish_id": "10505", "establish_name": "簡素な多機能恒温ボックス", "room_id": "1", 
-    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", "furniture_id": "41051", 
-    "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "10105", 
+    "description": "内部に加熱、保温機能が備わっており、底にはやわらかい干し草が敷き詰めてある。小さな動物が中に潜り込んだり出たりするのに最適。", 
+    "furniture_id": "41051", "update_furniture_id": "41051", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "10105", 
     "parameter_1": "0,400,600,600|40501,285,600,600|40502,190,600,600|40503,125,600,600", "parameter_2": "0,3044,3045,3046", 
     "parameter_3": "0"
   }, {
     "establish_id": "10506", "establish_name": "多機能恒温遊び場", "room_id": "1", 
-    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", "furniture_id": "41052", 
-    "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "10106", 
+    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", 
+    "furniture_id": "41052", "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "10106", 
     "parameter_1": "0,400,600,600|40501,210,600,600|40502,210,600,600|40503,150,600,600|40504,30,600,600", 
     "parameter_2": "0,3044,3045,3046,3047", "parameter_3": "0"
   }, {
     "establish_id": "10507", "establish_name": "多機能恒温遊び場", "room_id": "1", 
-    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", "furniture_id": "41052", 
-    "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "10107", 
+    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", 
+    "furniture_id": "41052", "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "10107", 
     "parameter_1": "0,350,600,600|40501,210,600,600|40502,210,600,600|40503,150,600,600|40504,80,600,600", 
     "parameter_2": "0,3044,3045,3046,3047", "parameter_3": "0"
   }, {
     "establish_id": "10508", "establish_name": "多機能恒温遊び場", "room_id": "1", 
-    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", "furniture_id": "41052", 
-    "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "10108", 
+    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", 
+    "furniture_id": "41052", "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "10108", 
     "parameter_1": "0,350,600,600|40501,200,600,600|40502,210,600,600|40503,150,600,600|40504,80,600,600|40505,10,600,600", 
     "parameter_2": "0,3044,3045,3046,3047,3048", "parameter_3": "0"
   }, {
     "establish_id": "10509", "establish_name": "多機能恒温遊び場", "room_id": "1", 
-    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", "furniture_id": "41052", 
-    "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "10109", 
+    "description": "基本的な物欲が満たされた指揮官は、精神修養における小動物の重要性を意識し始めた。そして彼は楽しみながら学ぶため、各種ミニチュアの遊具を作り出したのであった。", 
+    "furniture_id": "41052", "update_furniture_id": "41052", "furniture_postion": "19,2", "establish_type": "105", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "10109", 
     "parameter_1": "0,300,600,600|40501,200,600,600|40502,210,600,600|40503,175,600,600|40504,90,600,600|40505,25,600,600", 
     "parameter_2": "0,3044,3045,3046,3047,3048", "parameter_3": "0"
   }, {
@@ -373,324 +383,330 @@
     "parameter_1": "0,300,600,600|40501,150,600,600|40502,200,600,600|40503,200,600,600|40504,100,600,600|40505,50,600,600", 
     "parameter_2": "0,3044,3045,3046,3047,3048", "parameter_3": "0"
   }, {
-    "establish_id": "20001", "establish_name": "データルーム壁紙", "room_id": "2", "description": "データルームデフォルト壁紙", 
-    "furniture_id": "40003", "update_furniture_id": "40003", "furniture_postion": "2,2", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20001", "establish_name": "データルーム壁紙", "room_id": "2", 
+    "description": "データルームデフォルト壁紙", "furniture_id": "40003", "update_furniture_id": "40003", 
+    "furniture_postion": "2,2", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20002", "establish_name": "データルームフロア", "room_id": "2", "description": "データルームデフォルトフロア", 
-    "furniture_id": "40004", "update_furniture_id": "40004", "furniture_postion": "2,2", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20002", "establish_name": "データルームフロア", "room_id": "2", 
+    "description": "データルームデフォルトフロア", "furniture_id": "40004", "update_furniture_id": "40004", 
+    "furniture_postion": "2,2", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20003", "establish_name": "データルーム電線1", "room_id": "2", "description": "furniture_establish-20020003", 
-    "furniture_id": "40005", "update_furniture_id": "40005", "furniture_postion": "17,4", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20003", "establish_name": "データルーム電線1", "room_id": "2", 
+    "description": "furniture_establish-20020003", "furniture_id": "40005", "update_furniture_id": "40005", 
+    "furniture_postion": "17,4", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20004", "establish_name": "データルーム電線2", "room_id": "2", "description": "furniture_establish-20020004", 
-    "furniture_id": "40006", "update_furniture_id": "40006", "furniture_postion": "27,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20004", "establish_name": "データルーム電線2", "room_id": "2", 
+    "description": "furniture_establish-20020004", "furniture_id": "40006", "update_furniture_id": "40006", 
+    "furniture_postion": "27,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20005", "establish_name": "データルーム照明1", "room_id": "2", "description": "furniture_establish-20020005", 
-    "furniture_id": "40007", "update_furniture_id": "40007", "furniture_postion": "8,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20005", "establish_name": "データルーム照明1", "room_id": "2", 
+    "description": "furniture_establish-20020005", "furniture_id": "40007", "update_furniture_id": "40007", 
+    "furniture_postion": "8,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20006", "establish_name": "データルーム照明2", "room_id": "2", "description": "furniture_establish-20020006", 
-    "furniture_id": "40007", "update_furniture_id": "40007", "furniture_postion": "17,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20006", "establish_name": "データルーム照明2", "room_id": "2", 
+    "description": "furniture_establish-20020006", "furniture_id": "40007", "update_furniture_id": "40007", 
+    "furniture_postion": "17,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20007", "establish_name": "データルーム照明3", "room_id": "2", "description": "furniture_establish-20020007", 
-    "furniture_id": "40007", "update_furniture_id": "40007", "furniture_postion": "26,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20007", "establish_name": "データルーム照明3", "room_id": "2", 
+    "description": "furniture_establish-20020007", "furniture_id": "40007", "update_furniture_id": "40007", 
+    "furniture_postion": "26,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20008", "establish_name": "データルーム照明4", "room_id": "2", "description": "furniture_establish-20020008", 
-    "furniture_id": "40008", "update_furniture_id": "40008", "furniture_postion": "8,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20008", "establish_name": "データルーム照明4", "room_id": "2", 
+    "description": "furniture_establish-20020008", "furniture_id": "40008", "update_furniture_id": "40008", 
+    "furniture_postion": "8,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20009", "establish_name": "データルーム照明5", "room_id": "2", "description": "furniture_establish-20020009", 
-    "furniture_id": "40008", "update_furniture_id": "40008", "furniture_postion": "17,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20009", "establish_name": "データルーム照明5", "room_id": "2", 
+    "description": "furniture_establish-20020009", "furniture_id": "40008", "update_furniture_id": "40008", 
+    "furniture_postion": "17,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20010", "establish_name": "データルーム照明6", "room_id": "2", "description": "furniture_establish-20020010", 
-    "furniture_id": "40008", "update_furniture_id": "40008", "furniture_postion": "26,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20010", "establish_name": "データルーム照明6", "room_id": "2", 
+    "description": "furniture_establish-20020010", "furniture_id": "40008", "update_furniture_id": "40008", 
+    "furniture_postion": "26,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "20011", "establish_name": "データルーム照明7", "room_id": "2", "description": "furniture_establish-20020011", 
-    "furniture_id": "40008", "update_furniture_id": "40008", "furniture_postion": "2,2", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "20011", "establish_name": "データルーム照明7", "room_id": "2", 
+    "description": "furniture_establish-20020011", "furniture_id": "40008", "update_furniture_id": "40008", 
+    "furniture_postion": "2,2", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "20100", "establish_name": "埃だらけのデスク", "room_id": "2", 
-    "description": "長いこと使われていなかったらしい作業台。うっすら被っている埃を拭き取れば、ここで資料を広げて仕事ができる。", "furniture_id": "42010", 
-    "update_furniture_id": "42010", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "200001:3", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "長いこと使われていなかったらしい作業台。うっすら被っている埃を拭き取れば、ここで資料を広げて仕事ができる。", 
+    "furniture_id": "42010", "update_furniture_id": "42010", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "200001:3", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20101", "establish_name": "素朴なデスク", "room_id": "2", 
-    "description": "羽根ペンを使おうが製図ペンを使おうが、良質な作戦報告書には整った手書きの文字が不可欠だ。頑張って、カリーナ！", "furniture_id": "42011", 
-    "update_furniture_id": "42011", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "1", 
-    "upgrade_coin": "10", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "200001:3", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "羽根ペンを使おうが製図ペンを使おうが、良質な作戦報告書には整った手書きの文字が不可欠だ。頑張って、カリーナ！", 
+    "furniture_id": "42011", "update_furniture_id": "42011", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "1", "upgrade_coin": "10", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "200001:3", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20102", "establish_name": "素朴なデスク", "room_id": "2", 
-    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", "furniture_id": "42011", "update_furniture_id": "42011", 
-    "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "2", "upgrade_coin": "75", "upgrade_time": "300", 
-    "upgrade_condition": "20401,20501", "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
+    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", 
+    "furniture_id": "42011", "update_furniture_id": "42011", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "2", "upgrade_coin": "75", "upgrade_time": "300", "upgrade_condition": "20401,20501", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20103", "establish_name": "素朴なデスク", "room_id": "2", 
-    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", "furniture_id": "42011", "update_furniture_id": "42011", 
-    "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "3", "upgrade_coin": "150", "upgrade_time": "1800", 
-    "upgrade_condition": "20302,20402", "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
+    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", 
+    "furniture_id": "42011", "update_furniture_id": "42011", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "3", "upgrade_coin": "150", "upgrade_time": "1800", "upgrade_condition": "20302,20402", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20104", "establish_name": "素朴なデスク", "room_id": "2", 
-    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", "furniture_id": "42011", "update_furniture_id": "42011", 
-    "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "4", "upgrade_coin": "225", "upgrade_time": "3600", 
-    "upgrade_condition": "20503,20603", "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
+    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", 
+    "furniture_id": "42011", "update_furniture_id": "42011", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "4", "upgrade_coin": "225", "upgrade_time": "3600", "upgrade_condition": "20503,20603", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20105", "establish_name": "素朴なデスク", "room_id": "2", 
-    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", "furniture_id": "42011", "update_furniture_id": "42011", 
-    "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "5", "upgrade_coin": "300", "upgrade_time": "7200", 
-    "upgrade_condition": "20204,20604", "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
+    "description": "羽根ペンだろうが製図ペンだろうが、良い作戦報告書は綺麗に書かないと。カリーナ、頑張れ！", 
+    "furniture_id": "42011", "update_furniture_id": "42011", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "5", "upgrade_coin": "300", "upgrade_time": "7200", "upgrade_condition": "20204,20604", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20106", "establish_name": "現代風のデスク", "room_id": "2", 
-    "description": "不思議なことに、モダンというと皆現代ではなく、前世紀初頭の黄金時代、すなわちカタカタ鳴るタイプライターや、マンハッタンの摩天楼を思い浮かべる。", "furniture_id": "42012", 
-    "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "6", 
-    "upgrade_coin": "375", "upgrade_time": "14400", "upgrade_condition": "20305,20505", "parameter_1": "200001:3", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "不思議なことに、モダンというと皆現代ではなく、前世紀初頭の黄金時代、すなわちカタカタ鳴るタイプライターや、マンハッタンの摩天楼を思い浮かべる。", 
+    "furniture_id": "42012", "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "6", "upgrade_coin": "375", "upgrade_time": "14400", "upgrade_condition": "20305,20505", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20107", "establish_name": "現代風のデスク", "room_id": "2", 
-    "description": "モダンと言うと、みな現代ではなく、前世紀初頭の黄金時代のカタカタ鳴るタイプライターと、マンハッタンの摩天楼を思い浮かべるのは不思議だ。", "furniture_id": "42012", 
-    "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "7", 
-    "upgrade_coin": "525", "upgrade_time": "28800", "upgrade_condition": "20206,20306", "parameter_1": "200001:3", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "モダンと言うと、みな現代ではなく、前世紀初頭の黄金時代のカタカタ鳴るタイプライターと、マンハッタンの摩天楼を思い浮かべるのは不思議だ。", 
+    "furniture_id": "42012", "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "7", "upgrade_coin": "525", "upgrade_time": "28800", "upgrade_condition": "20206,20306", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20108", "establish_name": "現代風のデスク", "room_id": "2", 
-    "description": "モダンと言うと、みな現代ではなく、前世紀初頭の黄金時代のカタカタ鳴るタイプライターと、マンハッタンの摩天楼を思い浮かべるのは不思議だ。", "furniture_id": "42012", 
-    "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "8", 
-    "upgrade_coin": "675", "upgrade_time": "43200", "upgrade_condition": "20207,20507", "parameter_1": "200001:3", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "モダンと言うと、みな現代ではなく、前世紀初頭の黄金時代のカタカタ鳴るタイプライターと、マンハッタンの摩天楼を思い浮かべるのは不思議だ。", 
+    "furniture_id": "42012", "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "8", "upgrade_coin": "675", "upgrade_time": "43200", "upgrade_condition": "20207,20507", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20109", "establish_name": "現代風のデスク", "room_id": "2", 
-    "description": "モダンと言うと、みな現代ではなく、前世紀初頭の黄金時代のカタカタ鳴るタイプライターと、マンハッタンの摩天楼を思い浮かべるのは不思議だ。", "furniture_id": "42012", 
-    "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "9", 
-    "upgrade_coin": "900", "upgrade_time": "64800", "upgrade_condition": "20208,20608", "parameter_1": "200001:3", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "モダンと言うと、みな現代ではなく、前世紀初頭の黄金時代のカタカタ鳴るタイプライターと、マンハッタンの摩天楼を思い浮かべるのは不思議だ。", 
+    "furniture_id": "42012", "update_furniture_id": "42012", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "9", "upgrade_coin": "900", "upgrade_time": "64800", "upgrade_condition": "20208,20608", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20110", "establish_name": "未来的なデスク", "room_id": "2", 
-    "description": "コンピューターの導入により、カリーナの作業効率が大幅に上がった。え？上がってない？LANケーブルを抜いてやれ！", "furniture_id": "42013", 
-    "update_furniture_id": "42013", "furniture_postion": "8,8", "establish_type": "201", "establish_lv": "10", 
-    "upgrade_coin": "1200", "upgrade_time": "86400", "upgrade_condition": "20209,20409", "parameter_1": "200001:3", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "コンピューターの導入により、カリーナの作業効率が大幅に上がった。え？上がってない？LANケーブルを抜いてやれ！", 
+    "furniture_id": "42013", "update_furniture_id": "42013", "furniture_postion": "8,8", "establish_type": "201", 
+    "establish_lv": "10", "upgrade_coin": "1200", "upgrade_time": "86400", "upgrade_condition": "20209,20409", 
+    "parameter_1": "200001:3", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20200", "establish_name": "埃を被ったコンソール", "room_id": "2", 
-    "description": "少し整理すれば、ドローンのコンソールとして使えそう。ドローンを使って戦闘の様子を記録すれば、貴重な経験値が手に入るはずだ。", "furniture_id": "42020", 
-    "update_furniture_id": "42020", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "3", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "少し整理すれば、ドローンのコンソールとして使えそう。ドローンを使って戦闘の様子を記録すれば、貴重な経験値が手に入るはずだ。", 
+    "furniture_id": "42020", "update_furniture_id": "42020", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "3", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20201", "establish_name": "簡易ドローンコンソール", "room_id": "2", 
-    "description": "野戦ドローン制御端末を設置した。画質はあまり良くないが、自ら戦場の傍らの草むらに横たわるよりはずっとマシだ。", "furniture_id": "42021", 
-    "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "4.5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "野戦ドローン制御端末を設置した。画質はあまり良くないが、自ら戦場の傍らの草むらに横たわるよりはずっとマシだ。", 
+    "furniture_id": "42021", "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "4.5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20202", "establish_name": "簡易ドローンコンソール", "room_id": "2", 
-    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", "furniture_id": "42021", 
-    "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "6", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", 
+    "furniture_id": "42021", "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "6", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20203", "establish_name": "簡易ドローンコンソール", "room_id": "2", 
-    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", "furniture_id": "42021", 
-    "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "7.5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", 
+    "furniture_id": "42021", "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "7.5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20204", "establish_name": "簡易ドローンコンソール", "room_id": "2", 
-    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", "furniture_id": "42021", 
-    "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "9", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", 
+    "furniture_id": "42021", "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "9", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20205", "establish_name": "簡易ドローンコンソール", "room_id": "2", 
-    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", "furniture_id": "42021", 
-    "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "10.5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "野戦ドローン制御端末を設置した。画像はあまり鮮明ではないが、これまで戦場そばの草むらに這いつくばっていたのよりはずっとマシ。", 
+    "furniture_id": "42021", "update_furniture_id": "42021", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "10.5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20206", "establish_name": "プロのドローンコンソール", "room_id": "2", 
-    "description": "大型設備が開放され、やっと作戦室らしくなってきた。2つの高解像度モニターでより効果的にドローンを制御し、戦況を記録することが可能となった。", "furniture_id": "42022", 
-    "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "12", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "大型設備が開放され、やっと作戦室らしくなってきた。2つの高解像度モニターでより効果的にドローンを制御し、戦況を記録することが可能となった。", 
+    "furniture_id": "42022", "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "12", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20207", "establish_name": "プロのドローンコンソール", "room_id": "2", 
-    "description": "大型設備が開放され、やっと作戦データルームらしくなった。3つの高精細画面で、より効果的にドローンを制御し、戦況を記録することが可能だ。", "furniture_id": "42022", 
-    "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "14", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "大型設備が開放され、やっと作戦データルームらしくなった。3つの高精細画面で、より効果的にドローンを制御し、戦況を記録することが可能だ。", 
+    "furniture_id": "42022", "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "14", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20208", "establish_name": "プロのドローンコンソール", "room_id": "2", 
-    "description": "大型設備が開放され、やっと作戦データルームらしくなった。4つの高精細画面で、より効果的にドローンを制御し、戦況を記録することが可能だ。", "furniture_id": "42022", 
-    "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "16", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "大型設備が開放され、やっと作戦データルームらしくなった。4つの高精細画面で、より効果的にドローンを制御し、戦況を記録することが可能だ。", 
+    "furniture_id": "42022", "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "16", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20209", "establish_name": "プロのドローンコンソール", "room_id": "2", 
-    "description": "大型設備が開放され、やっと作戦データルームらしくなった。5つの高精細画面で、より効果的にドローンを制御し、戦況を記録することが可能だ。", "furniture_id": "42022", 
-    "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "18", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "大型設備が開放され、やっと作戦データルームらしくなった。5つの高精細画面で、より効果的にドローンを制御し、戦況を記録することが可能だ。", 
+    "furniture_id": "42022", "update_furniture_id": "42022", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "18", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20210", "establish_name": "高度なドローンコンソール", "room_id": "2", 
-    "description": "目下グリフィンで最も高級な制御設備。2機のドローンを同時に操作して戦闘を記録することが可能で、経験値の収集効率も申し分なし。", "furniture_id": "42023", 
-    "update_furniture_id": "42023", "furniture_postion": "6,2", "establish_type": "202", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "20", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "目下グリフィンで最も高級な制御設備。2機のドローンを同時に操作して戦闘を記録することが可能で、経験値の収集効率も申し分なし。", 
+    "furniture_id": "42023", "update_furniture_id": "42023", "furniture_postion": "6,2", "establish_type": "202", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "20", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20300", "establish_name": "埃を被った操作ステーション", "room_id": "2", 
-    "description": "厚手の防水カバーの下に隠れているのは作業台のような机。戦術人形の極めて取り外しにくい、ハイレベルな戦闘記録装置の解析に役立つかもしれない。", "furniture_id": "42030", 
-    "update_furniture_id": "42030", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "25", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "厚手の防水カバーの下に隠れているのは作業台のような机。戦術人形の極めて取り外しにくい、ハイレベルな戦闘記録装置の解析に役立つかもしれない。", 
+    "furniture_id": "42030", "update_furniture_id": "42030", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "25", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20301", "establish_name": "古めかしい操作ステーション", "room_id": "2", 
-    "description": "戦前の人々は、これを用いて金属加工を行っていたらしい。現在は主に戦術人形の記録装置を取り出して解析するのに使われている。傷つけないように！", "furniture_id": "42031", 
-    "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "30", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "戦前の人々は、これを用いて金属加工を行っていたらしい。現在は主に戦術人形の記録装置を取り出して解析するのに使われている。傷つけないように！", 
+    "furniture_id": "42031", "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "30", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20302", "establish_name": "古めかしい操作ステーション", "room_id": "2", 
-    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", "furniture_id": "42031", 
-    "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "35", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", 
+    "furniture_id": "42031", "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "35", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20303", "establish_name": "古めかしい操作ステーション", "room_id": "2", 
-    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", "furniture_id": "42031", 
-    "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "40", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", 
+    "furniture_id": "42031", "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "40", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20304", "establish_name": "古めかしい操作ステーション", "room_id": "2", 
-    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", "furniture_id": "42031", 
-    "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "45", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", 
+    "furniture_id": "42031", "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "45", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20305", "establish_name": "古めかしい操作ステーション", "room_id": "2", 
-    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", "furniture_id": "42031", 
-    "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "50", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "戦前の人々は、これを用いて金属加工をしていたらしい。今は主に戦術人形の記録装置を取り出して解析する際に使われている。傷つけないで！", 
+    "furniture_id": "42031", "update_furniture_id": "42031", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "50", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20306", "establish_name": "自動化操作ステーション", "room_id": "2", 
-    "description": "精密なロボットアームの助けにより、記録装置の解析がより簡単で効率的なものになり、戦術人形たちからも好評を得ている。", "furniture_id": "42032", 
-    "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "60", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "精密なロボットアームの助けにより、記録装置の解析がより簡単で効率的なものになり、戦術人形たちからも好評を得ている。", 
+    "furniture_id": "42032", "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "60", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20307", "establish_name": "自動化操作ステーション", "room_id": "2", 
-    "description": "精密なロボットアームの助けがあれば、記録装置の解析がより簡単、効率的になり、戦術人形にも好評。", "furniture_id": "42032", 
-    "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "70", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "精密なロボットアームの助けがあれば、記録装置の解析がより簡単、効率的になり、戦術人形にも好評。", 
+    "furniture_id": "42032", "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "70", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20308", "establish_name": "自動化操作ステーション", "room_id": "2", 
-    "description": "精密なロボットアームの助けがあれば、記録装置の解析がより簡単、効率的になり、戦術人形にも好評。", "furniture_id": "42032", 
-    "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "80", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "精密なロボットアームの助けがあれば、記録装置の解析がより簡単、効率的になり、戦術人形にも好評。", 
+    "furniture_id": "42032", "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "80", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20309", "establish_name": "自動化操作ステーション", "room_id": "2", 
-    "description": "精密なロボットアームの助けがあれば、記録装置の解析がより簡単、効率的になり、戦術人形にも好評。", "furniture_id": "42032", 
-    "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "90", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "精密なロボットアームの助けがあれば、記録装置の解析がより簡単、効率的になり、戦術人形にも好評。", 
+    "furniture_id": "42032", "update_furniture_id": "42032", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "90", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20310", "establish_name": "高度な自動操作ステーション", "room_id": "2", 
-    "description": "さらに効率が高められた自動作業台。戦闘経験値の転化率が向上し、オーバーヒートも防げるようになった。さすがは高級設備。", "furniture_id": "42033", 
-    "update_furniture_id": "42033", "furniture_postion": "22,2", "establish_type": "203", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "100", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "さらに効率が高められた自動作業台。戦闘経験値の転化率が向上し、オーバーヒートも防げるようになった。さすがは高級設備。", 
+    "furniture_id": "42033", "update_furniture_id": "42033", "furniture_postion": "22,2", "establish_type": "203", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "100", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20400", "establish_name": "埃を被った作業机", "room_id": "2", 
-    "description": "防水カバーの下に隠れた大きな机。集めてきた戦闘記録をきれいに並べておくのに良さそう。", "furniture_id": "42050", "update_furniture_id": "42050", 
-    "furniture_postion": "13,9", "establish_type": "204", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
-    "upgrade_condition": "0", "parameter_1": "60000", "parameter_2": "0", "parameter_3": "0"
+    "description": "防水カバーの下に隠れた大きな机。集めてきた戦闘記録をきれいに並べておくのに良さそう。", 
+    "furniture_id": "42050", "update_furniture_id": "42050", "furniture_postion": "13,9", "establish_type": "204", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "60000", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20401", "establish_name": "散らかった作業机", "room_id": "2", 
-    "description": "書類整理はどの時代の指揮官にとっても必要不可欠で面倒なお仕事だ。こんな時だけは、カリーナがいてくれてよかったとつくづく思う。", "furniture_id": "42051", 
-    "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "120000", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "書類整理はどの時代の指揮官にとっても必要不可欠で面倒なお仕事だ。こんな時だけは、カリーナがいてくれてよかったとつくづく思う。", 
+    "furniture_id": "42051", "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "120000", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20402", "establish_name": "散らかった作業机", "room_id": "2", 
-    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", "furniture_id": "42051", 
-    "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "180000", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", 
+    "furniture_id": "42051", "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "180000", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20403", "establish_name": "散らかった作業机", "room_id": "2", 
-    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", "furniture_id": "42051", 
-    "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "240000", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", 
+    "furniture_id": "42051", "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", 
+    "parameter_1": "240000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20404", "establish_name": "散らかった作業机", "room_id": "2", 
-    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", "furniture_id": "42051", 
-    "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "300000", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", 
+    "furniture_id": "42051", "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", 
+    "parameter_1": "300000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20405", "establish_name": "散らかった作業机", "room_id": "2", 
-    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", "furniture_id": "42051", 
-    "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "360000", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "書類仕事はいつの時代の指揮官にとっても逃れられない苦役。このときばかりはカリーナがいてくれてよかったと、つくづく実感。", 
+    "furniture_id": "42051", "update_furniture_id": "42051", "furniture_postion": "13,9", "establish_type": "204", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", 
+    "parameter_1": "360000", "parameter_2": "0", "parameter_3": "0"
   }, {
-    "establish_id": "20406", "establish_name": "大型作業机", "room_id": "2", "description": "作業面積の拡大と整理方式の洗練は収納力の大幅アップにつながる。", 
-    "furniture_id": "42052", "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", 
-    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", 
-    "parameter_1": "480000", "parameter_2": "0", "parameter_3": "0"
+    "establish_id": "20406", "establish_name": "大型作業机", "room_id": "2", 
+    "description": "作業面積の拡大と整理方式の洗練は収納力の大幅アップにつながる。", "furniture_id": "42052", 
+    "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", "establish_lv": "6", 
+    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "480000", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20407", "establish_name": "大型作業机", "room_id": "2", 
-    "description": "作業面積の拡大、規範的な整理方式により、収納力が大幅にアップ。以前は書類管理といえば、深遠な技術ともいうべきものだった。", "furniture_id": "42052", 
-    "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "600000", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "作業面積の拡大、規範的な整理方式により、収納力が大幅にアップ。以前は書類管理といえば、深遠な技術ともいうべきものだった。", 
+    "furniture_id": "42052", "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", 
+    "parameter_1": "600000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20408", "establish_name": "大型作業机", "room_id": "2", 
-    "description": "作業面積の拡大、規範的な整理方式により、収納力が大幅にアップ。以前は書類管理といえば、深遠な技術ともいうべきものだった。", "furniture_id": "42052", 
-    "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "720000", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "作業面積の拡大、規範的な整理方式により、収納力が大幅にアップ。以前は書類管理といえば、深遠な技術ともいうべきものだった。", 
+    "furniture_id": "42052", "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", 
+    "parameter_1": "720000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20409", "establish_name": "大型作業机", "room_id": "2", 
-    "description": "作業面積の拡大、規範的な整理方式により、収納力が大幅にアップ。以前は書類管理といえば、深遠な技術ともいうべきものだった。", "furniture_id": "42052", 
-    "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "840000", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "作業面積の拡大、規範的な整理方式により、収納力が大幅にアップ。以前は書類管理といえば、深遠な技術ともいうべきものだった。", 
+    "furniture_id": "42052", "update_furniture_id": "42052", "furniture_postion": "12,10", "establish_type": "204", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", 
+    "parameter_1": "840000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20410", "establish_name": "ハードディスク陳列台", "room_id": "2", 
-    "description": "紙の書類がいかにきっちり整理されていようと、ずらりと並んだハードディスクにはかなわないものだ。ただすごく電気を食うのが玉に瑕。", "furniture_id": "42053", 
-    "update_furniture_id": "42053", "furniture_postion": "12,10", "establish_type": "204", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "960000", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "紙の書類がいかにきっちり整理されていようと、ずらりと並んだハードディスクにはかなわないものだ。ただすごく電気を食うのが玉に瑕。", 
+    "furniture_id": "42053", "update_furniture_id": "42053", "furniture_postion": "12,10", "establish_type": "204", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", 
+    "parameter_1": "960000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20500", "establish_name": "埃を被ったコンピューター", "room_id": "2", 
-    "description": "隅っこに隠れている小さな机だが、コンピューターを置くのに丁度よさそう。これに加えてデータサーバを構築すれば、作業効率が大幅にアップするはずだ。", "furniture_id": "42040", 
-    "update_furniture_id": "42040", "furniture_postion": "16,2", "establish_type": "205", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "43200", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "隅っこに隠れている小さな机だが、コンピューターを置くのに丁度よさそう。これに加えてデータサーバを構築すれば、作業効率が大幅にアップするはずだ。", 
+    "furniture_id": "42040", "update_furniture_id": "42040", "furniture_postion": "16,2", "establish_type": "205", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "43200", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20501", "establish_name": "古いコンピューター", "room_id": "2", 
     "description": "外側が変色してるのは気にしないで。当時はそれこそ、多くの少年にシリコンバレー・ドリームを抱かせた夢のマシンで、48Kの大容量メモリにみんな夢中だったんだから。", 
@@ -723,100 +739,100 @@
     "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20506", "establish_name": "小型サーバ", "room_id": "2", 
-    "description": "司令部からのお下がりだが、専用サーバの処理能力は十分だし、なによりシャットダウンの必要がなくてとても便利。", "furniture_id": "42042", 
-    "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "18000", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "司令部からのお下がりだが、専用サーバの処理能力は十分だし、なによりシャットダウンの必要がなくてとても便利。", 
+    "furniture_id": "42042", "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", 
+    "parameter_1": "18000", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20507", "establish_name": "小型サーバ", "room_id": "2", 
-    "description": "司令部から淘汰された設備だが、専用サーバの処理能力は比類ないものだし、シャットダウンの必要もないので非常に便利。", "furniture_id": "42042", 
-    "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "14400", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "司令部から淘汰された設備だが、専用サーバの処理能力は比類ないものだし、シャットダウンの必要もないので非常に便利。", 
+    "furniture_id": "42042", "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", 
+    "parameter_1": "14400", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20508", "establish_name": "小型サーバ", "room_id": "2", 
-    "description": "司令部から淘汰された設備だが、専用サーバの処理能力は比類ないものだし、シャットダウンの必要もないので非常に便利。", "furniture_id": "42042", 
-    "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "10800", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "司令部から淘汰された設備だが、専用サーバの処理能力は比類ないものだし、シャットダウンの必要もないので非常に便利。", 
+    "furniture_id": "42042", "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", 
+    "parameter_1": "10800", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20509", "establish_name": "小型サーバ", "room_id": "2", 
-    "description": "司令部から淘汰された設備だが、専用サーバの処理能力は比類ないものだし、シャットダウンの必要もないので非常に便利。", "furniture_id": "42042", 
-    "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "7200", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "司令部から淘汰された設備だが、専用サーバの処理能力は比類ないものだし、シャットダウンの必要もないので非常に便利。", 
+    "furniture_id": "42042", "update_furniture_id": "42042", "furniture_postion": "17,2", "establish_type": "205", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "7200", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20510", "establish_name": "高度な大型サーバ", "room_id": "2", 
-    "description": "背の高いキャビネットにたくさんのプロセッサが並び、LEDがチカチカしているのを見ているだけで大満足。バッテリーを必死に集めたかいがあった。", "furniture_id": "42043", 
-    "update_furniture_id": "42043", "furniture_postion": "17,2", "establish_type": "205", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "3600", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "背の高いキャビネットにたくさんのプロセッサが並び、LEDがチカチカしているのを見ているだけで大満足。バッテリーを必死に集めたかいがあった。", 
+    "furniture_id": "42043", "update_furniture_id": "42043", "furniture_postion": "17,2", "establish_type": "205", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", 
+    "parameter_1": "3600", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20600", "establish_name": "埃を被ったテレックス", "room_id": "2", 
-    "description": "防水カバーの下に姿をひそめる見慣れぬ機器。この時代のものじゃなさそうだけど、M1918に聞いたら分かるかな？", "furniture_id": "42060", 
-    "update_furniture_id": "42060", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "防水カバーの下に姿をひそめる見慣れぬ機器。この時代のものじゃなさそうだけど、M1918に聞いたら分かるかな？", 
+    "furniture_id": "42060", "update_furniture_id": "42060", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20601", "establish_name": "古いテレックス", "room_id": "2", 
-    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", "furniture_id": "42061", 
-    "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "10", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", 
+    "furniture_id": "42061", "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "20101", "parameter_1": "10", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20602", "establish_name": "古いテレックス", "room_id": "2", 
-    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", "furniture_id": "42061", 
-    "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "15", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", 
+    "furniture_id": "42061", "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "20102", "parameter_1": "15", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20603", "establish_name": "古いテレックス", "room_id": "2", 
-    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", "furniture_id": "42061", 
-    "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "20", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", 
+    "furniture_id": "42061", "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "20103", "parameter_1": "20", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20604", "establish_name": "古いテレックス", "room_id": "2", 
-    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", "furniture_id": "42061", 
-    "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "25", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", 
+    "furniture_id": "42061", "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "20104", "parameter_1": "25", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20605", "establish_name": "古いテレックス", "room_id": "2", 
-    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", "furniture_id": "42061", 
-    "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "30", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "前世紀のグローバル化の波の中で、テレックスは多国籍企業のオフィスの必需品であった。1回で紙1ロール分の情報を送ることができるなんて、本当に不思議。", 
+    "furniture_id": "42061", "update_furniture_id": "42061", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "20105", "parameter_1": "30", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20606", "establish_name": "ネットワークプリンタ", "room_id": "2", 
-    "description": "先進的なネットワーク技術のおかげで、今や作戦報告を一気にアウトプットできるように……ってあれ、また詰まった？またインク切れたの？", "furniture_id": "42062", 
-    "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "40", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "先進的なネットワーク技術のおかげで、今や作戦報告を一気にアウトプットできるように……ってあれ、また詰まった？またインク切れたの？", 
+    "furniture_id": "42062", "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "20106", "parameter_1": "40", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20607", "establish_name": "ネットワークプリンタ", "room_id": "2", 
-    "description": "先進的なネットワーク技術のおかげで、今は作戦報告を一気にアウトプットできます。あれ、また詰まった？インクは、もう切れたの？", "furniture_id": "42062", 
-    "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "50", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "先進的なネットワーク技術のおかげで、今は作戦報告を一気にアウトプットできます。あれ、また詰まった？インクは、もう切れたの？", 
+    "furniture_id": "42062", "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "20107", "parameter_1": "50", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20608", "establish_name": "ネットワークプリンタ", "room_id": "2", 
-    "description": "先進的なネットワーク技術のおかげで、今は作戦報告を一気にアウトプットできます。あれ、また詰まった？インクは、もう切れたの？", "furniture_id": "42062", 
-    "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "60", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "先進的なネットワーク技術のおかげで、今は作戦報告を一気にアウトプットできます。あれ、また詰まった？インクは、もう切れたの？", 
+    "furniture_id": "42062", "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "20108", "parameter_1": "60", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20609", "establish_name": "ネットワークプリンタ", "room_id": "2", 
-    "description": "先進的なネットワーク技術のおかげで、今は作戦報告を一気にアウトプットできます。あれ、また詰まった？インクは、もう切れたの？", "furniture_id": "42062", 
-    "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "70", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "先進的なネットワーク技術のおかげで、今は作戦報告を一気にアウトプットできます。あれ、また詰まった？インクは、もう切れたの？", 
+    "furniture_id": "42062", "update_furniture_id": "42062", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "20109", "parameter_1": "70", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20610", "establish_name": "高度な自動書き込み機", "room_id": "2", 
-    "description": "大容量メモリと高速デジタル書き込みを備えたトータル・ソリューション。すごすぎて、見てるだけでくらくらしてくる。", "furniture_id": "42063", 
-    "update_furniture_id": "42063", "furniture_postion": "22,10", "establish_type": "206", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "80", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "大容量メモリと高速デジタル書き込みを備えたトータル・ソリューション。すごすぎて、見てるだけでくらくらしてくる。", 
+    "furniture_id": "42063", "update_furniture_id": "42063", "furniture_postion": "22,10", "establish_type": "206", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "20110", "parameter_1": "80", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "20700", "establish_name": "思い出の本棚", "room_id": "2", "description": "思い出の詰まった本棚。", 
     "furniture_id": "42070", "update_furniture_id": "42070", "furniture_postion": "3,8", "establish_type": "207", 
@@ -828,30 +844,30 @@
     "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "30002", "establish_name": "妖精格納庫フロア", "room_id": "3", "description": "妖精格納庫デフォルトフロア", 
-    "furniture_id": "40004", "update_furniture_id": "40015", "furniture_postion": "2,2", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "30002", "establish_name": "妖精格納庫フロア", "room_id": "3", 
+    "description": "妖精格納庫デフォルトフロア", "furniture_id": "40004", "update_furniture_id": "40015", 
+    "furniture_postion": "2,2", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "30003", "establish_name": "妖精格納庫壁面装飾", "room_id": "3", "description": "妖精格納庫壁面装飾", 
     "furniture_id": "40016", "update_furniture_id": "40016", "furniture_postion": "14,2", "establish_type": "0", 
     "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "30004", "establish_name": "妖精格納庫照明4", "room_id": "3", "description": "furniture_establish-20030004", 
-    "furniture_id": "40017", "update_furniture_id": "40017", "furniture_postion": "8,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "30004", "establish_name": "妖精格納庫照明4", "room_id": "3", 
+    "description": "furniture_establish-20030004", "furniture_id": "40017", "update_furniture_id": "40017", 
+    "furniture_postion": "8,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "30005", "establish_name": "妖精格納庫照明5", "room_id": "3", "description": "furniture_establish-20030005", 
-    "furniture_id": "40017", "update_furniture_id": "40017", "furniture_postion": "17,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "30005", "establish_name": "妖精格納庫照明5", "room_id": "3", 
+    "description": "furniture_establish-20030005", "furniture_id": "40017", "update_furniture_id": "40017", 
+    "furniture_postion": "17,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "30006", "establish_name": "妖精格納庫照明6", "room_id": "3", "description": "furniture_establish-20030006", 
-    "furniture_id": "40017", "update_furniture_id": "40017", "furniture_postion": "26,11", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "30006", "establish_name": "妖精格納庫照明6", "room_id": "3", 
+    "description": "furniture_establish-20030006", "furniture_id": "40017", "update_furniture_id": "40017", 
+    "furniture_postion": "26,11", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "30007", "establish_name": "妖精格納庫カーペット", "room_id": "3", "description": "妖精格納庫カーペット", 
     "furniture_id": "40018", "update_furniture_id": "40018", "furniture_postion": "15,6", "establish_type": "0", 
@@ -865,34 +881,34 @@
     "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30101", "establish_name": "山間要塞", "room_id": "3", 
-    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", "furniture_id": "43011", 
-    "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", "establish_lv": "1", 
-    "upgrade_coin": "10", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", 
+    "furniture_id": "43011", "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", 
+    "establish_lv": "1", "upgrade_coin": "10", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30102", "establish_name": "山間要塞", "room_id": "3", 
-    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", "furniture_id": "43011", 
-    "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", "establish_lv": "2", 
-    "upgrade_coin": "75", "upgrade_time": "300", "upgrade_condition": "30201,30301,30401", "parameter_1": "", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", 
+    "furniture_id": "43011", "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", 
+    "establish_lv": "2", "upgrade_coin": "75", "upgrade_time": "300", "upgrade_condition": "30201,30301,30401", 
+    "parameter_1": "", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30103", "establish_name": "山間要塞", "room_id": "3", 
-    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", "furniture_id": "43011", 
-    "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", "establish_lv": "3", 
-    "upgrade_coin": "150", "upgrade_time": "1800", "upgrade_condition": "30202,30302,30402", "parameter_1": "", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", 
+    "furniture_id": "43011", "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", 
+    "establish_lv": "3", "upgrade_coin": "150", "upgrade_time": "1800", "upgrade_condition": "30202,30302,30402", 
+    "parameter_1": "", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30104", "establish_name": "山間要塞", "room_id": "3", 
-    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", "furniture_id": "43011", 
-    "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", "establish_lv": "4", 
-    "upgrade_coin": "225", "upgrade_time": "3600", "upgrade_condition": "30203,30303,30403", "parameter_1": "", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", 
+    "furniture_id": "43011", "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", 
+    "establish_lv": "4", "upgrade_coin": "225", "upgrade_time": "3600", "upgrade_condition": "30203,30303,30403", 
+    "parameter_1": "", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30105", "establish_name": "山間要塞", "room_id": "3", 
-    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", "furniture_id": "43011", 
-    "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", "establish_lv": "5", 
-    "upgrade_coin": "300", "upgrade_time": "7200", "upgrade_condition": "30204,30304,30404", "parameter_1": "", 
-    "parameter_2": "0", "parameter_3": "0"
+    "description": "苦労の末、指揮官が発泡スチロール製の谷間に中世の砦を建設。こうして一連の設備もレベルアップが可能になった（ラッカー塗装の際には、換気に注意してください）。", 
+    "furniture_id": "43011", "update_furniture_id": "43011", "furniture_postion": "2,4", "establish_type": "301", 
+    "establish_lv": "5", "upgrade_coin": "300", "upgrade_time": "7200", "upgrade_condition": "30204,30304,30404", 
+    "parameter_1": "", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30106", "establish_name": "妖精ホール", "room_id": "3", 
     "description": "妖精は自分たちの地位は常に上がっていくものと認識しており、自分たちの身分に相応しい華麗な住まいを用意しろと要求。この新古典主義の特色を備えた白いホールはそれにぴったり。", 
@@ -925,10 +941,10 @@
     "parameter_1": "", "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30200", "establish_name": "埃を被った鉄道模型", "room_id": "3", 
-    "description": "埃を被った帆布の下に鉄道模型のプラットホームが隠れていた。これは多くの指令を獲得できる施設のはず。鉄道模型とはずいぶん懐かしい。", "furniture_id": "43020", 
-    "update_furniture_id": "43020", "furniture_postion": "26,11", "establish_type": "302", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "埃を被った帆布の下に鉄道模型のプラットホームが隠れていた。これは多くの指令を獲得できる施設のはず。鉄道模型とはずいぶん懐かしい。", 
+    "furniture_id": "43020", "update_furniture_id": "43020", "furniture_postion": "26,11", "establish_type": "302", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30201", "establish_name": "田舎の鉄道模型", "room_id": "3", 
     "description": "何の変哲もない田舎の小さな駅。少年少女たちの、時の流れに淘汰された小さなこだわりが詰まっているかもしれない。トンネルを抜けると、あのころ望んでいた人生が見つかるかな？", 
@@ -985,70 +1001,70 @@
     "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30210", "establish_name": "国王鉄道ターミナルの模型", "room_id": "3", 
-    "description": "数回のレベルアップを経て、やっと国王鉄道駅の模型が完成。モデルは戦前の某帝国の首都にあった駅だ。あの繁栄も今や模型の中にしか見い出せない。", "furniture_id": "43023", 
-    "update_furniture_id": "43023", "furniture_postion": "26,11", "establish_type": "302", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "30110", "parameter_1": "15", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "数回のレベルアップを経て、やっと国王鉄道駅の模型が完成。モデルは戦前の某帝国の首都にあった駅だ。あの繁栄も今や模型の中にしか見い出せない。", 
+    "furniture_id": "43023", "update_furniture_id": "43023", "furniture_postion": "26,11", "establish_type": "302", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "30110", "parameter_1": "15", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30300", "establish_name": "倉庫模型の基礎", "room_id": "3", 
-    "description": "ここをベースにして作った倉庫模型。本部からの指令を保存するのに使用できる。なぜ模型にそんなことができるのかって？それは私も知りたいところだ。", "furniture_id": "43030", 
-    "update_furniture_id": "43030", "furniture_postion": "13,4", "establish_type": "303", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "50", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "ここをベースにして作った倉庫模型。本部からの指令を保存するのに使用できる。なぜ模型にそんなことができるのかって？それは私も知りたいところだ。", 
+    "furniture_id": "43030", "update_furniture_id": "43030", "furniture_postion": "13,4", "establish_type": "303", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "50", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30301", "establish_name": "臨時倉庫の模型", "room_id": "3", 
-    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", "furniture_id": "43031", 
-    "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "30101", "parameter_1": "65", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", 
+    "furniture_id": "43031", "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "30101", "parameter_1": "65", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30302", "establish_name": "臨時倉庫の模型", "room_id": "3", 
-    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", "furniture_id": "43031", 
-    "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "30102", "parameter_1": "80", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", 
+    "furniture_id": "43031", "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "30102", "parameter_1": "80", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30303", "establish_name": "臨時倉庫の模型", "room_id": "3", 
-    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", "furniture_id": "43031", 
-    "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "30103", "parameter_1": "95", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", 
+    "furniture_id": "43031", "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "30103", "parameter_1": "95", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30304", "establish_name": "臨時倉庫の模型", "room_id": "3", 
-    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", "furniture_id": "43031", 
-    "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "30104", "parameter_1": "110", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", 
+    "furniture_id": "43031", "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "30104", "parameter_1": "110", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30305", "establish_name": "臨時倉庫の模型", "room_id": "3", 
-    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", "furniture_id": "43031", 
-    "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "30105", "parameter_1": "125", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "臨時の倉庫が完成。ただし、細い針金とラッカー塗装したビニール製でとても脆いので、指令の出し入れをする際には注意してくださいね、指揮官。", 
+    "furniture_id": "43031", "update_furniture_id": "43031", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "30105", "parameter_1": "125", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30306", "establish_name": "産業倉庫の模型", "room_id": "3", 
-    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", "furniture_id": "43032", 
-    "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "30106", "parameter_1": "140", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", 
+    "furniture_id": "43032", "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "30106", "parameter_1": "140", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30307", "establish_name": "産業倉庫の模型", "room_id": "3", 
-    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", "furniture_id": "43032", 
-    "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "30107", "parameter_1": "155", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", 
+    "furniture_id": "43032", "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "30107", "parameter_1": "155", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30308", "establish_name": "産業倉庫の模型", "room_id": "3", 
-    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", "furniture_id": "43032", 
-    "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "30108", "parameter_1": "170", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", 
+    "furniture_id": "43032", "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "30108", "parameter_1": "170", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30309", "establish_name": "産業倉庫の模型", "room_id": "3", 
-    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", "furniture_id": "43032", 
-    "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "30109", "parameter_1": "185", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "倉庫が赤レンガとトタン屋根になってだいぶ丈夫になり、より多くの指令の収納が可能になりました（三匹の子豚のお話ではありません）。", 
+    "furniture_id": "43032", "update_furniture_id": "43032", "furniture_postion": "14,5", "establish_type": "303", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "30109", "parameter_1": "185", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30310", "establish_name": "高度な倉庫の模型", "room_id": "3", 
     "description": "環境に優しく、再生可能エネルギーを使用する高度な倉庫の模型。一番の注目点はクールな幾何学的設計だ。そうでなければ建築家のノーベル賞とも言われるプリツカー賞を受賞するわけがない。", 
@@ -1057,40 +1073,40 @@
     "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30400", "establish_name": "真っ白な天気システム", "room_id": "3", 
-    "description": "天井のフックに本物そっくりの天気図を掛けたら妖精が大喜び。その上、経験値入手速度もアップ。薄暗い地下では、いい気分を保つのが何よりも大事。", "furniture_id": "43040", 
-    "update_furniture_id": "43040", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "天井のフックに本物そっくりの天気図を掛けたら妖精が大喜び。その上、経験値入手速度もアップ。薄暗い地下では、いい気分を保つのが何よりも大事。", 
+    "furniture_id": "43040", "update_furniture_id": "43040", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30401", "establish_name": "黒雲の天気システム", "room_id": "3", 
-    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", "furniture_id": "43041", 
-    "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "30101", "parameter_1": "6.5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", 
+    "furniture_id": "43041", "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "30101", "parameter_1": "6.5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30402", "establish_name": "黒雲の天気システム", "room_id": "3", 
-    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", "furniture_id": "43041", 
-    "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "30102", "parameter_1": "8", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", 
+    "furniture_id": "43041", "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "30102", "parameter_1": "8", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30403", "establish_name": "黒雲の天気システム", "room_id": "3", 
-    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", "furniture_id": "43041", 
-    "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "30103", "parameter_1": "9.5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", 
+    "furniture_id": "43041", "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "30103", "parameter_1": "9.5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30404", "establish_name": "黒雲の天気システム", "room_id": "3", 
-    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", "furniture_id": "43041", 
-    "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "30104", "parameter_1": "11", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", 
+    "furniture_id": "43041", "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "30104", "parameter_1": "11", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30405", "establish_name": "黒雲の天気システム", "room_id": "3", 
-    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", "furniture_id": "43041", 
-    "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "30105", "parameter_1": "12.5", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "小さな黒雲はすべての始まり。バカにしてはいけない。綿、液体のり、ラッカー塗料で黒い雲を作るのは、模型界では高度な技だ。", 
+    "furniture_id": "43041", "update_furniture_id": "43041", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "30105", "parameter_1": "12.5", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30406", "establish_name": "暗月の天気システム", "room_id": "3", 
     "description": "神秘的なダークムーンが黒雲の向こうからうっすらとその片鱗を覗かせると、妖精たちは嬉々としてタロットカードと召喚ロウソクを取り出す。彼女たちが変な騒ぎを起こしませんように……", 
@@ -1117,20 +1133,20 @@
     "parameter_2": "0", "parameter_3": "0"
   }, {
     "establish_id": "30410", "establish_name": "双月の天気システム", "room_id": "3", 
-    "description": "月だけの天気図よりいいものは？答えは月2つの天気図！しかもキラキラと光り、ジャガイモのようなフォボスやダイモスよりもずっと綺麗な月。", "furniture_id": "43043", 
-    "update_furniture_id": "43043", "furniture_postion": "17,5", "establish_type": "304", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "30110", "parameter_1": "20", "parameter_2": "0", 
-    "parameter_3": "0"
+    "description": "月だけの天気図よりいいものは？答えは月2つの天気図！しかもキラキラと光り、ジャガイモのようなフォボスやダイモスよりもずっと綺麗な月。", 
+    "furniture_id": "43043", "update_furniture_id": "43043", "furniture_postion": "17,5", "establish_type": "304", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "30110", "parameter_1": "20", 
+    "parameter_2": "0", "parameter_3": "0"
   }, {
-    "establish_id": "40001", "establish_name": "カフェ壁紙", "room_id": "4", "description": "カフェ壁紙", "furniture_id": "40019", 
-    "update_furniture_id": "40019", "furniture_postion": "2,2", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "40001", "establish_name": "カフェ壁紙", "room_id": "4", "description": "カフェ壁紙", 
+    "furniture_id": "40019", "update_furniture_id": "40019", "furniture_postion": "2,2", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40003", "establish_name": "カフェフロア", "room_id": "4", "description": "カフェフロア", "furniture_id": "40021", 
-    "update_furniture_id": "40021", "furniture_postion": "2,2", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "40003", "establish_name": "カフェフロア", "room_id": "4", "description": "カフェフロア", 
+    "furniture_id": "40021", "update_furniture_id": "40021", "furniture_postion": "2,2", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "40004", "establish_name": "カフェカーペット", "room_id": "4", "description": "カフェカーペット", 
     "furniture_id": "40022", "update_furniture_id": "40022", "furniture_postion": "11,6", "establish_type": "0", 
@@ -1142,15 +1158,15 @@
     "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40006", "establish_name": "カフェラック", "room_id": "4", "description": "カフェラック", "furniture_id": "40024", 
-    "update_furniture_id": "40024", "furniture_postion": "6,3", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "40006", "establish_name": "カフェラック", "room_id": "4", "description": "カフェラック", 
+    "furniture_id": "40024", "update_furniture_id": "40024", "furniture_postion": "6,3", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40007", "establish_name": "カフェ壁掛け", "room_id": "4", "description": "カフェ壁掛け", "furniture_id": "40025", 
-    "update_furniture_id": "40025", "furniture_postion": "16,13", "establish_type": "0", "establish_lv": "1", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "40007", "establish_name": "カフェ壁掛け", "room_id": "4", "description": "カフェ壁掛け", 
+    "furniture_id": "40025", "update_furniture_id": "40025", "furniture_postion": "16,13", "establish_type": "0", 
+    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "40008", "establish_name": "カフェフロア音響", "room_id": "4", "description": "カフェフロア音響", 
     "furniture_id": "40026", "update_furniture_id": "40026", "furniture_postion": "17,2", "establish_type": "0", 
@@ -1168,10 +1184,10 @@
     "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40011", "establish_name": "カフェコーヒー豆キャニスター", "room_id": "4", "description": "カフェコーヒー豆キャニスター", 
-    "furniture_id": "40030", "update_furniture_id": "40030", "furniture_postion": "21,2", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "40011", "establish_name": "カフェコーヒー豆キャニスター", "room_id": "4", 
+    "description": "カフェコーヒー豆キャニスター", "furniture_id": "40030", "update_furniture_id": "40030", 
+    "furniture_postion": "21,2", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "40013", "establish_name": "カフェハイスツール", "room_id": "4", "description": "カフェハイスツール", 
     "furniture_id": "40033", "update_furniture_id": "40033", "furniture_postion": "14,7", "establish_type": "0", 
@@ -1198,40 +1214,40 @@
     "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40019", "establish_name": "カフェバーカウンター裏板", "room_id": "4", "description": "カフェバーカウンター裏板", 
-    "furniture_id": "40034", "update_furniture_id": "40034", "furniture_postion": "2,18", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "40019", "establish_name": "カフェバーカウンター裏板", "room_id": "4", 
+    "description": "カフェバーカウンター裏板", "furniture_id": "40034", "update_furniture_id": "40034", 
+    "furniture_postion": "2,18", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "40020", "establish_name": "カフェ椅子(右)", "room_id": "4", "description": "カフェ椅子(右)", 
     "furniture_id": "40032", "update_furniture_id": "40032", "furniture_postion": "29,12", "establish_type": "0", 
     "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40021", "establish_name": "カフェハイスツール(対話なし)", "room_id": "4", "description": "カフェハイスツール(対話なし)", 
-    "furniture_id": "40040", "update_furniture_id": "40040", "furniture_postion": "8,7", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "40021", "establish_name": "カフェハイスツール(対話なし)", "room_id": "4", 
+    "description": "カフェハイスツール(対話なし)", "furniture_id": "40040", "update_furniture_id": "40040", 
+    "furniture_postion": "8,7", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40022", "establish_name": "カフェバーカウンター冷蔵庫", "room_id": "4", "description": "カフェバーカウンター冷蔵庫", 
-    "furniture_id": "40035", "update_furniture_id": "40035", "furniture_postion": "3,22", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "40022", "establish_name": "カフェバーカウンター冷蔵庫", "room_id": "4", 
+    "description": "カフェバーカウンター冷蔵庫", "furniture_id": "40035", "update_furniture_id": "40035", 
+    "furniture_postion": "3,22", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40023", "establish_name": "コーヒーマシン", "room_id": "4", "description": "カフェバーカウンターコーヒーメーカー", 
-    "furniture_id": "40036", "update_furniture_id": "40036", "furniture_postion": "12,21", "establish_type": "405", 
-    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "40023", "establish_name": "コーヒーマシン", "room_id": "4", 
+    "description": "カフェバーカウンターコーヒーメーカー", "furniture_id": "40036", "update_furniture_id": "40036", 
+    "furniture_postion": "12,21", "establish_type": "405", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "40024", "establish_name": "レコードプレーヤー", "room_id": "4", "description": "レコードプレーヤー", 
     "furniture_id": "40037", "update_furniture_id": "40037", "furniture_postion": "17,3", "establish_type": "401", 
     "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
     "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "40025", "establish_name": "カフェハイスツール(対話なし)", "room_id": "4", "description": "カフェハイスツール(対話なし)", 
-    "furniture_id": "40040", "update_furniture_id": "40040", "furniture_postion": "11,7", "establish_type": "0", 
-    "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "40025", "establish_name": "カフェハイスツール(対話なし)", "room_id": "4", 
+    "description": "カフェハイスツール(対話なし)", "furniture_id": "40040", "update_furniture_id": "40040", 
+    "furniture_postion": "11,7", "establish_type": "0", "establish_lv": "1", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "40026", "establish_name": "ノート", "room_id": "4", "description": "ノート", "furniture_id": "40038", 
     "update_furniture_id": "40038", "furniture_postion": "2,5", "establish_type": "402", "establish_lv": "0", 
@@ -1274,63 +1290,63 @@
     "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "50100", "establish_name": "埃を被った傍受設備", "room_id": "5", 
-    "description": "埃まみれの布地を被せられていた電子設備。古い無線機材のようだが、上にうっすらと「WAVE」という文字が見える。", "furniture_id": "45010", 
-    "update_furniture_id": "45010", "furniture_postion": "5,4", "establish_type": "501", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "10,0", "parameter_2": "90,0", 
-    "parameter_3": ""
+    "description": "埃まみれの布地を被せられていた電子設備。古い無線機材のようだが、上にうっすらと「WAVE」という文字が見える。", 
+    "furniture_id": "45010", "update_furniture_id": "45010", "furniture_postion": "5,4", "establish_type": "501", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "10,0", 
+    "parameter_2": "90,0", "parameter_3": ""
   }, {
     "establish_id": "50101", "establish_name": "短波傍受設備", "room_id": "5", 
-    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", "furniture_id": "45011", 
-    "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "14,2", "parameter_2": "126,18", 
-    "parameter_3": ""
+    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", 
+    "furniture_id": "45011", "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "14,2", 
+    "parameter_2": "126,18", "parameter_3": ""
   }, {
     "establish_id": "50102", "establish_name": "短波傍受設備", "room_id": "5", 
-    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", "furniture_id": "45011", 
-    "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "18,4", "parameter_2": "162,36", 
-    "parameter_3": ""
+    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", 
+    "furniture_id": "45011", "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "18,4", 
+    "parameter_2": "162,36", "parameter_3": ""
   }, {
     "establish_id": "50103", "establish_name": "短波傍受設備", "room_id": "5", 
-    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", "furniture_id": "45011", 
-    "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "22,6", "parameter_2": "198,54", 
-    "parameter_3": ""
+    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", 
+    "furniture_id": "45011", "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "22,6", 
+    "parameter_2": "198,54", "parameter_3": ""
   }, {
     "establish_id": "50104", "establish_name": "短波傍受設備", "room_id": "5", 
-    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", "furniture_id": "45011", 
-    "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "0", "parameter_1": "26,8", "parameter_2": "234,72", 
-    "parameter_3": ""
+    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", 
+    "furniture_id": "45011", "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "0", "parameter_1": "26,8", 
+    "parameter_2": "234,72", "parameter_3": ""
   }, {
     "establish_id": "50105", "establish_name": "短波傍受設備", "room_id": "5", 
-    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", "furniture_id": "45011", 
-    "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "0", "parameter_1": "30,10", "parameter_2": "270,90", 
-    "parameter_3": ""
+    "description": "かつての戦時中、諜報員はこのような古めかしい設備を使って数多くの機密電文を解読し、戦局を一変させたという。さあ、あなたもやってみよう！", 
+    "furniture_id": "45011", "update_furniture_id": "45011", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "0", "parameter_1": "30,10", 
+    "parameter_2": "270,90", "parameter_3": ""
   }, {
     "establish_id": "50106", "establish_name": "長波傍受設備", "room_id": "5", 
-    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", "furniture_id": "45012", 
-    "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "6", 
-    "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "0", "parameter_1": "34,12", 
+    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", 
+    "furniture_id": "45012", "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "0", "parameter_1": "34,12", 
     "parameter_2": "306,108", "parameter_3": ""
   }, {
     "establish_id": "50107", "establish_name": "長波傍受設備", "room_id": "5", 
-    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", "furniture_id": "45012", 
-    "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "7", 
-    "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "0", "parameter_1": "38,14", 
+    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", 
+    "furniture_id": "45012", "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "0", "parameter_1": "38,14", 
     "parameter_2": "342,126", "parameter_3": ""
   }, {
     "establish_id": "50108", "establish_name": "長波傍受設備", "room_id": "5", 
-    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", "furniture_id": "45012", 
-    "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "8", 
-    "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "0", "parameter_1": "42,16", 
+    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", 
+    "furniture_id": "45012", "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "0", "parameter_1": "42,16", 
     "parameter_2": "378,144", "parameter_3": ""
   }, {
     "establish_id": "50109", "establish_name": "長波傍受設備", "room_id": "5", 
-    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", "furniture_id": "45012", 
-    "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", "establish_lv": "9", 
-    "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "0", "parameter_1": "46,18", 
+    "description": "そうね、無線アンテナを地下に張るのは効果が今一つみたい。だから今はアンテナを基地の外に出してるよ、これでより広範囲の情報が手に入るね。", 
+    "furniture_id": "45012", "update_furniture_id": "45012", "furniture_postion": "5,5", "establish_type": "501", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "0", "parameter_1": "46,18", 
     "parameter_2": "414,162", "parameter_3": ""
   }, {
     "establish_id": "50110", "establish_name": "データ観測中枢", "room_id": "5", 
@@ -1340,10 +1356,10 @@
     "parameter_2": "450,180", "parameter_3": ""
   }, {
     "establish_id": "50200", "establish_name": "埃を被ったブリーフィングステーション", "room_id": "5", 
-    "description": "長い長い諜報史の中、数多の謎がこういった質素なボードの前で解かれてきた。そのボードは今、汚れをはたき落とし、再び使われるのを待っている。", "furniture_id": "45020", 
-    "update_furniture_id": "45020", "furniture_postion": "8,1", "establish_type": "502", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "1", "parameter_2": "1", 
-    "parameter_3": ""
+    "description": "長い長い諜報史の中、数多の謎がこういった質素なボードの前で解かれてきた。そのボードは今、汚れをはたき落とし、再び使われるのを待っている。", 
+    "furniture_id": "45020", "update_furniture_id": "45020", "furniture_postion": "8,1", "establish_type": "502", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "1", 
+    "parameter_2": "1", "parameter_3": ""
   }, {
     "establish_id": "50201", "establish_name": "臨時ブリーフィングステーション", "room_id": "5", 
     "description": "諜報員(と諜報員を演じる人)にとってかかせないモノ。複雑な手がかりからヒントが掴めていないのであれば、この古めかしい暗号機は君を悩みに悩ませてくれるはずだ。俗にいう「敵を欺くにはまず味方から」である。", 
@@ -1466,10 +1482,10 @@
     "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "50310", "establish_name": "水冷式超速記憶装置", "room_id": "5", 
-    "description": "データサンプルストレージの究極形態。読み込みも書き込みもメチャメチャ速くなった代わりに、特殊冷却液が必要となった。マジパネェ。", "furniture_id": "45033", 
-    "update_furniture_id": "45033", "furniture_postion": "11,2", "establish_type": "503", "establish_lv": "10", 
-    "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "0", "parameter_1": "3600,1000", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "データサンプルストレージの究極形態。読み込みも書き込みもメチャメチャ速くなった代わりに、特殊冷却液が必要となった。マジパネェ。", 
+    "furniture_id": "45033", "update_furniture_id": "45033", "furniture_postion": "11,2", "establish_type": "503", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "0", 
+    "parameter_1": "3600,1000", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "50400", "establish_name": "埃を被った解析機", "room_id": "5", 
     "description": "防水シートの下にあったのは巨大な鉄のトランクだった。よくわからないメーターやつまみがたくさん付いているが、これを起動することでデータの解析が始まり、強力な武器の設計図が手に入るらしい。少なくとも上にはそう記されている。", 
@@ -1636,10 +1652,10 @@
     "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "60202", "establish_name": "中型メンテナンス装置", "room_id": "6", 
-    "description": "三連式の大きなメンテナンス設備群。ドライコースに乾燥機能、さらには仕上げとして芳香機能まで備え、女性指揮官から厚い支持を受けている。", "furniture_id": "46032", 
-    "update_furniture_id": "46032", "furniture_postion": "7,9", "establish_type": "602", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "3", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "三連式の大きなメンテナンス設備群。ドライコースに乾燥機能、さらには仕上げとして芳香機能まで備え、女性指揮官から厚い支持を受けている。", 
+    "furniture_id": "46032", "update_furniture_id": "46032", "furniture_postion": "7,9", "establish_type": "602", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "3", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "60203", "establish_name": "大型メンテナンス装置", "room_id": "6", 
     "description": "四連式となったメンテナンス設備群。除菌、抗アレルギー機能が実装され、言い訳をつけて修復を拒んでいた人形たちに断る理由はなくなった。もっとも、この最新設備の凄いところはA+++レベルの省エネ性能にあり、指揮官を破産のピンチから救ったという。", 
@@ -1713,10 +1729,10 @@
     "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "0", "parameter_1": "4", 
     "parameter_2": "15", "parameter_3": ""
   }, {
-    "establish_id": "60400", "establish_name": "エレベーター-重装兵舎へ", "room_id": "6", "description": "エレベーター-重装兵舎へ", 
-    "furniture_id": "40055", "update_furniture_id": "40055", "furniture_postion": "16,12", "establish_type": "604", 
-    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "60400", "establish_name": "エレベーター-重装兵舎へ", "room_id": "6", 
+    "description": "エレベーター-重装兵舎へ", "furniture_id": "40055", "update_furniture_id": "40055", 
+    "furniture_postion": "16,12", "establish_type": "604", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "70001", "establish_name": "furniture_establish-10070001", "room_id": "7", 
     "description": "furniture_establish-20070001", "furniture_id": "40057", "update_furniture_id": "40057", 
@@ -1768,10 +1784,10 @@
     "furniture_postion": "24,3", "establish_type": "705", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
     "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "70100", "establish_name": "エレベーター-格納庫へ", "room_id": "7", "description": "エレベーター-格納庫へ", 
-    "furniture_id": "40059", "update_furniture_id": "40059", "furniture_postion": "13,10", "establish_type": "701", 
-    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
-    "parameter_2": "", "parameter_3": ""
+    "establish_id": "70100", "establish_name": "エレベーター-格納庫へ", "room_id": "7", 
+    "description": "エレベーター-格納庫へ", "furniture_id": "40059", "update_furniture_id": "40059", 
+    "furniture_postion": "13,10", "establish_type": "701", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
+    "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "80001", "establish_name": "壁紙", "room_id": "8", "description": "壁紙", "furniture_id": "40068", 
     "update_furniture_id": "40068", "furniture_postion": "0,0", "establish_type": "0", "establish_lv": "0", 
@@ -1803,10 +1819,10 @@
     "furniture_postion": "18,8", "establish_type": "0", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
     "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "80007", "establish_name": "ライブモニター", "room_id": "8", "description": "ライブモニター", "furniture_id": "40074", 
-    "update_furniture_id": "40074", "furniture_postion": "23,16", "establish_type": "802", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "80007", "establish_name": "ライブモニター", "room_id": "8", "description": "ライブモニター", 
+    "furniture_id": "40074", "update_furniture_id": "40074", "furniture_postion": "23,16", "establish_type": "802", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "80009", "establish_name": "furniture_establish-10080009", "room_id": "8", 
     "description": "furniture_establish-20080009", "furniture_id": "40076", "update_furniture_id": "40076", 
@@ -1818,10 +1834,10 @@
     "furniture_postion": "15,6", "establish_type": "0", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
     "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
-    "establish_id": "80011", "establish_name": "ブラックマーケット", "room_id": "8", "description": "引換", "furniture_id": "40078", 
-    "update_furniture_id": "40078", "furniture_postion": "0,9", "establish_type": "804", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "establish_id": "80011", "establish_name": "ブラックマーケット", "room_id": "8", "description": "引換", 
+    "furniture_id": "40078", "update_furniture_id": "40078", "furniture_postion": "0,9", "establish_type": "804", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "80012", "establish_name": "furniture_establish-10080012", "room_id": "8", 
     "description": "furniture_establish-20080012", "furniture_id": "40079", "update_furniture_id": "40079", 
@@ -1829,10 +1845,10 @@
     "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "80100", "establish_name": "埃を被ったゲートコンソール", "room_id": "8", 
-    "description": "年代の古いゲートコンソール。でも、誰かが呼んでいる気がする。覆い被っている防水シートを外し、未知なる荒野に向けて、大いなる遠征へ行けと。", "furniture_id": "48010", 
-    "update_furniture_id": "48010", "furniture_postion": "18,14", "establish_type": "801", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "3,1", "parameter_2": "1", 
-    "parameter_3": "4"
+    "description": "年代の古いゲートコンソール。でも、誰かが呼んでいる気がする。覆い被っている防水シートを外し、未知なる荒野に向けて、大いなる遠征へ行けと。", 
+    "furniture_id": "48010", "update_furniture_id": "48010", "furniture_postion": "18,14", "establish_type": "801", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "3,1", 
+    "parameter_2": "1", "parameter_3": "4"
   }, {
     "establish_id": "80101", "establish_name": "古めかしいゲートコンソール", "room_id": "8", 
     "description": "四つのブラウン管から眩しい光が放たれ、その内の一つは手で叩かないとノイズは消えない。こうなると知っていたら、カリーナに探索計画を紙に書かせていればよかった……", 
@@ -1907,16 +1923,16 @@
     "parameter_2": "4,6", "parameter_3": ""
   }, {
     "establish_id": "80302", "establish_name": "中級戦利品収納棚", "room_id": "8", 
-    "description": "二段式収納棚。二倍の容量がもたらすのはもっと自由な出勤時間と、もっと深刻な先延ばし。だからグリフィンの洗濯入れも1リットルの容量しかありません。", "furniture_id": "48032", 
-    "update_furniture_id": "48032", "furniture_postion": "3,5", "establish_type": "803", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "4,6", "parameter_2": "6,9", 
-    "parameter_3": ""
+    "description": "二段式収納棚。二倍の容量がもたらすのはもっと自由な出勤時間と、もっと深刻な先延ばし。だからグリフィンの洗濯入れも1リットルの容量しかありません。", 
+    "furniture_id": "48032", "update_furniture_id": "48032", "furniture_postion": "3,5", "establish_type": "803", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "4,6", 
+    "parameter_2": "6,9", "parameter_3": ""
   }, {
     "establish_id": "80303", "establish_name": "中級戦利品収納棚", "room_id": "8", 
-    "description": "二段式収納棚。二倍の容量がもたらすのはもっと自由な出勤時間と、もっと深刻な先延ばし。だからグリフィンの洗濯入れも1リットルの容量しかありません。", "furniture_id": "48032", 
-    "update_furniture_id": "48032", "furniture_postion": "3,5", "establish_type": "803", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "6,6", "parameter_2": "6,9", 
-    "parameter_3": ""
+    "description": "二段式収納棚。二倍の容量がもたらすのはもっと自由な出勤時間と、もっと深刻な先延ばし。だからグリフィンの洗濯入れも1リットルの容量しかありません。", 
+    "furniture_id": "48032", "update_furniture_id": "48032", "furniture_postion": "3,5", "establish_type": "803", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "6,6", 
+    "parameter_2": "6,9", "parameter_3": ""
   }, {
     "establish_id": "80304", "establish_name": "上級戦利品収納棚", "room_id": "8", 
     "description": "最上級の多段式収納棚。オシャレな作業アームがずっと忙しそうに動いているけど、実は特に意味はない。結局、指揮官は自らの手で戦利品を回収し、補給物資と交換しなければならない。", 
@@ -1967,100 +1983,111 @@
     "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90100", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49010", "update_furniture_id": "49010", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", 
-    "upgrade_condition": "0", "parameter_1": "60480:1", "parameter_2": "9", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49010", "update_furniture_id": "49010", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "60480:1", 
+    "parameter_2": "9", "parameter_3": ""
   }, {
     "establish_id": "90101", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49011", "update_furniture_id": "49011", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", 
-    "upgrade_condition": "0", "parameter_1": "57600:1", "parameter_2": "9", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49011", "update_furniture_id": "49011", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "57600:1", 
+    "parameter_2": "9", "parameter_3": ""
   }, {
     "establish_id": "90102", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49011", "update_furniture_id": "49011", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", 
-    "upgrade_condition": "0", "parameter_1": "54982:1", "parameter_2": "10", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49011", "update_furniture_id": "49011", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "54982:1", 
+    "parameter_2": "10", "parameter_3": ""
   }, {
     "establish_id": "90103", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49011", "update_furniture_id": "49011", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", 
-    "upgrade_condition": "0", "parameter_1": "54982:1", "parameter_2": "11", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49011", "update_furniture_id": "49011", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "54982:1", 
+    "parameter_2": "11", "parameter_3": ""
   }, {
     "establish_id": "90104", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49011", "update_furniture_id": "49011", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", 
-    "upgrade_condition": "0", "parameter_1": "52591:1", "parameter_2": "11", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49011", "update_furniture_id": "49011", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "0", "parameter_1": "52591:1", 
+    "parameter_2": "11", "parameter_3": ""
   }, {
     "establish_id": "90105", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49011", "update_furniture_id": "49011", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", 
-    "upgrade_condition": "0", "parameter_1": "50400:1", "parameter_2": "11", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49011", "update_furniture_id": "49011", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "0", "parameter_1": "50400:1", 
+    "parameter_2": "11", "parameter_3": ""
   }, {
     "establish_id": "90106", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49012", "update_furniture_id": "49012", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", 
-    "upgrade_condition": "0", "parameter_1": "50400:1", "parameter_2": "12", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49012", "update_furniture_id": "49012", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "6", "upgrade_coin": "250", "upgrade_time": "14400", "upgrade_condition": "0", "parameter_1": "50400:1", 
+    "parameter_2": "12", "parameter_3": ""
   }, {
     "establish_id": "90107", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49012", "update_furniture_id": "49012", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", 
-    "upgrade_condition": "0", "parameter_1": "46523:1", "parameter_2": "12", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49012", "update_furniture_id": "49012", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "7", "upgrade_coin": "350", "upgrade_time": "28800", "upgrade_condition": "0", "parameter_1": "46523:1", 
+    "parameter_2": "12", "parameter_3": ""
   }, {
     "establish_id": "90108", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49012", "update_furniture_id": "49012", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", 
-    "upgrade_condition": "0", "parameter_1": "46523:1", "parameter_2": "13", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49012", "update_furniture_id": "49012", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "8", "upgrade_coin": "450", "upgrade_time": "43200", "upgrade_condition": "0", "parameter_1": "46523:1", 
+    "parameter_2": "13", "parameter_3": ""
   }, {
     "establish_id": "90109", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49012", "update_furniture_id": "49012", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", 
-    "upgrade_condition": "0", "parameter_1": "43200:1", "parameter_2": "13", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49012", "update_furniture_id": "49012", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "9", "upgrade_coin": "600", "upgrade_time": "64800", "upgrade_condition": "0", "parameter_1": "43200:1", 
+    "parameter_2": "13", "parameter_3": ""
   }, {
     "establish_id": "90110", "establish_name": "パルス生成炉", "room_id": "9", 
-    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", "furniture_id": "49013", "update_furniture_id": "49013", 
-    "furniture_postion": "0,5", "establish_type": "901", "establish_lv": "10", "upgrade_coin": "800", 
-    "upgrade_time": "86400", "upgrade_condition": "0", "parameter_1": "43200:1", "parameter_2": "14", "parameter_3": ""
+    "description": "電子パルスを生産し貯蔵する。レベルアップさせることで、生産速度と貯蔵上限が上がる。", 
+    "furniture_id": "49013", "update_furniture_id": "49013", "furniture_postion": "0,5", "establish_type": "901", 
+    "establish_lv": "10", "upgrade_coin": "800", "upgrade_time": "86400", "upgrade_condition": "0", "parameter_1": "43200:1", 
+    "parameter_2": "14", "parameter_3": ""
   }, {
     "establish_id": "90200", "establish_name": "戦術チップ開発ステーション", "room_id": "9", 
-    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", "furniture_id": "49030", 
-    "update_furniture_id": "49030", "furniture_postion": "10,11", "establish_type": "902", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", 
+    "furniture_id": "49030", "update_furniture_id": "49030", "furniture_postion": "10,11", "establish_type": "902", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90201", "establish_name": "戦術チップ開発ステーション", "room_id": "9", 
-    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", "furniture_id": "49031", 
-    "update_furniture_id": "49031", "furniture_postion": "10,11", "establish_type": "902", "establish_lv": "1", 
-    "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", 
+    "furniture_id": "49031", "update_furniture_id": "49031", "furniture_postion": "10,11", "establish_type": "902", 
+    "establish_lv": "1", "upgrade_coin": "5", "upgrade_time": "60", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90202", "establish_name": "戦術チップ開発ステーション", "room_id": "9", 
-    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", "furniture_id": "49031", 
-    "update_furniture_id": "49031", "furniture_postion": "10,11", "establish_type": "902", "establish_lv": "2", 
-    "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", 
+    "furniture_id": "49031", "update_furniture_id": "49031", "furniture_postion": "10,11", "establish_type": "902", 
+    "establish_lv": "2", "upgrade_coin": "50", "upgrade_time": "300", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90203", "establish_name": "戦術チップ開発ステーション", "room_id": "9", 
-    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", "furniture_id": "49032", 
-    "update_furniture_id": "49032", "furniture_postion": "10,11", "establish_type": "902", "establish_lv": "3", 
-    "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", 
+    "furniture_id": "49032", "update_furniture_id": "49032", "furniture_postion": "10,11", "establish_type": "902", 
+    "establish_lv": "3", "upgrade_coin": "100", "upgrade_time": "1800", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90204", "establish_name": "戦術チップ開発ステーション", "room_id": "9", 
-    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", "furniture_id": "49032", 
-    "update_furniture_id": "49032", "furniture_postion": "10,11", "establish_type": "902", "establish_lv": "4", 
-    "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", 
+    "furniture_id": "49032", "update_furniture_id": "49032", "furniture_postion": "10,11", "establish_type": "902", 
+    "establish_lv": "4", "upgrade_coin": "150", "upgrade_time": "3600", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90205", "establish_name": "戦術チップ開発ステーション", "room_id": "9", 
-    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", "furniture_id": "49033", 
-    "update_furniture_id": "49033", "furniture_postion": "10,11", "establish_type": "902", "establish_lv": "5", 
-    "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "戦術チップ開発ステーションをレベルアップさせることで、より多くの戦術チップが開放できるようになる。", 
+    "furniture_id": "49033", "update_furniture_id": "49033", "furniture_postion": "10,11", "establish_type": "902", 
+    "establish_lv": "5", "upgrade_coin": "200", "upgrade_time": "7200", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }, {
     "establish_id": "90400", "establish_name": "潜在転移駆動装置", "room_id": "9", 
-    "description": "同名融合勢力ユニット同士のレベル、エーテル開発レベル、ピーク解析レベル、好感度、スキルレベルを交換することができる。", "furniture_id": "49041", 
-    "update_furniture_id": "49041", "furniture_postion": "19,0", "establish_type": "904", "establish_lv": "0", 
-    "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", "parameter_2": "", 
-    "parameter_3": ""
+    "description": "同名融合勢力ユニット同士のレベル、エーテル開発レベル、ピーク解析レベル、好感度、スキルレベルを交換することができる。", 
+    "furniture_id": "49041", "update_furniture_id": "49041", "furniture_postion": "19,0", "establish_type": "904", 
+    "establish_lv": "0", "upgrade_coin": "0", "upgrade_time": "0", "upgrade_condition": "0", "parameter_1": "", 
+    "parameter_2": "", "parameter_3": ""
   }
 ]

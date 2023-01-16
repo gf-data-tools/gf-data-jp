@@ -64,9 +64,9 @@
     "duration_type": 1, "duration": -1, "parameter": "-1", "trigger_creation_id": 0, "creation_id": 13, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 117, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500101", "trigger_creation_id": 0, "creation_id": 5, 
-    "available_gun_type": "0", "ui_control": 0
+    "id": 117, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", 
+    "max_tier": 1, "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500101", "trigger_creation_id": 0, 
+    "creation_id": 5, "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 118, "name": "CT短縮", "code": "FlightChessBuff_17", "description": "CT短縮-1", "max_tier": 5, "type": 122, 
     "duration_type": 1, "duration": -1, "parameter": "-1", "trigger_creation_id": 0, "creation_id": 5, 
@@ -80,12 +80,12 @@
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 121, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+1", "max_tier": 99, "type": 125, 
-    "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 121, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+1", "max_tier": 99, 
+    "type": 125, "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 122, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+2", "max_tier": 99, "type": 125, 
-    "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 122, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+2", "max_tier": 99, 
+    "type": 125, "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 123, "name": "chess_buff-10000123", "code": "", "description": "chess_buff-20000123", "max_tier": 1, "type": 104, 
@@ -96,24 +96,24 @@
     "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 125, "name": "ダメージ調整", "code": "FlightChessBuff_1", "description": "10ポイント未満", "max_tier": 1, "type": 108, 
-    "duration_type": 1, "duration": -1, "parameter": "*500102", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 125, "name": "ダメージ調整", "code": "FlightChessBuff_1", "description": "10ポイント未満", "max_tier": 1, 
+    "type": 108, "duration_type": 1, "duration": -1, "parameter": "*500102", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 126, "name": "ダメージ上昇", "code": "FlightChessBuff_1", "description": "ダメージ+1", "max_tier": 99, "type": 101, 
     "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 7, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 127, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃調整", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500103", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 127, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃調整", "max_tier": 1, 
+    "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500103", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 128, "name": "行動力上昇", "code": "FlightChessBuff_3", "description": "行動力+2", "max_tier": 99, "type": 102, 
     "duration_type": 1, "duration": 1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 8, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 129, "name": "ランダムポイント射程", "code": "FlightChessBuff_5", "description": "射程+3", "max_tier": 1, "type": 103, 
-    "duration_type": 1, "duration": 1, "parameter": "3", "trigger_creation_id": 0, "creation_id": 9, 
+    "id": 129, "name": "ランダムポイント射程", "code": "FlightChessBuff_5", "description": "射程+3", "max_tier": 1, 
+    "type": 103, "duration_type": 1, "duration": 1, "parameter": "3", "trigger_creation_id": 0, "creation_id": 9, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 130, "name": "ダメージ上昇", "code": "FlightChessBuff_1", "description": "ダメージ+5", "max_tier": 1, "type": 101, 
@@ -136,16 +136,16 @@
     "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 8, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 135, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 5, "type": 130, 
-    "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 135, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 5, 
+    "type": 130, "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 136, "name": "ダイスの目", "code": "FlightChessBuff_24", "description": "行動5未満", "max_tier": 1, "type": 132, 
     "duration_type": 2, "duration": 1, "parameter": "5", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 137, "name": "バトルダイス", "code": "FlightChessBuff_23", "description": "バトルダイス+1", "max_tier": 1, "type": 131, 
-    "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 137, "name": "バトルダイス", "code": "FlightChessBuff_23", "description": "バトルダイス+1", "max_tier": 1, 
+    "type": 131, "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 138, "name": "ダイスの目", "code": "FlightChessBuff_24", "description": "行動3未満", "max_tier": 1, "type": 133, 
@@ -184,8 +184,8 @@
     "duration_type": 1, "duration": 1, "parameter": "4", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 147, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 1, "type": 130, 
-    "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 147, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 1, 
+    "type": 130, "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 148, "name": "chess_buff-10000148", "code": "", "description": "chess_buff-20000148", "max_tier": 1, "type": 400, 
@@ -196,13 +196,13 @@
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 150, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500104", "trigger_creation_id": 0, "creation_id": 5, 
-    "available_gun_type": "0", "ui_control": 0
+    "id": 150, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", 
+    "max_tier": 1, "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500104", "trigger_creation_id": 0, 
+    "creation_id": 5, "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 151, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500105", "trigger_creation_id": 0, "creation_id": 5, 
-    "available_gun_type": "0", "ui_control": 0
+    "id": 151, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", 
+    "max_tier": 1, "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500105", "trigger_creation_id": 0, 
+    "creation_id": 5, "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 152, "name": "chess_buff-10000152", "code": "", "description": "chess_buff-20000152", "max_tier": 1, "type": 400, 
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
@@ -240,9 +240,9 @@
     "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 161, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500101", "trigger_creation_id": 0, "creation_id": 5, 
-    "available_gun_type": "0", "ui_control": 0
+    "id": 161, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃ダメージ調整", 
+    "max_tier": 1, "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500101", "trigger_creation_id": 0, 
+    "creation_id": 5, "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 162, "name": "射程", "code": "FlightChessBuff_5", "description": "射程+2", "max_tier": 99, "type": 103, 
     "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 9, 
@@ -256,8 +256,8 @@
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 165, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃調整", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500107", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 165, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "通常攻撃調整", "max_tier": 1, 
+    "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500107", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 166, "name": "chess_buff-10000166", "code": "", "description": "chess_buff-20000166", "max_tier": 1, "type": 400, 
@@ -328,8 +328,8 @@
     "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 183, "name": "ダメージ調整", "code": "FlightChessBuff_28", "description": "8ポイント未満", "max_tier": 1, "type": 108, 
-    "duration_type": 1, "duration": -1, "parameter": "*500108", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 183, "name": "ダメージ調整", "code": "FlightChessBuff_28", "description": "8ポイント未満", "max_tier": 1, 
+    "type": 108, "duration_type": 1, "duration": -1, "parameter": "*500108", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 194, "name": "chess_buff-10000194", "code": "", "description": "chess_buff-20000194", "max_tier": 5, "type": 400, 
@@ -364,8 +364,8 @@
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 202, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+1", "max_tier": 99, "type": 125, 
-    "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 202, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+1", "max_tier": 99, 
+    "type": 125, "duration_type": 1, "duration": -1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 203, "name": "chess_buff-10000203", "code": "", "description": "chess_buff-20000203", "max_tier": 1, "type": 400, 
@@ -384,8 +384,8 @@
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 207, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 1, "type": 130, 
-    "duration_type": 2, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 207, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 1, 
+    "type": 130, "duration_type": 2, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 208, "name": "chess_buff-10000208", "code": "", "description": "chess_buff-20000208", "max_tier": 1, "type": 108, 
@@ -460,16 +460,16 @@
     "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 226, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+2", "max_tier": 99, "type": 125, 
-    "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 226, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+2", "max_tier": 99, 
+    "type": 125, "duration_type": 1, "duration": -1, "parameter": "2", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 227, "name": "chess_buff-10000227", "code": "", "description": "chess_buff-20000227", "max_tier": 1, "type": 400, 
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 228, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 1, "type": 130, 
-    "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 228, "name": "アクションダイス", "code": "FlightChessBuff_22", "description": "アクションダイス+1", "max_tier": 1, 
+    "type": 130, "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 229, "name": "chess_buff-10000229", "code": "", "description": "chess_buff-20000229", "max_tier": 1, "type": 400, 
@@ -524,24 +524,24 @@
     "duration_type": 1, "duration": -1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 242, "name": "ダイスの目", "code": "FlightChessBuff_25", "description": "バトルダイス最低値", "max_tier": 1, "type": 135, 
-    "duration_type": 2, "duration": 1, "parameter": "*500112", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 242, "name": "ダイスの目", "code": "FlightChessBuff_25", "description": "バトルダイス最低値", "max_tier": 1, 
+    "type": 135, "duration_type": 2, "duration": 1, "parameter": "*500112", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 243, "name": "ダイスの目", "code": "FlightChessBuff_25", "description": "バトルダイス最低値", "max_tier": 1, "type": 135, 
-    "duration_type": 2, "duration": 1, "parameter": "*500113", "trigger_creation_id": 0, "creation_id": 4, 
+    "id": 243, "name": "ダイスの目", "code": "FlightChessBuff_25", "description": "バトルダイス最低値", "max_tier": 1, 
+    "type": 135, "duration_type": 2, "duration": 1, "parameter": "*500113", "trigger_creation_id": 0, "creation_id": 4, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 244, "name": "chess_buff-10000244", "code": "", "description": "chess_buff-20000244", "max_tier": 1, "type": 400, 
     "duration_type": 1, "duration": 1, "parameter": "0", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 246, "name": "ダメージ調整", "code": "FlightChessBuff_30", "description": "ダメージを一度無効化", "max_tier": 1, "type": 108, 
-    "duration_type": 2, "duration": 1, "parameter": "*500114", "trigger_creation_id": 0, "creation_id": 0, 
+    "id": 246, "name": "ダメージ調整", "code": "FlightChessBuff_30", "description": "ダメージを一度無効化", "max_tier": 1, 
+    "type": 108, "duration_type": 2, "duration": 1, "parameter": "*500114", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 247, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_29", "description": "必殺", "max_tier": 1, "type": 120, 
-    "duration_type": 2, "duration": 1, "parameter": "*500115", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 247, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_29", "description": "必殺", "max_tier": 1, 
+    "type": 120, "duration_type": 2, "duration": 1, "parameter": "*500115", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 248, "name": "chess_buff-10000248", "code": "", "description": "chess_buff-20000248", "max_tier": 1, "type": 400, 
@@ -624,12 +624,12 @@
     "duration_type": 2, "duration": 1, "parameter": "-1", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 268, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "ダメージ+5", "max_tier": 1, "type": 120, 
-    "duration_type": 1, "duration": -1, "parameter": "*500116", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 268, "name": "通常攻撃ダメージ調整", "code": "FlightChessBuff_28", "description": "ダメージ+5", "max_tier": 1, 
+    "type": 120, "duration_type": 1, "duration": -1, "parameter": "*500116", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 269, "name": "ダメージ調整", "code": "FlightChessBuff_28", "description": "ダメージを一度無効化", "max_tier": 1, "type": 108, 
-    "duration_type": 1, "duration": -1, "parameter": "*500117", "trigger_creation_id": 0, "creation_id": 0, 
+    "id": 269, "name": "ダメージ調整", "code": "FlightChessBuff_28", "description": "ダメージを一度無効化", "max_tier": 1, 
+    "type": 108, "duration_type": 1, "duration": -1, "parameter": "*500117", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 270, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+2", "max_tier": 1, "type": 125, 
@@ -660,8 +660,8 @@
     "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 0, 
     "available_gun_type": "0", "ui_control": 0
   }, {
-    "id": 277, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+1", "max_tier": 99, "type": 125, 
-    "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
+    "id": 277, "name": "ジャンプ距離", "code": "FlightChessBuff_26", "description": "機動距離+1", "max_tier": 99, 
+    "type": 125, "duration_type": 1, "duration": 1, "parameter": "1", "trigger_creation_id": 0, "creation_id": 5, 
     "available_gun_type": "0", "ui_control": 0
   }, {
     "id": 278, "name": "chess_buff-10000278", "code": "", "description": "chess_buff-20000278", "max_tier": 1, "type": 400, 

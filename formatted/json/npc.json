@@ -9,11 +9,12 @@
     "org_introduction": "若きグリフォンの騎士。行く道先には多くの困難が待ち受けているが、騎士には多くの仲間たちがいる。"
   }, {
     "id": -12, "name": "マホロ", "code": "NPC_Maid", "title": "マホロ", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "緊急11-4をクリアで解放", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999988"
+    "unlock_text": "緊急11-4をクリアで解放", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999988"
   }, {
-    "id": -11, "name": "K", "code": "NPC_Jason", "title": "K", "ai": 9999, "is_adjutant": 1, "unlock_text": "緊急11-4をクリアで解放", 
-    "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", "org_introduction": "npc-39999989"
+    "id": -11, "name": "K", "code": "NPC_Jason", "title": "K", "ai": 9999, "is_adjutant": 1, 
+    "unlock_text": "緊急11-4をクリアで解放", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999989"
   }, {
     "id": -10, "name": "アンジェリア", "code": "NPC_Ange", "title": "アンジェリア", "ai": 9999, "is_adjutant": 1, 
     "unlock_text": "通常10-1をクリアで解放", "mission_id": 95, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
@@ -24,12 +25,12 @@
     "org_introduction": "npc-39999991"
   }, {
     "id": -8, "name": "シーア", "code": "NPC_Seele", "title": "シーア", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "深層映写-認知混迷I をクリアで解放", "mission_id": 10030, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999992"
+    "unlock_text": "深層映写-認知混迷I をクリアで解放", "mission_id": 10030, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999992"
   }, {
     "id": -7, "name": "デール", "code": "NPC_Deele", "title": "デール", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "深層映写-認知混迷I をクリアで解放", "mission_id": 10030, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999993"
+    "unlock_text": "深層映写-認知混迷I をクリアで解放", "mission_id": 10030, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999993"
   }, {
     "id": -6, "name": "クルーガー", "code": "NPC_Kryuger", "title": "クルーガー", "ai": 9999, "is_adjutant": 1, 
     "unlock_text": "通常5-2をクリアで解放", "mission_id": 46, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
