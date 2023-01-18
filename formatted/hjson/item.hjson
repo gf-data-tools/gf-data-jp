@@ -13874,4 +13874,37 @@
     sort: -1
     detail_introduction: item-31500036
   }
+  {
+    id: 1500045
+    type: 15
+    arg: "1500045"
+    code: Bumdle_Coupons3
+    item_name: 秘蔵スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500045
+  }
+  {
+    id: 1500046
+    type: 15
+    arg: "1500046"
+    code: Bumdle_Coupons2
+    item_name: プレミアムスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500046
+  }
+  {
+    id: 1500047
+    type: 15
+    arg: "1500047"
+    code: Bumdle_Coupons1
+    item_name: 至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500047
+  }
 ]
