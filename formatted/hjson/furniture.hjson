@@ -24711,6 +24711,220 @@
     touch_area: "6,3,0,0,10,0"
   }
   {
+    id: 10101
+    name: 駆け抜けるカーリング-カーリング上の競い合い
+    classes: 101
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 観客の臨場感を高めるために、場内のフロアはすべて競技エリアと同じスベスベの素材を使っている。しかしそれが原因で、近くの接骨院の患者数は爆発的に増えている。
+    code: WhiteV2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10102
+    name: 駆け抜けるカーリング-控え選手用ベンチ
+    classes: 101
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 選手たちのベンチ。本来なら各チームメンバー同士、助け合いの精神を見せるところではあるが、なぜか相手チームに野次を飛ばすところが多い。
+    code: WhiteV2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10103
+    name: 駆け抜けるカーリング-星の表彰台
+    classes: 101
+    type: 201
+    position: "20,8"
+    space: "12,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 選手たち憧れの表彰台。かつてチャンピオンが立ったあの場所に立てばきっと、スポットライトを浴び、注目を集め、涙が溢れるあの瞬間を味わえるだろう。
+    code: WhiteV2022_deco_22,WhiteV2022_deco_23,WhiteV2022_deco_24,WhiteV2022_podium
+    texture_type: "1,1,1,2"
+    sorting: "0,0,0,20"
+    offset: "-1.6576594352,-0.36596913994,-0.084454508346|0.64450548667,-0.36596913994,-0.084454414503|2.9487556,-0.36596913994,-0.084454414503|0.375372,0,0"
+    rotate: "2,2,2,2"
+    interact_point: "876092,17,17"
+    interact_point_offset: *-0.291666,1.8958329,0|*-3.7916658,1.201666392,0|*3.2083326,1.0208331,0
+    touch_area: "12,3,0"
+  }
+  {
+    id: 10104
+    name: 駆け抜けるカーリング-実況モニター
+    classes: 101
+    type: 302
+    position: "21,0"
+    space: "10,5,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 各チームの得点状況をリアルタイムで更新しているモニター。その一秒一秒が、観客たちの熱い視線を集めている。
+    code: WhiteV2022_deco_01,WhiteV2022_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.740317,0.281529,0|1.5535062176,0.281529,-0.00000013206827773"
+    rotate: "3,3"
+  }
+  {
+    id: 10105
+    name: 駆け抜けるカーリング-絶対防御の壁
+    classes: 101
+    type: 201
+    position: "5,0"
+    space: "22,1,1,1,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: もっとも強固な有機材料で作られた仕切り。飛び交うストーンの破片だけでなく、負けたせいで怒り狂った人形を防ぐこともできる。
+    code: WhiteV2022_deco_03,WhiteV2022_deco_04,WhiteV2022_deco_05
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-2.7315810013,-0.229394,0.53177679146|1.87686,-0.229394,0.531777|6.4814232,-0.229394,0.53177689573"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10106
+    name: 駆け抜けるカーリング-審判員席
+    classes: 101
+    type: 201
+    position: "5,2"
+    space: "8,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: この席に座るなら、たとえ人形に誘惑されようと、脅迫されようと、スウィーパーを喉に突きつけられようと、ストーンを頭に乗せられようと、もっとも公正な審判を下さなければならない。
+    code: WhiteV2022_deco_06,WhiteV2022_deco_07
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.5733682176,-0.250248,-0.062562|1.730882,-0.250248,-0.062562"
+    rotate: "2,2"
+    interact_point: "19"
+    interact_point_offset: *-3.613749174,1.125833076,0
+  }
+  {
+    id: 10107
+    name: 駆け抜けるカーリング-見上げる星空
+    classes: 101
+    type: 201
+    position: "31,11"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: トロフィーを見上げる選手たちの目には、夜空の星々が映っていた。
+    code: WhiteV2022_deco_25,WhiteV2022_deco_26,WhiteV2022_trophy
+    texture_type: "1,1,2"
+    sorting: "0,0,5"
+    offset: "0,1.1010912,0.2585896|0,-0.020854,0|0,0.1616185,0.041707958292"
+    rotate: "2,2,2"
+    touch_area: "3,5,0"
+  }
+  {
+    id: 10108
+    name: 駆け抜けるカーリング-実況解説席
+    classes: 101
+    type: 201
+    position: "18,3"
+    space: "14,5,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 試合の実況解説や、抽選キャンペーンなどを行っている解説席。しかしとある匿名のMDRによる、あまりにも過激な実況が原因で、解説席には多くの異物が投げられるようになった。最終的には、表彰ダイナーゲートのフィギュアの抽選会を行うことによって、なんとか現場の秩序が取り戻された。
+    code: WhiteV2022_deco_08,WhiteV2022_deco_09,WhiteV2022_deco_10
+    texture_type: "1,1,1"
+    sorting: "20,0,20"
+    offset: "0,0,0|0,0,0|4.598307,0,0"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *1.69166628,3.23749926,0.5833332|*-2.4791661,3.23749926,0.5833332
+  }
+  {
+    id: 10109
+    name: 駆け抜けるカーリング-応援バナーだにゃ（左）
+    classes: 101
+    type: 201
+    position: "0,0"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: I.O.Pの人気スタッフ「リス」さんは、もともと来場して試合を応援する予定でしたが、会場に向かう途中、氷漬けになった魚に惹かれてしまい、舌が氷にくっついて離れなくなったため、応援バナーとして登場するしかありませんでした。
+    code: WhiteV2022_deco_11,WhiteV2022_deco_12,WhiteV2022_deco_13
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.281529,2.9966968606,0.72063092827|-0.28151471501,0.750744,0.2043692|-0.28151471501,-1.4928054371,-0.31380046073"
+    rotate: "2,2,2"
+    touch_area: "2,10,2"
+  }
+  {
+    id: 10110
+    name: 駆け抜けるカーリング-応援バナーだにゃ（右）
+    classes: 101
+    type: 201
+    position: "33,6"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: I.O.Pの人気スタッフ「ニコ」さんは、もともと来場して試合を応援する予定でしたが、会場に向かう途中、氷漬けになった魚に惹かれてしまい、舌が氷にくっついて離れなくなったため、応援バナーとして登場するしかありませんでした。
+    code: WhiteV2022_deco_14,WhiteV2022_deco_15,WhiteV2022_deco_16
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "0.26066175771,2.8517845,0.8487578|0.26066175771,0.61090802435,0.32944085646|0.26066175771,-1.6326408914,-0.1887287"
+    rotate: "2,2,2"
+    touch_area: "2,10,2"
+  }
+  {
+    id: 10111
+    name: 駆け抜けるカーリング-飛び交う氷の屑
+    classes: 101
+    type: 201
+    position: "2,8"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 人形カーリングにおいて、もっとも難しいのは、テクニックではなく、うっかり氷のコースを削らないようにする心のコントロールだ。しかしハウスに近づくにつれ、どんどん心踊るのもまた事実.......
+    code: WhiteV2022_deco_17,WhiteV2022_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.2989706352,-0.928003,2.71102|1.0021514824,-0.928003,2.71102"
+    rotate: "2,2"
+  }
+  {
+    id: 10112
+    name: 駆け抜けるカーリング-表彰ダイナーゲート
+    classes: 101
+    type: 201
+    position: "13,2"
+    space: "3,3,0,0,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 熾烈な選抜戦の末、グリフィン基地のダイナーゲートたちの中から選ばれた唯一の表彰ダイナーゲート。こんなダイナーゲートにスウィーパーでトロフィーを表彰されたら、さすがに誰も断れないだろう？
+    code: WhiteV2022_deco_20
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10113
+    name: 駆け抜けるカーリング-最終結果
+    classes: 101
+    type: 302
+    position: "3,4"
+    space: "10,8,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 双方の最終得点を表した一コマ。そこにあるストーンはどれも、熾烈な戦いの結果だ。
+    code: WhiteV2022_deco_21
+    texture_type: "1"
+    offset: "0,0.865441,0"
+    rotate: "3"
+  }
+  {
     id: 10301
     name: 疾風怒球-テニスの集落
     classes: 103
@@ -32944,6 +33158,141 @@
     decompose_gift: 100003
     description: FF FN49のポスター。
     code: poster_SpringFes2022_FN49
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36901
+    name: 紫鳶酔蝶
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ルイスのポスター。
+    code: poster_WhiteV2022_Lewis
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36902
+    name: 風の祝福
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 97式のポスター
+    code: poster_WhiteV2022_97type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36903
+    name: 幻想ロンド
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P22のポスター。
+    code: poster_WhiteV2022_P22
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36904
+    name: 塵の中、空を見上げる
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 79式のポスター。
+    code: poster_WhiteV2022_79type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36905
+    name: ヴィーナスの陣
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: K5のポスター。
+    code: poster_WhiteV2022_K5
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36906
+    name: 彼岸の星光
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: T77のポスター。
+    code: poster_WhiteV2022_T77
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36907
+    name: 冬柏の手紙
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1ガーランドのポスター。
+    code: poster_WhiteV2022_M1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36908
+    name: 朝露の歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ファルコンのポスター。
+    code: poster_WhiteV2022_Falcon
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36909
+    name: 騎士と守護者
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LWMMGのポスター。
+    code: poster_WhiteV2022_LWMMG
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
