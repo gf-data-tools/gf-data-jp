@@ -12183,6 +12183,48 @@
     frame_id: 200005
   }
   {
+    id: 1059
+    item_id: 2059
+    sub_type: 1
+    code: profilePic_WhiteV2022Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200005
+    logo_code: logo_22whiteV
+  }
+  {
+    id: 1060
+    item_id: 2060
+    sub_type: 1
+    code: profilePic_WhiteV2022Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200005
+    logo_code: logo_22whiteV
+  }
+  {
+    id: 1061
+    item_id: 2061
+    sub_type: 1
+    code: profilePic_WhiteV2022Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200005
+    logo_code: logo_22whiteV
+  }
+  {
+    id: 1062
+    item_id: 2062
+    sub_type: 2
+    code: card_WhiteV2022Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
     id: 1066
     item_id: 2066
     sub_type: 1
@@ -12283,6 +12325,39 @@
     skin: 7004
     filter_type: "4"
     frame_id: 200005
+  }
+  {
+    id: 1091
+    item_id: 2091
+    sub_type: 1
+    code: profilePic_ChessFlight_season6_1
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200008
+    logo_code: logo_flightchess_major
+  }
+  {
+    id: 1092
+    item_id: 2092
+    sub_type: 1
+    code: profilePic_ChessFlight_season6_2
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200007
+    logo_code: logo_flightchess_general
+  }
+  {
+    id: 1093
+    item_id: 2093
+    sub_type: 1
+    code: profilePic_ChessFlight_season6_3
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200006
+    logo_code: logo_flightchess_chief
   }
   {
     id: 1136
@@ -12420,6 +12495,30 @@
     gem: 400
     item_ids: 508-10000
     code: card_BattlePass_GeneralLiu
+    order: 1
+    rarity: 5
+  }
+  {
+    id: 1186
+    item_id: 2186
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_BattlePass_DSR50
+    order: 1
+    rarity: 5
+    skin: 30002
+    filter_type: "4"
+    frame_id: 200005
+  }
+  {
+    id: 1187
+    item_id: 2187
+    sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    code: card_BattlePass_DSR50
     order: 1
     rarity: 5
   }
@@ -12609,6 +12708,15 @@
     item_id: 200014
     sub_type: 4
     code: profileFrame_BattlePass_GeneralLiu
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100015
+    item_id: 200015
+    sub_type: 4
+    code: profileFrame_BattlePass_DSR50
     order: 1
     rarity: 5
     filter_type: "5"

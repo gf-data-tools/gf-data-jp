@@ -7134,7 +7134,7 @@
   }, {
     "id": 500000, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500000", "code": "2022WV00", "shifting_spot": "0,0", "shifting_team": "0,0", 
+    "name": "万能スイーツ製造機", "code": "2022WV00", "shifting_spot": "0,0", "shifting_team": "0,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500000,500001,500002,500003,500004,500005,500006,500007,500091,500092,500093,500094,500099", 
     "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", "transition": "", 
@@ -7144,8 +7144,8 @@
   }, {
     "id": 500010, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500010", "code": "2022WV01", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "カカオ豆", "code": "2022WV01", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500020,500030", "inherent_mission_skill": "500009,500010", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500010", 
@@ -7153,8 +7153,8 @@
   }, {
     "id": 500011, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500011", "code": "2022WV10", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "コーヒー豆", "code": "2022WV10", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500021,500031", "inherent_mission_skill": "500009,500011", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500011", 
@@ -7162,8 +7162,8 @@
   }, {
     "id": 500012, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500012", "code": "2022WV02", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "白砂糖", "code": "2022WV02", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500022,500032", "inherent_mission_skill": "500009,500012", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500012", 
@@ -7171,8 +7171,8 @@
   }, {
     "id": 500013, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500013", "code": "2022WV03", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "怪味粉", "code": "2022WV03", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500023,500033", "inherent_mission_skill": "500009,500013", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500013", 
@@ -7180,8 +7180,8 @@
   }, {
     "id": 500014, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500014", "code": "2022WV04", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "蛍光粉", "code": "2022WV04", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500024,500034", "inherent_mission_skill": "500009,500014", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500014", 
@@ -7189,8 +7189,8 @@
   }, {
     "id": 500015, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500015", "code": "2022WV05", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "冷却剤", "code": "2022WV05", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500025,500035", "inherent_mission_skill": "500009,500015", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500015", 
@@ -7198,8 +7198,8 @@
   }, {
     "id": 500016, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500016", "code": "2022WV06", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "食用色素", "code": "2022WV06", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500026,500036", "inherent_mission_skill": "500009,500016", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500016", 
@@ -7207,8 +7207,8 @@
   }, {
     "id": 500017, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500017", "code": "2022WV07", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "特別な調味料", "code": "2022WV07", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500027,500037", "inherent_mission_skill": "500009,500017", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500017", 
@@ -7216,8 +7216,8 @@
   }, {
     "id": 500018, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500018", "code": "2022WV08", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "標準モールド", "code": "2022WV08", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500028,500038", "inherent_mission_skill": "500009,500018", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500018", 
@@ -7225,7 +7225,7 @@
   }, {
     "id": 500019, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500019", "code": "2022WV09", "shifting_spot": "0,0", "shifting_team": "0,0", 
+    "name": "個性的なモールド", "code": "2022WV09", "shifting_spot": "0,0", "shifting_team": "0,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500029,500039", "inherent_mission_skill": "500009,500019", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
@@ -7244,7 +7244,7 @@
   }, {
     "id": 500200, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500200", "code": "2022WV00", "shifting_spot": "0,0", "shifting_team": "0,0", 
+    "name": "万能スイーツ製造機", "code": "2022WV00", "shifting_spot": "0,0", "shifting_team": "0,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500000,500001,500002,500003,500004,500005,500006,500007", "inherent_mission_skill": "500009", 
     "type": 5, "is_focus": "0", "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", 
@@ -7290,7 +7290,7 @@
   }, {
     "id": 500401, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500401", "code": "2022WV00", "shifting_spot": "50,90", "shifting_team": "-50,0", 
+    "name": "万能スイーツ製造機", "code": "2022WV00", "shifting_spot": "50,90", "shifting_team": "-50,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500401,500402,500403,500404", "inherent_mission_skill": "", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
@@ -7299,7 +7299,7 @@
   }, {
     "id": 500402, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500402", "code": "2022WV00", "shifting_spot": "50,90", "shifting_team": "-50,0", 
+    "name": "万能スイーツ製造機", "code": "2022WV00", "shifting_spot": "50,90", "shifting_team": "-50,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500401,500402,500403,500404,500405", "inherent_mission_skill": "", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
@@ -7308,26 +7308,27 @@
   }, {
     "id": 500403, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500403", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "-30,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "1000072", 
-    "trigger_distance": 1, "active_mission_skill": "500406", "inherent_mission_skill": "1000072", "type": 5, "is_focus": "0", 
-    "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
-    "active_building_info": "2022WV11;可可新世界;0,0;0", "initial_state": 0, "pref_code": "", "des": "building-20500403", 
-    "confront_des": "本ステージでは当該施設を破壊することはできません", "squadinfoid": 0, "missionskill_on_death": ""
+    "name": "カカオ新世界", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "-30,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 1, "working_special_spot": "1000072", "trigger_distance": 1, 
+    "active_mission_skill": "500406", "inherent_mission_skill": "1000072", "type": 5, "is_focus": "0", "transition": "", 
+    "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
+    "active_building_info": "2022WV11;カカオ新世界を獲得;0,0;0", "initial_state": 0, "pref_code": "", 
+    "des": "building-20500403", "confront_des": "本ステージでは当該施設を破壊することはできません", "squadinfoid": 0, 
+    "missionskill_on_death": ""
   }, {
     "id": 500404, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500404", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "-30,0", 
+    "name": "チョコトゥルフ", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "-30,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, "working_special_spot": "1000072", 
     "trigger_distance": 1, "active_mission_skill": "500407", "inherent_mission_skill": "1000072", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
-    "active_building_info": "2022WV12;巧苏鲁;0,0;0", "initial_state": 0, "pref_code": "", "des": "building-20500404", 
+    "active_building_info": "2022WV12;チョコトゥルフ;0,0;0", "initial_state": 0, "pref_code": "", "des": "building-20500404", 
     "confront_des": "本ステージでは当該施設を破壊することはできません", "squadinfoid": 0, "missionskill_on_death": ""
   }, {
     "id": 500410, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500410", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "ペルシカ", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500410", "inherent_mission_skill": "500009,500400", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500410", 
@@ -7335,8 +7336,8 @@
   }, {
     "id": 500411, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500411", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "ルイス", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500411,500421", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500411", 
@@ -7344,8 +7345,8 @@
   }, {
     "id": 500412, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500412", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "ファルコン", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500412,500422", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500412", 
@@ -7353,8 +7354,8 @@
   }, {
     "id": 500413, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500413", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "79式", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500413,500423", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500413", 
@@ -7362,8 +7363,8 @@
   }, {
     "id": 500414, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500414", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "97式", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500414,500424", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500414", 
@@ -7371,7 +7372,7 @@
   }, {
     "id": 500415, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500415", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
+    "name": "ハンター-裳夜の蛾", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
     "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500415,500425", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
@@ -7380,8 +7381,8 @@
   }, {
     "id": 500416, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500416", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "LWMMG", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500416,500426", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500416", 
@@ -7389,8 +7390,8 @@
   }, {
     "id": 500417, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500417", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "K5", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500417,500427", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500417", 
@@ -7398,8 +7399,8 @@
   }, {
     "id": 500418, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500418", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "M1ガーランド", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500418,500428", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500418", 
@@ -7407,8 +7408,8 @@
   }, {
     "id": 500419, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500419", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "P22", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500419,500429", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500419", 
@@ -7416,8 +7417,8 @@
   }, {
     "id": 500420, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-10500420", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
-    "battle_assist_range": "0,0", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
+    "name": "T77", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", "battle_assist_range": "0,0", 
+    "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 1, 
     "active_mission_skill": "500420,500430", "inherent_mission_skill": "500009", "type": 5, "is_focus": "0", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;1", 
     "active_building_info": "", "initial_state": 0, "pref_code": "", "des": "building-20500420", 
@@ -16900,13 +16901,14 @@
   }, {
     "id": 94040903, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000009", "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040903", "code": "Birdge_Middle", "shifting_spot": "30,45", 
+    "is_rebuild": 0, "draw_event": 0, "name": "要路", "code": "Birdge_Middle", "shifting_spot": "30,45", 
     "shifting_team": "0,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1050101", "trigger_distance": 0, "active_mission_skill": "94040902", 
     "inherent_mission_skill": "1050100,1050101", "type": 10, "is_focus": "1", "transition": "", 
     "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", "active_building_info": "", 
     "initial_state": 0, "pref_code": "", "des": "重要な通路となる施設、破壊されると移動効率に大きな影響が出る。", 
-    "confront_des": "building-124040903", "squadinfoid": 0, "missionskill_on_death": ""
+    "confront_des": "本ステージにおいて、ゴリアテを配置して爆破することができます。", "squadinfoid": 0, 
+    "missionskill_on_death": ""
   }, {
     "id": 94040904, "defender": 50, "defender_upper": 50, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;2000007", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:0,1:1", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
@@ -16942,7 +16944,7 @@
   }, {
     "id": 94040907, "defender": 1299, "defender_upper": 1299, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:0,1:1", "is_destroy": "1", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-104040907", "code": "AirportTower", "shifting_spot": "-20,80", "shifting_team": "-20,0", 
+    "name": "浄化塔", "code": "AirportTower", "shifting_spot": "-20,80", "shifting_team": "-20,0", 
     "battle_assist_range": "0,5", "performance_skill": "", "show_info": 1, "working_special_spot": "1070100", 
     "trigger_distance": 0, "active_mission_skill": "", "inherent_mission_skill": "1070100", "type": 11, "is_focus": "1", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", 
@@ -16953,7 +16955,7 @@
   }, {
     "id": 94040908, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000005", "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:0,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040908", "code": "Console", "shifting_spot": "40,150", 
+    "is_rebuild": 0, "draw_event": 0, "name": "制御パネル①", "code": "Console", "shifting_spot": "40,150", 
     "shifting_team": "-30,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "", "trigger_distance": 0, "active_mission_skill": "94040908,94040909,94040910", 
     "inherent_mission_skill": "1010100", "type": 7, "is_focus": "1", "transition": "", 
@@ -16963,7 +16965,7 @@
   }, {
     "id": 94040909, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000005", "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:0,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040909", "code": "Console", "shifting_spot": "40,150", 
+    "is_rebuild": 0, "draw_event": 0, "name": "制御パネル②", "code": "Console", "shifting_spot": "40,150", 
     "shifting_team": "-30,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "", "trigger_distance": 0, "active_mission_skill": "94040911,94040912,94040913", 
     "inherent_mission_skill": "1010200", "type": 7, "is_focus": "1", "transition": "", 
@@ -16973,7 +16975,7 @@
   }, {
     "id": 94040910, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000005", "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:0,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040910", "code": "Console", "shifting_spot": "40,150", 
+    "is_rebuild": 0, "draw_event": 0, "name": "制御パネル③", "code": "Console", "shifting_spot": "40,150", 
     "shifting_team": "-30,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "", "trigger_distance": 0, "active_mission_skill": "94040914,94040915,94040916", 
     "inherent_mission_skill": "1010300", "type": 7, "is_focus": "1", "transition": "", 
@@ -17003,7 +17005,7 @@
   }, {
     "id": 94040913, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040913", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート①-A", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020100", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17014,7 +17016,7 @@
   }, {
     "id": 94040914, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040914", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート①-B", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020200", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17025,7 +17027,7 @@
   }, {
     "id": 94040915, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040915", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート①-C", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020300", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17036,7 +17038,7 @@
   }, {
     "id": 94040916, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040916", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート②-A", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020400", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17047,7 +17049,7 @@
   }, {
     "id": 94040917, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040917", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート②-B", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020500", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17058,7 +17060,7 @@
   }, {
     "id": 94040918, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040918", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート②-C", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020600", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17069,7 +17071,7 @@
   }, {
     "id": 94040919, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040919", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート③-A", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020700", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17080,7 +17082,7 @@
   }, {
     "id": 94040920, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040920", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート③-B", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020800", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17091,7 +17093,7 @@
   }, {
     "id": 94040921, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000006", "battle_skill": "0;0;0;0", "condition": "0:2,1:2;0:2,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040921", "code": "Door_Left", "shifting_spot": "10,80", 
+    "is_rebuild": 0, "draw_event": 0, "name": "防御ゲート③-C", "code": "Door_Left", "shifting_spot": "10,80", 
     "shifting_team": "-20,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1000001", "trigger_distance": 0, "active_mission_skill": "", 
     "inherent_mission_skill": "1020900", "type": 6, "is_focus": "1", "transition": "1,3", 
@@ -17102,36 +17104,38 @@
   }, {
     "id": 94040922, "defender": 50, "defender_upper": 50, "belong": 2, "hold_belong": 1, "mission_skill": "0;0;1080102;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:0,1:1", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-104040922", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
+    "name": "Don't translate", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
     "battle_assist_range": "0,1", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 0, 
     "active_mission_skill": "", "inherent_mission_skill": "", "type": 4, "is_focus": "0", "transition": "", 
     "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", "active_building_info": "", 
-    "initial_state": 0, "pref_code": "", "des": "building-114040922", 
+    "initial_state": 0, "pref_code": "", "des": "Don't translate", 
     "confront_des": "本ステージでは当該施設を破壊することはできません", "squadinfoid": 0, "missionskill_on_death": ""
   }, {
     "id": 94040923, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000009", "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040923", "code": "Birdge_Left_1", "shifting_spot": "-55,160", 
+    "is_rebuild": 0, "draw_event": 0, "name": "要路", "code": "Birdge_Left_1", "shifting_spot": "-55,160", 
     "shifting_team": "0,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1050101", "trigger_distance": 0, "active_mission_skill": "94040902", 
     "inherent_mission_skill": "1050100,1050101", "type": 10, "is_focus": "1", "transition": "", 
     "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", "active_building_info": "", 
     "initial_state": 0, "pref_code": "", "des": "重要な通路となる施設、破壊されると移動効率に大きな影響が出る。", 
-    "confront_des": "building-124040923", "squadinfoid": 0, "missionskill_on_death": ""
+    "confront_des": "本ステージにおいて、ゴリアテを配置して爆破することができます。", "squadinfoid": 0, 
+    "missionskill_on_death": ""
   }, {
     "id": 94040924, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 
     "mission_skill": "0;0;0;2000009", "battle_skill": "0;0;0;0", "condition": "0:1,1:1;0:1,1:0", "is_destroy": "0", 
-    "is_rebuild": 0, "draw_event": 0, "name": "building-104040924", "code": "Birdge_Left_1", "shifting_spot": "-55,160", 
+    "is_rebuild": 0, "draw_event": 0, "name": "要路", "code": "Birdge_Left_1", "shifting_spot": "-55,160", 
     "shifting_team": "0,0", "battle_assist_range": "0,0", "performance_skill": "", "show_info": 1, 
     "working_special_spot": "1050101", "trigger_distance": 0, "active_mission_skill": "94040902", 
     "inherent_mission_skill": "1050100,1050101", "type": 10, "is_focus": "1", "transition": "", 
     "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", "active_building_info": "", 
     "initial_state": 0, "pref_code": "", "des": "重要な通路となる施設、破壊されると移動効率に大きな影響が出る。", 
-    "confront_des": "building-124040924", "squadinfoid": 0, "missionskill_on_death": ""
+    "confront_des": "本ステージにおいて、ゴリアテを配置して爆破することができます。", "squadinfoid": 0, 
+    "missionskill_on_death": ""
   }, {
     "id": 94040925, "defender": 1299, "defender_upper": 1299, "belong": 3, "hold_belong": 1, "mission_skill": "0;0;0;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:0,1:1", "is_destroy": "1", "is_rebuild": 0, "draw_event": 0, 
-    "name": "building-104040925", "code": "AirportTower", "shifting_spot": "-20,80", "shifting_team": "-20,0", 
+    "name": "浄化塔", "code": "AirportTower", "shifting_spot": "-20,80", "shifting_team": "-20,0", 
     "battle_assist_range": "0,5", "performance_skill": "", "show_info": 1, "working_special_spot": "1070100", 
     "trigger_distance": 0, "active_mission_skill": "", "inherent_mission_skill": "1070100", "type": 11, "is_focus": "1", 
     "transition": "", "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", 

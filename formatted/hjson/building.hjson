@@ -17102,7 +17102,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500000
+    name: 万能スイーツ製造機
     code: 2022WV00
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17126,7 +17126,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500010
+    name: カカオ豆
     code: 2022WV01
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17150,7 +17150,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500011
+    name: コーヒー豆
     code: 2022WV10
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17174,7 +17174,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500012
+    name: 白砂糖
     code: 2022WV02
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17198,7 +17198,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500013
+    name: 怪味粉
     code: 2022WV03
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17222,7 +17222,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500014
+    name: 蛍光粉
     code: 2022WV04
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17246,7 +17246,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500015
+    name: 冷却剤
     code: 2022WV05
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17270,7 +17270,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500016
+    name: 食用色素
     code: 2022WV06
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17294,7 +17294,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500017
+    name: 特別な調味料
     code: 2022WV07
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17318,7 +17318,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500018
+    name: 標準モールド
     code: 2022WV08
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17342,7 +17342,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500019
+    name: 個性的なモールド
     code: 2022WV09
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17387,7 +17387,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500200
+    name: 万能スイーツ製造機
     code: 2022WV00
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17495,7 +17495,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500401
+    name: 万能スイーツ製造機
     code: 2022WV00
     shifting_spot: "50,90"
     shifting_team: "-50,0"
@@ -17518,7 +17518,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500402
+    name: 万能スイーツ製造機
     code: 2022WV00
     shifting_spot: "50,90"
     shifting_team: "-50,0"
@@ -17541,7 +17541,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500403
+    name: カカオ新世界
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -17554,7 +17554,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: 2022WV11;可可新世界;0,0;0
+    active_building_info: 2022WV11;カカオ新世界を獲得;0,0;0
     des: building-20500403
     confront_des: 本ステージでは当該施設を破壊することはできません
   }
@@ -17567,7 +17567,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:0
-    name: building-10500404
+    name: チョコトゥルフ
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -17580,7 +17580,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: 2022WV12;巧苏鲁;0,0;0
+    active_building_info: 2022WV12;チョコトゥルフ;0,0;0
     des: building-20500404
     confront_des: 本ステージでは当該施設を破壊することはできません
   }
@@ -17593,7 +17593,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500410
+    name: ペルシカ
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17616,7 +17616,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500411
+    name: ルイス
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17639,7 +17639,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500412
+    name: ファルコン
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17662,7 +17662,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500413
+    name: 79式
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17685,7 +17685,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500414
+    name: 97式
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17708,7 +17708,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500415
+    name: ハンター-裳夜の蛾
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17731,7 +17731,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500416
+    name: LWMMG
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17754,7 +17754,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500417
+    name: K5
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17777,7 +17777,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500418
+    name: M1ガーランド
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17800,7 +17800,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500419
+    name: P22
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -17823,7 +17823,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10500420
+    name: T77
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -41239,7 +41239,7 @@
     mission_skill: 0;0;0;2000009
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-104040903
+    name: 要路
     code: Birdge_Middle
     shifting_spot: "30,45"
     shifting_team: "0,0"
@@ -41253,7 +41253,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     des: 重要な通路となる施設、破壊されると移動効率に大きな影響が出る。
-    confront_des: building-124040903
+    confront_des: 本ステージにおいて、ゴリアテを配置して爆破することができます。
   }
   {
     id: 94040904
@@ -41340,7 +41340,7 @@
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
-    name: building-104040907
+    name: 浄化塔
     code: AirportTower
     shifting_spot: "-20,80"
     shifting_team: "-20,0"
@@ -41368,7 +41368,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
-    name: building-104040908
+    name: 制御パネル①
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -41392,7 +41392,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
-    name: building-104040909
+    name: 制御パネル②
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -41416,7 +41416,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
-    name: building-104040910
+    name: 制御パネル③
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -41490,7 +41490,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040913
+    name: 防御ゲート①-A
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41515,7 +41515,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040914
+    name: 防御ゲート①-B
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41540,7 +41540,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040915
+    name: 防御ゲート①-C
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41565,7 +41565,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040916
+    name: 防御ゲート②-A
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41590,7 +41590,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040917
+    name: 防御ゲート②-B
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41615,7 +41615,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040918
+    name: 防御ゲート②-C
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41640,7 +41640,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040919
+    name: 防御ゲート③-A
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41665,7 +41665,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040920
+    name: 防御ゲート③-B
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41690,7 +41690,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-104040921
+    name: 防御ゲート③-C
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -41715,7 +41715,7 @@
     mission_skill: 0;0;1080102;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-104040922
+    name: Don't translate
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -41723,7 +41723,7 @@
     type: 4
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-114040922
+    des: Don't translate
     confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
@@ -41735,7 +41735,7 @@
     mission_skill: 0;0;0;2000009
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-104040923
+    name: 要路
     code: Birdge_Left_1
     shifting_spot: "-55,160"
     shifting_team: "0,0"
@@ -41749,7 +41749,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     des: 重要な通路となる施設、破壊されると移動効率に大きな影響が出る。
-    confront_des: building-124040923
+    confront_des: 本ステージにおいて、ゴリアテを配置して爆破することができます。
   }
   {
     id: 94040924
@@ -41760,7 +41760,7 @@
     mission_skill: 0;0;0;2000009
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-104040924
+    name: 要路
     code: Birdge_Left_1
     shifting_spot: "-55,160"
     shifting_team: "0,0"
@@ -41774,7 +41774,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     des: 重要な通路となる施設、破壊されると移動効率に大きな影響が出る。
-    confront_des: building-124040924
+    confront_des: 本ステージにおいて、ゴリアテを配置して爆破することができます。
   }
   {
     id: 94040925
@@ -41786,7 +41786,7 @@
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
-    name: building-104040925
+    name: 浄化塔
     code: AirportTower
     shifting_spot: "-20,80"
     shifting_team: "-20,0"

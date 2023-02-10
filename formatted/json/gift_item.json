@@ -2585,6 +2585,11 @@
     "description": "対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します", "is_hidden": 0, "exp": 0, 
     "profile_pic": 0, "item_access": "", "detail_introduction": "gift_item-40030001", "sort": 0
   }, {
+    "id": 30002, "name": "暁の囁き", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 179, "skin": 30002, "poster": 330002, 
+    "code": "gift_bundle_BattlePass_DSR50", "bonus_description": "人形換装開放", 
+    "description": "対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します", "is_hidden": 0, "exp": 0, 
+    "profile_pic": 0, "item_access": "", "detail_introduction": "gift_item-40030002", "sort": 0
+  }, {
     "id": 100001, "name": "ロリポップ", "type": 1, "rank": 2, "favor": 1000, "fit_gun": 0, "skin": 0, "poster": 0, 
     "code": "gift_item_lollipop_N", "bonus_description": "無", 
     "description": "対応する人形にプレゼントすると、僅かに好感度を獲得できます", "is_hidden": 0, "exp": 0, "profile_pic": 0, 

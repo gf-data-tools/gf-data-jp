@@ -8217,6 +8217,140 @@
     sp_description: equip-40000269
   }
   {
+    id: 278
+    name: P22レーザーポインター
+    description:
+      '''
+      会心率+<critical_percent><%>
+      回避+<dodge>$P22専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    dodge: "8,10"
+    critical_percent: "12,15"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_P22
+    develop_duration: 2820
+    company: WTR
+    fit_guns: "242"
+    equip_introduction: P22専用に設計された小型レーザーポインター。I.O.Pのカスタマイズによって、照準データがリアルタイムでP22の演算システムと連動するようになっている。
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3.0
+    bonus_type: dodge:1000,critical_percent:700
+    max_level: 10
+    auto_select_id: 18089
+    is_show: 1
+    obtain_ids: "3077"
+    sp_description: equip-40000278
+  }
+  {
+    id: 279
+    name: M5銃剣
+    description:
+      '''
+      会心率+<critical_percent><%>
+      射速+<rate>$M1ガーランド専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "1,2"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_加兰德
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "34"
+    equip_introduction: ガーランド用の銃剣。一般的な銃剣と違い、固定用の円形ラックがないため、銃剣よりもコンバットナイフのように見える。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: rate:1000,critical_percent:1000
+    max_level: 10
+    auto_select_id: 18090
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: equip-40000279
+  }
+  {
+    id: 280
+    name: Wolf 9mmホローポイント弾
+    description:
+      '''
+      火力+<pow> 命中+<hit>
+      射速<rate>$T77専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "7,12"
+    hit: "1,3"
+    rate: "-6,-6"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_T77
+    develop_duration: 3180
+    company: WOLF
+    fit_guns: "218"
+    equip_introduction: T77のためにWolfが調整した9mmホローポイント弾。故障率を大幅に下げ、射撃の安定感を上げた。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3.0
+    bonus_type: pow:900,hit:700
+    max_level: 10
+    auto_select_id: 19039
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: equip-40000280
+  }
+  {
+    id: 281
+    name: 57-N-323S
+    description:
+      '''
+      破甲+<armor_piercing>
+      火力+<pow>$SVT-38専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "110,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_SVT38
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "40"
+    equip_introduction: 一種の古いスチールコア弾。軽くて携帯性に優れ、I.O.Pの調整によってSVT-38の専用弾薬となった。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:500,pow:1000
+    max_level: 10
+    auto_select_id: 19040
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: equip-40000281
+  }
+  {
     id: 305
     name: SFライト改
     description:
