@@ -728,7 +728,7 @@
     crit: 20
     eat_ratio: 125
     ratio_range: 105
-    skill1: 102501
+    skill1: 102503
     normal_attack: 300101
     passive_skill: "702030,999999"
     effect_grid_center: 13
@@ -1027,7 +1027,7 @@
     crit: 20
     eat_ratio: 100
     ratio_range: 135
-    skill1: 102502
+    skill1: 102504
     normal_attack: 300101
     passive_skill: "999999"
     effect_grid_center: 13
@@ -7468,9 +7468,10 @@
     special: 11
     eat_ratio: 110
     ratio_range: 120
-    skill1: 301503
+    skill1: 750196
     normal_attack: 300107
     passive_skill: "750194,300202,756177,750195"
+    dynamic_passive_skill: "750197"
     effect_grid_center: 18
     effect_guntype: "6"
     effect_grid_pos: "23,24"
@@ -33847,7 +33848,7 @@
     crit: 20
     eat_ratio: 108
     ratio_range: 135
-    skill1: 900268
+    skill1: 102505
     skill2: 900269
     normal_attack: 300101
     effect_grid_center: 13

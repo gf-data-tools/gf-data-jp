@@ -561,6 +561,26 @@
     detail_introduction: item-30000110
   }
   {
+    id: 114
+    type: 3
+    arg: "15"
+    code: Medal_Theater9th
+    item_name: 第九戦区開拓者勲章
+    introduction: 第九期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「落ちた瞬間、向かい風に乗り羽ばたくことができるのは、力強い翼を持つ巣鷹だけだ」
+    rank: 1
+    detail_introduction: item-30000114
+  }
+  {
+    id: 115
+    type: 3
+    arg: "16"
+    code: Medal_Theater9th_rank
+    item_name: 第九戦区征服者勲章
+    introduction: 第九期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「深淵よりの凝視を恐れるな、勇者なら必ず経験することだ」
+    rank: 1
+    detail_introduction: item-30000115
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -629,6 +649,16 @@
     introduction: 重装部隊Mk 153のデータの欠片。-「目標地点が見えますか？」-「見えません、でもこういう時は命令を信じてればいいのです」
     rank: 1
     detail_introduction: item-30000307
+  }
+  {
+    id: 308
+    type: 1
+    arg: "1"
+    code: CentreDataPP93
+    item_name: 中枢データ:PP93
+    introduction: 重装部隊PP93のデータの欠片。-「質問！いち早く海から上がった私たちは一味！では――」-「浜辺目標エリアの敵は葉巻。もう何度目よこのダジャレ！」
+    rank: 1
+    detail_introduction: item-30000308
   }
   {
     id: 501

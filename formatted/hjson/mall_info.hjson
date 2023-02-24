@@ -25627,6 +25627,44 @@
     classification_id: "3002"
   }
   {
+    id: "31464"
+    type: "8"
+    item_ids: 15-200,506-200,46-60,9-20
+    gemprice: "198"
+    quota: "2020"
+    giftbag_name: 重装部隊補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_jyuusou
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31465"
+    type: "8"
+    item_ids: 45-300,510-30
+    gift: 200001-300
+    gemprice: "380"
+    quota: "2001"
+    giftbag_name: 3月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_haru2
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31466"
+    type: "8"
+    gemprice: "188"
+    quota: "2001"
+    giftbag_name: 3月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_blue
+    daily_quota: "1"
+    discount: "1.00"
+    prize_id: "330247"
+    classification_id: "3002"
+  }
+  {
     id: "99001"
     type: "102"
     gemprice: "980"

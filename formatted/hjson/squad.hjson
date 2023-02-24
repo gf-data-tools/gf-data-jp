@@ -4,7 +4,7 @@
     name: BGM-71
     en_name: BGM-71
     code: TOW
-    introduce: squad-30000001
+    introduce: ボードゲームが好きな四人組。はやく基地に帰ってゲームしたいため、戦場では一撃必勝の戦いを求める。それぞれの性格が違うため、チームで会議するときはくじ引きの形で全員の意見をまとめる。
     dialogue: squad-40000001
     extra: squad-50000001
     en_introduce: squad-60000001
@@ -57,7 +57,7 @@
     name: AGS-30
     en_name: AGS-30
     code: AGS30
-    introduce: squad-30000002
+    introduce: 好奇心旺盛な三人組。人形たちの複雑な関係性に興味津々である。風の噂よりも、自分たちの目で見たいため、基地の一番賑やかなところにはいつも彼女たちの姿が見られる。
     dialogue: squad-40000002
     extra: squad-50000002
     en_introduce: squad-60000002
@@ -110,7 +110,7 @@
     name: 2B14
     en_name: 2B14
     code: 2B14
-    introduce: squad-30000003
+    introduce: 規則に厳しい三人組。戦闘でも日常でも、いつも条例に従って動いている。彼女たちにとって、規則を違反することは非常に刺激的なことであり、実は三人ともそれをこっそり試したことがある。ただ、自身のイメージのために、お互いにそれを隠している。
     dialogue: squad-40000003
     extra: squad-50000003
     en_introduce: squad-60000003
@@ -163,7 +163,7 @@
     name: M2
     en_name: M2
     code: M2
-    introduce: squad-30000004
+    introduce: 雰囲気が大事な三人組。たとえ戦闘時でも、その場にふさわしい雰囲気を出すように陣地を配置する。一緒に持ち歩いているクマのぬいぐるみは、それぞれの場面で違うキャラを演じている。時には連絡員、時には指揮官の代わり。
     dialogue: squad-40000004
     extra: squad-50000004
     en_introduce: squad-60000004
@@ -216,7 +216,7 @@
     name: AT4
     en_name: AT4
     code: AT4
-    introduce: squad-30000005
+    introduce: 快適感を求める三人組。戦闘開始前に十分な物資を用意して、戦闘時の様々な可能性に対処しようとする。しかし快適感を求めすぎているあまりに、戦闘終了後、余った物資をどう処分するかについてよくケンカしてしまう。
     dialogue: squad-40000005
     extra: squad-50000005
     en_introduce: squad-60000005
@@ -270,7 +270,7 @@
     name: QLZ-04
     en_name: QLZ-04
     code: QLZ04
-    introduce: squad-30000006
+    introduce: 火力至上主義の三人組。出撃時はいつも倍の量の弾薬を携帯する。そしてすべての弾薬を敵に叩き込む。日常においても絶対的な火力を求めており、いつも激辛の調味料を持ち歩いている。
     dialogue: squad-40000006
     extra: squad-50000006
     en_introduce: squad-60000006
@@ -323,7 +323,7 @@
     name: Mk 153
     en_name: Mk 153
     code: MK153
-    introduce: squad-30000007
+    introduce: ストリートカルチャーが好きな三人組。バンド組んでいて、よく色んな地下ライブに出演している。そして名を売るために、舞台にでも戦場にでも、自分たちのバンドロゴの落書きを残そうとする。
     dialogue: squad-40000007
     extra: squad-50000007
     en_introduce: squad-60000007
@@ -368,6 +368,60 @@
     develop_duration: 28800
     dorm_ai: "1001,1002,1003"
     normal_attack_description: 500000
+    is_show: 1
+    org_id: 10503
+  }
+  {
+    id: 8
+    name: PP-93
+    en_name: PP-93
+    code: PP93
+    introduce: キャンプが好きな三人組。いつも野外でサバイバルをしているせいか、劣悪な戦場でも安定したパフォーマンスを見せてくれる。ただキャンプが好きすぎるあまりに、基地内にいてもいつもインスタント食品で客をもてなす。
+    dialogue: squad-40000008
+    extra: squad-50000008
+    en_introduce: squad-60000008
+    type: 2
+    assist_type: 1
+    population: 2
+    cpu_id: 1008
+    hp: 100
+    assist_damage: 95
+    assist_reload: 90
+    assist_hit: 125
+    assist_def_break: 100
+    damage: 100
+    atk_speed: 100
+    hit: 100
+    basic_rate: 110
+    cpu_rate: 90
+    crit_rate: 30
+    crit_damage: 150
+    dodge: 5
+    move: 5
+    assist_armor_piercing: 40
+    battle_assist_range: "1,3"
+    display_assist_damage_area: 250
+    display_assist_area_coef: 300
+    attack_range: 15
+    night_vision: 1
+    skill1: 502001
+    skill2: 502003
+    skill3: 502004
+    performance_skill: 900026
+    passive_skill: "502002"
+    dynamic_passive_skill: "502005,502006"
+    normal_attack: 502002
+    advanced_bonus: 108
+    baseammo: 60
+    basemre: 40
+    ammo_part: 10
+    mre_part: 10
+    launch_time: 2019-03-07 00:00:00
+    piece_item_id: 308
+    destroy_coef: 100
+    develop_duration: 28800
+    dorm_ai: "1001,1002,1003"
+    normal_attack_description: 502002
     is_show: 1
     org_id: 10503
   }

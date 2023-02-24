@@ -17104,11 +17104,11 @@
   }, {
     "id": 94040922, "defender": 50, "defender_upper": 50, "belong": 2, "hold_belong": 1, "mission_skill": "0;0;1080102;0", 
     "battle_skill": "0;0;0;0", "condition": "0:0,1:0;0:0,1:1", "is_destroy": "0", "is_rebuild": 0, "draw_event": 0, 
-    "name": "Don't translate", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
+    "name": "building-104040922", "code": "Hiding", "shifting_spot": "0,0", "shifting_team": "0,0", 
     "battle_assist_range": "0,1", "performance_skill": "", "show_info": 0, "working_special_spot": "", "trigger_distance": 0, 
     "active_mission_skill": "", "inherent_mission_skill": "", "type": 4, "is_focus": "0", "transition": "", 
     "belong_color": "#83CCFF,#FF4646,#FFE683,#C3C3C3", "working_spot_activation": "1;0", "active_building_info": "", 
-    "initial_state": 0, "pref_code": "", "des": "Don't translate", 
+    "initial_state": 0, "pref_code": "", "des": "building-114040922", 
     "confront_des": "本ステージでは当該施設を破壊することはできません", "squadinfoid": 0, "missionskill_on_death": ""
   }, {
     "id": 94040923, "defender": 99999, "defender_upper": 99999, "belong": 3, "hold_belong": 1, 

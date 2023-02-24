@@ -106,8 +106,8 @@
     mission_type: 3
     type: adjust_equip
     count: 1
-    title: 戦備：装備校正
-    content: 装備か妖精の校正を1回行う。
+    title: 戦備：装備較正
+    content: 装備か妖精の較正を1回行う。
     function_control_id: 6
     prize_id: 8308
     exchange_prize_id: 8315
@@ -117,7 +117,7 @@
     mission_type: 3
     type: upgrade_equip
     count: 3
-    title: 戦備：装備校正
+    title: 戦備：装備較正
     content: 装備か妖精の強化を3回行う。
     function_control_id: 5
     prize_id: 8308
