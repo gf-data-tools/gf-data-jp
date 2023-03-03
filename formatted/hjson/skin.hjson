@@ -6370,6 +6370,101 @@
     class_id: 71
   }
   {
+    id: 6801
+    name: 寒蘭傲
+    fit_gun: 341
+    voice: 15
+    dialog: 除夜朔望、寒蘭映雪。指揮官、新春の夜に月はないけれど、グリフィンのみんながここに集まり、共にこの一瞬を過ごしている時点で、すでに満月にも勝る景色になるんじゃないかな。
+    note: skin-30006801
+    illustrator_cv: skin-40006801
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6802
+    name: 夕顔展
+    fit_gun: 331
+    voice: 15
+    dialog: あけましておめでとうござい！なにやら元気がないようですね。では、わたくしが一年間秘蔵したレッドコーラ限定瓢箪版を一口差し上げましょう！コクのある味できっと元気が出ますわよ！
+    note: skin-30006802
+    illustrator_cv: skin-40006802
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6803
+    name: 酔茗咲
+    fit_gun: 356
+    voice: 15
+    dialog:
+      '''
+      さぁ、指揮官、この二鍋頭で乾杯だ！　この一年間で指揮官の実力は
+      だいぶ伸びたが、酒量も同じぐらい伸びているのか確かめさせてもらおう！
+      '''
+    note: skin-30006803
+    illustrator_cv: skin-40006803
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6804
+    name: 朱砂舞
+    fit_gun: 340
+    voice: 15
+    dialog: ハハッ！新年の創作雰囲気は自由だな！さぁ、指揮官、あたしが執務室の壁に伝統風のラクガキを描いてやるよ！
+    note: skin-30006804
+    gift_position: "-139.9,-71.1"
+    illustrator_cv: skin-40006804
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6805
+    name: 磯松嘆
+    fit_gun: 348
+    voice: 15
+    dialog: 指揮官、新しい一年でもよろしくお願いします……この格好ですか？わたしの観察によりますと、こういう格好はきっとグリフィンの新年の習慣です。わたしもいち早く馴染まないといけません！
+    note: skin-30006805
+    illustrator_cv: skin-40006805
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6806
+    name: 天星落
+    fit_gun: 28
+    voice: 15
+    dialog: よっ、「飼育員」！今探そうとしてたとこなんだ！一年間私という「天才」に付き合ってくれてあんがとうな。お年玉はこの中から選んでいいよ、意外な大当たりが入ってるかもしれないぞ。
+    note: skin-30006806
+    gift_position: "-234.3,-83.2"
+    illustrator_cv: skin-40006806
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6807
+    name: 玉瓯立
+    fit_gun: 64
+    voice: 15
+    dialog: 夕日に廻る桐の蔭、微か風に靡く梔子の香り。ご主人様、新年のプレゼント、お気に召すと嬉しいです――風の中の玉瓯の歌を、あなたへ。
+    note: skin-30006807
+    illustrator_cv: skin-40006807
+    order: 77
+    class_id: 72
+  }
+  {
+    id: 6808
+    name: 桃夭灼
+    fit_gun: 7
+    voice: 15
+    dialog: あけおめお年玉よこせ～！ひひっ、今日は気前がいいね、アタシの指揮官～！
+    note: skin-30006808
+    gift_position: "-65.8,53.95"
+    illustrator_cv: _椿日_,喜多村英梨,
+    order: 77
+    class_id: 72
+  }
+  {
     id: 6809
     name: 蜀錦羞
     fit_gun: 51
@@ -6377,7 +6472,7 @@
     dialog: し、指揮官、今夜の年越し料理は、私が準備しています……気に入ってくれると、嬉しいです……
     note: skin-30006809
     illustrator_cv: skin-40006809
-    order: 82
+    order: 77
     class_id: 72
   }
   {
@@ -6394,7 +6489,7 @@
       '''
     note: skin-30006901
     illustrator_cv: skin-40006901
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6412,7 +6507,7 @@
     note: skin-30006902
     gift_position: "-272.7,21.5"
     illustrator_cv: Nagu,佐倉綾音,
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6429,7 +6524,7 @@
       '''
     note: skin-30006903
     illustrator_cv: 二花,田所あずさ,
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6446,7 +6541,7 @@
       '''
     note: skin-30006904
     illustrator_cv: skin-40006904
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6459,7 +6554,7 @@
     note: skin-30006905
     gift_position: "-116.9,-87.9"
     illustrator_cv: skin-40006905
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6471,7 +6566,7 @@
     dialog: アタシの目を見なくても、指揮官ならアタシの動きから、今のアタシの気持ちを読み取れるでしょ？　じゃあ……指揮官は今どういう気持ちなの……？
     note: skin-30006906
     illustrator_cv: skin-40006906
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6487,7 +6582,7 @@
       '''
     note: skin-30006907
     illustrator_cv: Alize,種田梨沙,
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6500,7 +6595,7 @@
     note: skin-30006908
     gift_position: "-160.2,56.9"
     illustrator_cv: skin-40006908
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6513,7 +6608,7 @@
     note: skin-30006909
     gift_position: "-131.9,-87"
     illustrator_cv: skin-40006909
-    order: 83
+    order: 76
     class_id: 73
   }
   {
@@ -6711,6 +6806,6 @@
     dialog: グラスに映る朝の影は、深夜よりもずっと艶かしい風景……フフッ、指揮官、一緒にそれを堪能してくれるのかしら？
     note: skin-30030002
     illustrator_cv: skin-40030002
-    order: 95
+    order: 75
   }
 ]
