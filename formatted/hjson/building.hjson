@@ -18710,7 +18710,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520600
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18724,7 +18724,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20520600
-    confront_des: building-30520600
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520601
@@ -18735,7 +18735,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520601
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18749,7 +18749,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20520601
-    confront_des: building-30520601
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520602
@@ -18760,7 +18760,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520602
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18774,7 +18774,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20520602
-    confront_des: building-30520602
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520603
@@ -18785,7 +18785,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520603
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18799,7 +18799,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20520603
-    confront_des: building-30520603
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520604
@@ -18810,7 +18810,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520604
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18824,7 +18824,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20520604
-    confront_des: building-30520604
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520611
@@ -18835,7 +18835,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520611
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18848,7 +18848,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20520611
-    confront_des: building-30520611
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520612
@@ -18859,7 +18859,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520612
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18872,7 +18872,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20520612
-    confront_des: building-30520612
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520613
@@ -18883,7 +18883,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520613
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18896,7 +18896,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20520613
-    confront_des: building-30520613
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520614
@@ -18907,7 +18907,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520614
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18920,7 +18920,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20520614
-    confront_des: building-30520614
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520700
@@ -18931,7 +18931,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-10520700
+    name: カードをひっくり返す
     code: summeremblem
     shifting_spot: "0,135"
     shifting_team: "0,0"
@@ -18945,7 +18945,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20520700
-    confront_des: building-30520700
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 520801
@@ -18967,7 +18967,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20520801
-    confront_des: building-30520801
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 540400
@@ -18988,7 +18988,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20540400
-    confront_des: building-30540400
+    confront_des: 本ステージでは当該施設を破壊することはできません
     missionskill_on_death: "2,540400,540400,0;2,541400,540400,0;2,542700,540400,0;2,542710,540400,0;2,542711,540400,0"
   }
   {
@@ -19010,7 +19010,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541200
-    confront_des: building-30541200
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541201
@@ -19031,7 +19031,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541201
-    confront_des: building-30541201
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541202
@@ -19052,7 +19052,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541202
-    confront_des: building-30541202
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541203
@@ -19075,7 +19075,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541203
-    confront_des: building-30541203
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541204
@@ -19096,7 +19096,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541204
-    confront_des: building-30541204
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541301
@@ -19117,7 +19117,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541301
-    confront_des: building-30541301
+    confront_des: 本ステージでは当該施設を破壊することはできません
     missionskill_on_death: "1,540704,541300,0;2,540704,541300,0;1,540705,541300,0;1,541004,541300,0;2,541004,541300,0;1,541005,541300,0;1,541304,541300,0;2,541304,541300,0;1,541305,541300,0;1,541306,541300,0"
   }
   {
@@ -19130,7 +19130,7 @@
     battle_skill: 0;0;405001;0
     condition: 0:0,1:0;0:1,1:1
     is_destroy: "1,2"
-    name: building-10541302
+    name: 砲撃陣地
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -19142,7 +19142,11 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541302
-    confront_des: building-30541302
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段:
+      特定のマスを踏むことによる破壊、重装部隊を使用し破壊
+      '''
   }
   {
     id: 541303
@@ -19153,7 +19157,7 @@
     mission_skill: 0;0;0;2000008
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10541303
+    name: 瓦礫の山
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -19166,7 +19170,7 @@
     working_spot_activation: 1;1
     active_building_info: Rock2;乱石堆;0,0;2000016
     des: building-20541303
-    confront_des: building-30541303
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541304
@@ -19177,7 +19181,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10541304
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -19190,7 +19194,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541304
-    confront_des: building-30541304
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541401
@@ -19212,7 +19216,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20541401
-    confront_des: building-30541401
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541402
@@ -19223,7 +19227,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10541402
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-30,0"
@@ -19235,7 +19239,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541402
-    confront_des: building-30541402
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541403
@@ -19246,7 +19250,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10541403
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-30,0"
@@ -19258,7 +19262,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541403
-    confront_des: building-30541403
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 541404
@@ -19269,7 +19273,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10541404
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-30,0"
@@ -19281,7 +19285,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20541404
-    confront_des: building-30541404
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542401
@@ -19302,7 +19306,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20542401
-    confront_des: building-30542401
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542402
@@ -19326,7 +19330,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20542402
-    confront_des: building-30542402
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542403
@@ -19350,7 +19354,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20542403
-    confront_des: building-30542403
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542404
@@ -19374,7 +19378,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20542404
-    confront_des: building-30542404
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542405
@@ -19398,7 +19402,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20542405
-    confront_des: building-30542405
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542701
@@ -19419,7 +19423,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20542701
-    confront_des: building-30542701
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 542999
@@ -19440,7 +19444,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20542999
-    confront_des: building-30542999
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543101
@@ -19461,7 +19465,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543101
-    confront_des: building-30543101
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543104
@@ -19485,7 +19489,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543104
-    confront_des: building-30543104
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543499
@@ -19506,7 +19510,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543499
-    confront_des: building-30543499
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543901
@@ -19517,7 +19521,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10543901
+    name: 制御パネル
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -19529,7 +19533,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543901
-    confront_des: building-30543901
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543902
@@ -19552,7 +19556,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543902
-    confront_des: building-30543902
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543903
@@ -19575,7 +19579,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543903
-    confront_des: building-30543903
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543904
@@ -19598,7 +19602,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543904
-    confront_des: building-30543904
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543905
@@ -19621,7 +19625,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543905
-    confront_des: building-30543905
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543906
@@ -19644,7 +19648,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543906
-    confront_des: building-30543906
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543907
@@ -19667,7 +19671,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543907
-    confront_des: building-30543907
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543908
@@ -19690,7 +19694,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543908
-    confront_des: building-30543908
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543909
@@ -19713,7 +19717,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543909
-    confront_des: building-30543909
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543910
@@ -19736,7 +19740,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543910
-    confront_des: building-30543910
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543911
@@ -19759,7 +19763,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543911
-    confront_des: building-30543911
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543912
@@ -19782,7 +19786,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543912
-    confront_des: building-30543912
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543913
@@ -19803,7 +19807,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543913
-    confront_des: building-30543913
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543914
@@ -19824,7 +19828,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543914
-    confront_des: building-30543914
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543915
@@ -19845,7 +19849,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543915
-    confront_des: building-30543915
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543916
@@ -19866,7 +19870,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543916
-    confront_des: building-30543916
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543917
@@ -19887,7 +19891,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543917
-    confront_des: building-30543917
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543918
@@ -19908,7 +19912,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543918
-    confront_des: building-30543918
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543919
@@ -19929,7 +19933,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543919
-    confront_des: building-30543919
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543920
@@ -19950,7 +19954,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543920
-    confront_des: building-30543920
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 543999
@@ -19971,7 +19975,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20543999
-    confront_des: building-30543999
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544100
@@ -19992,7 +19996,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544100
-    confront_des: building-30544100
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544101
@@ -20013,7 +20017,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544101
-    confront_des: building-30544101
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544102
@@ -20035,7 +20039,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544102
-    confront_des: building-30544102
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544103
@@ -20059,7 +20063,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-20544103
-    confront_des: building-30544103
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544104
@@ -20083,7 +20087,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544104
-    confront_des: building-30544104
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544201
@@ -20104,7 +20108,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544201
-    confront_des: building-30544201
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544202
@@ -20127,7 +20131,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544202
-    confront_des: building-30544202
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544203
@@ -20149,7 +20153,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544203
-    confront_des: building-30544203
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 544204
@@ -20171,7 +20175,2000 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20544204
-    confront_des: building-30544204
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 570005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570005
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570005"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570005
+    confront_des: building-30570005
+  }
+  {
+    id: 570006
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570006
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570006"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570006
+    confront_des: building-30570006
+  }
+  {
+    id: 570010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570010"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570010
+    confront_des: building-30570010
+  }
+  {
+    id: 570020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570020"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570020
+    confront_des: building-30570020
+  }
+  {
+    id: 570030
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570030
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570030"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570030
+    confront_des: building-30570030
+  }
+  {
+    id: 570040
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570040
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570040"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570040
+    confront_des: building-30570040
+  }
+  {
+    id: 570050
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570050
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570050"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570050
+    confront_des: building-30570050
+  }
+  {
+    id: 570060
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570060
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570060"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570060
+    confront_des: building-30570060
+  }
+  {
+    id: 570070
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570070
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "570070"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570070
+    confront_des: building-30570070
+  }
+  {
+    id: 570501
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;570504
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:2
+    name: building-10570501
+    code: Bubble_machine
+    shifting_spot: "0,30"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570501"
+    active_mission_skill: "570501"
+    inherent_mission_skill: "570502"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570501
+    confront_des: building-30570501
+    missionskill_on_death: "1,570508,570505,0"
+  }
+  {
+    id: 570601
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;570612
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:5
+    name: building-10570601
+    code: Hiding
+    shifting_spot: "0,50"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570601"
+    inherent_mission_skill: "570601"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: Saga_Dog_Enemy_2;罗梅罗;0,0;0
+    des: building-20570601
+    confront_des: building-30570601
+  }
+  {
+    id: 570602
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;570613
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:9
+    name: building-10570602
+    code: Hiding
+    shifting_spot: "0,50"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570602"
+    inherent_mission_skill: "570602"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: Bathhouse_guest_2;顾客;0,0;0
+    des: building-20570602
+    confront_des: building-30570602
+  }
+  {
+    id: 570603
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570603
+    code: DriedSquid
+    shifting_spot: "0,0"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570603"
+    active_mission_skill: "570607"
+    inherent_mission_skill: "570603"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570603
+    confront_des: building-30570603
+  }
+  {
+    id: 570604
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10570604
+    code: TakeOut
+    shifting_spot: "0,0"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570604"
+    active_mission_skill: "570608"
+    inherent_mission_skill: "570604"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570604
+    confront_des: building-30570604
+  }
+  {
+    id: 570605
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-10570605
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570605"
+    active_mission_skill: "570610"
+    inherent_mission_skill: "570609"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570605
+    confront_des: building-30570605
+    missionskill_on_death: "1,570620,570624,0"
+  }
+  {
+    id: 570606
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-10570606
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "570605"
+    active_mission_skill: "570610"
+    inherent_mission_skill: "570609"
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570606
+    confront_des: building-30570606
+  }
+  {
+    id: 570610
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-10570610
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "570623"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20570610
+    confront_des: building-30570610
+  }
+  {
+    id: 572010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10572010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571011,571012,571013,571111,571112,571113,571001"
+    inherent_mission_skill: "571010"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20572010
+    confront_des: building-30572010
+  }
+  {
+    id: 572020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10572020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571021,571022,571023,571121,571122,571123,571002"
+    inherent_mission_skill: "571020"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20572020
+    confront_des: building-30572020
+  }
+  {
+    id: 572030
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10572030
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571031,571032,571033,571131,571132,571133,571003"
+    inherent_mission_skill: "571030"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20572030
+    confront_des: building-30572030
+  }
+  {
+    id: 573010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10573010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571041,571042,571043,571141,571142,571143,571003"
+    inherent_mission_skill: "571030"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20573010
+    confront_des: building-30573010
+  }
+  {
+    id: 573020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10573020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571051,571052,571053,571151,571152,571153,571001"
+    inherent_mission_skill: "571010"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20573020
+    confront_des: building-30573020
+  }
+  {
+    id: 573030
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10573030
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571061,571062,571063,571161,571162,571163,571002"
+    inherent_mission_skill: "571020"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20573030
+    confront_des: building-30573030
+  }
+  {
+    id: 573040
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10573040
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571071,571072,571073,571171,571172,571173,571004"
+    inherent_mission_skill: "571040"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20573040
+    confront_des: building-30573040
+  }
+  {
+    id: 574001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574001
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "574001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574001
+    confront_des: building-30574001
+  }
+  {
+    id: 574002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574002
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "574002"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574002
+    confront_des: building-30574002
+  }
+  {
+    id: 574003
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574003
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "572041"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574003
+    confront_des: building-30574003
+  }
+  {
+    id: 574004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574004
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "572041"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574004
+    confront_des: building-30574004
+  }
+  {
+    id: 574005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574005
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "572042,572043"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574005
+    confront_des: building-30574005
+  }
+  {
+    id: 574010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571011,571012,571013,571111,571112,571113,571001"
+    inherent_mission_skill: "571010"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574010
+    confront_des: building-30574010
+  }
+  {
+    id: 574020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571021,571022,571023,571121,571122,571123,571002"
+    inherent_mission_skill: "571020"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574020
+    confront_des: building-30574020
+  }
+  {
+    id: 574030
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574030
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571031,571032,571033,571131,571132,571133,571003"
+    inherent_mission_skill: "571030"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574030
+    confront_des: building-30574030
+  }
+  {
+    id: 574040
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574040
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571041,571042,571043,571141,571142,571143,571004"
+    inherent_mission_skill: "571040"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574040
+    confront_des: building-30574040
+  }
+  {
+    id: 574050
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574050
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571051,571052,571053,571151,571152,571153,571005"
+    inherent_mission_skill: "571050"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574050
+    confront_des: building-30574050
+  }
+  {
+    id: 574060
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574060
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571061,571062,571063,571161,571162,571163,571006"
+    inherent_mission_skill: "571060"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574060
+    confront_des: building-30574060
+  }
+  {
+    id: 574070
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574070
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571071,571072,571073,571171,571172,571173,571007"
+    inherent_mission_skill: "571070"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574070
+    confront_des: building-30574070
+  }
+  {
+    id: 574080
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10574080
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    active_mission_skill: "571081,571082,571083,571181,571182,571183"
+    inherent_mission_skill: "571080"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20574080
+    confront_des: building-30574080
+  }
+  {
+    id: 575001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10575001
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "575001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20575001
+    confront_des: building-30575001
+    missionskill_on_death: "1,575001,575002,0"
+  }
+  {
+    id: 590001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590001
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590002
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597002"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590002
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590003
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590003
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597003"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590003
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590004
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597004"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590004
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590005
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597005"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590005
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590006
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590006
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597006"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590006
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590007
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590007
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597007"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590007
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 590008
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10590008
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597008"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20590008
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595000
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595000
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595000"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595000
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595001
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595002
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    working_special_spot: "595002"
+    inherent_mission_skill: "595002"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    initial_state: -1
+    des: building-20595002
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595010"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595010
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595011
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595011
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595011"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595011
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595012
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595012
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595012"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595012
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595020"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595020
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595021
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595021
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595021"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595021
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 595022
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10595022
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "595022"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20595022
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596000
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596000
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596000"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596000
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596001
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596002
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596002"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596002
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596003
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596003
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596003"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596003
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596004
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    working_special_spot: "596004"
+    inherent_mission_skill: "596004"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    initial_state: -1
+    des: building-20596004
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596010"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596010
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596011
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596011
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596011"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596011
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596012
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596012
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596012"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596012
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596013
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596013
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596013"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596013
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596014
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596014
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596014"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596014
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596020"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596020
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596021
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596021
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596021"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596021
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596022
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596022
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596022"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596022
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596023
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596023
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596023"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596023
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 596024
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10596024
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "596024"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20596024
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597001
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597002
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597002"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597002
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597003
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597003
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597003"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597003
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597004
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597004"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597004
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597005
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597005"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597005
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597006
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597006
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597006"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597006
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597007
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597007
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597007"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597007
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 597008
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10597008
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "597008"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20597008
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 598001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    name: building-10598001
+    code: WorkBench
+    shifting_spot: "60,0"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "598001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20598001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-10599001
+    code: Portal1
+    shifting_spot: "120,-30"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "599010"
+    inherent_mission_skill: "599001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20599001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599101
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: 転送ポイントI
+    code: Portal1
+    shifting_spot: "120,-30"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "599111"
+    inherent_mission_skill: "599101"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20599101
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599102
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: 転送ポイントII
+    code: Portal1
+    shifting_spot: "120,-30"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "599112"
+    inherent_mission_skill: "599102"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-20599102
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599900
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599900
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599900
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599901
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599901
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599901"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599901
+    confront_des: 本ステージでは当該施設を破壊することはできません
+    missionskill_on_death: "1,590121,599910,0"
+  }
+  {
+    id: 599902
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599902
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599902"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599902
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599903
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599903
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599903"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599903
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599904
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599904
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599904"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599904
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599905
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599905
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599905"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599905
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599906
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599906
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599906"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599906
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599907
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599907
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599907"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599907
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599908
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599908
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599908"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599908
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 599909
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-10599909
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "599909"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-20599909
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 3179001
@@ -21407,6 +23404,51 @@
     working_spot_activation: 1;0
     des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
     confront_des: 本ステージにて使用できる対応手段：//重装部隊による打撃
+  }
+  {
+    id: 6000016
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000005
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-16000016
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6040401"
+    active_mission_skill: "6040403"
+    inherent_mission_skill: "6040401"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;0
+    des: building-26000016
+    confront_des: building-36000016
+  }
+  {
+    id: 6000017
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: building-16000017
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6040402"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26000017
+    confront_des: building-36000017
   }
   {
     id: 6350001
@@ -27464,7 +29506,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520001
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27477,7 +29519,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520001
-    confront_des: building-36520001
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520002
@@ -27488,7 +29530,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520002
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27501,7 +29543,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520002
-    confront_des: building-36520002
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520003
@@ -27512,7 +29554,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520003
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27525,7 +29567,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520003
-    confront_des: building-36520003
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520004
@@ -27536,7 +29578,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520004
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27549,7 +29591,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520004
-    confront_des: building-36520004
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520005
@@ -27560,7 +29602,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520005
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27573,7 +29615,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520005
-    confront_des: building-36520005
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520006
@@ -27584,7 +29626,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520006
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27597,7 +29639,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520006
-    confront_des: building-36520006
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520007
@@ -27608,7 +29650,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520007
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27621,7 +29663,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520007
-    confront_des: building-36520007
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520008
@@ -27632,7 +29674,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520008
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27645,7 +29687,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520008
-    confront_des: building-36520008
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520009
@@ -27656,7 +29698,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520009
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27669,7 +29711,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520009
-    confront_des: building-36520009
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520010
@@ -27680,7 +29722,7 @@
     mission_skill: 0;0;0;6510205
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16520010
+    name: パスコードパネル
     code: Console_P
     shifting_spot: "-10,250"
     shifting_team: "-30,0"
@@ -27693,7 +29735,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520010
-    confront_des: building-36520010
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6520011
@@ -27716,7 +29758,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26520011
-    confront_des: building-36520011
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540001
@@ -27727,7 +29769,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540001
+    name: 制御パネル
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -27741,7 +29783,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540001
-    confront_des: building-36540001
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540002
@@ -27765,7 +29807,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540002
-    confront_des: building-36540002
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540003
@@ -27789,7 +29831,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540003
-    confront_des: building-36540003
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540004
@@ -27813,7 +29855,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540004
-    confront_des: building-36540004
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540005
@@ -27837,7 +29879,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540005
-    confront_des: building-36540005
+    confront_des: 本ステージでは当該施設を破壊することはできません
     missionskill_on_death: "2,6540002,6540183,0"
   }
   {
@@ -27862,7 +29904,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540006
-    confront_des: building-36540006
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540007
@@ -27886,7 +29928,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540007
-    confront_des: building-36540007
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540008
@@ -27897,7 +29939,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-16540008
+    name: 制御パネルI
     code: Console
     shifting_spot: "120,-50"
     shifting_team: "-30,0"
@@ -27911,7 +29953,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540008
-    confront_des: building-36540008
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540009
@@ -27922,7 +29964,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-16540009
+    name: 制御パネルII
     code: Console
     shifting_spot: "120,-50"
     shifting_team: "-30,0"
@@ -27936,7 +29978,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540009
-    confront_des: building-36540009
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540010
@@ -27947,7 +29989,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-16540010
+    name: 制御パネルIII
     code: Console
     shifting_spot: "120,-50"
     shifting_team: "-30,0"
@@ -27961,7 +30003,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540010
-    confront_des: building-36540010
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540011
@@ -27972,7 +30014,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-16540011
+    name: 制御パネルIV
     code: Console
     shifting_spot: "120,-50"
     shifting_team: "-30,0"
@@ -27986,7 +30028,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540011
-    confront_des: building-36540011
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540012
@@ -28010,7 +30052,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540012
-    confront_des: building-36540012
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540013
@@ -28033,7 +30075,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540013
-    confront_des: building-36540013
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540014
@@ -28056,7 +30098,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540014
-    confront_des: building-36540014
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540015
@@ -28079,7 +30121,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540015
-    confront_des: building-36540015
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540016
@@ -28102,7 +30144,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540016
-    confront_des: building-36540016
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540017
@@ -28125,7 +30167,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540017
-    confront_des: building-36540017
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540018
@@ -28149,7 +30191,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540018
-    confront_des: building-36540018
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540019
@@ -28171,7 +30213,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540019
-    confront_des: building-36540019
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540020
@@ -28193,7 +30235,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540020
-    confront_des: building-36540020
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540021
@@ -28204,7 +30246,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540021
+    name: 制御パネルI
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28218,7 +30260,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540021
-    confront_des: building-36540021
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540022
@@ -28229,7 +30271,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540022
+    name: 制御パネルII
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28243,7 +30285,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540022
-    confront_des: building-36540022
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540023
@@ -28254,7 +30296,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540023
+    name: 制御パネルIII
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28268,7 +30310,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540023
-    confront_des: building-36540023
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540024
@@ -28279,7 +30321,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-16540024
+    name: 防御ゲートI
     code: Door_Left_S
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -28292,7 +30334,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540024
-    confront_des: building-36540024
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540025
@@ -28303,7 +30345,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-16540025
+    name: 防御ゲートII
     code: Door_Left_S
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -28316,7 +30358,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540025
-    confront_des: building-36540025
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540026
@@ -28327,7 +30369,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-16540026
+    name: 防御ゲートIII
     code: Door_Left_S
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -28340,7 +30382,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540026
-    confront_des: building-36540026
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540027
@@ -28351,7 +30393,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;1:1,1:0
-    name: building-16540027
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -28365,7 +30407,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540027
-    confront_des: building-36540027
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540028
@@ -28376,7 +30418,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540028
+    name: 瓦礫の山
     code: Rock_S
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -28389,7 +30431,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540028
-    confront_des: building-36540028
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540029
@@ -28400,7 +30442,7 @@
     mission_skill: 0;6540182;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540029
+    name: 制御パネルI
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28414,7 +30456,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-26540029
-    confront_des: building-36540029
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540030
@@ -28425,7 +30467,7 @@
     mission_skill: 0;6540182;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540030
+    name: 制御パネルII
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28439,7 +30481,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-26540030
-    confront_des: building-36540030
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540031
@@ -28450,7 +30492,7 @@
     mission_skill: 0;6540182;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540031
+    name: 制御パネルIII
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28464,7 +30506,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-26540031
-    confront_des: building-36540031
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540032
@@ -28475,7 +30517,7 @@
     mission_skill: 0;6540182;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540032
+    name: 制御パネルIV
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28489,7 +30531,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-26540032
-    confront_des: building-36540032
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540033
@@ -28500,7 +30542,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540033
+    name: パスコードパネルI
     code: Console_P
     shifting_spot: "-10,150"
     shifting_team: "-30,0"
@@ -28514,7 +30556,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540033
-    confront_des: building-36540033
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540034
@@ -28525,7 +30567,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540034
+    name: パスコードパネルII
     code: Console_P
     shifting_spot: "-10,150"
     shifting_team: "-30,0"
@@ -28539,7 +30581,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540034
-    confront_des: building-36540034
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540035
@@ -28550,7 +30592,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540035
+    name: パスコードパネルIII
     code: Console_P
     shifting_spot: "-10,150"
     shifting_team: "-30,0"
@@ -28564,7 +30606,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540035
-    confront_des: building-36540035
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540036
@@ -28575,7 +30617,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540036
+    name: パスコードパネルIV
     code: Console_P
     shifting_spot: "-10,150"
     shifting_team: "-30,0"
@@ -28589,7 +30631,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540036
-    confront_des: building-36540036
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540037
@@ -28600,7 +30642,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540037
+    name: 瓦礫の山
     code: Rock_S
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -28613,7 +30655,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540037
-    confront_des: building-36540037
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540038
@@ -28624,7 +30666,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:3
-    name: building-16540038
+    name: プラスチック爆弾
     code: Viscosity_Bomb
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -28638,7 +30680,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540038
-    confront_des: building-36540038
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540039
@@ -28650,7 +30692,7 @@
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
     is_destroy: "1"
-    name: building-16540039
+    name: 瓦礫の山
     code: Rock_S
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -28663,7 +30705,11 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540039
-    confront_des: building-36540039
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
   }
   {
     id: 6540040
@@ -28675,7 +30721,7 @@
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
     is_destroy: "1"
-    name: building-16540040
+    name: 瓦礫の山
     code: Rock_S
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -28688,7 +30734,11 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540040
-    confront_des: building-36540040
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
   }
   {
     id: 6540041
@@ -28700,7 +30750,7 @@
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
     is_destroy: "1"
-    name: building-16540041
+    name: 瓦礫の山
     code: Rock_S
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -28713,7 +30763,11 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540041
-    confront_des: building-36540041
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
   }
   {
     id: 6540042
@@ -28724,7 +30778,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540042
+    name: 制御パネルI
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28738,7 +30792,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-26540042
-    confront_des: building-36540042
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540043
@@ -28749,7 +30803,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540043
+    name: 制御パネルII
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -28763,7 +30817,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-26540043
-    confront_des: building-36540043
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540044
@@ -28787,7 +30841,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540044
-    confront_des: building-36540044
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540045
@@ -28798,7 +30852,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;1:1,1:0
-    name: building-16540045
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -28812,7 +30866,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540045
-    confront_des: building-36540045
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540046
@@ -28834,7 +30888,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540046
-    confront_des: building-36540046
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540047
@@ -28858,7 +30912,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540047
-    confront_des: building-36540047
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540048
@@ -28882,7 +30936,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540048
-    confront_des: building-36540048
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540049
@@ -28906,7 +30960,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540049
-    confront_des: building-36540049
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540050
@@ -28917,7 +30971,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16540050
+    name: パスコードパネルI
     code: Console_P
     shifting_spot: "-10,150"
     shifting_team: "-30,0"
@@ -28930,7 +30984,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540050
-    confront_des: building-36540050
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540051
@@ -28952,7 +31006,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540051
-    confront_des: building-36540051
+    confront_des: 本ステージでは当該施設を破壊することはできません
     missionskill_on_death: "1,6543202,6540134,0;1,6543203,6540134,0"
   }
   {
@@ -28975,7 +31029,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540052
-    confront_des: building-36540052
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540053
@@ -28997,7 +31051,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540053
-    confront_des: building-36540053
+    confront_des: 本ステージでは当該施設を破壊することはできません
     missionskill_on_death: "2,6540012,6540144,0;2,6540010,6540145,0;2,6540011,6540146,0;2,6540013,6540145,0;2,6540014,6540145,0;2,6540015,6540145,0;2,6540016,6540145,0;2,6540018,6540145,0"
   }
   {
@@ -29020,7 +31074,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540054
-    confront_des: building-36540054
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540055
@@ -29042,7 +31096,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540055
-    confront_des: building-36540055
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 6540056
@@ -29053,7 +31107,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;1:1,1:0
-    name: building-16540056
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -29067,7 +31121,678 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26540056
-    confront_des: building-36540056
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:3
+    name: プラスチック爆弾
+    code: Viscosity_Bomb
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560001"
+    active_mission_skill: "6560020"
+    inherent_mission_skill: "6560001"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560001
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:3
+    name: プラスチック爆弾
+    code: Viscosity_Bomb
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560001"
+    active_mission_skill: "6560020"
+    inherent_mission_skill: "6560001"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560002
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560003
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6560060;0;6560061
+    battle_skill: 0;0;0;0
+    condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
+    code: Pyxis_green
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560003"
+    inherent_mission_skill: "6560003"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560003
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560004
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6560060;0;6560061
+    battle_skill: 0;0;0;0
+    condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
+    code: Pyxis_green
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560004"
+    inherent_mission_skill: "6560004"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560004
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560005
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6560060;0;6560061
+    battle_skill: 0;0;0;0
+    condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
+    code: Pyxis_green
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560005"
+    inherent_mission_skill: "6560005"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560005
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560006
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 制御パネル
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560006"
+    active_mission_skill: "6560027"
+    inherent_mission_skill: "6560006"
+    type: 7
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560006
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560007
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0
+    name: 防御ゲート
+    code: Door_Left
+    shifting_spot: "10,80"
+    shifting_team: "-20,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560007"
+    inherent_mission_skill: "6560007"
+    type: 6
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560007
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560008
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 廃棄されたゴリアテ
+    code: Boomer
+    shifting_spot: "45,100"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560008"
+    active_mission_skill: "6560040"
+    inherent_mission_skill: "6560008"
+    type: 5
+    is_focus: "-1"
+    transition: "1,3"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560008
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560009
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 箱
+    code: GunBox
+    shifting_spot: "45,30"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560009"
+    active_mission_skill: "6560029,6560030,6560031"
+    inherent_mission_skill: "6560009"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560009
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560010
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560010
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560010"
+    active_mission_skill: "6560034,6560035,6560036"
+    inherent_mission_skill: "6560010"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560010
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560011
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: EMP手榴弾
+    code: Build_PortableEMP
+    shifting_spot: "65,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560011"
+    active_mission_skill: "6560041"
+    inherent_mission_skill: "6560011"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560011
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560012
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560012
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560012"
+    inherent_mission_skill: "6560012"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560012
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560013
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560013
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560013"
+    inherent_mission_skill: "6560013"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560013
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560014
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560014
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560014"
+    inherent_mission_skill: "6560014"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560014
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560015
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560015
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560015"
+    inherent_mission_skill: "6560015"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560015
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560016
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560016
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560016"
+    inherent_mission_skill: "6560016"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560016
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560017
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560017
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560017"
+    inherent_mission_skill: "6560017"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560017
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560018
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560018
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560018"
+    inherent_mission_skill: "6560018"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560018
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560019
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560019
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6560019"
+    inherent_mission_skill: "6560019"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560019
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560020
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560020
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560048"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560020
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560021
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560021
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560021
+    confront_des: 本ステージでは当該施設を破壊することはできません
+    missionskill_on_death: "2,6560003,6560053,0;2,6560004,6560054,0;2,6560005,6560053,0;2,6560010,6560054,0"
+  }
+  {
+    id: 6560022
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560022
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560049"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560022
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560023
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560023
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560050"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560023
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560024
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560024
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560055"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560024
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560025
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560025
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560056"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560025
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560026
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560026
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560057"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560026
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560027
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560027
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560058"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560027
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 6560028
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: building-16560028
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    inherent_mission_skill: "6560059"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-26560028
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9031001
@@ -38496,7 +41221,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521000
-    confront_des: building-39521000
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521001
@@ -38507,7 +41232,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521001
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -38519,7 +41244,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521001
-    confront_des: building-39521001
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521002
@@ -38530,7 +41255,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521002
+    name: 瓦礫の山
     code: Rock
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -38540,7 +41265,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
     des: building-29521002
-    confront_des: building-39521002
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521101
@@ -38551,7 +41276,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521101
+    name: 瓦礫の山
     code: Rock
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -38561,7 +41286,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
     des: building-29521101
-    confront_des: building-39521101
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521102
@@ -38572,7 +41297,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521102
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38585,7 +41310,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521102
-    confront_des: building-39521102
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521103
@@ -38596,7 +41321,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521103
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -38608,7 +41333,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521103
-    confront_des: building-39521103
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521104
@@ -38619,7 +41344,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521104
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38632,7 +41357,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521104
-    confront_des: building-39521104
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521105
@@ -38643,7 +41368,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521105
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38656,7 +41381,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521105
-    confront_des: building-39521105
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521106
@@ -38667,7 +41392,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521106
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38680,7 +41405,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521106
-    confront_des: building-39521106
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521107
@@ -38691,7 +41416,7 @@
     mission_skill: 0;0;0;2000007
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521107
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -38702,8 +41427,8 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-29521107
-    confront_des: building-39521107
+    des: 不明な原因で廃棄されたゴリアテ、回収し再アクティブ化することで、特定施設の爆破に使用できる。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521108
@@ -38714,7 +41439,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521108
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -38724,7 +41449,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521108
-    confront_des: building-39521108
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521201
@@ -38735,7 +41460,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521201
+    name: 瓦礫の山
     code: Rock
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -38745,7 +41470,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
     des: building-29521201
-    confront_des: building-39521201
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521202
@@ -38756,7 +41481,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521202
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38769,7 +41494,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521202
-    confront_des: building-39521202
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521203
@@ -38780,7 +41505,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521203
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38793,7 +41518,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521203
-    confront_des: building-39521203
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521204
@@ -38804,7 +41529,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521204
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38817,7 +41542,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521204
-    confront_des: building-39521204
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521205
@@ -38828,7 +41553,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521205
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38841,7 +41566,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521205
-    confront_des: building-39521205
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521206
@@ -38852,7 +41577,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521206
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38865,7 +41590,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521206
-    confront_des: building-39521206
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521207
@@ -38876,7 +41601,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521207
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38889,7 +41614,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521207
-    confront_des: building-39521207
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521209
@@ -38900,7 +41625,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521209
+    name: エレベーター①
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38915,7 +41640,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-29521209
-    confront_des: building-39521209
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521210
@@ -38926,7 +41651,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521210
+    name: エレベーター①
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -38941,7 +41666,7 @@
     working_spot_activation: 1;1
     initial_state: -1
     des: building-29521210
-    confront_des: building-39521210
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521211
@@ -38952,7 +41677,7 @@
     mission_skill: 0;0;0;2000012
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:2,1:2;0:0,1:0
-    name: building-19521211
+    name: 変電所①
     code: Substation
     shifting_spot: "50,100"
     shifting_team: "-30,0"
@@ -38965,8 +41690,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1,1
     initial_state: -1
-    des: building-29521211
-    confront_des: building-39521211
+    des: 基地局式EMPに給電を行う、EMP攻撃発動後は過負荷状態となり冷却時間が必要。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521212
@@ -38977,7 +41702,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521212
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -38989,7 +41714,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521212
-    confront_des: building-39521212
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521213
@@ -39000,7 +41725,7 @@
     mission_skill: 0;0;0;2000007
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521213
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -39011,8 +41736,8 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-29521213
-    confront_des: building-39521213
+    des: 不明な原因で廃棄されたゴリアテ、回収し再アクティブ化することで、特定施設の爆破に使用できる。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521301
@@ -39023,7 +41748,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521301
+    name: 瓦礫の山
     code: Rock
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -39032,7 +41757,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
     des: building-29521301
-    confront_des: building-39521301
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521302
@@ -39043,7 +41768,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521302
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39056,7 +41781,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521302
-    confront_des: building-39521302
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521303
@@ -39067,7 +41792,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521303
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39080,7 +41805,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521303
-    confront_des: building-39521303
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521304
@@ -39091,7 +41816,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521304
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39104,7 +41829,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521304
-    confront_des: building-39521304
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521305
@@ -39115,7 +41840,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19521305
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -39130,8 +41855,8 @@
     transition: "1,3"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-29521305
-    confront_des: building-39521305
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521306
@@ -39142,7 +41867,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521306
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39151,7 +41876,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521306
-    confront_des: building-39521306
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521307
@@ -39162,7 +41887,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521307
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39171,7 +41896,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521307
-    confront_des: building-39521307
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521308
@@ -39182,7 +41907,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521308
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39191,7 +41916,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521308
-    confront_des: building-39521308
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521309
@@ -39202,7 +41927,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521309
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39211,7 +41936,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521309
-    confront_des: building-39521309
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521310
@@ -39222,7 +41947,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521310
+    name: 迷いウサギの穴①
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39234,7 +41959,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521310
-    confront_des: building-39521310
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521311
@@ -39245,7 +41970,7 @@
     mission_skill: 0;0;0;2000012
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:2,1:2;0:0,1:0
-    name: building-19521311
+    name: 変電所
     code: Substation
     shifting_spot: "50,100"
     shifting_team: "-30,0"
@@ -39258,8 +41983,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1,1
     initial_state: -1
-    des: building-29521311
-    confront_des: building-39521311
+    des: 基地局式EMPに給電を行う、EMP攻撃発動後は過負荷状態となり冷却時間が必要。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521312
@@ -39270,7 +41995,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521312
+    name: 瓦礫の山Ⅰ
     code: Rock
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -39284,7 +42009,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
     des: building-29521312
-    confront_des: building-39521312
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521313
@@ -39295,7 +42020,7 @@
     mission_skill: 0;0;0;2000007
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521313
+    name: 廃棄されたゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -39306,8 +42031,8 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-29521313
-    confront_des: building-39521313
+    des: 不明な原因で廃棄されたゴリアテ、回収し再アクティブ化することで、特定施設の爆破に使用できる。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521314
@@ -39328,7 +42053,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521314
-    confront_des: building-39521314
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521401
@@ -39339,7 +42064,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521401
+    name: 瓦礫の山
     code: Rock
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -39348,7 +42073,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
     des: building-29521401
-    confront_des: building-39521401
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521402
@@ -39359,7 +42084,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521402
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39368,7 +42093,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521402
-    confront_des: building-39521402
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521403
@@ -39379,7 +42104,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521403
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39388,7 +42113,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521403
-    confront_des: building-39521403
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521404
@@ -39399,7 +42124,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521404
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39411,7 +42136,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521404
-    confront_des: building-39521404
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521405
@@ -39422,7 +42147,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521405
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39434,7 +42159,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521405
-    confront_des: building-39521405
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521406
@@ -39445,7 +42170,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521406
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39457,7 +42182,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521406
-    confront_des: building-39521406
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521407
@@ -39468,7 +42193,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521407
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39480,7 +42205,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521407
-    confront_des: building-39521407
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521408
@@ -39491,7 +42216,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521408
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39500,7 +42225,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521408
-    confront_des: building-39521408
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521409
@@ -39511,7 +42236,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
-    name: building-19521409
+    name: 迷いウサギの穴
     code: Hole
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39520,7 +42245,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521409
-    confront_des: building-39521409
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521410
@@ -39531,7 +42256,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521410
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39540,7 +42265,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521410
-    confront_des: building-39521410
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521411
@@ -39551,7 +42276,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521411
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39560,7 +42285,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521411
-    confront_des: building-39521411
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521412
@@ -39571,7 +42296,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19521412
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -39586,8 +42311,8 @@
     transition: "1,3"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-29521412
-    confront_des: building-39521412
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521413
@@ -39598,7 +42323,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521413
+    name: ガラクタ
     code: Sundries
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -39611,7 +42336,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521413
-    confront_des: building-39521413
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521414
@@ -39622,7 +42347,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19521414
+    name: エレベーター
     code: LiftBlue
     shifting_spot: "5,20"
     shifting_team: "-30,0"
@@ -39633,7 +42358,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521414
-    confront_des: building-39521414
+    confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
     id: 9521415
@@ -39654,7 +42379,558 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-29521415
-    confront_des: building-39521415
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 9550101
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550101
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550102
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550102
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550103
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550103
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550104
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550104
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550105
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550105
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550106
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550106
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550107
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550107
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550108
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550108
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550109
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: building-19550109
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550110
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-19550110
+    code: Tank_RH
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "1000056"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-29550110
+    confront_des: building-39550110
+  }
+  {
+    id: 9550111
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-19550111
+    code: Tank_RH
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "1000056,95401017"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-29550111
+    confront_des: building-39550111
+  }
+  {
+    id: 9550112
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: building-19550112
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120101|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401003"
+    inherent_mission_skill: "1120100,1120101,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;废弃建筑①;0,0;2000015|Rock2;建筑废墟;0,0;2000016
+    des: 戦闘中、障害物として利用できる、爆破されると廃墟となり通過不可となる。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550113
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: building-19550113
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120201|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401004"
+    inherent_mission_skill: "1120200,1120201,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;废弃建筑②;0,0;2000015|Rock2;建筑废墟;0,0;2000016
+    des: 戦闘中、障害物として利用できる、爆破されると廃墟となり通過不可となる。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550114
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: building-19550114
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120301|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401005"
+    inherent_mission_skill: "1120300,1120301,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;废弃建筑③;0,0;2000015|Rock2;建筑废墟;0,0;2000016
+    des: 戦闘中、障害物として利用できる、爆破されると廃墟となり通過不可となる。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550115
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: building-19550115
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120401|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401006"
+    inherent_mission_skill: "1120400,1120401,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;废弃建筑④;0,0;2000015|Rock2;建筑废墟;0,0;2000016
+    des: 戦闘中、障害物として利用できる、爆破されると廃墟となり通過不可となる。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550116
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: building-19550116
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120501|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401007"
+    inherent_mission_skill: "1120500,1120501,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;废弃建筑⑤;0,0;2000015|Rock2;建筑废墟;0,0;2000016
+    des: 戦闘中、障害物として利用できる、爆破されると廃墟となり通過不可となる。
+    confront_des:
+      '''
+      本ステージにおいて使用可能な対応手段：
+      重装部隊を使用し破壊
+      '''
+  }
+  {
+    id: 9550117
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000014
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: 起爆装置
+    code: Detonator
+    shifting_spot: "10,110"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1010101"
+    inherent_mission_skill: "1010100,1120101,1120201,1120301,1120401,1120501"
+    type: 14
+    transition: "1,1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 設置が完了した起爆装置、指定ポイントの爆薬を爆発させ、施設を破壊可能。
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 9550118
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000005
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 制御パネル
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1010101"
+    active_mission_skill: "95401009"
+    inherent_mission_skill: "1000200"
+    type: 7
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;0
+    initial_state: -1
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 9550119
+    defender: 50
+    defender_upper: 50
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;95401015;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-19550119
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "95401015,95401018"
+    type: 4
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: building-29550119
+    confront_des: 本ステージでは当該施設を破壊することはできません
+  }
+  {
+    id: 9550120
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: building-19550120
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    trigger_distance: 1
+    inherent_mission_skill: "95401016"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: building-29550120
+    confront_des: building-39550120
   }
   {
     id: 43130001

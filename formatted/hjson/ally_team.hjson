@@ -5768,6 +5768,38 @@
     no_battle_damage: -1
   }
   {
+    id: 105601
+    name: ally_team-10105601
+    guns: "1,2,3,4,5"
+    enemy_team_id: 570505
+    initial_type: 2
+    ai: 0;0;103
+    ai_content: 0;0;0
+    transform_condition: "4"
+    transform_number: "570501"
+    transform_result: 1:9106-1
+    betray_result_enemy: "570505"
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 105602
+    name: ally_team-10105602
+    guns: "1,2,3,4,5"
+    enemy_team_id: 570504
+    ai: 0;0;0
+    ai_content: 0;0;0
+    betray_condition: "1"
+    betray_number: "2"
+    betray_result: "2"
+    transform_condition: "4"
+    transform_number: "570502,570501"
+    transform_result: 1:9106-1,1:9106-1
+    betray_result_enemy: "570504"
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
     id: 316001
     name: 鉄血勢力
     guns: "100791"
@@ -13539,6 +13571,254 @@
     no_battle_damage: -1
   }
   {
+    id: 570001
+    name: ally_team-10570001
+    guns: "570001"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570002
+    name: ally_team-10570002
+    guns: "570002"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570003
+    name: ally_team-10570003
+    guns: "570003"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570004
+    name: ally_team-10570004
+    guns: "570004"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570005
+    name: ally_team-10570005
+    guns: "570005"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570006
+    name: ally_team-10570006
+    guns: "570006"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570007
+    name: ally_team-10570007
+    guns: "570007"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570008
+    name: ally_team-10570008
+    guns: "570011"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570009
+    name: ally_team-10570009
+    guns: "570011"
+    enemy_team_id: 570001
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570010
+    name: ally_team-10570010
+    guns: "570011"
+    enemy_team_id: 570002
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570011
+    name: ally_team-10570011
+    guns: "570011"
+    enemy_team_id: 570003
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570012
+    name: ally_team-10570012
+    guns: "570011"
+    enemy_team_id: 570004
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570013
+    name: ally_team-10570013
+    guns: "570011"
+    enemy_team_id: 570005
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570014
+    name: ally_team-10570014
+    guns: "570011"
+    enemy_team_id: 570006
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570015
+    name: ally_team-10570015
+    guns: "570011"
+    enemy_team_id: 570007
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570016
+    name: ally_team-10570016
+    guns: "570011"
+    enemy_team_id: 570008
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 575001
+    name: ally_team-10575001
+    guns: "570010"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;1;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 575002
+    name: ally_team-10575002
+    guns: "570009"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;1;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 575003
+    name: ally_team-10575003
+    guns: "570008"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;1;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 590001
+    name: ally_team-10590001
+    guns: "590001,590002,590003,590004,590005"
+    fairy: 30
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 590002
+    name: ally_team-10590002
+    guns: "590006,590007,590008,590009,590010"
+    fairy: 30
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 590003
+    name: ally_team-10590003
+    guns: "590011,590012,590013,590014,590015"
+    fairy: 30
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 590004
+    name: ally_team-10590004
+    guns: "590016"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
     id: 1013101
     code: profilePic_AI
     ui_image_icon: ally0
@@ -17251,6 +17531,106 @@
     no_battle_damage: -1
   }
   {
+    id: 6560001
+    name: ？？？
+    guns: "1"
+    enemy_team_id: 6560301
+    initial_type: 2
+    ai: 102;2001:5,10;102
+    ai_content: 99;0;99
+    no_battle_damage: -1
+  }
+  {
+    id: 6560002
+    name: ？？？
+    guns: "1"
+    enemy_team_id: 6560301
+    initial_type: 2
+    ai: 102;2001:5,10;102
+    ai_content: 99;0;99
+    no_battle_damage: -1
+  }
+  {
+    id: 6560003
+    name: SCAR_L
+    guns: "6560101"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 6560004
+    name: SCAR_H
+    guns: "6560201"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 6560005
+    name: アウロラ小隊
+    guns: "6560301,6560302,6560303,6560304,6560305"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 6560006
+    name: ？？？
+    guns: "1"
+    enemy_team_id: 6561301
+    initial_type: 2
+    ai: 102;2001:5,10;102
+    ai_content: 99;0;99
+    no_battle_damage: -1
+  }
+  {
+    id: 6560007
+    name: ？？？
+    guns: "1"
+    enemy_team_id: 6561301
+    initial_type: 2
+    ai: 102;2001:5,10;102
+    ai_content: 99;0;99
+    no_battle_damage: -1
+  }
+  {
+    id: 6560008
+    name: エリアナ
+    guns: "1"
+    enemy_team_id: 6560401
+    initial_type: 2
+    ai: 102;2001:5,10;102
+    ai_content: 99;0;99
+    no_battle_damage: -1
+  }
+  {
+    id: 6560009
+    name: エリアナ
+    guns: "1"
+    enemy_team_id: 6561401
+    initial_type: 2
+    ai: 102;2001:5,10;102
+    ai_content: 99;0;99
+    no_battle_damage: -1
+  }
+  {
+    id: 6560010
+    name: アマリス
+    guns: "6560201"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
     id: 9120101
     name: オフラインメンタル
     guns: "716"
@@ -18222,6 +18602,547 @@
     initial_type: 2
     ai: 102;0;102
     ai_content: 2;0;2
+    no_battle_damage: -1
+  }
+  {
+    id: 9550102
+    name: ally_team-19550102
+    guns: "1"
+    enemy_team_id: 9550102
+    initial_type: 2
+    ai: 103;1;103
+    ai_content: 0;0;0
+    betray_condition: "6"
+    betray_number: "95401009"
+    betray_result: "2"
+    betray_result_enemy: "9550101"
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550103
+    name: ally_team-19550103
+    guns: "748,749"
+    enemy_team_id: 9550101
+    initial_type: 1
+    ai: 103;2010;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550104
+    name: ally_team-19550104
+    guns: "825"
+    enemy_team_id: 9550101
+    initial_type: 1
+    ai: 103;1;103
+    ai_content: 0;0;0
+    squad: 1008
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550105
+    name: ally_team-19550105
+    guns: "1"
+    enemy_team_id: 9550105
+    ai: 103;1;103
+    ai_content: 0;0;0
+    building: 337210
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550117
+    name: ally_team-19550117
+    guns: "1"
+    enemy_team_id: 9550117
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550118
+    name: ally_team-19550118
+    guns: "1"
+    enemy_team_id: 9550118
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550119
+    name: ally_team-19550119
+    guns: "1"
+    enemy_team_id: 9550119
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550120
+    name: ally_team-19550120
+    guns: "1"
+    enemy_team_id: 9550120
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550121
+    name: ally_team-19550121
+    guns: "1"
+    enemy_team_id: 9550121
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550122
+    name: ally_team-19550122
+    guns: "1"
+    enemy_team_id: 9550122
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550123
+    name: ally_team-19550123
+    guns: "1"
+    enemy_team_id: 9550123
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550124
+    name: ally_team-19550124
+    guns: "1"
+    enemy_team_id: 9550124
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550125
+    name: ally_team-19550125
+    guns: "1"
+    enemy_team_id: 9550125
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550126
+    name: ally_team-19550126
+    guns: "1"
+    enemy_team_id: 9550126
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550127
+    name: ally_team-19550127
+    guns: "1"
+    enemy_team_id: 9550127
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550128
+    name: ally_team-19550128
+    guns: "1"
+    enemy_team_id: 9550128
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550129
+    name: ally_team-19550129
+    guns: "1"
+    enemy_team_id: 9550129
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550130
+    name: ally_team-19550130
+    guns: "1"
+    enemy_team_id: 9550130
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550131
+    name: ally_team-19550131
+    guns: "1"
+    enemy_team_id: 9550131
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550132
+    name: ally_team-19550132
+    guns: "1"
+    enemy_team_id: 9550132
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550133
+    name: ally_team-19550133
+    guns: "1"
+    enemy_team_id: 9550133
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550134
+    name: ally_team-19550134
+    guns: "1"
+    enemy_team_id: 9550134
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550135
+    name: ally_team-19550135
+    guns: "1"
+    enemy_team_id: 9550135
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550136
+    name: ally_team-19550136
+    guns: "1"
+    enemy_team_id: 9550136
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550137
+    name: ally_team-19550137
+    guns: "1"
+    enemy_team_id: 9550137
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550138
+    name: ally_team-19550138
+    guns: "1"
+    enemy_team_id: 9550138
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550139
+    name: ally_team-19550139
+    guns: "1"
+    enemy_team_id: 9550139
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550140
+    name: ally_team-19550140
+    guns: "1"
+    enemy_team_id: 9550140
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550141
+    name: ally_team-19550141
+    guns: "1"
+    enemy_team_id: 9550141
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550142
+    name: ally_team-19550142
+    guns: "1"
+    enemy_team_id: 9550142
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550143
+    name: ally_team-19550143
+    guns: "1"
+    enemy_team_id: 9550143
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550144
+    name: ally_team-19550144
+    guns: "1"
+    enemy_team_id: 9550144
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550145
+    name: ally_team-19550145
+    guns: "1"
+    enemy_team_id: 9550145
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550146
+    name: ally_team-19550146
+    guns: "1"
+    enemy_team_id: 9550146
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550147
+    name: ally_team-19550147
+    guns: "1"
+    enemy_team_id: 9550147
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550148
+    name: ally_team-19550148
+    guns: "1"
+    enemy_team_id: 9550148
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550149
+    name: ally_team-19550149
+    guns: "1"
+    enemy_team_id: 9550149
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550150
+    name: ally_team-19550150
+    guns: "1"
+    enemy_team_id: 9550150
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550151
+    name: ally_team-19550151
+    guns: "1"
+    enemy_team_id: 9550151
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550152
+    name: ally_team-19550152
+    guns: "1"
+    enemy_team_id: 9550152
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550153
+    name: ally_team-19550153
+    guns: "1"
+    enemy_team_id: 9550153
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550154
+    name: ally_team-19550154
+    guns: "1"
+    enemy_team_id: 9550154
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550155
+    name: ally_team-19550155
+    guns: "1"
+    enemy_team_id: 9550155
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550156
+    name: ally_team-19550156
+    guns: "1"
+    enemy_team_id: 9550156
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550157
+    name: ally_team-19550157
+    guns: "1"
+    enemy_team_id: 9550157
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550158
+    name: ally_team-19550158
+    guns: "1"
+    enemy_team_id: 9550158
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550159
+    name: ally_team-19550159
+    guns: "1"
+    enemy_team_id: 9550159
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550160
+    name: ally_team-19550160
+    guns: "1"
+    enemy_team_id: 9550160
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550161
+    name: ally_team-19550161
+    guns: "1"
+    enemy_team_id: 9550161
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550162
+    name: ally_team-19550162
+    guns: "1"
+    enemy_team_id: 9550162
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550163
+    name: ally_team-19550163
+    guns: "1"
+    enemy_team_id: 9550163
+    ai: 103;1;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550181
+    name: ally_team-19550181
+    guns: "748,749"
+    enemy_team_id: 9550101
+    initial_type: 1
+    ai: 103;2010;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 9550182
+    name: ally_team-19550182
+    guns: "748,749"
+    enemy_team_id: 9550101
+    initial_type: 1
+    ai: 103;2010;103
+    ai_content: 0;0;0
+    enemy_panel_type: 1
     no_battle_damage: -1
   }
   {

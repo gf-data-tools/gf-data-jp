@@ -231,6 +231,11 @@
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000115", "is_hide_info": 0
   }, {
+    "id": 117, "type": 3, "arg": "18", "code": "Medal_2022Scar", "item_name": "エクリプス観測者", 
+    "introduction": "指揮官及びその配下の戦術人形たちが、イベント「エクリプス・サロス」にて称えられる功績を残したことを表彰する。「太陽と月が交わり、過去の観測と期待が終わりを告げる。そして、新しい周期が始まる」", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30000117", "is_hide_info": 0
+  }, {
     "id": 301, "type": 1, "arg": "1", "code": "CentreDataBGM71", "item_name": "中枢データ：BGM-71", 
     "introduction": "重装部隊BGM-71のデータの欠片。-「報告！目標区域に味方を確認！」-「ありゃま……じゃあ彼女たちの幸運でも祈ろう！」", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
@@ -4303,6 +4308,19 @@
     "introduction": "IDカード背景：夜のココアの香り", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
     "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002062", "is_hide_info": 0
   }, {
+    "id": 2063, "type": 5, "arg": "1", "code": "profilePic_sangvis_Hunter_WhiteDay", 
+    "item_name": "ハンター-裳夜の蛾アイコン", "introduction": "ハンター-裳夜の蛾アイコン", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002063", "is_hide_info": 0
+  }, {
+    "id": 2064, "type": 5, "arg": "1", "code": "profilePic_sangvis_Vespid_bride", "item_name": "花嫁ゾンビアイコン", 
+    "introduction": "花嫁ゾンビアイコン", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002064", "is_hide_info": 0
+  }, {
+    "id": 2065, "type": 5, "arg": "1", "code": "profilePic_sangvis_Vespid_bride_HD", "item_name": "花嫁ゾンビアイコン-HD", 
+    "introduction": "花嫁ゾンビアイコン-HD", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002065", "is_hide_info": 0
+  }, {
     "id": 2066, "type": 5, "arg": "1", "code": "profilePic_ChessFlight_season5_1", 
     "item_name": "メンタルミーム・コードIII：モーメント", "introduction": "メンタルミーム・コードIII：モーメント", "rank": 1, 
     "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
@@ -4403,6 +4421,59 @@
     "id": 2187, "type": 5, "arg": "1", "code": "card_BattlePass_DSR50", "item_name": "IDカード背景：円卓のバーテンダー", 
     "introduction": "IDカード背景：円卓のバーテンダー", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
     "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002187", "is_hide_info": 0
+  }, {
+    "id": 2194, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_01", "item_name": "アイコン：ダジャレの天才", 
+    "introduction": "アイコン：ダジャレの天才", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002194", "is_hide_info": 0
+  }, {
+    "id": 2195, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_02", "item_name": "アイコン：太陽の栄光", 
+    "introduction": "アイコン：太陽の栄光", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002195", "is_hide_info": 0
+  }, {
+    "id": 2196, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_03", "item_name": "アイコン：月の海", 
+    "introduction": "アイコン：月の海", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002196", "is_hide_info": 0
+  }, {
+    "id": 2197, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_04", "item_name": "アイコン：充電中……", 
+    "introduction": "アイコン：充電中……", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002197", "is_hide_info": 0
+  }, {
+    "id": 2198, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_05", "item_name": "アイコン：超一流作家", 
+    "introduction": "アイコン：超一流作家", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002198", "is_hide_info": 0
+  }, {
+    "id": 2199, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_06", "item_name": "アイコン：今月もピンチ！", 
+    "introduction": "アイコン：今月もピンチ！", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002199", "is_hide_info": 0
+  }, {
+    "id": 2200, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_07", "item_name": "アイコン：純白の天使", 
+    "introduction": "アイコン：純白の天使", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002200", "is_hide_info": 0
+  }, {
+    "id": 2201, "type": 5, "arg": "1", "code": "profilePic_EclipseActivity2022_08", 
+    "item_name": "アイコン：アウロラの守護者", "introduction": "アイコン：アウロラの守護者", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002201", "is_hide_info": 0
+  }, {
+    "id": 2202, "type": 5, "arg": "1", "code": "card_EclipseActivity2022_01", "item_name": "IDカード背景：宿命の天秤", 
+    "introduction": "IDカード背景：宿命の天秤", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002202", "is_hide_info": 0
+  }, {
+    "id": 2203, "type": 5, "arg": "1", "code": "card_EclipseActivity2022_02", "item_name": "IDカード背景：ネオンの黄昏", 
+    "introduction": "IDカード背景：ネオンの黄昏", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002203", "is_hide_info": 0
+  }, {
+    "id": 2204, "type": 5, "arg": "1", "code": "cg_EclipseActivity2022_01", "item_name": "基地背景：都市巡遊記", 
+    "introduction": "基地背景：都市巡遊記", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002204", "is_hide_info": 0
+  }, {
+    "id": 2205, "type": 5, "arg": "1", "code": "card_BattlePass_Lewis", "item_name": "IDカード背景：秋園にて舞う", 
+    "introduction": "IDカード背景：秋園にて舞う", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002205", "is_hide_info": 0
+  }, {
+    "id": 2206, "type": 5, "arg": "1", "code": "profilePic_BattlePass_Lewis", "item_name": "ライディングハビット", 
+    "introduction": "ライディングハビット", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002206", "is_hide_info": 0
   }, {
     "id": 2217, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_A545", "item_name": "銀樹の謝意", 
     "introduction": "銀樹の謝意", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
@@ -5202,6 +5273,18 @@
     "introduction": "白金勲章・繭中の蝶", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30100162", "is_hide_info": 0
   }, {
+    "id": 100163, "type": 9, "arg": "100163", "code": "Scar2022", "item_name": "半影コイン", "introduction": "半影コイン", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "60", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100163", "is_hide_info": 0
+  }, {
+    "id": 100164, "type": 4, "arg": "100164", "code": "Nova_medal", "item_name": "新星勲章・エクリプス・サロス", 
+    "introduction": "新星勲章・エクリプス・サロス", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30100164", "is_hide_info": 0
+  }, {
+    "id": 100165, "type": 4, "arg": "100165", "code": "Platinum_medal", "item_name": "白金勲章・エクリプス・サロス", 
+    "introduction": "白金勲章・エクリプス・サロス", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30100165", "is_hide_info": 0
+  }, {
     "id": 110001, "type": 4, "arg": "110001", "code": "PT", "item_name": "イベントポイント", 
     "introduction": "イベントポイント", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30110001", "is_hide_info": 0
@@ -5550,6 +5633,14 @@
     "introduction": "item-20140006", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30140006", "is_hide_info": 0
   }, {
+    "id": 140007, "type": 14, "arg": "1", "code": "Y_Z_zhihuiguan_Chessman", "item_name": "item-10140007", 
+    "introduction": "item-20140007", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30140007", "is_hide_info": 0
+  }, {
+    "id": 140008, "type": 14, "arg": "1", "code": "Y_Z_zhihuiguan_Chessman", "item_name": "item-10140008", 
+    "introduction": "item-20140008", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30140008", "is_hide_info": 0
+  }, {
     "id": 160001, "type": 1, "arg": "1", "code": "PT", "item_name": "item-10160001", "introduction": "item-20160001", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30160001", "is_hide_info": 0
@@ -5610,6 +5701,11 @@
     "introduction": "アイコンフレーム：アンドロイド犬が電子酒の夢を見た時", "rank": 1, "sort": 0, "initial_num": "", 
     "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30200015", 
     "is_hide_info": 0
+  }, {
+    "id": 200016, "type": 5, "arg": "1", "code": "profileFrame_BattlePass_Lewis", 
+    "item_name": "アイコンフレーム：駿馬の嘶き", "introduction": "アイコンフレーム：駿馬の嘶き", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30200016", "is_hide_info": 0
   }, {
     "id": 200017, "type": 5, "arg": "1", "code": "profileFrame_2023NewYear_JP", "item_name": "アイコンフレーム：新春万福", 
     "introduction": "アイコンフレーム：新春万福", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
@@ -5750,6 +5846,14 @@
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-31100008", "is_hide_info": 0
   }, {
+    "id": 1100009, "type": 11, "arg": "10", "code": "fetter_skill", "item_name": "item-11100009", 
+    "introduction": "item-21100009", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-31100009", "is_hide_info": 0
+  }, {
+    "id": 1100010, "type": 11, "arg": "10", "code": "fetter_skill", "item_name": "item-11100010", 
+    "introduction": "item-21100010", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-31100010", "is_hide_info": 0
+  }, {
     "id": 1500009, "type": 15, "arg": "1500009", "code": "package_choose", "item_name": "基本装備指定ビーコン", 
     "introduction": "使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。", "rank": 1, "sort": -1, 
     "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
@@ -5879,6 +5983,26 @@
     "introduction": "使用することで、「2022年7月15日(金)」より以前に実装された「星5 SG戦術人形」から1名を要請できます。要請可能な対象の「戦術人形」は左右にスワイプすることでご確認いただけます。", 
     "rank": 1, "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-31500036", "is_hide_info": 0
+  }, {
+    "id": 1500037, "type": 15, "arg": "1500037", "code": "package_choose", "item_name": "基本装備指定ビーコン", 
+    "introduction": "使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。", "rank": 1, "sort": -1, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500037", "is_hide_info": 0
+  }, {
+    "id": 1500038, "type": 15, "arg": "1500038", "code": "package_choose", "item_name": "アタッチメント装備指定ビーコン", 
+    "introduction": "使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。", "rank": 1, "sort": -1, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500038", "is_hide_info": 0
+  }, {
+    "id": 1500039, "type": 15, "arg": "1500039", "code": "package_random", "item_name": "未所持人形開放ビーコン", 
+    "introduction": "使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。", 
+    "rank": 1, "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500039", "is_hide_info": 0
+  }, {
+    "id": 1500040, "type": 15, "arg": "1500040", "code": "package_random", "item_name": "前線協定-追加報酬", 
+    "introduction": "使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。", "rank": 1, "sort": -1, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500040", "is_hide_info": 0
   }, {
     "id": 1500045, "type": 15, "arg": "1500045", "code": "Bumdle_Coupons3", "item_name": "秘蔵スキン抽選券", 
     "introduction": "「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。", 

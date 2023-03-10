@@ -10275,6 +10275,26 @@
     "code": "2022WhiteVActivity_deco_LWMMG", "texture_type": "1", "sorting": "0", "offset": "0,0,0", "rotate": "2", 
     "interact_point": "0", "interact_point_offset": "0,0,0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
   }, {
+    "id": 20080, "name": "アンクル", "classes": 299, "type": 299, "position": "0", "space": "3,2,0,0,0,0", "deco_rate": 1000, 
+    "decompose_gift": 100003, 
+    "description": "Uncle、オレンジ色のタグのベルジアンマリノア。活発で人に懐く。タグの裏面に小さい文字で何かが書かれてある――「ユーラUla、ニコルNicole、クリストCrystal、ローレルLaurel、エリアナElianaヘ」", 
+    "code": "2022EclipseActivity_uncledog", "texture_type": "1", "sorting": "0", "offset": "0,-0.135551,-0.031281", 
+    "rotate": "2", "interact_point": "4", "interact_point_offset": "0,0,0", "furniture_bgm": "0", "touch_area": "3,3,3", 
+    "bonus_id": 3100, "ai": 0
+  }, {
+    "id": 20081, "name": "サモ", "classes": 299, "type": 299, "position": "0", "space": "3,2,0,0,0,0", "deco_rate": 1000, 
+    "decompose_gift": 100003, 
+    "description": "Samo、青色のタグのベルジアンマリノア。機敏で警戒心が強い。タグの裏面に小さい文字で何かが書かれてある――「サマンサSamantha、アマリスAmaris、モリアMoira、オリヴィアOliviaへ」", 
+    "code": "2022EclipseActivity_samodog", "texture_type": "1", "sorting": "0", "offset": "0,-0.135551,-0.031281", 
+    "rotate": "2", "interact_point": "4", "interact_point_offset": "0,0,0", "furniture_bgm": "0", "touch_area": "3,3,3", 
+    "bonus_id": 3101, "ai": 0
+  }, {
+    "id": 20082, "name": "エクリプス観測者", "classes": 81, "type": 302, "position": "0", "space": "3,5,0,0,0,0", 
+    "deco_rate": 1000, "decompose_gift": 100003, 
+    "description": "指揮官及びその配下の戦術人形たちが、イベント「エクリプス・サロス」にて称えられる功績を残したことを表彰する。「太陽と月が交わり、過去の観測と期待が終わりを告げる。そして、新しい周期が始まる」", 
+    "code": "2022EclipseActivity_medal", "texture_type": "1", "sorting": "0", "offset": "0,0,0", "rotate": "3", 
+    "interact_point": "0", "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
     "id": 30001, "name": "かぼちゃクマさん", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
     "deco_rate": 750, "decompose_gift": 100003, "description": "マカロフのハロウィンポスター。", 
     "code": "poster_pm_halloween", "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "2", 
@@ -14561,5 +14581,10 @@
     "decompose_gift": 100003, "description": "Gd DSR-50のポスター", "code": "poster_BattlePass_DSR50", "texture_type": "1", 
     "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", "interact_point_offset": "0", 
     "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 330003, "name": "ライディングハビット", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "ルイスのポスター。", "code": "poster_BattlePass_Lewis", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
   }
 ]

@@ -581,6 +581,16 @@
     detail_introduction: item-30000115
   }
   {
+    id: 117
+    type: 3
+    arg: "18"
+    code: Medal_2022Scar
+    item_name: エクリプス観測者
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「エクリプス・サロス」にて称えられる功績を残したことを表彰する。「太陽と月が交わり、過去の観測と期待が終わりを告げる。そして、新しい周期が始まる」
+    rank: 1
+    detail_introduction: item-30000117
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -10569,6 +10579,36 @@
     detail_introduction: item-30002062
   }
   {
+    id: 2063
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Hunter_WhiteDay
+    item_name: ハンター-裳夜の蛾アイコン
+    introduction: ハンター-裳夜の蛾アイコン
+    rank: 1
+    detail_introduction: item-30002063
+  }
+  {
+    id: 2064
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Vespid_bride
+    item_name: 花嫁ゾンビアイコン
+    introduction: 花嫁ゾンビアイコン
+    rank: 1
+    detail_introduction: item-30002064
+  }
+  {
+    id: 2065
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Vespid_bride_HD
+    item_name: 花嫁ゾンビアイコン-HD
+    introduction: 花嫁ゾンビアイコン-HD
+    rank: 1
+    detail_introduction: item-30002065
+  }
+  {
     id: 2066
     type: 5
     arg: "1"
@@ -10807,6 +10847,136 @@
     introduction: IDカード背景：円卓のバーテンダー
     rank: 1
     detail_introduction: item-30002187
+  }
+  {
+    id: 2194
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_01
+    item_name: アイコン：ダジャレの天才
+    introduction: アイコン：ダジャレの天才
+    rank: 1
+    detail_introduction: item-30002194
+  }
+  {
+    id: 2195
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_02
+    item_name: アイコン：太陽の栄光
+    introduction: アイコン：太陽の栄光
+    rank: 1
+    detail_introduction: item-30002195
+  }
+  {
+    id: 2196
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_03
+    item_name: アイコン：月の海
+    introduction: アイコン：月の海
+    rank: 1
+    detail_introduction: item-30002196
+  }
+  {
+    id: 2197
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_04
+    item_name: アイコン：充電中……
+    introduction: アイコン：充電中……
+    rank: 1
+    detail_introduction: item-30002197
+  }
+  {
+    id: 2198
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_05
+    item_name: アイコン：超一流作家
+    introduction: アイコン：超一流作家
+    rank: 1
+    detail_introduction: item-30002198
+  }
+  {
+    id: 2199
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_06
+    item_name: アイコン：今月もピンチ！
+    introduction: アイコン：今月もピンチ！
+    rank: 1
+    detail_introduction: item-30002199
+  }
+  {
+    id: 2200
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_07
+    item_name: アイコン：純白の天使
+    introduction: アイコン：純白の天使
+    rank: 1
+    detail_introduction: item-30002200
+  }
+  {
+    id: 2201
+    type: 5
+    arg: "1"
+    code: profilePic_EclipseActivity2022_08
+    item_name: アイコン：アウロラの守護者
+    introduction: アイコン：アウロラの守護者
+    rank: 1
+    detail_introduction: item-30002201
+  }
+  {
+    id: 2202
+    type: 5
+    arg: "1"
+    code: card_EclipseActivity2022_01
+    item_name: IDカード背景：宿命の天秤
+    introduction: IDカード背景：宿命の天秤
+    rank: 1
+    detail_introduction: item-30002202
+  }
+  {
+    id: 2203
+    type: 5
+    arg: "1"
+    code: card_EclipseActivity2022_02
+    item_name: IDカード背景：ネオンの黄昏
+    introduction: IDカード背景：ネオンの黄昏
+    rank: 1
+    detail_introduction: item-30002203
+  }
+  {
+    id: 2204
+    type: 5
+    arg: "1"
+    code: cg_EclipseActivity2022_01
+    item_name: 基地背景：都市巡遊記
+    introduction: 基地背景：都市巡遊記
+    rank: 1
+    detail_introduction: item-30002204
+  }
+  {
+    id: 2205
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Lewis
+    item_name: IDカード背景：秋園にて舞う
+    introduction: IDカード背景：秋園にて舞う
+    rank: 1
+    detail_introduction: item-30002205
+  }
+  {
+    id: 2206
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Lewis
+    item_name: ライディングハビット
+    introduction: ライディングハビット
+    rank: 1
+    detail_introduction: item-30002206
   }
   {
     id: 2217
@@ -12703,6 +12873,37 @@
     detail_introduction: item-30100162
   }
   {
+    id: 100163
+    type: 9
+    arg: "100163"
+    code: Scar2022
+    item_name: 半影コイン
+    introduction: 半影コイン
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100163
+  }
+  {
+    id: 100164
+    type: 4
+    arg: "100164"
+    code: Nova_medal
+    item_name: 新星勲章・エクリプス・サロス
+    introduction: 新星勲章・エクリプス・サロス
+    rank: 1
+    detail_introduction: item-30100164
+  }
+  {
+    id: 100165
+    type: 4
+    arg: "100165"
+    code: Platinum_medal
+    item_name: 白金勲章・エクリプス・サロス
+    introduction: 白金勲章・エクリプス・サロス
+    rank: 1
+    detail_introduction: item-30100165
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -13523,6 +13724,26 @@
     detail_introduction: item-30140006
   }
   {
+    id: 140007
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140007
+    introduction: item-20140007
+    rank: 1
+    detail_introduction: item-30140007
+  }
+  {
+    id: 140008
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140008
+    introduction: item-20140008
+    rank: 1
+    detail_introduction: item-30140008
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -13661,6 +13882,16 @@
     introduction: アイコンフレーム：アンドロイド犬が電子酒の夢を見た時
     rank: 1
     detail_introduction: item-30200015
+  }
+  {
+    id: 200016
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_Lewis
+    item_name: アイコンフレーム：駿馬の嘶き
+    introduction: アイコンフレーム：駿馬の嘶き
+    rank: 1
+    detail_introduction: item-30200016
   }
   {
     id: 200017
@@ -14013,6 +14244,26 @@
     detail_introduction: item-31100008
   }
   {
+    id: 1100009
+    type: 11
+    arg: "10"
+    code: fetter_skill
+    item_name: item-11100009
+    introduction: item-21100009
+    rank: 1
+    detail_introduction: item-31100009
+  }
+  {
+    id: 1100010
+    type: 11
+    arg: "10"
+    code: fetter_skill
+    item_name: item-11100010
+    introduction: item-21100010
+    rank: 1
+    detail_introduction: item-31100010
+  }
+  {
     id: 1500009
     type: 15
     arg: "1500009"
@@ -14297,6 +14548,50 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500036
+  }
+  {
+    id: 1500037
+    type: 15
+    arg: "1500037"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500037
+  }
+  {
+    id: 1500038
+    type: 15
+    arg: "1500038"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500038
+  }
+  {
+    id: 1500039
+    type: 15
+    arg: "1500039"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500039
+  }
+  {
+    id: 1500040
+    type: 15
+    arg: "1500040"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500040
   }
   {
     id: 1500045

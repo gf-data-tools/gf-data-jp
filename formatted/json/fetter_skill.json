@@ -47,5 +47,15 @@
     "description": "MPKとMPLの距離が1マス以内の場合、味方に対するデメリット効果が働かなくなる。\nMPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。", 
     "gun_group": "363,364", "gun": 364, "type": 1, "skill1": 0, "skill2": 0, "normal_attack": 0, "passive_skill": "", 
     "dynamic_passive_skill": "119203,119204,119205,119206,119207,119208,119209", "active_trigger": ""
+  }, {
+    "id": 11, "name": "同じ光輝", "code": "SCAR_CON", 
+    "description": "SCAR-LとSCAR-Hが同時にいる場合、戦闘開始時、自身は月エネルギーを40ポイント獲得し、さらに1秒ごとに月エネルギーを4ポイント獲得する。", 
+    "gun_group": "377,378", "gun": 377, "type": 1, "skill1": 0, "skill2": 0, "normal_attack": 0, 
+    "passive_skill": "119702,119706,119707", "dynamic_passive_skill": "", "active_trigger": ""
+  }, {
+    "id": 12, "name": "同じ光輝", "code": "SCAR_CON", 
+    "description": "SCAR-LとSCAR-Hが同時にいる場合、戦闘開始時、自身は太陽エネルギーを40ポイント獲得し、さらに1秒ごとに太陽エネルギーを4ポイント獲得する。", 
+    "gun_group": "377,378", "gun": 378, "type": 1, "skill1": 0, "skill2": 0, "normal_attack": 0, 
+    "passive_skill": "119602,119604,119606,119607,119608", "dynamic_passive_skill": "", "active_trigger": ""
   }
 ]

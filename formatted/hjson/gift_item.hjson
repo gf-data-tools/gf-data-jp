@@ -7364,6 +7364,20 @@
     detail_introduction: gift_item-40030002
   }
   {
+    id: 30003
+    name: ライディングハビット
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 253
+    skin: 30003
+    poster: 330003
+    code: gift_bundle_BattlePass_Lewis
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    detail_introduction: gift_item-40030003
+  }
+  {
     id: 100001
     name: ロリポップ
     type: 1
