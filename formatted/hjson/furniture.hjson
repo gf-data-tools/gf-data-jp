@@ -26045,6 +26045,20 @@
     rotate: "3"
   }
   {
+    id: 20085
+    name: スケジュールボード
+    classes: 81
+    type: 201
+    space: "5,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: フランシュシュの今後の企画が書き記されているボード。それぞれの企画の欄には、それぞれの参加メンバーのデフォルメアイコンが飾られている――待て、右下の変なやつは誰なんだ？
+    code: Saga_deco_blackboard
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: かぼちゃクマさん
     classes: 300

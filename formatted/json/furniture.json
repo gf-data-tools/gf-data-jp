@@ -10295,6 +10295,12 @@
     "code": "2022EclipseActivity_medal", "texture_type": "1", "sorting": "0", "offset": "0,0,0", "rotate": "3", 
     "interact_point": "0", "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
   }, {
+    "id": 20085, "name": "スケジュールボード", "classes": 81, "type": 201, "position": "0", "space": "5,2,1,1,1,0", 
+    "deco_rate": 1000, "decompose_gift": 100003, 
+    "description": "フランシュシュの今後の企画が書き記されているボード。それぞれの企画の欄には、それぞれの参加メンバーのデフォルメアイコンが飾られている――待て、右下の変なやつは誰なんだ？", 
+    "code": "Saga_deco_blackboard", "texture_type": "1", "sorting": "0", "offset": "0,0,0", "rotate": "2", 
+    "interact_point": "0", "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
     "id": 30001, "name": "かぼちゃクマさん", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
     "deco_rate": 750, "decompose_gift": 100003, "description": "マカロフのハロウィンポスター。", 
     "code": "poster_pm_halloween", "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "2", 
