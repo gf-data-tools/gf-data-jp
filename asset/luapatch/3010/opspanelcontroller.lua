@@ -2140,7 +2140,9 @@ end
 local Start = function(self)
 	self:Start();
 	checkRequestDrawEvent = true;
-	CS.CommonController.Invoke(RequestDrawEvent,0.2,CS.OPSPanelController.Instance);
+	CS.CommonController.Invoke(function()
+		CS.OPSPanelController.Instance:RequestDrawEvent();
+	end,0.2,CS.OPSPanelController.Instance);
 	findSpot = true;
 	local requestPrize = CS.RequestActivityEventPrize();
 	requestPrize:Request();
