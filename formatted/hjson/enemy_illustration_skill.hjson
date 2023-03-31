@@ -967,6 +967,31 @@
     description: enemy_illustration_skill-20000178
   }
   {
+    id: 179
+    name: enemy_illustration_skill-10000179
+    description: enemy_illustration_skill-20000179
+  }
+  {
+    id: 180
+    name: enemy_illustration_skill-10000180
+    description: enemy_illustration_skill-20000180
+  }
+  {
+    id: 181
+    name: enemy_illustration_skill-10000181
+    description: enemy_illustration_skill-20000181
+  }
+  {
+    id: 182
+    name: enemy_illustration_skill-10000182
+    description: enemy_illustration_skill-20000182
+  }
+  {
+    id: 183
+    name: enemy_illustration_skill-10000183
+    description: enemy_illustration_skill-20000183
+  }
+  {
     id: 999
     name: enemy_illustration_skill-10000999
     description: enemy_illustration_skill-20000999
@@ -995,6 +1020,81 @@
     id: 10022
     name: スイカアタック
     description: 敵に接触すると移動を停止し、攻撃を始める。
+  }
+  {
+    id: 10037
+    name: 凶暴
+    description: 移動中、受けるダメージを減らす。攻撃状態時、目標の後ろにいるユニットにもダメージを与える。
+  }
+  {
+    id: 10038
+    name: 短気
+    description: 偏向障壁を回復できる。正面の敵に対しダメージを与え、目標の移動速度と射速を低下させる。
+  }
+  {
+    id: 10039
+    name: 高速スピン
+    description: 戦闘開始時、敵に向けて高速でスピンしながら突撃する。最初にぶつかった敵に対し大ダメージを与え、スピンを停止する。
+  }
+  {
+    id: 10040
+    name: スピードインパクト
+    description: 戦闘開始時、敵に向けて一直線で突撃する。経路上のユニットに大ダメージを与える。
+  }
+  {
+    id: 10041
+    name: バブル発射
+    description: 一定時間ごとに、泡を生成する。
+  }
+  {
+    id: 10042
+    name: 泡影
+    description: 敵のユニットに接触すると爆発する。退場時、自身周囲2ヤード範囲内の敵に対しダメージを与える。
+  }
+  {
+    id: 10043
+    name: バイオレンスファング
+    description: 攻撃速度が大幅に上昇。シールドを持つユニットに対しては追加ダメージを与える。
+  }
+  {
+    id: 10044
+    name: 銃弾は鎖を撃ち抜いて
+    description: パフォーマンスを行い、緊張していてもスコアは下がらず、逆に50%上昇する。
+  }
+  {
+    id: 10045
+    name: かなで
+    description: パフォーマンスを行い、周囲3マス範囲内の、士気が高まっている相手を緊張させる。
+  }
+  {
+    id: 10046
+    name: そらの飛び方
+    description: パフォーマンスを行い、自身の士気を高める。
+  }
+  {
+    id: 10047
+    name: Plague Knight
+    description: パフォーマンスを行い、士気が高まっている場合、その効果が100%になる。
+  }
+  {
+    id: 10048
+    name: Witcher General
+    description: パフォーマンスを行い、周囲2マス範囲内の相手を緊張させる。
+  }
+  {
+    id: 10049
+    name: Steel Butterfly
+    description: パフォーマンスを行い、周囲2マス範囲内の、緊張していない味方の士気を高める。
+  }
+  {
+    id: 10050
+    name: Electric Witch
+    description: パフォーマンスを行い、Feverモード中の場合、追加で獲得スコアが50%上昇する。
+  }
+  {
+    id: 10051
+    name: Dragon Jr.
+    description: 毎ターンパフォーマンスを行い、テンションの変化を受けない。
   }
   {
     id: 10087

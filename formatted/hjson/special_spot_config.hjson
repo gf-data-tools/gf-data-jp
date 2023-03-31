@@ -10675,7 +10675,7 @@
   {
     id: 570191
     name: special_spot_config-10570191
-    description: special_spot_config-20570191
+    description: 特別挑戦
     code: ZLSP
     priority: -1
     duration_type: "1"
@@ -10693,7 +10693,7 @@
   }
   {
     id: 570301
-    name: special_spot_config-10570301
+    name: 普通のパフォーマンス
     description: special_spot_config-20570301
     priority: -1
     duration_type: "1"
@@ -10712,7 +10712,7 @@
   }
   {
     id: 570302
-    name: special_spot_config-10570302
+    name: パフォーマンス大成功
     description: special_spot_config-20570302
     priority: -1
     duration_type: "1"
@@ -10731,7 +10731,7 @@
   }
   {
     id: 570303
-    name: special_spot_config-10570303
+    name: パフォーマンス大失敗
     description: special_spot_config-20570303
     priority: -1
     duration_type: "1"
@@ -10750,7 +10750,7 @@
   }
   {
     id: 570311
-    name: special_spot_config-10570311
+    name: 普通のパフォーマンス
     description: special_spot_config-20570311
     priority: -1
     duration_type: "1"
@@ -10769,7 +10769,7 @@
   }
   {
     id: 570312
-    name: special_spot_config-10570312
+    name: パフォーマンス大成功
     description: special_spot_config-20570312
     priority: -1
     duration_type: "1"
@@ -10788,7 +10788,7 @@
   }
   {
     id: 570313
-    name: special_spot_config-10570313
+    name: パフォーマンス大失敗
     description: special_spot_config-20570313
     priority: -1
     duration_type: "1"
@@ -11060,7 +11060,7 @@
   {
     id: 570501
     name: special_spot_config-10570501
-    description: special_spot_config-20570501
+    description: 故障したバブルマシーン
     code: Bubble_machine
     priority: 570501
     duration_type: "1"
@@ -11079,7 +11079,7 @@
   {
     id: 570505
     name: special_spot_config-10570505
-    description: special_spot_config-20570505
+    description: 敵を倒す
     code: Bubble_machine
     priority: 570505
     duration_type: "1"
@@ -11118,7 +11118,7 @@
   {
     id: 570602
     name: special_spot_config-10570602
-    description: special_spot_config-20570602
+    description: 焦る客
     code: Bathhouse_guest_2
     priority: 570602
     duration_type: "1"
@@ -11157,7 +11157,7 @@
   {
     id: 570604
     name: special_spot_config-10570604
-    description: special_spot_config-20570604
+    description: なくした配達
     code: TakeOut
     priority: 570604
     duration_type: "1"
@@ -11176,7 +11176,7 @@
   {
     id: 570605
     name: special_spot_config-10570605
-    description: special_spot_config-20570605
+    description: タイムレコーダー
     code: Console
     priority: 570605
     duration_type: "1"
@@ -11231,7 +11231,7 @@
   {
     id: 570612
     name: special_spot_config-10570612
-    description: special_spot_config-20570612
+    description: タイムレコーダー
     code: Console
     priority: -1
     duration_type: "1"
@@ -11250,7 +11250,7 @@
   {
     id: 570613
     name: special_spot_config-10570613
-    description: special_spot_config-20570613
+    description: 敵を倒す
     code: Tyre_enemy
     priority: -1
     duration_type: "1"
@@ -11485,7 +11485,7 @@
   }
   {
     id: 571081
-    name: special_spot_config-10571081
+    name: "[avg]-57-EXT-7-78"
     description: special_spot_config-20571081
     priority: 1
     duration_type: "1"
@@ -11503,7 +11503,7 @@
   }
   {
     id: 572001
-    name: special_spot_config-10572001
+    name: "[avg]-57-EXT-7-41"
     description: special_spot_config-20572001
     priority: 1
     duration_type: "1"
@@ -11522,7 +11522,7 @@
   }
   {
     id: 572002
-    name: special_spot_config-10572002
+    name: "[avg]-57-EXT-7-42"
     description: special_spot_config-20572002
     priority: 1
     duration_type: "1"
@@ -11541,7 +11541,7 @@
   }
   {
     id: 572003
-    name: special_spot_config-10572003
+    name: "[avg]-57-EXT-7-43"
     description: special_spot_config-20572003
     priority: 1
     duration_type: "1"
@@ -11560,7 +11560,7 @@
   }
   {
     id: 572004
-    name: special_spot_config-10572004
+    name: "[avg]-57-EXT-7-44"
     description: special_spot_config-20572004
     priority: 1
     duration_type: "1"
@@ -11579,7 +11579,7 @@
   }
   {
     id: 572005
-    name: special_spot_config-10572005
+    name: "[avg]-57-EXT-7-45"
     description: special_spot_config-20572005
     priority: 1
     duration_type: "1"
@@ -11598,7 +11598,7 @@
   }
   {
     id: 572006
-    name: special_spot_config-10572006
+    name: "[avg]-57-EXT-7-46"
     description: special_spot_config-20572006
     priority: 1
     duration_type: "1"
@@ -11617,7 +11617,7 @@
   }
   {
     id: 572007
-    name: special_spot_config-10572007
+    name: "[avg]-57-EXT-7-47"
     description: special_spot_config-20572007
     priority: 1
     duration_type: "1"
@@ -11636,7 +11636,7 @@
   }
   {
     id: 572008
-    name: special_spot_config-10572008
+    name: "[avg]-57-EXT-7-48"
     description: special_spot_config-20572008
     priority: 1
     duration_type: "1"
@@ -11654,7 +11654,7 @@
   }
   {
     id: 572009
-    name: special_spot_config-10572009
+    name: "[avg]-57-EXT-7-51"
     description: special_spot_config-20572009
     priority: 1
     duration_type: "1"
@@ -11673,7 +11673,7 @@
   }
   {
     id: 572010
-    name: special_spot_config-10572010
+    name: "[avg]-57-EXT-7-54"
     description: special_spot_config-20572010
     priority: 1
     duration_type: "1"
@@ -11692,7 +11692,7 @@
   }
   {
     id: 572011
-    name: special_spot_config-10572011
+    name: "[avg]-57-EXT-7-57"
     description: special_spot_config-20572011
     priority: 1
     duration_type: "1"
@@ -11711,7 +11711,7 @@
   }
   {
     id: 572012
-    name: special_spot_config-10572012
+    name: "[avg]-57-EXT-7-00"
     description: special_spot_config-20572012
     priority: 1
     duration_type: "1"
@@ -11747,7 +11747,7 @@
   }
   {
     id: 572021
-    name: special_spot_config-10572021
+    name: "[avg]-57-EXT-7-11"
     description: special_spot_config-20572021
     priority: 1
     duration_type: "1"
@@ -11766,7 +11766,7 @@
   }
   {
     id: 572022
-    name: special_spot_config-10572022
+    name: "[avg]-57-EXT-7-12"
     description: special_spot_config-20572022
     priority: 1
     duration_type: "1"
@@ -11785,7 +11785,7 @@
   }
   {
     id: 572023
-    name: special_spot_config-10572023
+    name: "[avg]-57-EXT-7-13"
     description: special_spot_config-20572023
     priority: 1
     duration_type: "1"
@@ -11804,7 +11804,7 @@
   }
   {
     id: 572024
-    name: special_spot_config-10572024
+    name: "[avg]-57-EXT-7-14"
     description: special_spot_config-20572024
     priority: 1
     duration_type: "1"
@@ -11823,7 +11823,7 @@
   }
   {
     id: 572025
-    name: special_spot_config-10572025
+    name: "[avg]-57-EXT-7-24"
     description: special_spot_config-20572025
     priority: 1
     duration_type: "1"
@@ -11842,7 +11842,7 @@
   }
   {
     id: 572026
-    name: special_spot_config-10572026
+    name: "[avg]-57-EXT-7-15"
     description: special_spot_config-20572026
     priority: 1
     duration_type: "1"
@@ -11861,7 +11861,7 @@
   }
   {
     id: 572027
-    name: special_spot_config-10572027
+    name: "[avg]-57-EXT-7-16"
     description: special_spot_config-20572027
     priority: 1
     duration_type: "1"
@@ -11880,7 +11880,7 @@
   }
   {
     id: 572028
-    name: special_spot_config-10572028
+    name: "[avg]-57-EXT-7-26"
     description: special_spot_config-20572028
     priority: 1
     duration_type: "1"
@@ -11899,7 +11899,7 @@
   }
   {
     id: 572029
-    name: special_spot_config-10572029
+    name: "[avg]-57-EXT-7-36"
     description: special_spot_config-20572029
     priority: 1
     duration_type: "1"
@@ -11918,7 +11918,7 @@
   }
   {
     id: 572030
-    name: special_spot_config-10572030
+    name: "[avg]-57-EXT-7-17"
     description: special_spot_config-20572030
     priority: 1
     duration_type: "1"
@@ -11937,7 +11937,7 @@
   }
   {
     id: 572031
-    name: special_spot_config-10572031
+    name: "[avg]-57-EXT-7-27"
     description: special_spot_config-20572031
     priority: 1
     duration_type: "1"
@@ -11956,7 +11956,7 @@
   }
   {
     id: 573001
-    name: special_spot_config-10573001
+    name: "[avg]-57-EXT-7-61"
     description: special_spot_config-20573001
     priority: 1
     duration_type: "1"
@@ -11975,7 +11975,7 @@
   }
   {
     id: 573002
-    name: special_spot_config-10573002
+    name: "[avg]-57-EXT-7-62"
     description: special_spot_config-20573002
     priority: 1
     duration_type: "1"
@@ -11994,7 +11994,7 @@
   }
   {
     id: 573003
-    name: special_spot_config-10573003
+    name: "[avg]-57-EXT-7-63"
     description: special_spot_config-20573003
     priority: 1
     duration_type: "1"
@@ -12013,7 +12013,7 @@
   }
   {
     id: 573004
-    name: special_spot_config-10573004
+    name: "[avg]-57-EXT-7-64"
     description: special_spot_config-20573004
     priority: 1
     duration_type: "1"
@@ -12032,7 +12032,7 @@
   }
   {
     id: 573005
-    name: special_spot_config-10573005
+    name: "[avg]-57-EXT-7-65"
     description: special_spot_config-20573005
     priority: 1
     duration_type: "1"
@@ -12051,7 +12051,7 @@
   }
   {
     id: 573006
-    name: special_spot_config-10573006
+    name: "[avg]-57-EXT-7-66"
     description: special_spot_config-20573006
     priority: 1
     duration_type: "1"
@@ -12070,7 +12070,7 @@
   }
   {
     id: 573007
-    name: special_spot_config-10573007
+    name: "[avg]-57-EXT-7-67"
     description: special_spot_config-20573007
     priority: 1
     duration_type: "1"
@@ -12089,7 +12089,7 @@
   }
   {
     id: 573008
-    name: special_spot_config-10573008
+    name: "[avg]-57-EXT-7-68"
     description: special_spot_config-20573008
     priority: 1
     duration_type: "1"
@@ -12107,7 +12107,7 @@
   }
   {
     id: 573009
-    name: special_spot_config-10573009
+    name: "[avg]-57-EXT-7-71"
     description: special_spot_config-20573009
     priority: 1
     duration_type: "1"
@@ -12126,7 +12126,7 @@
   }
   {
     id: 573010
-    name: special_spot_config-10573010
+    name: "[avg]-57-EXT-7-74"
     description: special_spot_config-20573010
     priority: 1
     duration_type: "1"
@@ -12145,7 +12145,7 @@
   }
   {
     id: 573011
-    name: special_spot_config-10573011
+    name: "[avg]-57-EXT-7-77"
     description: special_spot_config-20573011
     priority: 1
     duration_type: "1"
@@ -12164,7 +12164,7 @@
   }
   {
     id: 573012
-    name: special_spot_config-10573012
+    name: "[avg]-57-EXT-7-01"
     description: special_spot_config-20573012
     priority: 1
     duration_type: "1"
@@ -12200,8 +12200,8 @@
   }
   {
     id: 575002
-    name: special_spot_config-10575002
-    description: special_spot_config-20575002
+    name: 戦闘勝利
+    description: 特別挑戦
     code: ZLSP
     priority: 1
     duration_type: "1"
@@ -12219,8 +12219,8 @@
   }
   {
     id: 575003
-    name: special_spot_config-10575003
-    description: special_spot_config-20575003
+    name: リザルト
+    description: 特別挑戦
     code: ZLSP
     priority: 1
     duration_type: "1"

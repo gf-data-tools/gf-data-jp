@@ -591,6 +591,16 @@
     detail_introduction: item-30000117
   }
   {
+    id: 118
+    type: 3
+    arg: "19"
+    code: Medal_saga
+    item_name: 金マイクの勲章
+    introduction: 指揮官及びその配下のアイドルたちが、イベント「雪の如き浪 花顔を映ず」にて称えられる功績を残したことを表彰する。「たとえ進むのが茨の道でも、心の願いを叫ぶんだ！」
+    rank: 1
+    detail_introduction: item-30000118
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -9879,6 +9889,66 @@
     detail_introduction: item-30001961
   }
   {
+    id: 1962
+    type: 5
+    arg: "1"
+    code: profilePic_Dating2021_AUGPARA
+    item_name: 渓流散策の秋
+    introduction: 渓流散策の秋
+    rank: 1
+    detail_introduction: item-30001962
+  }
+  {
+    id: 1963
+    type: 5
+    arg: "1"
+    code: profilePic_Dating2021_SL8
+    item_name: 世界の片隅で待ってる
+    introduction: 世界の片隅で待ってる
+    rank: 1
+    detail_introduction: item-30001963
+  }
+  {
+    id: 1964
+    type: 5
+    arg: "1"
+    code: profilePic_Dating2021_SP9
+    item_name: 銀河に寝入る夢
+    introduction: 銀河に寝入る夢
+    rank: 1
+    detail_introduction: item-30001964
+  }
+  {
+    id: 1965
+    type: 5
+    arg: "1"
+    code: profilePic_Dating2021_MondragonM1908
+    item_name: なごりの雨と暮れの霞
+    introduction: なごりの雨と暮れの霞
+    rank: 1
+    detail_introduction: item-30001965
+  }
+  {
+    id: 1966
+    type: 5
+    arg: "1"
+    code: profilePic_Dating2021_RexZero1
+    item_name: ドキドキ三部曲
+    introduction: ドキドキ三部曲
+    rank: 1
+    detail_introduction: item-30001966
+  }
+  {
+    id: 1967
+    type: 5
+    arg: "1"
+    code: profilePic_Dating2021_CETME556
+    item_name: 碧空に揺蕩う
+    introduction: 碧空に揺蕩う
+    rank: 1
+    detail_introduction: item-30001967
+  }
+  {
     id: 1972
     type: 5
     arg: "1"
@@ -11049,6 +11119,246 @@
     detail_introduction: item-30002223
   }
   {
+    id: 2236
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Sakura
+    item_name: item-10002236
+    introduction: item-20002236
+    rank: 1
+    detail_introduction: item-30002236
+  }
+  {
+    id: 2237
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Saki
+    item_name: 暴走族の夜明け
+    introduction: 暴走族の夜明け
+    rank: 1
+    detail_introduction: item-30002237
+  }
+  {
+    id: 2238
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Ai
+    item_name: 目覚めのドリーマー
+    introduction: 目覚めのドリーマー
+    rank: 1
+    detail_introduction: item-30002238
+  }
+  {
+    id: 2239
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Junko
+    item_name: 忘れられない時間
+    introduction: 忘れられない時間
+    rank: 1
+    detail_introduction: item-30002239
+  }
+  {
+    id: 2240
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Yuugiri
+    item_name: 佐賀事変
+    introduction: 佐賀事変
+    rank: 1
+    detail_introduction: item-30002240
+  }
+  {
+    id: 2241
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Lily
+    item_name: 大好きな人へ
+    introduction: 大好きな人へ
+    rank: 1
+    detail_introduction: item-30002241
+  }
+  {
+    id: 2242
+    type: 5
+    arg: "1"
+    code: profilePic_Saga2023_Tae
+    item_name: スタジアムクラッシャー
+    introduction: スタジアムクラッシャー
+    rank: 1
+    detail_introduction: item-30002242
+  }
+  {
+    id: 2243
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_01
+    item_name: アイコン：運命など此処で壊せ
+    introduction: アイコン：運命など此処で壊せ
+    rank: 1
+    detail_introduction: item-30002243
+  }
+  {
+    id: 2244
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_02
+    item_name: アイコン：奏でろ荒ぶる魂
+    introduction: アイコン：奏でろ荒ぶる魂
+    rank: 1
+    detail_introduction: item-30002244
+  }
+  {
+    id: 2245
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_03
+    item_name: アイコン：目覚めろドリーマー
+    introduction: アイコン：目覚めろドリーマー
+    rank: 1
+    detail_introduction: item-30002245
+  }
+  {
+    id: 2246
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_04
+    item_name: アイコン：叫べ願いを
+    introduction: アイコン：叫べ願いを
+    rank: 1
+    detail_introduction: item-30002246
+  }
+  {
+    id: 2247
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_05
+    item_name: アイコン：滅べ！約束！
+    introduction: アイコン：滅べ！約束！
+    rank: 1
+    detail_introduction: item-30002247
+  }
+  {
+    id: 2248
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_06
+    item_name: アイコン：笑ったらぶっ殺す！
+    introduction: アイコン：笑ったらぶっ殺す！
+    rank: 1
+    detail_introduction: item-30002248
+  }
+  {
+    id: 2249
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_07
+    item_name: アイコン：トゥ・マイラブ
+    introduction: アイコン：トゥ・マイラブ
+    rank: 1
+    detail_introduction: item-30002249
+  }
+  {
+    id: 2250
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_08
+    item_name: アイコン：我が心の願い
+    introduction: アイコン：我が心の願い
+    rank: 1
+    detail_introduction: item-30002250
+  }
+  {
+    id: 2251
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_09
+    item_name: アイコン：ワン！アゥ！ワン！
+    introduction: アイコン：ワン！アゥ！ワン！
+    rank: 1
+    detail_introduction: item-30002251
+  }
+  {
+    id: 2252
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_10
+    item_name: アイコン：スルメ！イカ！
+    introduction: アイコン：スルメ！イカ！
+    rank: 1
+    detail_introduction: item-30002252
+  }
+  {
+    id: 2253
+    type: 5
+    arg: "1"
+    code: profilePic_SagaActivity2023_11
+    item_name: アイコン：ずっとわたしを見てて
+    introduction: アイコン：ずっとわたしを見てて
+    rank: 1
+    detail_introduction: item-30002253
+  }
+  {
+    id: 2254
+    type: 5
+    arg: "1"
+    code: card_SagaActivity2023_01
+    item_name: IDカード背景：2000フィートの上から愛を叫ぶ
+    introduction: IDカード背景：2000フィートの上から愛を叫ぶ
+    rank: 1
+    detail_introduction: item-30002254
+  }
+  {
+    id: 2255
+    type: 5
+    arg: "1"
+    code: card_SagaActivity2023_02
+    item_name: IDカード背景：スポットライトの下で共に歌おう
+    introduction: IDカード背景：スポットライトの下で共に歌おう
+    rank: 1
+    detail_introduction: item-30002255
+  }
+  {
+    id: 2256
+    type: 5
+    arg: "1"
+    code: card_SagaActivity2023_03
+    item_name: IDカード背景：洋館の不滅伝説
+    introduction: IDカード背景：洋館の不滅伝説
+    rank: 1
+    detail_introduction: item-30002256
+  }
+  {
+    id: 2257
+    type: 5
+    arg: "1"
+    code: card_SagaActivity2023_04
+    item_name: IDカード背景：ライブは終わらない！
+    introduction: IDカード背景：ライブは終わらない！
+    rank: 1
+    detail_introduction: item-30002257
+  }
+  {
+    id: 2258
+    type: 5
+    arg: "1"
+    code: cg_SagaActivity2023_01
+    item_name: 基地背景：本日晴れ、お風呂よし
+    introduction: 基地背景：本日晴れ、お風呂よし
+    rank: 1
+    detail_introduction: item-30002258
+  }
+  {
+    id: 2259
+    type: 5
+    arg: "1"
+    code: cg_SagaActivity2023_02
+    item_name: 基地背景：深夜零時
+    introduction: 基地背景：深夜零時
+    rank: 1
+    detail_introduction: item-30002259
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -11733,6 +12043,104 @@
     detail_introduction: item-30009012
   }
   {
+    id: 9020
+    type: 1
+    arg: "9020"
+    code: Saga_PT
+    item_name: 応援ポイント
+    introduction: 君たちの積み重ねが、フランシュシュのライブにつながる！だから指揮官、頑張って周回してね！
+    rank: 1
+    detail_introduction: item-30009020
+  }
+  {
+    id: 9021
+    type: 1
+    arg: "9021"
+    code: Saga_PT
+    item_name: 歌
+    introduction: ボイトレスタジオのステージをクリアすることで、強化することができます。
+    rank: 1
+    detail_introduction: item-30009021
+    is_hide_info: 1
+  }
+  {
+    id: 9022
+    type: 1
+    arg: "9022"
+    code: Saga_PT
+    item_name: ダンス
+    introduction: ダンススタジオのステージをクリアすることで、強化することができます。
+    rank: 1
+    detail_introduction: item-30009022
+    is_hide_info: 1
+  }
+  {
+    id: 9023
+    type: 1
+    arg: "9023"
+    code: Saga_PT
+    item_name: 資金
+    introduction: コンビニのステージをクリアすることで、強化することができます。
+    rank: 1
+    detail_introduction: item-30009023
+    is_hide_info: 1
+  }
+  {
+    id: 9024
+    type: 1
+    arg: "9024"
+    code: Saga_PT
+    item_name: モチベーション
+    introduction: ファーストフード店のステージをクリアすることで、強化することができます。
+    rank: 1
+    detail_introduction: item-30009024
+    is_hide_info: 1
+  }
+  {
+    id: 9025
+    type: 1
+    arg: "9025"
+    code: Saga_PT
+    item_name: インスピレーション
+    introduction: 銭湯のステージをクリアすることで、強化することができます。
+    rank: 1
+    detail_introduction: item-30009025
+    is_hide_info: 1
+  }
+  {
+    id: 9030
+    type: 1
+    arg: "9030"
+    code: Saga_PT
+    item_name: パフォーマンススコア
+    introduction: フランシュシュのパフォーマンススコア
+    rank: 1
+    detail_introduction: item-30009030
+    is_hide_info: 1
+  }
+  {
+    id: 9031
+    type: 1
+    arg: "9031"
+    code: Saga_PT
+    item_name: グリフィンスコア
+    introduction: グリフィンのパフォーマンススコア
+    rank: 1
+    detail_introduction: item-30009031
+    is_hide_info: 1
+  }
+  {
+    id: 9032
+    type: 1
+    arg: "9032"
+    code: Saga_PT
+    item_name: パフォーマンス最低保証
+    introduction: パフォーマンス最低保証
+    rank: 1
+    detail_introduction: item-30009032
+    is_hide_info: 1
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -11755,7 +12163,7 @@
     sort: 30
     consume_type: 1
     item_access: "5,3,2"
-    detail_introduction: item-30010604
+    detail_introduction: 「捕獲作戦」でマップ上の融合勢力に対し一回捕獲を行うことができる。
   }
   {
     id: 10605
@@ -12904,6 +13312,27 @@
     detail_introduction: item-30100165
   }
   {
+    id: 100175
+    type: 9
+    arg: "100175"
+    code: Koutarou_Coin
+    item_name: 幸太郎コイン
+    introduction: 幸太郎コイン
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100175
+  }
+  {
+    id: 100176
+    type: 4
+    arg: "100176"
+    code: Platinum_medal_black
+    item_name: 白金勲章・雪の如き浪 花顔を映ず
+    introduction: 白金勲章・雪の如き浪 花顔を映ず
+    rank: 1
+    detail_introduction: item-30100176
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -13624,6 +14053,16 @@
     detail_introduction: item-30130012
   }
   {
+    id: 130013
+    type: 12
+    arg: "130013"
+    code: Y_Z_zhihuiguan_Meaning
+    item_name: 無垢なる恋歌
+    introduction: 初恋の時間の中で、少年少女の想いは無垢なる恋歌となり、その旋律は人生という旅路に永遠に刻まれるだろう。
+    rank: 1
+    detail_introduction: item-30130013
+  }
+  {
     id: 130014
     type: 12
     arg: "130014"
@@ -13898,8 +14337,8 @@
     type: 5
     arg: "1"
     code: profileFrame_2023NewYear_JP
-    item_name: アイコンフレーム：新春万福
-    introduction: アイコンフレーム：新春万福
+    item_name: item-10200017
+    introduction: item-20200017
     rank: 1
     detail_introduction: item-30200017
   }

@@ -12232,7 +12232,7 @@
                       可以选择安装光学瞄准镜、红点镜或夜视镜
       '''
     dialogue: 初次见面，6P62向您致敬。啊……不认识我也没关系，我的实力，您很快就会见识到了！
-    extra: 羽中,井上麻里奈,
+    extra: 羽中,社長,
     en_introduce:
       '''
       Type                       Fully automatic anti-materiel 
@@ -13398,7 +13398,7 @@
     special: 4
     eat_ratio: 90
     ratio_range: 100
-    skill1: 103203
+    skill1: 750198
     normal_attack: 300106
     passive_skill: "300202,300203"
     effect_grid_center: 8
@@ -28967,6 +28967,335 @@
     gun_detail_bg: collab
   }
   {
+    id: 1035
+    name: 山田たえ
+    en_name: Tae
+    code: Tae
+    extra: 薯子Imoko,,
+    en_introduce: gun-50001035
+    character: gun-60001035
+    type: 1
+    rank: 5
+    develop_duration: 3600
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 140
+    ratio_pow: 95
+    ratio_rate: 100
+    ratio_speed: 100
+    ratio_hit: 90
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 20
+    special: 1
+    eat_ratio: 115
+    ratio_range: 100
+    skill1: 120506
+    normal_attack: 120509
+    passive_skill: "120505,120507,750725,750726,750727"
+    dynamic_passive_skill: "120501"
+    effect_grid_center: 13
+    effect_grid_pos: "8,12,14,7,9,18"
+    effect_grid_effect: "1,15;5,10"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6,19
+    type_equip3: 3;10
+    ai: 1035
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "254"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,593,"
+  }
+  {
+    id: 1036
+    name: 星川リリィ
+    en_name: Lily
+    code: Lily
+    extra: 脆皮炸虾球,,
+    en_introduce: gun-50001036
+    character: gun-60001036
+    type: 2
+    rank: 5
+    develop_duration: 8880
+    baseammo: 25
+    basemre: 20
+    ammo_add_withnumber: 15
+    mre_add_withnumber: 10
+    retiremp: 5
+    retireammo: 5
+    retiremre: 2
+    ratio_life: 100
+    ratio_pow: 102
+    ratio_rate: 125
+    ratio_speed: 100
+    ratio_hit: 120
+    ratio_dodge: 130
+    armor_piercing: 15
+    crit: 5
+    special: 1
+    eat_ratio: 105
+    ratio_range: 100
+    skill1: 750712
+    normal_attack: 750713
+    passive_skill: "750724,750726,750727,750742"
+    effect_grid_center: 12
+    effect_grid_pos: "7,11,12,6,8,17"
+    effect_grid_effect: "1,10;3,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6,19
+    type_equip3: 1;1,2,3,4,13
+    ai: 1036
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "254"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,592,"
+  }
+  {
+    id: 1037
+    name: 源さくら
+    en_name: Sakura
+    code: Sakura
+    extra: --,,
+    en_introduce: gun-50001037
+    character: gun-60001037
+    type: 3
+    rank: 5
+    develop_duration: 17400
+    baseammo: 15
+    basemre: 30
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    ratio_life: 98
+    ratio_pow: 112
+    ratio_rate: 100
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 85
+    armor_piercing: 15
+    crit: 40
+    special: 1
+    eat_ratio: 135
+    ratio_range: 100
+    skill1: 120401
+    normal_attack: 120413
+    passive_skill: "750719,750726,750727,750728"
+    dynamic_passive_skill: "120412"
+    effect_grid_center: 18
+    effect_grid_pos: "12,17,18,14,19,23"
+    effect_grid_effect: "1,10;4,18"
+    type_equip1: 2;5
+    type_equip2: 1;1,2,3,13,18
+    type_equip3: 3;15
+    ai: 1037
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "256"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,587,"
+  }
+  {
+    id: 1038
+    name: 水野愛
+    en_name: Ai
+    code: Ai
+    extra: K箱,,
+    en_introduce: gun-50001038
+    character: gun-60001038
+    type: 4
+    rank: 5
+    develop_duration: 14100
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 105
+    ratio_pow: 125
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 133
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 20
+    special: 1
+    eat_ratio: 125
+    ratio_range: 100
+    skill1: 750710
+    normal_attack: 750714
+    passive_skill: "750721,750726,750727,750742"
+    dynamic_passive_skill: "750716,750717,750718"
+    effect_grid_center: 19
+    effect_grid_pos: "14,18,19,15,20,24"
+    effect_grid_effect: "1,10;3,20"
+    type_equip1: 1;1,2,3,4,13
+    type_equip2: 2;8
+    type_equip3: 3;9,10,20
+    ai: 1038
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "255"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,589,"
+  }
+  {
+    id: 1039
+    name: 紺野純子
+    en_name: Junko
+    code: Junko
+    extra: S.Joop ,,
+    en_introduce: gun-50001039
+    character: gun-60001039
+    type: 4
+    rank: 5
+    develop_duration: 14100
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 100
+    ratio_pow: 128
+    ratio_rate: 95
+    ratio_speed: 100
+    ratio_hit: 125
+    ratio_dodge: 108
+    armor_piercing: 15
+    crit: 20
+    special: 1
+    eat_ratio: 125
+    ratio_range: 100
+    skill1: 750711
+    normal_attack: 750715
+    passive_skill: "750722,750726,750727,750742"
+    effect_grid_center: 17
+    effect_grid_pos: "12,16,17,11,18,22"
+    effect_grid_effect: "1,10;3,20"
+    type_equip1: 1;1,2,3,4,13
+    type_equip2: 2;8
+    type_equip3: 3;9,10,20
+    ai: 1039
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "255"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,590,"
+  }
+  {
+    id: 1040
+    name: ゆうぎり
+    en_name: Yugiri
+    code: Yuugiri
+    extra: 八号地球,,
+    en_introduce: gun-50001040
+    character: gun-60001040
+    type: 5
+    rank: 5
+    develop_duration: 23760
+    baseammo: 40
+    basemre: 30
+    ammo_add_withnumber: 25
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 5
+    retiremre: 2
+    retirepart: 5
+    ratio_life: 96
+    ratio_pow: 128
+    ratio_rate: 118
+    ratio_speed: 100
+    ratio_hit: 120
+    ratio_dodge: 120
+    armor_piercing: 15
+    crit: 5
+    special: 9
+    eat_ratio: 114
+    ratio_range: 100
+    skill1: 750693
+    normal_attack: 750695
+    passive_skill: "750723,750726,750727,300202"
+    dynamic_passive_skill: "750694"
+    effect_grid_center: 14
+    effect_grid_pos: "9,19,15,8,10,14"
+    effect_grid_effect: "8,20"
+    type_equip1: 2;5,17
+    type_equip2: 1;1,2,3,16,18
+    type_equip3: 3;14,21
+    ai: 1040
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "254"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,591,"
+  }
+  {
+    id: 1041
+    name: 二階堂サキ
+    en_name: Saki
+    code: Saki
+    extra: 二花,,
+    en_introduce: gun-50001041
+    character: gun-60001041
+    type: 6
+    rank: 5
+    develop_duration: 28800
+    baseammo: 30
+    basemre: 40
+    ammo_add_withnumber: 15
+    mre_add_withnumber: 25
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    retirepart: 5
+    ratio_life: 110
+    ratio_pow: 135
+    ratio_rate: 105
+    ratio_speed: 100
+    ratio_hit: 85
+    ratio_dodge: 90
+    ratio_armor: 125
+    armor_piercing: 15
+    crit: 40
+    special: 5
+    eat_ratio: 110
+    ratio_range: 100
+    skill1: 750690
+    normal_attack: 750691
+    passive_skill: "750692,750720,750726,750727,300202"
+    effect_grid_center: 8
+    effect_grid_pos: "3,7,9,2,4,8"
+    effect_grid_effect: "1,10;3,15"
+    type_equip1: 3;11,20
+    type_equip2: 2;7
+    type_equip3: 1;1,2,3,4,22
+    ai: 1041
+    is_additional: 1
+    launch_time: 2023-03-27 00:00:00
+    obtain_ids: "256"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,588,"
+  }
+  {
     id: 9001
     name: gun-10009001
     en_name: Cyclops
@@ -34567,6 +34896,216 @@
     type_equip1: 3;9,10
     type_equip2: 2;6
     type_equip3: 1;1,2,3,4,13
+    ai: 6
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+  }
+  {
+    id: 9105
+    name: gun-10009105
+    en_name: Saki
+    code: Saki
+    extra: gun-40009105
+    en_introduce: gun-50009105
+    character: gun-60009105
+    type: 1
+    rank: 3
+    develop_duration: 2700
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 650
+    ratio_pow: 120
+    ratio_rate: 100
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 105
+    ratio_range: 120
+    skill1: 100503
+    normal_attack: 900107
+    passive_skill: "119503,119511"
+    effect_grid_center: 13
+    effect_grid_pos: "12,14,17,19"
+    effect_grid_effect: "2,10;3,25"
+    type_equip1: 1;4,13
+    type_equip2: 2;6
+    type_equip3: 3;9,10
+    ai: 6
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 3
+  }
+  {
+    id: 9106
+    name: gun-10009106
+    en_name: Bathhouse_guest_2
+    code: Bathhouse_guest_2
+    extra: gun-40009106
+    en_introduce: gun-50009106
+    character: gun-60009106
+    type: 2
+    rank: 4
+    develop_duration: 9300
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 500
+    ratio_pow: 120
+    ratio_rate: 112
+    ratio_speed: 60
+    ratio_hit: 120
+    ratio_dodge: 150
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 100
+    ratio_range: 100
+    skill1: 100107
+    normal_attack: 300103
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+  }
+  {
+    id: 9107
+    name: gun-10009107
+    en_name: Tae
+    code: Tae
+    extra: gun-40009107
+    en_introduce: gun-50009107
+    character: gun-60009107
+    type: 1
+    rank: 5
+    develop_duration: 3600
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 140
+    ratio_pow: 95
+    ratio_rate: 100
+    ratio_speed: 100
+    ratio_hit: 90
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 20
+    special: 1
+    eat_ratio: 115
+    ratio_range: 100
+    skill1: 100503
+    normal_attack: 900107
+    passive_skill: "119501"
+    effect_grid_center: 17
+    effect_grid_pos: "11,16,21,12,17,22"
+    effect_grid_effect: "1,15;5,10"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6
+    type_equip3: 3;10
+    ai: 1006
+    is_additional: 1
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 7
+    gun_detail_bg: collab
+  }
+  {
+    id: 9108
+    name: gun-10009108
+    en_name: Sakura
+    code: Sakura
+    extra: gun-40009108
+    en_introduce: gun-50009108
+    character: gun-60009108
+    type: 3
+    rank: 5
+    develop_duration: 17400
+    baseammo: 15
+    basemre: 30
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    ratio_life: 98
+    ratio_pow: 112
+    ratio_rate: 100
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 85
+    armor_piercing: 15
+    crit: 40
+    special: 1
+    eat_ratio: 135
+    ratio_range: 100
+    skill1: 100503
+    normal_attack: 900107
+    passive_skill: "119502"
+    effect_grid_center: 19
+    effect_grid_pos: "24,18,23,14,19,15"
+    effect_grid_effect: "1,10;4,18"
+    type_equip1: 2;5
+    type_equip2: 1;1,2,3,13
+    type_equip3: 3;15
+    ai: 150
+    is_additional: 1
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 7
+    gun_detail_bg: collab
+  }
+  {
+    id: 9109
+    name: gun-10009109
+    en_name: CommanderSelf
+    code: CommanderSelf
+    extra: gun-40009109
+    en_introduce: gun-50009109
+    character: gun-60009109
+    type: 1
+    rank: 3
+    develop_duration: 2700
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 650
+    ratio_pow: 120
+    ratio_rate: 100
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 105
+    ratio_range: 120
+    skill1: 100602
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_grid_pos: "12,14,17,19"
+    effect_grid_effect: "2,10;3,25"
+    type_equip1: 1;4,13
+    type_equip2: 2;6
+    type_equip3: 3;9,10
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 5

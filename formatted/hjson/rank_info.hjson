@@ -677,4 +677,19 @@
     ranking_onlist_number: "160000"
     every_table_num: "40000"
   }
+  {
+    id: "1001"
+    name: 佐賀応援ランキング
+    type: "1001"
+    refresh: test
+    title: 毎日4時に更新されます
+    visable_rank: "10"
+    visable_count: "300"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+    begin_refresh_time: 2023-03-31
+    end_refresh_time: 2023-04-21
+    begin_show_time: 2023-03-31 13:00:00
+    end_show_time: 2023-04-28 23:59:59
+  }
 ]

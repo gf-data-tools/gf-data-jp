@@ -826,6 +826,64 @@
     "color_2": "Commander_3952_2", "color_3": "Commander_3952_3", "color_4": "Commander_3952_4", "skill_id": 0, 
     "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "594,595,596,597,598,599"
   }, {
+    "id": 4011, "name": "少年の未熟", 
+    "description": "未熟の少年は、初デートで自分の最もカッコいい一面を見せた。その代償として、父親のヘアジェル丸々一つがなくなった。", 
+    "code": "Head1", "icon": "commander_4011_icon", "type": 1, "gender": 1, "uniform_class": "40", 
+    "color_normal": "Commander_4011_N", "color_0": "Commander_4011_0", "color_1": "Commander_4011_1", 
+    "color_2": "Commander_4011_2", "color_3": "Commander_4011_3", "color_4": "Commander_4011_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "600,601,602,603,604,605"
+  }, {
+    "id": 4012, "name": "少女の恥じらい", 
+    "description": "恥じらう少女は、初デートでなるべく自然体で振舞おうとしたが、跳ねだしていたくせ毛には気づけなかった。", 
+    "code": "Head2", "icon": "commander_4012_icon", "type": 1, "gender": 2, "uniform_class": "40", 
+    "color_normal": "Commander_4012_N", "color_0": "Commander_4012_0", "color_1": "Commander_4012_1", 
+    "color_2": "Commander_4012_2", "color_3": "Commander_4012_3", "color_4": "Commander_4012_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "606,607,608,609,610,611"
+  }, {
+    "id": 4020, "name": "勝負服", 
+    "description": "「恋愛とは、少年少女の真心と想いが殺し合う戦場である。先手を取るためには、それ相応の装備が必要だ」――とある机の下敷きになっているファッション誌より", 
+    "code": "HeadAcco", "icon": "commander_4020_icon", "type": 2, "gender": 0, "uniform_class": "40", 
+    "color_normal": "Commander_4020_N", "color_0": "Commander_4020_0", "color_1": "Commander_4020_1", 
+    "color_2": "Commander_4020_2", "color_3": "Commander_4020_3", "color_4": "Commander_4020_4", "skill_id": 0, 
+    "bone_name": "HairBinder2", "rotation": 0, "scale": 0.2, "position": "-0.099,0.218", 
+    "color_icon_id": "612,613,614,615,616,617"
+  }, {
+    "id": 4031, "name": "真新しいスーツジャケット", 
+    "description": "コーディネートが分からない少年は、デートの前夜に、父親の真新しいスーツに目を付けた……", "code": "Body1", 
+    "icon": "commander_4031_icon", "type": 3, "gender": 1, "uniform_class": "40", "color_normal": "Commander_4031_N", 
+    "color_0": "Commander_4031_0", "color_1": "Commander_4031_1", "color_2": "Commander_4031_2", 
+    "color_3": "Commander_4031_3", "color_4": "Commander_4031_4", "skill_id": 0, "bone_name": "", "rotation": 0, 
+    "scale": 0.0, "position": "", "color_icon_id": "618,619,620,621,622,623"
+  }, {
+    "id": 4032, "name": "選りすぐりのワンピース", 
+    "description": "コーディネートに精通する少女は、デートの朝に、自分のクローゼットをひっくり返した……", "code": "Body2", 
+    "icon": "commander_4032_icon", "type": 3, "gender": 2, "uniform_class": "40", "color_normal": "Commander_4032_N", 
+    "color_0": "Commander_4032_0", "color_1": "Commander_4032_1", "color_2": "Commander_4032_2", 
+    "color_3": "Commander_4032_3", "color_4": "Commander_4032_4", "skill_id": 0, "bone_name": "", "rotation": 0, 
+    "scale": 0.0, "position": "", "color_icon_id": "624,625,626,627,628,629"
+  }, {
+    "id": 4040, "name": "思い出のプレゼント", 
+    "description": "これは、ボーイミーツガールの中で紡いだ思い出。出会った時のトキメキと、熱い恋の温もりが、未だに感じ取れる。", 
+    "code": "BodyAcco", "icon": "commander_4040_icon", "type": 4, "gender": 0, "uniform_class": "40", 
+    "color_normal": "Commander_4040_N", "color_0": "Commander_4040_0", "color_1": "Commander_4040_1", 
+    "color_2": "Commander_4040_2", "color_3": "Commander_4040_3", "color_4": "Commander_4040_4", "skill_id": 0, 
+    "bone_name": "BodyBinder1", "rotation": 0, "scale": 0.2, "position": "-0.078,-0.026", 
+    "color_icon_id": "630,631,632,633,634,635"
+  }, {
+    "id": 4051, "name": "真新しいスーツパンツ", 
+    "description": "「今日は珍しくオシャレだね！」「へへっ、こりゃオヤジにも感謝――コホンッ、なんでもないよ」", 
+    "code": "Foot1", "icon": "commander_4051_icon", "type": 5, "gender": 1, "uniform_class": "40", 
+    "color_normal": "Commander_4051_N", "color_0": "Commander_4051_0", "color_1": "Commander_4051_1", 
+    "color_2": "Commander_4051_2", "color_3": "Commander_4051_3", "color_4": "Commander_4051_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "636,637,638,639,640,641"
+  }, {
+    "id": 4052, "name": "選りすぐりのメリージェーン", 
+    "description": "「どう？かわいすぎて言葉も出なくなっちゃった？」「髪が……いや、今日は一段とかわいいぜ！」", 
+    "code": "Foot2", "icon": "commander_4052_icon", "type": 5, "gender": 2, "uniform_class": "40", 
+    "color_normal": "Commander_4052_N", "color_0": "Commander_4052_0", "color_1": "Commander_4052_1", 
+    "color_2": "Commander_4052_2", "color_3": "Commander_4052_3", "color_4": "Commander_4052_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "642,643,644,645,646,647"
+  }, {
     "id": 4120, "name": "先導者への慰め", 
     "description": "あの陽の光に照らされた笑顔こそ、彼らがかつて暗闇の中に、その身をもって光を灯した証明に他ならないのだ。", 
     "code": "HeadAcco", "icon": "commander_4120_icon", "type": 2, "gender": 0, "uniform_class": "41", 

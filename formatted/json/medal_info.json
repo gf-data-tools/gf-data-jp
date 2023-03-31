@@ -50,8 +50,12 @@
     "medal_obtain": "第九期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。", "medal_color": "#ff0000", 
     "is_date": "2", "decorate_code": "Logo_Events", "if_elite_medal": "0"
   }, {
-    "id": "18", "name": "medal-10000018", "order": "82", "evo_step": "1", "appearance_id": "105", "item_id": "117", 
-    "medal_obtain": "medal-20000018", "medal_color": "#ff0000", "is_date": "2", "decorate_code": "Logo_Events", 
-    "if_elite_medal": "1"
+    "id": "18", "name": "エクリプス観測者", "order": "82", "evo_step": "1", "appearance_id": "105", "item_id": "117", 
+    "medal_obtain": "指揮官及びその配下の戦術人形たちが、イベント「エクリプス・サロス」にて称えられる功績を残したことを表彰する。", 
+    "medal_color": "#ff0000", "is_date": "2", "decorate_code": "Logo_Events", "if_elite_medal": "1"
+  }, {
+    "id": "19", "name": "金マイクの勲章", "order": "81", "evo_step": "1", "appearance_id": "106", "item_id": "118", 
+    "medal_obtain": "限定イベント「雪の如き浪 花顔を映ず」にて、全ての戦役をクリアした指揮官に授与します。", 
+    "medal_color": "#ff0000", "is_date": "2", "decorate_code": "Logo_Events", "if_elite_medal": "1"
   }
 ]

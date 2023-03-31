@@ -347,6 +347,20 @@
     source_description: commander_class-40000039
   }
   {
+    id: 40
+    name: この一瞬よ、永遠に
+    description: あの日の思い出は、ずっと色褪せることのない楽章。指と指が絡み合ったあの温もりは、一生閉じ込めておきたい宝物だ。
+    group_id: "82"
+    code: commander_4032_icon
+    bonus_plastic: "130013"
+    skill_id: 101
+    path: CLASS40
+    is_class: 1
+    des_year: "2023"
+    source: 1
+    source_description: commander_class-40000040
+  }
+  {
     id: 41
     name: 先駆者の意志
     description: 歴史の車輪がいかに砂塵を巻き上げようと、彼らの意志を覆い隠すことは決して出来ない。

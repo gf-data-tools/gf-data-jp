@@ -5628,110 +5628,138 @@
     id: 1126201
     type: 1407
     arguments: 575002:1
-    extra_language: mission_win_type_config-11126201
+    extra_language: レッスンを完了する
   }
   {
     id: 1126202
     type: 1407
     arguments: 575003:1
-    extra_language: mission_win_type_config-11126202
+    extra_language: <color=#CF8000>レッスンが順調ではなかった場合、クリア評価は低くなります</color>
   }
   {
     id: 1126301
     type: 1407
     arguments: 575002:1
-    extra_language: mission_win_type_config-11126301
+    extra_language: レッスンを完了する
   }
   {
     id: 1126302
     type: 1407
     arguments: 575003:1
-    extra_language: mission_win_type_config-11126302
+    extra_language: <color=#CF8000>レッスンが順調ではなかった場合、クリア評価は低くなります</color>
   }
   {
     id: 1126401
     type: 1407
     arguments: 575002:1
-    extra_language: mission_win_type_config-11126401
+    extra_language: レッスンを完了する
   }
   {
     id: 1126402
     type: 1407
     arguments: 575003:1
-    extra_language: mission_win_type_config-11126402
+    extra_language: <color=#CF8000>レッスンが順調ではなかった場合、クリア評価は低くなります</color>
   }
   {
     id: 1126501
     type: 1406
     arguments: 570501:0
-    extra_language: mission_win_type_config-11126501
+    extra_language:
+      '''
+      最終目標：バブルマシーンを停止させる
+      <color=#CF8000>制限ターン数内でバブルマシーンを倒し停止させる。また、人質を救出するとクリア評価は高くなります</color>
+      '''
     is_show_count: "1"
   }
   {
     id: 1126502
     type: 1407
     arguments: 570505:1
-    extra_language: mission_win_type_config-11126502
+    extra_language:
+      '''
+      泡に取り囲まれているバブルマシーンを倒す
+      <color=#CF8000>この任務を完了した場合、直接勝利します</color>
+      '''
   }
   {
     id: 1126601
     type: 1406
     arguments: 570602:0
-    extra_language: mission_win_type_config-11126601
+    extra_language:
+      '''
+      客を探し出し配達を届ける
+      <color=#CF8000>できる限り早く完成する必要があります。任務完了までにかかった時間は、クリア評価に影響します</color>
+      '''
   }
   {
     id: 1126602
     type: 1407
     arguments: 570612:1
-    extra_language: mission_win_type_config-11126602
+    extra_language:
+      '''
+      タイムレコーダーを探し出して、退勤する
+      <color=#CF8000>車を避けるように気を付けましょう</color>
+      '''
   }
   {
     id: 1126603
     type: 1407
     arguments: 570612:1
-    extra_language: mission_win_type_config-11126603
+    extra_language:
+      '''
+      タイムレコーダーを探し出して、退勤する
+      <color=#CF8000>車を避けるように気を付けましょう</color>
+      '''
   }
   {
     id: 1126604
     type: 1406
     arguments: 570604:0
-    extra_language: mission_win_type_config-11126604
+    extra_language:
+      '''
+      配達を探し出して回収する；タイヤを点検すると、新しい発見があるかもしれない
+      <color=#CF8000>車を避けるように気を付けましょう</color>
+      '''
   }
   {
     id: 1126605
     type: 1407
     arguments: 570613:1
-    extra_language: mission_win_type_config-11126605
+    extra_language:
+      '''
+      最深部のワイルドホイールを倒す
+      <color=#CF8000>この任務を完了した場合、直接勝利します</color>
+      '''
   }
   {
     id: 1126701
     type: 1402
     arguments: "4"
-    extra_language: mission_win_type_config-11126701
+    extra_language: 3ターンパフォーマンスを行う
   }
   {
     id: 1126801
     type: 1402
     arguments: "5"
-    extra_language: mission_win_type_config-11126801
+    extra_language: 4ターンパフォーマンスを行う
   }
   {
     id: 1126901
     type: 1402
     arguments: "8"
-    extra_language: mission_win_type_config-11126901
+    extra_language: 7ターンパフォーマンスを行う
   }
   {
     id: 1126902
     type: 1407
     arguments: 570191:21
-    extra_language: mission_win_type_config-11126902
+    extra_language: グリフィンとの対バンで勝利する
   }
   {
     id: 1126903
     type: 1406
     arguments: 570191:20
-    extra_language: mission_win_type_config-11126903
+    extra_language: グリフィンとの対バンで敗北する
   }
   {
     id: 1131801

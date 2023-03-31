@@ -26059,6 +26059,101 @@
     rotate: "2"
   }
   {
+    id: 20086
+    name: 旧知の宴席
+    classes: 81
+    type: 201
+    space: "14,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: フランシュシュのみんなに配置してもらったテーブル。いくら生活が厳しくても、みんな一緒に仲良くご飯を食べるべきだ。食事がまずいだと？スキキライするやつはロメロと一緒に食え！
+    code: Saga_deco_table1,Saga_deco_table2,Saga_deco_table3
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-2.035,0.000,0.000|2.096,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *5.425,1.480,-0.285|*-5.104,1.480,-0.285
+  }
+  {
+    id: 20087
+    name: 古いシャンデリア
+    classes: 81
+    type: 201
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 使われた年数が分からない古いシャンデリア。どうやらこの洋館ができた時からすでに、このシャンデリアはここにあったようだ。来る人、去る人を、ずっと静かに見ていた。そしてずっと変わらずに、この洋館にいる者たちに光をもたらしていた。
+    code: Saga_deco_light
+    texture_type: "1"
+    offset: "0.000,3.535,0.824"
+    rotate: "2"
+  }
+  {
+    id: 20088
+    name: 爆裂ジャズ
+    classes: 81
+    type: 201
+    space: "9,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 何やら訳ありのドラムセット。ドラムの表面には荒い傷痕が残されており、シンバルにも誰かに噛まれた痕が残っている。これを使った人形の話によると、一度演奏を始めたら、もう何もかもをぶち壊したくなるような衝動に憑りつかれるとかなんとか……
+    code: Saga_DrumKit_deco
+    texture_type: "2"
+    sorting: "20"
+    offset: "0.000,0.219,0.052"
+    rotate: "2"
+    interact_point: "820088"
+    interact_point_offset: *0.000,2.106,0.000
+    touch_area: "9,4,0"
+  }
+  {
+    id: 20089
+    name: サウンド・オブ・メモリー
+    classes: 81
+    type: 201
+    space: "3,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 古いレコーダー。機能は非常に簡単で、音をテープに録って再生することしかできない。しかもノイズがひどい。しかしそれでも、人形たちはこの過去からの音を聴きたがっているようだ。
+    code: Saga_deco_recorder
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20090
+    name: 金マイクの勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下のアイドルたちが、イベント「雪の如き浪 花顔を映ず」にて伝説を残したことを表彰する。「たとえ進むのが茨の道でも、心の願いを叫ぶんだ！」
+    code: 2023SagaActivity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20091
+    name: ロメロ
+    classes: 299
+    type: 299
+    space: "3,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: かわいいゾンビィ犬。自由に自分の体形を変えれるらしい。スルメイカが大好きで、スルメイカを取られるのが一番嫌。
+    code: 2023SagaActivity_Romero
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "4"
+    interact_point_offset: *0.061,0.848,-0.285
+    touch_area: "3,3,3"
+    bonus_id: 3104
+  }
+  {
     id: 30001
     name: かぼちゃクマさん
     classes: 300
@@ -27478,6 +27573,111 @@
     decompose_gift: 100003
     description: OBRのポスター。
     code: poster_ChessBonus_OBR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30587
+    name: 輝く光
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 源さくらのポスター
+    code: poster_Saga2023_Sakura
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30588
+    name: 暴走族の夜明け
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 二階堂サキのポスター
+    code: poster_Saga2023_Saki
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30589
+    name: 目覚めのドリーマー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 水野愛のポスター
+    code: poster_Saga2023_Ai
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30590
+    name: 忘れられない時間
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 紺野純子のポスター
+    code: poster_Saga2023_Junko
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30591
+    name: 佐賀事変
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ゆうぎりのポスター
+    code: poster_Saga2023_Yuugiri
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30592
+    name: 大好きな人へ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 星川リリィのポスター
+    code: poster_Saga2023_Lily
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30593
+    name: スタジアムクラッシャー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 山田たえのポスター
+    code: poster_Saga2023_Tae
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -33013,6 +33213,96 @@
     decompose_gift: 100003
     description: OTs-44のポスター。
     code: poster_Fur2021_OC44
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36301
+    name: 渓流散策の秋
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG Paraのポスター。
+    code: poster_Dating2021_AUGPARA
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36302
+    name: 世界の片隅で待ってる
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr SL8のポスター。
+    code: poster_Dating2021_SL8
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36303
+    name: 銀河に寝入る夢
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SP9のポスター。
+    code: poster_Dating2021_SP9
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36304
+    name: なごりの雨と暮れの霞
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: モンドラゴンM1908のポスター。
+    code: poster_Dating2021_MondragonM1908
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36305
+    name: ドキドキ三部曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Rex Zero 1のポスター。
+    code: poster_Dating2021_RexZero1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 36306
+    name: 碧空に揺蕩う
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Model Lのポスター。
+    code: poster_Dating2021_CETME556
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

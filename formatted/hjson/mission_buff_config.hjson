@@ -2125,7 +2125,7 @@
   }
   {
     id: 570000
-    name: mission_buff_config-10570000
+    name: Fever
     description: mission_buff_config-20570000
     code: wota
     type: 1
@@ -2136,7 +2136,7 @@
   }
   {
     id: 570001
-    name: mission_buff_config-10570001
+    name: +
     description: mission_buff_config-20570001
     code: ZLSR_happy
     type: 1
@@ -2149,7 +2149,7 @@
   }
   {
     id: 570002
-    name: mission_buff_config-10570002
+    name: -
     description: mission_buff_config-20570002
     code: ZLSR_sad
     type: 2
@@ -2162,7 +2162,7 @@
   }
   {
     id: 570003
-    name: mission_buff_config-10570003
+    name: CT
     description: mission_buff_config-20570003
     code: Angelica
     type: 1
@@ -2173,7 +2173,7 @@
   }
   {
     id: 570004
-    name: mission_buff_config-10570004
+    name: CTカウント
     description: mission_buff_config-20570004
     type: 1
     duration_type: "1"
@@ -2184,7 +2184,7 @@
   }
   {
     id: 570010
-    name: mission_buff_config-10570010
+    name: 水野愛
     description: mission_buff_config-20570010
     type: 1
     duration_type: "1"
@@ -2195,7 +2195,7 @@
   }
   {
     id: 570020
-    name: mission_buff_config-10570020
+    name: 紺野純子
     description: mission_buff_config-20570020
     type: 1
     duration_type: "1"
@@ -2206,7 +2206,7 @@
   }
   {
     id: 570030
-    name: mission_buff_config-10570030
+    name: 星川リリィ
     description: mission_buff_config-20570030
     type: 1
     duration_type: "1"
@@ -2217,7 +2217,7 @@
   }
   {
     id: 570040
-    name: mission_buff_config-10570040
+    name: 二階堂サキ
     description: mission_buff_config-20570040
     type: 1
     duration_type: "1"
@@ -2228,7 +2228,7 @@
   }
   {
     id: 570050
-    name: mission_buff_config-10570050
+    name: ゆうぎり
     description: mission_buff_config-20570050
     type: 1
     duration_type: "1"
@@ -2239,7 +2239,7 @@
   }
   {
     id: 570060
-    name: mission_buff_config-10570060
+    name: 源さくら
     description: mission_buff_config-20570060
     type: 1
     duration_type: "1"
@@ -2250,7 +2250,7 @@
   }
   {
     id: 570070
-    name: mission_buff_config-10570070
+    name: 山田
     description: mission_buff_config-20570070
     type: 1
     duration_type: "1"
@@ -2261,7 +2261,7 @@
   }
   {
     id: 570501
-    name: mission_buff_config-10570501
+    name: 敵の加速バフ
     description: mission_buff_config-20570501
     type: 1
     duration_type: "1"
@@ -2272,8 +2272,8 @@
   }
   {
     id: 570601
-    name: mission_buff_config-10570601
-    description: mission_buff_config-20570601
+    name: スルメイカ所持
+    description: 一袋のスルメイカ
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -2284,8 +2284,8 @@
   }
   {
     id: 570602
-    name: mission_buff_config-10570602
-    description: mission_buff_config-20570602
+    name: 配達所持
+    description: 複数の配達
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -2296,7 +2296,7 @@
   }
   {
     id: 571000
-    name: mission_buff_config-10571000
+    name: 相手の行動
     description: mission_buff_config-20571000
     code: SpeedUp
     type: 1
@@ -2307,7 +2307,7 @@
   }
   {
     id: 571001
-    name: mission_buff_config-10571001
+    name: 眠り
     description: mission_buff_config-20571001
     code: QBZ191
     type: 1

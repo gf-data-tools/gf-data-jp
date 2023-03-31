@@ -372,6 +372,18 @@
     description: -期間限定イベント【回帰定理】物資箱で獲得
   }
   {
+    obtain_id: 254
+    description: -期間限定イベント【雪の如き浪 花顔を映ず】クリア報酬
+  }
+  {
+    obtain_id: 255
+    description: -期間限定イベント【雪の如き浪 花顔を映ず】人質救援で獲得
+  }
+  {
+    obtain_id: 256
+    description: -期間限定イベント【雪の如き浪 花顔を映ず】ショップ引換
+  }
+  {
     obtain_id: 301
     description: -イベント【赤色のテーゼ】報酬
   }
@@ -835,7 +847,7 @@
   }
   {
     obtain_id: 3015
-    description: gun_obtain-10003015
+    description: -2023年4月ログイン報酬
   }
   {
     obtain_id: 3016
@@ -1150,6 +1162,14 @@
   {
     obtain_id: 3093
     description: gun_obtain-10003093
+  }
+  {
+    obtain_id: 3094
+    description: 期間限定イベント<雪の如き浪 花顔を映ず>アイテム交換
+  }
+  {
+    obtain_id: 3095
+    description: 期間限定イベント<雪の如き浪 花顔を映ず>全プレイヤー対象の応援報酬
   }
   {
     obtain_id: 20001

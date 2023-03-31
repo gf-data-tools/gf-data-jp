@@ -1193,6 +1193,103 @@
     order: 71
   }
   {
+    id: 587
+    name: 輝く光
+    fit_gun: 1037
+    voice: 4
+    dialog:
+      '''
+      ステージの上からだと、下にいる人たちの顔は見えないはずなのに、
+      なぜかいつも、あなたと視線が合うの……
+      '''
+    note: skin-30000587
+    gift_position: "-172,2.1"
+    illustrator_cv: skin-40000587
+    order: 79
+  }
+  {
+    id: 588
+    name: 暴走族の夜明け
+    fit_gun: 1041
+    voice: 4
+    dialog:
+      '''
+      突っ走んぜ！　邪魔すん奴は全員ブッ飛ばす！
+      指揮官？　お前はあたしの後ろに座りな！
+      '''
+    note: skin-30000588
+    gift_position: "-173.8,134.9"
+    illustrator_cv: skin-40000588
+    order: 79
+  }
+  {
+    id: 589
+    name: 目覚めのドリーマー
+    fit_gun: 1038
+    voice: 4
+    dialog: この熱い気持ちと、最大限の努力で、魂の奥底まで届く奇跡を創るの！
+    note: skin-30000589
+    gift_position: "-117.7,6.9"
+    illustrator_cv: skin-40000589
+    order: 79
+  }
+  {
+    id: 590
+    name: 忘れられない時間
+    fit_gun: 1039
+    voice: 4
+    dialog:
+      '''
+      心配しないでください、今日見送った夕焼けは、明日も迎えに来ます。
+      もしよければ、また一緒に見に来ましょう！
+      '''
+    note: skin-30000590
+    gift_position: "-115.1,1.4"
+    illustrator_cv: skin-40000590
+    order: 79
+  }
+  {
+    id: 591
+    name: 佐賀事変
+    fit_gun: 1040
+    voice: 4
+    dialog:
+      '''
+      蝶々乱舞に惑わされることなかれ、薔薇荊に阻まれることなかれ。
+      三瀬峠俵坂を越える勇気があれば、地獄に居たって会える時が来んしょう。
+      '''
+    note: skin-30000591
+    gift_position: "23.6,58.5"
+    illustrator_cv: skin-40000591
+    order: 79
+  }
+  {
+    id: 592
+    name: 大好きな人へ
+    fit_gun: 1036
+    voice: 4
+    dialog:
+      '''
+      リリィの想いは、ラブリートゥインクルマジック！
+      あの人の心に～、とどけ～！！！
+      '''
+    note: skin-30000592
+    gift_position: "-112.6,189"
+    illustrator_cv: skin-40000592
+    order: 79
+  }
+  {
+    id: 593
+    name: スタジアムクラッシャー
+    fit_gun: 1035
+    voice: 4
+    dialog: うあああ、う゛ああああ——！（すべてを粉砕する勢い！）
+    note: skin-30000593
+    gift_position: "-352.1,67.5"
+    illustrator_cv: skin-40000593
+    order: 79
+  }
+  {
     id: 601
     name: 二人の旅路
     fit_gun: 6
@@ -6079,13 +6176,80 @@
     class_id: 65
   }
   {
+    id: 6301
+    name: 渓流散策の秋
+    fit_gun: 315
+    voice: 4
+    dialog: 先輩、こっちですよ！もっと笑ってください！秋は一番いい季節ですから、お魚やカニもこんなにおいしそうですよ！
+    note: skin-30006301
+    illustrator_cv: skin-40006301
+    order: 78
+    class_id: 66
+  }
+  {
+    id: 6302
+    name: 世界の片隅で待ってる
+    fit_gun: 296
+    voice: 4
+    dialog: やっと来たか、指揮官！いや、オレは待ってても全然構わないぜ。なんせお前を待ってる時間は、期待と喜びに満ち溢れてるからな。
+    note: skin-30006302
+    illustrator_cv: skin-40006302
+    order: 78
+    class_id: 66
+  }
+  {
+    id: 6303
+    name: 銀河に寝入る夢
+    fit_gun: 341
+    voice: 4
+    dialog: 普段はいつも色んな音が耳に入ってくる――警報の音、ブレーキの音、クラクションの音……今のように、静かに星空の息を感じ取れるのが珍しい。
+    note: skin-30006303
+    illustrator_cv: skin-40006303
+    order: 78
+    class_id: 66
+  }
+  {
+    id: 6304
+    name: なごりの雨と暮れの霞
+    fit_gun: 317
+    voice: 4
+    dialog: 私の着こなしが、少々堅苦し過ぎたか、指揮官様？しかし、いくらデートとはいえ、私はあなたの安全を保障しなければなりません。では行きましょう、レストランの予約に遅れてしまいます。
+    note: skin-30006304
+    gift_position: "-118.4,-133.4"
+    illustrator_cv: skin-40006304
+    order: 78
+    class_id: 66
+  }
+  {
+    id: 6305
+    name: ドキドキ三部曲
+    fit_gun: 310
+    voice: 4
+    dialog: マスカラ、リップ、香水……出撃前のチェックは念入りに。そうですよ、総監、完璧なデートは、完璧な準備から始まるものです。
+    note: skin-30006305
+    illustrator_cv: skin-40006305
+    order: 78
+    class_id: 66
+  }
+  {
+    id: 6306
+    name: 碧空に揺蕩う
+    fit_gun: 223
+    voice: 4
+    dialog: ブランコを空に向かって漕ぐ時は、まるで重力から逃れるような感じで……指揮官も試してみますか？
+    note: skin-30006306
+    illustrator_cv: skin-40006306
+    order: 78
+    class_id: 66
+  }
+  {
     id: 6401
     name: 純白、清漣に濯はれて
     fit_gun: 129
     voice: 18
     dialog: 「伝説によると白娘子は、人間を渡っても全く汚れることはなかったようです、蓮の花のように。私もそのような穢れなき存在になれるでしょうか……」。
     note: skin-30006401
-    illustrator_cv: skin-40006401
+    illustrator_cv: 鳩山井鶴,大門香実,
     order: 54
     class_id: 67
   }

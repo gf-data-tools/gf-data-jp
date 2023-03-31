@@ -20186,7 +20186,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570005
+    name: Feverマーク
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20196,7 +20196,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570005
-    confront_des: building-30570005
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570006
@@ -20207,7 +20207,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570006
+    name: 勝利マーク
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20217,7 +20217,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570006
-    confront_des: building-30570006
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570010
@@ -20228,7 +20228,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570010
+    name: 水野愛
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20238,7 +20238,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570010
-    confront_des: building-30570010
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570020
@@ -20249,7 +20249,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570020
+    name: 紺野純子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20259,7 +20259,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570020
-    confront_des: building-30570020
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570030
@@ -20270,7 +20270,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570030
+    name: 星川リリィ
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20280,7 +20280,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570030
-    confront_des: building-30570030
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570040
@@ -20291,7 +20291,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570040
+    name: 二階堂サキ
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20301,7 +20301,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570040
-    confront_des: building-30570040
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570050
@@ -20312,7 +20312,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570050
+    name: ゆうぎり
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20322,7 +20322,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570050
-    confront_des: building-30570050
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570060
@@ -20333,7 +20333,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570060
+    name: 源さくら
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20343,7 +20343,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570060
-    confront_des: building-30570060
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570070
@@ -20354,7 +20354,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570070
+    name: 山田
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20364,7 +20364,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570070
-    confront_des: building-30570070
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570501
@@ -20375,7 +20375,7 @@
     mission_skill: 0;0;0;570504
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:2
-    name: building-10570501
+    name: バブルマシーン
     code: Bubble_machine
     shifting_spot: "0,30"
     shifting_team: "-30,0"
@@ -20388,7 +20388,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570501
-    confront_des: building-30570501
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,570508,570505,0"
   }
   {
@@ -20411,9 +20411,9 @@
     is_focus: "1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: Saga_Dog_Enemy_2;罗梅罗;0,0;0
+    active_building_info: Saga_Dog_Enemy_2;ロメロ;0,0;0
     des: building-20570601
-    confront_des: building-30570601
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570602
@@ -20435,9 +20435,9 @@
     is_focus: "1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: Bathhouse_guest_2;顾客;0,0;0
+    active_building_info: Bathhouse_guest_2;客;0,0;0
     des: building-20570602
-    confront_des: building-30570602
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570603
@@ -20448,7 +20448,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570603
+    name: スルメイカ
     code: DriedSquid
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -20461,7 +20461,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570603
-    confront_des: building-30570603
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570604
@@ -20472,7 +20472,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10570604
+    name: 配達
     code: TakeOut
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -20485,7 +20485,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570604
-    confront_des: building-30570604
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570605
@@ -20496,7 +20496,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10570605
+    name: タイムレコーダー
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -20509,7 +20509,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570605
-    confront_des: building-30570605
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,570620,570624,0"
   }
   {
@@ -20521,7 +20521,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10570606
+    name: タイムレコーダー
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -20534,7 +20534,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570606
-    confront_des: building-30570606
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 570610
@@ -20545,7 +20545,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10570610
+    name: スコアリセット
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -20555,7 +20555,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20570610
-    confront_des: building-30570610
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 572010
@@ -20566,7 +20566,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10572010
+    name: 灰のシンガー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20578,7 +20578,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20572010
-    confront_des: building-30572010
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 572020
@@ -20589,7 +20589,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10572020
+    name: 緑のシンガー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20601,7 +20601,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20572020
-    confront_des: building-30572020
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 572030
@@ -20612,7 +20612,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10572030
+    name: 赤のシンガー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20624,7 +20624,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20572030
-    confront_des: building-30572030
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 573010
@@ -20635,7 +20635,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10573010
+    name: 自由のボーカル
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20647,7 +20647,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20573010
-    confront_des: building-30573010
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 573020
@@ -20658,7 +20658,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10573020
+    name: 熱烈のギター
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20670,7 +20670,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20573020
-    confront_des: building-30573020
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 573030
@@ -20681,7 +20681,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10573030
+    name: 影のドラム
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20693,7 +20693,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20573030
-    confront_des: building-30573030
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 573040
@@ -20704,7 +20704,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10573040
+    name: グラサンのベース
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20716,7 +20716,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20573040
-    confront_des: building-30573040
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574001
@@ -20727,7 +20727,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574001
+    name: Feverマーク
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20737,7 +20737,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574001
-    confront_des: building-30574001
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574002
@@ -20748,7 +20748,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574002
+    name: 勝利マーク
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20758,7 +20758,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574002
-    confront_des: building-30574002
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574003
@@ -20769,7 +20769,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574003
+    name: 指揮官
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20779,7 +20779,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574003
-    confront_des: building-30574003
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574004
@@ -20790,7 +20790,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574004
+    name: 指揮官
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20800,7 +20800,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574004
-    confront_des: building-30574004
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574005
@@ -20811,7 +20811,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574005
+    name: 指揮官
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20821,7 +20821,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574005
-    confront_des: building-30574005
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574010
@@ -20832,7 +20832,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574010
+    name: 灰のシンガー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20844,7 +20844,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574010
-    confront_des: building-30574010
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574020
@@ -20855,7 +20855,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574020
+    name: 緑のシンガー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20867,7 +20867,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574020
-    confront_des: building-30574020
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574030
@@ -20878,7 +20878,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574030
+    name: 赤のシンガー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20890,7 +20890,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574030
-    confront_des: building-30574030
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574040
@@ -20901,7 +20901,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574040
+    name: 自由のボーカル
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20913,7 +20913,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574040
-    confront_des: building-30574040
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574050
@@ -20924,7 +20924,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574050
+    name: 熱烈のギター
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20936,7 +20936,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574050
-    confront_des: building-30574050
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574060
@@ -20947,7 +20947,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574060
+    name: 影のドラム
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20959,7 +20959,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574060
-    confront_des: building-30574060
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574070
@@ -20970,7 +20970,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574070
+    name: グラサンのベース
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -20982,7 +20982,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574070
-    confront_des: building-30574070
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 574080
@@ -20993,7 +20993,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10574080
+    name: 謎のキーボード
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -21005,7 +21005,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20574080
-    confront_des: building-30574080
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 575001
@@ -21016,7 +21016,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10575001
+    name: 隠し要素マーク
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -21026,7 +21026,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-20575001
-    confront_des: building-30575001
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,575001,575002,0"
   }
   {
@@ -23414,7 +23414,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16000016
+    name: 制御パネルI
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -23426,8 +23426,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: building-26000016
-    confront_des: building-36000016
+    des: 関連施設にコマンドを送ることができます。（戦場効果を発動できます）
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 6000017
@@ -23448,7 +23448,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: building-26000017
-    confront_des: building-36000017
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 6350001

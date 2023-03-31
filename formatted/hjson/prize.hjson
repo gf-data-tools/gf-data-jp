@@ -9141,6 +9141,13 @@
     content: prize-20001345
   }
   {
+    id: 1347
+    name: prize-10001347
+    gem: 90
+    equip_ids: "265"
+    content: prize-20001347
+  }
+  {
     id: 1356
     name: prize-10001356
     item_ids: 900051-15
@@ -20385,6 +20392,301 @@
     content: prize-20007470
   }
   {
+    id: 7471
+    name: prize-10007471
+    item_ids: 100175-6
+    content: prize-20007471
+  }
+  {
+    id: 7472
+    name: prize-10007472
+    item_ids: 100175-8
+    content: prize-20007472
+  }
+  {
+    id: 7473
+    name: prize-10007473
+    item_ids: 100175-10
+    content: prize-20007473
+  }
+  {
+    id: 7474
+    name: prize-10007474
+    item_ids: 100175-12
+    content: prize-20007474
+  }
+  {
+    id: 7475
+    name: prize-10007475
+    item_ids: 100175-12,100176-1,9020-500,9025-25
+    content: prize-20007475
+  }
+  {
+    id: 7476
+    name: prize-10007476
+    item_ids: 100175-15
+    content: prize-20007476
+  }
+  {
+    id: 7477
+    name: prize-10007477
+    item_ids: 100175-15,100176-1
+    content: prize-20007477
+  }
+  {
+    id: 7478
+    name: prize-10007478
+    item_ids: 100176-1,9020-500
+    content: prize-20007478
+  }
+  {
+    id: 7479
+    name: ゆうぎり専用
+    equip_ids: "326"
+    content: prize-20007479
+  }
+  {
+    id: 7480
+    name: 星川リリィ専用
+    equip_ids: "328"
+    content: prize-20007480
+  }
+  {
+    id: 7481
+    name: 山田たえ専用
+    equip_ids: "327"
+    content: prize-20007481
+  }
+  {
+    id: 7482
+    name: 歌A
+    item_ids: 9020-1,9021-10
+    content: prize-20007482
+  }
+  {
+    id: 7483
+    name: 歌S
+    item_ids: 9020-500,9021-25
+    content: prize-20007483
+  }
+  {
+    id: 7484
+    name: ダンスA
+    item_ids: 9020-1,9022-10
+    content: prize-20007484
+  }
+  {
+    id: 7485
+    name: ダンスS
+    item_ids: 9020-500,9022-25
+    content: prize-20007485
+  }
+  {
+    id: 7486
+    name: 資金A
+    item_ids: 9020-1,9023-10
+    content: prize-20007486
+  }
+  {
+    id: 7487
+    name: 資金S
+    item_ids: 9020-500,9023-25
+    content: prize-20007487
+  }
+  {
+    id: 7488
+    name: モチベーションA
+    item_ids: 9020-200,9024-10
+    content: prize-20007488
+  }
+  {
+    id: 7489
+    name: モチベーションS
+    item_ids: 9020-500,9024-25
+    content: prize-20007489
+  }
+  {
+    id: 7490
+    name: インスピレーションA
+    item_ids: 9020-200,9025-10
+    content: prize-20007490
+  }
+  {
+    id: 7491
+    name: インスピレーションS
+    item_ids: 9020-500,9025-25
+    content: prize-20007491
+  }
+  {
+    id: 7492
+    name: 佐賀事変
+    gift: 591-1
+    content: prize-20007492
+    icon: Bumdle_xiwu
+  }
+  {
+    id: 7493
+    name: 大好きな人へ
+    gift: 592-1
+    content: prize-20007493
+    icon: Bumdle_xingchuanlili
+  }
+  {
+    id: 7494
+    name: 目覚めのドリーマー
+    gift: 589-1
+    content: prize-20007494
+    icon: Bumdle_shuiyeai
+  }
+  {
+    id: 7495
+    name: スタジアムクラッシャー
+    gift: 593-1
+    content: prize-20007495
+    icon: Bumdle_shantianduohui
+  }
+  {
+    id: 7496
+    name: 輝く光
+    gift: 587-1
+    content: prize-20007496
+    icon: Bumdle_yuanying
+  }
+  {
+    id: 7497
+    name: 暴走族の夜明け
+    gift: 588-1
+    content: prize-20007497
+    icon: Bumdle_erjietangxiao
+  }
+  {
+    id: 7498
+    name: 忘れられない時間
+    gift: 590-1
+    content: prize-20007498
+    icon: Bumdle_ganyechunzi
+  }
+  {
+    id: 7499
+    name: 源さくら
+    gun_id: "1037"
+    content: prize-20007499
+  }
+  {
+    id: 7500
+    name: 二階堂サキ
+    gun_id: "1041"
+    content: prize-20007500
+  }
+  {
+    id: 7501
+    name: メガホン
+    equip_ids: "325"
+    content: prize-20007501
+  }
+  {
+    id: 7502
+    name: リーダー腕章
+    equip_ids: "331"
+    content: prize-20007502
+  }
+  {
+    id: 7503
+    name: 愛の弁当箱
+    equip_ids: "329"
+    content: prize-20007503
+  }
+  {
+    id: 7504
+    name: 尾崎人形
+    equip_ids: "330"
+    content: prize-20007504
+  }
+  {
+    id: 7505
+    name: 妖精：コッコ君
+    content: prize-20007505
+    fairy_ids: 1009-0
+  }
+  {
+    id: 7506
+    name: ペット：ロメロ
+    furniture: "20091"
+    content: prize-20007506
+  }
+  {
+    id: 7507
+    name: 家具：古いシャンデリア
+    furniture: "20087"
+    content: prize-20007507
+  }
+  {
+    id: 7508
+    name: 家具：旧知の宴席
+    furniture: "20086"
+    content: prize-20007508
+  }
+  {
+    id: 7509
+    name: 水野愛
+    gun_id: "1038"
+    content: prize-20007509
+  }
+  {
+    id: 7510
+    name: 紺野純子
+    gun_id: "1039"
+    content: prize-20007510
+  }
+  {
+    id: 7511
+    name: 10000応援ポイント
+    item_ids: 45-50
+    content: prize-20007511
+  }
+  {
+    id: 7512
+    name: 20000応援ポイント
+    item_ids: 45-100
+    content: prize-20007512
+  }
+  {
+    id: 7513
+    name: 30000応援ポイント
+    item_ids: 2248-1
+    content: prize-20007513
+  }
+  {
+    id: 7514
+    name: 60000応援ポイント
+    item_ids: 2249-1
+    content: prize-20007514
+  }
+  {
+    id: 7515
+    name: 90000応援ポイント
+    item_ids: 2250-1
+    content: prize-20007515
+  }
+  {
+    id: 7516
+    name: 120000応援ポイント
+    item_ids: 2256-1
+    content: prize-20007516
+  }
+  {
+    id: 7517
+    name: 160000応援ポイント
+    item_ids: 2257-1
+    content: prize-20007517
+  }
+  {
+    id: 7518
+    name: 200000応援ポイント
+    item_ids: 2259-1
+    content: prize-20007518
+  }
+  {
     id: 7520
     name: prize-10007520
     item_ids: 41-100,605-5
@@ -28573,6 +28875,15 @@
     content: prize-20016920
   }
   {
+    id: 16921
+    name: マップギミックチュートリアル：戦場効果-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20016921
+  }
+  {
     id: 16922
     name: prize-10016922
     mp: 500
@@ -28670,6 +28981,15 @@
     mre: 500
     part: 500
     content: prize-20016932
+  }
+  {
+    id: 16933
+    name: 特殊ポイントチュートリアル：修復ステーション-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20016933
   }
   {
     id: 16934
@@ -29475,6 +29795,376 @@
     name: 内ラグランジュ点-任務報酬
     furniture: "20081"
     content: prize-20017260
+  }
+  {
+    id: 17261
+    name: グリフィンから来たあなた-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017261
+  }
+  {
+    id: 17262
+    name: ド-レ-ミ-任務報酬
+    coins: 1-200
+    content: prize-20017262
+  }
+  {
+    id: 17263
+    name: 頭を上げて、胸を張って、さぁ踊ろう-任務報酬
+    coins: 2-200
+    content: prize-20017263
+  }
+  {
+    id: 17264
+    name: いらっしゃいませ！-任務報酬
+    coins: 3-200
+    content: prize-20017264
+  }
+  {
+    id: 17265
+    name: ゴポゴポ-任務報酬
+    core: 10
+    content: prize-20017265
+  }
+  {
+    id: 17266
+    name: ザザッ、ザッ-任務報酬
+    item_ids: 45-30
+    content: prize-20017266
+  }
+  {
+    id: 17267
+    name: 誰がために戦う-任務報酬
+    gun_id: "1040"
+    content: prize-20017267
+  }
+  {
+    id: 17268
+    name: 天命-任務報酬
+    gun_id: "1036"
+    content: prize-20017268
+  }
+  {
+    id: 17269
+    name: 薄暮の光-任務報酬
+    gun_id: "1035"
+    content: prize-20017269
+  }
+  {
+    id: 17270
+    name: 一日目・昼-任務報酬
+    item_ids: 41-50
+    content: prize-20017270
+  }
+  {
+    id: 17271
+    name: 一日目・夜-任務報酬
+    item_ids: 46-50
+    content: prize-20017271
+  }
+  {
+    id: 17272
+    name: 二日目・昼-任務報酬
+    core: 10
+    content: prize-20017272
+  }
+  {
+    id: 17273
+    name: 二日目・夜-任務報酬
+    item_ids: 9-25
+    content: prize-20017273
+  }
+  {
+    id: 17274
+    name: 三日目・昼-任務報酬
+    item_ids: 45-25
+    content: prize-20017274
+  }
+  {
+    id: 17275
+    name: 三日目・夜-任務報酬
+    content: prize-20017275
+    fairy_ids: 1009-0
+  }
+  {
+    id: 17276
+    name: 四日目・昼-任務報酬
+    item_ids: 46-50
+    content: prize-20017276
+  }
+  {
+    id: 17277
+    name: 四日目・夜-任務報酬
+    item_ids: 41-50
+    content: prize-20017277
+  }
+  {
+    id: 17278
+    name: 五日目・昼-任務報酬
+    item_ids: 9-25
+    content: prize-20017278
+  }
+  {
+    id: 17279
+    name: 五日目・夜-任務報酬
+    item_ids: 45-25
+    content: prize-20017279
+  }
+  {
+    id: 17280
+    name: 六日目・昼-任務報酬
+    item_ids: 506-100
+    content: prize-20017280
+  }
+  {
+    id: 17281
+    name: 六日目・夜-任務報酬
+    item_ids: 45-25
+    content: prize-20017281
+  }
+  {
+    id: 17282
+    name: 七日目・昼-任務報酬
+    item_ids: 118-1
+    furniture: "20090"
+    content: prize-20017282
+  }
+  {
+    id: 17283
+    name: 笑いと涙の夜-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017283
+  }
+  {
+    id: 17284
+    name: ペンライトの夜-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017284
+  }
+  {
+    id: 17285
+    name: 風に乗った夜-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017285
+  }
+  {
+    id: 17286
+    name: 灰色の夜-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017286
+  }
+  {
+    id: 17287
+    name: 緩んだバッグパネル-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017287
+  }
+  {
+    id: 17288
+    name: 止まない歌、止まないステップ-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017288
+  }
+  {
+    id: 17289
+    name: 肩と肩の距離-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017289
+  }
+  {
+    id: 17290
+    name: 頑張れ、バイト戦士！-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017290
+  }
+  {
+    id: 17291
+    name: ワイルド！スピード！-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017291
+  }
+  {
+    id: 17292
+    name: 湧き上がる！インスピレーション！-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017292
+  }
+  {
+    id: 17293
+    name: 近づかないで！-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017293
+  }
+  {
+    id: 17294
+    name: 同じく異郷の者-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017294
+  }
+  {
+    id: 17295
+    name: 雨の庭にて-任務報酬
+    coins: 1-100
+    content: prize-20017295
+  }
+  {
+    id: 17296
+    name: 全然知らない人-任務報酬
+    coins: 2-100
+    content: prize-20017296
+  }
+  {
+    id: 17297
+    name: 奇妙な夜行記-任務報酬
+    coins: 3-100
+    content: prize-20017297
+  }
+  {
+    id: 17298
+    name: タイム・トラベラー-任務報酬
+    gift: 200001-50
+    content: prize-20017298
+  }
+  {
+    id: 17299
+    name: 暴走ラジオ！-任務報酬
+    furniture: "20089"
+    content: prize-20017299
+  }
+  {
+    id: 17300
+    name: 吉光片羽-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017300
+  }
+  {
+    id: 17301
+    name: この月明かりはまたいつか-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017301
+  }
+  {
+    id: 17302
+    name: エース・エージェント-任務報酬
+    coins: 1-100
+    content: prize-20017302
+  }
+  {
+    id: 17303
+    name: 暴走メモリアル！-任務報酬
+    coins: 2-100
+    content: prize-20017303
+  }
+  {
+    id: 17304
+    name: 贈りもの-任務報酬
+    coins: 3-100
+    content: prize-20017304
+  }
+  {
+    id: 17305
+    name: 月見の海-任務報酬
+    gift: 200001-50
+    content: prize-20017305
+  }
+  {
+    id: 17306
+    name: 海の声-任務報酬
+    core: 10
+    content: prize-20017306
+  }
+  {
+    id: 17307
+    name: さくらの芯-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017307
+  }
+  {
+    id: 17308
+    name: 夕霧にて分かつ-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017308
+  }
+  {
+    id: 17309
+    name: 時間の痕-任務報酬
+    coins: 1-100
+    content: prize-20017309
+  }
+  {
+    id: 17310
+    name: 暴走卒業式！-任務報酬
+    coins: 2-100
+    content: prize-20017310
+  }
+  {
+    id: 17311
+    name: 「いかないで」-任務報酬
+    coins: 3-100
+    content: prize-20017311
+  }
+  {
+    id: 17312
+    name: トゥインクル・ラブ-任務報酬
+    gift: 200001-50
+    content: prize-20017312
+  }
+  {
+    id: 17313
+    name: 日が落ちるまで-任務報酬
+    furniture: "20088"
+    content: prize-20017313
   }
   {
     id: 17318
@@ -36669,6 +37359,62 @@
     content: prize-20093952
     send_limit: 1
     commander_uniform: "3952"
+  }
+  {
+    id: 94011
+    name: prize-10094011
+    content: prize-20094011
+    send_limit: 1
+    commander_uniform: "4011"
+  }
+  {
+    id: 94012
+    name: prize-10094012
+    content: prize-20094012
+    send_limit: 1
+    commander_uniform: "4012"
+  }
+  {
+    id: 94020
+    name: prize-10094020
+    content: prize-20094020
+    send_limit: 1
+    commander_uniform: "4020"
+  }
+  {
+    id: 94031
+    name: prize-10094031
+    content: prize-20094031
+    send_limit: 1
+    commander_uniform: "4031"
+  }
+  {
+    id: 94032
+    name: prize-10094032
+    content: prize-20094032
+    send_limit: 1
+    commander_uniform: "4032"
+  }
+  {
+    id: 94040
+    name: prize-10094040
+    content: prize-20094040
+    send_limit: 1
+    commander_uniform: "4040"
+  }
+  {
+    id: 94051
+    name: prize-10094051
+    content: prize-20094051
+    send_limit: 1
+    commander_uniform: "4051"
+  }
+  {
+    id: 94052
+    name: prize-10094052
+    content: prize-20094052
+    send_limit: 1
+    commander_uniform: "4052"
   }
   {
     id: 94211

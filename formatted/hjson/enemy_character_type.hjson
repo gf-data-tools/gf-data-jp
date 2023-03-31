@@ -3860,7 +3860,7 @@
     rate: 30
     def: 2500
     level: 30100
-    character: 盾持前進
+    character: シールド持ち
     normal_attack: 902271
     passive_skill: "200304,902269,902270"
     effect_ratio: 0.8
@@ -3939,7 +3939,7 @@
     rate: 40
     def: 1500
     level: 30100
-    character: エリート,脅威,視覚遮断,貫通
+    character: エリート,脅威,ブラインド,貫通
     normal_attack: 755057
     passive_skill: "755058,119020"
     effect_ratio: 0.8
@@ -3991,7 +3991,7 @@
     rate: 32
     def: 2500
     level: 30100
-    character: 挙盾警備
+    character: シールド持ち
     normal_attack: 755031
     passive_skill: "755032,755050,200304,755053"
     effect_ratio: 1.0
@@ -4018,7 +4018,7 @@
     rate: 25
     def: 2500
     level: 30100
-    character: 重装甲,エネルギー充填
+    character: 重装甲,チャージ攻撃
     normal_attack: 755029
     passive_skill: "755030,200304"
     effect_ratio: 0.4
@@ -4070,7 +4070,7 @@
     rate: 40
     def: 4000
     level: 30100
-    character: 脅威,投擲,反機械
+    character: 脅威,投擲,対機械
     normal_attack: 755039
     passive_skill: "755040,755041,755048,200304,119019"
     effect_ratio: 1.0
@@ -4125,7 +4125,7 @@
     rate: 40
     def: 99999
     level: 30100
-    character: enemy_character_type-10012097
+    character: ノーマル
     normal_attack: 755242
     passive_skill: "755243,200304"
     effect_ratio: 1.0
@@ -4136,7 +4136,7 @@
   {
     id: 12098
     type: 3
-    name: プロボディガード
+    name: プロのボディガード
     enemy_info: 黑发保镖(多编)
     code: guard_katsura
     maxlife: 794
@@ -4150,7 +4150,7 @@
     rate: 50
     def: 99999
     level: 100
-    character: 専門スタッフ
+    character: 専門家
     normal_attack: 755049
     passive_skill: "200304"
     effect_ratio: 1.0
@@ -4161,7 +4161,7 @@
   {
     id: 12099
     type: 3
-    name: ベテランボディガード
+    name: プロでベテランのボディガード
     enemy_info: 光头保镖(多编强敌)
     code: guard_bald
     maxlife: 19200
@@ -4175,7 +4175,7 @@
     rate: 60
     def: 99999
     level: 100
-    character: エリート,専門スタッフ
+    character: エリート,専門家
     normal_attack: 755049
     effect_ratio: 1.0
     unable_buff_type: "221"
@@ -4335,7 +4335,7 @@
     rate: 30
     def: 99999
     level: 100
-    character: enemy_character_type-10012105
+    character: 脅威,装甲
     normal_attack: 755245
     passive_skill: "200303,200304,119019,755246,755247"
     effect_ratio: 0.87
@@ -4360,7 +4360,7 @@
     rate: 40
     def: 99999
     level: 100
-    character: enemy_character_type-10012106
+    character: 近接,装甲,シールド
     normal_attack: 310202
     passive_skill: "200304,310201,755244"
     effect_ratio: 1.17
@@ -5916,7 +5916,7 @@
   {
     id: 13235
     type: 4
-    name: enemy_character_type-20013235
+    name: お化け掃除ロボ
     enemy_info: 蜘蛛雷-沙罗蚀相
     code: Pumpkin_Dactyl
     maxlife: 800
@@ -5930,7 +5930,7 @@
     rate: 150
     def: 99999
     level: 100
-    character: enemy_character_type-10013235
+    character: エリート,装甲,地雷
     normal_attack: 900107
     passive_skill: "200303,403101"
     effect_ratio: 0.25
@@ -5943,7 +5943,7 @@
   {
     id: 13236
     type: 5
-    name: enemy_character_type-20013236
+    name: スーパー掃除マン
     enemy_info: 军方重甲人形-沙罗蚀相
     code: Mop_Aegis
     maxlife: 2325
@@ -5957,7 +5957,7 @@
     rate: 40
     def: 99999
     level: 100
-    character: enemy_character_type-10013236
+    character: 近接,装甲,シールド
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 1.17
@@ -5968,7 +5968,7 @@
   {
     id: 13237
     type: 3
-    name: enemy_character_type-20013237
+    name: 鬼のコック
     enemy_info: 独眼巨人(步枪型）-沙罗蚀相
     code: Chief_Cyclops
     maxlife: 1140
@@ -5982,7 +5982,7 @@
     rate: 28
     def: 99999
     level: 30100
-    character: enemy_character_type-10013237
+    character: エリート,範囲ダメージ
     normal_attack: 300301
     passive_skill: "700101,402605"
     effect_ratio: 1.0
@@ -5993,7 +5993,7 @@
   {
     id: 13238
     type: 3
-    name: enemy_character_type-20013238
+    name: 浴場の刺客
     enemy_info: 佐贺联动-澡堂客人黄毛
     code: Bathhouse_guest_2
     maxlife: 3000
@@ -6007,7 +6007,7 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013238
+    character: シールド持ち
     normal_attack: 755273
     passive_skill: "200304,902269,755274"
     effect_ratio: 0.8
@@ -6018,7 +6018,7 @@
   {
     id: 13239
     type: 3
-    name: enemy_character_type-20013239
+    name: 浴場の刺客
     enemy_info: 佐贺联动-澡堂客人憨憨
     code: Bathhouse_guest_1
     maxlife: 42000
@@ -6033,7 +6033,7 @@
     rate: 24
     def: 6000
     level: 30100
-    character: enemy_character_type-10013239
+    character: 装甲,偏向障壁,弱化
     normal_attack: 403701
     passive_skill: "200303,200304,403702,755214,403704"
     effect_ratio: 1.21
@@ -6046,7 +6046,7 @@
   {
     id: 13240
     type: 4
-    name: enemy_character_type-20013240
+    name: ワイルドホイール
     enemy_info: 佐贺联动-轮胎
     code: Tyre_enemy
     maxlife: 3000
@@ -6061,7 +6061,7 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013240
+    character: 近接,装甲
     normal_attack: 755270
     passive_skill: "755269,200304"
     effect_ratio: 1.84
@@ -6072,7 +6072,7 @@
   {
     id: 13241
     type: 4
-    name: enemy_character_type-20013241
+    name: バーサーカートラック
     enemy_info: 佐贺联动-卡车
     code: Truck_enemy
     maxlife: 200000
@@ -6087,7 +6087,7 @@
     rate: 20
     def: 99999
     level: 100
-    character: enemy_character_type-10013241
+    character: エリート,脅威
     normal_attack: 900107
     passive_skill: "755264,755265,755266,119020"
     effect_ratio: 1.0
@@ -6099,7 +6099,7 @@
   {
     id: 13242
     type: 4
-    name: enemy_character_type-20013242
+    name: バブルマシーン
     enemy_info: 佐贺联动-泡泡机
     code: Bubble_machine
     maxlife: 60000
@@ -6113,7 +6113,7 @@
     rate: 25
     def: 99999
     level: 30100
-    character: enemy_character_type-10013242
+    character: 装甲,製造
     normal_attack: 900107
     passive_skill: "200304,755267"
     effect_ratio: 1.41
@@ -6125,7 +6125,7 @@
   {
     id: 13243
     type: 2
-    name: enemy_character_type-20013243
+    name: 揺らめく泡沫
     enemy_info: 佐贺联动-泡泡
     code: Bubble
     maxlife: 2000
@@ -6139,7 +6139,7 @@
     rate: 50
     def: 99999
     level: 30100
-    character: enemy_character_type-10013243
+    character: 近接,装甲
     normal_attack: 900107
     passive_skill: "200304,755268"
     effect_ratio: 0.84
@@ -6150,7 +6150,7 @@
   {
     id: 13244
     type: 2
-    name: enemy_character_type-20013244
+    name: ロメロ
     enemy_info: 佐贺联动-僵尸狗
     code: saga_dog_enemy
     maxlife: 22000
@@ -6165,7 +6165,7 @@
     rate: 35
     def: 99999
     level: 30100
-    character: enemy_character_type-10013244
+    character: エリート,高速,鼓舞
     normal_attack: 755271
     passive_skill: "755272.200304"
     effect_ratio: 0.7
@@ -6177,7 +6177,7 @@
   {
     id: 13245
     type: 3
-    name: enemy_character_type-20013245
+    name: 灰のシンガー
     enemy_info: 佐贺联动-格里芬人形
     code: HK21_SagaEnemy
     maxlife: 1000
@@ -6191,7 +6191,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013245
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6202,7 +6202,7 @@
   {
     id: 13246
     type: 3
-    name: enemy_character_type-20013246
+    name: 緑のシンガー
     enemy_info: 佐贺联动-格里芬人形
     code: JS-127_SagaEnemy
     maxlife: 1000
@@ -6216,7 +6216,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013246
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6227,7 +6227,7 @@
   {
     id: 13247
     type: 3
-    name: enemy_character_type-20013247
+    name: 赤のシンガー
     enemy_info: 佐贺联动-格里芬人形
     code: PM06_SagaEnemy
     maxlife: 1000
@@ -6241,7 +6241,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013247
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6252,7 +6252,7 @@
   {
     id: 13248
     type: 3
-    name: enemy_character_type-20013248
+    name: 自由のボーカル
     enemy_info: 佐贺联动-格里芬人形
     code: MG5_SagaEnemy
     maxlife: 1000
@@ -6266,7 +6266,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013248
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6277,7 +6277,7 @@
   {
     id: 13249
     type: 3
-    name: enemy_character_type-20013249
+    name: 熱烈のギター
     enemy_info: 佐贺联动-格里芬人形
     code: M1887_SagaEnemy
     maxlife: 1000
@@ -6291,7 +6291,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013249
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6302,7 +6302,7 @@
   {
     id: 13250
     type: 3
-    name: enemy_character_type-20013250
+    name: 影のドラム
     enemy_info: 佐贺联动-格里芬人形
     code: 80type_SagaEnemy
     maxlife: 1000
@@ -6316,7 +6316,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013250
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6327,7 +6327,7 @@
   {
     id: 13251
     type: 3
-    name: enemy_character_type-20013251
+    name: グラサンのベース
     enemy_info: 佐贺联动-格里芬人形
     code: M1897_SagaEnemy
     maxlife: 1000
@@ -6341,7 +6341,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013251
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -6352,7 +6352,7 @@
   {
     id: 13252
     type: 3
-    name: enemy_character_type-20013252
+    name: 謎のキーボード
     enemy_info: 佐贺联动-格里芬人形
     code: G11_SagaEnemy
     maxlife: 1000
@@ -6366,7 +6366,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013252
+    character: グリフィン,持盾
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1.0
@@ -7918,7 +7918,7 @@
   {
     id: 700008
     type: 1
-    name: enemy_character_type-20700008
+    name: アーキテクト
     enemy_info: 建筑师
     code: BossArchitect
     maxlife: 40000
@@ -7934,7 +7934,7 @@
     boss_hp: 40000
     def: 99999
     level: 100
-    character: enemy_character_type-10700008
+    character: エリート,アーキテクト,装甲
     normal_attack: 300307
     passive_skill: "490006,501029,702000"
     effect_ratio: 1.06
@@ -7946,7 +7946,7 @@
   {
     id: 700009
     type: 1
-    name: enemy_character_type-20700009
+    name: アルケミスト
     enemy_info: 炼金术士
     code: Alchemist
     maxlife: 40000
@@ -7961,20 +7961,20 @@
     boss_hp: 40000
     def: 99999
     level: 100
-    character: enemy_character_type-10700009
+    character: エリート,アルケミスト
     special_attack: 6
     normal_attack: 300306
     passive_skill: "490007,501029,702000"
     effect_ratio: 1.0
     voice: "1,2,3"
     deployment_scale: 1.0
-    recommend_description: enemy_character_type-30700009
+    recommend_description: HG,RF
     enemy_illustration_id: 23
   }
   {
     id: 700010
     type: 1
-    name: enemy_character_type-20700010
+    name: エージェント
     enemy_info: 代理人
     code: Agent
     maxlife: 40000
@@ -7989,7 +7989,7 @@
     boss_hp: 40000
     def: 99999
     level: 100
-    character: enemy_character_type-10700010
+    character: エリート,エージェント
     normal_attack: 402905
     passive_skill: "490008,501029,702000"
     effect_ratio: 1.0
@@ -8001,7 +8001,7 @@
   {
     id: 700011
     type: 1
-    name: enemy_character_type-20700011
+    name: エリザ
     enemy_info: 伊莱莎
     code: Eliza_boss
     maxlife: 40000
@@ -8017,7 +8017,7 @@
     boss_hp: 40000
     def: 99999
     level: 100
-    character: enemy_character_type-10700011
+    character: エリート,？？？？
     normal_attack: 406225
     passive_skill: "490009,501029,702000"
     effect_ratio: 1.0
@@ -8029,7 +8029,7 @@
   {
     id: 700012
     type: 1
-    name: enemy_character_type-20700012
+    name: グリク
     enemy_info: 缇
     code: Teal
     maxlife: 40000
@@ -8045,7 +8045,7 @@
     boss_hp: 40000
     def: 8000
     level: 100
-    character: enemy_character_type-10700012
+    character: エリート,「ネイト」,アサシン
     normal_attack: 755065
     passive_skill: "490010,501029,702000"
     effect_ratio: 1.0
@@ -8057,7 +8057,7 @@
   {
     id: 700013
     type: 1
-    name: enemy_character_type-20700013
+    name: ナルシス
     enemy_info: 娜希斯
     code: Narciss
     maxlife: 40000
@@ -8072,7 +8072,7 @@
     boss_hp: 40000
     def: 3500
     level: 100
-    character: enemy_character_type-10700013
+    character: エリート,必殺,義体
     normal_attack: 900107
     passive_skill: "490011,501029,702000"
     effect_ratio: 1.0
@@ -8314,7 +8314,7 @@
     rate: 40
     def: 6000
     level: 100
-    character: enemy_character_type-10800009
+    character: エリート,貫通
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029"
     effect_ratio: 1.0
@@ -8340,7 +8340,7 @@
     rate: 300
     def: 99999
     level: 100
-    character: enemy_character_type-10800010
+    character: エリート,必殺
     normal_attack: 755231
     passive_skill: "755232,755233,755234,755235,755236,119029"
     effect_ratio: 0.4

@@ -5769,7 +5769,7 @@
   }
   {
     id: 105601
-    name: ally_team-10105601
+    name: 観客
     guns: "1,2,3,4,5"
     enemy_team_id: 570505
     initial_type: 2
@@ -5784,7 +5784,7 @@
   }
   {
     id: 105602
-    name: ally_team-10105602
+    name: 観客
     guns: "1,2,3,4,5"
     enemy_team_id: 570504
     ai: 0;0;0
@@ -13572,7 +13572,7 @@
   }
   {
     id: 570001
-    name: ally_team-10570001
+    name: 水野愛
     guns: "570001"
     enemy_team_id: 1
     initial_type: 1
@@ -13583,7 +13583,7 @@
   }
   {
     id: 570002
-    name: ally_team-10570002
+    name: 紺野純子
     guns: "570002"
     enemy_team_id: 1
     initial_type: 1
@@ -13594,7 +13594,7 @@
   }
   {
     id: 570003
-    name: ally_team-10570003
+    name: 星川リリィ
     guns: "570003"
     enemy_team_id: 1
     initial_type: 1
@@ -13605,7 +13605,7 @@
   }
   {
     id: 570004
-    name: ally_team-10570004
+    name: 二階堂サキ
     guns: "570004"
     enemy_team_id: 1
     initial_type: 1
@@ -13616,7 +13616,7 @@
   }
   {
     id: 570005
-    name: ally_team-10570005
+    name: ゆうぎり
     guns: "570005"
     enemy_team_id: 1
     initial_type: 1
@@ -13627,7 +13627,7 @@
   }
   {
     id: 570006
-    name: ally_team-10570006
+    name: 源さくら
     guns: "570006"
     enemy_team_id: 1
     initial_type: 1
@@ -13638,7 +13638,7 @@
   }
   {
     id: 570007
-    name: ally_team-10570007
+    name: 山田たえ
     guns: "570007"
     enemy_team_id: 1
     initial_type: 1
@@ -13649,7 +13649,7 @@
   }
   {
     id: 570008
-    name: ally_team-10570008
+    name: 指揮官
     guns: "570011"
     enemy_team_id: 1
     initial_type: 1
@@ -13660,7 +13660,7 @@
   }
   {
     id: 570009
-    name: ally_team-10570009
+    name: 灰のシンガー
     guns: "570011"
     enemy_team_id: 570001
     initial_type: 2
@@ -13670,7 +13670,7 @@
   }
   {
     id: 570010
-    name: ally_team-10570010
+    name: 緑のシンガー
     guns: "570011"
     enemy_team_id: 570002
     initial_type: 2
@@ -13680,7 +13680,7 @@
   }
   {
     id: 570011
-    name: ally_team-10570011
+    name: 赤のシンガー
     guns: "570011"
     enemy_team_id: 570003
     initial_type: 2
@@ -13690,7 +13690,7 @@
   }
   {
     id: 570012
-    name: ally_team-10570012
+    name: 自由のボーカル
     guns: "570011"
     enemy_team_id: 570004
     initial_type: 2
@@ -13700,7 +13700,7 @@
   }
   {
     id: 570013
-    name: ally_team-10570013
+    name: 熱烈のギター
     guns: "570011"
     enemy_team_id: 570005
     initial_type: 2
@@ -13710,7 +13710,7 @@
   }
   {
     id: 570014
-    name: ally_team-10570014
+    name: 影のドラム
     guns: "570011"
     enemy_team_id: 570006
     initial_type: 2
@@ -13720,7 +13720,7 @@
   }
   {
     id: 570015
-    name: ally_team-10570015
+    name: グラサンのベース
     guns: "570011"
     enemy_team_id: 570007
     initial_type: 2
@@ -13730,7 +13730,7 @@
   }
   {
     id: 570016
-    name: ally_team-10570016
+    name: 謎のキーボード
     guns: "570011"
     enemy_team_id: 570008
     initial_type: 2
@@ -13740,7 +13740,7 @@
   }
   {
     id: 575001
-    name: ally_team-10575001
+    name: 源さくら
     guns: "570010"
     enemy_team_id: 1
     initial_type: 1
@@ -13751,7 +13751,7 @@
   }
   {
     id: 575002
-    name: ally_team-10575002
+    name: 山田たえ
     guns: "570009"
     enemy_team_id: 1
     initial_type: 1
@@ -13762,7 +13762,7 @@
   }
   {
     id: 575003
-    name: ally_team-10575003
+    name: 二階堂サキ
     guns: "570008"
     enemy_team_id: 1
     initial_type: 1
@@ -13809,7 +13809,7 @@
   }
   {
     id: 590004
-    name: ally_team-10590004
+    name: M16A1
     guns: "590016"
     enemy_team_id: 1
     initial_type: 1
@@ -18606,7 +18606,7 @@
   }
   {
     id: 9550102
-    name: ally_team-19550102
+    name: ???
     guns: "1"
     enemy_team_id: 9550102
     initial_type: 2
@@ -18632,7 +18632,7 @@
   }
   {
     id: 9550104
-    name: ally_team-19550104
+    name: 装甲列車
     guns: "825"
     enemy_team_id: 9550101
     initial_type: 1
@@ -18644,7 +18644,7 @@
   }
   {
     id: 9550105
-    name: ally_team-19550105
+    name: 装甲列車
     guns: "1"
     enemy_team_id: 9550105
     ai: 103;1;103

@@ -41128,7 +41128,7 @@
     use_building: 572010|574010
     use_building_skill: "571011,571012,571013,571111,571112,571113,571001|571011,571012,571013,571111,571112,571113,571001"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570001
+    team_confrontfun_des: パフォーマンスする時、緊張している場合でもスコアは下がらず、逆に50%上昇する。
   }
   {
     id: 570002
@@ -41137,7 +41137,7 @@
     use_building: 572020|574020
     use_building_skill: "571021,571022,571023,571121,571122,571123,571002|571021,571022,571023,571121,571122,571123,571002"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570002
+    team_confrontfun_des: パフォーマンスする時、周囲3マス範囲内の、士気が高まっている相手を緊張させる。
   }
   {
     id: 570003
@@ -41146,7 +41146,7 @@
     use_building: 572030|574030
     use_building_skill: "571031,571032,571033,571131,571132,571133,571003|571031,571032,571033,571131,571132,571133,571003"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570003
+    team_confrontfun_des: パフォーマンス後、自身の士気を高める。
   }
   {
     id: 570004
@@ -41155,7 +41155,7 @@
     use_building: 573010|574040
     use_building_skill: "571041,571042,571043,571141,571142,571143,571003|571041,571042,571043,571141,571142,571143,571004"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570004
+    team_confrontfun_des: パフォーマンスする時、士気が高まっている場合、その効果が100%になる。
   }
   {
     id: 570005
@@ -41164,7 +41164,7 @@
     use_building: 573020|574050
     use_building_skill: "571051,571052,571053,571151,571152,571153,571001|571051,571052,571053,571151,571152,571153,571005"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570005
+    team_confrontfun_des: パフォーマンスする時、周囲2マス範囲内の相手を緊張させる。
   }
   {
     id: 570006
@@ -41173,7 +41173,7 @@
     use_building: 573030|574060
     use_building_skill: "571061,571062,571063,571161,571162,571163,571002|571061,571062,571063,571161,571162,571163,571006"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570006
+    team_confrontfun_des: パフォーマンスする時、周囲2マス範囲内の、緊張していない味方の士気を高める。
   }
   {
     id: 570007
@@ -41182,7 +41182,7 @@
     use_building: 573040|574070
     use_building_skill: "571071,571072,571073,571171,571172,571173,571004|571071,571072,571073,571171,571172,571173,571007"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570007
+    team_confrontfun_des: パフォーマンスする時、Feverモード中の場合、追加で獲得スコアが50%上昇する。
   }
   {
     id: 570008
@@ -41191,7 +41191,7 @@
     use_building: "574080"
     use_building_skill: "571081,571082,571083,571181,571182,571183"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-10570008
+    team_confrontfun_des: 毎ターンパフォーマンスを行い、テンションの変化を受けない。
   }
   {
     id: 570501
@@ -41232,7 +41232,7 @@
     if_stay: 1
     limit_guns: "1038"
     team_confrontfun_pic: spe_tip
-    team_confrontfun_des: enemy_team-10570506
+    team_confrontfun_des: 追加で応援ポイントがドロップ
   }
   {
     id: 570507
@@ -41242,7 +41242,7 @@
     if_stay: 1
     limit_guns: "1038"
     team_confrontfun_pic: spe_tip
-    team_confrontfun_des: enemy_team-10570507
+    team_confrontfun_des: 追加で応援ポイントがドロップ
   }
   {
     id: 570508
@@ -41252,7 +41252,7 @@
     if_stay: 1
     limit_guns: "1038"
     team_confrontfun_pic: spe_tip
-    team_confrontfun_des: enemy_team-10570508
+    team_confrontfun_des: 追加で応援ポイントがドロップ
   }
   {
     id: 570601
@@ -41398,7 +41398,7 @@
     if_stay: 1
     limit_guns: "1039"
     team_confrontfun_pic: spe_tip
-    team_confrontfun_des: enemy_team-10570619
+    team_confrontfun_des: 追加で応援ポイントがドロップ
   }
   {
     id: 570620
@@ -41408,7 +41408,7 @@
     if_stay: 1
     limit_guns: "1039"
     team_confrontfun_pic: spe_tip
-    team_confrontfun_des: enemy_team-10570620
+    team_confrontfun_des: 追加で応援ポイントがドロップ
   }
   {
     id: 575001
@@ -46936,7 +46936,7 @@
     enemy_leader: 15008
     if_stay: 1
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16003002
+    team_confrontfun_des: この敵を倒すと、戦場効果「リーダーの風」を獲得できます
     targettrain_cancollect: 1
   }
   {
