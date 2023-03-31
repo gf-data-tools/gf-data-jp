@@ -12647,10 +12647,11 @@
     "fight_environment_group": "", "environment_transform_config": ""
   }, {
     "id": 10516, "duplicate_type": 0, "coin_type": 0, "campaign": -41, "sub": 8, "if_emergency": -1, "endless_mode": 0, 
-    "special_type": 0, "name": "枯草熱\nEX", "difficulty": 18000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 2, 
-    "win_turn": 0, "win_spot_id": "0", "special_spot_id": "", "expect_enemy_die_num": 0, "expect_gun_die_num": 0, 
-    "expect_turn": 10, "boss_team_id": "1", "turn_duration": 360000000, "costbp": 0, "getcoin": "", "getcoin_parameter": "", 
-    "coin_ap": 0, "turn_limit": 9, "limit_gun_pool": "317,209,300", "limit_team": "0", 
+    "special_type": 0, "name": "枯草熱\nEX|区域A|区域B|区域C|区域D|区域E|区域F|区域G|区域H|区域I|区域J|区域K|区域L", 
+    "difficulty": 18000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 2, "win_turn": 0, "win_spot_id": "0", 
+    "special_spot_id": "", "expect_enemy_die_num": 0, "expect_gun_die_num": 0, "expect_turn": 10, "boss_team_id": "1", 
+    "turn_duration": 360000000, "costbp": 0, "getcoin": "", "getcoin_parameter": "", "coin_ap": 0, "turn_limit": 9, 
+    "limit_gun_pool": "317,209,300", "limit_team": "0", 
     "map_res_name": "OPS53_Y;OPS52_Y;OPS50_Y;OPS53_Y;OPS50_Y;OPS50_Y;OPS50_Y;OPS53_Y;Chapter5_Y;OPS50_Y;OPS50_Y;BloodNetwork_Y", 
     "map_information": "7000,6000|5000,3450|200,0;9000,8000|5000,3050|9700,8200;15000,15000|5000,2800|-2900,-450;7000,6000|4000,3450|1500,0;9000,9000|4200,3100|-2000,1550;10000,10000|3550,2000|-1800,1500;10000,10000|3550,2000|-1900,1500;7000,6000|5000,2800|-900,400;14000,12000|5000,3250|-3600,-3900;15000,15000|5000,2800|-2900,0;12000,12000|5000,2800|-2500,1600;11000,11000|3300,5400|3800,-1400", 
     "is_hide": 0, "is_snow": "0;0;0;0;0;0;0;0;0;0;0;0", "adaptive_gun": "", 
@@ -14950,8 +14951,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44001, "branch_next_mission_id": "0", "win_type": "3,6", "medal_type_silver": "1063301", 
     "drop_item_count": "", "difficulty_recommend": "3500;35", "difficulty_recommend_addendum": "mission-30010633", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010633", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10634, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 3, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 1, "name": "アパテの誕生Ⅱ", "difficulty": 3500, "exp_parameter": 28, "type": "3", "enemy_ai_type": 4, 
@@ -15007,8 +15009,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44004, "branch_next_mission_id": "0", "win_type": "1063601", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "4500;45", "difficulty_recommend_addendum": "mission-30010636", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010636", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10637, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 6, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "テセウスの船Ⅱ", "difficulty": 5000, "exp_parameter": 32, "type": "3", "enemy_ai_type": 4, 
@@ -15046,8 +15049,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44006, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "5000;50", "difficulty_recommend_addendum": "mission-30010638", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010638", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10639, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 8, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "クレタの迷宮Ⅱ", "difficulty": 5500, "exp_parameter": 33, "type": "3", "enemy_ai_type": 4, 
@@ -15065,8 +15069,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44007, "branch_next_mission_id": "0", "win_type": "1063901", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "5500;55", "difficulty_recommend_addendum": "mission-30010639", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010639", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10640, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 9, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "ディーア島の夢境Ⅱ", "difficulty": 6000, "exp_parameter": 35, "type": "3", "enemy_ai_type": 4, 
@@ -15161,8 +15166,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44012, "branch_next_mission_id": "0", "win_type": "", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "8000;70", "difficulty_recommend_addendum": "mission-30010644", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010644", "win_step": "1064401", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "1064401", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10645, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 14, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "ニュクスの夜Ⅲ", "difficulty": 10000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -15180,8 +15186,8 @@
     "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", "mapped_mission_id": 44013, 
     "branch_next_mission_id": "0", "win_type": "", "medal_type_silver": "", "drop_item_count": "", 
     "difficulty_recommend": "10000;75", "difficulty_recommend_addendum": "mission-30010645", "limit_sangvis": 0, 
-    "mission_tip": "mission-40010645", "win_step": "1064501", "event_score": "", "score_prize": "", "drop_key_info": "", 
-    "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "1064501", "event_score": "", "score_prize": "", 
+    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
   }, {
     "id": 10646, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 15, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "ヒュプノスの眼Ⅱ", "difficulty": 10000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -15199,8 +15205,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44014, "branch_next_mission_id": "0", "win_type": "", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "10000;75", "difficulty_recommend_addendum": "mission-30010646", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010646", "win_step": "1064601", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "1064601", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10647, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 16, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "タナトスの接吻Ⅱ", "difficulty": 11600, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -15218,8 +15225,8 @@
     "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", "mapped_mission_id": 44015, 
     "branch_next_mission_id": "0", "win_type": "1064701", "medal_type_silver": "", "drop_item_count": "", 
     "difficulty_recommend": "11600;80", "difficulty_recommend_addendum": "mission-30010647", "limit_sangvis": 0, 
-    "mission_tip": "mission-40010647", "win_step": "", "event_score": "", "score_prize": "", "drop_key_info": "", 
-    "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", "score_prize": "", 
+    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
   }, {
     "id": 10648, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 17, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 1, "name": "カオスの深淵Ⅱ", "difficulty": 11600, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -15314,8 +15321,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44004, "branch_next_mission_id": "0", "win_type": "1065201", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "28000;99", "difficulty_recommend_addendum": "mission-30010652", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010652", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10653, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 22, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "テセウスの船Ⅱ-EX", "difficulty": 30000, "exp_parameter": 53, "type": "3", "enemy_ai_type": 4, 
@@ -15353,8 +15361,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44006, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "30000;99", "difficulty_recommend_addendum": "mission-30010654", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010654", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10655, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 24, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "クレタの迷宮Ⅱ-EX", "difficulty": 32000, "exp_parameter": 54, "type": "3", "enemy_ai_type": 4, 
@@ -15372,8 +15381,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44007, "branch_next_mission_id": "0", "win_type": "1063901", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "32000;99", "difficulty_recommend_addendum": "mission-30010655", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010655", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10656, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 25, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "ディーア島の夢境Ⅱ-EX", "difficulty": 32000, "exp_parameter": 54, "type": "3", 
@@ -15508,8 +15518,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44014, "branch_next_mission_id": "0", "win_type": "", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "38000;99", "difficulty_recommend_addendum": "mission-30010662", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010662", "win_step": "1066201", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "1066201", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10663, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 32, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "タナトスの接吻Ⅱ-EX", "difficulty": 40000, "exp_parameter": 50, "type": "3", 
@@ -15782,8 +15793,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44017, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "4500;45", "difficulty_recommend_addendum": "mission-30010676", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010676", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10677, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 46, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "現実界∞-EX", "difficulty": 28000, "exp_parameter": 52, "type": "3", "enemy_ai_type": 4, 
@@ -15801,8 +15813,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44017, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "28000;99", "difficulty_recommend_addendum": "mission-30010677", 
-    "limit_sangvis": 0, "mission_tip": "mission-40010677", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 0, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10678, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 47, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "想像界∞", "difficulty": 6000, "exp_parameter": 35, "type": "3", "enemy_ai_type": 4, 
@@ -15858,8 +15871,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44019, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "8000;70", "difficulty_recommend_addendum": "mission-30010680", 
-    "limit_sangvis": 4, "mission_tip": "mission-40010680", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 4, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10681, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 50, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "象徴界∞-EX", "difficulty": 36000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -15896,8 +15910,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44020, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "11600;80", "difficulty_recommend_addendum": "mission-30010682", 
-    "limit_sangvis": 4, "mission_tip": "mission-40010682", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 4, "mission_tip": "おすすめの部隊編成：基本狙撃編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10683, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 52, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "凝視∞-EX", "difficulty": 40000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -15915,8 +15930,9 @@
     "close_mission_control": "0", "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", 
     "mapped_mission_id": 44020, "branch_next_mission_id": "0", "win_type": "1", "medal_type_silver": "", 
     "drop_item_count": "", "difficulty_recommend": "40000;99", "difficulty_recommend_addendum": "mission-30010683", 
-    "limit_sangvis": 4, "mission_tip": "mission-40010683", "win_step": "", "event_score": "", "score_prize": "", 
-    "drop_key_info": "", "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
+    "limit_sangvis": 4, "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "", "event_score": "", 
+    "score_prize": "", "drop_key_info": "", "lose_type": "", "fight_environment_group": "", 
+    "environment_transform_config": ""
   }, {
     "id": 10685, "duplicate_type": 0, "coin_type": 0, "campaign": -44, "sub": 54, "if_emergency": -1, "endless_mode": 0, 
     "special_type": 0, "name": "粟粒の音Ⅱ", "difficulty": 25000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
@@ -20959,22 +20975,22 @@
     "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""
   }, {
     "id": 10956, "duplicate_type": 0, "coin_type": 0, "campaign": -41, "sub": 76, "if_emergency": -1, "endless_mode": 0, 
-    "special_type": 0, "name": "枯草熱⑦", "difficulty": 6000, "exp_parameter": 50, "type": "3", "enemy_ai_type": 4, 
-    "win_turn": 0, "win_spot_id": "0", "special_spot_id": "", "expect_enemy_die_num": 0, "expect_gun_die_num": 0, 
-    "expect_turn": 10, "boss_team_id": "1", "turn_duration": 360000000, "costbp": 0, "getcoin": "", "getcoin_parameter": "", 
-    "coin_ap": 0, "turn_limit": 0, "limit_gun_pool": "317,209,300", "limit_team": "0", "map_res_name": "OPS50_Y;OPS50_Y", 
-    "map_information": "20000,20000|4000,4000|0,0;20000,20000|4000,4000|0,0", "is_hide": 0, "is_snow": "0", 
-    "adaptive_gun": "", "fog_length": "0,500;0,500", "fog_color": "#000000FF;#000000FF", "limit_equip_pool": "0", 
-    "draw_event_s_id": "303", "support_available": 0, "enemy_quickmove": 0, "expect_defend_line_turn": 0, 
-    "expect_hostage_num": "", "title_logo": "", "random_line_spot": "", "order": 0, "reinforce_ally_team": "", 
-    "reinforce_ally_turn": 0, "reinforce_ally_spot": "", "ally_boss_team_id": "", "ally_code": "", "supply_parameter": "", 
-    "drop_mission_key": "0,0,1051105:1", "close_missions": "", "mission_group_id": 14, "mission_group_draw_event": "", 
-    "open_mission_keys": "1053000:1", "mission_describe": "mission-20010956", "force_type": "0", 
-    "round_config": "1:1,2:2,3:3", "color_change_type": "0", "color_change_number": "0", "color_change_result": "0", 
-    "spot_reset": "0", "draw_code": "", "reset_drop_key_once": 0, "close_mission_control": "0", "limit_squad": 0, 
-    "open_mission_items": "", "drop_mission_item": "", "mapped_mission_id": 0, "branch_next_mission_id": "0", "win_type": "", 
-    "medal_type_silver": "", "drop_item_count": "", "difficulty_recommend": "6000;50", 
-    "difficulty_recommend_addendum": "mission-30010956", "limit_sangvis": -1, 
+    "special_type": 0, "name": "枯草熱⑦|工場上層部|工場下層部", "difficulty": 6000, "exp_parameter": 50, "type": "3", 
+    "enemy_ai_type": 4, "win_turn": 0, "win_spot_id": "0", "special_spot_id": "", "expect_enemy_die_num": 0, 
+    "expect_gun_die_num": 0, "expect_turn": 10, "boss_team_id": "1", "turn_duration": 360000000, "costbp": 0, "getcoin": "", 
+    "getcoin_parameter": "", "coin_ap": 0, "turn_limit": 0, "limit_gun_pool": "317,209,300", "limit_team": "0", 
+    "map_res_name": "OPS50_Y;OPS50_Y", "map_information": "20000,20000|4000,4000|0,0;20000,20000|4000,4000|0,0", 
+    "is_hide": 0, "is_snow": "0", "adaptive_gun": "", "fog_length": "0,500;0,500", "fog_color": "#000000FF;#000000FF", 
+    "limit_equip_pool": "0", "draw_event_s_id": "303", "support_available": 0, "enemy_quickmove": 0, 
+    "expect_defend_line_turn": 0, "expect_hostage_num": "", "title_logo": "", "random_line_spot": "", "order": 0, 
+    "reinforce_ally_team": "", "reinforce_ally_turn": 0, "reinforce_ally_spot": "", "ally_boss_team_id": "", "ally_code": "", 
+    "supply_parameter": "", "drop_mission_key": "0,0,1051105:1", "close_missions": "", "mission_group_id": 14, 
+    "mission_group_draw_event": "", "open_mission_keys": "1053000:1", "mission_describe": "mission-20010956", 
+    "force_type": "0", "round_config": "1:1,2:2,3:3", "color_change_type": "0", "color_change_number": "0", 
+    "color_change_result": "0", "spot_reset": "0", "draw_code": "", "reset_drop_key_once": 0, "close_mission_control": "0", 
+    "limit_squad": 0, "open_mission_items": "", "drop_mission_item": "", "mapped_mission_id": 0, 
+    "branch_next_mission_id": "0", "win_type": "", "medal_type_silver": "", "drop_item_count": "", 
+    "difficulty_recommend": "6000;50", "difficulty_recommend_addendum": "mission-30010956", "limit_sangvis": -1, 
     "mission_tip": "おすすめの部隊編成：高速混合編成", "win_step": "64102061", "event_score": "", "score_prize": "", 
     "drop_key_info": "1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1", 
     "lose_type": "", "fight_environment_group": "", "environment_transform_config": ""

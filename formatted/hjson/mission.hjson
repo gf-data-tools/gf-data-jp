@@ -20823,7 +20823,7 @@
     name:
       '''
       枯草熱
-      EX
+      EX|区域A|区域B|区域C|区域D|区域E|区域F|区域G|区域H|区域I|区域J|区域K|区域L
       '''
     difficulty: 18000
     exp_parameter: 50
@@ -24162,7 +24162,7 @@
     medal_type_silver: "1063301"
     difficulty_recommend: 3500;35
     difficulty_recommend_addendum: mission-30010633
-    mission_tip: mission-40010633
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10634
@@ -24262,7 +24262,7 @@
     win_type: "1063601"
     difficulty_recommend: 4500;45
     difficulty_recommend_addendum: mission-30010636
-    mission_tip: mission-40010636
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10637
@@ -24326,7 +24326,7 @@
     win_type: "1"
     difficulty_recommend: 5000;50
     difficulty_recommend_addendum: mission-30010638
-    mission_tip: mission-40010638
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10639
@@ -24358,7 +24358,7 @@
     win_type: "1063901"
     difficulty_recommend: 5500;55
     difficulty_recommend_addendum: mission-30010639
-    mission_tip: mission-40010639
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10640
@@ -24519,7 +24519,7 @@
     mapped_mission_id: 44012
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010644
-    mission_tip: mission-40010644
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "1064401"
   }
   {
@@ -24550,7 +24550,7 @@
     mapped_mission_id: 44013
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010645
-    mission_tip: mission-40010645
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "1064501"
   }
   {
@@ -24581,7 +24581,7 @@
     mapped_mission_id: 44014
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010646
-    mission_tip: mission-40010646
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "1064601"
   }
   {
@@ -24614,7 +24614,7 @@
     win_type: "1064701"
     difficulty_recommend: 11600;80
     difficulty_recommend_addendum: mission-30010647
-    mission_tip: mission-40010647
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10648
@@ -24781,7 +24781,7 @@
     win_type: "1065201"
     difficulty_recommend: 28000;99
     difficulty_recommend_addendum: mission-30010652
-    mission_tip: mission-40010652
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10653
@@ -24845,7 +24845,7 @@
     win_type: "1"
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: mission-30010654
-    mission_tip: mission-40010654
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10655
@@ -24877,7 +24877,7 @@
     win_type: "1063901"
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: mission-30010655
-    mission_tip: mission-40010655
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10656
@@ -25106,7 +25106,7 @@
     mapped_mission_id: 44014
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: mission-30010662
-    mission_tip: mission-40010662
+    mission_tip: おすすめの部隊編成：高速混合編成
     win_step: "1066201"
   }
   {
@@ -25551,7 +25551,7 @@
     win_type: "1"
     difficulty_recommend: 4500;45
     difficulty_recommend_addendum: mission-30010676
-    mission_tip: mission-40010676
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10677
@@ -25583,7 +25583,7 @@
     win_type: "1"
     difficulty_recommend: 28000;99
     difficulty_recommend_addendum: mission-30010677
-    mission_tip: mission-40010677
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10678
@@ -25679,7 +25679,7 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010680
     limit_sangvis: 4
-    mission_tip: mission-40010680
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10681
@@ -25743,7 +25743,7 @@
     difficulty_recommend: 11600;80
     difficulty_recommend_addendum: mission-30010682
     limit_sangvis: 4
-    mission_tip: mission-40010682
+    mission_tip: おすすめの部隊編成：基本狙撃編成
   }
   {
     id: 10683
@@ -25775,7 +25775,7 @@
     difficulty_recommend: 40000;99
     difficulty_recommend_addendum: mission-30010683
     limit_sangvis: 4
-    mission_tip: mission-40010683
+    mission_tip: おすすめの部隊編成：高速混合編成
   }
   {
     id: 10685
@@ -33275,7 +33275,7 @@
     campaign: -41
     sub: 76
     if_emergency: -1
-    name: 枯草熱⑦
+    name: 枯草熱⑦|工場上層部|工場下層部
     difficulty: 6000
     exp_parameter: 50
     type: "3"
