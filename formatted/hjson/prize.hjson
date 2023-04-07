@@ -21435,95 +21435,95 @@
     id: 10086
     name: イベント報酬
     ammo: 200
-    item_ids: 110021-20
+    item_ids: 110022-20
     content: prize-20010086
   }
   {
     id: 10087
     name: イベント報酬
     mre: 200
-    item_ids: 110021-30
+    item_ids: 110022-30
     content: prize-20010087
   }
   {
     id: 10088
     name: イベント報酬
     part: 100
-    item_ids: 110021-50
+    item_ids: 110022-50
     content: prize-20010088
   }
   {
     id: 10089
     name: イベント報酬
     part: 200
-    item_ids: 110021-100
+    item_ids: 110022-100
     content: prize-20010089
   }
   {
     id: 10090
     name: イベント報酬
     part: 300
-    item_ids: 110021-150
+    item_ids: 110022-150
     content: prize-20010090
   }
   {
     id: 10091
     name: イベント報酬
     mp: 100
-    item_ids: 110021-10
+    item_ids: 110022-10
     content: prize-20010091
   }
   {
     id: 10092
     name: イベント報酬
     part: 100
-    item_ids: 110021-30
+    item_ids: 110022-30
     content: prize-20010092
   }
   {
     id: 10093
     name: イベント報酬
     ammo: 200
-    item_ids: 110021-10
+    item_ids: 110022-10
     content: prize-20010093
   }
   {
     id: 10094
     name: イベント報酬
     mre: 200
-    item_ids: 110021-20
+    item_ids: 110022-20
     content: prize-20010094
   }
   {
     id: 10095
     name: イベント報酬
-    item_ids: 1-10,110021-200
+    item_ids: 1-10,110022-200
     content: prize-20010095
   }
   {
     id: 10096
     name: イベント報酬
     part: 100
-    item_ids: 110021-30
+    item_ids: 110022-30
     content: prize-20010096
   }
   {
     id: 10097
     name: イベント報酬
     part: 200
-    item_ids: 110021-50
+    item_ids: 110022-50
     content: prize-20010097
   }
   {
     id: 10098
     name: イベント報酬
-    item_ids: 41-20,110021-50
+    item_ids: 41-20,110022-50
     content: prize-20010098
   }
   {
     id: 10099
     name: イベント報酬
-    item_ids: 45-200,110021-200
+    item_ids: 45-200,110022-200
     content: prize-20010099
   }
   {
@@ -21567,7 +21567,7 @@
   {
     id: 10105
     name: 活躍報酬
-    gift: 6809-1,100003-10
+    gift: 595-1,100003-10
     content: prize-20010105
     icon: Bumdle_bline
   }
@@ -21611,13 +21611,13 @@
   {
     id: 10111
     name: イベント報酬
-    item_ids: 110021-200,45-200
+    item_ids: 110022-200,45-200
     content: prize-20010111
   }
   {
     id: 10112
     name: イベント報酬
-    item_ids: 110021-100,45-100
+    item_ids: 110022-100,45-100
     content: prize-20010112
   }
   {
@@ -25770,6 +25770,12 @@
     name: prize-10012614
     furniture: "2052"
     content: prize-20012614
+  }
+  {
+    id: 12615
+    name: prize-10012615
+    furniture: "2056"
+    content: prize-20012615
   }
   {
     id: 14101

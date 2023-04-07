@@ -1377,7 +1377,7 @@ DEPLOYMENT,30277,During Combat Simulation//c pausing and other actions are disab
 DEPLOYMENT,30278,After capturing//c nodes up to <color=#ffb400ff>{0}</color> nodes away will be visible.//nDeployment and resupply are unavailable at this node.,,0
 DEPLOYMENT,30279,Echelon {0},,0
 DEPLOYMENT,30280,A change has occurred to the target. The plan is interrupted!,,0
-DEPLOYMENT,30281,Restart //nBattle,,0
+DEPLOYMENT,30281,重新作战(todo),,0
 DEPLOYMENT,30282,Restarting battle will//n<color=#c13939>forfeit current progress//nand any carried ammo and rations.</color>//nThe battle will restart from <color=#c13939>the beginning</color>.,,0
 DEPLOYMENT,30283,Confirm to restart battle?,,0
 DEPLOYMENT,30284,Capture ,,0
@@ -2194,7 +2194,7 @@ FACTORY,32067,Not enough T-Dolls are selected to provide enhancement. Continue a
 FACTORY,32068,This Echelon contains non-idle T-Dolls//c unable to edit Echelon!,,0
 FACTORY,32069,T-Dolls' stats will increase when they reach 90 and above Affection.,,0
 FACTORY,32070,T-Doll's stats will increase further when they reach 140 and above Affection.,,0
-FACTORY,32071,You can perform Oath when the T-Doll's Affection reaches 100. The upper limit of Affection will increase and repair times will decrease by 30%.,,0
+FACTORY,32071,好感度达到100，可以与该人形缔结誓约；缔结誓约之后，好感度上限将会提高，同时修理时间将减少30%(todo),,0
 FACTORY,32072,Confirm to recall the memory of the Oath?,,0
 FACTORY,32073,Cannot perform Oath in current status!,,0
 FACTORY,32074,Oath is enabled when Affection reaches 100.,,0
@@ -4665,7 +4665,7 @@ OTHER,100061,Unable to move in opposite direction,,0
 OTHER,100062,The page will be unlocked after ,,0
 OTHER,100063,The selected T-Doll has reached the maximum enhancement.,,0
 OTHER,100064,Confirm to use ,,0
-OTHER,100065,Confirm to use 1 Oath Certificate to carry out Oath?,,0
+OTHER,100065,确认使用1个誓约之证缔结誓约吗？(todo),,0
 OTHER,100066,Confirm to purchase?,,0
 OTHER,100067, Currently not in dormitory. Commander//c costumes need to be given personally~,,0
 OTHER,100068,-star T-Doll//c the weapon used is ,,0
@@ -5046,7 +5046,7 @@ GUIDE,140085,Cafe is the place to be for T-Dolls to relax and chat. You can lear
 GUIDE,140086,Press the <color=#FFB400FF>Gramophone</color> to select and view your T-Dolls' stories under a specific subject of your choice.,,0
 GUIDE,140087,You can view handwritten notes from T-Dolls in the notebook to the left side of counter.,,0
 GUIDE,140088,Press the file folder on the bottom right corner of the notebook to view your collection rewards. You can receive rewards through unlocking costume stories.,,0
-GUIDE,140089,Units in <color=#FF0000FF>red</color> are enemy forces like the Sangvis Ferri. //n Units in <color=#FFC33EFF>yellow</color> are neutral forces. They attack both us and the S.F. forces.,,0
+GUIDE,140089,呈现<color=#FF0000FF>红色</color>的为敌对势力。请注意，现在的他们和铁血没有什么区别。//n呈现<color=#FFC33EFF>黄色</color>的为中立势力。此时我方和铁血均为他们的攻击目标。(todo),,0
 GUIDE,140090,Echelon members have not equipped Night Battle Equipment or AP Ammo,,0
 GUIDE,140091,Commander//c the entrance to the T-Dolls' Memoirs is here.,,0
 GUIDE,140092,The progress in viewing the T-Doll's story can be viewed here.,,0

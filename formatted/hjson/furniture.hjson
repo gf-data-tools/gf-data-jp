@@ -27684,6 +27684,21 @@
     rotate: "3"
   }
   {
+    id: 30595
+    name: アンティーク蒐集家
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: リベレーターのポスター。
+    code: poster_AprilFool2023_Liberator
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30601
     name: 二人の旅路
     classes: 300

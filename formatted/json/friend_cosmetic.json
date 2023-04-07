@@ -2249,19 +2249,19 @@
     "skin": 4310, "is_live2d": 0, "filter_type": "4", "frame_id": 200005, "logo_code": ""
   }, {
     "id": 611, "item_id": 1611, "sub_type": 1, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 200, "item_ids": "508-5000", 
-    "onsale": 0, "in_gasha": 0, "code": "profilePic_M950A_2020WhiteV", "order": 1, "rarity": 5, "decompose_gift": "", 
+    "onsale": 1, "in_gasha": 0, "code": "profilePic_M950A_2020WhiteV", "order": 1, "rarity": 5, "decompose_gift": "", 
     "skin": 0, "is_live2d": 0, "filter_type": "1", "frame_id": 200005, "logo_code": "logo_whiteV_B"
   }, {
     "id": 612, "item_id": 1612, "sub_type": 1, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 200, "item_ids": "508-5000", 
-    "onsale": 0, "in_gasha": 0, "code": "profilePic_LOGO_2020WhiteV", "order": 1, "rarity": 5, "decompose_gift": "", 
+    "onsale": 1, "in_gasha": 0, "code": "profilePic_LOGO_2020WhiteV", "order": 1, "rarity": 5, "decompose_gift": "", 
     "skin": 0, "is_live2d": 0, "filter_type": "1", "frame_id": 200005, "logo_code": "logo_whiteV_B"
   }, {
     "id": 613, "item_id": 1613, "sub_type": 2, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 400, "item_ids": "508-10000", 
-    "onsale": 0, "in_gasha": 0, "code": "card_2020WhiteV", "order": 1, "rarity": 5, "decompose_gift": "", "skin": 0, 
+    "onsale": 1, "in_gasha": 0, "code": "card_2020WhiteV", "order": 1, "rarity": 5, "decompose_gift": "", "skin": 0, 
     "is_live2d": 0, "filter_type": "1", "frame_id": 0, "logo_code": ""
   }, {
     "id": 614, "item_id": 1614, "sub_type": 3, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 600, "item_ids": "508-15000", 
-    "onsale": 0, "in_gasha": 0, "code": "cg_2020WhiteV", "order": 1, "rarity": 10, "decompose_gift": "", "skin": 0, 
+    "onsale": 1, "in_gasha": 0, "code": "cg_2020WhiteV", "order": 1, "rarity": 10, "decompose_gift": "", "skin": 0, 
     "is_live2d": 0, "filter_type": "1", "frame_id": 0, "logo_code": ""
   }, {
     "id": 616, "item_id": 1616, "sub_type": 1, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 0, "item_ids": "", 
@@ -4107,6 +4107,10 @@
     "id": 1259, "item_id": 2259, "sub_type": 3, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 0, "item_ids": "", 
     "onsale": 0, "in_gasha": 0, "code": "cg_SagaActivity2023_02", "order": 1, "rarity": 5, "decompose_gift": "", "skin": 0, 
     "is_live2d": 0, "filter_type": "1", "frame_id": 0, "logo_code": ""
+  }, {
+    "id": 1279, "item_id": 2279, "sub_type": 1, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 160, "item_ids": "508-4000", 
+    "onsale": 1, "in_gasha": 0, "code": "profilePic_AprilFool2023_Liberator", "order": 1, "rarity": 5, "decompose_gift": "", 
+    "skin": 595, "is_live2d": 0, "filter_type": "", "frame_id": 0, "logo_code": ""
   }, {
     "id": 100001, "item_id": 200001, "sub_type": 4, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "gem": 0, "item_ids": "", 
     "onsale": 0, "in_gasha": 0, "code": "profileFrame_sr_gun", "order": 1, "rarity": 5, "decompose_gift": "", "skin": 0, 

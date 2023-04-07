@@ -7467,6 +7467,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_M950A_2020WhiteV
     order: 1
     rarity: 5
@@ -7480,6 +7481,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_LOGO_2020WhiteV
     order: 1
     rarity: 5
@@ -7493,6 +7495,7 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: card_2020WhiteV
     order: 1
     rarity: 5
@@ -7504,6 +7507,7 @@
     sub_type: 3
     gem: 600
     item_ids: 508-15000
+    onsale: 1
     code: cg_2020WhiteV
     order: 1
     rarity: 10
@@ -13213,6 +13217,18 @@
     order: 1
     rarity: 5
     filter_type: "1"
+  }
+  {
+    id: 1279
+    item_id: 2279
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_AprilFool2023_Liberator
+    order: 1
+    rarity: 5
+    skin: 595
   }
   {
     id: 100001
