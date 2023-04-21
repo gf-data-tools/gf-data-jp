@@ -1,0 +1,32 @@
+[
+  {
+    id: 1
+    name: 通常
+    code: com_war
+    desc: 通常戦闘
+  }
+  {
+    id: 2
+    name: 電子戦
+    code: ele_war
+    desc: 模擬戦闘。終了後、人形の状態は変化しない
+  }
+  {
+    id: 3
+    name: 防衛戦
+    code: 待定
+    desc: 一定時間もしくは一定の波数を耐え切れば勝利となる
+  }
+  {
+    id: 4
+    name: 狙撃線
+    code: 待定
+    desc: 目標を素早く倒し、勝利を得る
+  }
+  {
+    id: 5
+    name: 単体戦
+    code: 待定
+    desc: リンク1の状態で戦闘に臨む
+  }
+]

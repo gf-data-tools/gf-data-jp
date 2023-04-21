@@ -1,0 +1,36 @@
+[
+  {
+    id: 1
+    name: I.O.P.テクノロジー
+    des: 第三次世界大戦期に立てられた工業製造会社。戦争期間中に90wishのペルシカから技術面での支援を受け、戦術人形の生産を始めた。
+    camp_skill: "303"
+    passive_skill: "30320,30321"
+    color: "#C7E001FF"
+    code: MiniGameFlightChessCamp1
+  }
+  {
+    id: 2
+    name: スヴァローグ重工
+    des: 老舗の重工メーカー。軍需産業、エネルギー産業やインフラの整備等も行っており、スマートシティや新エネルギーの領域で多くの成果を出している。
+    camp_skill: "302"
+    color: "#00D9C1FF"
+    code: MiniGameFlightChessCamp2
+  }
+  {
+    id: 3
+    name: 16LABテクノロジー
+    des: IOPが資金を提供する新しい研究チーム。主要な研究対象は90wishが残した「ツェナープロトコル」。
+    camp_skill: "305"
+    passive_skill: "31002,31102,31202"
+    color: "#DFB801FF"
+    code: MiniGameFlightChessCamp3
+  }
+  {
+    id: 4
+    name: 鉄血工造
+    des: 正式名称を鉄血工業製造会社（SANGVIS FERRI）といい、老舗の工業メーカーである。第三次世界大戦が終わると、AIを利用して新世代の戦術人形を開発した。
+    camp_skill: "304"
+    color: "#E04900FF"
+    code: MiniGameFlightChessCamp4
+  }
+]

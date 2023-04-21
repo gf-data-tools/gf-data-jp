@@ -1,0 +1,146 @@
+[
+  {
+    id: 1
+    name: ハイスピード・ビューティ
+    code: PzB39andGrizzly
+    description: 火力号令によって自身とPzB39へ与える効果が、さらに10%上昇する。
+    gun_group: "96,180"
+    gun: 96
+    type: 1
+    skill1: 190101
+  }
+  {
+    id: 2
+    name: ハイスピード・ビューティ
+    code: PzB39andGrizzly
+    description: グリズリーと同じ部隊にいる場合、照準にかかる時間が1秒に短縮され、1秒ごとに行うチャージの回数が2回に増加する。
+    gun_group: "96,180"
+    gun: 180
+    type: 1
+    skill1: 190102
+    passive_skill: "190103"
+  }
+  {
+    id: 3
+    name: 銀河の誓い
+    code: AkalfaandM82
+    description: FI M82と同じ部隊にいる場合、FI M82の通常攻撃によって自身正面の敵ユニットへ与えるダメージが10％上昇する。
+    gun_group: "306,297"
+    gun: 306
+    type: 1
+  }
+  {
+    id: 4
+    name: 銀河の誓い
+    code: AkalfaandM82
+    description: 自身の正面をAK-Alfaの正面とも見なす。
+    gun_group: "306,297"
+    gun: 297
+    type: 1
+    normal_attack: 190201
+    passive_skill: "190202"
+  }
+  {
+    id: 5
+    name: いただきます！
+    code: g36andm1903
+    description:
+      '''
+      「続けられることが何よりの才能ですよ」
+      Gr G36とスプリングフィールドが同じ部隊にいる時、Gr G36が隊の仲間にデザートを振る舞い、士気を上げる。また、火力集中の効果が味方ユニットに適用される(効果は15%まで低下する)――食べ過ぎには注意してくださいね。
+      '''
+    gun_group: "64,36"
+    gun: 64
+    type: 1
+    skill1: 190302
+    passive_skill: "190301"
+  }
+  {
+    id: 6
+    name: いただきます！
+    code: g36andm1903
+    description:
+      '''
+      「コーヒーの調合には自信があるんですよ」
+      Gr G36とスプリングフィールドが同じ部隊にいる時、スプリングフィールドが隊の仲間にコーヒーを振る舞い、士気を上げる。また、チャージ回数が1回増えるたび、5秒間、味方全体の射速を5%上昇させる(最大5重まで累積)――砂糖の入れ過ぎにはご注意を。
+      '''
+    gun_group: "64,36"
+    gun: 36
+    type: 1
+    passive_skill: "190401"
+  }
+  {
+    id: 7
+    name: いただきます！
+    code: g36andm1903
+    description:
+      '''
+      「続けられることが何よりの才能ですよ」
+      Gr G36とスプリングフィールドが同じ部隊にいる時、Gr G36が隊の仲間にデザートを振る舞い、士気を上げる。また、火力集中の効果が味方ユニットに適用される(効果は15%まで低下する)――食べ過ぎには注意してくださいね。
+      '''
+    gun_group: "20064,36"
+    gun: 20064
+    type: 1
+    skill1: 190303
+    passive_skill: "190301"
+    active_trigger: "5"
+  }
+  {
+    id: 8
+    name: いただきます！
+    code: g36andm1903
+    gun_group: "20064,36"
+    gun: 36
+    type: 5
+    passive_skill: "190401"
+    active_trigger: "6"
+  }
+  {
+    id: 9
+    name: 融け合う光
+    code: MPKandMPL
+    description:
+      '''
+      MPKとMPLの距離が1マス以内の場合、味方に対するデメリット効果が働かなくなる。
+      MPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。
+      '''
+    gun_group: "363,364"
+    gun: 363
+    type: 1
+    dynamic_passive_skill: "119302,119303,119304,119305,119308,119309"
+  }
+  {
+    id: 10
+    name: 融け合う光
+    code: MPKandMPL
+    description:
+      '''
+      MPKとMPLの距離が1マス以内の場合、味方に対するデメリット効果が働かなくなる。
+      MPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。
+      '''
+    gun_group: "363,364"
+    gun: 364
+    type: 1
+    dynamic_passive_skill: "119203,119204,119205,119206,119207,119208,119209"
+  }
+  {
+    id: 11
+    name: 同じ光輝
+    code: SCAR_CON
+    description: SCAR-LとSCAR-Hが同時にいる場合、戦闘開始時、自身は月エネルギーを40ポイント獲得し、さらに1秒ごとに月エネルギーを4ポイント獲得する。
+    gun_group: "377,378"
+    gun: 377
+    type: 1
+    passive_skill: "119702,119706,119707"
+  }
+  {
+    id: 12
+    name: 同じ光輝
+    code: SCAR_CON
+    description: SCAR-LとSCAR-Hが同時にいる場合、戦闘開始時、自身は太陽エネルギーを40ポイント獲得し、さらに1秒ごとに太陽エネルギーを4ポイント獲得する。
+    gun_group: "377,378"
+    gun: 378
+    type: 1
+    passive_skill: "119602,119604,119606,119607,119608"
+  }
+]

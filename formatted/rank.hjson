@@ -1,0 +1,630 @@
+[
+  {
+    id: 1
+    name: rank-20000001
+    type: 1
+    refresh: month:1:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 2
+    name: rank-20000002
+    type: 2
+    sub_type: "1"
+    refresh: week:7:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 3
+    name: rank-20000003
+    type: 2
+    sub_type: "2"
+    refresh: week:7:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 4
+    name: rank-20000004
+    type: 2
+    sub_type: "3"
+    refresh: week:7:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 5
+    name: rank-20000005
+    type: 3
+    refresh: week:7:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 6
+    name: rank-20000006
+    type: 4
+    refresh: month:1:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 7
+    name: rank-20000007
+    type: 5
+    refresh: month:1:0
+    title: 毎日4時更新
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 8
+    name: イベントランキング
+    type: 6
+    sub_type: "10800"
+    refresh: end:2023-02-10 23:59:59
+    title: ＜回帰定理＞ポイントランキング(2023年2月24日報酬発給)
+    top_rewards: 1:40386,2:40387,3:40388,4:40389,5:40390,6:40391,7:40392,8:40393,9:40394,10:40395,100:40396
+    percentage_rewards: 5:40397,10:40398,15:40399,20:40400,30:40401,40:40402,50:40403,100:40404
+    visable_rank: 100
+    score_rewards: 600000:40405
+    ranking_onlist_number: 80000
+    visable_count: 100
+    rank_list_num: 1
+    begin_show_time: 2023-01-13 00:00:00
+    end_show_time: 2023-03-03 23:59:59
+    prize_preview: http://gfjp-cdn.sunborngame.com/banner/listAward.html
+  }
+  {
+    id: 101
+    name: rank-20000101
+    type: 101
+    refresh: test
+    top_rewards: 1:85101,2:85102,3:85103,4:85104,5:85105,6:85106,7:85107,8:85108,9:85109,10:85110,100:85111
+    percentage_rewards: 5:85112,10:85113,15:85114,20:85115,30:85116,40:85117,50:85118,100:85119
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 300
+  }
+  {
+    id: 102
+    name: rank-20000102
+    type: 102
+    refresh: test
+    visable_rank: 100
+    ranking_onlist_number: 120
+    visable_count: 300
+  }
+  {
+    id: 112
+    name: rank-20000112
+    type: 112
+    refresh: test
+    top_rewards: 1:85201,2:85202,3:85203,4:85204,5:85205,6:85206,7:85207,8:85208,9:85209,10:85210,100:85211
+    percentage_rewards: 5:85212,10:85213,15:85214,20:85215,30:85216,40:85217,50:85218,100:85219
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 300
+  }
+  {
+    id: 132
+    name: rank-20000132
+    type: 113
+    sub_type: "1708"
+    refresh: test
+    title: rank-10000132
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 133
+    name: rank-20000133
+    type: 113
+    sub_type: "1709"
+    refresh: test
+    title: rank-10000133
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 134
+    name: rank-20000134
+    type: 113
+    sub_type: "1710"
+    refresh: test
+    title: rank-10000134
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 135
+    name: rank-20000135
+    type: 114
+    sub_type: "1708"
+    refresh: test
+    title: rank-10000135
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 136
+    name: rank-20000136
+    type: 114
+    sub_type: "1709"
+    refresh: test
+    title: rank-10000136
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 137
+    name: rank-20000137
+    type: 114
+    sub_type: "1710"
+    refresh: test
+    title: rank-10000137
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 138
+    name: rank-20000138
+    type: 113
+    sub_type: "1711"
+    refresh: test
+    title: rank-10000138
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 139
+    name: rank-20000139
+    type: 113
+    sub_type: "1712"
+    refresh: test
+    title: rank-10000139
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 140
+    name: rank-20000140
+    type: 113
+    sub_type: "1713"
+    refresh: test
+    title: rank-10000140
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 141
+    name: rank-20000141
+    type: 114
+    sub_type: "1711"
+    refresh: test
+    title: rank-10000141
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 142
+    name: rank-20000142
+    type: 114
+    sub_type: "1712"
+    refresh: test
+    title: rank-10000142
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 143
+    name: rank-20000143
+    type: 114
+    sub_type: "1713"
+    refresh: test
+    title: rank-10000143
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 154
+    name: rank-20000154
+    type: 113
+    sub_type: "1720"
+    refresh: test
+    title: rank-10000154
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 155
+    name: rank-20000155
+    type: 113
+    sub_type: "1721"
+    refresh: test
+    title: rank-10000155
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 156
+    name: rank-20000156
+    type: 113
+    sub_type: "1722"
+    refresh: test
+    title: rank-10000156
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 157
+    name: rank-20000157
+    type: 114
+    sub_type: "1720"
+    refresh: test
+    title: rank-10000157
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 158
+    name: rank-20000158
+    type: 114
+    sub_type: "1721"
+    refresh: test
+    title: rank-10000158
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 159
+    name: rank-20000159
+    type: 114
+    sub_type: "1722"
+    refresh: test
+    title: rank-10000159
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 162
+    name: rank-20000162
+    type: 8
+    refresh: test
+    title: rank-10000162
+    visable_rank: 100
+    ranking_onlist_number: 20000
+    visable_count: 100
+  }
+  {
+    id: 163
+    name: rank-20000163
+    type: 113
+    sub_type: "1724"
+    refresh: test
+    title: rank-10000163
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 164
+    name: rank-20000164
+    type: 113
+    sub_type: "1725"
+    refresh: test
+    title: rank-10000164
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 165
+    name: rank-20000165
+    type: 113
+    sub_type: "1726"
+    refresh: test
+    title: rank-10000165
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 166
+    name: rank-20000166
+    type: 114
+    sub_type: "1724"
+    refresh: test
+    title: rank-10000166
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 167
+    name: rank-20000167
+    type: 114
+    sub_type: "1725"
+    refresh: test
+    title: rank-10000167
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 168
+    name: rank-20000168
+    type: 114
+    sub_type: "1726"
+    refresh: test
+    title: rank-10000168
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 169
+    name: rank-20000169
+    type: 113
+    sub_type: "1727"
+    refresh: test
+    title: rank-10000169
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 170
+    name: rank-20000170
+    type: 113
+    sub_type: "1728"
+    refresh: test
+    title: rank-10000170
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 171
+    name: rank-20000171
+    type: 113
+    sub_type: "1729"
+    refresh: test
+    title: rank-10000171
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 172
+    name: rank-20000172
+    type: 114
+    sub_type: "1727"
+    refresh: test
+    title: rank-10000172
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 173
+    name: rank-20000173
+    type: 114
+    sub_type: "1728"
+    refresh: test
+    title: rank-10000173
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 174
+    name: rank-20000174
+    type: 114
+    sub_type: "1729"
+    refresh: test
+    title: rank-10000174
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 175
+    name: rank-20000175
+    type: 113
+    sub_type: "1730"
+    refresh: test
+    title: rank-10000175
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 176
+    name: rank-20000176
+    type: 114
+    sub_type: "1730"
+    refresh: test
+    title: rank-10000176
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 178
+    name: rank-20000178
+    type: 113
+    sub_type: "1731"
+    refresh: test
+    title: rank-10000178
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 179
+    name: rank-20000179
+    type: 113
+    sub_type: "1732"
+    refresh: test
+    title: rank-10000179
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 180
+    name: rank-20000180
+    type: 113
+    sub_type: "1733"
+    refresh: test
+    title: rank-10000180
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 181
+    name: rank-20000181
+    type: 114
+    sub_type: "1731"
+    refresh: test
+    title: rank-10000181
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 182
+    name: rank-20000182
+    type: 114
+    sub_type: "1732"
+    refresh: test
+    title: rank-10000182
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 183
+    name: rank-20000183
+    type: 114
+    sub_type: "1733"
+    refresh: test
+    title: rank-10000183
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 184
+    name: rank-20000184
+    type: 113
+    sub_type: "1734"
+    refresh: test
+    title: rank-10000184
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 185
+    name: rank-20000185
+    type: 113
+    sub_type: "1735"
+    refresh: test
+    title: rank-10000185
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 186
+    name: rank-20000186
+    type: 113
+    sub_type: "1736"
+    refresh: test
+    title: rank-10000186
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 187
+    name: rank-20000187
+    type: 114
+    sub_type: "1734"
+    refresh: test
+    title: rank-10000187
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 188
+    name: rank-20000188
+    type: 114
+    sub_type: "1735"
+    refresh: test
+    title: rank-10000188
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 189
+    name: rank-20000189
+    type: 114
+    sub_type: "1736"
+    refresh: test
+    title: rank-10000189
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 1001
+    name: 佐賀応援ランキング
+    type: 1001
+    refresh: test
+    title: 毎日4時に更新されます
+    visable_rank: 10
+    ranking_onlist_number: 160000
+    visable_count: 300
+    begin_show_time: 2023-03-31 13:00:00
+    end_show_time: 2023-04-28 23:59:59
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    id: -14
+    name: グリフィン
+    code: Org_Griffin
+    title: グリフィン
+    ai: 9999
+    org_id: "101"
+    org_introduction: グリフォンが空高く舞うほど、各部門の連携がより重要となる。
+  }
+  {
+    id: -13
+    name: 指揮官
+    code: Org_Commander
+    title: 指揮官
+    ai: 9999
+    org_id: "10101"
+    org_introduction: 若きグリフォンの騎士。行く道先には多くの困難が待ち受けているが、騎士には多くの仲間たちがいる。
+  }
+  {
+    id: -12
+    name: マホロ
+    code: NPC_Maid
+    title: マホロ
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 緊急11-4をクリアで解放
+    mission_id: 114
+  }
+  {
+    id: -11
+    name: K
+    code: NPC_Jason
+    title: K
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 緊急11-4をクリアで解放
+    mission_id: 114
+    org_introduction: npc-39999989
+  }
+  {
+    id: -10
+    name: アンジェリア
+    code: NPC_Ange
+    title: アンジェリア
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通常10-1をクリアで解放
+    mission_id: 95
+    org_introduction: npc-39999990
+  }
+  {
+    id: -9
+    name: ハーヴェル
+    code: NPC_Havel
+    title: ハーヴェル
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通常9-2をクリアで解放
+    mission_id: 86
+    org_introduction: npc-39999991
+  }
+  {
+    id: -8
+    name: シーア
+    code: NPC_Seele
+    title: シーア
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 深層映写-認知混迷I をクリアで解放
+    mission_id: 10030
+    org_introduction: npc-39999992
+  }
+  {
+    id: -7
+    name: デール
+    code: NPC_Deele
+    title: デール
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 深層映写-認知混迷I をクリアで解放
+    mission_id: 10030
+    org_introduction: npc-39999993
+  }
+  {
+    id: -6
+    name: クルーガー
+    code: NPC_Kryuger
+    title: クルーガー
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通常5-2をクリアで解放
+    mission_id: 46
+    org_introduction: npc-39999994
+  }
+  {
+    id: -5
+    name: ペルシカ
+    code: NPC_Persica
+    title: ペルシカ
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通常2-4をクリアで解放
+    mission_id: 18
+    org_introduction: npc-39999995
+  }
+  {
+    id: -4
+    name: ヘリアン
+    code: NPC_Helianthus
+    title: ヘリアン
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通常1-2をクリアで解放
+    mission_id: 6
+    org_introduction: npc-39999996
+  }
+  {
+    id: -3
+    name: TGS
+    code: NPC_TGS0201
+    title: TGS
+    ai: 9999
+    org_introduction: npc-39999997
+  }
+  {
+    id: -2
+    name: T77
+    code: T77
+    title: T77
+    ai: 9999
+    voice_code: T77
+    org_introduction: npc-39999998
+  }
+  {
+    id: -1
+    name: カリーナ
+    code: NPC_Kalina
+    title: 後方幕僚
+    ai: 9999
+    is_adjutant: 1
+    org_id: "108,10103"
+    org_introduction: こと取引において、損をしたことがないと自負している後方幕僚。しかしなぜか、一人分の給料で二人分の働きをしている。
+  }
+]

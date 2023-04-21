@@ -1,0 +1,44 @@
+[
+  {
+    id: 1
+    name: ラフベリー.ベータ1
+    start_time: 2022-02-25 13:00:00
+    end_time: 2022-05-06 13:00:00
+    mission_id: 1
+  }
+  {
+    id: 2
+    name: コード0：アプシス
+    start_time: 2022-05-09 13:00:00
+    end_time: 2022-06-10 13:00:00
+    mission_id: 2
+  }
+  {
+    id: 3
+    name: コードI：侵蝕
+    start_time: 2022-06-24 13:00:00
+    end_time: 2022-09-02 13:00:00
+    mission_id: 3
+  }
+  {
+    id: 4
+    name: コードII：回折
+    start_time: 2022-09-16 13:00:00
+    end_time: 2022-11-18 13:00:00
+    mission_id: 1
+  }
+  {
+    id: 5
+    name: コードIII：モーメント
+    start_time: 2022-12-02 13:00:00
+    end_time: 2023-02-03 13:00:00
+    mission_id: 2
+  }
+  {
+    id: 6
+    name: コードIV：拡散
+    start_time: 2023-02-10 13:00:00
+    end_time: 2023-04-21 13:00:00
+    mission_id: 3
+  }
+]

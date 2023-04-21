@@ -1,0 +1,150 @@
+[
+  {
+    id: "1"
+    name: グリフィン・エリート勲章
+    order: "10"
+    evo_step: "1"
+    appearance_id: "1"
+    item_id: "100"
+    medal_obtain: 大型イベントにて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#009bff"
+    if_elite_medal: "1"
+  }
+  {
+    id: "2"
+    name: 戦闘ランキング勲章
+    order: "11"
+    evo_step: "1,50,150,250,350,900"
+    appearance_id: "2,3,4,5,6,6"
+    item_id: "101"
+    medal_obtain: 局地戦イベントにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff9200"
+  }
+  {
+    id: "3"
+    name: 収集ランキング勲章
+    order: "12"
+    evo_step: "1,30,90,150,210,540"
+    appearance_id: "7,8,9,10,11,11"
+    item_id: "102"
+    medal_obtain: 人形収集と家具収集ランキングにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#009bff"
+  }
+  {
+    id: "4"
+    name: 挑戦者勲章
+    order: "13"
+    evo_step: "1,6,18,30,50,120"
+    appearance_id: "12,13,14,15,16,16"
+    item_id: "103"
+    medal_obtain: カーニバルイベントにて活躍した指揮官に授与します。
+    medal_color: "#12ff00"
+    is_date: "2"
+  }
+  {
+    id: "5"
+    name: エリートの奇妙な冒険勲章
+    order: "14"
+    evo_step: "1"
+    appearance_id: "17"
+    item_id: "104"
+    medal_obtain: 特殊な期間限定イベントにて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ffd800"
+  }
+  {
+    id: "6"
+    name: 鉄血グリフィン共同作戦勲章
+    order: "15"
+    evo_step: "1,5,30,90,150"
+    appearance_id: "18,19,20,21,22"
+    item_id: "105"
+    medal_obtain: 大型イベントにて、融合勢力を指揮し、特別な作戦目標を達成した指揮官に授与します。
+    medal_color: "#ff9200"
+    is_date: "2"
+  }
+  {
+    id: "7"
+    name: ラフベリー勲章
+    order: "16"
+    evo_step: "1,50,150,300,600,1000"
+    appearance_id: "23,24,25,26,27,28"
+    item_id: "106"
+    medal_obtain: ラフベリーチェスにて活躍した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+  }
+  {
+    id: "10"
+    name: 第八戦区開拓者勲章
+    order: "6"
+    evo_step: "1"
+    appearance_id: "42"
+    item_id: "109"
+    medal_obtain: 第八期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
+    id: "11"
+    name: 第八戦区征服者勲章
+    order: "7"
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "43,44,45,46,47,48,49,50,51,52,53,54"
+    item_id: "110"
+    medal_obtain: 第八期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
+    id: "15"
+    name: 第九戦区開拓者勲章
+    order: "85"
+    evo_step: "1"
+    appearance_id: "80"
+    item_id: "114"
+    medal_obtain: 第九期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
+    id: "16"
+    name: 第九戦区征服者勲章
+    order: "84"
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "81,82,83,84,85,86,87,88,89,90,91,92"
+    item_id: "115"
+    medal_obtain: 第九期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
+    id: "18"
+    name: エクリプス観測者
+    order: "82"
+    evo_step: "1"
+    appearance_id: "105"
+    item_id: "117"
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「エクリプス・サロス」にて称えられる功績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
+  {
+    id: "19"
+    name: 金マイクの勲章
+    order: "81"
+    evo_step: "1"
+    appearance_id: "106"
+    item_id: "118"
+    medal_obtain: 限定イベント「雪の如き浪 花顔を映ず」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
+]
