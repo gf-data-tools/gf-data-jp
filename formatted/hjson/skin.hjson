@@ -5309,6 +5309,46 @@
     illustrator_cv: skin-40005049
   }
   {
+    id: 5050
+    name: Gr G36cｰオリジナルスキン
+    fit_gun: 20104
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    illustrator_cv: skin-40005050
+  }
+  {
+    id: 5051
+    name: リベロールｰオリジナルスキン
+    fit_gun: 20171
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    illustrator_cv: skin-40005051
+  }
+  {
+    id: 5052
+    name: ゲパード M1ｰオリジナルスキン
+    fit_gun: 20201
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    illustrator_cv: skin-40005052
+  }
+  {
+    id: 5053
+    name: MP-443ｰオリジナルスキン
+    fit_gun: 20220
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    illustrator_cv: skin-40005053
+  }
+  {
     id: 5101
     name: 枝垂れ夢見る狐の影
     fit_gun: 316
@@ -6992,5 +7032,15 @@
     note: skin-30030003
     illustrator_cv: skin-40030003
     order: 97
+  }
+  {
+    id: 30004
+    name: 情動の七日間
+    fit_gun: 375
+    voice: 4
+    dialog: ようこそ、指揮官。もう一度ルールを説明する――七日後、私を捕らえた者がすべての賞金を得る……では、狩りを楽しんできたまえ。
+    note: skin-30030004
+    illustrator_cv: skin-40030004
+    order: 99
   }
 ]

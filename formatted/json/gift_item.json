@@ -2705,6 +2705,11 @@
     "description": "対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します", "is_hidden": 0, "exp": 0, 
     "profile_pic": 0, "item_access": "", "detail_introduction": "gift_item-40030003", "sort": 0
   }, {
+    "id": 30004, "name": "情動の七日間", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 375, "skin": 30004, 
+    "poster": 330004, "code": "gift_bundle_BattlePass_ColtWalker", "bonus_description": "人形換装開放", 
+    "description": "対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します", "is_hidden": 0, "exp": 0, 
+    "profile_pic": 0, "item_access": "", "detail_introduction": "gift_item-40030004", "sort": 0
+  }, {
     "id": 100001, "name": "ロリポップ", "type": 1, "rank": 2, "favor": 1000, "fit_gun": 0, "skin": 0, "poster": 0, 
     "code": "gift_item_lollipop_N", "bonus_description": "無", 
     "description": "対応する人形にプレゼントすると、僅かに好感度を獲得できます", "is_hidden": 0, "exp": 0, "profile_pic": 0, 

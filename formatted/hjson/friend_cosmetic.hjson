@@ -11538,6 +11538,46 @@
     frame_id: 200005
   }
   {
+    id: 968
+    item_id: 1968
+    sub_type: 1
+    code: profilePic_rank6_G36CMod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200003
+  }
+  {
+    id: 969
+    item_id: 1969
+    sub_type: 1
+    code: profilePic_rank5_RibeyrollesMod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200002
+  }
+  {
+    id: 970
+    item_id: 1970
+    sub_type: 1
+    code: profilePic_rank4_GepardM1Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200001
+  }
+  {
+    id: 971
+    item_id: 1971
+    sub_type: 1
+    code: profilePic_rank4_MP443Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200001
+  }
+  {
     id: 972
     item_id: 1972
     sub_type: 1
@@ -12971,6 +13011,30 @@
     rarity: 5
   }
   {
+    id: 1225
+    item_id: 2225
+    sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    code: card_BattlePass_ColtWalker
+    order: 1
+    rarity: 5
+  }
+  {
+    id: 1226
+    item_id: 2226
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_BattlePass_ColtWalker
+    order: 1
+    rarity: 5
+    skin: 30004
+    filter_type: "4"
+    frame_id: 200005
+  }
+  {
     id: 1236
     item_id: 2236
     sub_type: 1
@@ -13361,6 +13425,15 @@
     item_id: 200017
     sub_type: 4
     code: profileFrame_2023NewYear_JP
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100018
+    item_id: 200018
+    sub_type: 4
+    code: profileFrame_BattlePass_ColtWalker
     order: 1
     rarity: 5
     filter_type: "5"
