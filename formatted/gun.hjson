@@ -14248,8 +14248,9 @@
     crit: 20
     eat_ratio: 125
     ratio_range: 100
-    skill1: 105805
+    skill1: 750348
     normal_attack: 300101
+    dynamic_passive_skill: "750346,750347"
     effect_grid_center: 13
     effect_grid_pos: "7,9,12,14"
     effect_grid_effect: "1,8;2,10"

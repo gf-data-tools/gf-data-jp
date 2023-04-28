@@ -34224,6 +34224,96 @@
     rotate: "3"
   }
   {
+    id: 38201
+    name: コード船長
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kordのポスター。
+    code: poster_Piracy2023_Kord
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38202
+    name: ブラック・バロネス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: KH2002のポスター。
+    code: poster_Piracy2023_KH2002
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38203
+    name: クラーケン・ハンター
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SIG MCXのポスター。
+    code: poster_Piracy2023_SIGMCX
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38204
+    name: ピジョン・ブラッド・ボルテックス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PTRDのポスター。
+    code: poster_Piracy2023_PTRD
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38205
+    name: 赤髪の海賊王
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: TS12のポスター。
+    code: poster_Piracy2023_TavorTS12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38206
+    name: 最後のコルセア
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP41のポスター。
+    code: poster_Piracy2023_MP41
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 救護室壁紙
     classes: 400

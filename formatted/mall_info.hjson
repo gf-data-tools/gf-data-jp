@@ -26403,7 +26403,6 @@
     item_ids: 7-1,41-50
     gift: 6304-1
     gemprice: "1888"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(モンドラゴンM1908)
     event_code: dailyGiftbag
@@ -26447,6 +26446,167 @@
     discount: "1.00"
     prize_id: "330135"
     classification_id: "3002"
+  }
+  {
+    id: "31480"
+    type: "8"
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 5月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_haru2
+    discount: "1.00"
+    prize_id: "330310"
+    classification_id: "3002"
+  }
+  {
+    id: "31481"
+    type: "8"
+    gemprice: "118"
+    quota: "2001"
+    giftbag_name: 5月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_red
+    daily_quota: "1"
+    discount: "1.00"
+    prize_id: "330311"
+    classification_id: "3002"
+  }
+  {
+    id: "31482"
+    type: "8"
+    sort: "2"
+    mp: "9000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(人力)
+    event_code: dailyGiftbag
+    icon: Bumdle_Manpower
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31483"
+    type: "8"
+    sort: "3"
+    ammo: "9000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(弾薬)
+    event_code: dailyGiftbag
+    icon: Bumdle_Ammunition
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31484"
+    type: "8"
+    sort: "4"
+    mre: "9000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(配給)
+    event_code: dailyGiftbag
+    icon: Bumdle_Ration
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31485"
+    type: "8"
+    sort: "5"
+    part: "3000"
+    gemprice: "480"
+    original_price: "960"
+    quota: "2001"
+    giftbag_name: 半額パック(部品)
+    event_code: dailyGiftbag
+    icon: Bumdle_Parts
+    daily_quota: "20"
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31486"
+    type: "8"
+    gemprice: "658"
+    quota: "2001"
+    giftbag_name: 大型人形製造補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_heavy
+    daily_quota: "20"
+    discount: "1.00"
+    prize_id: "330023"
+    classification_id: "3002"
+  }
+  {
+    id: "31487"
+    type: "8"
+    gemprice: "558"
+    quota: "2001"
+    giftbag_name: 大型装備製造補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_fairy
+    daily_quota: "20"
+    discount: "1.00"
+    prize_id: "330020"
+    classification_id: "3002"
+  }
+  {
+    id: "31488"
+    type: "8"
+    item_ids: 15-200,506-200,46-60,9-20
+    gemprice: "198"
+    quota: "2020"
+    giftbag_name: 重装部隊補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_jyuusou
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31489"
+    type: "8"
+    gemprice: "3588"
+    quota: "2001"
+    giftbag_name: GWラブラブお買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_gold
+    discount: "1.00"
+    prize_id: "330312"
+    classification_id: "3002"
+  }
+  {
+    id: "31490"
+    type: "8"
+    gemprice: "988"
+    quota: "2003"
+    giftbag_name: GW製造お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_bline
+    discount: "1.00"
+    prize_id: "330313"
+    classification_id: "3002"
+  }
+  {
+    id: "31491"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 8202-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(KH2002)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin02
+    discount: "1.00"
+    classification_id: "3003"
   }
   {
     id: "99001"

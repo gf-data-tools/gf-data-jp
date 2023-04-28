@@ -10415,6 +10415,33 @@
     rank: 1
   }
   {
+    id: 2137
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season7_1
+    item_name: 闇の影・コードV：乱流
+    introduction: 闇の影・コードV：乱流
+    rank: 1
+  }
+  {
+    id: 2138
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season7_2
+    item_name: 悪夢の浸食・コードV：乱流
+    introduction: 悪夢の浸食・コードV：乱流
+    rank: 1
+  }
+  {
+    id: 2139
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season7_3
+    item_name: 咎の果て・コードV：乱流
+    introduction: 咎の果て・コードV：乱流
+    rank: 1
+  }
+  {
     id: 2140
     type: 5
     arg: "1"
@@ -10941,6 +10968,60 @@
     code: profilePic_AprilFool2023_Liberator
     item_name: アンティーク蒐集家
     introduction: アンティーク蒐集家
+    rank: 1
+  }
+  {
+    id: 2280
+    type: 5
+    arg: "1"
+    code: profilePic_Piracy2023_Kord
+    item_name: コード船長
+    introduction: コード船長
+    rank: 1
+  }
+  {
+    id: 2281
+    type: 5
+    arg: "1"
+    code: profilePic_Piracy2023_KH2002
+    item_name: ブラック・バロネス
+    introduction: ブラック・バロネス
+    rank: 1
+  }
+  {
+    id: 2282
+    type: 5
+    arg: "1"
+    code: profilePic_Piracy2023_SIGMCX
+    item_name: クラーケン・ハンター
+    introduction: クラーケン・ハンター
+    rank: 1
+  }
+  {
+    id: 2283
+    type: 5
+    arg: "1"
+    code: profilePic_Piracy2023_PTRD
+    item_name: ピジョン・ブラッド・ボルテックス
+    introduction: ピジョン・ブラッド・ボルテックス
+    rank: 1
+  }
+  {
+    id: 2284
+    type: 5
+    arg: "1"
+    code: profilePic_Piracy2023_TavorTS12
+    item_name: 赤髪の海賊王
+    introduction: 赤髪の海賊王
+    rank: 1
+  }
+  {
+    id: 2285
+    type: 5
+    arg: "1"
+    code: profilePic_Piracy2023_MP41
+    item_name: 最後のコルセア
+    introduction: 最後のコルセア
     rank: 1
   }
   {
@@ -14472,6 +14553,26 @@
     code: Bumdle_Coupons1
     item_name: 至高のスキン抽選券
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500001
+    type: 15
+    arg: "9500001"
+    code: package_choose
+    item_name: 星4人形支援要請書
+    introduction: 使用することで、「2022年9月2日(金)」までに実装された「星4戦術人形」から1名を要請できます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500002
+    type: 15
+    arg: "9500002"
+    code: package_choose
+    item_name: 星5人形支援要請書
+    introduction: 使用することで、「2022年9月2日(金)」までに実装された「星5戦術人形」から1名を要請できます。
     rank: 1
     sort: -1
   }
