@@ -1000,7 +1000,7 @@ CARNIVAL,11006,1. For unlocked missions//c you can complete them at any time dur
 CARNIVAL,11007,Event Introduction,,0
 CARNIVAL,11008,Show less,,0
 CARNIVAL,11009,Current,,0
-CARNIVAL,11010,Event Rules,,0
+CARNIVAL,11010,活动规则(todo),,0
 CARNIVAL,11012,PT,,0
 CARNIVAL,11013,Carnival,,0
 HOME,20004, DORM,,0
@@ -2511,7 +2511,7 @@ FACTORY,32293,Level,,0
 FACTORY,32294,---,,0
 FACTORY,32295,Anchored Construction in progress,,0
 FACTORY,32296,When the Anchored Target has not been produced via Anchored Construction//c the yield rate will increase with each construction.,,0
-FACTORY,32297,Event Rules: //n 1. For the duration of this event//c specific T-Dolls on the list can be set as Anchored Targets. Tap "Start Construction" on the event page to perform an Anchored Construction with preset recipes.//n 2. During the event//c when the Anchored Target has not been produced via Anchored Construction//c the yield rate will increase with each construction until it reaches 100%. If the Anchored Target is produced successfully//c its yield rate will be reset to 0.//n 3.The yield rate of each Anchored Target will remain for the duration of this event and will not be reset upon switching Anchored Targets.//n 4. During this event//c only 1 T-Doll can be successfully produced as an Anchored Target via Anchored Construction. Each Anchored Target can only be successfully produced once.//n 5. After a certain number of construction attempts//c the Anchored Construction is guaranteed to succeed.//n 6. The yield rate of an Anchored Target is not related to the base rate in regular T-Doll Productions at the Factory.,,0
+FACTORY,32297,活动规则：//n1、活动期间，可从活动人形列表中选择特定人形成为“锚定目标”，在活动界面点击“开始构筑”按钮，使用给定公式进行构筑；//n2、活动中，每次进行“锚定目标”的构筑，若本次构筑“锚定目标”失败，则下一次的构筑时会临时提升成功率，提升上限为100%；成功构筑“锚定目标”时，临时成功率会清零；//n3、构筑失败所提升的临时成功率，在活动期间会跟随“锚定目标”进行保留，不会应为切换“锚定目标”而清零；//n4、活动期间，最多通过“锚定目标”成功构筑1个人形，单个“锚定目标”只能被成功构筑1次；//n5、累计指定的锚定构筑次数后，锚定目标将必定构筑成功；//n6、“锚定目标”构筑成功初始几率与“工厂制造”无关。(todo),,0
 FACTORY,32298,Insufficient T-Doll slots. Unable to proceed.//n Suggested solution:,,0
 FACTORY,32299,Insufficient Equipment slots. Unable to proceed.//n Suggested solution:,,0
 FACTORY,32300,Insufficient Fairy slots. Unable to proceed.//n Suggested solution:,,0
@@ -4459,7 +4459,7 @@ SEPCIALOPS,60699,收货信息(todo),,0
 SEPCIALOPS,60700,抽奖箱(todo),,0
 SEPCIALOPS,60701,当前抽奖箱全服共投入(todo),,0
 SEPCIALOPS,60702,<size=36>格里芬梦想速递</size>(todo),,0
-SEPCIALOPS,60703,嘉年华抽奖活动说明文本(todo),,0
+SEPCIALOPS,60703,<color=#ffb400ff><size=48><b>活动规则：</b></size></color>//n 各位指挥官可以在周年纲领活动“甜酩派对”中完成任务获取积分，达到一定积分，即可获得幸运信笺。将信笺投入许愿信箱，即有机会获得对应的周边大奖！投入许愿信箱的信笺越多，获得该许愿信箱的周边大奖的概率越高噢~ //n <color=#ffb400ff><size=48><b>活动日期：</b></size></color>//n 5月20日00:00-6月16日23:59期间，各位指挥官都可以将幸运信笺投入你喜爱的许愿信箱中。活动结束后进行抽奖 //n *活动结束后，将根据仓库和物流实际情况陆续发送奖品，请中奖的指挥官们耐心等待(todo),,0
 SEPCIALOPS,60704,抽奖券不足，投递失败！(todo),,0
 SEPCIALOPS,60705,请填写奖品收件信息(todo),,0
 SEPCIALOPS,60706,收件人(todo),,0
