@@ -583,6 +583,22 @@
     rank: 1
   }
   {
+    id: 119
+    type: 3
+    arg: "20"
+    code: Medal_Theater10th
+    item_name: 第十戦区開拓者勲章
+    rank: 1
+  }
+  {
+    id: 120
+    type: 3
+    arg: "21"
+    code: Medal_Theater10th_rank
+    item_name: 第十戦区征服者勲章
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -10379,6 +10395,15 @@
     rank: 1
   }
   {
+    id: 2079
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Cerberus
+    item_name: ケルベロスアイコン
+    introduction: ケルベロスアイコン
+    rank: 1
+  }
+  {
     id: 2091
     type: 5
     arg: "1"
@@ -10457,6 +10482,15 @@
     code: card_BattlePass_AR15
     item_name: IDカード背景：道の果てまで
     introduction: IDカード背景：道の果てまで
+    rank: 1
+  }
+  {
+    id: 2142
+    type: 5
+    arg: "1"
+    code: cg_2022cosmos
+    item_name: 背景：天淵の上
+    introduction: 背景：天淵の上
     rank: 1
   }
   {
@@ -11525,6 +11559,33 @@
     code: qjyd_20220303
     item_name: 春桜
     introduction: 静かに咲く、君との思い出のように。
+    rank: 1
+  }
+  {
+    id: 7036
+    type: 7
+    arg: "7036"
+    code: qjyd_20220601
+    item_name: オールロスオーディオ
+    introduction: 心の中の強い思いは、強い音量で表現しなければならない。そうだ！音量だ！！！ああん――！！！な――ん――だ――って――！！！？？？
+    rank: 1
+  }
+  {
+    id: 7037
+    type: 7
+    arg: "7037"
+    code: qjyd_20220602
+    item_name: キャッシュの世界
+    introduction: データ転送が止まっているせいか、彼女の表情は固まっている。しかしその両目から、彼女の今の気持ちを読み取れる――CODE:3？どういう意味だ？
+    rank: 1
+  }
+  {
+    id: 7038
+    type: 7
+    arg: "7038"
+    code: qjyd_20220603
+    item_name: シャッターチャンス
+    introduction: バッテリーさえ残っていれば、彼女の最も素晴らしい姿を捉えられるはずだ……待て、オレは変なものは撮っていない、銃を下してくれ！
     rank: 1
   }
   {

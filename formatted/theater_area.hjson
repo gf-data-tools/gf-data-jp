@@ -3128,7 +3128,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "298,171,20171,73,106,70,6"
     material_item: 47
     battle_background: wasteland
     theater_id: 71
@@ -3158,7 +3158,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "298,171,20171,73,106,70,6"
     material_item: 47
     battle_background: network
     theater_id: 71
@@ -3188,7 +3188,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "298,171,20171,73,106,70,6"
     material_item: 47
     battle_background: wasteland
     theater_id: 71
@@ -3220,7 +3220,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 2205
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "298,171,20171,73,106,70,6"
     material_item: 47
     battle_background: network
     theater_id: 71
@@ -3591,7 +3591,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "327,27,176,335,330,171"
+    advantage_gun: "327,27,176,335,330,171,20171"
     material_item: 47
     battle_background: iron
     theater_id: 73
@@ -3621,7 +3621,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "327,27,176,335,330,171"
+    advantage_gun: "327,27,176,335,330,171,20171"
     material_item: 47
     battle_background: iron
     theater_id: 73
@@ -3654,7 +3654,7 @@
     boss: 700003-1
     occupied_boss_score: 60
     score_limit: 5329
-    advantage_gun: "327,27,176,335,330,171"
+    advantage_gun: "327,27,176,335,330,171,20171"
     material_item: 47
     battle_background: network
     theater_id: 73
@@ -3935,7 +3935,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "336,328,203,330,171,187"
+    advantage_gun: "336,328,203,330,171,20171,187"
     material_item: 47
     battle_background: snowland
     theater_id: 74
@@ -3967,7 +3967,7 @@
     boss: 700004-1
     occupied_boss_score: 100
     score_limit: 16142
-    advantage_gun: "336,328,203,330,171,187"
+    advantage_gun: "336,328,203,330,171,20171,187"
     material_item: 47
     battle_background: network
     theater_id: 74

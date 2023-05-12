@@ -12602,6 +12602,16 @@
     frame_id: 200005
   }
   {
+    id: 1079
+    item_id: 2079
+    sub_type: 1
+    code: profilePic_sangvis_Cerberus
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200002
+  }
+  {
     id: 1091
     item_id: 2091
     sub_type: 1
@@ -12704,6 +12714,19 @@
     code: card_BattlePass_AR15
     order: 1
     rarity: 5
+  }
+  {
+    id: 1142
+    item_id: 2142
+    sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
+    code: cg_2022cosmos
+    order: 1
+    rarity: 10
+    is_live2d: 1
+    filter_type: "6"
   }
   {
     id: 1157
