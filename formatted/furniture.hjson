@@ -25192,6 +25192,198 @@
     rotate: "2,2,2"
   }
   {
+    id: 10501
+    name: 天域の孤舟-無重力領域
+    classes: 105
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 宇宙に上がれば、これは果たして天井なのか、それとも床なのか……ポジティブに考えよう、これで床掃除の必要がなくなったぞ！
+    code: Space2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10502
+    name: 天域の孤舟-宇宙船の制御パネル
+    classes: 105
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「温度調節システムはどれだっけ……とりあえずボタンを全部押してみようっと、どうせ壊れたりしないから～」「自爆カウントダウン開始――10……9……8……7……」
+    code: Space2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10503
+    name: 天域の孤舟-新鮮の世界
+    classes: 105
+    type: 302
+    position: "2,2"
+    space: "4,10,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 「コーラ？コーラ？ポテチ？コーラ？こんなもので宇宙空間を三か月過ごす気？」「違うよ――テレビドラマもあるもん！」
+    code: Space2022_deco_01,Space2022_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0,0,0|0,2.304367,0"
+    rotate: "3,3"
+  }
+  {
+    id: 10504
+    name: 天域の孤舟-臨時物置台
+    classes: 105
+    type: 302
+    position: "3,15"
+    space: "4,3,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 作業用道具を置くよりも、調味料とかを置くのに向いているよ！ほら、ケチャップとかをここに置けば、もうこぼれる心配がなくなるよ！
+    code: Space2022_deco_03
+    texture_type: "1"
+    offset: "0,0.771598,0"
+    rotate: "3"
+  }
+  {
+    id: 10505
+    name: 天域の孤舟-連合探索計画
+    classes: 105
+    type: 302
+    position: "25,0"
+    space: "3,7,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: この旗こそ、我々の力が合わさった証だ。どうか計画が円満にいくように、そして宇宙に我々の爪痕が残るように。
+    code: Space2022_deco_04
+    texture_type: "1"
+    offset: "0,0.542204,0"
+    rotate: "3"
+  }
+  {
+    id: 10506
+    name: 天域の孤舟-かつての日々
+    classes: 105
+    type: 302
+    position: "8,8"
+    space: "3,7,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: これは、人類の宇宙探索の歴史そのもの。そして今、我々がその歴史を受け継ぐ時が来た――進め、歴史に我らの名を刻め！
+    code: Space2022_deco_05
+    texture_type: "1"
+    offset: "0,0.542204,0"
+    rotate: "3"
+  }
+  {
+    id: 10507
+    name: 天域の孤舟-新天地のポスター
+    classes: 105
+    type: 302
+    position: "8,0"
+    space: "3,7,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 旅はまだ始まったばかりだ。これから前へ進む度、我々はより素晴らしい未来に近づくだろう――って、まだ寝るつもりか！？
+    code: Space2022_deco_06
+    texture_type: "1"
+    offset: "0,0.542204,0"
+    rotate: "3"
+  }
+  {
+    id: 10508
+    name: 天域の孤舟-星の鎧
+    classes: 105
+    type: 201
+    position: "24,0"
+    space: "5,5,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: これからもこの服を着て、星々の彼方を目指す者がいるように。そしてこいつに防弾モジュールを追加する日が来ないように。
+    code: Space2022_deco_07,Space2022_deco_08,Space2022_deco_09
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.1574477,0,0|-0.151,2.2564028,0.52135|2.1469193,0,0"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10509
+    name: 天域の孤舟-星々を歩む
+    classes: 105
+    type: 201
+    position: "14,8"
+    space: "7,5,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 体の関節がギシギシと響きたくなければ、とにかく走れ！
+    code: Space2022_deco_10,Space2022_deco_11
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.2304367,-0.1376364,-0.031281|2.0739303,-0.1376364,-0.031281"
+    rotate: "2,2"
+  }
+  {
+    id: 10510
+    name: 天域の孤舟-命の箱舟
+    classes: 105
+    type: 201
+    position: "2,9"
+    space: "8,4,1,1,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: おめでとう、休眠は終わりだ。今は西暦3022年、そして君がこの宇宙の最後の人形となった――いや、冗談さ。おい、泣くなよ！？
+    code: Space2022_deco_12,Space2022_deco_13,Space2022_scanner
+    texture_type: "1,1,2"
+    sorting: "0,0,0"
+    offset: "0,0,0|2.304367,0,0|0.4024822,0.0490069,-0.0510923"
+    rotate: "2,2,2"
+    interact_point: "66"
+    interact_point_offset: *0.788,3.557,0.768
+  }
+  {
+    id: 10511
+    name: 天域の孤舟-アーム制御端末
+    classes: 105
+    type: 201
+    position: "28,6"
+    space: "6,8,1,1,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 「報告、前方軍事衛星を発見！」「はっ、このままあいつのソーラーパネルをぶっ潰してやるわ！」
+    code: Space2022_deco_14,Space2022_deco_15,Space2022_console
+    texture_type: "1,1,2"
+    sorting: "0,0,40"
+    offset: "0,0,0|0,2.2397196,0.5150938|0,-0.0677755,-0.0156405"
+    rotate: "2,2,2"
+    interact_point: "65"
+    interact_point_offset: *-1.359,1.181,0.023
+  }
+  {
+    id: 10512
+    name: 天域の孤舟-蒼き眼
+    classes: 105
+    type: 302
+    position: "12,3"
+    space: "10,18,1,1,1,1"
+    deco_rate: 1350
+    decompose_gift: 100003
+    description: 地球以外、ここからは何も見えない。だから時間が経てば、つまらなくも感じてしまう……はぁ、窓を開いて換気したい……
+    code: Space2022_deco_16,Space2022_backgroundWindow,float_point
+    texture_type: "1,2,2"
+    sorting: "20,0,0"
+    offset: "0,0,0|0.187686,-2.116681,0|1.626612,-1.897714,0"
+    rotate: "3,3,3"
+    interact_point: "67"
+    interact_point_offset: "0,0,0"
+  }
+  {
     id: 10801
     name: 雪夜の温泉宿-ひんやりな足跡
     classes: 108
@@ -25870,6 +26062,140 @@
     sorting: "5,5"
     offset: "-0.20854,0,0|2.0854,0,0"
     rotate: "3,3"
+  }
+  {
+    id: 20038
+    name: プロフィール照会処
+    classes: 19
+    type: 201
+    space: "6,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 特に実用性のないテーブル。元々は、グリフィン基地関係者のプロフィールを記録するために使われていたが、今はたまに亡き友人たちを思うために使われる。
+    code: 2022WinterActivity_InfoDesk,2022WinterActivity_Holography
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0,-0.2784009,-0.060476693843|0,0.41708,-0.010427"
+    rotate: "2,2"
+    interact_point: "58"
+    interact_point_offset: "0,0,0"
+  }
+  {
+    id: 20039
+    name: 灰色蠍の残尾
+    classes: 19
+    type: 201
+    space: "3,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: これはかつて彼女を打倒した凶器であり、また自らを切り落とした勝利の証でもある。
+    code: 2022WinterActivity_Greys
+    texture_type: "1"
+    offset: "0,-0.1960276,-0.0458788"
+    rotate: "2"
+  }
+  {
+    id: 20040
+    name: 覆面の下
+    classes: 19
+    type: 302
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: もしあの者の歪んだ願いがなかったとしたら、仮面の下で消えていった表情たちは、本来の笑顔を見せてくれるのだろうか？
+    code: 2022WinterActivity_Mask
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20041
+    name: 全てを見通す眼
+    classes: 19
+    type: 302
+    space: "5,7,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 精巧で貴重な装飾芸術品。ただ、深夜残業のグリフィンスタッフたちは「ずっと何かに見られている気がする」という理由で、これを置いた部屋で仕事することを拒んでいる。
+    code: 2022WinterActivity_AllSeeingEye
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "3"
+    interact_point: "105"
+    interact_point_offset: *0.846,3.460,0.000
+    touch_area: "4,4,4"
+  }
+  {
+    id: 20042
+    name: 枯れ枝の蝶
+    classes: 19
+    type: 202
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 凪の際、枯れ枝に止まった蝶は、またどこで嵐を引き起こすのか？
+    code: 2022WinterActivity_Sofa
+    texture_type: "1"
+    offset: "0,-0.1428499,-0.0333664"
+    rotate: "2"
+    interact_point: "3"
+    interact_point_offset: *-0.029,1.494,0.236
+  }
+  {
+    id: 20043
+    name: 砂盤演習
+    classes: 19
+    type: 201
+    space: "7,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 現実はやり直しがきかない。我々には戦争による痛みを和らげるすべがない。だからこそ、たとえ休まずとも、このやり直しがきく「戦場」で、最も損害の少ない道を探さなければならない。
+    code: 2022WinterActivity_SandTable
+    texture_type: "1"
+    offset: "0,-0.0980138,-0.0229394"
+    rotate: "2"
+  }
+  {
+    id: 20044
+    name: アエネアス作戦記念
+    classes: 19
+    type: 201
+    space: "6,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「アエネアス作戦」に参加した人形たちを表彰するため、I.O.Pは彼女たちを元にしたフィギュアシリーズをリリースした。グリフィン基地内部ではとても好評のようだ。
+    code: 2022WinterActivity_ToyCabinet
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20045
+    name: 狼影の帰還
+    classes: 19
+    type: 201
+    space: "4,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 長い間空っぽだったハンガーラックに、今日でようやくまた懐かしい服たちが掛けられるようになった。それはつまり、彼女たちが戻ってきたということか？
+    code: 2022WinterActivity_DefyCloth
+    texture_type: "1"
+    offset: "0,-0.1428499,-0.0333664"
+    rotate: "2"
+  }
+  {
+    id: 20046
+    name: 風止者勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「静止点」にて称えられる功績を残したことを表彰する。「嵐が来た時、あなたこそ、その中の静止点だ」
+    code: 2022WinterActivity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
   }
   {
     id: 20047
@@ -34081,6 +34407,96 @@
     rotate: "3"
   }
   {
+    id: 37401
+    name: 星の果てを求めて
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ACRのポスター。
+    code: poster_Cosmos2022_ACR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37402
+    name: 夢の隠居先
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCRのポスター。
+    code: poster_Cosmos2022_SCR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37403
+    name: 食鉄獣の奇妙な航海
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBU-88のポスター。
+    code: poster_Cosmos2022_QBU88
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37404
+    name: 超時空警備隊
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SIG MCXのポスター。
+    code: poster_Cosmos2022_SIGMCX
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37406
+    name: 星間エクスプレス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr G41のポスター。
+    code: poster_Cosmos2022_G41
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37407
+    name: スーパーノヴァの魂
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 漢陽88式のポスター。
+    code: poster_Cosmos2022_88type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 37501
     name: 氷海の幻舞
     classes: 300
@@ -38315,6 +38731,21 @@
     decompose_gift: 100003
     description: コルトウォーカーのポスター。
     code: poster_BattlePass_ColtWalker
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330005
+    name: 愛犬との午後
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCAR-Lのポスター
+    code: poster_BattlePass_scarL
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

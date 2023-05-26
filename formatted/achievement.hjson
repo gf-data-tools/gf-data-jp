@@ -15107,6 +15107,57 @@
     condition: "10904"
   }
   {
+    identity: 1007
+    type: c_appoint_battle
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 群狼の帰還
+    content: 旧雨Ⅰ：反逆小隊でミセス・グレイを倒し、ステージをクリアする。
+    type_sort: 100
+    sort: 295
+    icon_code: 狼群归来
+    condition: 6510016:6511202-2,6510016:6512202-2,6510016:6513202-2
+  }
+  {
+    identity: 1008
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 破れた完全
+    content: 潜伏Ⅰ：撤退部隊を出さずにステージをクリアする
+    type_sort: 100
+    sort: 296
+    icon_code: 破碎的完整
+    condition: 11015:1101503
+  }
+  {
+    identity: 1009
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 烽火直上
+    content: 静止点のエンディングテーマを最後まで鑑賞する。
+    type_sort: 100
+    sort: 297
+    icon_code: 就是这个人
+    condition: "11082"
+  }
+  {
     identity: 1010
     type: special_develop_fairy
     count: 1

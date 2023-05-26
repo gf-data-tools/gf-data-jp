@@ -4222,6 +4222,110 @@
     classification_id: "4000"
   }
   {
+    id: "4711"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 反宇宙
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94711"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4712"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 天外の星
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94712"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4720"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: プラネタリウムの記念品
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94720"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4731"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: この手に月と星を
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94731"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4732"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 星間航行
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94732"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4740"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 生命維持システム
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94740"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4751"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 彷徨う空間
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94751"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
+    id: "4752"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 光年を越えろ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "94752"
+    on_sale_days: "30"
+    classification_id: "4000"
+  }
+  {
     id: "4911"
     type: "66"
     gemprice: "400"
@@ -26629,6 +26733,1250 @@
     giftbag_name: 重装部隊補給パック
     event_code: dailyGiftbag
     icon: Bumdle_jyuusou
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31494"
+    type: "8"
+    sort: "1"
+    quota: "2001"
+    giftbag_name: 戦術人形：M950A
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "169"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31495"
+    type: "8"
+    sort: "2"
+    quota: "2001"
+    giftbag_name: 戦術人形：グリズリー
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "168"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31496"
+    type: "8"
+    sort: "3"
+    quota: "2001"
+    giftbag_name: 戦術人形：ウェルロッド MkⅡ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "174"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31497"
+    type: "8"
+    sort: "4"
+    quota: "2001"
+    giftbag_name: 戦術人形：コンテンダー
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "190"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31498"
+    type: "8"
+    sort: "5"
+    quota: "2001"
+    giftbag_name: 戦術人形：Px4 ストーム
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40045"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31499"
+    type: "8"
+    sort: "6"
+    quota: "2001"
+    giftbag_name: 戦術人形：PA-15
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330102"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31500"
+    type: "8"
+    sort: "7"
+    quota: "2001"
+    giftbag_name: 戦術人形：C-93
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330136"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31501"
+    type: "8"
+    sort: "8"
+    quota: "2001"
+    giftbag_name: 戦術人形：HP-35
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330197"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31502"
+    type: "8"
+    sort: "9"
+    quota: "2001"
+    giftbag_name: 戦術人形：NZ75
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330198"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31503"
+    type: "8"
+    sort: "10"
+    quota: "2001"
+    giftbag_name: 戦術人形：トンプソン
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "160"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31504"
+    type: "8"
+    sort: "11"
+    quota: "2001"
+    giftbag_name: 戦術人形：Vector
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "161"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31505"
+    type: "8"
+    sort: "12"
+    quota: "2001"
+    giftbag_name: 戦術人形：スオミ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "175"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31506"
+    type: "8"
+    sort: "13"
+    quota: "2001"
+    giftbag_name: 戦術人形：SR-3MP
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "183"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31507"
+    type: "8"
+    sort: "14"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr G36c
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "170"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31508"
+    type: "8"
+    sort: "15"
+    quota: "2001"
+    giftbag_name: 戦術人形：一〇〇式
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "197"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31509"
+    type: "8"
+    sort: "16"
+    quota: "2001"
+    giftbag_name: 戦術人形：79式
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "179"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31510"
+    type: "8"
+    sort: "17"
+    quota: "2001"
+    giftbag_name: 戦術人形：C-MS
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "178"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31511"
+    type: "8"
+    sort: "18"
+    quota: "2001"
+    giftbag_name: 戦術人形：P90
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40049"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31512"
+    type: "8"
+    sort: "19"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr MP7
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330137"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31513"
+    type: "8"
+    sort: "20"
+    quota: "2001"
+    giftbag_name: 戦術人形：SR2
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1407"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31514"
+    type: "8"
+    sort: "21"
+    quota: "2001"
+    giftbag_name: 戦術人形：Kar98k
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "162"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31515"
+    type: "8"
+    sort: "22"
+    quota: "2001"
+    giftbag_name: 戦術人形：リー・エンフィールド
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "164"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31516"
+    type: "8"
+    sort: "23"
+    quota: "2001"
+    giftbag_name: 戦術人形：WA2000
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "163"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31517"
+    type: "8"
+    sort: "24"
+    quota: "2001"
+    giftbag_name: 戦術人形：NTW-20
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "165"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31518"
+    type: "8"
+    sort: "25"
+    quota: "2001"
+    giftbag_name: 戦術人形：M99
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "180"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31519"
+    type: "8"
+    sort: "26"
+    quota: "2001"
+    giftbag_name: 戦術人形：カルカノ M1891
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "194"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31520"
+    type: "8"
+    sort: "27"
+    quota: "2001"
+    giftbag_name: 戦術人形：カルカノ M91/38
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "195"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31521"
+    type: "8"
+    sort: "28"
+    quota: "2001"
+    giftbag_name: 戦術人形：IWS 2000
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "184"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31522"
+    type: "8"
+    sort: "29"
+    quota: "2001"
+    giftbag_name: 戦術人形：M200
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330103"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31523"
+    type: "8"
+    sort: "30"
+    quota: "2001"
+    giftbag_name: 戦術人形：QBU-88
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330104"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31524"
+    type: "8"
+    sort: "31"
+    quota: "2001"
+    giftbag_name: 戦術人形：VSK-94
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330219"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31525"
+    type: "8"
+    sort: "32"
+    quota: "2001"
+    giftbag_name: 戦術人形：SVCh
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330266"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31526"
+    type: "8"
+    sort: "33"
+    quota: "2001"
+    giftbag_name: 戦術人形：デ・リーズル
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1200"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31527"
+    type: "8"
+    sort: "34"
+    quota: "2001"
+    giftbag_name: 戦術人形：HS.50
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1406"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31528"
+    type: "8"
+    sort: "35"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr G41
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "166"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31529"
+    type: "8"
+    sort: "36"
+    quota: "2001"
+    giftbag_name: 戦術人形：416
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "167"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31530"
+    type: "8"
+    sort: "37"
+    quota: "2001"
+    giftbag_name: 戦術人形：FAL
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "171"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31531"
+    type: "8"
+    sort: "38"
+    quota: "2001"
+    giftbag_name: 戦術人形：95式
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "181"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31532"
+    type: "8"
+    sort: "39"
+    quota: "2001"
+    giftbag_name: 戦術人形：97式
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "182"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31533"
+    type: "8"
+    sort: "40"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr G11
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "176"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31534"
+    type: "8"
+    sort: "41"
+    quota: "2001"
+    giftbag_name: 戦術人形：Am RFB
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "187"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31535"
+    type: "8"
+    sort: "42"
+    quota: "2001"
+    giftbag_name: 戦術人形：64式自
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "186"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31536"
+    type: "8"
+    sort: "43"
+    quota: "2001"
+    giftbag_name: 戦術人形：K2
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "192"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31537"
+    type: "8"
+    sort: "44"
+    quota: "2001"
+    giftbag_name: 戦術人形：Zas M21
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "193"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31538"
+    type: "8"
+    sort: "45"
+    quota: "2001"
+    giftbag_name: 戦術人形：T91
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "189"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31539"
+    type: "8"
+    sort: "46"
+    quota: "2001"
+    giftbag_name: 戦術人形：MDR
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "191"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31540"
+    type: "8"
+    sort: "47"
+    quota: "2001"
+    giftbag_name: 戦術人形：89式
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330105"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31541"
+    type: "8"
+    sort: "48"
+    quota: "2001"
+    giftbag_name: 戦術人形：AK-12
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40041"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31542"
+    type: "8"
+    sort: "49"
+    quota: "2001"
+    giftbag_name: 戦術人形：AN-94
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40040"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31543"
+    type: "8"
+    sort: "50"
+    quota: "2001"
+    giftbag_name: 戦術人形：ADS
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330106"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31544"
+    type: "8"
+    sort: "51"
+    quota: "2001"
+    giftbag_name: 戦術人形：K11
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330138"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31545"
+    type: "8"
+    sort: "52"
+    quota: "2001"
+    giftbag_name: 戦術人形：SIG-556
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330139"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31546"
+    type: "8"
+    sort: "53"
+    quota: "2001"
+    giftbag_name: 戦術人形：AK-Alfa
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330199"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31547"
+    type: "8"
+    sort: "54"
+    quota: "2001"
+    giftbag_name: 戦術人形：S-ACR
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330220"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31548"
+    type: "8"
+    sort: "55"
+    quota: "2001"
+    giftbag_name: 戦術人形：AK-15
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40246"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31549"
+    type: "8"
+    sort: "56"
+    quota: "2001"
+    giftbag_name: 戦術人形：SIG MCX
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1199"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31550"
+    type: "8"
+    sort: "57"
+    quota: "2001"
+    giftbag_name: 戦術人形：A-545
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1405"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31551"
+    type: "8"
+    sort: "58"
+    quota: "2001"
+    giftbag_name: 戦術人形：ネゲヴ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "173"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31552"
+    type: "8"
+    sort: "59"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr MG5
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "172"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31553"
+    type: "8"
+    sort: "60"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr MG4
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "177"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31554"
+    type: "8"
+    sort: "61"
+    quota: "2001"
+    giftbag_name: 戦術人形：PKP
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "188"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31555"
+    type: "8"
+    sort: "62"
+    quota: "2001"
+    giftbag_name: 戦術人形：88式
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40047"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31556"
+    type: "8"
+    sort: "63"
+    quota: "2001"
+    giftbag_name: 戦術人形：Gr MG36
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330140"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31557"
+    type: "8"
+    sort: "64"
+    quota: "2001"
+    giftbag_name: 戦術人形：ZB-26
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330200"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31558"
+    type: "8"
+    sort: "65"
+    quota: "2001"
+    giftbag_name: 戦術人形：RPK-16
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40250"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31559"
+    type: "8"
+    sort: "66"
+    quota: "2001"
+    giftbag_name: 戦術人形：RPK-203
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1198"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31560"
+    type: "8"
+    sort: "67"
+    quota: "2001"
+    giftbag_name: 戦術人形：Am KSG
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "185"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31561"
+    type: "8"
+    sort: "68"
+    quota: "2001"
+    giftbag_name: 戦術人形：AA-12
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "196"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31562"
+    type: "8"
+    sort: "69"
+    quota: "2001"
+    giftbag_name: 戦術人形：S.A.T.8
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40035"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31563"
+    type: "8"
+    sort: "70"
+    quota: "2001"
+    giftbag_name: 戦術人形：FP-6
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40030"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31564"
+    type: "8"
+    sort: "71"
+    quota: "2001"
+    giftbag_name: 戦術人形：Saiga-12
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40028"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31565"
+    type: "8"
+    sort: "72"
+    quota: "2001"
+    giftbag_name: 戦術人形：DP-12
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330107"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31566"
+    type: "8"
+    sort: "73"
+    quota: "2001"
+    giftbag_name: 戦術人形：CAWS
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330108"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31567"
+    type: "8"
+    sort: "74"
+    quota: "2001"
+    giftbag_name: 戦術人形：LTLX7000
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330239"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31568"
+    type: "8"
+    sort: "75"
+    quota: "2001"
+    giftbag_name: 戦術人形：M6 ASW
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330240"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31569"
+    type: "8"
+    sort: "76"
+    quota: "2001"
+    giftbag_name: 戦術人形：FO-12
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1404"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31570"
+    type: "8"
+    sort: "77"
+    quota: "2001"
+    giftbag_name: 戦術人形：M26-MASS
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1403"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31571"
+    type: "8"
+    sort: "78"
+    item_ids: 2027-1
+    quota: "2001"
+    giftbag_name: 真核の仮面アイコン·静止点
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100129-1
+    classification_id: "1003"
+  }
+  {
+    id: "31572"
+    type: "8"
+    quota: "2001"
+    giftbag_name: 戦術人形：スターリング
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1398"
+    pay_type: "1"
+    itemprice: 100130-1
+    classification_id: "1004"
+  }
+  {
+    id: "31573"
+    type: "8"
+    sort: "1"
+    quota: "2001"
+    giftbag_name: 戦術人形：PPQ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1399"
+    pay_type: "1"
+    itemprice: 100130-1
+    classification_id: "1004"
+  }
+  {
+    id: "31574"
+    type: "8"
+    sort: "2"
+    quota: "2001"
+    giftbag_name: 戦術人形：LS26
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1400"
+    pay_type: "1"
+    itemprice: 100130-1
+    classification_id: "1004"
+  }
+  {
+    id: "31575"
+    type: "8"
+    gemprice: "398"
+    quota: "2001"
+    giftbag_name: メンタルアップグレードお買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_update
+    daily_quota: "5"
+    discount: "1.00"
+    prize_id: "330135"
+    classification_id: "3002"
+  }
+  {
+    id: "31576"
+    type: "8"
+    gemprice: "380"
+    quota: "2001"
+    giftbag_name: 6月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_natsu2
+    discount: "1.00"
+    prize_id: "330304"
+    classification_id: "3002"
+  }
+  {
+    id: "31577"
+    type: "8"
+    gemprice: "118"
+    quota: "2001"
+    giftbag_name: 6月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_yellow
+    daily_quota: "1"
+    discount: "1.00"
+    prize_id: "265"
+    classification_id: "3002"
+  }
+  {
+    id: "31578"
+    type: "8"
+    quota: "2001"
+    giftbag_name: 戦術人形：スターリング
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1398"
+    pay_type: "1"
+    itemprice: 100128-500
+    classification_id: "1002"
+  }
+  {
+    id: "31579"
+    type: "8"
+    sort: "1"
+    quota: "2001"
+    giftbag_name: 戦術人形：PPQ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1399"
+    pay_type: "1"
+    itemprice: 100127-400
+    classification_id: "1002"
+  }
+  {
+    id: "31580"
+    type: "8"
+    sort: "2"
+    quota: "2001"
+    giftbag_name: 戦術人形：LS26
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1400"
+    pay_type: "1"
+    itemprice: 100127-400
+    classification_id: "1002"
+  }
+  {
+    id: "31581"
+    type: "8"
+    sort: "3"
+    quota: "2001"
+    giftbag_name: 戦術人形：FI M82
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40230"
+    pay_type: "1"
+    itemprice: 100127-400
+    classification_id: "1002"
+  }
+  {
+    id: "31582"
+    type: "8"
+    sort: "4"
+    quota: "2001"
+    giftbag_name: 戦術人形：CZ75
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "95"
+    pay_type: "1"
+    itemprice: 100128-500
+    classification_id: "1002"
+  }
+  {
+    id: "31583"
+    type: "8"
+    sort: "5"
+    quota: "2001"
+    giftbag_name: 戦術人形：ACR
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40148"
+    pay_type: "1"
+    itemprice: 100128-500
+    classification_id: "1002"
+  }
+  {
+    id: "31584"
+    type: "8"
+    sort: "6"
+    quota: "2001"
+    giftbag_name: 戦術人形：Model 99
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1145"
+    pay_type: "1"
+    itemprice: 100128-500
+    classification_id: "1002"
+  }
+  {
+    id: "31585"
+    type: "8"
+    sort: "7"
+    quota: "2001"
+    giftbag_name: 戦術人形：Kord
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "330201"
+    pay_type: "1"
+    itemprice: 100128-500
+    classification_id: "1002"
+  }
+  {
+    id: "31586"
+    type: "8"
+    sort: "8"
+    quota: "2001"
+    giftbag_name: 戦術人形：KH2002
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1287"
+    pay_type: "1"
+    itemprice: 100128-500
+    classification_id: "1002"
+  }
+  {
+    id: "31587"
+    type: "8"
+    sort: "9"
+    gift: 100003-1
+    quota: "2200"
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100127-5
+    classification_id: "1002"
+  }
+  {
+    id: "31588"
+    type: "8"
+    sort: "10"
+    gift: 100003-1
+    quota: "2200"
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100128-5
+    classification_id: "1002"
+  }
+  {
+    id: "31589"
+    type: "8"
+    item_ids: 602-1,601-10,506-500,6009-5,6003-5
+    gemprice: "980"
+    quota: "2001"
+    giftbag_name: 染色剤お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_jpcolour
     discount: "1.00"
     classification_id: "3002"
   }

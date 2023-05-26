@@ -529,6 +529,24 @@
     rank: 1
   }
   {
+    id: 107
+    type: 3
+    arg: "8"
+    code: Medal_2022winter
+    item_name: 風止者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「静止点」にて称えられる功績を残したことを表彰する。「嵐が来た時、あなたこそ、その中の静止点だ」
+    rank: 1
+  }
+  {
+    id: 108
+    type: 3
+    arg: "9"
+    code: Medal_2022winter_rank
+    item_name: ヘルウォーカー勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「静止点」のランキングステージで、輝かしい成績を残したことを表彰する。「指揮官……アヴェルヌスの物資を全部運び出したんですか？」
+    rank: 1
+  }
+  {
     id: 109
     type: 3
     arg: "10"
@@ -588,7 +606,7 @@
     arg: "20"
     code: Medal_Theater10th
     item_name: 第十戦区開拓者勲章
-    introduction: 第十期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「雨にも負けず、風にも負けず、ただ前へ進み、勝利を手にする」
+    introduction: 第十期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「たとえ闇がすべてを呑み込んでも、あなたならきっと、光を持ち帰ってくれる」
     rank: 1
   }
   {
@@ -597,7 +615,7 @@
     arg: "21"
     code: Medal_Theater10th_rank
     item_name: 第十戦区征服者勲章
-    introduction: 第十期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「たとえ闇がすべてを呑み込んでも、あなたならきっと、光を持ち帰ってくれる」
+    introduction: 第十期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「雨にも負けず、風にも負けず、ただ前へ進み、勝利を手にする」
     rank: 1
   }
   {
@@ -10091,12 +10109,165 @@
     rank: 1
   }
   {
+    id: 2020
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_PPsh41Mod
+    item_name: PPSh-41メンタルアップグレードアイコン
+    introduction: PPSh-41メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2021
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_AN94Mod
+    item_name: AN-94メンタルアップグレードアイコン
+    introduction: AN-94メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2022
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_XM8Mod
+    item_name: XM8メンタルアップグレードアイコン
+    introduction: XM8メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2023
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_AK15Mod
+    item_name: AK-15メンタルアップグレードアイコン
+    introduction: AK-15メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
     id: 2025
     type: 5
     arg: "1"
     code: profilePic_sangvis_Destroyer_Christmas
     item_name: デストロイヤー-浮掠麋影アイコン
     introduction: デストロイヤー-浮掠麋影アイコン
+    rank: 1
+  }
+  {
+    id: 2027
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_coremask
+    item_name: 真核の仮面アイコン·静止点
+    introduction: 真核の仮面アイコン·静止点
+    rank: 1
+  }
+  {
+    id: 2028
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_01
+    item_name: アイコン：諜影狙撃
+    introduction: アイコン：諜影狙撃
+    rank: 1
+  }
+  {
+    id: 2029
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_02
+    item_name: アイコン：全糖ケーキ
+    introduction: アイコン：全糖ケーキ
+    rank: 1
+  }
+  {
+    id: 2030
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_03
+    item_name: アイコン：酒で祝う
+    introduction: アイコン：酒で祝う
+    rank: 1
+  }
+  {
+    id: 2031
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_04
+    item_name: アイコン：無言の注目
+    introduction: アイコン：無言の注目
+    rank: 1
+  }
+  {
+    id: 2032
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_05
+    item_name: アイコン：刃先の踊り子
+    introduction: アイコン：刃先の踊り子
+    rank: 1
+  }
+  {
+    id: 2033
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_06
+    item_name: アイコン：絶境の演繹
+    introduction: アイコン：絶境の演繹
+    rank: 1
+  }
+  {
+    id: 2034
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2022_07
+    item_name: アイコン：逆境の望み
+    introduction: アイコン：逆境の望み
+    rank: 1
+  }
+  {
+    id: 2035
+    type: 5
+    arg: "1"
+    code: card_Winter2022_01
+    item_name: IDカード背景：裏切りと忠誠
+    introduction: IDカード背景：裏切りと忠誠
+    rank: 1
+  }
+  {
+    id: 2036
+    type: 5
+    arg: "1"
+    code: card_Winter2022_02
+    item_name: IDカード背景：我が心の安らぐ場所
+    introduction: IDカード背景：我が心の安らぐ場所
+    rank: 1
+  }
+  {
+    id: 2037
+    type: 5
+    arg: "1"
+    code: card_Winter2022_03
+    item_name: IDカード背景：最後の一発
+    introduction: IDカード背景：最後の一発
+    rank: 1
+  }
+  {
+    id: 2038
+    type: 5
+    arg: "1"
+    code: card_Winter2022_04
+    item_name: IDカード背景：アエネアス作戦会議
+    introduction: IDカード背景：アエネアス作戦会議
+    rank: 1
+  }
+  {
+    id: 2039
+    type: 5
+    arg: "1"
+    code: cg_Winter2022_01
+    item_name: 基地背景：アヴェルヌスで光を叫ぶ
+    introduction: 基地背景：アヴェルヌスで光を叫ぶ
     rank: 1
   }
   {
@@ -10430,6 +10601,60 @@
     code: profilePic_ChessFlight_season6_3
     item_name: 爆震怒号・コードIV：拡散
     introduction: 爆震怒号・コードIV：拡散
+    rank: 1
+  }
+  {
+    id: 2130
+    type: 5
+    arg: "1"
+    code: profilePic_Cosmos2022_ACR
+    item_name: 星の果てを求めて
+    introduction: 星の果てを求めて
+    rank: 1
+  }
+  {
+    id: 2131
+    type: 5
+    arg: "1"
+    code: profilePic_Cosmos2022_SCR
+    item_name: 夢の隠居先
+    introduction: 夢の隠居先
+    rank: 1
+  }
+  {
+    id: 2132
+    type: 5
+    arg: "1"
+    code: profilePic_Cosmos2022_QBU88
+    item_name: 食鉄獣の奇妙な航海
+    introduction: 食鉄獣の奇妙な航海
+    rank: 1
+  }
+  {
+    id: 2133
+    type: 5
+    arg: "1"
+    code: profilePic_Cosmos2022_SIGMCX
+    item_name: 超時空警備隊
+    introduction: 超時空警備隊
+    rank: 1
+  }
+  {
+    id: 2134
+    type: 5
+    arg: "1"
+    code: profilePic_Cosmos2022_G41
+    item_name: 星間エクスプレス
+    introduction: 星間エクスプレス
+    rank: 1
+  }
+  {
+    id: 2135
+    type: 5
+    arg: "1"
+    code: profilePic_Cosmos2022_88type
+    item_name: スーパーノヴァの魂
+    introduction: スーパーノヴァの魂
     rank: 1
   }
   {
@@ -10995,6 +11220,24 @@
     code: cg_SagaActivity2023_02
     item_name: 基地背景：深夜零時
     introduction: 基地背景：深夜零時
+    rank: 1
+  }
+  {
+    id: 2260
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_scarL
+    item_name: 愛犬との午後
+    introduction: 愛犬との午後
+    rank: 1
+  }
+  {
+    id: 2261
+    type: 5
+    arg: "1"
+    code: card_BattlePass_scarL
+    item_name: IDカード背景：春のブラッシング大作戦
+    introduction: IDカード背景：春のブラッシング大作戦
     rank: 1
   }
   {
@@ -12764,6 +13007,41 @@
     rank: 1
   }
   {
+    id: 100120
+    type: 1
+    arg: "100120"
+    code: FixedPoint_ItemA
+    item_name: 簡易建材
+    introduction:
+      '''
+      ステージ3で施設の建設及びレベルアップに使用できる素材。
+      まさかこんな地味な建材で施設をレベルできるとはね……人形たちがゴミではなく真面目に素材を集めていたのも驚きだ……
+      '''
+    rank: 1
+  }
+  {
+    id: 100121
+    type: 1
+    arg: "100121"
+    code: FixedPoint_ItemB
+    item_name: 廃棄建材
+    introduction: 廃棄された建築材料。もう施設のレベルアップに使用できない。（簡易建材を獲得したい場合は、第二ステージをリセットして再挑戦してください）
+    rank: 1
+  }
+  {
+    id: 100122
+    type: 1
+    arg: "100122"
+    code: FixedPoint_ItemA
+    item_name: 簡易建材
+    introduction:
+      '''
+      ステージ3で施設の建設及びレベルアップに使用できる素材。
+      まさかこんな地味な建材で施設をレベルできるとはね……人形たちがゴミではなく真面目に素材を集めていたのも驚きだ……
+      '''
+    rank: 1
+  }
+  {
     id: 100123
     type: 9
     arg: "100123"
@@ -12789,6 +13067,52 @@
     code: Platinum_medal_black
     item_name: 白金勲章・一枚の重み
     introduction: 白金勲章・一枚の重み
+    rank: 1
+  }
+  {
+    id: 100126
+    type: 9
+    arg: "100126"
+    code: Bumdle_2022FixedPoint
+    item_name: 物資箱·静止点
+    introduction: 物資箱·静止点
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100127
+    type: 4
+    arg: "100127"
+    code: Nova_medal_black
+    item_name: 新星勲章·静止点
+    introduction: 新星勲章·静止点
+    rank: 1
+  }
+  {
+    id: 100128
+    type: 4
+    arg: "100128"
+    code: Platinum_medal_black
+    item_name: 白金勲章·静止点
+    introduction: 白金勲章·静止点
+    rank: 1
+  }
+  {
+    id: 100129
+    type: 4
+    arg: "100129"
+    code: core_mask_2022FixedPoint
+    item_name: 真核の仮面·静止点
+    introduction: 真核の仮面·静止点
+    rank: 1
+  }
+  {
+    id: 100130
+    type: 4
+    arg: "100130"
+    code: core_mask2_2022FixedPoint
+    item_name: 蝕心の仮面·静止点
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
   }
   {
@@ -13663,6 +13987,15 @@
     rank: 1
   }
   {
+    id: 130017
+    type: 12
+    arg: "130017"
+    code: Y_Z_zhihuiguan_Charm
+    item_name: 異想の彼方
+    introduction: ワームホールの向こうは、反転した異空間なのか、それとも果てしない宇宙の彼方なのか……入ってみなければ分からないものだ――行ってくる。
+    rank: 1
+  }
+  {
     id: 130018
     type: 12
     arg: "130018"
@@ -13760,6 +14093,26 @@
     introduction: item-20140010
     rank: 1
     detail_introduction: item-30140010
+  }
+  {
+    id: 140011
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140011
+    introduction: item-20140011
+    rank: 1
+    detail_introduction: item-30140011
+  }
+  {
+    id: 140012
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140012
+    introduction: item-20140012
+    rank: 1
+    detail_introduction: item-30140012
   }
   {
     id: 160001
@@ -13908,6 +14261,15 @@
     code: profileFrame_BattlePass_ColtWalker
     item_name: アイコンフレーム：浮世の網
     introduction: アイコンフレーム：浮世の網
+    rank: 1
+  }
+  {
+    id: 200019
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_scarL
+    item_name: アイコンフレーム：楽しい一日
+    introduction: アイコンフレーム：楽しい一日
     rank: 1
   }
   {
@@ -14616,6 +14978,46 @@
     code: Bumdle_Coupons1
     item_name: 至高のスキン抽選券
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500048
+    type: 15
+    arg: "1500048"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500049
+    type: 15
+    arg: "1500049"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500050
+    type: 15
+    arg: "1500050"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500051
+    type: 15
+    arg: "1500051"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
   }

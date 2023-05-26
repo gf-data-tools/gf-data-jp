@@ -7204,6 +7204,84 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 7401
+    name: 星の果てを求めて
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 274
+    skin: 7401
+    poster: 37401
+    code: gift_bundle_Cosmos2022_ACR
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7402
+    name: 夢の隠居先
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 365
+    skin: 7402
+    poster: 37402
+    code: gift_bundle_Cosmos2022_SCR
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7403
+    name: 食鉄獣の奇妙な航海
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 261
+    skin: 7403
+    poster: 37403
+    code: gift_bundle_Cosmos2022_QBU88
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7404
+    name: 超時空警備隊
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 338
+    skin: 7404
+    poster: 37404
+    code: gift_bundle_Cosmos2022_SIGMCX
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7406
+    name: 星間エクスプレス
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 62
+    skin: 7406
+    poster: 37406
+    code: gift_bundle_Cosmos2022_G41
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7407
+    name: スーパーノヴァの魂
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 95
+    skin: 7407
+    poster: 37407
+    code: gift_bundle_Cosmos2022_88type
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 7501
     name: 氷海の幻舞
     type: 2
@@ -7487,6 +7565,19 @@
     skin: 30004
     poster: 330004
     code: gift_bundle_BattlePass_ColtWalker
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 30005
+    name: 愛犬との午後
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 378
+    skin: 30005
+    poster: 330005
+    code: gift_bundle_BattlePass_scarL
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }

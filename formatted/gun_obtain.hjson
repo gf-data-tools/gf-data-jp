@@ -370,6 +370,18 @@
     description: -期間限定イベント【回帰定理】物資箱で獲得
   }
   {
+    obtain_id: 248
+    description: -期間限定イベント【静止点】人質救援で獲得
+  }
+  {
+    obtain_id: 249
+    description: -期間限定イベント【静止点】クリア報酬
+  }
+  {
+    obtain_id: 250
+    description: -期間限定イベント【静止点】物資箱で獲得
+  }
+  {
     obtain_id: 254
     description: -期間限定イベント【雪の如き浪 花顔を映ず】クリア報酬
   }
@@ -1047,6 +1059,7 @@
   }
   {
     obtain_id: 3065
+    description: -2023年6月ログイン報酬
   }
   {
     obtain_id: 3066

@@ -371,6 +371,17 @@
     source: 1
   }
   {
+    id: 43
+    name: 碧き空に隠れし夢
+    description: 子どもの頃の夢を乗せたおもちゃを手に、空に魅入られたあの子は、この果てしない碧の世界へと踏み込んだ。
+    group_id: "85"
+    code: commander_4310_icon
+    path: CLASS43
+    des_year: "2023"
+    source: 2
+    source_description: イベント「静止点」ランキング報酬
+  }
+  {
     id: 44
     name: レンジャー
     description: 戦争の駒が一つ進み、鋼の巨獣が一台空へと上がる。果てしない青空の中、トップガンたちの志はナイトそのものだ。
@@ -407,6 +418,19 @@
     des_year: "2022"
     source: 2
     source_description: 四周年ログイン報酬
+  }
+  {
+    id: 47
+    name: 星々を歩む
+    description: 広い宇宙を漂い、星々に見られる中、生命維持装置と呼吸の音以外、すべてが静寂のまま……我々はここで立ち止まるのか？否、まだ見ぬ彼方にはきっと、想像もつかない絶景があるはずだ。勇気を持って、未知なる世界へ進め――両舷前進、第四戦速！
+    group_id: "89"
+    code: commander_4732_icon
+    bonus_plastic: "130017"
+    skill_id: 101
+    path: CLASS47
+    is_class: 1
+    des_year: "2023"
+    source: 1
   }
   {
     id: 49

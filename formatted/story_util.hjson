@@ -9561,6 +9561,362 @@
     start: -49-5-1
   }
   {
+    id: 928
+    mission_id: "11011"
+    description: 「ビーニードルシステムの意味、それは――蜂一匹通さない」
+    scripts: -51-1-1
+    campaign: -51
+    title: 螫針
+    start: -51-1-1
+  }
+  {
+    id: 929
+    mission_id: "11013"
+    description: 「M16A1は多くの獲物を追いかけてきたが、この蛾が今、未だかつてない厄介な標的となった」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: ニーケⅡ
+    point: 75620:-51-EXT-1-2
+  }
+  {
+    id: 930
+    mission_id: "11014"
+    description: 「今すぐソ連を離れなければならない。「伝道者」に援助と政治的保護を要求する」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: 枷破り
+    point: 75680:-51-EXT-2-1
+  }
+  {
+    id: 931
+    mission_id: "11015"
+    description: 「……なんだこの任務。マジで勘弁してくれよ！」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: 潜伏Ⅰ
+    round: 2:-51-EXT-2-2-2
+  }
+  {
+    id: 932
+    mission_id: "11028,11038"
+    description: 「敵の阻止が激しいほど、この方向が正しいということだ」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: 横断
+    point: 75866:-51-EXT-3-1,76094:-51-EXT-3-1
+  }
+  {
+    id: 934
+    mission_id: "11018,11029,11039"
+    description: 「その剣はもう最初の時ほど鋭くはない。少しずつだが、私たちは確実にこの白い獣にダメージを与えている」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: 逆光Ⅱ
+    point: 76372:-51-EXT-3-2,75916:-51-EXT-3-2,76144:-51-EXT-3-2
+  }
+  {
+    id: 937
+    mission_id: "11019,11030,11040"
+    description: 「これで、チェックメイトだ」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: 交差点Ⅱ
+    point: 76421:-51-EXT-3-3,75965:-51-EXT-3-3,76193:-51-EXT-3-3
+  }
+  {
+    id: 940
+    mission_id: "11020,11031,11041"
+    description: 「異形の世界の、一画の新月のように――しかし、いずれ月が墜ちる時が来る」
+    campaign: -51
+    bgm: BGM_Frontline
+    title: 血月Ⅰ
+    point: 76455:-51-EXT-3-4,76009:-51-EXT-3-4,76237:-51-EXT-3-4
+  }
+  {
+    id: 943
+    mission_id: "11052"
+    campaign: -51
+    title: 重合映写
+    start: -51-5-1
+  }
+  {
+    id: 944
+    mission_id: "11053"
+    campaign: -51
+    title: 同相映像
+    start: -51-5-2
+  }
+  {
+    id: 945
+    mission_id: "11057"
+    description: 「上が私をここに寄越したということは、お前たちに忠誠を与えているということだ」
+    scripts: -51-1-2
+    campaign: -51
+    title: 黒箱
+    start: -51-1-2
+  }
+  {
+    id: 946
+    mission_id: "11058"
+    description: 「山を描きたければ平原に行け、平原を見たければ山に登れ」
+    scripts: -51-1-3
+    campaign: -51
+    title: 暗哨
+    start: -51-1-3
+  }
+  {
+    id: 947
+    mission_id: "11059"
+    description: 「世界各地からの英雄がアルゴノーツに乗り、罪の金羊毛を探すために、ベルリンに集う」
+    scripts: -51-1-4
+    campaign: -51
+    title: 勢子Ⅰ
+    start: -51-1-4
+  }
+  {
+    id: 948
+    mission_id: "11060"
+    description: 「統一の日の後、すべてが変わり始めた。それについていけない者は、間違いなく時代の波に呑まれるだろう」
+    scripts: -51-1-6
+    campaign: -51
+    title: ニーケⅠ
+    start: -51-1-6
+  }
+  {
+    id: 949
+    mission_id: "11061"
+    description: 「あそこは今、鳥一羽でさえ通過できない死地となっている。名は『アヴェルヌス』」
+    scripts: -51-1-8
+    campaign: -51
+    title: 「死海」
+    start: -51-1-8
+  }
+  {
+    id: 950
+    mission_id: "11062"
+    description: 「外敵と戦う前に、まずは内部の投機者を粛清しなければならない」
+    scripts: -51-2-1
+    campaign: -51
+    title: 旌振り
+    start: -51-2-1
+  }
+  {
+    id: 951
+    mission_id: "11063"
+    description: 「今は敵の心臓を刺すナイフが必要だ……それも他人のナイフの方がいい」
+    scripts: -51-2-3
+    campaign: -51
+    title: 轅轍
+    start: -51-2-3
+  }
+  {
+    id: 952
+    mission_id: "11064"
+    description: 「私がこの任務を完遂出来れば、グリフィン基地は将軍の保護を受けることになる」
+    scripts: -51-2-5
+    campaign: -51
+    title: 潜伏Ⅱ
+    start: -51-2-5
+  }
+  {
+    id: 953
+    mission_id: "11065"
+    description: 「死海が地獄への入り口なら、わたしたちは冥界下りのアエネアスです」
+    scripts: -51-2-7
+    campaign: -51
+    title: 渦巻
+    start: -51-2-7
+  }
+  {
+    id: 954
+    mission_id: "11066"
+    description: 「友情を祝して」
+    scripts: -51-2-8
+    campaign: -51
+    title: 庭師
+    start: -51-2-8
+  }
+  {
+    id: 955
+    mission_id: "11067"
+    description: 「我々は今、敵の不意を突くナイフだと思ってくれ」
+    scripts: -51-3-1
+    campaign: -51
+    title: 起首
+    start: -51-3-1
+  }
+  {
+    id: 956
+    mission_id: "11068"
+    description: 「理解される必要はなく、許される必要もない」
+    scripts: -51-3-3
+    campaign: -51
+    title: 逆光Ⅰ
+    start: -51-3-3
+  }
+  {
+    id: 957
+    mission_id: "11069"
+    description: 「このルート、このポイント、全部この場所のために……」
+    scripts: -51-3-5
+    campaign: -51
+    title: 交差点Ⅰ
+    start: -51-3-5
+  }
+  {
+    id: 958
+    mission_id: "11070"
+    description: 「切り札を2枚送ってきた。一つが私、そしてもう一つがこいつだ」
+    scripts: -51-3-7
+    campaign: -51
+    title: 鉄腕
+    start: -51-3-7
+  }
+  {
+    id: 959
+    mission_id: "11071"
+    description: 「私は誰一人見捨てるつもりはありません。少なくとも、私がまだ諦めなくてもいいと思っているうちは」
+    scripts: -51-3-8
+    campaign: -51
+    title: 亀裂
+    start: -51-3-8
+  }
+  {
+    id: 960
+    mission_id: "11072"
+    description: 「この世において、再会というのは常に感動的なものであるが、たまには例外もある」
+    scripts: -51-3-10
+    campaign: -51
+    title: 血月Ⅱ
+    start: -51-3-10
+  }
+  {
+    id: 961
+    mission_id: "11073"
+    description: 「金属製の材質が微かに月の光を反射しながらも、まるで重力を無視するかのように、塔は静かに立っていた」
+    scripts: -51-3-12
+    campaign: -51
+    title: 倒影
+    start: -51-3-12
+  }
+  {
+    id: 962
+    mission_id: "11074"
+    description: 「彼女は何度もこの世界を救ってきました。だから、今度は私たちが彼女を救う番です」
+    scripts: -51-4-1
+    campaign: -51
+    title: 露払い
+    start: -51-4-1
+  }
+  {
+    id: 963
+    mission_id: "11075"
+    description: 「味方がずっと味方であるとは限らない。敵もずっと敵であるとは限らない」
+    scripts: -51-4-2
+    campaign: -51
+    title: 成駒
+    start: -51-4-2
+  }
+  {
+    id: 964
+    mission_id: "11076"
+    description: 「我を過ぐれば憂ひの都あり、我を過ぐれば永遠の苦患あり、我を過ぐれば滅亡の民あり」
+    scripts: -51-4-3
+    campaign: -51
+    title: 登塔
+    start: -51-4-3
+  }
+  {
+    id: 965
+    mission_id: "11077"
+    description: 「地獄の門の前で、鳥はその羽を折られた」
+    scripts: -51-4-5
+    campaign: -51
+    title: 侵襲
+    start: -51-4-5
+  }
+  {
+    id: 966
+    mission_id: "11078"
+    description: 「この瞬間、まるであの日のあの洋館に戻ったかのようだ。ただ、今回のAK-15は五体満足で、銃の弾薬も十分残っている」
+    scripts: -51-4-7
+    campaign: -51
+    title: 旧雨Ⅱ
+    start: -51-4-7
+  }
+  {
+    id: 967
+    mission_id: "11079"
+    description: 「何事も、決めつけない方がいいと思いますよ」
+    scripts: -51-4-9
+    campaign: -51
+    title: 孤島Ⅱ
+    start: -51-4-9
+  }
+  {
+    id: 968
+    mission_id: "11080"
+    description: 「今よりもっと残酷な地獄も経験してきた。その時と比べれば、これぐらいはどうってことない」
+    scripts: -51-4-11
+    campaign: -51
+    title: 裏切り者Ⅱ
+    start: -51-4-11
+  }
+  {
+    id: 969
+    mission_id: "11081"
+    description: 「やはり、最後まで肩を並べて戦ってくれるのは、あなたしかいないわ」
+    scripts: -51-4-13
+    campaign: -51
+    title: 真相
+    start: -51-4-13
+  }
+  {
+    id: 970
+    mission_id: "11082"
+    description: 「私よりも先に、この道を進んできた者がいるのなら、私たちに続いて、進み続ける者も必ず現れるはずです」
+    scripts: -51-4-14
+    campaign: -51
+    title: 終点
+    start: -51-4-14
+  }
+  {
+    id: 971
+    mission_id: "11047"
+    description: 「そろそろ、エリート以外の人形たちにも、パラデウスと戦わせてみるべき時だ」
+    scripts: -51-slg-mission-1
+    campaign: -51
+    title: 演繹Ⅰ
+    start: -51-slg-mission-1
+  }
+  {
+    id: 972
+    mission_id: "11054"
+    description: 「どうやらまだ早かったようだ。今は少し支援をあげよう」
+    scripts: -51-slg-mission-2
+    campaign: -51
+    title: 演繹Ⅱ
+    start: -51-slg-mission-2
+  }
+  {
+    id: 973
+    mission_id: "11055"
+    description: 「もうパラデウスの倒し方を覚えたはずだ。今からやつらを殲滅せよ！」
+    scripts: -51-slg-mission-3
+    campaign: -51
+    title: 演繹Ⅲ
+    start: -51-slg-mission-3
+  }
+  {
+    id: 974
+    mission_id: "11056"
+    description: 「グリフィン人形の力を見せてやれ！」
+    scripts: -51-slg-mission-4
+    campaign: -51
+    title: 演繹Ⅳ
+    start: -51-slg-mission-4
+  }
+  {
     id: 975
     mission_id: "11083"
     campaign: -50

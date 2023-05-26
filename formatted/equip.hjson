@@ -8409,6 +8409,202 @@
     obtain_ids: "3064"
   }
   {
+    id: 271
+    name: .357マグナム弾
+    description:
+      '''
+      火力+<pow> 破甲+<armor_piercing>
+      $パイソン専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "10,10"
+    armor_piercing: "-7,-7"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_蟒蛇
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "4"
+    equip_introduction: I.O.Pがパイソンのために調整した200gr装薬のマグナム弾。より多くの火薬が詰め込まれ、ずっしりとした鉛の弾頭が、更なる破壊力をもたらしてくれる。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    max_level: 10
+    auto_select_id: 19037
+    is_show: 1
+    obtain_ids: "3076"
+  }
+  {
+    id: 272
+    name: トカレフJHP弾
+    description:
+      '''
+      火力+<pow> 破甲<armor_piercing>
+      $PPSh-41専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "6,10"
+    armor_piercing: "-10,-7"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_PPsh41
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "21,20021"
+    equip_introduction: PPSh-41のためにカスタマイズされたトカレフジャケッテッドホローポイント弾。武器の威力を大幅に引き上げてくれる。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    max_level: 10
+    auto_select_id: 19038
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 273
+    name: ISM-V
+    description:
+      '''
+      火力+<pow> 命中+<hit>
+      射速<rate>$XM8専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "4,6"
+    hit: "11,15"
+    rate: "-6,-4"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_XM8
+    develop_duration: 3600
+    company: Insight
+    fit_guns: "216,20216"
+    equip_introduction: XM8のためにオーダーメイドされた複合型照準システム。ドットサイトとレーザーサイトを両方導入したことにより、照準の効率が一段と良くなった。XM8愛用の一品だ。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: pow:1000,hit:1000
+    max_level: 10
+    auto_select_id: 18085
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 274
+    name: AN-94近代化キット
+    description:
+      '''
+      会心率+<critical_percent><%>
+      会心ダメージ+<critical_harm_rate><%>$AN-94専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_harm_rate: "10,15"
+    critical_percent: "20,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_AN94
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "205,20205"
+    equip_introduction: 昔とある有名銃器設計者が、AN-94用に設計したサイレンサーとピカティニーレールキット。AN-94の拡張性を大幅に引き上げてくれた。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,critical_harm_rate:700
+    max_level: 10
+    auto_select_id: 18086
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 275
+    name: Perst4
+    description:
+      '''
+      火力+<pow> 回避+<dodge>
+      会心ダメージ+<critical_harm_rate><%>$AK-15専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    dodge: "8,12"
+    critical_harm_rate: "8,10"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_特殊_AK15
+    develop_duration: 3060
+    company: ZNT
+    fit_guns: "293,20293"
+    equip_introduction: 改造後のAK-15に用意された専用のPerst4レーザーサイト。中には反逆小隊専用のチップが内蔵されており、このレーザーサイトで得た情報は反逆小隊全員に共有される。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:1000,dodge:700,critical_harm_rate:1000
+    max_level: 10
+    auto_select_id: 20047
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 276
+    name: M13フレーム
+    description:
+      '''
+      会心率+<critical_percent><%>
+      回避+<dodge>スキル強化$P7専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    dodge: "7,10"
+    critical_percent: "12,15"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_P7
+    develop_duration: 2820
+    company: HK
+    fit_guns: "100"
+    equip_introduction: P7オリジナルフレームの欠点を改善するべく、新たに開発されたフレームキット。ダブルカラム弾倉及び新型の弾倉取り出しボタンに合わせ、グリップが少し太くなるよう設計された。同時に、ハンドガードが追加され、トリガーガードも拡大された。
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: dodge:1500,critical_percent:350
+    passive_skill: "759030"
+    max_level: 10
+    auto_select_id: 18087
+    is_show: 1
+    obtain_ids: "3065"
+  }
+  {
     id: 278
     name: P22レーザーポインター
     description:

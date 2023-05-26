@@ -480,8 +480,8 @@
   }
   {
     id: 10001
-    name: mission_buff_config-10010001
-    description: mission_buff_config-20010001
+    name: 炸薬携帯中
+    description: 炸薬携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -505,8 +505,8 @@
   }
   {
     id: 10101
-    name: mission_buff_config-10010101
-    description: mission_buff_config-20010101
+    name: EMP携帯中
+    description: EMP携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -1755,8 +1755,8 @@
   }
   {
     id: 510701
-    name: mission_buff_config-10510701
-    description: mission_buff_config-20510701
+    name: プラスチック爆弾携帯中
+    description: プラスチック爆弾携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4610,8 +4610,8 @@
   }
   {
     id: 6510010
-    name: mission_buff_config-16510010
-    description: mission_buff_config-26510010
+    name: 資料を携帯中
+    description: 資料を携帯中
     code: buff
     type: 1
     duration_type: "1"
@@ -4634,8 +4634,8 @@
   }
   {
     id: 6510012
-    name: mission_buff_config-16510012
-    description: mission_buff_config-26510012
+    name: プラスチック爆弾携帯中
+    description: プラスチック爆弾携帯中
     code: buff
     type: 1
     duration_type: "1"
@@ -4646,8 +4646,8 @@
   }
   {
     id: 6510013
-    name: mission_buff_config-16510013
-    description: mission_buff_config-26510013
+    name: プラスチック爆弾携帯中
+    description: プラスチック爆弾携帯中
     code: buff
     type: 1
     duration_type: "1"

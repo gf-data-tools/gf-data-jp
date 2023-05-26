@@ -2958,6 +2958,178 @@
     org_id: 10603
   }
   {
+    id: 148
+    name: ネイト パトローラー
+    type: 3
+    code: Nyto_Black_SMG
+    introduce: アヴェルヌスで量産されたエリートネイト。サブマシンガンを両手に持ち、日常の巡回任務を満足できる高い機動力と火力を持っている。
+    forces: 3
+    pow_rank: 2
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 3
+    counter: 致命的なダメージを受けた際、一定量のダメージを軽減するシールドを展開するため、持久戦に備える必要がある。
+    character: "1001,308"
+    enemy_skill: "153"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 149
+    name: ネイト ハンマー
+    type: 5
+    code: Nyto_Black_Hammer
+    introduce: アヴェルヌスで量産されたエリートネイト。ハンマーを武器として使い、特殊な改造により、目まい効果を帯びる攻撃を仕掛けてくる。同時に、本体の防御力もさらに強化されている。
+    forces: 3
+    pow_rank: 4
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 2
+    armor_rank: 2
+    speed_rank: 6
+    range_rank: 3
+    counter: 当該ユニットは近接戦闘型であり、味方を目まい状態にします。気を付けて対処してください。
+    character: "1001,303,309"
+    enemy_skill: "154,155"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 150
+    name: ネイト ホークアイ
+    type: 3
+    code: Nyto_Black_RF
+    introduce: アヴェルヌスで量産された狙撃特化型エリートネイト。スナイパーライフルを武器として使い、超遠距離から目標の弱点を狙い撃つ。
+    forces: 3
+    pow_rank: 4
+    life_rank: 1
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 当該ユニットは遠距離射撃型です。高い命中と貫通能力を持っており、味方に対して大ダメージを与えてくる。後方の敵を優先的に攻撃する人形で対処することをお勧めします。
+    character: "1001,1003,307,320"
+    enemy_skill: "156"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 151
+    name: ネイト アシスト
+    type: 3
+    code: Nyto_White_Commander
+    introduce: アヴェルヌスで量産されたエリートネイト。戦術タブレットでサポートを行い、部隊全体の戦闘力を高めてくる。
+    forces: 3
+    pow_rank: 3
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 3
+    rate_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 当該ユニットは敵ネイトのリーダーです。ネイトたちの戦闘力を強化するため、優先的に倒しましょう。
+    character: "1001,1003,437"
+    enemy_skill: "157,158,159"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 152
+    name: ガルム
+    type: 2
+    code: Cerberus_White
+    introduce: アヴェルヌスで量産された最新型のロボット犬。高い機動力と鋭利な牙と爪を持っている。
+    forces: 3
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 2
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 2
+    counter: 当該ユニットは高速で移動し、後方の敵を援護するため、優先的に倒すことをお勧めします。
+    character: "304,316"
+    enemy_skill: "151,152"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 153
+    name: 北国のエリートエージェント
+    type: 3
+    code: USSR_Agent
+    introduce: 寒い北の地から来たエリートエージェント。万に一人の手練れであり、その豊富な実戦経験から凶悪な手口でも躊躇なく使う。
+    forces: 2
+    pow_rank: 1
+    life_rank: 3
+    hit_rank: 2
+    dodge_rank: 3
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001"
+    launch_time: 2035-5-20 00:00:00
+  }
+  {
+    id: 154
+    name: モリドー
+    type: 1
+    code: morridow_boss
+    introduce: パラデウスの精鋭。狡猾にして獰猛であり、いくつもの顔と身分を使い分ける。その実績のためか、貴重な改造のチャンスを与えられ、パラデウスの最新技術で造られた素体を手に入れた。戦闘力は大幅に上昇しており、トラップ制作のスキルも向上している。ただ、いつの間にか、そのバーチャルモデルに変化が起きていたようだ……
+    forces: 3
+    pow_rank: 5
+    life_rank: 3
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 1
+    speed_rank: 6
+    range_rank: 2
+    counter: 味方の行動を制限すると同時に、急速に接近し、味方に大ダメージを与える。接近中は無防備なので、その間に攻撃しよう。
+    character: "1001,316,329,438"
+    enemy_skill: "111,112,160"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 155
+    name: ネムラン
+    type: 1
+    code: Nimeylan
+    introduce: パラデウスの精鋭。冷静沈着で冷酷無情。パラデウスの中では替えがきかない存在である。短距離ながらも飛行能力を有しており、電子戦にも長けている。その手にかかった敵は、果てしない苦痛の中で絶望し、無力に死んでいくしかない。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: このユニットは光玉を生成し味方に大ダメージを与えてくる。注意せよ。
+    character: "1001"
+    enemy_skill: "161,162,163,164"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 156
+    name: RPK-16
+    type: 1
+    code: RPK16_Nyto
+    introduce: パラデウスの技術により、素体の改造を受けたRPK-16。まだ未完成の状態とはいえ、火力はすでに大幅に強化されている。パラデウスのスキルも一部使用できるようだが、メンタルに対する影響は未知数のようだ。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 未だかつてない強敵だ、慎重に対応せよ。
+    character: "1004"
+    enemy_skill: "165"
+    launch_time: 2035-5-20 00:00:00
+  }
+  {
     id: 157
     name: ハンター-裳夜の蛾
     type: 1

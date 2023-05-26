@@ -2304,6 +2304,17 @@
     color_icon_id: "691,692,693,694,695,696"
   }
   {
+    id: 4310
+    name: 雲に登り風を掴む
+    description: 待ってろ、ゼンマイトンボ！いつか必ず、お前と共にこの空を征服した姿をあいつらに見せつけてやる！
+    code: Head
+    icon: commander_4310_icon
+    type: 1
+    uniform_class: "43"
+    color_normal: Commander_4310_N
+    color_icon_id: "697"
+  }
+  {
     id: 4411
     name: 気高きチョップカット
     description: 高慢な態度こそ、もっとも固い防御である。ハリネズミが全身の針を逆立て、自分の弱い心を守るように。
@@ -2556,6 +2567,146 @@
     scale: 0.2
     position: "-0.234,0.270"
     color_icon_id: "754"
+  }
+  {
+    id: 4711
+    name: 反宇宙
+    description: グリフィン、感度良好――すべて準備OKだ。では皆さん、宇宙を目にする用意はできましたか？
+    code: Head1
+    icon: commander_4711_icon
+    type: 1
+    gender: 1
+    uniform_class: "47"
+    color_normal: Commander_4711_N
+    color_0: Commander_4711_0
+    color_1: Commander_4711_1
+    color_2: Commander_4711_2
+    color_3: Commander_4711_3
+    color_4: Commander_4711_4
+    color_icon_id: "755,756,757,758,759,760"
+  }
+  {
+    id: 4712
+    name: 天外の星
+    description: 宇宙に上がったその瞬間、君のスタイルは間違いなく新しいファッションとなる！
+    code: Head2
+    icon: commander_4712_icon
+    type: 1
+    gender: 2
+    uniform_class: "47"
+    color_normal: Commander_4712_N
+    color_0: Commander_4712_0
+    color_1: Commander_4712_1
+    color_2: Commander_4712_2
+    color_3: Commander_4712_3
+    color_4: Commander_4712_4
+    color_icon_id: "761,762,763,764,765,766"
+  }
+  {
+    id: 4720
+    name: プラネタリウムの記念品
+    description: 宇宙飛行士の豊かな宇宙生活が由来だ――卵を焼いて、動画を見て、宇宙人をもてなす。
+    code: HeadAcco
+    icon: commander_4720_icon
+    type: 2
+    uniform_class: "47"
+    color_normal: Commander_4720_N
+    color_0: Commander_4720_0
+    color_1: Commander_4720_1
+    color_2: Commander_4720_2
+    color_3: Commander_4720_3
+    color_4: Commander_4720_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.073,0.653"
+    color_icon_id: "767,768,769,770,771,772"
+  }
+  {
+    id: 4731
+    name: この手に月と星を
+    description: この宇宙服は、君をあらゆる宇宙の危険から守ってくれる、素手で小惑星を押し返すつもりさえなければ……まさか本当にそうするつもりじゃないだろうな？
+    code: Body1
+    icon: commander_4731_icon
+    type: 3
+    gender: 1
+    uniform_class: "47"
+    color_normal: Commander_4731_N
+    color_0: Commander_4731_0
+    color_1: Commander_4731_1
+    color_2: Commander_4731_2
+    color_3: Commander_4731_3
+    color_4: Commander_4731_4
+    color_icon_id: "773,774,775,776,777,778"
+  }
+  {
+    id: 4732
+    name: 星間航行
+    description: シャトル、第一宇宙速度に到達。目的地に着く前に、まずは無重力の感覚に慣れましょう。
+    code: Body2
+    icon: commander_4732_icon
+    type: 3
+    gender: 2
+    uniform_class: "47"
+    color_normal: Commander_4732_N
+    color_0: Commander_4732_0
+    color_1: Commander_4732_1
+    color_2: Commander_4732_2
+    color_3: Commander_4732_3
+    color_4: Commander_4732_4
+    color_icon_id: "779,780,781,782,783,784"
+  }
+  {
+    id: 4740
+    name: 生命維持システム
+    description: 宇宙を歩くために必要な設備だ。楽器？そりゃ一人で宇宙にいるからには、何か楽しめるものがないとな！触手？宇宙人からのプレゼントさ！
+    code: BodyAcco
+    icon: commander_4740_icon
+    type: 4
+    uniform_class: "47"
+    color_normal: Commander_4740_N
+    color_0: Commander_4740_0
+    color_1: Commander_4740_1
+    color_2: Commander_4740_2
+    color_3: Commander_4740_3
+    color_4: Commander_4740_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.199,0.214"
+    color_icon_id: "785,786,787,788,789,790"
+  }
+  {
+    id: 4751
+    name: 彷徨う空間
+    description: 進んでいるかもしれないし、後退しているかもしれない。別の次元に身を任せた以上、方向だけは見失うなかれ。
+    code: Foot1
+    icon: commander_4751_icon
+    type: 5
+    gender: 1
+    uniform_class: "47"
+    color_normal: Commander_4751_N
+    color_0: Commander_4751_0
+    color_1: Commander_4751_1
+    color_2: Commander_4751_2
+    color_3: Commander_4751_3
+    color_4: Commander_4751_4
+    color_icon_id: "791,792,793,794,795,796"
+  }
+  {
+    id: 4752
+    name: 光年を越えろ
+    description: もし光の速度を越えられるのなら、私は無窮の時の中で、この足で宇宙を測りたい。
+    code: Foot2
+    icon: commander_4752_icon
+    type: 5
+    gender: 2
+    uniform_class: "47"
+    color_normal: Commander_4752_N
+    color_0: Commander_4752_0
+    color_1: Commander_4752_1
+    color_2: Commander_4752_2
+    color_3: Commander_4752_3
+    color_4: Commander_4752_4
+    color_icon_id: "797,798,799,800,801,802"
   }
   {
     id: 4911
