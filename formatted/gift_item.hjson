@@ -7282,6 +7282,19 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 7408
+    name: 銀河への花束
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 321
+    skin: 7408
+    poster: 37408
+    code: gift_bundle_Cosmos2022_TavorTS12
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 7501
     name: 氷海の幻舞
     type: 2
@@ -7356,6 +7369,84 @@
     skin: 7506
     poster: 37506
     code: gift_bundle_Sport2022_C14
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7701
+    name: 游龍形拳
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 316
+    skin: 7701
+    poster: 37701
+    code: gift_bundle_KungFu2022_GeneralLiu
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7702
+    name: 孤松行
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 361
+    skin: 7702
+    poster: 37702
+    code: gift_bundle_KungFu2022_QBZ191
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7703
+    name: 墨鱗の一刺し
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 333
+    skin: 7703
+    poster: 37703
+    code: gift_bundle_KungFu2022_VP1915
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7704
+    name: 蜻蛉の水切り
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 187
+    skin: 7704
+    poster: 37704
+    code: gift_bundle_KungFu2022_Ak5
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7705
+    name: 鶴立ち
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 270
+    skin: 7705
+    poster: 37705
+    code: gift_bundle_KungFu2022_4type
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7706
+    name: 無双棍舞
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 66
+    skin: 7706
+    poster: 37706
+    code: gift_bundle_KungFu2022_56-1type
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }

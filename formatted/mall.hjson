@@ -27981,6 +27981,32 @@
     classification_id: 3002
   }
   {
+    id: 31590
+    type: 8
+    item_ids: 605-10,516-1000
+    gemprice: 1120
+    quota: 2003
+    giftbag_name: 融合勢力専用補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 31591
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 7702-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(QBZ-191)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: 1
+    classification_id: 3003
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980
