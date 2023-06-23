@@ -28007,6 +28007,46 @@
     classification_id: "3003"
   }
   {
+    id: "31592"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 8002-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(Px4 ストーム)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin06
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31593"
+    type: "8"
+    item_ids: 7-1,41-50
+    gift: 8006-1
+    gemprice: "1888"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(タブク)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin03
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31594"
+    type: "8"
+    gemprice: "280"
+    quota: "2050"
+    giftbag_name: 戦術人形お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_hokyu
+    discount: "1.00"
+    prize_id: "330305"
+    classification_id: "3002"
+  }
+  {
     id: "99001"
     type: "102"
     gemprice: "980"

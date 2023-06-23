@@ -1,13 +1,6 @@
 [
   {
     day: "1"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    gift: 200001-300
-  }
-  {
-    day: "1"
     start_time: 2023-05-01 00:00:00
     end_time: 2023-05-31 23:59:59
     attendance_type: "1"
@@ -26,13 +19,6 @@
     end_time: 2023-06-30 23:59:59
     attendance_type: "1"
     mp: "200"
-  }
-  {
-    day: "2"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    prize_id: "330307"
   }
   {
     day: "2"
@@ -57,13 +43,6 @@
   }
   {
     day: "3"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    item_ids: 9-30
-  }
-  {
-    day: "3"
     start_time: 2023-05-01 00:00:00
     end_time: 2023-05-31 23:59:59
     attendance_type: "1"
@@ -82,13 +61,6 @@
     end_time: 2023-06-30 23:59:59
     attendance_type: "1"
     mre: "200"
-  }
-  {
-    day: "4"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    prize_id: "330308"
   }
   {
     day: "4"
@@ -115,13 +87,6 @@
   }
   {
     day: "5"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    prize_id: "330309"
-  }
-  {
-    day: "5"
     start_time: 2023-05-01 00:00:00
     end_time: 2023-05-31 23:59:59
     attendance_type: "1"
@@ -143,13 +108,6 @@
   }
   {
     day: "6"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    item_ids: 8-2
-  }
-  {
-    day: "6"
     start_time: 2023-05-01 00:00:00
     end_time: 2023-05-31 23:59:59
     attendance_type: "1"
@@ -168,13 +126,6 @@
     end_time: 2023-06-30 23:59:59
     attendance_type: "1"
     item_ids: 2-3
-  }
-  {
-    day: "7"
-    start_time: 2023-04-29 00:00:00
-    end_time: 2023-05-12 23:59:59
-    attendance_type: "2"
-    item_ids: 506-200
   }
   {
     day: "7"

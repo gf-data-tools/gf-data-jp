@@ -25787,6 +25787,196 @@
     interact_point_offset: *1.254,1.545,-0.285
   }
   {
+    id: 10901
+    name: 玉兎の宴-雪と約束した地
+    classes: 109
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 空よ、どうか真っ白の雪で、過去の塵を埋めてくれ。我々は今から、この地で新たなる未来を描く。
+    code: SpringFes2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10902
+    name: 玉兎の宴-暖かい花の海
+    classes: 109
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 人形たちが登壇の順番で喧嘩をしていた時、アーキテクトはすでに改良版の花火ランチャーを持って、こっそり舞台裏に入った……
+    code: SpringFes2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10903
+    name: 玉兎の宴-幸運の扉
+    classes: 109
+    type: 201
+    position: "1,3"
+    space: "7,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 舞台裏に通じる「Stage Door（演者専用通行口）」。赤い対聯を貼れば、今宵の舞台はより一層暖かく感じるだろう。
+    code: SpringFes2023_deco_01
+    texture_type: "1"
+    offset: "0.000,-0.323,-0.073"
+    rotate: "2"
+  }
+  {
+    id: 10904
+    name: 玉兎の宴-生き生きな鯉池
+    classes: 109
+    type: 201
+    position: "1,10"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 音楽が流れ始めると、池の中の鯉もすいすいと泳ぎ始める……これは本物か、それとも巧妙にできたオルゴールか？
+    code: SpringFes2023_deco_15,SpringFes2023_deco_16,SpringFes2023_pool
+    texture_type: "1,1,2"
+    sorting: "0,20,10"
+    offset: "0.000,0.000,0.000|0,0.3555607,0.0813306|0.198,0.480,0.104"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10905
+    name: 玉兎の宴-白の席
+    classes: 109
+    type: 201
+    position: "10,9"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: ゆっくりと火を通し、じっくりと煮込む。最もシンプルな調理法でしか、食材本来の味を活かせない――辛いのが苦手な人形はそう言う。
+    code: SpringFes2023_deco_02,SpringFes2023_deco_13,SpringFes2023_deco_14
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-1.220,0.000,0.000|1.189,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *3.150,1.423,-0.285|*-3.222,1.252,0.398
+  }
+  {
+    id: 10906
+    name: 玉兎の宴-赤のテーブル
+    classes: 109
+    type: 201
+    position: "19,11"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 油を沸きたてて、辛子を大量に投入する。辛さは冬の日の至福だけではなく、ただ一つの信仰でもある――辛いのしか食べない人形はそう言う。
+    code: SpringFes2023_deco_03,SpringFes2023_deco_13,SpringFes2023_deco_14
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-1.220,0.000,0.000|1.189,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *3.150,1.423,-0.285|*-3.222,1.252,0.398
+  }
+  {
+    id: 10907
+    name: 玉兎の宴-燃えるような気持ち
+    classes: 109
+    type: 201
+    position: "7,10"
+    space: "3,4,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 「この導火線に火をつけば、本年度最も鮮やかな祝福を得られるだろう」――グリフィン肝試し運営スタッフより。
+    code: SpringFes2023_deco_04
+    texture_type: "1"
+    offset: "0.000,-0.104,-0.021"
+    rotate: "2"
+  }
+  {
+    id: 10908
+    name: 玉兎の宴-司会の妖精
+    classes: 109
+    type: 201
+    position: "26,3"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 背景の雪に完璧に溶け込んだ司会ロボット。噂によると、中身は無理やり残業させられている戦術妖精らしい。
+    code: SpringFes2023_deco_05
+    texture_type: "1"
+    offset: "0.000,-0.094,-0.021"
+    rotate: "2"
+  }
+  {
+    id: 10909
+    name: 玉兎の宴-月兎の劇場
+    classes: 109
+    type: 201
+    position: "9,0"
+    space: "16,4,1,1,1,0"
+    deco_rate: 1350
+    decompose_gift: 100003
+    description: 新春宴会のために用意した豪華舞台。スポットライトの準備もバッチリで、あとは芸人たちの登壇を待つだけだ……いや待て、酔っ払い人形だけはダメだ。
+    code: SpringFes2023_deco_06,SpringFes2023_deco_07,SpringFes2023_deco_11,SpringFes2023_deco_12,SpringFes2023_RabbitLantern
+    texture_type: "1,1,1,1,2"
+    sorting: "0,0,0,0,20"
+    offset: "-1.182,-0.235,-0.054|3.405,-0.235,-0.054|3.405,4.238,0.978|-1.182,4.238,0.978|0.011,1.246,-0.044"
+    rotate: "2,2,2,2,2"
+    interact_point: "28,36"
+    interact_point_offset: *3.208,0.825,-0.285|*-2.800,0.683,-0.285
+  }
+  {
+    id: 10910
+    name: 玉兎の宴-飴細工の屋台
+    classes: 109
+    type: 201
+    position: "30,6"
+    space: "4,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 飴細工を販売している無人屋台。在庫はたっぷりあるみたいだが、虫歯には気を付けよう。
+    code: SpringFes2023_deco_08
+    texture_type: "1"
+    offset: "0.000,-0.250,-0.063"
+    rotate: "2"
+  }
+  {
+    id: 10911
+    name: 玉兎の宴-絵馬掛け
+    classes: 109
+    type: 201
+    position: "28,0"
+    space: "5,5,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 灯の元、新年の願いが多く掛けられているここは、やけに暖かく感じる。その中の一枚――「今年は365日の有給が欲しい！」
+    code: SpringFes2023_deco_09
+    texture_type: "1"
+    offset: "0.000,-0.240,0.448"
+    rotate: "2"
+  }
+  {
+    id: 10912
+    name: 玉兎の宴-夜の防人
+    classes: 109
+    type: 201
+    position: "30,11"
+    space: "3,2,1,1,1,1"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 酔っ払いの人形が新年早々道を見間違わないよう、こうしてずっと帰り道を照らしているのだ。
+    code: SpringFes2023_deco_10
+    texture_type: "1"
+    offset: "0.000,-0.271,-0.063"
+    rotate: "2"
+  }
+  {
     id: 20004
     name: 四度目の輝けるステージ
     classes: 31
@@ -34991,6 +35181,111 @@
     decompose_gift: 100003
     description: Micro Uziのポスター。
     code: poster_NewYear2023_MicroUZI
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38001
+    name: 紅露酔
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1のポスター。
+    code: poster_SpringFes2023_MK3A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38002
+    name: 金風嬈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Px4 ストームのポスター。
+    code: poster_SpringFes2023_Px4Storm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38003
+    name: 暗香盈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Ermaのポスター。
+    code: poster_SpringFes2023_Erma
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38004
+    name: 玉叢幽
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Model 99のポスター。
+    code: poster_SpringFes2023_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38005
+    name: 満庭芳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Rex Zero 1のポスター。
+    code: poster_SpringFes2023_RexZero1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38006
+    name: 福双至
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: タブクのポスター。
+    code: poster_SpringFes2023_Tabuk
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38007
+    name: 木蘭謡
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556のポスター。
+    code: poster_SpringFes2023_APC556
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
