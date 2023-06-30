@@ -7764,6 +7764,19 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 30006
+    name: カラフルな出会い
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 285
+    skin: 30006
+    poster: 330006
+    code: gift_bundle_BattlePass_C93
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 100001
     name: ロリポップ
     type: 1

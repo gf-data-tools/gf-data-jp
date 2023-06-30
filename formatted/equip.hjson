@@ -8605,6 +8605,41 @@
     obtain_ids: "3065"
   }
   {
+    id: 277
+    name: DHG延長ハンドガード
+    description:
+      '''
+      移動速度+<speed> 命中+<hit>
+      回避+<dodge>スキル強化$P90専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    hit: "4,6"
+    dodge: "7,10"
+    speed: "3,3"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_P90
+    develop_duration: 2820
+    company: DHG
+    fit_guns: "245"
+    equip_introduction: DHGスタジオがP90のためにオーダーメイドで作成したMlokシステム付のハンドガード。この装備によってP90のオプション搭載能力は大幅にアップする。
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: dodge:1000,hit:700
+    passive_skill: "759031"
+    max_level: 10
+    auto_select_id: 18088
+    is_show: 1
+    obtain_ids: "3066"
+  }
+  {
     id: 278
     name: P22レーザーポインター
     description:

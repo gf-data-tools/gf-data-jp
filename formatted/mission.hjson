@@ -26292,17 +26292,17 @@
     boss_team_id: "6470101"
     turn_duration: 360000000
     turn_limit: 99
-    limit_gun_pool: "295"
+    limit_gun_pool: "202"
     limit_team: "0,2"
     map_res_name: OPS77_Y
     map_information: "12000,12000|5000,5000|-3500,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "452"
+    draw_event_s_id: "572"
     drop_mission_key: "0,0,1078000:1"
     mission_group_id: 19
     round_config: 1:1,2:5,3:3
-    draw_code: 0;900047,90,Bikini_2021_MissionPanelTip
+    draw_code: 0;100146,120,Bikini_2021_MissionPanelTip
     win_type: "1078001"
     difficulty_recommend: 3500;35
   }
@@ -26320,18 +26320,18 @@
     boss_team_id: "6470201"
     turn_duration: 360000000
     turn_limit: 99
-    limit_gun_pool: "317"
+    limit_gun_pool: "343"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|5000,3000|0,1000"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "452"
+    draw_event_s_id: "572"
     drop_mission_key: "0,0,1078100:1"
     mission_group_id: 19
     open_mission_keys: 1078000:1
     round_config: 1:1,2:5,3:3
-    draw_code: 0;900047,90,Bikini_2021_MissionPanelTip
+    draw_code: 0;100146,120,Bikini_2021_MissionPanelTip
     win_type: "1078101"
     difficulty_recommend: 5000;50
   }
@@ -26349,18 +26349,18 @@
     boss_team_id: "6470301"
     turn_duration: 360000000
     turn_limit: 99
-    limit_gun_pool: "211"
+    limit_gun_pool: "316"
     limit_team: "0,1"
     map_res_name: OPS77_Y
     map_information: "9000,9000|5000,5000|3700,0"
     fog_length: "0,400"
     fog_color: "#000000FF"
-    draw_event_s_id: "451"
+    draw_event_s_id: "573"
     drop_mission_key: "0,0,1078200:1"
     mission_group_id: 19
     open_mission_keys: 1078100:1
     round_config: 1:1,2:5,3:3
-    draw_code: 0;900047,90,Bikini_2021_MissionPanelTip
+    draw_code: 0;100146,120,Bikini_2021_MissionPanelTip
     win_type: "1078201"
     difficulty_recommend: 8000;70
   }
@@ -26378,17 +26378,18 @@
     boss_team_id: "6470401"
     turn_duration: 360000000
     turn_limit: 99
-    limit_gun_pool: "318"
+    limit_gun_pool: "334"
     limit_team: "0,3"
     map_res_name: OPS77_Y
     map_information: "10500,10500|5000,4000|2000,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "573"
     mission_group_id: 19
     open_mission_keys: 1078200:1
     force_type: "1"
     round_config: 1:1,2:5,3:3
-    draw_code: 0;900047,90,Bikini_2021_MissionPanelTip
+    draw_code: 0;100146,120,Bikini_2021_MissionPanelTip
     win_type: "1078301"
     difficulty_recommend: 14000;87
   }
