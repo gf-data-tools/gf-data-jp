@@ -105,7 +105,7 @@
     id: 18
     type: consume_bp
     title: AP消費(超伝導APを含む)
-    content: APを累計{0}ポイント消費する
+    content: 模擬作戦中(融合演習を除く)APを累計{0}ポイント消費する
   }
   {
     id: 19
@@ -758,7 +758,7 @@
     id: 130
     type: consume_sangvis_material1_coin
     title: PE消費(超伝導PEを含む)
-    content: PEを累計{0}ポイント消費する
+    content: 模擬作戦中(融合演習)PEを累計{0}ポイント消費する
   }
   {
     id: 131

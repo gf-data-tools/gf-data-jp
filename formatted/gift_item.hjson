@@ -7620,6 +7620,19 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 8008
+    name: 朝顔蔓
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 82
+    skin: 8008
+    poster: 38008
+    code: gift_bundle_SpringFes2023_DP28
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 8201
     name: コード船長
     type: 2
