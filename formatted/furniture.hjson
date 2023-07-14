@@ -25192,6 +25192,215 @@
     rotate: "2,2,2"
   }
   {
+    id: 10401
+    name: アイスクリームの国-魔法の地
+    classes: 104
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 暑い日差しの中、砂浜を越え、この地に立った最初のダイナーゲートは、こここそまさに雪とアイスの魔法の大陸であると宣言した。
+    code: SummerSwim2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10402
+    name: アイスクリームの国-ヤシの幻境
+    classes: 104
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 一目見れば、さわやかな海風と、風に揺れるヤシの木と、ココナッツの甘い匂いが思い浮かぶ……冷房の効いた部屋から出ない限り、その幻想が砕かれることはない。
+    code: SummerSwim2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10403
+    name: アイスクリームの国-アイスクリード
+    classes: 104
+    type: 201
+    position: "4,5"
+    space: "10,5,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: すべてのアイスの値段が明記されている。もう予想外の高額アイスに怯える必要はない。
+    code: SummerSwim2022_deco_01,SummerSwim2022_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.646474,0,0|1.657893,0,0"
+    rotate: "2,2"
+    interact_point: "17"
+    interact_point_offset: *-0.846,1.850,2.476
+  }
+  {
+    id: 10404
+    name: アイスクリームの国-堕ちる舌の先
+    classes: 104
+    type: 202
+    position: "17,10"
+    space: "8,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 何度も、拒絶しようとした。しかし、いざアイスと目が合ってしまうと、「ダイエット中」とか、「甘いもの禁止中」とか、そんな自分ルールは涎と一緒にこぼれ落ちてしまうのだ。
+    code: SummerSwim2022_deco_03,SummerSwim2022_deco_04,SummerSwim2022_deco_05
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "0,0,0|-1.0427,0,0|0.959284,0,0"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *2.246,1.565,-0.285|*-2.567,1.394,-0.285
+  }
+  {
+    id: 10405
+    name: アイスクリームの国-極楽の瀬戸際
+    classes: 104
+    type: 202
+    position: "26,7"
+    space: "8,4,1,1,0,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 「喜びとは、代償を支払わなければ得られない奢侈品なんだ」トイレから戻ってきた君は、虚ろな声でそう言った。
+    code: SummerSwim2022_deco_06,SummerSwim2022_deco_07,SummerSwim2022_deco_08
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "0,0,0|-1.0427,0,0|0.959284,0,0"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *2.246,1.565,-0.285|*-2.567,1.394,-0.285
+  }
+  {
+    id: 10406
+    name: アイスクリームの国-灯りの使命
+    classes: 104
+    type: 201
+    position: "22,7"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 実に空気を読めていない。こいつはこの部屋で唯一、熱く光っている奴だ。
+    code: SummerSwim2022_deco_09,SummerSwim2022_deco_10
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0,0.896722,0.198113|4.608734,0.896722,0.198113"
+    rotate: "2,2"
+  }
+  {
+    id: 10407
+    name: アイスクリームの国-誘惑する罠
+    classes: 104
+    type: 302
+    position: "3,4"
+    space: "8,6,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 人々はいつも、自分たちはメニューから欲しいものを選んでいると思っているらしいが、本当は本来欲しくもないものをメニューに誘導されて選んでいるのかもしれない。
+    code: SummerSwim2022_deco_11,SummerSwim2022_deco_12,Summer2022_billboardLight
+    texture_type: "1,1,2"
+    sorting: "20,20,20"
+    offset: "-0.76534190427,0,0|1.5285982,0,0|0.10427,-1.0760664,0"
+    rotate: "3,3,3"
+  }
+  {
+    id: 10408
+    name: アイスクリームの国-魅惑の看板
+    classes: 104
+    type: 201
+    position: "1,10"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 色鮮やかなアイスクリームと、かわいらしい店員さん。熱く焦げている魂を救えるのは、これしかない。
+    code: SummerSwim2022_deco_13
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10409
+    name: アイスクリームの国-純白の思い出
+    classes: 104
+    type: 201
+    position: "21,3"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 白いバニラアイスも、時間が経てば味気なく感じてしまう。結局、一番美味しそうなのは隣のトッピングコーナーだ。
+    code: SummerSwim2022_deco_14
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10410
+    name: アイスクリームの国-色とりどりのトッピング
+    classes: 104
+    type: 201
+    position: "26,2"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 色とりどりのトッピングと、真っ白のアイスクリームが、様々な思いと化し、口の中で融け合っていく。
+    code: SummerSwim2022_deco_15
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10411
+    name: アイスクリームの国-観賞用高木
+    classes: 104
+    type: 201
+    position: "32,3"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 近くのガーデニングショップで購入した。買った時はそんなに大きくならない観賞植物と言われたが、植木鉢を二つ割ってからようやく、自分は騙されたと気づいた。
+    code: SummerSwim2022_deco_16,SummerSwim2022_deco_17
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.427507,0,0|-0.4097811,2.2459758,0.5130084"
+    rotate: "2,2"
+  }
+  {
+    id: 10412
+    name: アイスクリームの国-芭蕉、雨に打たれて
+    classes: 104
+    type: 201
+    position: "0,3"
+    space: "3,3,1,1,1,1"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 昔の人はよく、雨に打たれる芭蕉の姿を称賛していたが、残念ながらこの芭蕉は、窓の外を眺めながら、世界の雨が自分に降ってくることを幻想するしかなかった。
+    code: SummerSwim2022_deco_18,SummerSwim2022_deco_19
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0,-0.135551,-0.031281|0,2.106254,0.490069"
+    rotate: "2,2"
+  }
+  {
+    id: 10413
+    name: アイスクリームの国-結界の果て
+    classes: 104
+    type: 302
+    position: "17,0"
+    space: "2,25,1,1,1,1"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: これはただのドアではない。ドアの内側は涼しい一日だが、一歩でも外に出れば、世界中の灼熱が君に襲い掛かってくるだろう。
+    code: SummerSwim2022_deco_20,SummerSwim2022_deco_21,SummerSwim2022_deco_22
+    texture_type: "1,1,1"
+    sorting: "3,3,3"
+    offset: "-4.348059,0,0|0.25858949573,0,0|4.8662809,0,0"
+    rotate: "2,2,2"
+  }
+  {
     id: 10501
     name: 天域の孤舟-無重力領域
     classes: 105
@@ -34806,6 +35015,126 @@
     decompose_gift: 100003
     description: C14のポスター。
     code: poster_OfficeLady2022_C14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37301
+    name: 海辺の救助員
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M6 ASWのポスター。
+    code: poster_Swimsuit2022_M6ASW
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37302
+    name: ポテトが欲しい
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Model 99のポスター。
+    code: poster_Swimsuit2022_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37303
+    name: 夏に融ける
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: スターリングのポスター。
+    code: poster_Swimsuit2022_Sterling
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37304
+    name: 蜜色の海へ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HS.50のポスター。
+    code: poster_Swimsuit2022_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37305
+    name: 戟と漁師
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AK74Mのポスター。
+    code: poster_Swimsuit2022_AK74M
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37306
+    name: 水面に浮かぶモノクロの音色
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: CF-05のポスター
+    code: poster_Swimsuit2022_06TypeSMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37307
+    name: 紅の夏
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: EVO 3のポスター。
+    code: poster_Swimsuit2022_EVO3
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37308
+    name: 砂城の壊滅者
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: IWS 2000のポスター。
+    code: poster_Swimsuit2022_IWS2000
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

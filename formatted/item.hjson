@@ -8068,6 +8068,8 @@
     type: 5
     arg: "1"
     code: profilePic_rank4_ARMod
+    item_name: ガリルメンタルアップグレードアイコン
+    introduction: ガリルメンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -8075,6 +8077,8 @@
     type: 5
     arg: "1"
     code: profilePic_rank5_PP19Mod
+    item_name: PP-19メンタルアップグレードアイコン
+    introduction: PP-19メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -8082,6 +8086,8 @@
     type: 5
     arg: "1"
     code: profilePic_rank4_M1897Mod
+    item_name: M1897メンタルアップグレードアイコン
+    introduction: M1897メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -8801,6 +8807,15 @@
     code: profilePic_rank5_xm3Mod
     item_name: XM3メンタルアップグレードアイコン
     introduction: XM3メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 1866
+    type: 5
+    arg: "1"
+    code: profilePic_mask_5years
+    item_name: 真核の仮面アイコン·五周年
+    introduction: 真核の仮面アイコン·五周年
     rank: 1
   }
   {
@@ -10610,6 +10625,78 @@
     code: profilePic_ChessFlight_season6_3
     item_name: 爆震怒号・コードIV：拡散
     introduction: 爆震怒号・コードIV：拡散
+    rank: 1
+  }
+  {
+    id: 2116
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_M6ASW
+    item_name: 海辺の救助員
+    introduction: 海辺の救助員
+    rank: 1
+  }
+  {
+    id: 2117
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_Savage99
+    item_name: ポテトが欲しい
+    introduction: ポテトが欲しい
+    rank: 1
+  }
+  {
+    id: 2118
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_Sterling
+    item_name: 夏に融ける
+    introduction: 夏に融ける
+    rank: 1
+  }
+  {
+    id: 2119
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_HS50
+    item_name: 蜜色の海へ
+    introduction: 蜜色の海へ
+    rank: 1
+  }
+  {
+    id: 2120
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_AK74M
+    item_name: 戟と漁師
+    introduction: 戟と漁師
+    rank: 1
+  }
+  {
+    id: 2121
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_06TypeSMG
+    item_name: 水面に浮かぶモノクロの音色
+    introduction: 水面に浮かぶモノクロの音色
+    rank: 1
+  }
+  {
+    id: 2122
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_EVO3
+    item_name: 紅の夏
+    introduction: 紅の夏
+    rank: 1
+  }
+  {
+    id: 2123
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2022_IWS2000
+    item_name: 砂城の壊滅者
+    introduction: 砂城の壊滅者
     rank: 1
   }
   {
@@ -12962,6 +13049,15 @@
     rank: 1
     daily_limit: "60"
     detail_introduction: item-30100083
+  }
+  {
+    id: 100089
+    type: 4
+    arg: "100089"
+    code: core_mask_5year
+    item_name: 真核の仮面·五周年
+    introduction: 真核の仮面·五周年
+    rank: 1
   }
   {
     id: 100092

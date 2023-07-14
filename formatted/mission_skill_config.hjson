@@ -53940,9 +53940,9 @@
   }
   {
     id: 9361731
-    name: Openコマンド(防御门A1)
+    name: Openコマンド(防御ゲートA1)
     code: "1"
-    description: 使防御门A1变更为开启状态
+    description: 防御ゲートA1をOpen状態に変更する
     skill_group_id: 9361731
     level: 1
     spot_type: "-1"
@@ -53957,9 +53957,9 @@
   }
   {
     id: 9361732
-    name: Openコマンド(防御门A2)
+    name: Openコマンド(防御ゲートA2)
     code: "1"
-    description: 使防御门A2变更为开启状态
+    description: 防御ゲートA2をOpen状態に変更する
     skill_group_id: 9361732
     level: 1
     spot_type: "-1"
@@ -53974,9 +53974,9 @@
   }
   {
     id: 9361733
-    name: Openコマンド(防御门A3)
+    name: Openコマンド(防御ゲートA3)
     code: "1"
-    description: 使防御门A3变更为开启状态
+    description: 防御ゲートA3をOpen状態に変更する
     skill_group_id: 9361733
     level: 1
     spot_type: "-1"
@@ -53991,9 +53991,9 @@
   }
   {
     id: 9361734
-    name: Openコマンド(防御门AX)
+    name: Openコマンド(防御ゲートAX)
     code: "1"
-    description: 使防御门AX变更为开启状态
+    description: 防御ゲートAXをOpen状態に変更する
     skill_group_id: 9361734
     level: 1
     spot_type: "-1"
@@ -54008,9 +54008,9 @@
   }
   {
     id: 9361735
-    name: Openコマンド(防御门B1)
+    name: Openコマンド(防御ゲートB1)
     code: "1"
-    description: 使防御门B1变更为开启状态
+    description: 防御ゲートB1をOpen状態に変更する
     skill_group_id: 9361735
     level: 1
     spot_type: "-1"
@@ -54025,9 +54025,9 @@
   }
   {
     id: 9361736
-    name: Openコマンド(防御门B2)
+    name: Openコマンド(防御ゲートB2)
     code: "1"
-    description: 使防御门B2变更为开启状态
+    description: 防御ゲートB2をOpen状態に変更する
     skill_group_id: 9361736
     level: 1
     spot_type: "-1"
@@ -54042,9 +54042,9 @@
   }
   {
     id: 9361737
-    name: Openコマンド(防御门B3)
+    name: Openコマンド(防御ゲートB3)
     code: "1"
-    description: 使防御门B3变更为开启状态
+    description: 防御ゲートB3をOpen状態に変更する
     skill_group_id: 9361737
     level: 1
     spot_type: "-1"
@@ -54059,9 +54059,9 @@
   }
   {
     id: 9361738
-    name: Openコマンド(防御门BX)
+    name: Openコマンド(防御ゲートBX)
     code: "1"
-    description: 使防御门BX变更为开启状态
+    description: 防御ゲートBXをOpen状態に変更する
     skill_group_id: 9361738
     level: 1
     spot_type: "-1"
@@ -54076,9 +54076,9 @@
   }
   {
     id: 9361741
-    name: Closeコマンド(防御门A1)
+    name: Closeコマンド(防御ゲートA1)
     code: "1"
-    description: 使防御门A1变更为关闭状态
+    description: 防御ゲートAXをClose状態に変更する
     skill_group_id: 9361741
     level: 1
     spot_type: "-1"
@@ -54093,9 +54093,9 @@
   }
   {
     id: 9361742
-    name: Closeコマンド(防御门A2)
+    name: Closeコマンド(防御ゲートA2)
     code: "1"
-    description: 使防御门A2变更为关闭状态
+    description: 防御ゲートA2をClose状態に変更する
     skill_group_id: 9361742
     level: 1
     spot_type: "-1"
@@ -54110,9 +54110,9 @@
   }
   {
     id: 9361743
-    name: Closeコマンド(防御门A3)
+    name: Closeコマンド(防御ゲートA3)
     code: "1"
-    description: 使防御门A3变更为关闭状态
+    description: 防御ゲートA3をClose状態に変更する
     skill_group_id: 9361743
     level: 1
     spot_type: "-1"
@@ -54127,9 +54127,9 @@
   }
   {
     id: 9361744
-    name: Closeコマンド(防御门AX)
+    name: Closeコマンド(防御ゲートAX)
     code: "1"
-    description: 使防御门AX变更为关闭状态
+    description: 防御ゲートAXをClose状態に変更する
     skill_group_id: 9361744
     level: 1
     spot_type: "-1"
@@ -54144,9 +54144,9 @@
   }
   {
     id: 9361745
-    name: Closeコマンド(防御门B1)
+    name: Closeコマンド(防御ゲートB1)
     code: "1"
-    description: 使防御门B1变更为关闭状态
+    description: 防御ゲートB1をClose状態に変更する
     skill_group_id: 9361745
     level: 1
     spot_type: "-1"
@@ -54161,9 +54161,9 @@
   }
   {
     id: 9361746
-    name: Closeコマンド(防御门B2)
+    name: Closeコマンド(防御ゲートB2)
     code: "1"
-    description: 使防御门B2变更为关闭状态
+    description: 防御ゲートB2をClose状態に変更する
     skill_group_id: 9361746
     level: 1
     spot_type: "-1"
@@ -54178,9 +54178,9 @@
   }
   {
     id: 9361747
-    name: Closeコマンド(防御门B3)
+    name: Closeコマンド(防御ゲートB3)
     code: "1"
-    description: 使防御门B3变更为关闭状态
+    description: 防御ゲートB3をClose状態に変更する
     skill_group_id: 9361747
     level: 1
     spot_type: "-1"
@@ -54195,9 +54195,9 @@
   }
   {
     id: 9361748
-    name: Closeコマンド(防御门BX)
+    name: Closeコマンド(防御ゲートBX)
     code: "1"
-    description: 使防御门BX变更为关闭状态
+    description: 防御ゲートBXをClose状態に変更する
     skill_group_id: 9361748
     level: 1
     spot_type: "-1"
@@ -54212,9 +54212,9 @@
   }
   {
     id: 9361751
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X2,X4变更为开启状态
+    description: 防御ゲートX2、X4をOpen状態に変更する
     skill_group_id: 9361751
     level: 1
     spot_type: "-1"
@@ -54228,9 +54228,9 @@
   }
   {
     id: 9361752
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X2变更为关闭状态，使防御门X3变更为开启状态
+    description: 防御ゲートX2をClose状態に変更し、防御ゲートX3をOpen状態に変更する
     skill_group_id: 9361752
     level: 1
     spot_type: "-1"
@@ -54244,9 +54244,9 @@
   }
   {
     id: 9361753
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为关闭状态，使防御门X2变更为开启状态
+    description: 防御ゲートX1をClose状態に変更し、防御ゲートX2をOpen状態に変更する
     skill_group_id: 9361753
     level: 1
     spot_type: "-1"
@@ -54260,9 +54260,9 @@
   }
   {
     id: 9361754
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X2变更为开启状态，使防御门X4变更为关闭状态
+    description: 防御ゲートX2をOpen状態に変更し、防御ゲートX4をOpen状態に変更する
     skill_group_id: 9361754
     level: 1
     spot_type: "-1"
@@ -54276,9 +54276,9 @@
   }
   {
     id: 9361755
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为关闭状态，使防御门X4变更为开启状态
+    description: 防御ゲートX1をClose状態に変更し、防御ゲートX4をOpen状態に変更する
     skill_group_id: 9361755
     level: 1
     spot_type: "-1"
@@ -54308,9 +54308,9 @@
   }
   {
     id: 9361757
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为关闭状态，使防御门X3变更为开启状态
+    description: 防御ゲートX1をClose状態に変更し、防御ゲートX3をOpen状態に変更する
     skill_group_id: 9361757
     level: 1
     spot_type: "-1"
@@ -54340,9 +54340,9 @@
   }
   {
     id: 9361759
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1,X2,X3变更为关闭状态
+    description: 防御ゲートX1、X2、X3をClose状態に変更する
     skill_group_id: 9361759
     level: 1
     spot_type: "-1"
@@ -54356,9 +54356,9 @@
   }
   {
     id: 9361761
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1,X3变更为开启状态
+    description: 防御ゲートX1、X3をOpen状態に変更する
     skill_group_id: 9361761
     level: 1
     spot_type: "-1"
@@ -54372,9 +54372,9 @@
   }
   {
     id: 9361762
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为开启状态，使防御门X2变更为关闭状态
+    description: 防御ゲートX1をOpen状態に変更し、防御ゲートX2をClose状態に変更する
     skill_group_id: 9361762
     level: 1
     spot_type: "-1"
@@ -54388,9 +54388,9 @@
   }
   {
     id: 9361763
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X2变更为开启状态，使防御门X3变更为关闭状态
+    description: 防御ゲートX2をOpen状態に変更し、防御ゲートX3をClose状態に変更する
     skill_group_id: 9361763
     level: 1
     spot_type: "-1"
@@ -54404,9 +54404,9 @@
   }
   {
     id: 9361764
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为开启状态，使防御门X4变更为关闭状态
+    description: 防御ゲートX1をOpen状態に変更し、防御ゲートX4をClose状態に変更する
     skill_group_id: 9361764
     level: 1
     spot_type: "-1"
@@ -54420,9 +54420,9 @@
   }
   {
     id: 9361765
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X2变更为关闭状态，使防御门X4变更为开启状态
+    description: 防御ゲートX2をClose状態に変更し、防御ゲートX4をOpen状態に変更する
     skill_group_id: 9361765
     level: 1
     spot_type: "-1"
@@ -54436,9 +54436,9 @@
   }
   {
     id: 9361766
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为开启状态，使防御门X3变更为关闭状态
+    description: 防御ゲートX1をOpen状態に変更し、防御ゲートX3をClose状態に変更する
     skill_group_id: 9361766
     level: 1
     spot_type: "-1"
@@ -54452,9 +54452,9 @@
   }
   {
     id: 9361767
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X1变更为关闭状态，使防御门X2,X3变更为开启状态
+    description: 防御ゲートX1をClose状態に変更し、防御ゲートX2、X3をOpen状態に変更する
     skill_group_id: 9361767
     level: 1
     spot_type: "-1"
@@ -54468,9 +54468,9 @@
   }
   {
     id: 9361768
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X2,X3,X4变更为关闭状态
+    description: 防御ゲートX2、X3、X4をClose状態に変更する
     skill_group_id: 9361768
     level: 1
     spot_type: "-1"
@@ -54484,9 +54484,9 @@
   }
   {
     id: 9361769
-    name: 開けゴマ
+    name: 開け～ゴマ
     code: "1"
-    description: 使防御门X4变更为开启状态
+    description: 防御ゲートX4をOpen状態に変更する
     skill_group_id: 9361769
     level: 1
     spot_type: "-1"
@@ -55229,9 +55229,9 @@
   }
   {
     id: 9362705
-    name: 开启防御门II
+    name: 防御ゲートIIを開く
     code: "1"
-    description: 使防御门II变更为开启状态
+    description: 防御ゲートIをOpen状態に変更する
     skill_group_id: 9362705
     level: 1
     spot_type: "-1"
@@ -61666,6 +61666,8 @@
   }
   {
     id: 45010001
+    name: Haven Mode
+    description: 指揮官周囲の敵がすべて消える。
     skill_group_id: 45010001
     level: 1
     spot_type: "-1"
@@ -61679,6 +61681,8 @@
   }
   {
     id: 45010002
+    name: Easy Mode
+    description: 指揮官周囲の敵が大量に消える。
     skill_group_id: 45010002
     level: 1
     spot_type: "-1"
@@ -61692,6 +61696,8 @@
   }
   {
     id: 45010003
+    name: Normal Mode
+    description: 指揮官周囲の敵が少し消える。
     skill_group_id: 45010003
     level: 1
     spot_type: "-1"
@@ -61705,6 +61711,7 @@
   }
   {
     id: 45010004
+    name: メンタルハッキング
     skill_group_id: 45010004
     level: 1
     spot_type: "-1"
@@ -61718,6 +61725,7 @@
   }
   {
     id: 45010005
+    name: メンタルハッキング
     skill_group_id: 45010005
     level: 1
     spot_type: "-1"

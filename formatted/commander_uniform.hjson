@@ -2988,4 +2988,18 @@
     color_4: Commander_5152_4
     color_icon_id: "942,943,944,945,946,947"
   }
+  {
+    id: 5320
+    name: アニバーサリーシルクハット
+    description: グリフィンのみんなが指揮官のために作ったパレード用のシルクハット。ただ、AUGは花、カノは羽、M9は星の飾りをつけたいとお互い譲れず、結果、とてもヘンテコな帽子になってしまった。重さだけはしっかりあるため、被るときは必ず首に注意を。
+    code: HeadAcco
+    icon: commander_5320_icon
+    type: 2
+    uniform_class: "53"
+    color_normal: Commander_5320_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.134,0.852"
+    color_icon_id: "949"
+  }
 ]
