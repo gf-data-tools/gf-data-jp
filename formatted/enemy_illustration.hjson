@@ -3241,11 +3241,93 @@
     spine_scale: "70,70,1"
   }
   {
+    id: 163
+    name: 巡回する愚者
+    type: 3
+    code: Roarer_swimsuit
+    introduce: 頭が回らないライカンの先住民。特に得意なことがないため、体を張って禁猟区を守る仕事をしている。
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 3
+    dodge_rank: 2
+    rate_rank: 2
+    armor_rank: 3
+    speed_rank: 2
+    range_rank: 2
+    counter: 一定の装甲と偏向障壁を持ち、デフォルトのダメージ軽減割合は並みだが、時間経過とともに偏向障壁を強化し続けるので、破砕能力が低い場合、長時間の交戦は望ましくない。重装部隊の支援は必須に近い。
+    character: "309,312,316"
+    enemy_skill: "34,35,140"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    id: 164
+    name: 漁の預言者
+    type: 3
+    code: Rodelero_swimsuit
+    introduce: ライカンの先住民たちに「預言者」と崇められている謎の少女。水陸両用の水鉄砲が、彼女の頼れる狩りの道具らしい。
+    pow_rank: 3
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 3
+    rate_rank: 1
+    armor_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 偏向障壁をもち、一定量のダメージを無効化する。貫通攻撃を行うため、味方の脆い人形の立ち位置に注意が必要。重装部隊の支援があるとなおよい。
+    character: "309,312,320"
+    enemy_skill: "166"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "90,90,1"
+  }
+  {
+    id: 165
+    name: ライカンの流離人
+    type: 3
+    code: StreletPlus_swimsuit
+    introduce: いつもライカン禁猟区の海辺で彷徨っている。武器は改造されたサーフボードのようだ。
+    pow_rank: 4
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 1
+    range_rank: 4
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1003,312,316"
+    enemy_skill: "39"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    id: 166
+    name: アリーナ-海竜騎兵
+    type: 1
+    code: Nyto_White_Summer
+    introduce: アリーナ-海竜騎兵、海浜戦闘に特化したタイプ。水中戦に向かない金属義肢の代わりに、より軽くてパワフルな新型の義肢を取り入れた。服装も水中戦向きのものを選び、武器はアリーナ本人の要望で、白亜紀の水中生物をモチーフにした新型の鎌を使用している。純白な死神は海に潜り、あらゆる命の魂と肉体の繋がりを断ち切る。まるで、深海の海獣のごとく。
+    forces: 3
+    if_capture: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1001,216,309,312"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",伊藤静,"
+    spine_scale: "70,70,1"
+    org_id: 10603
+  }
+  {
     id: 170
     name: キュクロープス_MG
     type: 3
     code: Cyclops_MG
-    introduce: 軍の作戦支援用人形。ガトリングガンを装備しており、有効範囲内においては、極めて強い火力と制圧力を持つ。
+    introduce: 軍の作戦支援人形。高射速のガトリングガンが搭載されており、強力な火力で敵を制圧できる。
     forces: 2
     pow_rank: 4
     life_rank: 3
@@ -3254,7 +3336,7 @@
     rate_rank: 5
     speed_rank: 4
     range_rank: 4
-    counter: 高い破甲能力を持っており、部隊全体の作戦能力を上げて対応しよう。
+    counter: 高い破甲能力を持っている、部隊全体の作戦能力を上げて対応しよう。
     character: "1001,308,315"
     enemy_skill: "171"
     launch_time: 2016-5-20 00:00:00
@@ -3265,7 +3347,7 @@
     name: ケリュネティスSWAP
     type: 4
     code: Cerynitis_SWAP
-    introduce: 軍の標準作戦メカ。「ケリュネティス」をベースに強化と改造が行われている。軍用の遠距離射撃統制システムが搭載されており、より強固な装甲と高速連射能力を有している。
+    introduce: 軍の標準作戦機甲「ケリュネティス」の改良型。最新の遠距離打撃システムが搭載されており、爆発反応装甲と連射性能も向上している。
     forces: 2
     pow_rank: 5
     life_rank: 3
@@ -3274,7 +3356,7 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 装甲を持ち、攻撃間隔は短め。火力が高めであるため、優先して処理するとよい。
+    counter: 装甲ユニット、火力は高くデバフ効果を付与して来るため、ライフル人形で優先的に対処しておきたい。
     character: "1003,309"
     enemy_skill: "172"
     launch_time: 2016-5-20 00:00:00
@@ -3284,7 +3366,7 @@
     name: イージス_GA_SWAP
     type: 5
     code: Aegis_GA_SWAP
-    introduce: 軍部がオーダーした標準軍用人形。出荷前に鉄血に奪われて敵となった。現用の電撃武器やシールド、厚い装甲を搭載しており、近距離戦において抜群の性能を誇る。
+    introduce: 軍の標準作戦機甲「イージス」の改良型。爆発反応装甲シールドが搭載されており、近接戦闘能力及び戦線突破能力が向上している。
     forces: 2
     pow_rank: 2
     life_rank: 3
@@ -3293,7 +3375,7 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
-    counter: 高い防御力を持つため、味方の破甲能力を高めてから戦おう。
+    counter: 装甲ユニット、近接戦闘に強い。接敵前は味方の破甲能力に注意しよう。
     character: "303,309,310"
     enemy_skill: "9,173"
     launch_time: 2016-5-20 00:00:00
@@ -3303,7 +3385,7 @@
     name: タレウス
     type: 1
     code: Nyto_tareus
-    introduce: タレウス、機甲操縦特化型ネイト。機甲「ミズ・イヴ」と極めて高い適正と同調率を持ち、メンタルへのハッキングも長けている。目標に対しては、壊滅的な打撃を与えることができる。何度も記憶の洗浄と改造を受けているため、メンタルは脆く、性格も冷たくて怒りっぽい。たまに人間としての感情を思い出すことがあっても、すぐプログラムによって消されてしまう。
+    introduce: タレウス、機甲操縦特化型のネイト。機甲「ミズ・イヴ」と非常に高い同調率を有しており、その高い火力で敵に壊滅的な打撃を与える。記憶の洗浄と改変を繰り返し受けてきたため、メンタルは弱く、感情も不安定。たまに人間だった頃の記憶を思い出すも、プログラムによってすぐに消される。
     forces: 3
     if_capture: 1
     pow_rank: 5
@@ -3325,7 +3407,7 @@
     name: お化け掃除ロボ
     type: 4
     code: Pumpkin_Dactyl
-    introduce: 動作が鈍くなっている古い掃除ロボ。しかし変なカボチャを被ったら、なにならすべてを押し退ける力を持つようになったらしい。
+    introduce: 本来はまともに動かない古い掃除ロボだったが、変なかぼちゃを被ったらあらゆる障害物を押し退ける力を得たようだ。
     forces: 2
     pow_rank: 5
     life_rank: 2

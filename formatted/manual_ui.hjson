@@ -5470,6 +5470,7 @@
     code_a: Console
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 左上
     code_b: Console_Icon
   }
   {
@@ -5477,6 +5478,7 @@
     code_a: Console
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 右上
     code_b: Console_Icon
   }
   {
@@ -5484,6 +5486,7 @@
     code_a: Console
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 左下
     code_b: Console_Icon
   }
   {
@@ -5491,30 +5494,39 @@
     code_a: Console
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 右下
     code_b: Console_Icon
   }
   {
     id: 6540005
     code_a: a545-npc
     description_a: 味方部隊
+    description_b: ポルードニツァ
+    description_c: 任務
     code_b: Console_Icon
   }
   {
     id: 6540006
     code_a: pkp-npc
     description_a: 味方部隊
+    description_b: ウートレニャヤ小隊
+    description_c: 任務
     code_b: Console_Icon
   }
   {
     id: 6540007
     code_a: pm1910-npc
     description_a: 味方部隊
+    description_b: ヴェチェールニャヤ小隊
+    description_c: 任務
     code_b: Console_Icon
   }
   {
     id: 6540008
     code_a: AR18_NPC
     description_a: 味方部隊
+    description_b: パルノーチニャヤ
+    description_c: 任務
     code_b: Console_Icon
   }
   {
@@ -5522,36 +5534,47 @@
     code_a: Console
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 操作
     code_b: Console_Icon
   }
   {
     id: 6540010
     code_a: a545-npc
     description_a: 味方部隊
+    description_b: ポルードニツァ
+    description_c: 権限取得中
     code_b: Console_Icon
   }
   {
     id: 6540011
     code_a: pkp-npc
     description_a: 味方部隊
+    description_b: ウートレニャヤ小隊
+    description_c: 権限取得中
     code_b: Console_Icon
   }
   {
     id: 6540012
     code_a: pm1910-npc
     description_a: 味方部隊
+    description_b: ヴェチェールニャヤ小隊
+    description_c: 権限取得中
     code_b: Console_Icon
   }
   {
     id: 6540013
     code_a: AR18_NPC
     description_a: 味方部隊
+    description_b: パルノーチニャヤ
+    description_c: 権限取得中
     code_b: Console_Icon
   }
   {
     id: 6540014
     code_a: Console
     description_a: 味方部隊
+    description_b: HIMARS
+    description_c: 爆撃
     code_b: Console_Icon
     is_manual_target: 2
   }
@@ -5559,6 +5582,8 @@
     id: 6540015
     code_a: Console
     description_a: 味方部隊
+    description_b: 照明弾
+    description_c: 照明
     code_b: Console_Icon
     is_manual_target: 2
   }
@@ -5567,6 +5592,7 @@
     code_a: PortableEMP_Nobase
     description_a: 味方部隊
     description_b: EMP手榴弾
+    description_c: EMP投擲
     code_b: Console_Icon
     is_manual_target: 1
   }
@@ -5584,6 +5610,7 @@
     code_a: Viscosity_Bomb
     description_a: 味方部隊
     description_b: プラスチック爆弾
+    description_c: 設置
     code_b: Console_Icon
   }
   {

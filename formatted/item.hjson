@@ -10601,6 +10601,69 @@
     rank: 1
   }
   {
+    id: 2080
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_ZB26
+    item_name: 揺らぐ闇の薔薇
+    introduction: 揺らぐ闇の薔薇
+    rank: 1
+  }
+  {
+    id: 2081
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_Type100
+    item_name: 蝶影奇譚
+    introduction: 蝶影奇譚
+    rank: 1
+  }
+  {
+    id: 2082
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_Rhino
+    item_name: 孤月の冠
+    introduction: 孤月の冠
+    rank: 1
+  }
+  {
+    id: 2083
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_ColtDefender
+    item_name: 星屑のヴェール
+    introduction: 星屑のヴェール
+    rank: 1
+  }
+  {
+    id: 2084
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_MP443
+    item_name: 砕金花信
+    introduction: 砕金花信
+    rank: 1
+  }
+  {
+    id: 2085
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_88type
+    item_name: ヴィーナスが降りた夜
+    introduction: ヴィーナスが降りた夜
+    rank: 1
+  }
+  {
+    id: 2086
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2022_M1895
+    item_name: 星雲クリーム
+    introduction: 星雲クリーム
+    rank: 1
+  }
+  {
     id: 2091
     type: 5
     arg: "1"
@@ -10625,6 +10688,51 @@
     code: profilePic_ChessFlight_season6_3
     item_name: 爆震怒号・コードIV：拡散
     introduction: 爆震怒号・コードIV：拡散
+    rank: 1
+  }
+  {
+    id: 2111
+    type: 5
+    arg: "1"
+    code: profilePic_YZActivity2022_A
+    item_name: アイコン：初代ライカン観光団！
+    introduction: アイコン：初代ライカン観光団！
+    rank: 1
+  }
+  {
+    id: 2112
+    type: 5
+    arg: "1"
+    code: profilePic_YZActivity2022_B
+    item_name: アイコン：熱量オーバー！
+    introduction: アイコン：熱量オーバー！
+    rank: 1
+  }
+  {
+    id: 2113
+    type: 5
+    arg: "1"
+    code: profilePic_YZActivity2022_C
+    item_name: アイコン：融けない雪玉
+    introduction: アイコン：融けない雪玉
+    rank: 1
+  }
+  {
+    id: 2114
+    type: 5
+    arg: "1"
+    code: card_YZActivity2022_A
+    item_name: IDカード背景：絢爛なる夜空の思い出
+    introduction: IDカード背景：絢爛なる夜空の思い出
+    rank: 1
+  }
+  {
+    id: 2115
+    type: 5
+    arg: "1"
+    code: cg_YZActivity2022_A
+    item_name: 背景：夜市一角
+    introduction: 提灯の光、絢爛な花火……賑やかな屋台から、温かな煙が上がっている。これこそ、この世の一番美しい光景だろう。
     rank: 1
   }
   {
@@ -11472,6 +11580,15 @@
     rank: 1
   }
   {
+    id: 2275
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_Type100Mod
+    item_name: 一〇〇式メンタルアップグレードアイコン
+    introduction: 一〇〇式メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
     id: 2277
     type: 5
     arg: "1"
@@ -11550,6 +11667,24 @@
     code: profilePic_Piracy2023_MP41
     item_name: 最後のコルセア
     introduction: 最後のコルセア
+    rank: 1
+  }
+  {
+    id: 2301
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MK3A1
+    item_name: IDカード背景：ドーナッツ復元計画
+    introduction: IDカード背景：ドーナッツ復元計画
+    rank: 1
+  }
+  {
+    id: 2302
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MK3A1
+    item_name: MK3A1の修復芸術
+    introduction: MK3A1の修復芸術
     rank: 1
   }
   {
@@ -12177,66 +12312,75 @@
     type: 4
     arg: "9006"
     code: Checked
-    item_name: item-10009006
-    introduction: item-20009006
+    item_name: オール銀星勲章マーク1*
+    introduction: オール銀星勲章マーク1*
     rank: 1
-    detail_introduction: item-30009006
   }
   {
     id: 9007
     type: 4
     arg: "9007"
     code: Checked
-    item_name: item-10009007
-    introduction: item-20009007
+    item_name: オール銀星勲章マーク2*
+    introduction: オール銀星勲章マーク2*
     rank: 1
-    detail_introduction: item-30009007
   }
   {
     id: 9008
     type: 4
     arg: "9008"
     code: secretpoint
-    item_name: item-10009008
-    introduction: item-20009008
     rank: 1
-    detail_introduction: item-30009008
   }
   {
     id: 9009
     type: 4
     arg: "9009"
-    item_name: item-10009009
-    introduction: item-20009009
+    item_name: テスト
+    introduction: テスト
     rank: 1
-    detail_introduction: item-30009009
   }
   {
     id: 9010
     type: 4
     arg: "9010"
-    item_name: item-10009010
-    introduction: item-20009010
+    item_name: テスト
+    introduction: テスト
     rank: 1
-    detail_introduction: item-30009010
   }
   {
     id: 9011
     type: 4
     arg: "9011"
-    item_name: item-10009011
-    introduction: item-20009011
+    item_name: テスト
+    introduction: テスト
     rank: 1
-    detail_introduction: item-30009011
   }
   {
     id: 9012
     type: 4
     arg: "9012"
-    item_name: item-10009012
-    introduction: item-20009012
+    item_name: テスト
+    introduction: テスト
     rank: 1
-    detail_introduction: item-30009012
+  }
+  {
+    id: 9013
+    type: 4
+    arg: "9013"
+    code: 2022Bikini_Goody
+    item_name: 善良の証
+    introduction: どうか善良なる者たちに、凶暴なライカンを打ち倒す知恵と勇気を！
+    rank: 1
+  }
+  {
+    id: 9014
+    type: 4
+    arg: "9014"
+    code: 2022Bikini_Baddy
+    item_name: 群狼カード
+    introduction: 満月はライカンの象徴、殺戮は人狼の本性……我らは夜を駆け、暁まで舞い続ける。
+    rank: 1
   }
   {
     id: 9020
@@ -13060,6 +13204,24 @@
     rank: 1
   }
   {
+    id: 100090
+    type: 4
+    arg: "100090"
+    code: Bumdle_5year
+    item_name: 五周年スキン抽選券
+    introduction: 五周年スキン抽選券
+    rank: 1
+  }
+  {
+    id: 100091
+    type: 4
+    arg: "100091"
+    code: Bumdle_20215year
+    item_name: 五周年特別物資箱
+    introduction: 五周年特別物資箱
+    rank: 1
+  }
+  {
     id: 100092
     type: 4
     arg: "100092"
@@ -13484,6 +13646,36 @@
     introduction: スターアロー
     rank: 1
     daily_limit: "120"
+  }
+  {
+    id: 100147
+    type: 4
+    arg: "100147"
+    code: Platinum_medal_black
+    item_name: 白金勲章・ライカン禁猟区
+    introduction: 白金勲章・ライカン禁猟区
+    rank: 1
+  }
+  {
+    id: 100148
+    type: 9
+    arg: "100148"
+    code: Handcuffs
+    item_name: 禁区手錠
+    introduction: 禁区手錠
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100151
+    type: 4
+    arg: "100151"
+    code: golyatplg_d
+    item_name: 投擲型ゴリアテ
+    introduction: 携帯式爆弾ロボット。プロトタイプと比べ威力は落ちたが、その分機動性が増した。投擲後、指定のポイントで爆発を起こし、敵の配置を乱す。（薄暮の迷宮II、III、IV、V限定）
+    rank: 1
+    sort: -52
+    item_access: "2"
   }
   {
     id: 100160
@@ -14431,6 +14623,26 @@
     detail_introduction: item-30140014
   }
   {
+    id: 140015
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140015
+    introduction: item-20140015
+    rank: 1
+    detail_introduction: item-30140015
+  }
+  {
+    id: 140016
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140016
+    introduction: item-20140016
+    rank: 1
+    detail_introduction: item-30140016
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -14595,6 +14807,15 @@
     code: profileFrame_BattlePass_C93
     item_name: アイコンフレーム：羽ばたく蝶々
     introduction: アイコンフレーム：羽ばたく蝶々
+    rank: 1
+  }
+  {
+    id: 200021
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_MK3A1
+    item_name: アイコンフレーム：解体潮流
+    introduction: アイコンフレーム：解体潮流
     rank: 1
   }
   {
@@ -15383,6 +15604,86 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500056
+    type: 15
+    arg: "1500056"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500057
+    type: 15
+    arg: "1500057"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500058
+    type: 15
+    arg: "1500058"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500064
+    type: 15
+    arg: "1500059"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500065
+    type: 15
+    arg: "1500065"
+    code: Bumdle_1year_Coupons
+    item_name: 一周年至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500066
+    type: 15
+    arg: "1500066"
+    code: Bumdle_2year_Coupons
+    item_name: 二周年至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500067
+    type: 15
+    arg: "1500067"
+    code: Bumdle_3year_Coupons
+    item_name: 三周年至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500068
+    type: 15
+    arg: "1500068"
+    code: Bumdle_4year_Coupons
+    item_name: 四周年至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
   }

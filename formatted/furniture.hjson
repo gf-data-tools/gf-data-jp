@@ -24998,6 +24998,200 @@
     rotate: "3"
   }
   {
+    id: 10201
+    name: トラネコ号のレストラン-モノクロタイル
+    classes: 102
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 海鮮の盛り合わせにされたくなければ、タイルを飛び回るのはやめなさい！お座り！
+    code: Anniversary2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10202
+    name: トラネコ号のレストラン-クルーズ客船
+    classes: 102
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 逆巻く波の中、汽笛は鳴り、船は水平線の彼方を目指す。煌めくネオンの下で、人々は酒を嗜み、音楽を楽しみ、夜空に抱かれて海に揺蕩う。
+    code: Anniversary2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10203
+    name: トラネコ号のレストラン-緑と看板
+    classes: 102
+    type: 201
+    position: "1,10"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 本日のおすすめ――ナマコ、牡蠣、秋刀魚、伊勢海老、ホタテ貝、タラバガニ。とれたて新鮮！安い！
+    code: Anniversary2022_deco_01
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10204
+    name: トラネコ号のレストラン-大食いの王座
+    classes: 102
+    type: 201
+    position: "5,10"
+    space: "10,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: バイキングだと？いい度胸してるじゃないか！食べ放題なら、この店が潰れるまで食いつくしてやるぜ！……ん？なんでカリーナさんがずっとこっちを見てる？……これは、殺気！？
+    code: Anniversary2022_deco_02
+    texture_type: "1"
+    offset: "0,-0.187686,-0.041708"
+    rotate: "2"
+    interact_point: "18,19"
+    interact_point_offset: *3.383,1.593,-0.285|*-3.471,1.650,-0.285
+  }
+  {
+    id: 10205
+    name: トラネコ号のレストラン-アメイジングデリシャス
+    classes: 102
+    type: 302
+    position: "14,1"
+    space: "6,5,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: カリーナ一押しのお食事会場――グリフィン海鮮バイキングの開業です！ただひたすら海鮮が食べたいあなた！お友達と一緒に集まりたいあなた！きっと満足できるでしょう！さぁ！今すぐお友達を呼んで、夜のカーニバルを始めましょう！
+    code: Anniversary2022_deco_03,2022Anniversary_light1,2022Anniversary_light2
+    texture_type: "1,2,2"
+    sorting: "0,0,0"
+    offset: "0,0,0|-2.60675,-0.72989,0|2.60675,-0.72989,0"
+    rotate: "3,3,3"
+  }
+  {
+    id: 10206
+    name: トラネコ号のレストラン-味の実験室
+    classes: 102
+    type: 302
+    position: "2,15"
+    space: "6,3,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 何を入れようかな？生姜？ワサビ？それともなんだかよく分からないソース？どうせ後で全部食べるんだから、いっそ全部入れるか！
+    code: Anniversary2022_deco_04
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10207
+    name: トラネコ号のレストラン-ほろ酔いの夢工場
+    classes: 102
+    type: 201
+    position: "21,1"
+    space: "8,4,1,1,0,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 甘くて苦いほろ酔いの夢.......もちろん、夢の後は、きちんとお会計してくださいね。
+    code: Anniversary2022_deco_05,Anniversary2022_deco_06,Anniversary2022_deco_07
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.4690982176,0,0|-0.4690982176,2.2416913457,0.52132361969|1.835152,0,0"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10208
+    name: トラネコ号のレストラン-パーティー天国
+    classes: 102
+    type: 201
+    position: "25,7"
+    space: "8,6,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 私が最後にとっといたサーモン、どこいった！？返せ！さもなくば誰一人ここから帰れると思うなよ！
+    code: Anniversary2022_deco_08,Anniversary2022_deco_09,Anniversary2022_deco_10,Anniversary2022_deco_11,Anniversary2022_deco_12
+    texture_type: "1,1,1,1,1"
+    sorting: "0,0,0,0,20"
+    offset: "-0.3910125,0.2054119,0.0469215|1.9132377176,0.2054119,0.046921583416|-0.3910125,2.4471032457,0.56407452823|1.9132377176,2.4471032457,0.56407452823|0.10945805812,-0.0052028206666,-0.0020828370434"
+    rotate: "2,2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *0.146,1.480,-0.285
+  }
+  {
+    id: 10209
+    name: トラネコ号のレストラン-バーニングキッチン
+    classes: 102
+    type: 201
+    position: "9,0"
+    space: "4,2,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: どうぞご安心ください。こちらはすでに厳重な安全チェックを……キッチンの火、ですか？ええ、あれはただシェフが自分の料理テクニックを魅せているだけなので。えっと……調味料をキッチンに届けにいきますので、少々お待ちくださいね！
+    code: Anniversary2022_deco_20,Anniversary2022_deco_21,2022Anniversary_burnedDoor2
+    texture_type: "1,1,2"
+    sorting: "0,0,0"
+    offset: "-0.531777,0,0|-0.531777,1.126116,0.260675|0.052105429028,0.083416,0.020854"
+    rotate: "2,2,2"
+    interact_point: "60"
+    interact_point_offset: *3.646,0.000,-0.285
+  }
+  {
+    id: 10210
+    name: トラネコ号のレストラン-安全祈願のマスコット
+    classes: 102
+    type: 302
+    position: "16,14"
+    space: "4,4,1,1,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 厚さ50センチの木の板でも貫けるのは分かっていますが、お客様、これは本店の安全祈願マスコットなので、フェンシングに使わないでください！
+    code: Anniversary2022_deco_13
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10211
+    name: トラネコ号のレストラン-夜市の炊煙
+    classes: 102
+    type: 201
+    position: "1,2"
+    space: "8,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: この写真に映ってる酒好きの人形と魚好きの人形が、ずっとここを狙っていますよ！彼女たちの思惑通りにならないよう注意してください！
+    code: Anniversary2022_deco_16,Anniversary2022_deco_17,Anniversary2022_deco_18,Anniversary2022_deco_19,2022Anniversary_barbecueLight
+    texture_type: "1,1,1,1,2"
+    sorting: "0,0,20,20,20"
+    offset: "-0.239821,0,0|2.064546,0,0|-0.375372,1.292948,0.302383|1.928995,1.292948,0.302383|0.4848555,0.0364945,0.0083416"
+    rotate: "2,2,2,2,2"
+    interact_point: "61"
+    interact_point_offset: *0.321,1.565,2.191
+  }
+  {
+    id: 10212
+    name: トラネコ号のレストラン-深海の波
+    classes: 102
+    type: 201
+    position: "14,6"
+    space: "10,4,1,1,1,1"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 豊満な伊勢海老に、ジューシーな生牡蠣――せっかく来たからには、全部食べないと損だろう？……食べきれない？そんなの食べてから考えればいい。
+    code: Anniversary2022_deco_14,Anniversary2022_deco_15
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.802879,-0.114697,-0.020854|1.4867744603,-0.114697,-0.020853979146"
+    rotate: "2,2"
+  }
+  {
     id: 10301
     name: 疾風怒球-テニスの集落
     classes: 103
@@ -26970,6 +27164,60 @@
     offset: "0,0,0"
     rotate: "2"
     interact_point_offset: "0,0,0"
+  }
+  {
+    id: 20059
+    name: 風船の標的
+    classes: 19
+    type: 201
+    position: "0,0"
+    space: "7,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 凶暴なライカンを相手するには、射撃の腕前を鍛えるしかない。故に、まずは風船割りからだ！
+    code: 2022SwimActivity_deco_BalloonA,2022SwimActivity_deco_BalloonB,2022SwimActivity_deco_BalloonC,2022SwimActivity_deco_BalloonD
+    texture_type: "1,1,1,1"
+    sorting: "20,20,0,0"
+    offset: "-0.3439742176,0,0|1.960276,0,0|-0.3439742176,0,0|1.960276,0,0"
+    rotate: "2,2,2,2"
+    interact_point: "17"
+    interact_point_offset: *0.817,0.768,-0.285
+  }
+  {
+    id: 20060
+    name: アイス補給所
+    classes: 19
+    type: 201
+    position: "0,0"
+    space: "6,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 甘いアイスクリームは殆どのライカンの口に合わないが、たまにはアイスを愛する変わり狼もいる。
+    code: 2022SwimActivity_deco_IcecreamA,2022SwimActivity_deco_IcecreamB,2022SwimActivity_deco_IcecreamC,2022SwimActivity_deco_IcecreamD
+    texture_type: "1,1,1,1"
+    sorting: "0,0,0,0"
+    offset: "-0.3639023,-0.2335648,-0.0542204|-0.3639023,2.0103256,0.46295869573|1.9300377,2.0103256,0.46295869573|1.9300377,-0.2335648,-0.054220452135"
+    rotate: "2,2,2,2"
+    interact_point: "17"
+    interact_point_offset: *0.233,1.110,0.484
+  }
+  {
+    id: 20061
+    name: 花火の使命
+    classes: 19
+    type: 201
+    position: "0,0"
+    space: "3,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: ライカンの行き渡る島で、最も有効な救難信号は花火だろう――君を助けてくれる仲間がいればの話だが。
+    code: 2022SwimActivity_firework
+    texture_type: "2"
+    offset: "0,0.1657893,0.0385799"
+    rotate: "2"
+    interact_point: "64"
+    interact_point_offset: *2.858,0.000,0.000
+    touch_area: "3,3,3"
   }
   {
     id: 20080
@@ -35021,6 +35269,111 @@
     rotate: "3"
   }
   {
+    id: 37101
+    name: 揺らぐ闇の薔薇
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZB-26のポスター。
+    code: poster_Anniversary2022_ZB26
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37102
+    name: 蝶影奇譚
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 一〇〇式のポスター。
+    code: poster_Anniversary2022_Type100
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37103
+    name: 孤月の冠
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ライノのポスター
+    code: poster_Anniversary2022_Rhino
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37104
+    name: 星屑のヴェール
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ディフェンダーのポスター。
+    code: poster_Anniversary2022_ColtDefender
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37105
+    name: 砕金花信
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP-443のポスター。
+    code: poster_Anniversary2022_MP443
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37106
+    name: ヴィーナスが降りた夜
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 漢陽88式のポスター。
+    code: poster_Anniversary2022_88type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37107
+    name: 星雲クリーム
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1895のポスター。
+    code: poster_Anniversary2022_M1895
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 37301
     name: 海辺の救助員
     classes: 300
@@ -39720,6 +40073,21 @@
     decompose_gift: 100003
     description: C-93のポスター。
     code: poster_BattlePass_C93
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330007
+    name: MK3A1の修復芸術
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1のポスター。
+    code: poster_BattlePass_MK3A1
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

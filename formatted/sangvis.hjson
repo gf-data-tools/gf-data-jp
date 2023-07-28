@@ -1022,7 +1022,7 @@
     name: ケルベロス
     en_name: Cerberus
     code: BossCerberus
-    introduce: 鉄血の「ダイナーゲート」の超強化バージョン。体型も装甲も火力も大幅に強化されており、人形のメンタルさえも（不完全だが）収納することができる。しかしコスパがあまりよくなく、量産には向いていない。そして戦場における役割もそんなに明白ではない上に、開発の経緯も全くの謎。故に、出番は非常に少ない。
+    introduce: 鉄血の「ダイナーゲート」の超強化バージョン。体型・装甲・火力が大幅に強化されており、人形のメンタルさえも（不完全だが）収納することができる。しかしコスパがあまりよくなく、量産には向いていない。そして戦場における役割もそんなに明白ではない上に、開発の経緯も全くの謎。故に、出番は非常に少ない。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
     forces: 1
@@ -1069,6 +1069,63 @@
     is_additional: 1
     launch_time: 2016-05-20 00:00:00
     display_enemy_team: 930020
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    org_id: 10603
+  }
+  {
+    id: 1020
+    name: アリーナ-海竜騎兵
+    en_name: Nyto_White_Summer
+    code: Nyto_White_Summer
+    introduce: アリーナ-海竜騎兵、海浜戦闘に特化したタイプ。水中戦に向いていない金属義肢の代わりに、より軽くてパワフルな新型の義肢を取り入れた。服装も水中戦向きのものを選び、武器はアリーナ本人の要望で、白亜紀の水中生物をモチーフにした新型の鎌を使用している。純白な死神は海に潜り、あらゆる命の魂と肉体の繋がりを断ち切る。まるで、深海の海獣のごとく。
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    forces: 3
+    type: 1
+    character: "2,4,5"
+    formation: 1
+    resolution: 120
+    shape_scale: "80,120"
+    ap_cost: 8
+    rank: 5
+    skill1: 750409
+    skill2_type: 1
+    skill2: 750411
+    skill3: 750412
+    skill_advance: 750413
+    skill_resolution: "750410"
+    passive_skill2: "750421,750422,750424,750425,750426,750427,750428,750429,750431,750447"
+    dynamic_passive_skill: "750010"
+    normal_attack: 750414
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 140
+    ratio_pow: 90
+    ratio_rate: 55
+    ratio_hit: 130
+    ratio_dodge: 95
+    armor_piercing: 180
+    crit: 40
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 18
+    attack_range_type: 1
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 4
+    effect_grid_effect: 1:5,10;8,10|4:1,15;4,15
+    type_chip1: "1,2,3"
+    type_chip2: "1,2,3"
+    type_chip3: "1,2,3"
+    illustration_id: 166
+    ai: 11002
+    is_additional: 1
+    launch_time: 2016-05-20 00:00:00
+    display_enemy_team: 930021
     picture_offset: "-100.001,-65.021"
     picture_scale: "0.864,0.864"
     dorm_scale: 100

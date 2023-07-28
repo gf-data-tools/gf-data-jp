@@ -7204,6 +7204,97 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 7101
+    name: 揺らぐ闇の薔薇
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 307
+    skin: 7101
+    poster: 37101
+    code: gift_bundle_Anniversary2022_ZB26
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7102
+    name: 蝶影奇譚
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 228
+    skin: 7102
+    poster: 37102
+    code: gift_bundle_Anniversary2022_Type100
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7103
+    name: 孤月の冠
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 357
+    skin: 7103
+    poster: 37103
+    code: gift_bundle_Anniversary2022_Rhino
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7104
+    name: 星屑のヴェール
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 302
+    skin: 7104
+    poster: 37104
+    code: gift_bundle_Anniversary2022_ColtDefender
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7105
+    name: 砕金花信
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 220
+    skin: 7105
+    poster: 37105
+    code: gift_bundle_Anniversary2022_MP443
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7106
+    name: ヴィーナスが降りた夜
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 95
+    skin: 7106
+    poster: 37106
+    code: gift_bundle_Anniversary2022_88type
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7107
+    name: 星雲クリーム
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 5
+    skin: 7107
+    poster: 37107
+    code: gift_bundle_Anniversary2022_M1895
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 7301
     name: 海辺の救助員
     type: 2
@@ -7890,6 +7981,19 @@
     skin: 30006
     poster: 330006
     code: gift_bundle_BattlePass_C93
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 30007
+    name: MK3A1の修復芸術
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 367
+    skin: 30007
+    poster: 330007
+    code: gift_bundle_BattlePass_MK3A1
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }

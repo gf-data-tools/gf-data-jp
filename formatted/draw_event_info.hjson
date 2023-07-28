@@ -2596,6 +2596,34 @@
     type: "1"
   }
   {
+    id: "411"
+    item_id: "100090"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-09-01 23:59:59
+    drop_ids: 100:665
+    title_res: f87212993c1fc5c6_draw_230721185355.png
+    amount_coordinate: "-568,-120"
+    bg_res: 6cd1683f010b76dd_draw_230721185354.jpg
+    is_show: "1"
+    use_animation: "1"
+    goto_to_mall: "1"
+    type: "2"
+  }
+  {
+    id: "412"
+    item_id: "100091"
+    start_time: 2023-07-29 00:00:00
+    end_time: 2023-08-04 23:59:59
+    drop_ids: 69:673,70:674,71:675
+    title_res: 5077dd8029854294_draw_230721185355.png
+    amount_coordinate: "397,-195"
+    bg_res: 3fe9fa97f5de0496_draw_230721185355.jpg
+    is_show: "1"
+    prize_skip: 330322:71,330323:71,330324:71,330325:71,330326:71
+    can_ten_draws: "1"
+    type: "1"
+  }
+  {
     id: "413"
     start_time: 2021-07-09 00:00:00
     end_time: 2021-07-30 13:00:00
@@ -3500,6 +3528,230 @@
     id: "577"
     start_time: 2023-06-30 00:00:00
     end_time: 2023-07-14 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "578"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "579"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "580"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "581"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "582"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "583"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "584"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "585"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "586"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "587"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "588"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "589"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "590"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "591"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "592"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "593"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "594"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "595"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "596"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "597"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "598"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "599"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "600"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "601"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "602"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "603"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "604"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "605"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "606"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "607"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "608"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "609"
+    start_time: 2023-07-28 13:00:00
+    end_time: 2023-08-18 13:00:00
     clear_cycle: "1"
     type: "1"
   }

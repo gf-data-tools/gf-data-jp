@@ -18895,8 +18895,8 @@
     ratio_range: 100
     skill1: 110029
     normal_attack: 300102
-    passive_skill: "110032,702010"
-    dynamic_passive_skill: "110030,110031"
+    passive_skill: "110032"
+    dynamic_passive_skill: "110030,110031,740069,740070"
     effect_grid_center: 13
     effect_guntype: "4"
     effect_grid_pos: "7,9"
@@ -18908,6 +18908,7 @@
     launch_time: 2018-07-12 00:00:00
     obtain_ids: "1,2"
     rank_display: 5
+    mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     org_id: 10203
     related_story_id: 100228
   }
@@ -26145,7 +26146,6 @@
     obtain_ids: "247"
     rank_display: 5
     org_id: 10202
-    show_damage_skin: ",0,6303,"
   }
   {
     id: 342
@@ -26205,7 +26205,6 @@
     obtain_ids: "245"
     rank_display: 5
     org_id: 10201
-    show_damage_skin: ",0,7602,"
   }
   {
     id: 343
@@ -26263,7 +26262,6 @@
     obtain_ids: "246"
     rank_display: 4
     org_id: 10402
-    show_damage_skin: ",0,"
   }
   {
     id: 344
@@ -26323,7 +26321,6 @@
     obtain_ids: "245"
     rank_display: 4
     org_id: 10403
-    show_damage_skin: ",0,"
   }
   {
     id: 345
@@ -26380,7 +26377,6 @@
     obtain_ids: "246"
     rank_display: 5
     org_id: 10202
-    show_damage_skin: ",0,"
   }
   {
     id: 346
@@ -26908,7 +26904,6 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10302
-    show_damage_skin: ",0,"
   }
   {
     id: 355
@@ -26968,7 +26963,6 @@
     rank_display: 4
     gun_detail_bg: nation_Belgium
     org_id: 10704
-    show_damage_skin: ",0,"
   }
   {
     id: 356
@@ -27024,7 +27018,6 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10202
-    show_damage_skin: ",0,"
   }
   {
     id: 357
@@ -27141,7 +27134,6 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10202
-    show_damage_skin: ",0,7604,"
   }
   {
     id: 359
@@ -27200,7 +27192,6 @@
     obtain_ids: "248"
     rank_display: 5
     org_id: 10402
-    show_damage_skin: ",0,"
   }
   {
     id: 360
@@ -27255,7 +27246,6 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
-    show_damage_skin: ",0,"
   }
   {
     id: 361
@@ -27313,7 +27303,6 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10402
-    show_damage_skin: ",0,575,7702,"
   }
   {
     id: 362
@@ -27373,7 +27362,6 @@
     obtain_ids: "248"
     rank_display: 4
     org_id: 10403
-    show_damage_skin: ",0,"
   }
   {
     id: 363
@@ -27433,7 +27421,6 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10301
-    show_damage_skin: ",0,"
   }
   {
     id: 364
@@ -27493,7 +27480,6 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10302
-    show_damage_skin: ",0,"
   }
   {
     id: 365
@@ -27547,7 +27533,6 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10704
-    show_damage_skin: ",7402,"
   }
   {
     id: 366
@@ -27607,7 +27592,6 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10704
-    show_damage_skin: ",0,"
   }
   {
     id: 367
@@ -27669,7 +27653,6 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10704
-    show_damage_skin: ",8001,"
   }
   {
     id: 368
@@ -27781,7 +27764,6 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10701
-    show_damage_skin: ",0,30004,"
   }
   {
     id: 376
@@ -27844,7 +27826,6 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10703
-    show_damage_skin: ",0,8003,"
   }
   {
     id: 377
@@ -27916,7 +27897,6 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10402
-    show_damage_skin: ",0,"
   }
   {
     id: 378
@@ -27988,7 +27968,6 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10201
-    show_damage_skin: ",0,30005,"
   }
   {
     id: 1001
@@ -29150,7 +29129,6 @@
     obtain_ids: "254"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,593,"
   }
   {
     id: 1036
@@ -29194,7 +29172,6 @@
     obtain_ids: "254"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,592,"
   }
   {
     id: 1037
@@ -29239,7 +29216,6 @@
     obtain_ids: "256"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,587,"
   }
   {
     id: 1038
@@ -29284,7 +29260,6 @@
     obtain_ids: "255"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,589,"
   }
   {
     id: 1039
@@ -29328,7 +29303,6 @@
     obtain_ids: "255"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,590,"
   }
   {
     id: 1040
@@ -29374,7 +29348,6 @@
     obtain_ids: "254"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,591,"
   }
   {
     id: 1041
@@ -29420,7 +29393,6 @@
     obtain_ids: "256"
     rank_display: 7
     gun_detail_bg: collab
-    show_damage_skin: ",0,588,"
   }
   {
     id: 9001
@@ -29455,7 +29427,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9002
@@ -29490,7 +29461,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9003
@@ -29524,7 +29494,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9004
@@ -29559,7 +29528,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9005
@@ -29593,7 +29561,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9006
@@ -29628,7 +29595,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9007
@@ -29663,7 +29629,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9008
@@ -29698,7 +29663,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9009
@@ -29733,7 +29697,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9010
@@ -29768,7 +29731,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9011
@@ -29803,7 +29765,6 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9012
@@ -29900,7 +29861,6 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9013
@@ -29989,7 +29949,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9014
@@ -30050,7 +30009,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9015
@@ -30121,7 +30079,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9016
@@ -30190,7 +30147,6 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
-    related_story_id: 42
   }
   {
     id: 9017
@@ -30262,7 +30218,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9018
@@ -30323,7 +30278,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9019
@@ -30394,7 +30348,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9020
@@ -30463,7 +30416,6 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
-    related_story_id: 42
   }
   {
     id: 9021
@@ -30535,7 +30487,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9022
@@ -30624,7 +30575,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9023
@@ -30685,7 +30635,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9024
@@ -30756,7 +30705,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9025
@@ -30828,7 +30776,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9026
@@ -30917,7 +30864,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9027
@@ -30978,7 +30924,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9028
@@ -31047,7 +30992,6 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
-    related_story_id: 42
   }
   {
     id: 9029
@@ -31119,7 +31063,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9030
@@ -31208,7 +31151,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9031
@@ -31279,7 +31221,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9032
@@ -31348,7 +31289,6 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
-    related_story_id: 42
   }
   {
     id: 9034
@@ -31430,7 +31370,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9035
@@ -31501,7 +31440,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9036
@@ -31602,7 +31540,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9037
@@ -31705,7 +31642,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9038
@@ -31790,7 +31726,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9039
@@ -31864,7 +31799,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9040
@@ -31905,7 +31839,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9041
@@ -31946,7 +31879,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9042
@@ -31987,7 +31919,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
-    related_story_id: 42
   }
   {
     id: 9043
@@ -32028,7 +31959,6 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9044
@@ -32067,7 +31997,6 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
-    related_story_id: 42
   }
   {
     id: 9045
@@ -35363,7 +35292,6 @@
     prize_id: 3008
     explore_tag: "14,37,48"
     gun_detail_bg: nation_Russia
-    show_damage_skin: ",0,1,5046,"
   }
   {
     id: 20012
@@ -35553,7 +35481,6 @@
     explore_tag: "7,50,54,69"
     gun_detail_bg: nation_Russia
     related_story_id: 100021
-    show_damage_skin: ",602,5808,0,5054,"
   }
   {
     id: 20026
@@ -38359,7 +38286,6 @@
     explore_tag: "44"
     gun_detail_bg: nation_German
     related_story_id: 100104
-    show_damage_skin: ",0,5050,1202,"
   }
   {
     id: 20114
@@ -38704,7 +38630,6 @@
     rank_display: 6
     prize_id: 3125
     gun_detail_bg: nation_German
-    show_damage_skin: ",0,"
   }
   {
     id: 20136
@@ -39117,7 +39042,6 @@
     rank_display: 4
     prize_id: 3159
     gun_detail_bg: nation_Russia
-    show_damage_skin: ",0,4309,"
   }
   {
     id: 20161
@@ -39263,7 +39187,6 @@
     prize_id: 3171
     explore_tag: "56"
     related_story_id: 100171
-    show_damage_skin: ",0,"
   }
   {
     id: 20178
@@ -39490,7 +39413,6 @@
     rank_display: 5
     prize_id: 3200
     gun_detail_bg: nation_US
-    show_damage_skin: ",0,"
   }
   {
     id: 20201
@@ -39572,7 +39494,6 @@
     prize_id: 3201
     explore_tag: "27"
     related_story_id: 100201
-    show_damage_skin: ",2305,0,3107,5052,"
   }
   {
     id: 20205
@@ -39653,7 +39574,6 @@
     explore_tag: "27"
     gun_detail_bg: team_defy
     related_story_id: 100205
-    show_damage_skin: ",0,2404,3303,5055,"
   }
   {
     id: 20216
@@ -39730,7 +39650,6 @@
     explore_tag: "30"
     gun_detail_bg: nation_German
     related_story_id: 100216
-    show_damage_skin: ",0,5606,5056,"
   }
   {
     id: 20220
@@ -39807,7 +39726,6 @@
     explore_tag: "10"
     gun_detail_bg: nation_Russia
     related_story_id: 100220
-    show_damage_skin: ",0,7105,6405,8108,"
   }
   {
     id: 20221
@@ -39889,6 +39807,79 @@
     prize_id: 3221
     explore_tag: "13,29"
     gun_detail_bg: nation_Russia
+  }
+  {
+    id: 20228
+    name: 一〇〇式
+    en_name: Sakura
+    code: Type100Mod
+    introduce:
+      '''
+      类型            冲锋枪
+      总重            空枪：3.38公斤
+      全长            90.3公分/102.5公分
+      枪管长度        23公分
+      弹药            8毫米南部子弹
+      枪机种类        气体反冲式
+      发射速率        450发/分
+      枪口初速        334米/秒
+      有效射程        120米
+      供弹方式        30发弹夹
+      瞄准具型式      铁制表尺
+      '''
+    dialogue: 百式冲锋枪，参上。指挥官，今后的日子，请您多多指教了。
+    extra: かれい,加隈亜衣,
+    en_introduce:
+      '''
+      Type                       Submachine Gun
+      Weight                     3.8 kg (8.4 lb)
+      Length                     890 mm (35.0 in) 
+      Barrel length              228 mm (9.0 in)
+      Cartridge                  8×22mm Nambu
+      Action                     Blowback
+      Rate of fire               450 rounds per minute 
+      Muzzle velocity            335 m/s (1,100 ft/s)
+      Effective firing range     100-150 m
+      Feed system                30-round detachable curved box magazine
+      '''
+    type: 2
+    rank: 6
+    develop_duration: 8340
+    baseammo: 25
+    basemre: 20
+    ammo_add_withnumber: 15
+    mre_add_withnumber: 10
+    retiremp: 5
+    retireammo: 5
+    retiremre: 2
+    ratio_life: 128
+    ratio_pow: 115
+    ratio_rate: 95
+    ratio_speed: 100
+    ratio_hit: 115
+    ratio_dodge: 112
+    armor_piercing: 15
+    crit: 5
+    eat_ratio: 128
+    ratio_range: 100
+    skill1: 740068
+    skill2: 740076
+    normal_attack: 740072
+    passive_skill: "740071"
+    dynamic_passive_skill: "740069,740070,740073"
+    effect_grid_center: 14
+    effect_guntype: "4"
+    effect_grid_pos: "8,9,10"
+    effect_grid_effect: "1,20;3,40"
+    type_equip1: 3;9,10
+    type_equip2: 2;6,19
+    type_equip3: 1;1,2,3,4,13,18
+    ai: 228
+    launch_time: 2018-11-29 00:00:00
+    obtain_ids: "35"
+    rank_display: 6
+    prize_id: 3228
+    related_story_id: 100228
   }
   {
     id: 20252
@@ -40023,7 +40014,6 @@
     prize_id: 3293
     gun_detail_bg: team_defy
     related_story_id: 100293
-    show_damage_skin: ",0,5057,"
   }
   {
     id: 30156
