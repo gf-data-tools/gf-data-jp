@@ -1397,6 +1397,19 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 594
+    name: 森で遊撃
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 152
+    skin: 594
+    poster: 30594
+    code: gift_bundle_ChessBonus_M1897
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 595
     name: アンティーク蒐集家
     type: 2
@@ -7291,6 +7304,19 @@
     skin: 7107
     poster: 37107
     code: gift_bundle_Anniversary2022_M1895
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 7108
+    name: 啜風吟
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 94
+    skin: 7108
+    poster: 37108
+    code: gift_bundle_Anniversary2022_64type
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }

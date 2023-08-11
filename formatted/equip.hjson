@@ -8935,6 +8935,104 @@
     obtain_ids: "3078"
   }
   {
+    id: 301
+    name: ZF4
+    description:
+      '''
+      会心率+<critical_percent><%>
+      射速+<rate>$G43専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "1,2"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_G43
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "47"
+    equip_introduction: 過去の設計図を元にI.O.Pが製造したG43専用オプティカルサイト。G43の戦闘能力を大幅に向上させることができる。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:1000
+    max_level: 10
+    auto_select_id: 18103
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 302
+    name: BA6レーザーサイト
+    description:
+      '''
+      回避+<dodge>
+      会心率+<critical_percent><%>$P99専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    dodge: "8,11"
+    critical_percent: "12,15"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_P99
+    develop_duration: 3540
+    company: STN
+    fit_guns: "123"
+    equip_introduction: 光学機械メーカーSTNがP99用に設計したレーザーサイト。I.O.Pに調整されて、信頼性が大幅に向上した。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: dodge:1000,critical_percent:350
+    max_level: 10
+    auto_select_id: 18104
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 303
+    name: EVO3ハンドガード
+    description:
+      '''
+      火力+<pow>
+      回避+<dodge>$EVO 3専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "1,2"
+    dodge: "7,10"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_EVO3
+    develop_duration: 2820
+    company: MI
+    fit_guns: "131"
+    equip_introduction: MI社がEVO 3用に設計したmlokハンドガード。EVO 3の拡張性を引き上げることができる。
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: dodge:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18105
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
     id: 305
     name: SFライト改
     description:
