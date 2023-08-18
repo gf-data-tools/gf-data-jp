@@ -8803,6 +8803,139 @@
     obtain_ids: "3067"
   }
   {
+    id: 284
+    name: 34号信号拳銃
+    description:
+      '''
+      命中+<hit>
+      部隊命中+10%$PPK専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_PPK
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "10,20010"
+    equip_introduction: 過去の戦争にて活躍した信号拳銃。PPK愛用の一式であり、コンパクトで持ち運びやすい。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:1000
+    passive_skill: "300903"
+    max_level: 10
+    auto_select_id: 19041
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 部隊命中+10%
+  }
+  {
+    id: 285
+    name: KWSストック
+    description:
+      '''
+      会心率+<critical_percent><%>
+      火力+<pow> 命中+<hit>$MG3専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,5"
+    hit: "1,3"
+    critical_percent: "18,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_MG3
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "88,20088"
+    equip_introduction: KWSアップグレード計画にて生まれた現代化ストック。状況に応じて高さの調節などができる。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,hit:700,pow:1000
+    max_level: 10
+    auto_select_id: 18093
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 286
+    name: M43信号拳銃
+    description:
+      '''
+      命中+<hit>
+      部隊命中+20%$スオミ専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "12,15"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_索米
+    develop_duration: 3600
+    company: VKT
+    fit_guns: "115,20115"
+    equip_introduction: 過去の戦争にて活躍した信号拳銃。スオミ愛用の一式であり、I.O.Pの改造によって色んな信号弾を発射できるようになった。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:700
+    passive_skill: "759034"
+    max_level: 10
+    auto_select_id: 19042
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 部隊命中+20%
+  }
+  {
+    id: 287
+    name: HARRIS銃架
+    description:
+      '''
+      会心率+<critical_percent><%>
+      火力+<pow>$OBR専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,5"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_OBR
+    develop_duration: 2700
+    company: HARRIS
+    fit_guns: "230,20230"
+    equip_introduction: HARRISの代表的な二脚銃架。larueの変換アダプターでOBRのレールに取り付けることができた。シンプルにして実用的。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18094
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
     id: 289
     name: GLX160
     description:
