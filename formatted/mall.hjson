@@ -29746,6 +29746,73 @@
     classification_id: 3002
   }
   {
+    id: 31702
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 579-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(AUG Para)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin08
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 31703
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 576-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(Gr SL8)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin07
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 31704
+    type: 8
+    item_ids: 41-100
+    gift: 577-1
+    gemprice: 1998
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(VHS)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin01
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 31705
+    type: 8
+    gemprice: 380
+    quota: 2001
+    giftbag_name: 9月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_aki2
+    discount: 1
+    prize_id: 330304
+    classification_id: 3002
+  }
+  {
+    id: 31706
+    type: 8
+    gemprice: 118
+    quota: 2001
+    giftbag_name: 9月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_red
+    daily_quota: 1
+    discount: 1
+    prize_id: 330311
+    classification_id: 3002
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980

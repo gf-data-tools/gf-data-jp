@@ -9830,6 +9830,9 @@
     id: 805
     item_id: 1805
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_coremask
     order: 1
     rarity: 5
@@ -9841,6 +9844,9 @@
     id: 806
     item_id: 1806
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_Grey
     order: 1
     rarity: 5
@@ -9852,6 +9858,9 @@
     id: 807
     item_id: 1807
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_N_M4A1
     order: 1
     rarity: 5
@@ -9863,6 +9872,9 @@
     id: 808
     item_id: 1808
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_Light
     order: 1
     rarity: 5
@@ -9874,6 +9886,9 @@
     id: 809
     item_id: 1809
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_ShadowLizz
     order: 1
     rarity: 5
@@ -9885,6 +9900,9 @@
     id: 810
     item_id: 1810
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_Older
     order: 1
     rarity: 5
@@ -9896,6 +9914,9 @@
     id: 811
     item_id: 1811
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_Saint
     order: 1
     rarity: 5
@@ -9907,6 +9928,9 @@
     id: 812
     item_id: 1812
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2021_Deadline
     order: 1
     rarity: 5
@@ -9918,6 +9942,9 @@
     id: 813
     item_id: 1813
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2021_MorningLight
     order: 1
     rarity: 5
@@ -9927,6 +9954,9 @@
     id: 814
     item_id: 1814
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2021_Descends
     order: 1
     rarity: 5
@@ -9936,6 +9966,9 @@
     id: 815
     item_id: 1815
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2021_BurnOut
     order: 1
     rarity: 5
@@ -9945,6 +9978,9 @@
     id: 816
     item_id: 1816
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2021_DarkDream
     order: 1
     rarity: 5
@@ -9954,6 +9990,9 @@
     id: 817
     item_id: 1817
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2021_HiddenTruth
     order: 1
     rarity: 5
@@ -9963,6 +10002,9 @@
     id: 818
     item_id: 1818
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2021_CrisisMoment
     order: 1
     rarity: 5
@@ -9972,6 +10014,9 @@
     id: 819
     item_id: 1819
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_Winter2021_DreamLand
     order: 1
     rarity: 5
@@ -9981,6 +10026,9 @@
     id: 820
     item_id: 1820
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_Winter2021_Blowing
     order: 1
     rarity: 5
@@ -9990,6 +10038,9 @@
     id: 821
     item_id: 1821
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_Winter2021_QuietRoom
     order: 1
     rarity: 5
@@ -9999,6 +10050,9 @@
     id: 822
     item_id: 1822
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_Winter2021_Hall
     order: 1
     rarity: 5
@@ -13465,6 +13519,32 @@
     filter_type: "4"
   }
   {
+    id: 1164
+    item_id: 2164
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Carnival2022_SL8
+    order: 1
+    rarity: 5
+    skin: 576
+    filter_type: "4"
+  }
+  {
+    id: 1165
+    item_id: 2165
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Carnival2022_VHS
+    order: 1
+    rarity: 5
+    skin: 577
+    filter_type: "4"
+  }
+  {
     id: 1166
     item_id: 2166
     sub_type: 1
@@ -13475,6 +13555,84 @@
     order: 1
     rarity: 5
     skin: 578
+    filter_type: "4"
+  }
+  {
+    id: 1167
+    item_id: 2167
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Carnival2022_AUGPARA
+    order: 1
+    rarity: 5
+    skin: 579
+    filter_type: "4"
+  }
+  {
+    id: 1168
+    item_id: 2168
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Carnival2022_HK416
+    order: 1
+    rarity: 5
+    skin: 581
+    filter_type: "4"
+  }
+  {
+    id: 1169
+    item_id: 2169
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Carnival2022_G11
+    order: 1
+    rarity: 5
+    skin: 582
+    filter_type: "4"
+  }
+  {
+    id: 1170
+    item_id: 2170
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Carnival2022_UMP9
+    order: 1
+    rarity: 5
+    skin: 583
+    filter_type: "4"
+  }
+  {
+    id: 1171
+    item_id: 2171
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Carnival2022_UMP45
+    order: 1
+    rarity: 5
+    skin: 584
+    filter_type: "4"
+  }
+  {
+    id: 1172
+    item_id: 2172
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Carnival2022_UMP40
+    order: 1
+    rarity: 5
+    skin: 585
     filter_type: "4"
   }
   {

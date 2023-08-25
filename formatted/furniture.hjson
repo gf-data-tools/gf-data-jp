@@ -25822,6 +25822,201 @@
     interact_point_offset: "0,0,0"
   }
   {
+    id: 10601
+    name: 終わらない夜-夜のアスファルト
+    classes: 106
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 適度に冷たい地面、空を帳に、大地を席に、何もかもが気ままに、自由であるように。
+    code: Carnival2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10602
+    name: 終わらない夜-寂しい夜の色
+    classes: 106
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 浮世の喧騒にのまれることなく、ただいつものように、昼から夜へ、そして夜から昼へ。
+    code: Carnival2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10603
+    name: 終わらない夜-貪欲の穴
+    classes: 106
+    type: 201
+    position: "4,8"
+    space: "8,6,0,0,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: それは大きな口を開いて、通り過ぎる人々に美食を見せつけ、中に誘い込もうとする……一度でも中に入れば、あとは太っていくだけだ。
+    code: Carnival2022_deco_01,Carnival2022_deco_02,Carnival2022_deco_03,Carnival2022_deco_04
+    texture_type: "1,1,1,1"
+    sorting: "0,0,20,20"
+    offset: "-0.584,-0.699,1.230|1.720,-0.699,1.230|-0.584,-0.699,1.230|1.720,-0.699,1.230"
+    rotate: "2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *1.867,-1.300,3.540
+  }
+  {
+    id: 10604
+    name: 終わらない夜-饗宴の始まりと終わり
+    classes: 106
+    type: 201
+    position: "28,11"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: どんな夜の饗宴でも、最初はバーへの看板を起点にして、そして十分にデカいゴミ箱で終わりを迎える。
+    code: Carnival2022_deco_05,Carnival2022_deco_06
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.241,0.517"
+    rotate: "2,2"
+  }
+  {
+    id: 10605
+    name: 終わらない夜-ベスト観賞席
+    classes: 106
+    type: 202
+    position: "19,9"
+    space: "8,4,1,1,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 灯台下暗しのカフェ。通り過ぎるオシャレな人々や、お金を使い果たした哀れな連中を眺める絶好のスポットだ。
+    code: Carnival2022_deco_07,Carnival2022_deco_08,Carnival2022_deco_09
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.434,0.000,0.000|-0.434,2.242,0.517|1.871,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *2.217,1.352,-0.285|*-2.634,1.238,-0.285
+  }
+  {
+    id: 10606
+    name: 終わらない夜-贅沢なビル
+    classes: 106
+    type: 201
+    position: "1,6"
+    space: "10,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 贅沢品とは、人々の生活必需品の範疇ではない消費品のことだが、これを売っているところはいつも人々の注目を集める。
+    code: Carnival2022_deco_10,Carnival2022_deco_11,Carnival2022_deco_billboardA
+    texture_type: "1,1,2"
+    sorting: "0,0,20"
+    offset: "-0.094,0.000,0.000|-0.094,4.494,1.032|1.769,1.729,0.400"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10607
+    name: 終わらない夜-有閑ビル
+    classes: 106
+    type: 201
+    position: "20,6"
+    space: "10,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: ここでなら、歩き回る必要はなく、安心して座り込んで、自分の戦利品を眺めることができる。
+    code: Carnival2022_deco_12,Carnival2022_deco_billboardD
+    texture_type: "1,2"
+    sorting: "0,20"
+    offset: "-0.002,-0.060,-0.017|-1.863,1.652,0.387"
+    rotate: "2,2"
+  }
+  {
+    id: 10608
+    name: 終わらない夜-変身地帯
+    classes: 106
+    type: 201
+    position: "17,2"
+    space: "9,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: フィクションの世界では、美少女は特別な能力で変身するが、現実において、金さえあればいくらでも変身することができる。
+    code: Carnival2022_deco_13
+    texture_type: "1"
+    offset: "-0.146,0.000,0.000"
+    rotate: "2"
+  }
+  {
+    id: 10609
+    name: 終わらない夜-ストリートアート
+    classes: 106
+    type: 201
+    position: "11,0"
+    space: "10,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 壁も媒体の一つだ、地面も、車の窓も……所詮は全部落書きのキャンバスに過ぎない。ああ、分かったよ、ここに描いたやつはちゃんと消すから。
+    code: Carnival2022_deco_14,Carnival2022_deco_billboardB,Carnival2022_deco_billboardC
+    texture_type: "1,2,2"
+    sorting: "0,20,20"
+    offset: "-0.094,-0.042,-0.010|0.443,1.298,0.300|0.643,1.701,0.392"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10610
+    name: 終わらない夜-星の階段
+    classes: 106
+    type: 201
+    position: "6,4"
+    space: "20,2,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: LEDライトは星のような網を紡ぐ。階段を登った時、遍く星々にすぐ手が届きそうな感じがする。しかし誰しも分かっている、階段の先にあるのは、ただの虚無だと。
+    code: Carnival2022_deco_15,Carnival2022_deco_16
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.366,-0.052,-0.010|3.240,-0.052,-0.010"
+    rotate: "2,2"
+    interact_point: "27"
+    interact_point_offset: *-0.525,2.163,-0.285
+  }
+  {
+    id: 10611
+    name: 終わらない夜-新商品の舞台
+    classes: 106
+    type: 201
+    position: "1,9"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: シーズンごとに更新される新商品のバナー。今こそ一番輝く時、売り時が過ぎれば、すぐ倉庫の肥やしになってしまうから。
+    code: Carnival2022_deco_17,Carnival2022_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.242,0.517"
+    rotate: "2,2"
+  }
+  {
+    id: 10612
+    name: 終わらない夜-ダイナーゲートの魚釣り
+    classes: 106
+    type: 201
+    position: "13,7"
+    space: "6,7,0,0,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 池の底にあるライトをコインと勘違いした釣り人こそ、一番欲望にまみれた魚なのかもしれない。
+    code: Carnival2022_deco_19,Carnival2022_deco_20,Carnival2022_deco_fishDog
+    texture_type: "1,1,2"
+    sorting: "0,0,20"
+    offset: "0.000,-0.521,1.105|2.304,-0.177,-0.063|0,-0.2481626,1.2731367"
+    rotate: "2,2,2"
+  }
+  {
     id: 10701
     name: 武林英雄誌-試合場の青芝
     classes: 107
@@ -28838,6 +29033,49 @@
     rotate: "3"
   }
   {
+    id: 30575
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    code: poster_Carnival2022_QBZ191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30576
+    name: ゴーストフィズ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr SL8のポスター。
+    code: poster_Carnival2022_SL8
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30577
+    name: ウイスキーフロート
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VHSのポスター。
+    code: poster_Carnival2022_VHS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30578
     name: 浮世の風潮
     classes: 300
@@ -28847,6 +29085,96 @@
     decompose_gift: 100003
     description: 劉氏歩槍のポスター。
     code: poster_Carnival2022_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30579
+    name: ピスコサワー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG Paraのポスター。
+    code: poster_Carnival2022_AUGPARA
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30581
+    name: ホワイトネグローニ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 416のポスター。
+    code: poster_Carnival2022_HK416
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30582
+    name: マインドイレーザー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr G11のポスター
+    code: poster_Carnival2022_G11
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30583
+    name: ビーズニーズ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UMP9のポスター。
+    code: poster_Carnival2022_UMP9
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30584
+    name: コロナサンセット
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UMP45のポスター。
+    code: poster_Carnival2022_UMP45
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30585
+    name: フルムーン
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UMP40のポスター。
+    code: poster_Carnival2022_UMP40
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

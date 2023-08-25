@@ -1280,6 +1280,32 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 576
+    name: ゴーストフィズ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 296
+    skin: 576
+    poster: 30576
+    code: gift_bundle_Carnival2022_SL8
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 577
+    name: ウイスキーフロート
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 318
+    skin: 577
+    poster: 30577
+    code: gift_bundle_Carnival2022_VHS
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 578
     name: 浮世の風潮
     type: 2
@@ -1289,6 +1315,84 @@
     skin: 578
     poster: 30578
     code: gift_bundle_Carnival2022_GeneralLiu
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 579
+    name: ピスコサワー
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 315
+    skin: 579
+    poster: 30579
+    code: gift_bundle_Carnival2022_AUGPARA
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 581
+    name: ホワイトネグローニ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 65
+    skin: 581
+    poster: 30581
+    code: gift_bundle_Carnival2022_HK416
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 582
+    name: マインドイレーザー
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 122
+    skin: 582
+    poster: 30582
+    code: gift_bundle_Carnival2022_G11
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 583
+    name: ビーズニーズ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 101
+    skin: 583
+    poster: 30583
+    code: gift_bundle_Carnival2022_UMP9
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 584
+    name: コロナサンセット
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 103
+    skin: 584
+    poster: 30584
+    code: gift_bundle_Carnival2022_UMP45
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 585
+    name: フルムーン
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 102
+    skin: 585
+    poster: 30585
+    code: gift_bundle_Carnival2022_UMP40
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
