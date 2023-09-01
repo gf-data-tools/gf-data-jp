@@ -21046,7 +21046,7 @@
     expect_turn: 3
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "275"
+    limit_gun_pool: "102"
     map_res_name: Chapter1_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -21074,7 +21074,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "274"
+    limit_gun_pool: "296"
     map_res_name: OPS5_Y;OPS56_Y
     map_information: "6000,6000|6000,6000|0,0;6000,6000|6000,6000|0,0"
     is_snow: 0;0
@@ -21103,7 +21103,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "311"
+    limit_gun_pool: "345"
     map_res_name: OPS5_Y
     map_information: "6600,6600|6600,6600|0,0"
     fog_length: "0,500"
@@ -21132,7 +21132,7 @@
     expect_turn: 3
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "275"
+    limit_gun_pool: "102"
     map_res_name: Chapter1_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -21160,7 +21160,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "274"
+    limit_gun_pool: "296"
     map_res_name: OPS5_Y;OPS56_Y
     map_information: "6000,6000|6000,6000|0,0;6000,6000|6000,6000|0,0"
     is_snow: 0;0
@@ -21189,7 +21189,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "311"
+    limit_gun_pool: "345"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -21217,7 +21217,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "274,311,275"
+    limit_gun_pool: "296,345,102"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -21245,7 +21245,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "274,311,275"
+    limit_gun_pool: "296,345,102"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"

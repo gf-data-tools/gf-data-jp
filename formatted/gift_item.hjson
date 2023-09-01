@@ -8128,6 +8128,19 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 30008
+    name: 青嵐の霞
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 361
+    skin: 30008
+    poster: 330008
+    code: gift_bundle_BattlePass_QBZ191
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 100001
     name: ロリポップ
     type: 1

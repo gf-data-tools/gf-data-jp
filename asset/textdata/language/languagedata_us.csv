@@ -890,9 +890,9 @@ BATTLE,10100,Show remaining number of usable Support Echelons for <color=#FFBB00
 BATTLE,10101,Support Echelons used today,,0
 BATTLE,10102,Initial CD,,0
 BATTLE,10103,Forced Manual,,0
-BATTLE,10104,Skill CD {0} turns,,0
-BATTLE,10105,Skill CD {0}s,,0
-BATTLE,10106,Initial CD {0}s,,0
+BATTLE,10104,冷却时间:{0}回合(todo),,0
+BATTLE,10105,冷却时间:{0}秒(todo),,0
+BATTLE,10106,前置冷却:{0}秒(todo),,0
 BATTLE,10107,Ally Echelon {0} engaging enemy,,0
 BATTLE,10108,Ally Echelon {0} obtained victory,,0
 BATTLE,10109,Ally Echelon {0} wiped out,,0
@@ -2598,7 +2598,7 @@ DEVELOP,33046,Range,,0
 DEVELOP,33047,Effect,,0
 DEVELOP,33048,This Echelon cannot be deployed while in this status,,0
 DEVELOP,33049,This Heavy Heliport does not meet the requirement to deploy this unit,,0
-DEVELOP,33050,This Support Echelon has 0 HP//c do you want to use Quick Repair Contracts to repair them?,,0
+DEVELOP,33050,当前重装部队血量为0，是否使用快速修复契约进行修复？(todo),,0
 DEVELOP,33051,Your current number of Action Points does not meet the deployment requirement of the Heavy Ordnance Corps,,0
 DEVELOP,33052,Insufficient Action Points//c your Echelon cannot be moved,,0
 DEVELOP,33053,Attacking the enemy head on with this Fire Support Unit will result in defeat. Proceed with the attack?,,0
@@ -2751,7 +2751,7 @@ ILLUSTRATEDBOOK,35137,Locked,,0
 ILLUSTRATEDBOOK,35138,Lethality,,0
 ILLUSTRATEDBOOK,35139,Pierce,,0
 ILLUSTRATEDBOOK,35140,Precision,,0
-ILLUSTRATEDBOOK,35141,Reload,,0
+ILLUSTRATEDBOOK,35141,装填(todo),,0
 ILLUSTRATEDBOOK,35142,Anti-Tank Weapon,,0
 ILLUSTRATEDBOOK,35143,Automatic Grenade Launcher,,0
 ILLUSTRATEDBOOK,35144,Mortar,,0
@@ -5743,7 +5743,7 @@ SQUAD,190013,* Missions refresh at midnight every day,,0
 SQUAD,190014,Original Sample x{0},,0
 SQUAD,190015,Pure Sample x{0},,0
 SQUAD,190016,Train,,0
-SQUAD,190017,Chips stats<Color=#{0}>+Same color bonus</color>,,0
+SQUAD,190017,芯片属性(todo),,0
 SQUAD,190018,Lethality,,0
 SQUAD,190019,Pierce,,0
 SQUAD,190020,Precision,,0
@@ -5865,7 +5865,7 @@ SQUAD,190135,Equipped,,0
 SQUAD,190136,Equipped by//n{0},,0
 SQUAD,190137,Insufficient Quick Analysis Contracts//c cannot proceed!,,0
 SQUAD,190139,Insufficient Data Patches//c unable to undergo Iteration!,,0
-SQUAD,190140,Once a HOC unit reaches 5-stars//c it can undergo Iteration to further increase its stats.,,0
+SQUAD,190140,火力小队单位达到5星后，可以进行迭代，以进一步提升属性。(todo),,0
 SQUAD,190141,Unit List,,0
 SQUAD,190142,Chips Storage,,0
 SQUAD,190143,Generate {0} Original Samples and {1} Pure Samples every {4} hours; this machine can hold up to {2} Original Samples and {3} Pure Samples,,0
@@ -5874,7 +5874,7 @@ SQUAD,190145,Original/Pure Sample storage limit has been increased to {0}/{1} re
 SQUAD,190146,{0} Intelligence Analysis slots unlocked//c time consumption reduced to {1}%,,0
 SQUAD,190147,Chip storage limit has been increased to {0},,0
 SQUAD,190148,{0} HOC repair slots unlocked,,0
-SQUAD,190149,{0} HOC training slots unlocked//c EXP Training will consume {1} Special Combat Reports per hour,,0
+SQUAD,190149,火力小队的训练槽位数提升至{0}(todo),,0
 SQUAD,190150,{0}   {1}   Lv.{2}  Training complete,,0
 SQUAD,190151,Insufficient batteries//c unable to undergo training!,,0
 SQUAD,190152,Insufficient Special Combat Reports//c unable to undergo training!,,0
@@ -5958,7 +5958,7 @@ SQUAD,190229,Distance from {0} to {1},,0
 SQUAD,190230,Max Iteration,,0
 SQUAD,190231,Max level,,0
 SQUAD,190232,Preview,,0
-SQUAD,190233,HOC collection,,0
+SQUAD,190233,火力小队收集 (todo),,0
 SQUAD,190234,Range,,0
 SQUAD,190235,Normal attack,,0
 SQUAD,190236, ({0}<size=26>s/attack</size>),,0
@@ -7220,7 +7220,7 @@ FORMATION,270060,,,0
 FORMATION,270061,,,0
 FORMATION,270062,,,0
 FORMATION,270070,队长(todo),,0
-FORMATION,270071,已解锁芯片(todo),,0
+FORMATION,270071,已装载芯片(todo),,0
 FORMATION,270072,原梯队(todo),,0
 FORMATION,270073,梯队将进行以下改动(todo),,0
 MINIGAME,280001,Turn,,0
