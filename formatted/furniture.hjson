@@ -27465,6 +27465,170 @@
     touch_area: "3,3,3"
   }
   {
+    id: 20063
+    name: 「未来号」記念車両
+    classes: 19
+    type: 301
+    space: "6,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: ユーラシア大陸を繋ぐ伝説の列車。古い弾痕は、栄誉の証である。
+    code: 2022SummerActivity_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20064
+    name: レッドカーペットの嘘
+    classes: 19
+    type: 101
+    space: "3,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 手がかりはいつも毫厘の中……サスペンスの舞台はすでに整った。あとは役者が揃うだけだ。
+    code: 2022SummerActivity_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 20065
+    name: やさしき和の席
+    classes: 19
+    type: 201
+    space: "10,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: オシャレなディナーほど、この疲れ切った身を癒せるものはない……もしあるのだとすれば、それはきっとディナーを共にしてくれる彼女だ。
+    code: 2022SummerActivity_TableA,2022SummerActivity_ChairA,2022SummerActivity_ChairB
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,-0.052,-0.010|-1.251,-0.052,-0.010|1.312,-0.052,-0.010"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *3.383,1.480,-0.285|*-3.179,1.650,-0.285
+  }
+  {
+    id: 20066
+    name: 争いの緩衝地帯
+    classes: 19
+    type: 201
+    space: "10,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: ここに座った二人は、敵であっても友であっても、どうかこの食器たちだけは見逃してあげてください。またスザンナの給料が減らされます。
+    code: 2022SummerActivity_TableB,2022SummerActivity_ChairA,2022SummerActivity_ChairB
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,-0.052,-0.010|-1.251,-0.052,-0.010|1.312,-0.052,-0.010"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *3.383,1.480,-0.285|*-3.179,1.650,-0.285
+  }
+  {
+    id: 20067
+    name: ユーラシアの銘酒たち
+    classes: 19
+    type: 201
+    space: "11,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 大陸間列車の土産物――シベリア線の沿線各地の銘酒がここにある……ただ、テキーラを選んだ者だけは気を付けた方がいい。
+    code: 2022SummerActivity_WineCabinet01,2022SummerActivity_WineCabinet02,2022SummerActivity_WineCabinet03,2022SummerActivity_WineCabinet04,2022SummerActivity_WineCabinet05
+    texture_type: "1,1,1,1,1"
+    sorting: "0,10,20,20,20"
+    offset: "-0.031,0.010,0.000|-0.031,0.010,0.000|1.053,-0.188,-0.042|-0.031,-0.188,-0.042|-1.355,-0.188,-0.042"
+    rotate: "2,2,2,2,2"
+    interact_point: "17,18,19"
+    interact_point_offset: *-0.146,1.423,0.142|*2.683,2.020,-1.366|*-3.150,1.650,-0.768
+  }
+  {
+    id: 20068
+    name: 揺れる秘密
+    classes: 19
+    type: 302
+    space: "15,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 旅の揺れは拷問にも等しい。気を付けた方がいい、もしか弱い薔薇が落ちてきたら大変だ。
+    code: 2022SummerActivity_Luggage01,2022SummerActivity_Luggage02,2022SummerActivity_Luggage03,2022SummerActivity_Luggage04
+    texture_type: "1,1,1,1"
+    sorting: "0,0,0,0"
+    offset: "-1.679,0.803,0.000|0.594,0.803,0.000|1.428,0.803,0.000|3.711,0.803,0.000"
+    rotate: "3,3,3,3"
+  }
+  {
+    id: 20069
+    name: 波乱の縮図
+    classes: 19
+    type: 302
+    space: "3,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: この列車は世界の運命に衝撃を与えた――まるで揺れるこの地図のように。
+    code: 2022SummerActivity_RoadMap
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20070
+    name: カールの制服コレクション
+    classes: 19
+    type: 201
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: Kar98kは同じ制服を三着持っている。ここにあるのは観賞用で……おい、これに目をつけるんじゃないぞ、MP41！
+    code: 2022SummerActivity_SoldierCloth
+    texture_type: "1"
+    offset: "0.000,-0.052,-0.010"
+    rotate: "2"
+  }
+  {
+    id: 20071
+    name: 西部世界への扉
+    classes: 19
+    type: 201
+    space: "6,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 噂によると、このジュークボックスを使った人形は、みんな一瞬気を失ったことがある。何やら、とある神秘的な列車の個室にいたような気がするとかなんとか。
+    code: 2022SummerActivity_JukeBox
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20072
+    name: 嵐が立つ地
+    classes: 19
+    type: 201
+    space: "4,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: うっかり落としたボトルは、乗客の文句を招くかもしれない。それともこれは、マフィアの襲撃の合図なのか？
+    code: 2022SummerActivity_TableC
+    texture_type: "1"
+    offset: "0.156,-0.250,-0.063"
+    rotate: "2"
+  }
+  {
+    id: 20075
+    name: 赤鉄の嵐
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「縦軸歪曲」にて称えられる功績を残したことを表彰する。「線路前方の障碍はクリアしました。列車は、暁の彼方へ走り出す」
+    code: 2022SummerActivity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 20076
     name: 青い土曜の一コマ
     classes: 81

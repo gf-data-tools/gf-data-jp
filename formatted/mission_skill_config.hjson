@@ -15778,6 +15778,8 @@
   }
   {
     id: 541203
+    name: バーカウンター
+    description: 食堂車のバーカウンター。酒がいっぱい置かれている。
     skill_group_id: 541203
     level: 1
     spot_type: "-1"
@@ -15799,6 +15801,8 @@
   }
   {
     id: 541212
+    name: 偽装
+    description: 強盗の服に着替えて偽装する。偽装状態中は敵に攻撃されない。
     skill_group_id: 541212
     level: 1
     spot_type: "-1"
@@ -15813,6 +15817,8 @@
   }
   {
     id: 541213
+    name: 一杯飲む
+    description: 目標に酒を飲ませる。酒を飲んだ場合、そのまま退場する。1回のみ使用できる。
     skill_group_id: 541213
     level: 1
     spot_type: "-1"
@@ -15828,6 +15834,8 @@
   }
   {
     id: 541222
+    name: 隠された部屋
+    description: 外からでは見えない小さな部屋、何かこそこそするのに向いている。
     skill_group_id: 541222
     level: 1
     spot_type: "-1"
@@ -15873,8 +15881,7 @@
   }
   {
     id: 541303
-    name: mission_skill_config-10541303
-    description: mission_skill_config-20541303
+    name: Don't translate
     skill_group_id: 541303
     level: 1
     spot_type: "-1"
@@ -15887,6 +15894,7 @@
   {
     id: 541311
     name: 空襲誘導
+    description: 空襲を誘導し、次のターン開始時自身周囲1マス範囲内のユニットおよび施設に壊滅的な打撃を与える。誘導開始後は移動できず、部隊が撃破されても空襲は中断されない。
     skill_group_id: 541311
     level: 1
     spot_type: "-1"
@@ -15902,6 +15910,7 @@
   {
     id: 541313
     name: 投擲
+    description: ゴリアテを投げて、瓦礫を破壊する。
     skill_group_id: 541313
     level: 1
     spot_type: "-1"
@@ -15917,6 +15926,7 @@
   {
     id: 541314
     name: 拾う
+    description: ゴリアテを拾う。注意：本ステージに置いてゴリアテは瓦礫の破壊のみに使用できる。
     skill_group_id: 541314
     level: 1
     spot_type: "-1"
@@ -15987,6 +15997,7 @@
   {
     id: 541411
     name: 花火を打ち上げる
+    description: 花火を打ち上げて通行人の注意を惹く。ポイントを通過不可にする。1回のみ使用できる。
     skill_group_id: 541411
     level: 1
     spot_type: "-1"
@@ -16001,6 +16012,7 @@
   {
     id: 541412
     name: エレベーターに搭乗する
+    description: エレベーターに搭乗し、次の階層に向かう
     skill_group_id: 541412
     level: 1
     spot_type: "-1"
@@ -16014,6 +16026,8 @@
   }
   {
     id: 541413
+    name: 搭乗
+    description: エレベーターに搭乗し、次の階層に向かう
     skill_group_id: 541413
     level: 1
     spot_type: "-1"
@@ -16027,6 +16041,8 @@
   }
   {
     id: 541414
+    name: 搭乗
+    description: エレベーターに搭乗し、次の階層に向かう
     skill_group_id: 541414
     level: 1
     spot_type: "-1"
@@ -16052,6 +16068,7 @@
   {
     id: 542402
     name: 解読
+    description: 列車のシステムをハッキングし、安全認証を通過する
     skill_group_id: 542402
     level: 1
     spot_type: "-1"
@@ -16066,6 +16083,7 @@
   {
     id: 542403
     name: 解読
+    description: 列車のシステムをハッキングし、安全認証を通過する
     skill_group_id: 542403
     level: 1
     spot_type: "-1"
@@ -16080,6 +16098,7 @@
   {
     id: 542404
     name: 解読
+    description: 列車のシステムをハッキングし、安全認証を通過する
     skill_group_id: 542404
     level: 1
     spot_type: "-1"
@@ -16094,6 +16113,7 @@
   {
     id: 542405
     name: 解読
+    description: 列車のシステムをハッキングし、安全認証を通過する
     skill_group_id: 542405
     level: 1
     spot_type: "-1"
@@ -16107,6 +16127,8 @@
   }
   {
     id: 542411
+    name: ミラーテレポート
+    description: 転送ポイントを1個設置し、マップの正反対側に転移できる。転送ポイントは場に1個のみ存在できる。
     skill_group_id: 542411
     level: 1
     spot_type: "-1"
@@ -16144,6 +16166,8 @@
   }
   {
     id: 542711
+    name: 撤退
+    description: 展覧会場から撤退する
     skill_group_id: 542711
     level: 1
     spot_type: "-1"
@@ -16157,6 +16181,8 @@
   }
   {
     id: 542712
+    name: 撤退
+    description: 展覧会場から撤退する
     skill_group_id: 542712
     level: 1
     spot_type: "-1"
@@ -16170,6 +16196,8 @@
   }
   {
     id: 542713
+    name: 撤退
+    description: 展覧会場から撤退する
     skill_group_id: 542713
     level: 1
     spot_type: "-1"
@@ -16194,9 +16222,8 @@
   }
   {
     id: 542902
-    name: mission_skill_config-10542902
-    description: mission_skill_config-20542902
-    lvup_description: mission_skill_config-30542902
+    name: オート機銃
+    description: 二種類の攻撃モードを持つ自動機銃。近づく敵を全員ハチの巣にする。
     skill_group_id: 542902
     level: 1
     spot_type: "-1"
@@ -16230,6 +16257,7 @@
   {
     id: 543114
     name: 拾う
+    description: メンタル干渉爆弾を拾う
     skill_group_id: 543114
     level: 1
     spot_type: "-1"
@@ -16244,6 +16272,8 @@
   }
   {
     id: 543124
+    name: 減速
+    description: 目標のメンタルを干渉し、その移動速度を低下させる。1ターンの間持続する。
     skill_group_id: 543124
     level: 1
     spot_type: "-1"
@@ -16259,6 +16289,8 @@
   }
   {
     id: 543134
+    name: 減速
+    description: 目標のメンタルを干渉し、その移動速度を低下させる。1ターンの間持続する。
     skill_group_id: 543134
     level: 1
     spot_type: "-1"
@@ -16541,6 +16573,7 @@
   {
     id: 543921
     name: 切り替える
+    description: コマンドを入力し、自動機銃を警戒モードに切り替える。さらにアクティベート状態の機銃数を減らす。
     skill_group_id: 543921
     level: 1
     spot_type: "-1"
@@ -16618,6 +16651,7 @@
   {
     id: 543931
     name: 切り替える
+    description: コマンドを入力し、自動機銃を警戒モードに切り替える。さらにアクティベート状態の機銃数を減らす。
     skill_group_id: 543931
     level: 1
     spot_type: "-1"
@@ -16766,6 +16800,8 @@
   }
   {
     id: 544111
+    name: メンタルテレポート
+    description: 転送ポイントを1個設置し、αエリアの対応するポイントに転移できる。転送ポイントは1ターンの間存在でき、同時にαエリアとβエリアに存在することはできない。
     skill_group_id: 544111
     level: 1
     spot_type: "-1"
@@ -16779,6 +16815,8 @@
   }
   {
     id: 544112
+    name: ジャマーを起動
+    description: ジャマーを起動し、敵のバリアを破壊する。
     skill_group_id: 544112
     level: 1
     spot_type: "-1"
@@ -16793,6 +16831,8 @@
   }
   {
     id: 544113
+    name: 防御ゲートを起動
+    description: 防御ゲートを起動する
     skill_group_id: 544113
     level: 1
     spot_type: "-1"
@@ -16808,6 +16848,7 @@
   {
     id: 544114
     name: 拾う
+    description: メンタル干渉爆弾を拾う
     skill_group_id: 544114
     level: 1
     spot_type: "-1"
@@ -16822,6 +16863,8 @@
   }
   {
     id: 544121
+    name: メンタルテレポート
+    description: 転送ポイントを1個設置し、αエリアの対応するポイントに転移できる。転送ポイントは1ターンの間存在でき、同時にαエリアとβエリアに存在することはできない。
     skill_group_id: 544121
     level: 1
     spot_type: "-1"
@@ -16835,6 +16878,8 @@
   }
   {
     id: 544124
+    name: 減速
+    description: 目標のメンタルを干渉し、その移動速度を低下させる。1ターンの間持続する。
     skill_group_id: 544124
     level: 1
     spot_type: "-1"
@@ -16940,6 +16985,8 @@
   }
   {
     id: 544211
+    name: 腕時計を拾う
+    description: 壊れた腕時計を拾う
     skill_group_id: 544211
     level: 1
     spot_type: "-1"
@@ -16954,6 +17001,8 @@
   }
   {
     id: 544212
+    name: ガソリンを入手する
+    description: ドラム缶からガソリンを入手する。樹林の点火に使える。
     skill_group_id: 544212
     level: 1
     spot_type: "-1"
@@ -16968,6 +17017,8 @@
   }
   {
     id: 544213
+    name: 点火
+    description: 樹林を燃やし、燃えている位置にいるユニットは持続的にダメージを受け、増援を得られなくなる。
     skill_group_id: 544213
     level: 1
     spot_type: "-1"
@@ -44434,7 +44485,9 @@
   }
   {
     id: 6540012
+    name: 任務を受ける
     code: "1"
+    description: 任務を受ける
     skill_group_id: 6540012
     level: 1
     spot_type: "-1"
@@ -44452,7 +44505,9 @@
   }
   {
     id: 6540013
+    name: 任務を受ける
     code: "1"
+    description: 任務を受ける
     skill_group_id: 6540013
     level: 1
     spot_type: "-1"
@@ -44471,7 +44526,9 @@
   }
   {
     id: 6540014
+    name: 任務を受ける
     code: "1"
+    description: 任務を受ける
     skill_group_id: 6540014
     level: 1
     spot_type: "-1"
@@ -44489,7 +44546,9 @@
   }
   {
     id: 6540015
+    name: 任務を受ける
     code: "1"
+    description: 任務を受ける
     skill_group_id: 6540015
     level: 1
     spot_type: "-1"
@@ -44507,7 +44566,9 @@
   }
   {
     id: 6540016
+    name: 任務を完了する
     code: "1"
+    description: 任務を完了する
     skill_group_id: 6540016
     level: 1
     spot_type: "-1"
@@ -44531,7 +44592,9 @@
   }
   {
     id: 6540018
+    name: 任務を完了する
     code: "1"
+    description: 任務を完了する
     skill_group_id: 6540018
     level: 1
     spot_type: "-1"
@@ -44547,7 +44610,9 @@
   }
   {
     id: 6540019
+    name: 任務を完了する
     code: "1"
+    description: 任務を完了する
     skill_group_id: 6540019
     level: 1
     spot_type: "-1"
@@ -44688,7 +44753,9 @@
   }
   {
     id: 6540030
+    name: 制御パネルIを操作する
     code: "1"
+    description: 制御パネルを操作する
     skill_group_id: 6540030
     level: 1
     spot_type: "-1"
@@ -44702,7 +44769,9 @@
   }
   {
     id: 6540031
+    name: 制御パネルIIを操作する
     code: "1"
+    description: 制御パネルを操作する
     skill_group_id: 6540031
     level: 1
     spot_type: "-1"
@@ -44716,7 +44785,9 @@
   }
   {
     id: 6540032
+    name: 制御パネルIIIを操作する
     code: "1"
+    description: 制御パネルを操作する
     skill_group_id: 6540032
     level: 1
     spot_type: "-1"
@@ -44730,7 +44801,9 @@
   }
   {
     id: 6540033
+    name: 制御パネルIVを操作する
     code: "1"
+    description: 制御パネルを操作する
     skill_group_id: 6540033
     level: 1
     spot_type: "-1"
@@ -44792,7 +44865,9 @@
   }
   {
     id: 6540038
+    name: グリフィン部隊が支援権限を獲得しました
     code: "1"
+    description: 遠距離砲撃支援権限を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540038
     level: 1
     spot_type: "-1"
@@ -44808,7 +44883,9 @@
   }
   {
     id: 6540039
+    name: グリフィン部隊が支援権限を獲得しました
     code: "1"
+    description: 照明支援権限を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540039
     level: 1
     spot_type: "-1"
@@ -44824,7 +44901,9 @@
   }
   {
     id: 6540040
+    name: グリフィン部隊が支援権限を獲得しました
     code: "1"
+    description: 迫撃砲支援権限を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540040
     level: 1
     spot_type: "-1"
@@ -44840,7 +44919,9 @@
   }
   {
     id: 6540041
+    name: グリフィン部隊が支援権限を獲得しました
     code: "1"
+    description: EMPを獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540041
     level: 1
     spot_type: "-1"
@@ -44856,7 +44937,9 @@
   }
   {
     id: 6540042
+    name: 融合勢力部隊が支援権限を獲得しました
     code: "1"
+    description: ゴリアテを獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540042
     level: 1
     spot_type: "-1"
@@ -44872,7 +44955,9 @@
   }
   {
     id: 6540043
+    name: 融合勢力部隊が支援権限を獲得しました
     code: "1"
+    description: 視界拡大を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540043
     level: 1
     spot_type: "-1"
@@ -44888,7 +44973,9 @@
   }
   {
     id: 6540044
+    name: 融合勢力部隊が支援権限を獲得しました
     code: "1"
+    description: 戦場強化を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540044
     level: 1
     spot_type: "-1"
@@ -44904,7 +44991,9 @@
   }
   {
     id: 6540045
+    name: 融合勢力部隊が支援権限を獲得しました
     code: "1"
+    description: ステータス強化20%を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540045
     level: 1
     spot_type: "-1"
@@ -45054,7 +45143,9 @@
   }
   {
     id: 6540057
+    name: 遠距離砲撃支援
     code: "1"
+    description: 5マス以内の敵部隊を1個選んで、遠距離砲撃を行う。CT:1ターン
     skill_group_id: 6540057
     level: 1
     spot_type: "-1"
@@ -45068,7 +45159,9 @@
   }
   {
     id: 6540058
+    name: 照明支援
     code: "1"
+    description: 2マス以内のポイントを選んで、照明支援を行う。照明されたポイントでの戦闘時、暗視性能が60%上昇する。CT:1ターン
     skill_group_id: 6540058
     level: 1
     spot_type: "-1"
@@ -45082,7 +45175,9 @@
   }
   {
     id: 6540059
+    name: EMP投擲
     code: "1"
+    description: EMPを投げる。CT:1ターン
     skill_group_id: 6540059
     level: 1
     spot_type: "-1"
@@ -45096,7 +45191,9 @@
   }
   {
     id: 6540060
+    name: ゴリアテ投擲
     code: "1"
+    description: ゴリアテを投げる。CT:1ターン
     skill_group_id: 6540060
     level: 1
     spot_type: "-1"
@@ -45162,7 +45259,9 @@
   }
   {
     id: 6540065
+    name: プラスチック爆弾設置
     code: "1"
+    description: プラスチック爆弾を設置し、次のターンで起爆する。
     skill_group_id: 6540065
     level: 1
     spot_type: "-1"
@@ -45685,6 +45784,7 @@
     id: 6540102
     name: 防御ゲートIが開いた
     code: "1"
+    description: 防御ゲートを開く
     skill_group_id: 6540102
     level: 1
     spot_type: "-1"
@@ -45699,7 +45799,9 @@
   }
   {
     id: 6540103
+    name: 防御ゲートII初期化
     code: "1"
+    description: 防御ゲートを開く
     skill_group_id: 6540103
     level: 1
     spot_type: "-1"
@@ -45714,7 +45816,9 @@
   }
   {
     id: 6540104
+    name: 防御ゲートIII初期化
     code: "1"
+    description: 防御ゲートを開く
     skill_group_id: 6540104
     level: 1
     spot_type: "-1"
@@ -45767,6 +45871,7 @@
     id: 6540108
     name: ゴリアテを拾う
     code: "1"
+    description: ゴリアテを拾う
     skill_group_id: 6540108
     level: 1
     spot_type: "-1"
@@ -45783,6 +45888,7 @@
     id: 6540109
     name: ゴリアテを投擲する
     code: "1"
+    description: ゴリアテを投げる
     skill_group_id: 6540109
     level: 1
     spot_type: "-1"
@@ -45827,7 +45933,6 @@
     name: mission_skill_config-16540112
     code: "1"
     description: mission_skill_config-26540112
-    lvup_description: mission_skill_config-36540112
     skill_group_id: 6540112
     level: 1
     spot_type: "-1"
@@ -45839,10 +45944,9 @@
   }
   {
     id: 6540113
-    name: mission_skill_config-16540113
+    name: 解析
     code: "1"
-    description: mission_skill_config-26540113
-    lvup_description: mission_skill_config-36540113
+    description: パスコードパネルを操作する
     skill_group_id: 6540113
     level: 1
     spot_type: "-1"
@@ -45858,10 +45962,9 @@
   }
   {
     id: 6540114
-    name: mission_skill_config-16540114
+    name: 解析
     code: "1"
-    description: mission_skill_config-26540114
-    lvup_description: mission_skill_config-36540114
+    description: パスコードパネルを操作する
     skill_group_id: 6540114
     level: 1
     spot_type: "-1"
@@ -45877,10 +45980,9 @@
   }
   {
     id: 6540115
-    name: mission_skill_config-16540115
+    name: 解析
     code: "1"
-    description: mission_skill_config-26540115
-    lvup_description: mission_skill_config-36540115
+    description: パスコードパネルを操作する
     skill_group_id: 6540115
     level: 1
     spot_type: "-1"
@@ -45896,10 +45998,7 @@
   }
   {
     id: 6540116
-    name: mission_skill_config-16540116
     code: "1"
-    description: mission_skill_config-26540116
-    lvup_description: mission_skill_config-36540116
     skill_group_id: 6540116
     level: 1
     spot_type: "-1"
@@ -45943,6 +46042,7 @@
     id: 6540119
     name: プラスチック爆弾を拾う
     code: "1"
+    description: プラスチック爆弾を拾う
     skill_group_id: 6540119
     level: 1
     spot_type: "-1"
@@ -45957,7 +46057,9 @@
   }
   {
     id: 6540120
+    name: プラスチック爆弾を投げる
     code: "1"
+    description: プラスチック爆弾を1つ投げる
     skill_group_id: 6540120
     level: 1
     spot_type: "-1"
@@ -45986,6 +46088,7 @@
     id: 6540122
     name: ゴリアテを投擲する
     code: "1"
+    description: ゴリアテを1つ投げる
     skill_group_id: 6540122
     level: 1
     spot_type: "-1"
@@ -46012,7 +46115,9 @@
   }
   {
     id: 6540124
+    name: システムにハッキングする
     code: "1"
+    description: 機甲のシステムにハッキングする
     skill_group_id: 6540124
     level: 1
     spot_type: "-1"
@@ -46117,7 +46222,9 @@
   }
   {
     id: 6540132
+    name: 解析
     code: "1"
+    description: 解析をスタート
     skill_group_id: 6540132
     level: 1
     spot_type: "-1"
@@ -46166,7 +46273,9 @@
   }
   {
     id: 6540136
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:4体
     skill_group_id: 6540136
     level: 1
     spot_type: "-1"
@@ -46194,7 +46303,9 @@
   }
   {
     id: 6540138
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:3体
     skill_group_id: 6540138
     level: 1
     spot_type: "-1"
@@ -46222,7 +46333,9 @@
   }
   {
     id: 6540140
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:2体
     skill_group_id: 6540140
     level: 1
     spot_type: "-1"
@@ -46250,7 +46363,9 @@
   }
   {
     id: 6540142
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:1体
     skill_group_id: 6540142
     level: 1
     spot_type: "-1"
@@ -46389,7 +46504,9 @@
   }
   {
     id: 6540153
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:4体
     skill_group_id: 6540153
     level: 1
     spot_type: "-1"
@@ -46405,7 +46522,9 @@
   }
   {
     id: 6540154
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:3体
     skill_group_id: 6540154
     level: 1
     spot_type: "-1"
@@ -46421,7 +46540,9 @@
   }
   {
     id: 6540155
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:2体
     skill_group_id: 6540155
     level: 1
     spot_type: "-1"
@@ -46437,7 +46558,9 @@
   }
   {
     id: 6540156
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:1体
     skill_group_id: 6540156
     level: 1
     spot_type: "-1"
@@ -46519,6 +46642,7 @@
     id: 6540162
     name: ゴリアテを拾う
     code: "1"
+    description: ゴリアテを拾う
     skill_group_id: 6540162
     level: 1
     spot_type: "-1"
@@ -46535,6 +46659,7 @@
     id: 6540163
     name: ゴリアテを投擲する
     code: "1"
+    description: ゴリアテを1つ投げる
     skill_group_id: 6540163
     level: 1
     spot_type: "-1"
@@ -46560,7 +46685,9 @@
   }
   {
     id: 6540165
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:4体
     skill_group_id: 6540165
     level: 1
     spot_type: "-1"
@@ -46576,7 +46703,9 @@
   }
   {
     id: 6540166
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:3体
     skill_group_id: 6540166
     level: 1
     spot_type: "-1"
@@ -46592,7 +46721,9 @@
   }
   {
     id: 6540167
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:2体
     skill_group_id: 6540167
     level: 1
     spot_type: "-1"
@@ -46608,7 +46739,9 @@
   }
   {
     id: 6540168
+    name: ダミーを出す
     code: "1"
+    description: ダミーを1体出す。残り:1体
     skill_group_id: 6540168
     level: 1
     spot_type: "-1"
@@ -46810,6 +46943,7 @@
   {
     id: 6540184
     code: "1"
+    description: 視界拡大を獲得する（獲得できるのは1回のみ、慎重に使用しましょう）
     skill_group_id: 6540184
     level: 1
     spot_type: "-1"
@@ -63029,6 +63163,12 @@
   }
   {
     id: 95401001
+    name: 砲撃発動
+    description:
+      '''
+      3マス以内の敵目標に、残りHP100%分のダメージを与える。
+      （ボスには無効）
+      '''
     skill_group_id: 95401001
     level: 1
     spot_type: "-1"
@@ -63056,6 +63196,7 @@
   {
     id: 95401003
     name: 起爆
+    description: 放棄された建物①を爆破
     skill_group_id: 95401003
     level: 1
     spot_type: "-1"
@@ -63073,6 +63214,7 @@
   {
     id: 95401004
     name: 起爆
+    description: 放棄された建物②を爆破
     skill_group_id: 95401004
     level: 1
     spot_type: "-1"
@@ -63090,6 +63232,7 @@
   {
     id: 95401005
     name: 起爆
+    description: 放棄された建物③を爆破
     skill_group_id: 95401005
     level: 1
     spot_type: "-1"
@@ -63107,6 +63250,7 @@
   {
     id: 95401006
     name: 起爆
+    description: 放棄された建物④を爆破
     skill_group_id: 95401006
     level: 1
     spot_type: "-1"
@@ -63124,6 +63268,7 @@
   {
     id: 95401007
     name: 起爆
+    description: 放棄された建物⑤を爆破
     skill_group_id: 95401007
     level: 1
     spot_type: "-1"
@@ -63151,6 +63296,8 @@
   }
   {
     id: 95401009
+    name: ボスを弱体化
+    description: ボスを少し、少しだけ弱体化できる。
     skill_group_id: 95401009
     level: 1
     spot_type: "-1"

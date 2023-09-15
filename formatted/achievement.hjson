@@ -15331,4 +15331,55 @@
     icon_code: 妖精重型制造
     unlock_function: 1
   }
+  {
+    identity: 1030
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: マギーの鍵
+    content: 縦軸歪曲-交響曲第9番-UX：マギーのセカンダリレベルにて、制御パネルから3回パラデウスの情報を得る。
+    type_sort: 100
+    sort: 300
+    icon_code: 玛姬的钥匙
+    condition: 11138:1113899
+  }
+  {
+    identity: 1031
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: ムーブメントの中の宇宙
+    content: 縦軸歪曲-1812序曲：リュドミラの腕時計を見つける。
+    type_sort: 100
+    sort: 301
+    icon_code: 机芯中的宇宙
+    condition: 11147:1115701,11152:1115701,11157:1115701
+  }
+  {
+    identity: 1032
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 終点から始まる
+    content: 縦軸歪曲のエンディングテーマを最後まで鑑賞する。
+    type_sort: 100
+    sort: 302
+    icon_code: 就是这个人
+    condition: "11209"
+  }
 ]

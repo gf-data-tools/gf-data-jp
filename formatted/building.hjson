@@ -18326,6 +18326,7 @@
     mission_skill: 0;0;0;541203
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
+    name: カウンター
     code: WorkBench
     shifting_spot: "60,0"
     shifting_team: "-30,0"
@@ -18424,7 +18425,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: Rock2;乱石堆;0,0;2000016
+    active_building_info: Rock2;瓦礫の山;0,0;2000016
     confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
@@ -18564,6 +18565,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
+    name: 安全認証
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -18586,6 +18588,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
+    name: 安全認証
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -18608,6 +18611,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
+    name: 安全認証
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -18630,6 +18634,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:0,1:0
+    name: 安全認証
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -18709,6 +18714,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
+    name: ジャマー・減速EX
     code: Build_PortableEMP
     shifting_spot: "65,150"
     shifting_team: "-30,0"
@@ -18772,6 +18778,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18793,6 +18800,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18814,6 +18822,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18835,6 +18844,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18856,6 +18866,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18877,6 +18888,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18898,6 +18910,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18919,6 +18932,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18940,6 +18954,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18961,6 +18976,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -18982,6 +18998,7 @@
     mission_skill: 0;0;0;542902
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
+    name: オート機銃
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -19212,6 +19229,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
+    name: ジャマー
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -19232,6 +19250,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
+    name: 臨時防御ゲート
     code: Door_Left_S
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -19254,6 +19273,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
+    name: ジャマー・減速
     code: Build_PortableEMP
     shifting_spot: "65,150"
     shifting_team: "-30,0"
@@ -19295,6 +19315,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
+    name: ドラム缶
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -28887,6 +28908,7 @@
     mission_skill: 0;0;0;6480079
     battle_skill: 0;0;0;0
     condition: 0:3,1:1;0:3,1:1
+    name: 加速タワー
     code: Speedtower_2
     shifting_spot: "40,50"
     shifting_team: "-30,0"
@@ -28898,6 +28920,7 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 敵の行動力を上げる施設。特殊な暗号化がされており、味方は使用することができない。速やかに破壊することをおすすめする。
     confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
@@ -29508,6 +29531,7 @@
     mission_skill: 0;0;0;6480079
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:1
+    name: 加速タワー
     code: Speedtower_2
     shifting_spot: "40,50"
     shifting_team: "-30,0"
@@ -29519,6 +29543,7 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 敵の行動力を上げる施設。特殊な暗号化がされており、味方は使用することができない。
     confront_des: 本ステージでは当該施設を破壊することはできません
   }
   {
@@ -40821,6 +40846,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地①
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -40849,6 +40875,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地②
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -40877,6 +40904,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地③
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -40905,6 +40933,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地④
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -40933,6 +40962,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地⑤
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -40961,6 +40991,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地⑥
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -40989,6 +41020,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地⑦
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -41017,6 +41049,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地⑧
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -41045,6 +41078,7 @@
     battle_skill: 0;0;405004;0
     condition: 0:0,1:0;0:0,1:1
     is_destroy: "1"
+    name: 砲撃陣地⑨
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"

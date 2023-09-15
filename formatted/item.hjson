@@ -565,6 +565,24 @@
     rank: 1
   }
   {
+    id: 112
+    type: 3
+    arg: "13"
+    code: Medal_2022summer
+    item_name: 赤鉄の嵐
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「縦軸歪曲」にて称えられる功績を残したことを表彰する。「線路前方の障碍はクリアしました。列車は、暁の彼方へ走り出す」
+    rank: 1
+  }
+  {
+    id: 113
+    type: 3
+    arg: "14"
+    code: Medal_2022summer_rank
+    item_name: 縦の主勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「縦軸歪曲」のランキングステージで、輝かしい成績を残したことを表彰する。「ワルシャワからベルリンまで、あなたの名を知らない者はいない！」
+    rank: 1
+  }
+  {
     id: 114
     type: 3
     arg: "15"
@@ -10900,6 +10918,42 @@
     rank: 1
   }
   {
+    id: 2126
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_92typeMod
+    item_name: 92式メンタルアップグレードアイコン
+    introduction: 92式メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2127
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_98KMod
+    item_name: Kar98kメンタルアップグレードアイコン
+    introduction: Kar98kメンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2128
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_MLEMK1Mod
+    item_name: リー・エンフィールドメンタルアップグレードアイコン
+    introduction: リー・エンフィールドメンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2129
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_56-1typeMod
+    item_name: 56-1式メンタルアップグレードアイコン
+    introduction: 56-1式メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
     id: 2130
     type: 5
     arg: "1"
@@ -11014,6 +11068,132 @@
     code: cg_2022cosmos
     item_name: 背景：天淵の上
     introduction: 背景：天淵の上
+    rank: 1
+  }
+  {
+    id: 2143
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_coremask
+    item_name: 真核の仮面アイコン·縦軸歪曲
+    introduction: 真核の仮面アイコン·縦軸歪曲
+    rank: 1
+  }
+  {
+    id: 2144
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_01
+    item_name: アイコン：心から憂う
+    introduction: アイコン：心から憂う
+    rank: 1
+  }
+  {
+    id: 2145
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_02
+    item_name: アイコン：背水の渡世人
+    introduction: アイコン：背水の渡世人
+    rank: 1
+  }
+  {
+    id: 2146
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_03
+    item_name: アイコン：窮地の獣
+    introduction: アイコン：窮地の獣
+    rank: 1
+  }
+  {
+    id: 2147
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_04
+    item_name: アイコン：決別の雛鳥
+    introduction: アイコン：決別の雛鳥
+    rank: 1
+  }
+  {
+    id: 2148
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_05
+    item_name: アイコン：燃えさしを振り返る
+    introduction: アイコン：燃えさしを振り返る
+    rank: 1
+  }
+  {
+    id: 2149
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_06
+    item_name: アイコン：燎原を眺める
+    introduction: アイコン：燎原を眺める
+    rank: 1
+  }
+  {
+    id: 2150
+    type: 5
+    arg: "1"
+    code: profilePic_Summer2022_07
+    item_name: アイコン：黎明の決意
+    introduction: アイコン：黎明の決意
+    rank: 1
+  }
+  {
+    id: 2151
+    type: 5
+    arg: "1"
+    code: card_Summer2022_01
+    item_name: IDカード背景：個室の暗流
+    introduction: IDカード背景：個室の暗流
+    rank: 1
+  }
+  {
+    id: 2152
+    type: 5
+    arg: "1"
+    code: card_Summer2022_02
+    item_name: IDカード背景：険しい道のりの始まり
+    introduction: IDカード背景：険しい道のりの始まり
+    rank: 1
+  }
+  {
+    id: 2153
+    type: 5
+    arg: "1"
+    code: card_Summer2022_03
+    item_name: IDカード背景：長夜の突き破る
+    introduction: IDカード背景：長夜の突き破る
+    rank: 1
+  }
+  {
+    id: 2154
+    type: 5
+    arg: "1"
+    code: card_Summer2022_04
+    item_name: IDカード背景：終わりの記憶
+    introduction: IDカード背景：終わりの記憶
+    rank: 1
+  }
+  {
+    id: 2155
+    type: 5
+    arg: "1"
+    code: card_Summer2022_05
+    item_name: IDカード背景：残存する生への望み
+    introduction: IDカード背景：残存する生への望み
+    rank: 1
+  }
+  {
+    id: 2156
+    type: 5
+    arg: "1"
+    code: cg_Summer2022_01
+    item_name: 背景：「未来号」大陸間列車
+    introduction: 背景：「未来号」大陸間列車
     rank: 1
   }
   {
@@ -12619,6 +12799,46 @@
     rank: 1
   }
   {
+    id: 9015
+    type: 1
+    arg: "9015"
+    code: Christmas_Coin
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9016
+    type: 1
+    arg: "9016"
+    code: Christmas_Coin
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9017
+    type: 1
+    arg: "9017"
+    code: Christmas_Coin
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9018
+    type: 1
+    arg: "9018"
+    code: Christmas_Coin
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9019
+    type: 1
+    arg: "9019"
+    code: Christmas_Coin
+    rank: 1
+    is_hide_info: 1
+  }
+  {
     id: 9020
     type: 1
     arg: "9020"
@@ -13912,6 +14132,52 @@
     rank: 1
     sort: -52
     item_access: "2"
+  }
+  {
+    id: 100152
+    type: 9
+    arg: "100152"
+    code: Bumdle_2022LongitudinalStrain
+    item_name: 物資箱・縦軸歪曲
+    introduction: 物資箱・縦軸歪曲
+    rank: 1
+    daily_limit: "75"
+  }
+  {
+    id: 100153
+    type: 4
+    arg: "100153"
+    code: Nova_medal_black
+    item_name: 新星勲章・縦軸歪曲
+    introduction: 新星勲章・縦軸歪曲
+    rank: 1
+  }
+  {
+    id: 100154
+    type: 4
+    arg: "100154"
+    code: Platinum_medal_black
+    item_name: 白金勲章・縦軸歪曲
+    introduction: 白金勲章・縦軸歪曲
+    rank: 1
+  }
+  {
+    id: 100155
+    type: 4
+    arg: "100155"
+    code: core_mask_2022LongitudinalStrain
+    item_name: 真核の仮面・縦軸歪曲
+    introduction: 真核の仮面・縦軸歪曲
+    rank: 1
+  }
+  {
+    id: 100156
+    type: 4
+    arg: "100156"
+    code: core_mask2_2022LongitudinalStrain
+    item_name: 蝕心の仮面・縦軸歪曲
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
   }
   {
     id: 100160

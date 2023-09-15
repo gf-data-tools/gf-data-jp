@@ -599,8 +599,8 @@
   }
   {
     id: 20401
-    name: mission_buff_config-10020401
-    description: mission_buff_config-20020401
+    name: 再动C
+    description: 连续行动
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -611,8 +611,8 @@
   }
   {
     id: 20402
-    name: mission_buff_config-10020402
-    description: mission_buff_config-20020402
+    name: 再动B
+    description: 连续行动+
     code: ExtraMove2
     type: 1
     duration_type: "1"
@@ -623,8 +623,8 @@
   }
   {
     id: 20403
-    name: mission_buff_config-10020403
-    description: mission_buff_config-20020403
+    name: 再动A
+    description: 连续行动++
     code: ExtraMove3
     type: 1
     duration_type: "1"
@@ -1933,8 +1933,7 @@
   }
   {
     id: 541201
-    name: mission_buff_config-10541201
-    description: mission_buff_config-20541201
+    name: 扒衣服
     code: Chloe
     type: 1
     duration_type: "1"
@@ -1947,8 +1946,8 @@
   }
   {
     id: 541212
-    name: mission_buff_config-10541212
-    description: mission_buff_config-20541212
+    name: 偽装
+    description: 偽装成功
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -1961,8 +1960,7 @@
   }
   {
     id: 541301
-    name: mission_buff_config-10541301
-    description: mission_buff_config-20541301
+    name: AR18
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -1974,8 +1972,7 @@
   }
   {
     id: 541311
-    name: mission_buff_config-10541311
-    description: mission_buff_config-20541311
+    name: 空襲誘導
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -1988,8 +1985,8 @@
   }
   {
     id: 541314
-    name: mission_buff_config-10541314
-    description: mission_buff_config-20541314
+    name: ゴリアテ携帯中
+    description: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2001,8 +1998,7 @@
   }
   {
     id: 541401
-    name: mission_buff_config-10541401
-    description: mission_buff_config-20541401
+    name: ウォーク
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2012,8 +2008,7 @@
   }
   {
     id: 542401
-    name: mission_buff_config-10542401
-    description: mission_buff_config-20542401
+    name: 沃克
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2023,8 +2018,8 @@
   }
   {
     id: 543114
-    name: mission_buff_config-10543114
-    description: mission_buff_config-20543114
+    name: メンタル干渉爆弾
+    description: メンタル干渉爆弾
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2036,8 +2031,7 @@
   }
   {
     id: 544101
-    name: mission_buff_config-10544101
-    description: mission_buff_config-20544101
+    name: ウォーク
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2047,8 +2041,7 @@
   }
   {
     id: 544112
-    name: mission_buff_config-10544112
-    description: mission_buff_config-20544112
+    name: 削弱BOSS
     code: shield
     type: 2
     duration_type: "1"
@@ -2059,8 +2052,8 @@
   }
   {
     id: 544114
-    name: mission_buff_config-10544114
-    description: mission_buff_config-20544114
+    name: メンタル干渉爆弾
+    description: メンタル干渉爆弾
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2072,8 +2065,7 @@
   }
   {
     id: 544124
-    name: mission_buff_config-10544124
-    description: mission_buff_config-20544124
+    name: 减速
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -2085,8 +2077,7 @@
   }
   {
     id: 544201
-    name: mission_buff_config-10544201
-    description: mission_buff_config-20544201
+    name: 手表标记
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2098,8 +2089,7 @@
   }
   {
     id: 544211
-    name: mission_buff_config-10544211
-    description: mission_buff_config-20544211
+    name: 拾取标记
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -2109,8 +2099,7 @@
   }
   {
     id: 544212
-    name: mission_buff_config-10544212
-    description: mission_buff_config-20544212
+    name: ガソリン携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4778,8 +4767,8 @@
   }
   {
     id: 6540000
-    name: mission_buff_config-16540000
-    description: mission_buff_config-26540000
+    name: 【标记】格里芬经验0
+    description: 少尉に昇級するまで必要の撃破数：3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4794,8 +4783,8 @@
   }
   {
     id: 6540001
-    name: mission_buff_config-16540001
-    description: mission_buff_config-26540001
+    name: 【标记】格里芬经验1
+    description: 少尉に昇級するまで必要の撃破数：2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4811,8 +4800,8 @@
   }
   {
     id: 6540002
-    name: mission_buff_config-16540002
-    description: mission_buff_config-26540002
+    name: 【标记】格里芬经验2
+    description: 少尉に昇級するまで必要の撃破数：1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4828,8 +4817,8 @@
   }
   {
     id: 6540003
-    name: mission_buff_config-16540003
-    description: mission_buff_config-26540003
+    name: 【标记】格里芬经验3
+    description: 中尉に昇級するまで必要の撃破数：3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4845,8 +4834,8 @@
   }
   {
     id: 6540004
-    name: mission_buff_config-16540004
-    description: mission_buff_config-26540004
+    name: 【标记】格里芬经验4
+    description: 中尉に昇級するまで必要の撃破数：2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4862,8 +4851,8 @@
   }
   {
     id: 6540005
-    name: mission_buff_config-16540005
-    description: mission_buff_config-26540005
+    name: 【标记】格里芬经验5
+    description: 中尉に昇級するまで必要の撃破数：1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4879,8 +4868,8 @@
   }
   {
     id: 6540006
-    name: mission_buff_config-16540006
-    description: mission_buff_config-26540006
+    name: 【标记】格里芬经验6
+    description: 大尉昇級するまで必要の撃破数：4
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4896,8 +4885,8 @@
   }
   {
     id: 6540007
-    name: mission_buff_config-16540007
-    description: mission_buff_config-26540007
+    name: 【标记】格里芬经验7
+    description: 大尉昇級するまで必要の撃破数：3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4913,8 +4902,8 @@
   }
   {
     id: 6540008
-    name: mission_buff_config-16540008
-    description: mission_buff_config-26540008
+    name: 【标记】格里芬经验8
+    description: 大尉昇級するまで必要の撃破数：2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4930,8 +4919,8 @@
   }
   {
     id: 6540009
-    name: mission_buff_config-16540009
-    description: mission_buff_config-26540009
+    name: 【标记】格里芬经验9
+    description: 大尉昇級するまで必要の撃破数：1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4947,8 +4936,8 @@
   }
   {
     id: 6540010
-    name: mission_buff_config-16540010
-    description: mission_buff_config-26540010
+    name: 【标记】格里芬经验10
+    description: 大尉に昇級しました
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4961,8 +4950,8 @@
   }
   {
     id: 6540100
-    name: mission_buff_config-16540100
-    description: mission_buff_config-26540100
+    name: 【标记】融合势力经验0
+    description: 伍長に昇級するまで必要の撃破数：3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4977,8 +4966,8 @@
   }
   {
     id: 6540101
-    name: mission_buff_config-16540101
-    description: mission_buff_config-26540101
+    name: 【标记】融合势力经验1
+    description: 伍長に昇級するまで必要の撃破数：2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -4994,8 +4983,8 @@
   }
   {
     id: 6540102
-    name: mission_buff_config-16540102
-    description: mission_buff_config-26540102
+    name: 【标记】融合势力经验2
+    description: 伍長に昇級するまで必要の撃破数：1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5011,8 +5000,8 @@
   }
   {
     id: 6540103
-    name: mission_buff_config-16540103
-    description: mission_buff_config-26540103
+    name: 【标记】融合势力经验3
+    description: 軍曹に昇級するまで必要の撃破数：3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5028,8 +5017,8 @@
   }
   {
     id: 6540104
-    name: mission_buff_config-16540104
-    description: mission_buff_config-26540104
+    name: 【标记】融合势力经验4
+    description: 軍曹に昇級するまで必要の撃破数：2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5045,8 +5034,8 @@
   }
   {
     id: 6540105
-    name: mission_buff_config-16540105
-    description: mission_buff_config-26540105
+    name: 【标记】融合势力经验5
+    description: 軍曹に昇級するまで必要の撃破数：1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5062,8 +5051,8 @@
   }
   {
     id: 6540106
-    name: mission_buff_config-16540106
-    description: mission_buff_config-26540106
+    name: 【标记】融合势力经验6
+    description: 曹長に昇級するまで必要の撃破数：4
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5079,8 +5068,8 @@
   }
   {
     id: 6540107
-    name: mission_buff_config-16540107
-    description: mission_buff_config-26540107
+    name: 【标记】融合势力经验7
+    description: 曹長に昇級するまで必要の撃破数：3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5096,8 +5085,8 @@
   }
   {
     id: 6540108
-    name: mission_buff_config-16540108
-    description: mission_buff_config-26540108
+    name: 【标记】融合势力经验8
+    description: 曹長に昇級するまで必要の撃破数：2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5113,8 +5102,8 @@
   }
   {
     id: 6540109
-    name: mission_buff_config-16540109
-    description: mission_buff_config-26540109
+    name: 【标记】融合势力经验9
+    description: 曹長に昇級するまで必要の撃破数：1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5130,8 +5119,8 @@
   }
   {
     id: 6540110
-    name: mission_buff_config-16540110
-    description: mission_buff_config-26540110
+    name: 【标记】融合势力经验10
+    description: 曹長に昇級しました
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5144,8 +5133,8 @@
   }
   {
     id: 6540200
-    name: mission_buff_config-16540200
-    description: mission_buff_config-26540200
+    name: 【标记】任务可接
+    description: 可以接受任务buff
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5155,8 +5144,7 @@
   }
   {
     id: 6540201
-    name: mission_buff_config-16540201
-    description: mission_buff_config-26540201
+    name: 【标记】任务1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5165,8 +5153,7 @@
   }
   {
     id: 6540202
-    name: mission_buff_config-16540202
-    description: mission_buff_config-26540202
+    name: 【标记】任务2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5176,8 +5163,7 @@
   }
   {
     id: 6540203
-    name: mission_buff_config-16540203
-    description: mission_buff_config-26540203
+    name: 【标记】任务3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5186,8 +5172,7 @@
   }
   {
     id: 6540204
-    name: mission_buff_config-16540204
-    description: mission_buff_config-26540204
+    name: 【标记】任务4
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5196,8 +5181,8 @@
   }
   {
     id: 6540205
-    name: mission_buff_config-16540205
-    description: mission_buff_config-26540205
+    name: 【标记】任务3护送资料
+    description: 作戦プラン携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5208,8 +5193,8 @@
   }
   {
     id: 6540206
-    name: mission_buff_config-16540206
-    description: mission_buff_config-26540206
+    name: 【标记】任务唯一
+    description: 可以接受任务buff
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5218,8 +5203,7 @@
   }
   {
     id: 6540207
-    name: mission_buff_config-16540207
-    description: mission_buff_config-26540207
+    name: 【标记】任务3目标
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5228,8 +5212,7 @@
   }
   {
     id: 6540208
-    name: mission_buff_config-16540208
-    description: mission_buff_config-26540208
+    name: 【标记】技能1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5238,8 +5221,7 @@
   }
   {
     id: 6540209
-    name: mission_buff_config-16540209
-    description: mission_buff_config-26540209
+    name: 【标记】技能2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5248,8 +5230,7 @@
   }
   {
     id: 6540210
-    name: mission_buff_config-16540210
-    description: mission_buff_config-26540210
+    name: 【标记】技能3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5258,8 +5239,7 @@
   }
   {
     id: 6540211
-    name: mission_buff_config-16540211
-    description: mission_buff_config-26540211
+    name: 【标记】技能4
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5268,8 +5248,7 @@
   }
   {
     id: 6540212
-    name: mission_buff_config-16540212
-    description: mission_buff_config-26540212
+    name: 【标记】技能唯一
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5278,8 +5257,7 @@
   }
   {
     id: 6540213
-    name: mission_buff_config-16540213
-    description: mission_buff_config-26540213
+    name: 格里芬技能1 轰炸
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5289,8 +5267,7 @@
   }
   {
     id: 6540214
-    name: mission_buff_config-16540214
-    description: mission_buff_config-26540214
+    name: 格里芬技能2 照明
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5300,8 +5277,7 @@
   }
   {
     id: 6540215
-    name: mission_buff_config-16540215
-    description: mission_buff_config-26540215
+    name: 格里芬技能3 榴弹炮支援
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5311,8 +5287,8 @@
   }
   {
     id: 6540216
-    name: mission_buff_config-16540216
-    description: mission_buff_config-26540216
+    name: 格里芬技能4 emp
+    description: EMP携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5323,8 +5299,8 @@
   }
   {
     id: 6540217
-    name: mission_buff_config-16540217
-    description: mission_buff_config-26540217
+    name: 融合势力技能1  孙红雷
+    description: 投擲型ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5335,8 +5311,7 @@
   }
   {
     id: 6540218
-    name: mission_buff_config-16540218
-    description: mission_buff_config-26540218
+    name: 融合势力技能2  视野+1
     code: powBuff
     type: 1
     duration_type: "1"
@@ -5347,8 +5322,7 @@
   }
   {
     id: 6540220
-    name: mission_buff_config-16540220
-    description: mission_buff_config-26540220
+    name: 融合势力技能4  属性20
     code: powBuff
     type: 1
     duration_type: "1"
@@ -5359,8 +5333,7 @@
   }
   {
     id: 6540221
-    name: mission_buff_config-16540221
-    description: mission_buff_config-26540221
+    name: 【标记】格里芬技能1CD
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -5372,8 +5345,7 @@
   }
   {
     id: 6540222
-    name: mission_buff_config-16540222
-    description: mission_buff_config-26540222
+    name: 【标记】格里芬技能2CD
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -5385,8 +5357,7 @@
   }
   {
     id: 6540223
-    name: mission_buff_config-16540223
-    description: mission_buff_config-26540223
+    name: 【标记】格里芬技能4CD
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -5398,8 +5369,7 @@
   }
   {
     id: 6540224
-    name: mission_buff_config-16540224
-    description: mission_buff_config-26540224
+    name: 【标记】融合势力技能1CD
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -5411,8 +5381,8 @@
   }
   {
     id: 6540225
-    name: mission_buff_config-16540225
-    description: mission_buff_config-26540225
+    name: npc统一爆破三回合内
+    description: プラスチック爆弾携帯中
     type: 1
     duration_type: "1"
     duration_time: "3"
@@ -5423,8 +5393,7 @@
   }
   {
     id: 6540226
-    name: mission_buff_config-16540226
-    description: mission_buff_config-26540226
+    name: 【标记】额外移动_1回，移动1次消失
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -5435,8 +5404,8 @@
   }
   {
     id: 6540227
-    name: mission_buff_config-16540227
-    description: mission_buff_config-26540227
+    name: ゴリアテ携帯中
+    description: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5447,8 +5416,8 @@
   }
   {
     id: 6540228
-    name: mission_buff_config-16540228
-    description: mission_buff_config-26540228
+    name: プラスチック爆弾携帯中
+    description: プラスチック爆弾携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5459,8 +5428,8 @@
   }
   {
     id: 6540229
-    name: mission_buff_config-16540229
-    description: mission_buff_config-26540229
+    name: ゴリアテ携帯中
+    description: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5471,8 +5440,7 @@
   }
   {
     id: 6540230
-    name: mission_buff_config-16540230
-    description: mission_buff_config-26540230
+    name: 【标记】沃克携带技能
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5483,8 +5451,7 @@
   }
   {
     id: 6540231
-    name: mission_buff_config-16540231
-    description: mission_buff_config-26540231
+    name: 【标记】高达初召唤怪简单
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5497,8 +5464,7 @@
   }
   {
     id: 6540232
-    name: mission_buff_config-16540232
-    description: mission_buff_config-26540232
+    name: 【标记】高达初召唤怪困难
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5511,8 +5477,7 @@
   }
   {
     id: 6540233
-    name: mission_buff_config-16540233
-    description: mission_buff_config-26540233
+    name: 【标记】高达初召唤怪噩梦
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5525,8 +5490,7 @@
   }
   {
     id: 6540234
-    name: mission_buff_config-16540234
-    description: mission_buff_config-26540234
+    name: 【标记】ERMA丢傀儡1
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5536,8 +5500,7 @@
   }
   {
     id: 6540235
-    name: mission_buff_config-16540235
-    description: mission_buff_config-26540235
+    name: 【标记】ERMA丢傀儡2
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5547,8 +5510,7 @@
   }
   {
     id: 6540236
-    name: mission_buff_config-16540236
-    description: mission_buff_config-26540236
+    name: 【标记】ERMA丢傀儡3
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5558,8 +5520,7 @@
   }
   {
     id: 6540237
-    name: mission_buff_config-16540237
-    description: mission_buff_config-26540237
+    name: 【标记】ERMA丢傀儡4
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5569,8 +5530,7 @@
   }
   {
     id: 6540238
-    name: mission_buff_config-16540238
-    description: mission_buff_config-26540238
+    name: 【标记】额外移动_1回，移动99次消失
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -5581,8 +5541,8 @@
   }
   {
     id: 6540239
-    name: mission_buff_config-16540239
-    description: mission_buff_config-26540239
+    name: ゴリアテ携帯中
+    description: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5593,8 +5553,7 @@
   }
   {
     id: 6540240
-    name: mission_buff_config-16540240
-    description: mission_buff_config-26540240
+    name: 【标记】高达持续1
     code: buff
     type: 1
     duration_type: "1"
@@ -5609,8 +5568,7 @@
   }
   {
     id: 6540241
-    name: mission_buff_config-16540241
-    description: mission_buff_config-26540241
+    name: 【标记】高达持续2
     code: buff
     type: 1
     duration_type: "1"
@@ -5625,8 +5583,7 @@
   }
   {
     id: 6540242
-    name: mission_buff_config-16540242
-    description: mission_buff_config-26540242
+    name: 【标记】高达持续3
     code: buff
     type: 1
     duration_type: "1"
@@ -5641,8 +5598,7 @@
   }
   {
     id: 6540243
-    name: mission_buff_config-16540243
-    description: mission_buff_config-26540243
+    name: 【标记】高达持续4
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5655,8 +5611,7 @@
   }
   {
     id: 6540244
-    name: mission_buff_config-16540244
-    description: mission_buff_config-26540244
+    name: 【标记】高达持续5
     code: debuff
     type: 1
     duration_type: "1"
@@ -5671,8 +5626,7 @@
   }
   {
     id: 6540245
-    name: mission_buff_config-16540245
-    description: mission_buff_config-26540245
+    name: 【标记】高达持续6
     code: debuff
     type: 1
     duration_type: "1"
@@ -5684,8 +5638,7 @@
   }
   {
     id: 6540246
-    name: mission_buff_config-16540246
-    description: mission_buff_config-26540246
+    name: 【标记】秃洞照明抵抗夜战60%
     type: 1
     duration_type: "4"
     duration_time: "1"
@@ -5696,8 +5649,7 @@
   }
   {
     id: 6540247
-    name: mission_buff_config-16540247
-    description: mission_buff_config-26540247
+    name: 【标记】npc统一夜视
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5707,8 +5659,7 @@
   }
   {
     id: 6540248
-    name: mission_buff_config-16540248
-    description: mission_buff_config-26540248
+    name: 【标记】定身
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5718,8 +5669,7 @@
   }
   {
     id: 6540249
-    name: mission_buff_config-16540249
-    description: mission_buff_config-26540249
+    name: 融合势力技能2  视野+1
     code: powBuff
     type: 1
     duration_type: "1"

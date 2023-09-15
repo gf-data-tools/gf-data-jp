@@ -78655,6 +78655,7 @@
     effect_param_1: "17,18,19,7,8,9,12,14"
     hurt_id: "614"
     buff_id: 4737:1,3159:1
+    buff_cd: "0,0"
     scale: "8,0.1,12"
     is_die_delete: 1
   }
@@ -78671,7 +78672,7 @@
     effect_param_1: "17,18,19,7,8,9,12,14"
     hurt_id: "617"
     buff_id: 4737:1,4738:1,3159:1
-    buff_cd: "0,0"
+    buff_cd: "0,0,0"
     scale: "8,0.1,12"
     is_die_delete: 1
   }
@@ -78688,7 +78689,7 @@
     effect_param_1: "17,18,19,7,8,9,12,14"
     hurt_id: "615"
     buff_id: 4737:1,4738:1,3159:1
-    buff_cd: "0,0"
+    buff_cd: "0,0,0"
     scale: "8,0.1,12"
     is_die_delete: 1
   }
@@ -78774,7 +78775,7 @@
     effect_param_1: "17,18,19,7,8,9,12,14"
     hurt_id: "614"
     buff_id: 4737:1,4742:1,4743:1,3159:1
-    buff_cd: "0,0,0"
+    buff_cd: "0,0,0,0"
     scale: "8,0.1,12"
     is_die_delete: 1
   }
@@ -78792,7 +78793,7 @@
     effect_param_1: "1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25"
     hurt_id: "615"
     buff_id: 4737:1,4742:1,4743:1,4738:1,3159:1
-    buff_cd: "0,0,0,0"
+    buff_cd: "0,0,0,0,0"
     scale: "12,0.1,21"
     is_die_delete: 1
   }
@@ -101234,6 +101235,21 @@
     effect_area: 1
     scale: "1"
     is_die_delete: 1
+  }
+  {
+    id: 874001
+    name: 水白在场
+    start_type: "8"
+    start_offset: "-20"
+    destination_type: "8"
+    destination_offset: "-20"
+    exist_duration: "10"
+    effect_type: 1
+    effect_area: 1
+    effect_param_1: "300"
+    buff_id: "8338"
+    creation_type: 2
+    scale: "1"
   }
   {
     id: 900002

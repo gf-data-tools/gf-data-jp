@@ -10026,176 +10026,915 @@
     id: 989
     mission_id: "11098"
     campaign: -52
+    title: 序章・ライカン狩り
     start: -52-0-1
   }
   {
     id: 990
     mission_id: "11112"
     campaign: -52
+    title: 混沌のインターバル
     start: -52-8-1
   }
   {
     id: 991
     mission_id: "11115"
     campaign: -52
+    title: 巡回する狩人
     start: -52-1-1
   }
   {
     id: 992
     mission_id: "11101,11102"
     campaign: -52
+    title: 射的の罠
     start: -52-2-1
   }
   {
     id: 993
     mission_id: "11107"
     campaign: -52
+    title: 薄暮の迷宮
     start: -52-3-1
   }
   {
     id: 994
     mission_id: "11103,11104"
     campaign: -52
+    title: 魔女のキャンプ
     start: -52-4-1
   }
   {
     id: 995
     mission_id: "11105,11106"
     campaign: -52
+    title: 心魔の沼
     start: -52-5-1
   }
   {
     id: 996
     mission_id: "11099,11100"
     campaign: -52
+    title: 反撃の狼煙
     start: -52-6-1
+  }
+  {
+    id: 997
+    mission_id: "11166"
+    description: 「それは奇跡だ。見届けてくれたまえ、この生きた奇跡を！」
+    scripts: -54-O-1
+    campaign: -54
+    title: 1 列車時刻表
+    start: -54-O-1
+  }
+  {
+    id: 998
+    mission_id: "11164"
+    scripts: -54-0-1
+    campaign: -54
+    title: 超絶技巧練習曲
+    start: -54-0-1
+  }
+  {
+    id: 999
+    mission_id: "11165"
+    scripts: -54-0-2
+    campaign: -54
+    title: 絵画的練習曲
+    start: -54-0-2
+  }
+  {
+    id: 1000
+    mission_id: "11167"
+    description: 「教官ならきっとなんとかしてくれる――どんな方法を使っても」
+    scripts: -54-A-1
+    campaign: -54
+    title: 3-α1 ワルツイ短調
+    start: -54-A-1
+  }
+  {
+    id: 1001
+    mission_id: "11168"
+    description: 「……そうでもしなければ、『万全』とは言えない。」
+    scripts: -54-A-3
+    campaign: -54
+    title: 3-α3 雨
+    start: -54-A-3
+  }
+  {
+    id: 1002
+    mission_id: "11169"
+    description: 「さすが『Я』教官、ここまでは完璧だ。」
+    scripts: -54-A-4
+    campaign: -54
+    title: 3-α4 小前奏曲ト短調
+    start: -54-A-4
+  }
+  {
+    id: 1003
+    mission_id: "11170"
+    description: 「あれは、『Я』小隊による特別作戦だった」
+    scripts: -54-A-5
+    campaign: -54
+    title: 5-α5 月光ソナタ
+    start: -54-A-5
+  }
+  {
+    id: 1004
+    mission_id: "11120,11123,11126"
+    description: 「今のあなたは指揮官として失格している」
+    scripts: -54-A-6Point1
+    campaign: -54
+    title: 5-α6 シャコンヌ
+    start: -54-A-6Point1
+  }
+  {
+    id: 1005
+    mission_id: "11171"
+    description: 「本物の『指揮官』は、戦場によって磨かれるもの」
+    scripts: -54-A-7
+    campaign: -54
+    title: 5-α7 冬
+    start: -54-A-7
+  }
+  {
+    id: 1006
+    mission_id: "11121,11124,11127"
+    description: 「そいつの言うことを聞くべきだったかもな」
+    campaign: -54
+    title: 5-α8 ストラディバリの魔法
+    round: 1:-54-EXT-A3-3
+  }
+  {
+    id: 1007
+    mission_id: "11172"
+    description: 「今が第二プランのベストタイミングだ」
+    scripts: -54-A-9
+    campaign: -54
+    title: 16 コンチェルト・グロッソイ長調
+    start: -54-A-9
+  }
+  {
+    id: 1008
+    mission_id: "11173"
+    description: 「……偽装はここまでだ」
+    scripts: -54-A-10
+    campaign: -54
+    title: 17 ブラームス：間奏曲
+    start: -54-A-10
+  }
+  {
+    id: 1009
+    mission_id: "11174"
+    description: 「この世では、選ぶことすらできないやつの方がほとんどだ」
+    scripts: -54-A-11
+    campaign: -54
+    title: 18 白鳥
+    start: -54-A-11
+  }
+  {
+    id: 1010
+    mission_id: "11175"
+    description: 「その目は、まるで狩りをする前の鷹のようだった。これから狙う獲物を見定めて」
+    scripts: -54-A-12
+    campaign: -54
+    title: 25 ルスランとリュドミラ
+    start: -54-A-12
+  }
+  {
+    id: 1011
+    mission_id: "11122,11125,11128"
+    description: 「彼女は、夜空を照らす星となった」
+    campaign: -54
+    title: 26 ツァラトゥストラはこう語った
+    round: 1:-54-EXT-A4
+  }
+  {
+    id: 1012
+    mission_id: "11176"
+    description: 「この時、この地で、ようやくすべてが静かになった」
+    scripts: -54-A-14
+    campaign: -54
+    title: 27 ライド・オブ・ザ・ヴァルキリー
+    start: -54-A-14
+  }
+  {
+    id: 1013
+    mission_id: "11177"
+    description: 「マギーさん、俺らはマザー・リューバからの遣いだ。」
+    scripts: -54-B-1
+    campaign: -54
+    title: 3-β1 ジンで一杯
+    start: -54-B-1
+  }
+  {
+    id: 1014
+    mission_id: "11129"
+    description: 「マフィアを騙した場合、結果は一つしかない」
+    campaign: -54
+    title: 3-β2 交響曲第2番ハ長調
+    round: 1:-54-EXT-B1
+  }
+  {
+    id: 1015
+    mission_id: "11178"
+    description: 「人形に足を洗うも何もないだろ。未来永劫こんな風に生きるしかない。」
+    scripts: -54-B-3
+    campaign: -54
+    title: 3-β3 交響曲第3番
+    start: -54-B-3
+  }
+  {
+    id: 1016
+    mission_id: "11179"
+    description: 「地面の冷たい感触を感じながら、二人は寄り添う。」
+    scripts: -54-B-4
+    campaign: -54
+    title: 5-β4 序奏とロンド・カプリチオーソ
+    start: -54-B-4
+  }
+  {
+    id: 1017
+    mission_id: "11180"
+    description: 「ウォッカ・マティーニ、シェイクではなくステアで」
+    scripts: -54-B-5
+    campaign: -54
+    title: 5-β5 死の舞踏
+    start: -54-B-5
+  }
+  {
+    id: 1018
+    mission_id: "11181"
+    description: 「お前の戦闘力は5で、あいつは530000だ」
+    scripts: -54-B-7
+    campaign: -54
+    title: 5-β7 カヴァレリア・ルスティカーナ間奏曲
+    start: -54-B-7
+  }
+  {
+    id: 1019
+    mission_id: "11182"
+    description: 「それが人間ってもんだ」
+    scripts: -54-B-9
+    campaign: -54
+    title: 12 グノシエンヌ第1番
+    start: -54-B-9
+  }
+  {
+    id: 1020
+    mission_id: "11183"
+    description: 「お互い悪人で何よりだ」
+    scripts: -54-B-11
+    campaign: -54
+    title: 14 バラード第1番ト短調
+    start: -54-B-11
+  }
+  {
+    id: 1021
+    mission_id: "11184"
+    description: 「弱いやつを最後まで一人で戦わせるわけがない」
+    scripts: -54-B-12
+    campaign: -54
+    title: 21 ラ・カンパネラ
+    start: -54-B-12
+  }
+  {
+    id: 1022
+    mission_id: "11185"
+    description: 「キャサリンは猫に姿を変え、街に逃げ込んだ」
+    scripts: -54-B-14
+    campaign: -54
+    title: 23 コン・エスプレッシオーネ
+    start: -54-B-14
+  }
+  {
+    id: 1023
+    mission_id: "11186"
+    description: 「『夏の庭園』のロックが解除されました」
+    scripts: -54-C-1
+    campaign: -54
+    title: 3-γ1 タイスの瞑想曲
+    start: -54-C-1
+  }
+  {
+    id: 1024
+    mission_id: "11187"
+    description: 「目の前にある庭園は、エルマの記憶にある風景とは全く違う。言い換えれば、それはもう自分に帰る場所がないということを意味している」
+    scripts: -54-C-3
+    campaign: -54
+    title: 3-γ3 ウラディミールのブルース
+    start: -54-C-3
+  }
+  {
+    id: 1025
+    mission_id: "11188"
+    description: 「コルト・エクスプレスのチケットを売っているのは、ウチだけだ」
+    scripts: -54-C-4
+    campaign: -54
+    title: 3-γ4 平均律クラヴィーア曲集
+    start: -54-C-4
+  }
+  {
+    id: 1026
+    mission_id: "11189"
+    description: 「完全な自分として生きるためには、記憶の問題は絶対解決しなければならない！」
+    scripts: -54-C-5
+    campaign: -54
+    title: 5-γ5 カナリア
+    start: -54-C-5
+  }
+  {
+    id: 1027
+    mission_id: "11190"
+    description: 「あたしと同じ、『お母さま』の子」
+    scripts: -54-C-7
+    campaign: -54
+    title: 5-γ7 合唱幻想曲
+    start: -54-C-7
+  }
+  {
+    id: 1028
+    mission_id: "11144,11149,11154"
+    description: 「あたしは1番目で、あなたは……63番目」
+    scripts: -54-C-8Point1
+    campaign: -54
+    title: 5-γ8 帰れソレントへ
+    start: -54-C-8Point1
+  }
+  {
+    id: 1029
+    mission_id: "11191"
+    description: 「教官さん、ここで一つ取引をしないか？」
+    scripts: -54-C-9
+    campaign: -54
+    title: 8 パガニーニの主題による狂詩曲
+    start: -54-C-9
+  }
+  {
+    id: 1030
+    mission_id: "11145,11150,11155"
+    description: 「プロの顔ってやつだよ」
+    scripts: -54-C-10Point1
+    campaign: -54
+    title: 9 幽霊
+    start: -54-C-10Point1
+  }
+  {
+    id: 1031
+    mission_id: "11192"
+    description: 「……夕暮れの星＜ヴェチェールニャヤ＞が落ちた」
+    scripts: -54-C-11
+    campaign: -54
+    title: 10 調和の霊感
+    start: -54-C-11
+  }
+  {
+    id: 1032
+    mission_id: "11193"
+    description: 「いくらあんたらに改造されても、あたしはやっぱ自分のことが好きなんだ」
+    scripts: -54-C-12
+    campaign: -54
+    title: 29 夏の協奏曲
+    start: -54-C-12
+  }
+  {
+    id: 1033
+    mission_id: "11146,11151,11156"
+    description: 「安心しろ、お前の分も、ちゃんと取り戻すから」
+    campaign: -54
+    title: 30 交響曲第6番
+    round: 1:-54-EXT-C5
+  }
+  {
+    id: 1034
+    mission_id: "11194"
+    description: 「崩れ行くコルト・エクスプレスの中、エルマはマギーを抱きしめた」
+    scripts: -54-C-14
+    campaign: -54
+    title: 31 ツィゴイネルワイゼン
+    start: -54-C-14
+  }
+  {
+    id: 1035
+    mission_id: "11147,11152,11157"
+    description: 「星が昇った」
+    scripts: -54-C-15Point1
+    campaign: -54
+    title: 32 1812序曲
+    round: 3:-54-C-15Point1
+  }
+  {
+    id: 1036
+    mission_id: "11195"
+    description: 「これで君は自由だ、エルマ」
+    scripts: -54-C-16
+    campaign: -54
+    title: 33 G線上のアリア
+    start: -54-C-16
+  }
+  {
+    id: 1037
+    mission_id: "11196"
+    description: 「それは、君にはあるものが足りないからです。お金持ち特有の、『金の匂い』」
+    scripts: -54-O-2
+    campaign: -54
+    title: 2 放射線濃度警報機
+    start: -54-O-2
+  }
+  {
+    id: 1038
+    mission_id: "11197"
+    description: 「『コルト・エクスプレス』へようこそ」
+    scripts: -54-O-3
+    campaign: -54
+    title: 3 バーカウンター
+    start: -54-O-3
+  }
+  {
+    id: 1039
+    mission_id: "11198"
+    description: 「マフィアたちは、『狩り』を始めたのだ」
+    scripts: -54-O-4
+    campaign: -54
+    title: 4 レコードプレーヤー
+    start: -54-O-4
+  }
+  {
+    id: 1040
+    mission_id: "11199"
+    description: 「私の名は……マザー・リューバよ！」
+    scripts: -54-O-5
+    campaign: -54
+    title: 5 トイレ
+    start: -54-O-5
+  }
+  {
+    id: 1041
+    mission_id: "11200"
+    description: 「安い給料のために、わざわざ命をかけるわけねぇだろ！」
+    scripts: -54-O-6
+    campaign: -54
+    title: 6 タイムゾーン時計
+    start: -54-O-6
+  }
+  {
+    id: 1042
+    mission_id: "11201"
+    description: 「今は少しでも戦力が欲しい、たとえ戦術人形じゃなくても」
+    scripts: -54-O-7
+    campaign: -54
+    title: 7 特等車への扉
+    start: -54-O-7
+  }
+  {
+    id: 1043
+    mission_id: "11202"
+    description: 「……すべては、新ソ連の未来のためです」
+    scripts: -54-O-8
+    campaign: -54
+    title: 11 大型荷物棚
+    start: -54-O-8
+  }
+  {
+    id: 1044
+    mission_id: "11203"
+    description: 「……弱点って、恐ろしいものよね」
+    scripts: -54-O-9
+    campaign: -54
+    title: 15 見晴らしのいい窓
+    start: -54-O-9
+  }
+  {
+    id: 1045
+    mission_id: "11204"
+    description: 「あなたは私と一緒にいるよりも、あっちの、人間の世界に行くべきです」
+    scripts: -54-O-10
+    campaign: -54
+    title: 19 テーブルの上品な花
+    start: -54-O-10
+  }
+  {
+    id: 1046
+    mission_id: "11205"
+    description: 「なにかが足りないから、なにかを求める。人間ってのはそういうものだ」
+    scripts: -54-O-11
+    campaign: -54
+    title: 20 車内販売ワゴン
+    start: -54-O-11
+  }
+  {
+    id: 1047
+    mission_id: "11206"
+    description: 「医者として、人を救うのも当たり前だ」
+    scripts: -54-O-12
+    campaign: -54
+    title: 24 車内の落書き
+    start: -54-O-12
+  }
+  {
+    id: 1048
+    mission_id: "11207"
+    description: 「『コルト・エクスプレス』の最終列車だ、乗り遅れに注意な。」
+    scripts: -54-O-13
+    campaign: -54
+    title: 28 メンテナンスルーム
+    start: -54-O-13
+  }
+  {
+    id: 1049
+    mission_id: "11208"
+    description: 「……これで最後だ、パラデウス。地獄に堕ちろ」
+    scripts: -54-O-14
+    campaign: -54
+    title: 34 屋根上への出口
+    start: -54-O-14
+  }
+  {
+    id: 1050
+    mission_id: "11209"
+    description: 「苦痛は長い、ゆっくり動くカタツムリのように。喜びは短い、秋の草原を駆けるウサギの尾のように」
+    scripts: -54-O-15
+    campaign: -54
+    title: 35 壁掛けのモニター
+    start: -54-O-15
+  }
+  {
+    id: 1051
+    mission_id: "11211"
+    description: 「授業終わったよ！一緒に帰ろう！」
+    scripts: -54-T-1
+    campaign: -54
+    title: 35-T1 練習曲第2番
+    start: -54-T-1
+  }
+  {
+    id: 1052
+    mission_id: "11212"
+    description: 「これで二つ目も消えた」
+    scripts: -54-T-2
+    campaign: -54
+    title: 35-T2 前奏曲第5番
+    start: -54-T-2
+  }
+  {
+    id: 1053
+    mission_id: "11213"
+    description: 「タレウスは鈴の付いた鞄を跨ぎ、次の車両に向かった。」
+    scripts: -54-T-3
+    campaign: -54
+    title: 35-T3 ロマンス
+    start: -54-T-3
+  }
+  {
+    id: 1054
+    mission_id: "11214"
+    description: 「だからこの名前を、自分の機甲の名前にしよう――『ミズ・イヴ』」
+    scripts: -54-T-4
+    campaign: -54
+    title: 35-T4 楽興の時
+    start: -54-T-4
+  }
+  {
+    id: 1055
+    mission_id: "11215"
+    description: 「法は破るもの、監獄は住むところ」
+    scripts: -54-W-1
+    campaign: -54
+    title: 35-W1 ソルヴェイグの歌
+    start: -54-W-1
+  }
+  {
+    id: 1056
+    mission_id: "11216"
+    description: 「もとより、権力者にとって自分たちはどうでもいい存在だ」
+    scripts: -54-W-2
+    campaign: -54
+    title: 35-W2 クラリネット協奏曲
+    start: -54-W-2
+  }
+  {
+    id: 1057
+    mission_id: "11217"
+    description: 「忠誠とは、言葉だけで示すものではありません。」
+    scripts: -54-W-3
+    campaign: -54
+    title: 35-W3 マントバの旅
+    start: -54-W-3
+  }
+  {
+    id: 1058
+    mission_id: "11218"
+    description: 「こんなの呪いよ……」
+    scripts: -54-W-4
+    campaign: -54
+    title: 35-W4 別れの曲
+    start: -54-W-4
+  }
+  {
+    id: 1059
+    mission_id: "11219"
+    description: 「言っておくが！オレは運が悪いだけだ！」
+    scripts: -54-N-1
+    campaign: -54
+    title: 35-N1 幻想即興曲
+    start: -54-N-1
+  }
+  {
+    id: 1060
+    mission_id: "11220"
+    description: 「ここは一つ、長い目で見ようじゃないか」
+    scripts: -54-N-2
+    campaign: -54
+    title: 35-N2 スプリングソナタ
+    start: -54-N-2
+  }
+  {
+    id: 1061
+    mission_id: "11221"
+    description: 「このオレを騙すとは……このニコライを騙すとは……」
+    scripts: -54-N-3
+    campaign: -54
+    title: 35-N3 メヌエット
+    start: -54-N-3
+  }
+  {
+    id: 1062
+    mission_id: "11222"
+    description: 「ポーカーしかできないからポーカーちゃんだろ？」
+    scripts: -54-K-1
+    campaign: -54
+    title: 35-C1 ジムノペディ
+    start: -54-K-1
+  }
+  {
+    id: 1063
+    mission_id: "11223"
+    description: 「捨てられないように頑張らないといけないから、綺麗事なんか信じることはできない」
+    scripts: -54-K-2
+    campaign: -54
+    title: 35-C2 ムーン・リバー
+    start: -54-K-2
+  }
+  {
+    id: 1064
+    mission_id: "11224"
+    description: 「自由……わたしたちは……自由！」
+    scripts: -54-K-3
+    campaign: -54
+    title: 35-C3 星降る夜に
+    start: -54-K-3
+  }
+  {
+    id: 1065
+    mission_id: "11225"
+    description: 「これからは、あたしはマギー・ポンジ、そしてお前はキャサリン・ポンジだ」
+    scripts: -54-K-4
+    campaign: -54
+    title: 35-C4 オー・ソレ・ミオ
+    start: -54-K-4
+  }
+  {
+    id: 1066
+    mission_id: "11226"
+    description: 「分かれ道の行きつく先は、同じ場所かもしれない」
+    scripts: -54-D-1
+    campaign: -54
+    title: 35-R1 ツィガーヌ
+    start: -54-D-1
+  }
+  {
+    id: 1067
+    mission_id: "11227"
+    description: 「何も変わっていない、何も変えられない」
+    scripts: -54-D-2
+    campaign: -54
+    title: 35-R2 夏の黄昏
+    start: -54-D-2
+  }
+  {
+    id: 1068
+    mission_id: "11228"
+    description: 「最初の頃の自分にあった理想や幸せも、今は取り戻せない遺憾となっていた」
+    scripts: -54-D-3
+    campaign: -54
+    title: 35-R3 ピアノ五重奏曲ロ短調
+    start: -54-D-3
+  }
+  {
+    id: 1069
+    mission_id: "11229"
+    description: 「そうか……私は、人を救いたいだけなんだ……」
+    scripts: -54-D-4
+    campaign: -54
+    title: 35-R4 ピアノ協奏曲ヘ短調
+    start: -54-D-4
+  }
+  {
+    id: 1070
+    mission_id: "11230"
+    description: 「どこにも、薔薇はありませんでした」
+    scripts: -54-P-1
+    campaign: -54
+    title: 35-P1 きらきら星変奏曲
+    start: -54-P-1
+  }
+  {
+    id: 1071
+    mission_id: "11231"
+    description: 「夢の箱は夢をかなえてくれない……そうだと知っていても……」
+    scripts: -54-P-2
+    campaign: -54
+    title: 35-P2 死神と少女
+    start: -54-P-2
+  }
+  {
+    id: 1072
+    mission_id: "11232"
+    description: 「パーベルの背後にいるのは、彼にとっての天使であり、かけがえのない薔薇だった……」
+    scripts: -54-P-3
+    campaign: -54
+    title: 35-P3 愛の挨拶
+    start: -54-P-3
+  }
+  {
+    id: 1073
+    mission_id: "11210"
+    description: 「君の犠牲を、決して無駄にはしない」
+    scripts: -54-A-15
+    campaign: -54
+    title: 36 光の声
+    start: -54-A-15
   }
   {
     id: 1075
     mission_id: "11233,11237"
+    description: 「運命の導きにより、二人は再会する。それだけ時間が過ぎていても」
     campaign: -56
+    title: 初虧
   }
   {
     id: 1076
     mission_id: "11234,11238"
+    description: 「信念だけで困難を乗り越えられない時、他の手の準備もしておいた方がいい」
     campaign: -56
+    title: 食既
   }
   {
     id: 1077
     mission_id: "11235,11239"
+    description: 「この勇気を、他の人にもあげたい」
     campaign: -56
+    title: 食甚
   }
   {
     id: 1078
     mission_id: "11236,11240"
+    description: 「わたしは太陽を呑み込む月。日食の如く、太陽の光を喰らうもの」
     campaign: -56
+    title: 生光
   }
   {
     id: 1079
     mission_id: "11243"
+    description: 「13年の眠りは、まるで嘘のようだった。アウロラの光は、消えていなかった」
     campaign: -56
+    title: 長周期摂動
     start: -56-1-A
   }
   {
     id: 1080
     mission_id: "11244"
+    description: 「おめでとう、これでようやく最初の一歩を踏み出せた」
     campaign: -56
+    title: 短周期摂動
     start: -56-1-B
   }
   {
     id: 1081
     mission_id: "11245"
+    description: 「過去が君に追い付いた時、逃げるだけでは何も解決できないと知るだろう」
     campaign: -56
+    title: 白道傾角
     start: -56-2-0
   }
   {
     id: 1082
     mission_id: "11246"
+    description: 「昼と夜、朝と夕暮れ、太陽と月」
     campaign: -56
+    title: カタストロフィー
     start: -56-4-0
   }
   {
     id: 1083
     mission_id: "11247"
+    description: 「銃を誰かに向けた時、あらゆる可能性を予想するべきだ」
     campaign: -56
+    title: 第1接触
     start: -56-5-A
   }
   {
     id: 1084
     mission_id: "11248"
+    description: 「月は借り物の光で道を照らし、旅人のために霧を晴らす」
     campaign: -56
+    title: 第4接触
     start: -56-5-B
   }
   {
     id: 1085
     mission_id: "11249"
+    description: 「目標コードネーム『死罪』、登録された氏名は、ラプラス」
     campaign: -56
+    title: 同源
     start: -56-6-0
   }
   {
     id: 1086
     mission_id: "11250"
+    description: 「過去の人、そして明日の街を懐かしむ」
     campaign: -56
+    title: 捕獲
     start: -56-8-0
   }
   {
     id: 1087
     mission_id: "11251"
+    description: 「人形のコミュニケーションは、任務だけじゃないんですよ？もっとこう、気持ち的なものが……」
     campaign: -56
+    title: 擬本影
     start: -56-9-A
   }
   {
     id: 1088
     mission_id: "11252"
+    description: 「今のあんたはあたしの人形、あたしの個人財産なの！あたしの許可がなければ誰も、あんたをどうこうすることはできないわ！」
     campaign: -56
+    title: 本影
     start: -56-9-B
   }
   {
     id: 1089
     mission_id: "11253"
+    description: 「あなたはもうあたしの新作のヒロインなの！ヒロインが簡単に負けるわけない！」
     campaign: -56
+    title: 金環
     start: -56-10-0
   }
   {
     id: 1090
     mission_id: "11254"
+    description: 「写真には9人が映っていた。そしてユーラは、サモの隣に立っていた」
     campaign: -56
+    title: 星環
     start: -56-12-0
   }
   {
     id: 1091
     mission_id: "11255"
+    description: 「隊員のいない隊長なんて、寂しいじゃないですか？」
     campaign: -56
+    title: 危海
     start: -56-13-A
   }
   {
     id: 1092
     mission_id: "11256"
+    description: 「わたしの名前は――アマリス」
     campaign: -56
+    title: 静海
     start: -56-13-B
   }
   {
     id: 1093
     mission_id: "11257"
+    description: 「タグとは、特殊部隊の墓標だ。その意味を、エリアナもアマリスも、よく知っている」
     campaign: -56
+    title: 月の交点
     start: -56-14-0
   }
   {
     id: 1094
     mission_id: "11258"
+    description: 「……静かな夜だ」
     campaign: -56
+    title: 復円
     start: -56-16-0
   }
   {
     id: 1095
     mission_id: "11259"
+    description: 「新しい日は必ずやって来る。太陽は、いつも通り昇る」
     campaign: -56
+    title: 外ラグランジュ点
     start: -56-17-A
   }
   {
     id: 1096
     mission_id: "11260"
+    description: 「月明りは変わらず、優しく行く先を照らしてくれる」
     campaign: -56
+    title: 内ラグランジュ点
     start: -56-17-B
   }
   {

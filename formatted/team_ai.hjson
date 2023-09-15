@@ -208,6 +208,17 @@
     id: 24
     force_id: 2
     ai_type: 106
+    name: ロック
+    description: 「最短」且つ「移動可能」のルートに沿って、指定されたNPCのところへ移動する
+    pic: ai_guard
+    color: ffffff
+  }
+  {
+    id: 25
+    force_id: 3
+    ai_type: 106
+    name: ロック
+    description: 「最短」且つ「移動可能」のルートに沿って、指定されたNPCのところへ移動する
     pic: ai_guard
     color: ffffff
   }
