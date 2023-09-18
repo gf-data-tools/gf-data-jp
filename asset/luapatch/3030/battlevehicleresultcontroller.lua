@@ -5,7 +5,9 @@ local FP = CS.TrueSync.FP
 local Init = function(self,jsondata,curSpot)
 
 	self:Init(jsondata,curSpot)
-	
+	self:StopAllCoroutines()
+	self:StartCoroutine(self:UpdateVehicleExp())
+	self:StartCoroutine(self:ShowVehicleSpine())
 	self:StartCoroutine(self:ShowCrewMember())
 	self:StartCoroutine(self:ShowRank())
 end

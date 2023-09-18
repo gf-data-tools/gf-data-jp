@@ -2,7 +2,7 @@ local util = require 'xlua.util'
 xlua.private_accessible(CS.VehicleComponent)
 
 local VCCTOR = function(self,jsonVehicleComponent,checkCollect)
-	if jsonVehicleComponent:GetType() == typeof(CS.LitJson.JsonData) then
+	if type(jsonVehicleComponent) ~= "number" and jsonVehicleComponent:GetType() == typeof(CS.LitJson.JsonData) then
 		if jsonVehicleComponent:Contains("atk_speed") then
 			self.vehicleDynamicRate = jsonVehicleComponent:GetValue("atk_speed").Int;
 		end

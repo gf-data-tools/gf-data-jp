@@ -2,6 +2,7 @@ local util = require 'xlua.util'
 xlua.private_accessible(CS.GF.Battle.BattleCharacterControllerNew)
 xlua.private_accessible(CS.GF.Battle.BattleCharacterData)
 xlua.private_accessible(CS.GF.Battle.BattleDynamicData)
+xlua.private_accessible(CS.GF.Battle.BattleMemberControllerNew)
 local FP = CS.TrueSync.FP
 local Init = function(self,data)
 
@@ -13,6 +14,13 @@ local Init = function(self,data)
 	end
 	if(data.isVehicleComponent or data.isVehicle) then
 		data.switchDistance = FP.FromFloat(self.spineScale)
+	end
+	if self.isCutin and data.summonData ~= nil and data.summonData.vehicle ~= nil then
+		local member = self.gameObject:GetComponentInChildren(typeof(CS.GF.Battle.BattleMemberControllerNew))
+		member.parent = self
+		member:Init(data.listMemberData[0])
+		self.listMembers:Add(member)
+		self.gameObject.transform.localRotation = CS.UnityEngine.Quaternion.Euler(0,0,0)
 	end
 end
 local AddEffectCollision = function(self)
