@@ -791,6 +791,7 @@ COMMON,1792,鎸囨尌瀹橈紝寰堥珮鍏村啀娆＄浉閬嗙todo),,0
 COMMON,1793,鎺ㄨ崘姊?槦(todo),,0
 COMMON,1794,濂逛滑鍦ㄧ瓑寰呯潃浣狅紝绛夊緟浣犱笌濂逛滑缂旂粨瑾撶害(todo),,0
 COMMON,1795,浣犺繕鏈?綋楠岃繃鎹曡幏铻嶅悎鍔垮姏瑙掕壊(todo),,0
+COMMON,1816,火力小队拥有数(todo),,0
 BATTLE,10000,Retreat,,0
 BATTLE,10001,Withdraw,,0
 BATTLE,10002,WITHDRAW,,0
@@ -2601,7 +2602,7 @@ DEVELOP,33049,This Heavy Heliport does not meet the requirement to deploy this u
 DEVELOP,33050,褰撳墠閲嶈?閮ㄩ槦琛閲忎负0锛屾槸鍚︿娇鐢ㄥ揩閫熶慨澶嶅?绾﹁繘琛屼慨澶嶏紵(todo),,0
 DEVELOP,33051,Your current number of Action Points does not meet the deployment requirement of the Heavy Ordnance Corps,,0
 DEVELOP,33052,Insufficient Action Points//c your Echelon cannot be moved,,0
-DEVELOP,33053,Attacking the enemy head on with this Fire Support Unit will result in defeat. Proceed with the attack?,,0
+DEVELOP,33053,火力小队正面进击将会战斗失败，是否确认进击？  (todo),,0
 DEVELOP,33054,Retreating outside of an allied Heavy Heliport will forfeit the unit's rations and ammo! Confirm retreat?,,0
 DEVELOP,33055,娆㈣繋浣跨敤鎬ラ熷垎鏋愭湇鍔★紝璇ユ湇鍔￠渶鏀?粯//n <color=#70D3C3FF>蹇?熷垎鏋愬?绾?/color>脳1(todo),,0
 DEVELOP,33056,褰撳墠铻嶅悎鍔垮姏鍗曚綅鏁伴噺宸茶秴杩囧啗钀ヤ笂闄忣/n鏄?惁鑺辫垂{0}閽荤煶璐?拱铻嶅悎鍔垮姏鍗曚綅搴婁綅锛炵todo),,0
@@ -3522,6 +3523,8 @@ MISSIONSELECTION,40461,鍦ㄤ竴娆″父瑙勬帰鏌ヤ腑锛岃竟澧冭皟鏌
 MISSIONSELECTION,40463,鎴樺湴璁板綍(todo),,0
 MISSIONSELECTION,40464,鎼滄煡浣滄垬(todo),,0
 MISSIONSELECTION,40465,棣栭欑todo),,0
+MISSIONSELECTION,40474,火力小队限制(todo),,0
+MISSIONSELECTION,40476,火力小队(todo),,0
 REINFORCEMENT,50000,Select,,0
 REINFORCEMENT,50001,Locked,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -5036,6 +5039,11 @@ OTHER,100207,鎬籔T锛歿0}(todo),,0
 OTHER,100208,閫氬叧PT锛歿0}(todo),,0
 OTHER,100209,鍏ㄥ浘娓呯悊PT锛歿0}(todo),,0
 OTHER,100210,鐐哥todo),,0
+OTHER,100300,对应机动装甲评分达到30000(todo),,0
+OTHER,100302,对应机动装甲评分达到40000(todo),,0
+OTHER,100304,对应机动装甲评分达到50000(todo),,0
+OTHER,100306,对应机动装甲评分达到65000(todo),,0
+OTHER,100308,对应机动装甲评分达到80000(todo),,0
 ACTIVITY,110000,Operation: Cube,,0
 ACTIVITY,110001,Blindfold Theorem,,0
 FRIEND,110002,鍙嬫儏鐐规暟(todo),,0
@@ -5692,8 +5700,8 @@ BEGINNERGUIDE,150121,Commander//c please press <color=#ffb400>[Combat Simulation
 BEGINNERGUIDE,150122,There will be different Combat Simulation modes available every day of the week. You can obtain EXP//c Training Data//c Enhancement Capsules//c or Calibration Tickets by consuming Sim Energy//c which recovers by one point every two hours//c or can be purchased in the Shop.,,0
 BEGINNERGUIDE,150123,Press <color=#ffb400>[Heavy Production]</color> to begin production.,,0
 BEGINNERGUIDE,150124,Pinch or spread the screen to zoom in or out.,,0
-BEGINNERGUIDE,150125,鎸囨尌瀹橈紝鏍奸噷鑺?凡缁忓皢閲嶈?閮ㄩ槦鐨勭爺鍙戞彁涓婃棩绋嬶紝璇疯繘鍏ュ?鑸嶄簡瑙ｈ?鎯呫佺todo),,0
-BEGINNERGUIDE,150126,The research and development of the Heavy Ordnance Corps is based primarily upon combat intel//c so we are working in cooperation with Wave Tech//c an organization that deals with intelligence and analysis. Please press Auxiliary Room.,,0
+BEGINNERGUIDE,150125,指挥官，格里芬已经将火力小队的研发提上日程，请进入宿舍了解详情。(todo),,0
+BEGINNERGUIDE,150126,火力小队的研发必须以作战情报为基础，为此我们与情报组织Wave Tech进行了合作，请点击附属房间。(todo),,0
 BEGINNERGUIDE,150127,Press here to enter Wave Tech's 銆怚ntelligence Center銆愴,,0
 BEGINNERGUIDE,150128,The recommended recipes provide optimal production rates for all sorts of weapon types. Feel free to refer to it.,,0
 BEGINNERGUIDE,150129,Commander//c Fairies can now undergo Evolutions! Go to <color=#ffb400ff>銆怐evelop銆慃/color> and have a look!,,0
@@ -5749,7 +5757,7 @@ SQUAD,190019,Pierce,,0
 SQUAD,190020,Precision,,0
 SQUAD,190021,Reload,,0
 SQUAD,190022,CHOOSE HOC,,0
-SQUAD,190023,Fire Support Team,,0
+SQUAD,190023,火力小队(todo),,0
 SQUAD,190024,Heavy Ordnance Corps,,0
 SQUAD,190025,Deploy,,0
 SQUAD,190026,Same color bonus,,0
@@ -5887,7 +5895,7 @@ SQUAD,190158,Max level reached!,,0
 SQUAD,190159,Upgrade Maintenance Machinery to unlock more slots,,0
 SQUAD,190160,Converting {0} pieces of <color=#FFBB00FF>[Central Data]</color>//ninto {1} <color=#FFBB00FF>[Data Patches]</color>.//nProceed?,,0
 SQUAD,190161,Stopping EXP Training.//nAll resources will be refunded.//nProceed?,,0
-SQUAD,190162,Fire Support Team,,0
+SQUAD,190162,火力小队(todo),,0
 SQUAD,190163,Vehicle,,0
 SQUAD,190164,Maintenance Machinery,,0
 SQUAD,190165,This unit is in training//c cannot make changes to the chips circuit,,0
@@ -5929,7 +5937,7 @@ SQUAD,190200,Striking enemy installations and engaging in fire support will cons
 SQUAD,190201,HOC units are able to activate <color=#e31414ff>resupply nodes</color> on the map.,,0
 SQUAD,190202,When a HOC unit is on an allied Heavy Heliport//c you can press on it to open the unit interface. Press on its avatar image for Emergency Repair.,,0
 SQUAD,190203,HOC units can rescue hostages or swap positions with them.,,0
-SQUAD,190204,<color=#e31414ff>Caution</color>//c your Fire Support Team cannot engage in regular combat and fighting the enemy head-on will result in a <color=#e31414ff>guaranteed defeat</color>. Ammo//c rations//c and HP will be reduced to 0 after being defeated. Please be cautious when moving them.,,0
+SQUAD,190204,<color=#e31414ff>注意</color>，火力小队因为没有配置常规的正面战斗使用的武器，正面遇敌时<color=#e31414ff>必定战败</color>。战败后火力小队会被清空弹药口粮，生命值归0，请谨慎部署火力小队。 (todo),,0
 SQUAD,190205,Insufficient Quick Analysis Contracts//c cannot use Quick Analysis! Confirm to purchase?,,0
 SQUAD,190206,When deployed//c your HOC units will provide fire support by default for your Echelons in combat as long as they're within range.,,0
 SQUAD,190207,Enemies with force shields will have an indicator above their health bar. While their force shield is up//c your regular attacks will do no damage.,,0
@@ -7757,3 +7765,5 @@ MINIGAME,280534,濡栫簿鐐逛綅(todo),,0
 MINIGAME,280535,鐏?姏灏忛槦鐐逛綅(todo),,0
 MINIGAME,280536,棣栭?鐐逛綅(todo),,0
 MINIGAME,280537,鐜板湪杩樹笉鎯冲喅瀹欑todo),,0
+VEHICLE,290011,攻速系数(todo),,0
+VEHICLE,290013,精度系数(todo),,0

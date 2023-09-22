@@ -8969,6 +8969,40 @@
     obtain_ids: "3016"
   }
   {
+    id: 288
+    name: CSドットサイト
+    description:
+      '''
+      火力+<pow> 命中+<hit>
+      射速<rate>スキル強化$Ak 5専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,5"
+    hit: "15,20"
+    rate: "-4,-4"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_Ak5
+    develop_duration: 3600
+    company: AP
+    fit_guns: "187"
+    equip_introduction: AP社の代表的なドットサイト。I.O.PによってAk 5向けにカスタマイズされた。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: pow:1000,hit:750
+    passive_skill: "759041"
+    max_level: 10
+    auto_select_id: 18095
+    is_show: 1
+    obtain_ids: "3069"
+  }
+  {
     id: 289
     name: GLX160
     description:

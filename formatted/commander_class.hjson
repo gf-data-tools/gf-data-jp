@@ -456,6 +456,19 @@
     source: 1
   }
   {
+    id: 50
+    name: 昭武英傑
+    description: 流れる汗、胸焼ける息、拳を振りかざす度、力が血に注がれる……体はすでに限界を迎えようとも、武の道は決して止まることはない！すべてを賭け、より高みを目指せ！
+    group_id: "92"
+    code: commander_5031_icon
+    bonus_plastic: "130019"
+    skill_id: 104
+    path: CLASS50
+    is_class: 1
+    des_year: "2023"
+    source: 1
+  }
+  {
     id: 51
     name: 四海の主
     description: 海を越え、嵐を超え、波に乗って高らかに歌い、向かうところ敵なし――いいか、野郎ども！このラム酒を飲んだら出航だ！次のお宝が俺たちを待ってるぜ！
