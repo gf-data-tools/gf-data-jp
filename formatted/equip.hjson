@@ -9819,6 +9819,104 @@
     obtain_ids: "3080"
   }
   {
+    id: 322
+    name: 6.5x50mm改良弾
+    description:
+      '''
+      破甲+<armor_piercing>
+      火力+<pow>$81式カービン専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "110,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_八一式马
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "174"
+    equip_introduction: I.O.Pに改良された81式カービン専用の6.5x50mm徹甲弾。信頼性も威力も以前より向上している。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:500,pow:1000
+    max_level: 10
+    auto_select_id: 19049
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 323
+    name: MHS33
+    description:
+      '''
+      会心率+<critical_percent><%>
+      火力+<pow>$Gr HK33専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,4"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_HK33
+    develop_duration: 2820
+    company: DT
+    fit_guns: "265"
+    equip_introduction: Gr HK33の現代化改修のために用意されたMlokハンドガード。銃の使用感及び拡張性が向上している。
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18109
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 324
+    name: Dreibein 34
+    description:
+      '''
+      火力+<pow> 命中+<hit>
+      会心率+<critical_percent><%>$MG34専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "2,4"
+    hit: "3,5"
+    critical_percent: "19,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_MG34
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "87"
+    equip_introduction: I.O.Pが復元して改良を加えたMG34専用の三脚銃脚。射撃をより安定させることができる。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: pow:1000,critical_percent:1000,hit:1000
+    max_level: 10
+    auto_select_id: 18110
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
     id: 325
     name: メガホン
     description:

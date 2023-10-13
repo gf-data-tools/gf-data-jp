@@ -354,7 +354,7 @@
   {
     id: 735
     name: MGマスタリー
-    desc: 味方RFの装弾数を15増加させる。
+    desc: 味方MGの装弾数を15増加させる。
     if_display: 1
     code: fight_skill_buff101
     skill_group: "756131"
@@ -425,728 +425,728 @@
   }
   {
     id: 901
-    name: fight_environment_skill-10000901
-    desc: fight_environment_skill-20000901
+    name: 力不足
+    desc: 味方全体の会心率が50%上昇し、会心ダメージが80%低下する
     if_display: 1
     code: fight_skill_buff107
     skill_group: "756193"
   }
   {
     id: 902
-    name: fight_environment_skill-10000902
-    desc: fight_environment_skill-20000902
+    name: 痛み分け
+    desc: 味方全体の会心ダメージが50%低下し、敵全体に被ダメージ100%上昇を付与する
     if_display: 1
     code: fight_skill_buff301
     skill_group: "756195"
   }
   {
     id: 903
-    name: fight_environment_skill-10000903
-    desc: fight_environment_skill-20000903
+    name: 砕氷瓦解
+    desc: 敵全体の破甲値が200上昇
     if_display: 1
     code: fight_skill_buff205
     skill_group: "756198"
   }
   {
     id: 904
-    name: fight_environment_skill-10000904
-    desc: fight_environment_skill-20000904
+    name: 同舟の傷み
+    desc: 味方の隊長以外のユニットの火力が20%低下する
     if_display: 1
     code: fight_skill_buff108
     skill_group: "756200"
   }
   {
     id: 905
-    name: fight_environment_skill-10000905
-    desc: fight_environment_skill-20000905
+    name: 燃焼打撃II
+    desc: 戦闘開始時、味方の第二横列に燃焼エリアを生成する。燃焼エリアは10秒の間、0.33秒ごとに50のリンク保護無視ダメージを与える
     if_display: 1
     code: fight_skill_hurt104
     skill_group: "756202"
   }
   {
     id: 906
-    name: fight_environment_skill-10000906
-    desc: fight_environment_skill-20000906
+    name: 巨人の一撃
+    desc: 10秒ごとに、敵味方両方の残りHPが最も高いユニットに、その最大HP10%分のダメージ与える
     if_display: 1
     code: fight_skill_hurt301
     skill_group: "756204"
   }
   {
     id: 1133001
-    name: fight_environment_skill-11133001
-    desc: fight_environment_skill-21133001
+    name: 狙撃支援
+    desc: 戦闘開始後、6秒ごとに1回「狙撃」を発動する。最も高脅威の敵に対し18000の防御無視ダメージを与える
     if_display: 1
     code: Rouge_590001
     skill_group: "778099"
   }
   {
     id: 1133002
-    name: fight_environment_skill-11133002
-    desc: fight_environment_skill-21133002
+    name: 狙撃強化
+    desc: 「狙撃」のダメージが50%上昇
     if_display: 1
     code: Rouge_590002
     skill_group: "778104"
   }
   {
     id: 1133003
-    name: fight_environment_skill-11133003
-    desc: fight_environment_skill-21133003
+    name: ピンポイント攻撃
+    desc: 「狙撃」のエリートユニットに対するダメージが100%上昇
     if_display: 1
     code: Rouge_590003
     skill_group: "778105"
   }
   {
     id: 1133004
-    name: fight_environment_skill-11133004
-    desc: fight_environment_skill-21133004
+    name: 連携砲撃
+    desc: 「狙撃」時、追加で「砲撃」を行う。一定範囲内の敵に対し6000の防御無視&リンク保護無視ダメージを与える。CT3秒
     if_display: 1
     code: Rouge_590004
     skill_group: "900107"
   }
   {
     id: 1133005
-    name: fight_environment_skill-11133005
-    desc: fight_environment_skill-21133005
+    name: 心眼
+    desc: 「狙撃」時、すべての人形に「精密」を付与する
     if_display: 1
     code: Rouge_590005
     skill_group: "778107"
   }
   {
     id: 1133006
-    name: fight_environment_skill-11133006
-    desc: fight_environment_skill-21133006
+    name: 徹甲弾頭
+    desc: 「狙撃」時、目標に「装甲破壊」を付与する
     if_display: 1
     code: Rouge_590006
     skill_group: "778108"
   }
   {
     id: 1133007
-    name: fight_environment_skill-11133007
-    desc: fight_environment_skill-21133007
+    name: 砲撃支援
+    desc: 戦闘開始後、6秒ごとに1回「砲撃」を発動する。一定範囲内の敵に対し6000の防御無視&リンク保護無視ダメージを与える
     if_display: 1
     code: Rouge_590101
     skill_group: "778097"
   }
   {
     id: 1133008
-    name: fight_environment_skill-11133008
-    desc: fight_environment_skill-21133008
+    name: 砲撃強化
+    desc: 「砲撃」のダメージが50%上昇
     if_display: 1
     code: Rouge_590102
     skill_group: "778110"
   }
   {
     id: 1133009
-    name: fight_environment_skill-11133009
-    desc: fight_environment_skill-21133009
+    name: 収束砲撃
+    desc: 「砲撃」のLink1の敵に対するダメージが100%上昇
     if_display: 1
     code: Rouge_590103
     skill_group: "778111"
   }
   {
     id: 1133010
-    name: fight_environment_skill-11133010
-    desc: fight_environment_skill-21133010
+    name: 連携空襲
+    desc: 「砲撃」時、追加で「空襲」を行う。すべての敵に対し、2000の防御無視&リンク保護無視ダメージを与える。CT3秒
     if_display: 1
     code: Rouge_590104
     skill_group: "900107"
   }
   {
     id: 1133011
-    name: fight_environment_skill-11133011
-    desc: fight_environment_skill-21133011
+    name: 英勇
+    desc: 「砲撃」時、すべての人形に「集中」を付与する
     if_display: 1
     code: Rouge_590105
     skill_group: "778113"
   }
   {
     id: 1133012
-    name: fight_environment_skill-11133012
-    desc: fight_environment_skill-21133012
+    name: 衝撃弾
+    desc: 「砲撃」時、目標に「スタン」を付与する
     if_display: 1
     code: Rouge_590106
     skill_group: "778114"
   }
   {
     id: 1133013
-    name: fight_environment_skill-11133013
-    desc: fight_environment_skill-21133013
+    name: 空襲支援
+    desc: 戦闘開始後、6秒ごとに1回「空襲」を発動する。すべての敵に対し、2000の防御無視&リンク保護無視ダメージを与える
     if_display: 1
     code: Rouge_590201
     skill_group: "778095"
   }
   {
     id: 1133014
-    name: fight_environment_skill-11133014
-    desc: fight_environment_skill-21133014
+    name: 空襲強化
+    desc: 「空襲」のダメージが50%上昇
     if_display: 1
     code: Rouge_590202
     skill_group: "778116"
   }
   {
     id: 1133015
-    name: fight_environment_skill-11133015
-    desc: fight_environment_skill-21133015
+    name: 無差別爆撃
+    desc: 「空襲」の非エリートの敵に対するダメージが100%上昇
     if_display: 1
     code: Rouge_590203
     skill_group: "778117"
   }
   {
     id: 1133016
-    name: fight_environment_skill-11133016
-    desc: fight_environment_skill-21133016
+    name: 連携狙撃
+    desc: 「空襲」時、追加で「狙撃」を行う。最も高脅威の敵に対し18000の防御無視ダメージを与える。CT3秒
     if_display: 1
     code: Rouge_590204
     skill_group: "900107"
   }
   {
     id: 1133017
-    name: fight_environment_skill-11133017
-    desc: fight_environment_skill-21133017
+    name: 無慈悲
+    desc: 「空襲」時、すべての人形に「会心」を付与する
     if_display: 1
     code: Rouge_590205
     skill_group: "778119"
   }
   {
     id: 1133018
-    name: fight_environment_skill-11133018
-    desc: fight_environment_skill-21133018
+    name: 天より注ぐ炎
+    desc: 「空襲」時、目標に「燃焼」を付与する
     if_display: 1
     code: Rouge_590206
     skill_group: "778120"
   }
   {
     id: 1133019
-    name: fight_environment_skill-11133019
-    desc: fight_environment_skill-21133019
+    name: 装甲破壊
+    desc: 戦闘開始時、すべての敵に「装甲破壊」を1つ付与する。その後、6秒ごとに、HPが最も高い敵と防御が最も高い敵にそれぞれ「装甲破壊」を1つ付与する
     if_display: 1
     code: Rouge_590301
     skill_group: "778164"
   }
   {
     id: 1133020
-    name: fight_environment_skill-11133020
-    desc: fight_environment_skill-21133020
+    name: 脆弱
+    desc: 「装甲破壊」が最大3つまで付与できるようになる
     if_display: 1
     code: Rouge_590302
     skill_group: "778175"
   }
   {
     id: 1133021
-    name: fight_environment_skill-11133021
-    desc: fight_environment_skill-21133021
+    name: 装甲破壊強化
+    desc: 「装甲破壊」の持続時間が12秒になる
     if_display: 1
     code: Rouge_590303
     skill_group: "778168"
   }
   {
     id: 1133022
-    name: fight_environment_skill-11133022
-    desc: fight_environment_skill-21133022
+    name: スタン
+    desc: 戦闘開始時、すべての敵に「スタン」を1つ付与する。その後、6秒ごとに、火力が最も高い敵と距離が最も遠い敵にそれぞれ「スタン」を1つ付与する
     if_display: 1
     code: Rouge_590401
     skill_group: "778160"
   }
   {
     id: 1133023
-    name: fight_environment_skill-11133023
-    desc: fight_environment_skill-21133023
+    name: 誘爆
+    desc: 「スタン」が最大3つまで付与できるようになる
     if_display: 1
     code: Rouge_590402
     skill_group: "778176"
   }
   {
     id: 1133024
-    name: fight_environment_skill-11133024
-    desc: fight_environment_skill-21133024
+    name: スタン強化
+    desc: 「スタン」の持続時間が12秒になる
     if_display: 1
     code: Rouge_590403
     skill_group: "778169"
   }
   {
     id: 1133025
-    name: fight_environment_skill-11133025
-    desc: fight_environment_skill-21133025
+    name: 点火
+    desc: 戦闘開始時、すべての敵に「燃焼」を1つ付与する。その後、6秒ごとに、HPが最も高い敵とHPが最も低い敵にそれぞれ「燃焼」を1つ付与する
     if_display: 1
     code: Rouge_590501
     skill_group: "778156"
   }
   {
     id: 1133026
-    name: fight_environment_skill-11133026
-    desc: fight_environment_skill-21133026
+    name: 引火
+    desc: 「燃焼」が最大3つまで付与できるようになる
     if_display: 1
     code: Rouge_590502
     skill_group: "778177"
   }
   {
     id: 1133027
-    name: fight_environment_skill-11133027
-    desc: fight_environment_skill-21133027
+    name: 燃焼強化
+    desc: 「燃焼」の持続時間が12秒になる
     if_display: 1
     code: Rouge_590503
     skill_group: "778170"
   }
   {
     id: 1133028
-    name: fight_environment_skill-11133028
-    desc: fight_environment_skill-21133028
+    name: 集中
+    desc: 戦闘開始後、6秒ごとに、与ダメージが最も高い人形とHPが最も低い人形にそれぞれ「集中」を1つ付与する
     if_display: 1
     code: Rouge_590601
     skill_group: "778153"
   }
   {
     id: 1133029
-    name: fight_environment_skill-11133029
-    desc: fight_environment_skill-21133029
+    name: 集中強化
+    desc: 「集中」の効果が100%になる
     if_display: 1
     code: Rouge_590602
     skill_group: "778171"
   }
   {
     id: 1133030
-    name: fight_environment_skill-11133030
-    desc: fight_environment_skill-21133030
+    name: 明鏡止水
+    desc: 「集中」が最大3つまで付与できるようになる
     if_display: 1
     code: Rouge_590603
     skill_group: "778178"
   }
   {
     id: 1133031
-    name: fight_environment_skill-11133031
-    desc: fight_environment_skill-21133031
+    name: 速射
+    desc: 戦闘開始後、6秒ごとに、与ダメージが最も高い人形とHPが最も低い人形にそれぞれ「速射」を1つ付与する
     if_display: 1
     code: Rouge_590604
     skill_group: "778150"
   }
   {
     id: 1133032
-    name: fight_environment_skill-11133032
-    desc: fight_environment_skill-21133032
+    name: 速射強化
+    desc: 「速射」の効果が100%になる
     if_display: 1
     code: Rouge_590605
     skill_group: "778172"
   }
   {
     id: 1133033
-    name: fight_environment_skill-11133033
-    desc: fight_environment_skill-21133033
+    name: 制限解除
+    desc: 「速射」を付与した後、目標が「速射」を2つ所有している場合、追加で「集中」を1つ付与する
     if_display: 1
     code: Rouge_590606
     skill_group: "778179"
   }
   {
     id: 1133034
-    name: fight_environment_skill-11133034
-    desc: fight_environment_skill-21133034
+    name: 精密
+    desc: 戦闘開始後、6秒ごとに、与ダメージが最も高い人形とHPが最も低い人形にそれぞれ「精密」を1つ付与する
     if_display: 1
     code: Rouge_590701
     skill_group: "778147"
   }
   {
     id: 1133035
-    name: fight_environment_skill-11133035
-    desc: fight_environment_skill-21133035
+    name: 精密強化
+    desc: 「精密」の効果が50%になる
     if_display: 1
     code: Rouge_590702
     skill_group: "778173"
   }
   {
     id: 1133036
-    name: fight_environment_skill-11133036
-    desc: fight_environment_skill-21133036
+    name: 死神の目
+    desc: 「精密」を付与した後、目標が「精密」を2つ所有している場合、追加で「会心」を1つ付与する
     if_display: 1
     code: Rouge_590703
     skill_group: "778180"
   }
   {
     id: 1133037
-    name: fight_environment_skill-11133037
-    desc: fight_environment_skill-21133037
+    name: 会心
+    desc: 戦闘開始後、6秒ごとに、与ダメージが最も高い人形とHPが最も低い人形にそれぞれ「会心」を1つ付与する
     if_display: 1
     code: Rouge_590704
     skill_group: "778144"
   }
   {
     id: 1133038
-    name: fight_environment_skill-11133038
-    desc: fight_environment_skill-21133038
+    name: 会心強化
+    desc: 「会心」の効果が50%になる
     if_display: 1
     code: Rouge_590705
     skill_group: "778174"
   }
   {
     id: 1133039
-    name: fight_environment_skill-11133039
-    desc: fight_environment_skill-21133039
+    name: 自動校正
+    desc: 「会心」を付与した後、目標が「精密」を所有していない場合、追加で「精密」を1つ付与する
     if_display: 1
     code: Rouge_590706
     skill_group: "778181"
   }
   {
     id: 1133040
-    name: fight_environment_skill-11133040
-    desc: fight_environment_skill-21133040
+    name: 強化
+    desc: 戦闘開始後、6秒ごとに、与ダメージが最も高い人形とHPが最も低い人形にそれぞれ「強化」を1つ付与する
     if_display: 1
     code: Rouge_590801
     skill_group: "778137"
   }
   {
     id: 1133041
-    name: fight_environment_skill-11133041
-    desc: fight_environment_skill-21133041
+    name: 強化増幅
+    desc: 「強化」の効果が40%になる
     if_display: 1
     code: Rouge_590802
     skill_group: "778141"
   }
   {
     id: 1133042
-    name: fight_environment_skill-11133042
-    desc: fight_environment_skill-21133042
+    name: 耐性
+    desc: 戦闘開始後、6秒ごとに、HPが最も高い人形と防御が最も高い人形にそれぞれ「耐性」を1つ付与する
     if_display: 1
     code: Rouge_590901
     skill_group: "778139"
   }
   {
     id: 1133043
-    name: fight_environment_skill-11133043
-    desc: fight_environment_skill-21133043
+    name: 耐性強化
+    desc: 「耐性」の効果が50%になる
     if_display: 1
     code: Rouge_590902
     skill_group: "778001"
   }
   {
     id: 1133044
-    name: fight_environment_skill-11133044
-    desc: fight_environment_skill-21133044
+    name: AR集中
+    desc: 場のAR人形が2体以上の場合、3秒目から6秒ごとに、すべてのAR人形に「集中」を1つ付与する
     if_display: 1
     code: Rouge_591001
     skill_group: "778014"
   }
   {
     id: 1133045
-    name: fight_environment_skill-11133045
-    desc: fight_environment_skill-21133045
+    name: AR精密
+    desc: 場のAR人形が2体以上の場合、3秒目から6秒ごとに、すべてのAR人形に「精密」を1つ付与する
     if_display: 1
     code: Rouge_591002
     skill_group: "778015"
   }
   {
     id: 1133046
-    name: fight_environment_skill-11133046
-    desc: fight_environment_skill-21133046
+    name: AR強化
+    desc: 場のAR人形が2体以上の場合、3秒目から6秒ごとに、すべてのAR人形に「強化」を1つ付与する
     if_display: 1
     code: Rouge_591003
     skill_group: "778016"
   }
   {
     id: 1133047
-    name: fight_environment_skill-11133047
-    desc: fight_environment_skill-21133047
+    name: 砲撃小隊
+    desc: 場のAR人形が2体以上の場合、3秒目から6秒ごとに「砲撃」を行い、一定範囲内の敵に対し6000の防御無視&リンク保護無視ダメージを与える
     if_display: 1
     code: Rouge_591004
     skill_group: "778017"
   }
   {
     id: 1133048
-    name: fight_environment_skill-11133048
-    desc: fight_environment_skill-21133048
+    name: SMG会心
+    desc: 場のSMG人形が2体以上の場合、3秒目から6秒ごとに、すべてのSMG人形に「会心」を1つ付与する
     if_display: 1
     code: Rouge_591101
     skill_group: "778018"
   }
   {
     id: 1133049
-    name: fight_environment_skill-11133049
-    desc: fight_environment_skill-21133049
+    name: SMG強化
+    desc: 場のSMG人形が2体以上の場合、3秒目から6秒ごとに、すべてのSMG人形に「強化」を1つ付与する
     if_display: 1
     code: Rouge_591102
     skill_group: "778019"
   }
   {
     id: 1133050
-    name: fight_environment_skill-11133050
-    desc: fight_environment_skill-21133050
+    name: SMG耐性
+    desc: 場のSMG人形が2体以上の場合、3秒目から6秒ごとに、すべてのSMG人形に「耐性」を1つ付与する
     if_display: 1
     code: Rouge_591103
     skill_group: "778020"
   }
   {
     id: 1133051
-    name: fight_environment_skill-11133051
-    desc: fight_environment_skill-21133051
+    name: 焼夷手榴弾
+    desc: 場のSMG人形が1体以上の場合、3秒目から6秒ごとに、ランダムの敵3体に「燃焼」を1つ付与する
     if_display: 1
     code: Rouge_591104
     skill_group: "778021"
   }
   {
     id: 1133052
-    name: fight_environment_skill-11133052
-    desc: fight_environment_skill-21133052
+    name: RF速射
+    desc: 場のRF人形が2体以上の場合、3秒目から6秒ごとに、すべてのRF人形に「速射」を1つ付与する
     if_display: 1
     code: Rouge_591201
     skill_group: "778022"
   }
   {
     id: 1133053
-    name: fight_environment_skill-11133053
-    desc: fight_environment_skill-21133053
+    name: RF会心
+    desc: 場のRF人形が2体以上の場合、3秒目から6秒ごとに、すべてのRF人形に「会心」を1つ付与する
     if_display: 1
     code: Rouge_591202
     skill_group: "778023"
   }
   {
     id: 1133054
-    name: fight_environment_skill-11133054
-    desc: fight_environment_skill-21133054
+    name: RF強化
+    desc: 場のRF人形が2体以上の場合、3秒目から6秒ごとに、すべてのRF人形に「強化」を1つ付与する
     if_display: 1
     code: Rouge_591203
     skill_group: "778024"
   }
   {
     id: 1133055
-    name: fight_environment_skill-11133055
-    desc: fight_environment_skill-21133055
+    name: 狙撃小隊
+    desc: 場のRF人形が2体以上の場合、3秒目から6秒ごとに「狙撃」を行い、最も高脅威の敵に対し18000の防御無視ダメージを与える
     if_display: 1
     code: Rouge_591204
     skill_group: "778025"
   }
   {
     id: 1133056
-    name: fight_environment_skill-11133056
-    desc: fight_environment_skill-21133056
+    name: HG集中
+    desc: 場のHG人形が2体以上の場合、3秒目から6秒ごとに、すべてのHG人形に「集中」を1つ付与する
     if_display: 1
     code: Rouge_591301
     skill_group: "778026"
   }
   {
     id: 1133057
-    name: fight_environment_skill-11133057
-    desc: fight_environment_skill-21133057
+    name: HG速射
+    desc: 場のHG人形が2体以上の場合、3秒目から6秒ごとに、すべてのHG人形に「速射」を1つ付与する
     if_display: 1
     code: Rouge_591302
     skill_group: "778027"
   }
   {
     id: 1133058
-    name: fight_environment_skill-11133058
-    desc: fight_environment_skill-21133058
+    name: HG精密
+    desc: 場のHG人形が2体以上の場合、3秒目から6秒ごとに、すべてのHG人形に「精密」を1つ付与する
     if_display: 1
     code: Rouge_591303
     skill_group: "778028"
   }
   {
     id: 1133059
-    name: fight_environment_skill-11133059
-    desc: fight_environment_skill-21133059
+    name: HG会心
+    desc: 場のHG人形が2体以上の場合、3秒目から6秒ごとに、すべてのHG人形に「会心」を1つ付与する
     if_display: 1
     code: Rouge_591304
     skill_group: "778029"
   }
   {
     id: 1133060
-    name: fight_environment_skill-11133060
-    desc: fight_environment_skill-21133060
+    name: MG精密
+    desc: 場のMG人形が2体以上の場合、3秒目から6秒ごとに、すべてのMG人形に「精密」を1つ付与する
     if_display: 1
     code: Rouge_591401
     skill_group: "778030"
   }
   {
     id: 1133061
-    name: fight_environment_skill-11133061
-    desc: fight_environment_skill-21133061
+    name: MG会心
+    desc: 場のMG人形が2体以上の場合、3秒目から6秒ごとに、すべてのMG人形に「会心」を1つ付与する
     if_display: 1
     code: Rouge_591402
     skill_group: "778031"
   }
   {
     id: 1133062
-    name: fight_environment_skill-11133062
-    desc: fight_environment_skill-21133062
+    name: MG強化
+    desc: 場のMG人形が2体以上の場合、3秒目から6秒ごとに、すべてのMG人形に「強化」を1つ付与する
     if_display: 1
     code: Rouge_591403
     skill_group: "778032"
   }
   {
     id: 1133063
-    name: fight_environment_skill-11133063
-    desc: fight_environment_skill-21133063
+    name: 空襲小隊
+    desc: 場のMG人形が2体以上の場合、3秒目から6秒ごとに「空襲」を行い、すべての敵に対し、2000の防御無視&リンク保護無視ダメージを与える
     if_display: 1
     code: Rouge_591404
     skill_group: "778033"
   }
   {
     id: 1133064
-    name: fight_environment_skill-11133064
-    desc: fight_environment_skill-21133064
+    name: SG集中
+    desc: 場のSG人形が2体以上の場合、3秒目から6秒ごとに、すべての人形に「集中」を1つ付与する
     if_display: 1
     code: Rouge_591501
     skill_group: "778034"
   }
   {
     id: 1133065
-    name: fight_environment_skill-11133065
-    desc: fight_environment_skill-21133065
+    name: SG耐性
+    desc: 場のSG人形が2体以上の場合、3秒目から6秒ごとに、すべての人形に「耐性」を1つ付与する
     if_display: 1
     code: Rouge_591502
     skill_group: "778035"
   }
   {
     id: 1133066
-    name: fight_environment_skill-11133066
-    desc: fight_environment_skill-21133066
+    name: 破甲攻撃
+    desc: 場のSG人形が1体以上の場合、3秒目から6秒ごとに、ランダムの敵3体に「装甲破壊」を1つ付与する
     if_display: 1
     code: Rouge_591503
     skill_group: "778036"
   }
   {
     id: 1133067
-    name: fight_environment_skill-11133067
-    desc: fight_environment_skill-21133067
+    name: スタン攻撃
+    desc: 場のSG人形が1体以上の場合、3秒目から6秒ごとに、ランダムの敵3体に「スタン」を1つ付与する
     if_display: 1
     code: Rouge_591504
     skill_group: "778037"
   }
   {
     id: 1133068
-    name: fight_environment_skill-11133068
-    desc: fight_environment_skill-21133068
+    name: バレットパニック
+    desc: アグレッシブのスキル効果および持続時間が大幅に上昇
     if_display: 1
     code: Rouge_592001
     skill_group: "778182"
   }
   {
     id: 1133069
-    name: fight_environment_skill-11133069
-    desc: fight_environment_skill-21133069
+    name: 英雄作成
+    desc: アグレッシブの持続時間内、6秒ごとに人形全員に「集中」を1つ付与する
     if_display: 1
     code: Rouge_592002
     skill_group: "778184"
   }
   {
     id: 1133070
-    name: fight_environment_skill-11133070
-    desc: fight_environment_skill-21133070
+    name: 際限なき怒り
+    desc: フュリオスのスキル効果および持続時間が大幅に上昇
     if_display: 1
     code: Rouge_592003
     skill_group: "778186"
   }
   {
     id: 1133071
-    name: fight_environment_skill-11133071
-    desc: fight_environment_skill-21133071
+    name: 無慈悲な怒り
+    desc: フュリオスの持続時間内、6秒ごとに人形全員に「会心」を1つ付与する
     if_display: 1
     code: Rouge_592004
     skill_group: "778188"
   }
   {
     id: 1133072
-    name: fight_environment_skill-11133072
-    desc: fight_environment_skill-21133072
+    name: 機械の砦
+    desc: ライオットシールドのスキル効果および持続時間が大幅に上昇
     if_display: 1
     code: Rouge_592101
     skill_group: "778190"
   }
   {
     id: 1133073
-    name: fight_environment_skill-11133073
-    desc: fight_environment_skill-21133073
+    name: 多面防御
+    desc: ライオットシールドの持続時間内、6秒ごとにSG人形に「耐性」を1つ付与する
     if_display: 1
     code: Rouge_592102
     skill_group: "778192"
   }
   {
     id: 1133074
-    name: fight_environment_skill-11133074
-    desc: fight_environment_skill-21133074
+    name: 偏向シールド
+    desc: エネルギーシールドの効果が強化され、シールド持続時間中、被ダメージが10%軽減される
     if_display: 1
     code: Rouge_592103
     skill_group: "778194"
   }
   {
     id: 1133075
-    name: fight_environment_skill-11133075
-    desc: fight_environment_skill-21133075
+    name: チャージシールド
+    desc: エネルギーシールド持続時間中、5秒ごとにシールドを持つ人形の回避を20%上昇させ、シールドを持たない人形にその最大HP5%分のシールドを付与する。回避上昇効果はシールドが消えるまで持続する。
     if_display: 1
     code: Rouge_592104
     skill_group: "778196"
   }
   {
     id: 1133076
-    name: fight_environment_skill-11133076
-    desc: fight_environment_skill-21133076
+    name: 静止障壁
+    desc: 臨時装甲使用時、追加で前列の人形の被ダメージを60秒間10%軽減させる
     if_display: 1
     code: Rouge_592105
     skill_group: "778198"
   }
   {
     id: 1133077
-    name: fight_environment_skill-11133077
-    desc: fight_environment_skill-21133077
+    name: 守りの殻
+    desc: 臨時装甲使用時、追加で前列の人形にその最大HP20%分のシールドを付与する
     if_display: 1
     code: Rouge_592106
     skill_group: "778200"
   }
   {
     id: 1133078
-    name: fight_environment_skill-11133078
-    desc: fight_environment_skill-21133078
+    name: 共同誘導
+    desc: 挑発ドローン使用時、追加でドローンを1機呼び出し、ドローンの被ダメージを30%軽減させる
     if_display: 1
     code: fight_skill_buff101
     skill_group: "900107"
   }
   {
     id: 1133079
-    name: fight_environment_skill-11133079
-    desc: fight_environment_skill-21133079
+    name: サプライズ
+    desc: ドローンが撃破された場合「砲撃」を行い、一定範囲内の敵に対し6000の防御無視&リンク保護無視ダメージを与える
     if_display: 1
     code: fight_skill_buff101
     skill_group: "900107"
   }
   {
     id: 1133080
-    name: fight_environment_skill-11133080
-    desc: fight_environment_skill-21133080
+    name: 狙撃誘導
+    desc: 「狙撃」の発動頻度を上げる
     if_display: 1
     code: Rouge_592201
     skill_group: "778106"
   }
   {
     id: 1133081
-    name: fight_environment_skill-11133081
-    desc: fight_environment_skill-21133081
+    name: 傷口に塩
+    desc: 「装甲破壊」を付与された目標に対する「狙撃」のダメージが50%上昇する
     if_display: 1
     code: Rouge_592202
     skill_group: "778109"
   }
   {
     id: 1133082
-    name: fight_environment_skill-11133082
-    desc: fight_environment_skill-21133082
+    name: 砲撃誘導
+    desc: 「砲撃」の発動頻度を上げる
     if_display: 1
     code: Rouge_592203
     skill_group: "778112"
   }
   {
     id: 1133083
-    name: fight_environment_skill-11133083
-    desc: fight_environment_skill-21133083
+    name: 泣きっ面に蜂
+    desc: 「スタン」を付与された目標に対する「砲撃」のダメージが50%上昇する
     if_display: 1
     code: Rouge_592204
     skill_group: "778115"
   }
   {
     id: 1133084
-    name: fight_environment_skill-11133084
-    desc: fight_environment_skill-21133084
+    name: 空襲誘導
+    desc: 「空襲」の発動頻度を上げる
     if_display: 1
     code: Rouge_592205
     skill_group: "778118"
   }
   {
     id: 1133085
-    name: fight_environment_skill-11133085
-    desc: fight_environment_skill-21133085
+    name: 火事場の泥棒
+    desc: 「燃焼」を付与された目標に対する「空襲」のダメージが50%上昇する
     if_display: 1
     code: Rouge_592206
     skill_group: "778121"

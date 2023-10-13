@@ -637,6 +637,24 @@
     rank: 1
   }
   {
+    id: 124
+    type: 3
+    arg: "25"
+    code: Medal_TheaterJPAdd1st
+    item_name: 域外局地戦区開拓者勲章
+    introduction: 域外局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「どんな甚しい災禍でも、あなたの栄光を飾る勲章になるだろう」
+    rank: 1
+  }
+  {
+    id: 125
+    type: 3
+    arg: "26"
+    code: Medal_TheaterJPAdd1st_rank
+    item_name: 域外局地戦区征服者勲章
+    introduction: 域外局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「今こそ邁進する時！霧を払い、光となれ！」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -711,6 +729,15 @@
     code: CentreDataPP93
     item_name: 中枢データ:PP93
     introduction: 重装部隊PP93のデータの欠片。-「質問！いち早く海から上がった私たちは一味！では――」-「浜辺目標エリアの敵は葉巻。もう何度目よこのダジャレ！」
+    rank: 1
+  }
+  {
+    id: 309
+    type: 1
+    arg: "1"
+    code: CentreDataMK47
+    item_name: 中枢データ：Mk 47
+    introduction: 重装部隊Mk 47のデータの欠片。-「火力掃射サービス、準備完了です。今回もいつも通り――」-「待って、敵の数が予想を上回っているわ……旦那、あとで追加料金ね」
     rank: 1
   }
   {
@@ -11350,6 +11377,60 @@
     rank: 1
   }
   {
+    id: 2175
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2022_M327
+    item_name: 付き纏うかの影
+    introduction: 付き纏うかの影
+    rank: 1
+  }
+  {
+    id: 2176
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2022_KH2002
+    item_name: 地獄先遣隊
+    introduction: 地獄先遣隊
+    rank: 1
+  }
+  {
+    id: 2177
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2022_JS9mm
+    item_name: 竹林の銀の鱗
+    introduction: 竹林の銀の鱗
+    rank: 1
+  }
+  {
+    id: 2178
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2022_PPQ
+    item_name: 指先から生れるもの
+    introduction: 指先から生れるもの
+    rank: 1
+  }
+  {
+    id: 2179
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2022_StenMK2
+    item_name: お菓子取ったの誰だ？
+    introduction: お菓子取ったの誰だ？
+    rank: 1
+  }
+  {
+    id: 2181
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2022_G43
+    item_name: 夜の女伯爵
+    introduction: 夜の女伯爵
+    rank: 1
+  }
+  {
     id: 2183
     type: 5
     arg: "1"
@@ -12086,6 +12167,24 @@
     rank: 1
   }
   {
+    id: 2331
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Saiga12
+    item_name: IDカード背景：緋色の際
+    introduction: IDカード背景：緋色の際
+    rank: 1
+  }
+  {
+    id: 2332
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Saiga12
+    item_name: 浴槽の波
+    introduction: 浴槽の波
+    rank: 1
+  }
+  {
     id: 2345
     type: 5
     arg: "1"
@@ -12739,6 +12838,33 @@
     code: qjyd_20220903
     item_name: 金色の伝説
     introduction: 勝者は賞杯を高く掲げ、すべての注目がここに集まる――輝く光に見届けられる中、少女たちは伝説を紡ぐ。
+    rank: 1
+  }
+  {
+    id: 7042
+    type: 7
+    arg: "7042"
+    code: qjyd_20230101
+    item_name: フリー
+    introduction: 向こうの陣形を見ろ、大したことないぞ！必要なディフェンス以外、俺たちのやるべきことはただ三つ――オフェンス！オフェンス！そしてオフェンスだ！
+    rank: 1
+  }
+  {
+    id: 7043
+    type: 7
+    arg: "7043"
+    code: qjyd_20230102
+    item_name: ハットトリック
+    introduction: 最初のゴールを決めても、相手はまだチャンスがあると思う。二回目のゴールを決めても、相手はまだ作戦を練り、立て直そうとする。でも、三回目のゴールなら……相手のゴールキーパーはそろそろカウンセリングに行きたくなっているかもな。
+    rank: 1
+  }
+  {
+    id: 7044
+    type: 7
+    arg: "7044"
+    code: qjyd_20230103
+    item_name: 世界に銘記されるゴール
+    introduction: ゴール！ゴ――ルッ！！決まったァァァ！！！さぁ、このゴールを決めた選手の今の表情は――笑っている！なんて眩しい笑顔だ！！！
     rank: 1
   }
   {
@@ -15291,6 +15417,26 @@
     detail_introduction: item-30140018
   }
   {
+    id: 140019
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140019
+    introduction: item-20140019
+    rank: 1
+    detail_introduction: item-30140019
+  }
+  {
+    id: 140020
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140020
+    introduction: item-20140020
+    rank: 1
+    detail_introduction: item-30140020
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -15473,6 +15619,15 @@
     code: profileFrame_BattlePass_QBZ191
     item_name: アイコンフレーム：夏隣り
     introduction: アイコンフレーム：夏隣り
+    rank: 1
+  }
+  {
+    id: 200026
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Saiga12
+    item_name: アイコンフレーム：泡沫の私語
+    introduction: アイコンフレーム：泡沫の私語
     rank: 1
   }
   {
@@ -16406,6 +16561,46 @@
     id: 1500077
     type: 15
     arg: "1500077"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500081
+    type: 15
+    arg: "1500081"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500082
+    type: 15
+    arg: "1500082"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500083
+    type: 15
+    arg: "1500083"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500084
+    type: 15
+    arg: "1500084"
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。

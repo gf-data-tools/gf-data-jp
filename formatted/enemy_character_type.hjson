@@ -2308,6 +2308,7 @@
   {
     id: 10097
     type: 3
+    name: ロシアン・マフィア
     enemy_info: 俄罗斯黑帮
     code: RussianGangster_HG
     maxlife: 2600
@@ -2321,6 +2322,7 @@
     rate: 40
     def: 99999
     level: 30100
+    character: ノーマル
     normal_attack: 755242
     passive_skill: "755243,200304"
     effect_ratio: 1
@@ -2427,6 +2429,7 @@
   {
     id: 10102
     type: 4
+    name: リュカオン
     enemy_info: AA-02简化版
     code: AA02_Mini
     maxlife: 16000
@@ -2442,6 +2445,7 @@
     rate: 30
     def: 99999
     level: 100
+    character: 脅威,大型,複数攻撃,範囲ダメージ
     normal_attack: 755226
     passive_skill: "755218,200304,119019"
     effect_ratio: 1
@@ -2453,6 +2457,7 @@
   {
     id: 10103
     type: 4
+    name: アイギス
     enemy_info: 防护机械
     code: Chariot_Military
     maxlife: 46000
@@ -2467,6 +2472,7 @@
     rate: 20
     def: 99999
     level: 100
+    character: エリート,脅威,大型
     normal_attack: 755229
     passive_skill: "755219,755220,755227,755228,755230,119020"
     effect_ratio: 1
@@ -2478,6 +2484,7 @@
   {
     id: 10104
     type: 3
+    name: キュクロープス_MG
     enemy_info: 独眼巨人(机枪型）
     code: Cyclops_MG
     maxlife: 650
@@ -2492,6 +2499,7 @@
     rate: 50
     def: 99999
     level: 100
+    character: エリート,連射,破甲
     normal_attack: 755221
     passive_skill: "755222,755223,755224,755225"
     effect_ratio: 1
@@ -2501,6 +2509,7 @@
   {
     id: 10105
     type: 4
+    name: ケリュネティスSWAP
     enemy_info: 军方连射装甲加强版
     code: Cerynitis_SWAP
     maxlife: 680
@@ -2515,6 +2524,7 @@
     rate: 30
     def: 99999
     level: 100
+    character: 脅威,装甲
     normal_attack: 755245
     passive_skill: "200303,200304,119019,755246,755247"
     effect_ratio: 0.87
@@ -2524,6 +2534,7 @@
   {
     id: 10106
     type: 5
+    name: イージス_GA_SWAP
     enemy_info: 军方重甲人形加强版
     code: Aegis_GA_SWAP
     maxlife: 2850
@@ -2537,6 +2548,7 @@
     rate: 40
     def: 99999
     level: 100
+    character: 近接,装甲,シールド
     normal_attack: 310202
     passive_skill: "200304,310201,755244"
     effect_ratio: 1.17
@@ -6760,7 +6772,6 @@
   {
     id: 20000
     type: 2
-    name: Don't translate
     enemy_info: 2017夏活兔洞头像
     code: SangvisFerri2017S
     def: 99999
@@ -6989,7 +7000,6 @@
   {
     id: 80001
     type: 3
-    name: Don't translate
     enemy_info: 盾牌娘
     code: BH2_Shield
     maxlife: 2569
@@ -7010,7 +7020,6 @@
   {
     id: 80002
     type: 3
-    name: Don't translate
     enemy_info: 普通娘
     code: BH2_Normal
     maxlife: 924
@@ -7032,7 +7041,6 @@
   {
     id: 80003
     type: 3
-    name: Don't translate
     enemy_info: 射手娘
     code: BH2_Archer
     maxlife: 397
@@ -7054,7 +7062,6 @@
   {
     id: 80004
     type: 3
-    name: Don't translate
     enemy_info: 自爆娘
     code: BH2_Burst
     maxlife: 1500
@@ -7075,7 +7082,6 @@
   {
     id: 80005
     type: 3
-    name: Don't translate
     enemy_info: 自爆娘plus
     code: BH2_Burst
     maxlife: 75000
@@ -7096,7 +7102,6 @@
   {
     id: 88888
     type: 3
-    name: Don't translate
     enemy_info: 独眼巨人(步枪型）-秒杀标记
     code: Cyclops
     maxlife: 1000
@@ -7115,7 +7120,6 @@
   {
     id: 88889
     type: 3
-    name: Don't translate
     enemy_info: 铁血骑兵-M4演出
     code: Cyclops
     maxlife: 1000
@@ -7134,7 +7138,6 @@
   {
     id: 88890
     type: 3
-    name: Don't translate
     enemy_info: 铁血骑兵-M16演出
     code: Cyclops
     maxlife: 1000
@@ -7945,6 +7948,7 @@
   {
     id: 800009
     type: 2
+    name: ミズ・イヴ
     enemy_info: 伊芙-100昼战区
     code: Nyto_mecha
     maxlife: 450000
@@ -7959,7 +7963,7 @@
     rate: 40
     def: 6000
     level: 100
-    character: エリート,貫通
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029"
     effect_ratio: 1
@@ -7970,6 +7974,7 @@
   {
     id: 800010
     type: 2
+    name: マザー・リューバ
     enemy_info: 柳芭老妈-100昼战区
     code: Oldlady_boss
     maxlife: 300000
@@ -17089,6 +17094,7 @@
     boss_hp: 990000
     def: 99999
     level: 100
+    character: エリート,大型,装甲,支援,弱化
     normal_attack: 406304
     passive_skill: "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755248,755249"
     effect_ratio: 0.66
@@ -17100,6 +17106,7 @@
   {
     id: 900358
     type: 1
+    name: ミズ・イヴ
     enemy_info: 70级20%提升版30%血撤退
     code: Nyto_mecha
     maxlife: 8200
@@ -17115,6 +17122,7 @@
     boss_hp: 8200
     def: 300
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755250,119029"
     effect_ratio: 1
@@ -17125,6 +17133,7 @@
   {
     id: 900359
     type: 1
+    name: ミズ・イヴ
     enemy_info: 105级20%提升版30%血撤退
     code: Nyto_mecha
     maxlife: 160000
@@ -17140,6 +17149,7 @@
     boss_hp: 160000
     def: 5000
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755250,119029"
     effect_ratio: 1
@@ -17150,6 +17160,7 @@
   {
     id: 900360
     type: 1
+    name: ミズ・イヴ
     enemy_info: 140级20%提升版30%血撤退
     code: Nyto_mecha
     maxlife: 520000
@@ -17165,6 +17176,7 @@
     boss_hp: 520000
     def: 7000
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755250,119029"
     effect_ratio: 1
@@ -17175,6 +17187,7 @@
   {
     id: 900361
     type: 1
+    name: ミズ・イヴ
     enemy_info: 130级-22年夏活夜战秃洞
     code: Nyto_mecha
     maxlife: 220000
@@ -17190,6 +17203,7 @@
     boss_hp: 220000
     def: 6000
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029"
     effect_ratio: 1
@@ -17217,6 +17231,7 @@
     boss_hp: 420000
     def: 99999
     level: 100
+    character: エリート,大型,装甲,支援,弱化
     normal_attack: 406304
     passive_skill: "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755248"
     effect_ratio: 0.66
@@ -17228,6 +17243,7 @@
   {
     id: 900363
     type: 1
+    name: ミズ・イヴ
     enemy_info: 70级-【开场无敌】30%血撤退
     code: Nyto_mecha
     maxlife: 12000
@@ -17243,6 +17259,7 @@
     boss_hp: 12000
     def: 500
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755249,755250,119029"
     effect_ratio: 1
@@ -17253,6 +17270,7 @@
   {
     id: 900364
     type: 1
+    name: ミズ・イヴ
     enemy_info: 110级-【开场无敌】30%血撤退
     code: Nyto_mecha
     maxlife: 185000
@@ -17268,6 +17286,7 @@
     boss_hp: 185000
     def: 5000
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755249,755250,119029"
     effect_ratio: 1
@@ -17278,6 +17297,7 @@
   {
     id: 900365
     type: 1
+    name: ミズ・イヴ
     enemy_info: 140级-【开场无敌】30%血撤退
     code: Nyto_mecha
     maxlife: 520000
@@ -17293,6 +17313,7 @@
     boss_hp: 520000
     def: 7000
     level: 100
+    character: エリート,貫通,大型
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755249,755250,119029"
     effect_ratio: 1
@@ -17303,6 +17324,7 @@
   {
     id: 900366
     type: 1
+    name: マザー・リューバ
     enemy_info: 135级昼战
     code: Oldlady_boss
     maxlife: 1200000
@@ -17317,6 +17339,7 @@
     boss_hp: 1200000
     def: 99999
     level: 100
+    character: エリート,必殺
     normal_attack: 755231
     passive_skill: "755232,755233,755234,755235,755236,119029"
     effect_ratio: 0.4
@@ -17327,6 +17350,7 @@
   {
     id: 900367
     type: 1
+    name: エクスキューショナー-ブラッドハンター
     enemy_info: 捕获Boss
     code: Excutioner_Halloween
     maxlife: 90000
@@ -17342,6 +17366,7 @@
     boss_hp: 90000
     def: 1200
     level: 100
+    character: エリート,エクスキューショナー
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029"
@@ -17353,7 +17378,7 @@
   {
     id: 900368
     type: 1
-    name: enemy_character_type-20900368
+    name: タレウス
     enemy_info: 捕获Boss
     code: Nyto_tareus
     maxlife: 100000
@@ -17369,19 +17394,18 @@
     boss_hp: 100000
     def: 6000
     level: 100
-    character: enemy_character_type-10900368
+    character: エリート,貫通
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900368
     enemy_illustration_id: 176
   }
   {
     id: 900369
     type: 1
-    name: enemy_character_type-20900369
+    name: 失格異性体
     enemy_info: 复刻终焉花海140级夜
     code: Nyto_Isomer_White
     maxlife: 220000
@@ -17398,20 +17422,19 @@
     boss_hp: 220000
     def: 9000
     level: 100
-    character: enemy_character_type-10900369
+    character: エリート,装甲,失格異性体
     normal_attack: 404801
     passive_skill: "404802,404803,404848,404849,404850,404908,404910,404911,404912,404913,404914,404920,404901,119029"
     effect_ratio: 0.63
     unable_buff_type: "221"
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900369
     enemy_illustration_id: 68
   }
   {
     id: 900501
     type: 1
-    name: enemy_character_type-20900501
+    name: クラスター従者
     enemy_info: 稻草人110AR1
     code: Scarecrow
     maxlife: 510000
@@ -17426,19 +17449,18 @@
     boss_hp: 510000
     def: 99999
     level: 100
-    character: enemy_character_type-10900501
+    character: エリート,スケアクロウ
     normal_attack: 300303
     passive_skill: "400101,119029"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900501
     enemy_illustration_id: 182
   }
   {
     id: 900502
     type: 1
-    name: enemy_character_type-20900502
+    name: クラスター従者
     enemy_info: 稻草人115AR2
     code: Scarecrow
     maxlife: 690000
@@ -17453,19 +17475,18 @@
     boss_hp: 690000
     def: 99999
     level: 100
-    character: enemy_character_type-10900502
+    character: エリート,スケアクロウ
     normal_attack: 300303
     passive_skill: "400101,119029"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900502
     enemy_illustration_id: 182
   }
   {
     id: 900503
     type: 1
-    name: enemy_character_type-20900503
+    name: 加重騎士
     enemy_info: 计量官120AR2
     code: BossGager
     maxlife: 990000
@@ -17481,19 +17502,18 @@
     boss_hp: 990000
     def: 99999
     level: 100
-    character: enemy_character_type-10900503
+    character: エリート,ゲーガー
     normal_attack: 300301
     passive_skill: "401001,401002,401003,401004,401005,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900503
     enemy_illustration_id: 183
   }
   {
     id: 900504
     type: 1
-    name: enemy_character_type-20900504
+    name: 加重騎士
     enemy_info: 计量官120AR3
     code: BossGager
     maxlife: 990000
@@ -17509,19 +17529,18 @@
     boss_hp: 990000
     def: 99999
     level: 100
-    character: enemy_character_type-10900504
+    character: エリート,ゲーガー
     normal_attack: 300301
     passive_skill: "401001,401002,401003,401004,401005,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900504
     enemy_illustration_id: 183
   }
   {
     id: 900505
     type: 1
-    name: enemy_character_type-20900505
+    name: 極値ぬいぐるみ
     enemy_info: 建筑师125AR3
     code: BossArchitect
     maxlife: 980000
@@ -17537,19 +17556,18 @@
     boss_hp: 980000
     def: 99999
     level: 100
-    character: enemy_character_type-10900505
+    character: エリート,アーキテクト,装甲
     normal_attack: 300307
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900505
     enemy_illustration_id: 184
   }
   {
     id: 900506
     type: 1
-    name: enemy_character_type-20900506
+    name: ガウス指揮
     enemy_info: 代理人130AR3
     code: Agent
     maxlife: 1480000
@@ -17564,19 +17582,18 @@
     boss_hp: 1480000
     def: 99999
     level: 100
-    character: enemy_character_type-10900506
+    character: エリート,エージェント
     normal_attack: 402905
     passive_skill: "402901,402915,402916,402917,402906,402907,402908,402918,119029"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900506
     enemy_illustration_id: 185
   }
   {
     id: 900507
     type: 1
-    name: enemy_character_type-20900507
+    name: 離散測量士
     enemy_info: 刽子手110RF1
     code: Excutioner
     maxlife: 750000
@@ -17591,20 +17608,19 @@
     boss_hp: 750000
     def: 99999
     level: 100
-    character: enemy_character_type-10900507
+    character: エリート,エクスキューショナー,装甲
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900507
     enemy_illustration_id: 186
   }
   {
     id: 900508
     type: 1
-    name: enemy_character_type-20900508
+    name: 離散測量士
     enemy_info: 刽子手115RF2
     code: Excutioner
     maxlife: 1015000
@@ -17619,20 +17635,19 @@
     boss_hp: 1015000
     def: 99999
     level: 100
-    character: enemy_character_type-10900508
+    character: エリート,エクスキューショナー,装甲
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900508
     enemy_illustration_id: 186
   }
   {
     id: 900509
     type: 1
-    name: enemy_character_type-20900509
+    name: 分散牧童
     enemy_info: 破坏者120RF2
     code: Destroyer
     maxlife: 930000
@@ -17649,19 +17664,18 @@
     boss_hp: 930000
     def: 99999
     level: 100
-    character: enemy_character_type-10900509
+    character: エリート,デストロイヤー
     normal_attack: 300304
     passive_skill: "402201,401911,401912,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900509
     enemy_illustration_id: 187
   }
   {
     id: 900510
     type: 1
-    name: enemy_character_type-20900510
+    name: 分散牧童
     enemy_info: 破坏者120RF3
     code: Destroyer
     maxlife: 930000
@@ -17678,19 +17692,18 @@
     boss_hp: 930000
     def: 99999
     level: 100
-    character: enemy_character_type-10900510
+    character: エリート,デストロイヤー
     normal_attack: 300304
     passive_skill: "402201,401911,401912,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900510
     enemy_illustration_id: 187
   }
   {
     id: 900511
     type: 1
-    name: enemy_character_type-20900511
+    name: 尤度近衛
     enemy_info: 衔尾蛇125RF3
     code: Weaver
     maxlife: 1050000
@@ -17706,20 +17719,19 @@
     boss_hp: 1050000
     def: 99999
     level: 100
-    character: enemy_character_type-10900511
+    character: エリート,ウロボロス,装甲
     special_attack: 5
     normal_attack: 300323
     passive_skill: "401101,400701,401104,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900511
     enemy_illustration_id: 188
   }
   {
     id: 900512
     type: 1
-    name: enemy_character_type-20900512
+    name: カオスシンガー
     enemy_info: 梦想家130RF3
     code: Dreamer
     maxlife: 1395000
@@ -17735,19 +17747,18 @@
     boss_hp: 1395000
     def: 99999
     level: 100
-    character: enemy_character_type-10900512
+    character: エリート,ドリーマー
     normal_attack: 300311
     passive_skill: "119029"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900512
     enemy_illustration_id: 189
   }
   {
     id: 900513
     type: 1
-    name: enemy_character_type-20900513
+    name: 事後紡績工
     enemy_info: 猎手110MG1
     code: Hunter
     maxlife: 545000
@@ -17762,19 +17773,18 @@
     boss_hp: 545000
     def: 99999
     level: 100
-    character: enemy_character_type-10900513
+    character: エリート,ハンター,装甲
     normal_attack: 300302
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900513
     enemy_illustration_id: 190
   }
   {
     id: 900514
     type: 1
-    name: enemy_character_type-20900514
+    name: 事後紡績工
     enemy_info: 猎手115MG2
     code: Hunter
     maxlife: 740000
@@ -17789,19 +17799,18 @@
     boss_hp: 740000
     def: 99999
     level: 100
-    character: enemy_character_type-10900514
+    character: エリート,ハンター,装甲
     normal_attack: 300302
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900514
     enemy_illustration_id: 190
   }
   {
     id: 900515
     type: 1
-    name: enemy_character_type-20900515
+    name: シフト祭祀
     enemy_info: 炼金术士120MG2
     code: Alchemist
     maxlife: 1160000
@@ -17816,20 +17825,19 @@
     boss_hp: 1160000
     def: 99999
     level: 100
-    character: enemy_character_type-10900515
+    character: エリート,アルケミスト
     special_attack: 6
     normal_attack: 300306
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900515
     enemy_illustration_id: 191
   }
   {
     id: 900516
     type: 1
-    name: enemy_character_type-20900516
+    name: シフト祭祀
     enemy_info: 炼金术士120MG3
     code: Alchemist
     maxlife: 1160000
@@ -17844,20 +17852,19 @@
     boss_hp: 1160000
     def: 99999
     level: 100
-    character: enemy_character_type-10900516
+    character: エリート,アルケミスト
     special_attack: 6
     normal_attack: 300306
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900516
     enemy_illustration_id: 191
   }
   {
     id: 900517
     type: 1
-    name: enemy_character_type-20900517
+    name: 変動修道士
     enemy_info: 干扰者125MG3
     code: Intruder
     maxlife: 1190000
@@ -17872,20 +17879,19 @@
     boss_hp: 1190000
     def: 99999
     level: 100
-    character: enemy_character_type-10900517
+    character: エリート,イントゥルーダー
     special_attack: 7
     normal_attack: 300314
     passive_skill: "400401,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900517
     enemy_illustration_id: 192
   }
   {
     id: 900518
     type: 1
-    name: enemy_character_type-20900518
+    name: 収斂愚者
     enemy_info: 法官130MG3
     code: Justice
     maxlife: 1970000
@@ -17901,19 +17907,18 @@
     boss_hp: 1970000
     def: 99999
     level: 100
-    character: enemy_character_type-10900518
+    character: エリート,ジャッジ,装甲
     normal_attack: 300327
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900518
     enemy_illustration_id: 193
   }
   {
     id: 900519
     type: 1
-    name: enemy_character_type-20900519
+    name: 事後紡績工
     enemy_info: 猎手135BoSS
     code: Hunter
     maxlife: 1505000
@@ -17928,19 +17933,18 @@
     boss_hp: 1505000
     def: 99999
     level: 100
-    character: enemy_character_type-10900519
+    character: エリート,ハンター,装甲
     normal_attack: 300302
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900519
     enemy_illustration_id: 190
   }
   {
     id: 900520
     type: 1
-    name: enemy_character_type-20900520
+    name: 離散測量士
     enemy_info: 刽子手145BoSS
     code: Excutioner
     maxlife: 2600000
@@ -17955,20 +17959,19 @@
     boss_hp: 2600000
     def: 99999
     level: 100
-    character: enemy_character_type-10900520
+    character: エリート,エクスキューショナー,装甲
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900520
     enemy_illustration_id: 186
   }
   {
     id: 900521
     type: 1
-    name: enemy_character_type-20900521
+    name: 来る年のナイトメア
     enemy_info: 年兽稻草人150BoSS
     code: Scarecrow_SpringFes
     maxlife: 2950000
@@ -17983,13 +17986,12 @@
     boss_hp: 2950000
     def: 99999
     level: 100
-    character: enemy_character_type-10900521
+    character: エリート
     normal_attack: 120301
     passive_skill: "120304,120305,120307,120308,119029,120302,120313,120309"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900521
     enemy_illustration_id: 194
   }
   {
@@ -19079,7 +19081,6 @@
   {
     id: 993701
     type: 2
-    name: Don't translate
     enemy_info: 靶机二
     code: Rogue_M
     maxlife: 20000

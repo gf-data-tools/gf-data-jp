@@ -16,6 +16,17 @@ NUM,14,14,,0
 NUM,15,15,,0
 NUM,16,Skill CD ,,0
 NUM,17,Lv.,,0
+NUM,18,涓ｇtodo),,0
+NUM,19,机台上的特殊按钮让人好奇，走近一看，按钮边写着“派对模式启动！”(todo),,0
+NUM,20,被这里的香气吸引，好奇什么人才会在机动装甲上安装扩香器装置。(todo),,0
+NUM,21,由于装甲配置比较独特，Ta仔细做了手抄记录，却把便签忘在了地台上。(todo),,0
+NUM,22,用手指摸了一下机动装甲，就能判断出它是刚从哪个战场回来了，同时也能判断出它的主人不太讲究。(todo),,0
+NUM,23,认为这台机动装甲的配置不够灵动，于是给它挂上了一串铃铛。(todo),,0
+NUM,24,在这里看了一会儿，贴了个纸条，邀请互赞。(todo),,0
+NUM,25,惊讶地发现，这里的操作机械臂有个SPA模式，Ta很想亲自试一下。(todo),,0
+NUM,26,绕了一圈，看到机动装甲上贴了一张留言条，上面写着“请勿张贴纸条”。(todo),,0
+NUM,27,发现刚才操作机械臂举着蛋糕，难道今天是这台机动装甲的生日？(todo),,0
+NUM,28,在格纳库的角落里堆着试做组件的原型，似乎还有个带冰激凌机功能的雷射测距仪。(todo),,0
 COMMON,1000,Gifts,,0
 COMMON,1001,Costume,,0
 COMMON,1002,EXP,,0
@@ -791,7 +802,25 @@ COMMON,1792,鎸囨尌瀹橈紝寰堥珮鍏村啀娆＄浉閬嗙todo),,0
 COMMON,1793,鎺ㄨ崘姊?槦(todo),,0
 COMMON,1794,濂逛滑鍦ㄧ瓑寰呯潃浣狅紝绛夊緟浣犱笌濂逛滑缂旂粨瑾撶害(todo),,0
 COMMON,1795,浣犺繕鏈?綋楠岃繃鎹曡幏铻嶅悎鍔垮姏瑙掕壊(todo),,0
+COMMON,1796,*鐢ㄦ椂缂╁噺(todo),,0
+COMMON,1797,璁?粌娆℃暟(todo),,0
+COMMON,1798,鏆備笉鍙?敤(todo),,0
+COMMON,1799,瑙ｉ攣涓?todo),,0
+COMMON,1806,閲嶆?浼ゅ?(todo),,0
+COMMON,1807,杞绘?浼ゅ?(todo),,0
+COMMON,1808,閲嶆?绌跨敳(todo),,0
+COMMON,1809,杞绘?绌跨敳(todo),,0
+COMMON,1810,鑳芥簮(todo),,0
+COMMON,1811,鑳芥簮涓婇檺(todo),,0
+COMMON,1812,璇ヨ?鑹查儴鍒嗗崗鍔╄呭舰鎬佸凡瑙ｉ攣锛屽彲鍓嶅線鍩哄湴绠＄悊鏌ョ湅銆佺todo),,0
+COMMON,1813,璇ュ舰璞￠儴鍒嗗崗鍔╄呭舰鎬佸凡瑙ｉ攣锛屽彲鍓嶅線鍩哄湴绠＄悊鏌ョ湅銆佺todo),,0
+COMMON,1814,閬撳叿閫夋嫨(todo),,0
+COMMON,1815,閫夋嫨閬撳叿(todo),,0
 COMMON,1816,火力小队拥有数(todo),,0
+COMMON,1817,鏈哄姩瑁呯敳鎷ユ湁鏁?todo),,0
+COMMON,1818,閮ㄩ槦瑙勬ā(todo),,0
+COMMON,1819,鏀?彺鑼冨洿(todo),,0
+COMMON,1820,澶滄垬瑙嗛噹(todo),,0
 BATTLE,10000,Retreat,,0
 BATTLE,10001,Withdraw,,0
 BATTLE,10002,WITHDRAW,,0
@@ -991,6 +1020,9 @@ BATTLE,10202,淇??(todo),,0
 BATTLE,10203,褰撳墠鎴樻枟澶辫触锛屽凡涓?柇浠ｇ悊浣滄垬銆佺todo),,0
 BATTLE,10204,灏勯熶笂闄忕todo),,0
 BATTLE,10205,鏀婚熶笂闄忕todo),,0
+BATTLE,10206,璇ュ崟浣嶆棤娉曡繘琛屾嫋鍔ㄦ搷浣溿佺todo),,0
+BATTLE,10207,鍐峰嵈鏃堕棿:鏃熺todo),,0
+BATTLE,10208,鍓嶇疆鍐峰嵈:鏃熺todo),,0
 CARNIVAL,11000,Progress,,0
 CARNIVAL,11001,Get reward,,0
 CARNIVAL,11002,GETREWARD,,0
@@ -1148,11 +1180,16 @@ HOME,20153,<color=#ffb400ff><size=48><b>鍥炲綊鍔╁姏锛欫/b></size></colo
 HOME,20154,<color=#ffb400ff><size=48><b>閭璇疯?鍒欙細</b></size></color>//n1.娲诲姩鏈熼棿锛屽洖褰掔帺瀹跺湪鍥炲綊閭璇烽〉绛惧唴濉?啓鎮ㄧ殑閭璇风爜鍒欒?涓洪個璇锋垚鍔燂紱//n2.姣忎綅鎸囨尌瀹樺彲浠ラ個璇蜂笁浣嶅洖褰掔帺瀹讹紝姣忓悕鍥炲綊鐜╁?浠呭彲鎺ュ彈涓浣嶆寚鎸ュ畼鐨勯個璇凤紱//n3.閭璇锋椿鍔ㄤ粎闄愬悓鏈嶅姟鍣ㄧ帺瀹躲侇/n//n<color=#ffb400ff><size=48><b>濂栧姳瑙勫垯锛欫/b></size></color>//n1.閭璇锋垚鍔熷悗锛岀?涓浠藉?鍔卞皢鐩存帴鍙戦佸埌鎮ㄧ殑閭??鍐咃紱//n2.鍚庣画濂栧姳闇瑕佽?閭璇风帺瀹剁殑鍥炲綊娲昏穬搴﹁В閿併佺todo),,0
 HOME,20155,鐏板煙鎺㈡煡(todo),,0
 HOME,20156,閲嶈繑鍩哄湴(todo),,0
+HOME,20157,鍓嶅線鑷?堢todo),,0
+HOME,20158,绌挎埓(todo),,0
+HOME,20159,宸茬┛鎴崇todo),,0
 HOME,20160,璇峰叧娉ㄦ父鎴忓唴娲诲姩(todo),,0
+HOME,20161,鍓嶅線閲囪喘(todo),,0
 HOME,20162,婵娲诲洖褰掑熀閲愮todo),,0
 HOME,20163,鑾峰緱10鍊嶈秴鍊艰繑鍒ㄧtodo),,0
 HOME,20164,*璐?拱鍚庣珛鍗宠幏寰椾互涓嬪?鍔扮todo),,0
 HOME,20165,鍓ф儏(todo),,0
+HOME,20166,鏈?綋(todo),,0
 DEPLOYMENT,30000,Deploy,,0
 DEPLOYMENT,30001,Move,,0
 DEPLOYMENT,30002,Swap,,0
@@ -1671,9 +1708,29 @@ DEPLOYMENT,30530,*鎺ㄨ崘鐏?姏灏忛槦鏄熺骇<Color=#FFB400FF>鈮?0}</Col
 DEPLOYMENT,30531,*璇ラ毦搴︿笅鍏冲崱鍙?兘瑕佹眰浣跨敤鐨勭伀鍔涘皬闃燂細(todo),,0
 DEPLOYMENT,30532,鐩?爣灏忔敾鐣ょtodo),,0
 DEPLOYMENT,30533,鑾峰緱鎶鑳肩todo),,0
-DEPLOYMENT,30534,褰撳墠浣滄垬璧勬簮涓嶈冻锛屽凡缁堟?浠ｇ悊浣滄垬(todo),,0
+DEPLOYMENT,30534,修理资源不足，终止代理作战(todo),,0
 DEPLOYMENT,30535,璧勬簮涓嶈冻锛屾棤娉曢儴缃插皬闃燂紒(todo),,0
+DEPLOYMENT,30536,鏄?惁鎵撳紑璁板綍涓婃?瀹屾垚鍏冲崱鏃堕暅澶寸缉鏀界todo),,0
+DEPLOYMENT,30537,宸茶В閿佺簿閿愯瘎绾︾todo),,0
+DEPLOYMENT,30538,鏉′欢宸茶揪鎴忕todo),,0
+DEPLOYMENT,30539,绮鹃攼璇勭骇(todo),,0
 DEPLOYMENT,30540,RPK16杈冧负寮哄姏璇风‘瀹氭墍鏈夊郡閫嗘垚鍛橀兘鍦ㄩ槦浼嶅綋涓?啀涓庡叾浜ゆ垬(todo),,0
+DEPLOYMENT,30541,璇ユ?闃熷湪鎾ら鍚庡皢鏃犳硶鍐嶆?閮ㄧ讲,,0
+DEPLOYMENT,30542,鐗规畩璇存槑(todo),,0
+DEPLOYMENT,30543,浠ｇ悊浣滄垬浣跨敤鏈哄姩瑁呯敳(todo),,0
+DEPLOYMENT,30544,*鎺ㄨ崘鏈哄姩瑁呯敳绛夌骇<Color=#FFB400FF>鈮?0}绾?/Color>(todo),,0
+DEPLOYMENT,30545,*鎺ㄨ崘鏈哄姩瑁呯敳绉戞妧鏍慃Color=#FFB400FF>鈮?0}</Color>(todo),,0
+DEPLOYMENT,30546,*璇ラ毦搴︿笅鍏冲崱鍙?兘瑕佹眰浣跨敤鐨勬満鍔ㄨ?鐢诧細(todo),,0
+DEPLOYMENT,30547,褰撳墠鍦轰笂瀛樺湪澶х牬姊?槦鏄?惁缁х画锛炵todo),,0
+DEPLOYMENT,30548,褰撳墠姊?槦绫诲瀷鏃犳硶杩涘叆璇ヨ矾寰勭偣銆佺todo),,0
+DEPLOYMENT,30549,褰撳墠鑳芥簮涓嶈冻锛屾棤娉曠Щ鍔ㄣ佺todo),,0
+DEPLOYMENT,30550,褰撳墠姊?槦鎵闇鐨勫脊鑽?佸彛绮?垨鑳芥簮涓嶈冻锛屾棤娉曞彂鍔ㄦ妧鑳肩todo),,0
+DEPLOYMENT,30551,缂栬緫闃靛瀷(todo),,0
+DEPLOYMENT,30552,鑷?韩閲嶈?(todo),,0
+DEPLOYMENT,30553,鏈哄姩瑁呯敳澶勪簬鎹熸瘉鐘舵侊紝闇瑕佷慨澶嶅悗鎵嶈兘閮ㄧ讲銆佺todo),,0
+DEPLOYMENT,30554,姊?槦璋冨害(todo),,0
+DEPLOYMENT,30555,场上存在无法部署的梯队，已自动撤离。(todo),,0
+DEPLOYMENT,30556,至少选择一个出战单位(todo),,0
 DORM,31000,Warehouse,,0
 DORM,31001,Warehouse,,0
 DORM,31002,Re-supply,,0
@@ -2217,11 +2274,24 @@ DORM,31957,浜哄舰濂芥劅搴ョtodo),,0
 DORM,31959,鐨?偆棰勮?(todo),,0
 DORM,31960,*璇ョ毊鑲ゅ凡鑾峰緱銆佺todo),,0
 DORM,31961,鏀惰棌鎹㈣?涓嶄細鑾峰緱濂芥劅搴︼紝鑾峰緱浜哄舰鍚庤?瑁呮壆浼氳嚜鍔ㄨВ閿併佺todo),,0
+DORM,31962,鏅嬪崌瀹屾垚(todo),,0
+DORM,31963,鏈夊彲鏅嬪崌鐨勭伀鍔涘皬缁冪todo),,0
+DORM,31964,褰撳墠鑳介噺(todo),,0
+DORM,31965,并发出由衷的赞美，机动装甲引擎用愉悦的轰鸣回应。(todo),,0
+DORM,31966,试图伸手触摸机动装甲，只见一行小字刻在机台上：剧毒！严禁触碰！(todo),,0
+DORM,31967,发现引擎盖上有点灰，用手抹去了，灰尘不会消失，只会从一个地方转移到另一个地方。(todo),,0
 DORM,31968,{0}参观了{1}的格纳库，(todo),,0
 DORM,31969,鏈墈0}鏉℃柊鐨勪俊鎭?todo),,0
 DORM,31970,璇ョ帺瀹舵湭寮鏀捐溅闂崇todo),,0
 DORM,31971,璇ョ帺瀹舵湭寮鏀惧?鑸岀todo),,0
 DORM,31972,璇ョ帺瀹舵殏鏈?В閿佹満鍔ㄨ?鐢辩todo),,0
+DORM,31973,鎿︿寒(todo),,0
+DORM,31974,鐨勮溅闂崇todo),,0
+DORM,31975,浜掑姩濂栧姳锛欫color=#ffb400>{0}/{1}</color>(todo),,0
+DORM,31976,逛了一圈后偷偷留下了一张便签，写着“到此一游”。(todo),,0
+DORM,31977,认为这间机库应该多播一点摇滚乐。(todo),,0
+DORM,31978,这台机动装甲组装得很有意思，Ta留下了一张贴纸，送上赞美。(todo),,0
+DORM,31979,浜掑姩(todo),,0
 FACTORY,32000,Start,,0
 FACTORY,32001,Production complete,,0
 FACTORY,32002,Produce T-Doll,,0
@@ -2549,6 +2619,18 @@ FACTORY,32325,,,0
 FACTORY,32326,(鏂扮殑鍥炲綊閿氬畾灏嗛噸缃?幇鏈夊洖褰掗敋瀹氳繘搴︼紝璇峰強鏃跺畬鎴愬缓閫熻(todo),,0
 FACTORY,32327,璇峰湪鍓╀綑鏃堕棿鍐呬娇鐢ㄦ牸閲岃姮鎸囨尌瀹樺洖褰掗敋瀹氭瀯绛戠?鍒ㄧtodo),,0
 FACTORY,32328,鍥炲綊鎸囨尌瀹橀敋瀹氭瀯绛戣?鍒欙細//n1銆佹寚鎸ュ畼鍙?粠浜哄舰鍒楄〃涓?夋嫨鐗瑰畾浜哄舰鎴愪负鈥滈敋瀹氱洰鏍団濓紝鍦ㄩ敋瀹氭瀯绛戠晫闈㈢偣鍑烩滃紑濮嬫瀯绛戔濇寜閽?紝浣跨敤缁欏畾鍏?紡杩涜?鏋勭瓚锛氼/n2銆佹瘡娆¤繘琛屸滈敋瀹氱洰鏍団濈殑鏋勭瓚锛岃嫢鏈??鏋勭瓚鈥滈敋瀹氱洰鏍団濆け璐ワ紝鍒欎笅涓娆＄殑鏋勭瓚鏃朵細涓存椂鎻愬崌鎴愬姛鐜囷紝鎻愬崌涓婇檺涓桂00%锛涙垚鍔熸瀯绛戔滈敋瀹氱洰鏍囨椂鈥濓紝涓存椂鎴愬姛鐜囦細娓呴浂锛氼/n3銆佹瀯绛戝け璐ユ墍鎻愬崌鐨勪复鏃舵垚鍔熺巼锛屼細璺熼殢鈥滈敋瀹氱洰鏍団濊繘琛屼繚鐣欙紝涓嶄細鍥犱负鍒囨崲鈥滈敋瀹氱洰鏍団濊屾竻闆讹紱//n銆佸湪鍗曟?鍥炲綊鎸囨尌瀹橀敋瀹氭瀯绛戜腑锛屽崟涓?滈敋瀹氱洰鏍団濆彧鑳借?鎴愬姛鏋勭瓚涓娆★紝鏈澶氬彲閫氳繃鈥滈敋瀹氱洰鏍団濇垚鍔熸瀯绛愷涓?汉褰?紝澶氭?鍥炲綊鎸囨尌瀹橀敋瀹氭瀯绛戝彲浠ラ夋嫨鍚屼竴涓?滈敋瀹氱洰鏍団濓紝娲诲姩灏嗗湪鎴愬姛鏋勭瓚1涓?汉褰㈡垨鎸佺画鏃堕棿缁撴潫鍚庣粨鏉燂紱//n5銆佺疮璁℃寚瀹氱殑閿氬畾鏋勭瓚娆℃暟鍚庯紝閿氬畾鐩?爣灏嗗繀瀹氭瀯绛戞垚鍔燂紱//n6銆佲滈敋瀹氱洰鏍団濇瀯绛戞垚鍔熷垵濮嬪嚑鐜囦笌鈥滃伐鍘傚埗閫犫濇棤鍏茬todo),,0
+FACTORY,32329,褰撳墠娌℃湁鍙?緵鎷嗚В鐨勭粍浠电todo),,0
+FACTORY,32330,璇烽夋嫨鎯宠?寮哄寲鐨勭粍浠电todo),,0
+FACTORY,32331,褰撳墠娌℃湁鍙?坊鍔犵殑缁勪欢(todo),,0
+FACTORY,32332,褰撳墠缁勪欢宸茶揪鍒板己鍖栫瓑绾т笂闄忕todo),,0
+FACTORY,32333,褰撳墠鎻愪緵鐨勭粡楠屽凡缁忚繙杩滆秴鍑哄己鍖栨墍闇锛屽嵆浣垮?姝や篃瑕佽?缁冨悧锛炵todo),,0
+FACTORY,32334,褰撳墠閫夋嫨鐨勭洰鏍囦腑锛屽瓨鍦?color=#FFBE00FF>{0}</color>鐨勭█鏈夌粍浠躲侇/n鍗充娇濡傛?涔熻?鍥炴敹涔堬紵(todo),,0
+FACTORY,32335,鎸囨尌瀹橈紝缁勪欢寮哄寲宸插畬鎴忕todo),,0
+FACTORY,32336,缁勪欢浠撳簱涓嶈冻锛屾棤娉曠户缁?搷浣涱/n寤鸿?濡備笅鎿嶄綔锛欑todo),,0
+FACTORY,32337,缁勪欢鍥炴敹(todo),,0
+FACTORY,32338,缁勪欢寮哄寲(todo),,0
+FACTORY,32339,鎵瑁呭崟浣嶆?鍦ㄤ綔鎴樹腑锛屾棤娉曞己鍖栥佺todo),,0
+FACTORY,32340,鎵瑁呭崟浣嶆?鍦ㄤ綔鎴樹腑锛屾棤娉曟牎鍑嗐佺todo),,0
 DEVELOP,33000,Reached T-Doll capacity limit//c please make more space!,,0
 DEVELOP,33001,Using this service costs,,0
 DEVELOP,33002,<color=#76DFCEFF>Quick Production</color>X,,0
@@ -2614,6 +2696,10 @@ DEVELOP,33061,Units in this echelon require repair//c unable to deploy.,,0
 DEVELOP,33063,Quick//nRepair Contract,,0
 DEVELOP,33064,1 Quick Repair will be used,,0
 DEVELOP,33065,Stage with drops still locked,,0
+DEVELOP,33066,褰撳墠鎶鑳藉凡鍗囪嚦婊＄骇锛?todo),,0
+DEVELOP,33067,褰撳墠涓嶉渶瑕佷娇鐢ㄥ揩閫熻?缁冨?绾︺佺todo),,0
+DEVELOP,33068,瀛樺湪澶氭?闇瑕佽?缁冩椂闂寸殑鎶鑳藉崌绾с佺todo),,0
+DEVELOP,33069,褰撳墠鍏冲崱瀛樺湪鍥伴毦鏄?惁缁х画璁″垝妯″紡(todo),,0
 ILLUSTRATEDBOOK,35000,Tactical Dolls,,0
 ILLUSTRATEDBOOK,35001,TacticalGirls,,0
 ILLUSTRATEDBOOK,35002,Furniture,,0
@@ -2810,6 +2896,9 @@ ILLUSTRATEDBOOK,35196,闊ф︾todo),,0
 ILLUSTRATEDBOOK,35197,闀挎寜鍙?煡鐪嬭?缁嗕俊鎭?todo),,0
 ILLUSTRATEDBOOK,35198,蹇冩櫤鍗囩骇灏氭湭瑙ｉ攣锛岃?鍏堣В閿佺郴缁熴佺todo),,0
 ILLUSTRATEDBOOK,35199,寰浜嬪洖蹇嗗皻鏈?В閿侊紝璇峰厛瑙ｉ攣绯荤粺銆佺todo),,0
+ILLUSTRATEDBOOK,35205,鏈哄姩瑁呯敳缁勪欢(todo),,0
+ILLUSTRATEDBOOK,35206,鏈哄姩瑁呯敳(todo),,0
+ILLUSTRATEDBOOK,35207,鏈哄姩瑁呯敳澶栬?(todo),,0
 LOGIN,36000,Forget password,,0
 LOGIN,36001,Customer Support,,0
 LOGIN,36002,User EULA,,0
@@ -2940,6 +3029,10 @@ MAIL,37044,Mail Deleted,,0
 MAIL,37045,Collect Attached Items,,0
 MAIL,37046,Resending Daily Rewards,,0
 MAIL,37047,Dear Commander//c I noticed you hadn't collected your rewards from yesterday when I was sorting things out. I've packed them up for you//c make sure to take them!,,0
+MAIL,37048,鍙?樉绀洪攣瀹欑todo),,0
+MAIL,37049,褰撳墠鍙?攣瀹氶偖浠跺凡婊犵todo),,0
+MAIL,37050,璇ラ偖浠跺?鍔卞凡杩囨湡锛屾棤娉曢?鍙曠todo),,0
+MAIL,37051,璇ラ偖浠跺凡杩囨湡锛岃В閿佸悗浼氳?鑷?姩鍒犻櫎(todo),,0
 QUESTS,38000,Progress,,0
 QUESTS,38001,Quests,,0
 QUESTS,38002,QUESTS,,0
@@ -3031,6 +3124,9 @@ QUESTS,38090,Purchase {0} levels. Rewards for reaching Level {1} now unlocked.,,
 QUESTS,38091,*You have accumulated enough medals to unlock the rewards.,,0
 QUESTS,38092,Remaining Time (Week),,0
 QUESTS,38093,Can be obtained with each additional level when Protocol Level is above 45.,,0
+QUESTS,38095,25级(todo),,0
+QUESTS,38096,鍏戞崲璇ョ墿鍝佸悗灏嗘墸闄｛color=#e7a300>{0}榛戝崱鏅剁墖</color>锛屾槸鍚︾户缁?紵//n浣犲皻鏈?敹闆嗚?浜哄舰锛?todo),,0
+QUESTS,38097,鍏戞崲璇ョ墿鍝佸悗灏嗘墸闄｛color=#e7a300>{0}榛戝崱鏅剁墖</color>鍙夳color=#e7a300>{1}榛戝崱</color>锛屾槸鍚︾户缁?紵//n浣犲皻鏈?敹闆嗚?浜哄舰锛?todo),,0
 RANKINGLIST,39000,Bottom,,0
 RANKINGLIST,39001,Unranked,,0
 RANKINGLIST,39002,Move to Data Mode,,0
@@ -3520,11 +3616,22 @@ MISSIONSELECTION,40458,鏈?幏鍙栫伆鍩熶俊鎭?todo),,0
 MISSIONSELECTION,40459,瀹屾垚鍚庡紑鍚?櫘閫氬?鍔扮todo),,0
 MISSIONSELECTION,40460,瀹屾垚鍚庨噸缃?todo),,0
 MISSIONSELECTION,40461,鍦ㄤ竴娆″父瑙勬帰鏌ヤ腑锛岃竟澧冭皟鏌ュ洟绗?叚鏀?槦鎰忓?鍙戠幇浜嗕竴鐗囦粠鏈?笍瓒崇殑绁炵?鍖哄煙銆傚ス浠?啋闄╄繘鍏ワ紝缁撴灉澶辫釜鏁版棩鈥︹︾瓑鍒板啀搴﹀綊鏉ユ椂锛岀珶甯﹀洖浜嗕护浜烘剰鎯充笉鍒扮殑鏀惰幏銆備负浜嗘帰鏄庣?绉樺尯鍩燂紝鎸囨尌瀹樺喅瀹氬?杩欎竴鐗囧尯鍩熻繘琛岄儴缃诧紝鐜板湪锛屾槸鏃跺欏紑濮嬭?鍔ㄤ簡銆佺todo),,0
+MISSIONSELECTION,40462,鏁屾柟绛夌骇(todo),,0
 MISSIONSELECTION,40463,鎴樺湴璁板綍(todo),,0
 MISSIONSELECTION,40464,鎼滄煡浣滄垬(todo),,0
 MISSIONSELECTION,40465,棣栭欑todo),,0
+MISSIONSELECTION,40466,甯搁┗绉?垎鎸戞垬(todo),,0
+MISSIONSELECTION,40467,鍏冲崱鎺ㄨ崘(todo),,0
+MISSIONSELECTION,40468,褰撳墠鎵閫夋?闃熺被鍨嬫棤娉曡繘鍏ヨ?璺?緞鐐哥todo),,0
+MISSIONSELECTION,40469,鎬绘?闃熼檺鍒电todo),,0
+MISSIONSELECTION,40470,浜哄舰姊?槦闄愬埗(todo),,0
+MISSIONSELECTION,40471,鏍奸噷鑺??闃熼檺鍒电todo),,0
+MISSIONSELECTION,40472,铻嶅悎鍔垮姏姊?槦闄愬埗(todo),,0
+MISSIONSELECTION,40473,閲嶈?閮ㄩ槦闄愬埗(todo),,0
 MISSIONSELECTION,40474,火力小队限制(todo),,0
+MISSIONSELECTION,40475,鏈哄姩瑁呯敳闄愬埗(todo),,0
 MISSIONSELECTION,40476,火力小队(todo),,0
+MISSIONSELECTION,40477,鏈哄姩瑁呯敳(todo),,0
 REINFORCEMENT,50000,Select,,0
 REINFORCEMENT,50001,Locked,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -4732,7 +4839,26 @@ MALL,71158,Buy Potential Energy,,0
 MALL,71159,Content Preview,,0
 MALL,71160,,,0
 MALL,71161,,,0
+MALL,71162,鍓嶅線鑷?堢todo),,0
+MALL,71163,鎵?竴鎵?todo),,0
+MALL,71164,鐩茬洅淇℃伅(todo),,0
+MALL,71165,浣犲皻鏈?敹闆嗚?浜哄舰锛?todo),,0
+MALL,71166,褰撳墠浠锋牸:(todo),,0
 MALL,71167,瑁呮壆鐩茬洅(todo),,0
+MALL,71168,瑁呮壆鐩掑瓙娴嬭瘯璇?█鍖勭todo),,0
+MALL,71169,鏄?惁浠ワ骏{0}鐨勪环鏍艰喘涔颁竴浠藉厖婊℃儕鍠滅殑瑁呮壆鐩茬洅锛炵todo),,0
+MALL,71170,閫夋嫨鎯宠?鐨勫績鎰胯?鎵?悗涓嶈兘鍐嶅彉鏇达紝鏄?惁纭??锛炵todo),,0
+MALL,71171,鎶戒竴鍙愮todo),,0
+MALL,71172,宸蹭负鎮ㄥ～鍏厈0}娆剧寽鎮ㄥ枩娆㈢殑瑁呮壆(todo),,0
+MALL,71173,鍓╀綑瑁呮壆(todo),,0
+MALL,71174,寰呰嚜閫夎?鎵?todo),,0
+MALL,71175,鑷?夎?鎵?todo),,0
+MALL,71176,璇烽夋嫨{0}/{1}娆捐嚜閫夎?鎵?todo),,0
+MALL,71177,SOLD OUT(todo),,0
+MALL,71178,鏈哄姩瑁呯敳(todo),,0
+MALL,71179,瑁呯敳椋庢牸鍟嗗煄(todo),,0
+MALL,71180,鏆傛椂鏃犳硶璐?拱(todo),,0
+MALL,71181,鎬讳环(todo),,0
 DOWNLOAD,80000,Resuming download of incomplete data files.,,0
 DOWNLOAD,80001,Please ensure that your device has at least ,,0
 DOWNLOAD,80002, memory! Continue?,,0
@@ -5039,11 +5165,121 @@ OTHER,100207,鎬籔T锛歿0}(todo),,0
 OTHER,100208,閫氬叧PT锛歿0}(todo),,0
 OTHER,100209,鍏ㄥ浘娓呯悊PT锛歿0}(todo),,0
 OTHER,100210,鐐哥todo),,0
+OTHER,100211,浜哄舰鍩虹?鍏绘垚I(todo),,0
+OTHER,100212,姊?槦涓婇樀浜烘暟鈮ん(todo),,0
+OTHER,100213,鍏ㄩ儴浜哄舰绛夌骇鈮ゐ0(todo),,0
+OTHER,100214,鍏ㄩ儴浜哄舰缂栧埗鈮ゑ(todo),,0
+OTHER,100215,浜哄舰鍩虹?鍏绘垚II(todo),,0
+OTHER,100216,姊?槦涓婇樀浜烘暟鈮?(todo),,0
+OTHER,100217,鍏ㄩ儴浜哄舰绛夌骇鈮を0(todo),,0
+OTHER,100218,鍏ㄩ儴浜哄舰杈惧埌30绾у己鍖曠todo),,0
+OTHER,100219,鍏ㄩ儴浜哄舰缂栧埗鏁?=3(todo),,0
+OTHER,100220,浜哄舰鍩虹?鍏绘垚III(todo),,0
+OTHER,100221,姊?槦涓婇樀浜烘暟鈮?(todo),,0
+OTHER,100222,鍏ㄩ儴浜哄舰绛夌骇鈮?0(todo),,0
+OTHER,100223,鍏ㄩ儴浜哄舰杈惧埌50绾у己鍖曠todo),,0
+OTHER,100224,鍏ㄩ儴浜哄舰缂栧埗鏁?=3(todo),,0
+OTHER,100225,鍏ㄩ儴浜哄舰绌挎弧瑁呭?(todo),,0
+OTHER,100226,浜哄舰鍩虹?鍏绘垚IV(todo),,0
+OTHER,100227,姊?槦涓婇樀浜烘暟鈮?(todo),,0
+OTHER,100228,鍏ㄩ儴浜哄舰绛夌骇鈮?0(todo),,0
+OTHER,100229,鍏ㄩ儴浜哄舰杈惧埌70绾у己鍖曠todo),,0
+OTHER,100230,鍏ㄩ儴浜哄舰缂栧埗鏁扳墺4(todo),,0
+OTHER,100231,鍏ㄩ儴浜哄舰鍏ㄨ?澶囨槦绾р墺4(todo),,0
+OTHER,100232,鍏ㄩ儴浜哄舰鎶鑳拣绛夌骇鈮ん(todo),,0
+OTHER,100233,浜哄舰鍩虹?鍏绘垚V(todo),,0
+OTHER,100234,鍏ㄩ儴浜哄舰绛夌骇鈮?0(todo),,0
+OTHER,100235,鍏ㄩ儴浜哄舰杈惧埌90绾у己鍖曠todo),,0
+OTHER,100236,鍏ㄩ儴浜哄舰缂栧埗鏁扳墺5(todo),,0
+OTHER,100237,鍏ㄩ儴浜哄舰鍏ㄨ?澶囨槦绾р墺4(todo),,0
+OTHER,100238,鍏ㄩ儴浜哄舰鍏ㄨ?澶囧己鍖栫瓑绾р墺4(todo),,0
+OTHER,100239,鍏ㄩ儴浜哄舰鎶鑳拣绛夌骇鈮?(todo),,0
+OTHER,100240,浜哄舰鎶鑳藉吇鎴忕todo),,0
+OTHER,100241,鍏ㄩ儴浜哄舰杈惧埌婊″己鍖曠todo),,0
+OTHER,100242,鍏ㄩ儴浜哄舰鍏ㄦ妧鑳界瓑绾р墺10(todo),,0
+OTHER,100243,浜哄舰鍩虹?鍏绘垚(todo),,0
+OTHER,100244,鍏ㄩ儴浜哄舰杈惧埌婊″己鍖曠todo),,0
+OTHER,100245,鍏ㄩ儴浜哄舰鏀归犺揪鍒癕OD3(todo),,0
+OTHER,100246,浜哄舰瑁呭?鍏绘垚(todo),,0
+OTHER,100247,鍏ㄩ儴浜哄舰鍏ㄨ?澶囨槦绾р墺5(todo),,0
+OTHER,100248,鍏ㄩ儴浜哄舰鍏ㄨ?澶囧己鍖栫瓑绾р墺10(todo),,0
+OTHER,100249,鍏ㄩ儴浜哄舰鍏ㄨ?澶囪揪鍒?00%鏍″噯(todo),,0
+OTHER,100250,濡栫簿杩涢樁鍏绘垚(todo),,0
+OTHER,100251,姊?槦濡栫簿鏄熺骇鈮を(todo),,0
+OTHER,100252,姊?槦濡栫簿鎶鑳界瓑绾р墺10(todo),,0
+OTHER,100253,濡栫簿瀹屽叏鍏绘垚(todo),,0
+OTHER,100254,姊?槦濡栫簿鏄熺骇鈮?(todo),,0
+OTHER,100255,姊?槦濡栫簿绛夌骇鈮ゐ00(todo),,0
+OTHER,100256,铻嶅悎鍔垮姏鍩虹?鍏绘垚I(todo),,0
+OTHER,100257,鍏ㄩ儴鎴愬憳绛夌骇鈮ゐ0(todo),,0
+OTHER,100258,铻嶅悎鍔垮姏鍩虹?鍏绘垚II(todo),,0
+OTHER,100259,鍏ㄩ儴鎴愬憳绛夌骇鈮を0(todo),,0
+OTHER,100260,鍏ㄩ儴鎴愬憳寮哄寲鏄熺骇鈮ゐ(todo),,0
+OTHER,100261,铻嶅悎鍔垮姏鍩虹?鍏绘垚IV(todo),,0
+OTHER,100262,鍏ㄩ儴鎴愬憳绛夌骇鈮?0(todo),,0
+OTHER,100263,鍏ㄩ儴鎴愬憳寮哄寲鏄熺骇鈮ゑ(todo),,0
+OTHER,100264,铻嶅悎鍔垮姏鍩虹?鍏绘垚IV(todo),,0
+OTHER,100265,姊?槦鍓╀綑璐圭敤鈮ｐ(todo),,0
+OTHER,100266,鍏ㄩ儴鎴愬憳绛夌骇鈮?0(todo),,0
+OTHER,100267,鍏ㄩ儴鎴愬憳寮哄寲鏄熺骇鈮を(todo),,0
+OTHER,100268,铻嶅悎鍔垮姏鍩虹?鍏绘垚V(todo),,0
+OTHER,100269,鍏ㄩ儴鎴愬憳绛夌骇鈮?0(todo),,0
+OTHER,100270,鍏ㄩ儴鎴愬憳寮哄寲鏄熺骇鈮ん(todo),,0
+OTHER,100271,鍏ㄩ儴鎴愬憳鎶鑳拣绛夌骇鈮ん(todo),,0
+OTHER,100272,铻嶅悎鍔垮姏鍩虹?鍏绘垚(todo),,0
+OTHER,100273,鍏ㄩ儴鎴愬憳寮哄寲鏄熺骇鈮?(todo),,0
+OTHER,100274,姊?槦鍓╀綑璐圭敤0(todo),,0
+OTHER,100275,铻嶅悎鍔垮姏杩涢樁鍏绘垚(todo),,0
+OTHER,100276,鍏ㄩ儴鎴愬憳瑙ｆ瀽/鎵╃紪杈惧埌2(todo),,0
+OTHER,100277,铻嶅悎鍔垮姏瀹屽叏鍏绘垚(todo),,0
+OTHER,100278,鍏ㄩ儴鎴愬憳瑙ｆ瀽/鎵╃紪杈惧埌4(todo),,0
+OTHER,100279,铻嶅悎鍔垮姏鎶鑳藉吇鎴忕todo),,0
+OTHER,100280,鍏ㄩ儴鎴愬憳鍏ㄦ妧鑳藉崌鑷虫弧绾︾todo),,0
+OTHER,100281,铻嶅悎鍔垮姏鎶鑳藉吇鎴忕todo),,0
+OTHER,100282,鍏ㄩ儴鎴愬憳鍏ㄦ妧鑳藉崌鑷虫弧绾︾todo),,0
+OTHER,100283,閲嶈?灏忛槦鍩虹?鍏绘垚(todo),,0
+OTHER,100284,瑙ｆ瀽鏄熺骇鈮?(todo),,0
+OTHER,100285,閲嶈?灏忛槦杩涢樁鍏绘垚(todo),,0
+OTHER,100286,杩?唬绛夌骇鈮ゐ0(todo),,0
+OTHER,100287,閲嶈?灏忛槦鎶鑳藉吇鎴忕todo),,0
+OTHER,100288,鍏ㄩ儴鎶鑳界瓑绾р墺10(todo),,0
+OTHER,100289,閲嶈?灏忛槦鑺?墖鍩虹?鍏绘垚(todo),,0
+OTHER,100290,鍏ㄩ儴鑺?墖瑙ｉ攣(todo),,0
+OTHER,100291,閲嶈?灏忛槦鑺?墖杩涢樁鍏绘垚(todo),,0
+OTHER,100292,鍏ㄩ儴鑺?墖婊″己鍖曠todo),,0
+OTHER,100293,铻嶅悎鍔垮姏鍩虹?鍏绘垚III(todo),,0
+OTHER,100294,鍏ㄩ儴鎴愬憳鎶鑳拣绛夌骇鈮ゑ(todo),,0
+OTHER,100296,姊?槦婊¤冻鍏冲崱鎺ㄨ崘瑕佹眰(todo),,0
+OTHER,100297,铻嶅悎鍔垮姏鑺?墖鍏绘垚(todo),,0
+OTHER,100298,姊?槦鎼哄甫2涓?姱鐗嗙todo),,0
+OTHER,100299,鏈哄姩瑁呯敳鍩虹?鍏绘垚I(todo),,0
 OTHER,100300,对应机动装甲评分达到30000(todo),,0
+OTHER,100301,鏈哄姩瑁呯敳鍩虹?鍏绘垚II(todo),,0
 OTHER,100302,对应机动装甲评分达到40000(todo),,0
+OTHER,100303,鏈哄姩瑁呯敳鍩虹?鍏绘垚III(todo),,0
 OTHER,100304,对应机动装甲评分达到50000(todo),,0
+OTHER,100305,鏈哄姩瑁呯敳鍩虹?鍏绘垚IV(todo),,0
 OTHER,100306,对应机动装甲评分达到65000(todo),,0
+OTHER,100307,鏈哄姩瑁呯敳鍩虹?鍏绘垚V(todo),,0
 OTHER,100308,对应机动装甲评分达到80000(todo),,0
+OTHER,100309,鏈哄姩瑁呯敳绉戞妧鍏绘垚(todo),,0
+OTHER,100310,瀵瑰簲鏈哄姩瑁呯敳绉戞妧鏍戝叏鐐规弧(todo),,0
+OTHER,100311,杞︾粍鎴愬憳鍩虹?鍏绘垚(todo),,0
+OTHER,100312,车组成员1等级≥100(todo),,0
+OTHER,100313,车组成员2等级≥100(todo),,0
+OTHER,100314,车组成员3等级≥100(todo),,0
+OTHER,100315,车组成员4等级≥100(todo),,0
+OTHER,100316,杞︾粍鎴愬憳杩涢樁鍏绘垚(todo),,0
+OTHER,100317,车组成员1编制数≥5(todo),,0
+OTHER,100318,车组乘员2星级≥5(todo),,0
+OTHER,100319,车组乘员3星级≥5(todo),,0
+OTHER,100320,车组成员4星级≥5(todo),,0
+OTHER,100321,鏈哄姩瑁呯敳缁勪欢鍩虹?鍏绘垚(todo),,0
+OTHER,100322,鏈哄姩瑁呯敳缁勪欢鍏ㄨ?婊犵todo),,0
+OTHER,100323,鏈哄姩瑁呯敳缁勪欢鍏ㄩ儴涓烘渶楂樼█鏈夊害(todo),,0
+OTHER,100324,鏈哄姩瑁呯敳缁勪欢寮哄寲鍏绘垚(todo),,0
+OTHER,100325,鏈哄姩瑁呯敳鎵鏈夌粍浠舵弧绾︾todo),,0
+OTHER,100326,协助者形态(todo),,0
 ACTIVITY,110000,Operation: Cube,,0
 ACTIVITY,110001,Blindfold Theorem,,0
 FRIEND,110002,鍙嬫儏鐐规暟(todo),,0
@@ -5575,6 +5811,26 @@ GUIDE,140365,瑙掕壊鎶鑳戒粙缁岀todo),,0
 GUIDE,140366,铻嶅悎鍔垮姏绮捐嫳鍗曚綅鑺?墖锛屽彲閫氳繃瀹胯垗-鍗忚?鎺у埗涓?績鑾峰彇(todo),,0
 GUIDE,140367,鐏?姏灏忛槦涓撳睘鑺?墖锛屽彲鎻愪緵澶ч噺灞炴︾todo),,0
 GUIDE,140368,濡栫簿澶╄祴锛屽彲閫氳繃宸ュ巶-鏍″噯淇?敼(todo),,0
+GUIDE,140369,鎸囨尌瀹橈紝鎴戜滑寮鏀句簡鏂扮殑鎴块棿锛岃?鐐瑰嚮鎹?偣銆佺todo),,0
+GUIDE,140370,鐐瑰嚮鏍肩撼搴撱佺todo),,0
+GUIDE,140371,鎸囨尌瀹橈紝鎺ヤ笅鏉ユ垜浠?幓鐪嬬湅寮哄寲缁勪欢鍚с佺todo),,0
+GUIDE,140372,鐐瑰嚮杩欓噷(todo),,0
+GUIDE,140373,鍒囨崲閲嶈?閮ㄩ槦绫诲埆(todo),,0
+GUIDE,140374,閫夋嫨闇瑕佹縺娲荤?鎶鏍戠殑鏈哄姩瑁呯敳(todo),,0
+GUIDE,140375,閫夋嫨闇瑕佹縺娲荤殑鑺傜偣(todo),,0
+GUIDE,140376,婵娲昏妭鐐瑰甫鏉ョ殑鏈哄姩瑁呯敳鑳藉姏鎻愬崌棰勮?(todo),,0
+GUIDE,140377,婵娲昏妭鐐圭殑棰勮?娑堣栫todo),,0
+GUIDE,140378,閫夋嫨闇瑕佸己鍖栫殑缁勪欢(todo),,0
+GUIDE,140379,閫夋嫨浣滀负寮哄寲绱犳潗鐨勭粍浠电todo),,0
+GUIDE,140380,閫夋嫨缁勪欢鍔犲伐鍖呮姇鍏ユ暟閲庣todo),,0
+GUIDE,140381,缁勪欢鐨勫己鍖栫粨鏋滈?瑙囩todo),,0
+GUIDE,140382,鏈哄姩瑁呯敳鐨勮溅缁勪箻鍛橀厤缃?晫闈＄todo),,0
+GUIDE,140383,鏈哄姩瑁呯敳鐨勭?鎶鏍戣繘搴ョtodo),,0
+GUIDE,140384,鏈哄姩瑁呯敳鐨勫悇椤瑰睘鎬с佹妧鑳姐佺啛缁冨害淇℃伅涓瑙囩todo),,0
+GUIDE,140385,鏈哄姩瑁呯敳鐨勭粍浠跺拰鍥剧焊鐨勮?澶囨儏鍐典竴瑙囩todo),,0
+GUIDE,140386,鏈哄姩瑁呯敳鐨勫綋鍓嶇粍浠舵妧鑳藉拰璇嶆潯涓瑙囩todo),,0
+GUIDE,140387,鏈哄姩瑁呯敳鐨勯氱敤缁勪欢鏍忎綅鍒楄〃(todo),,0
+GUIDE,140388,鍙?互缂栬緫鍜岄夊彇鏈哄姩瑁呯敳鐨勯?璁鹃厤缃?todo),,0
 BEGINNERGUIDE,150000,Please head to the [COMBAT] screen.,,0
 BEGINNERGUIDE,150001,After obtaining the three medals for a mission//c you can use the [Auto-Battle] command.,,0
 BEGINNERGUIDE,150002,Different Auto-Battle missions require different numbers of Echelons to engage.,,0
@@ -5707,6 +5963,10 @@ BEGINNERGUIDE,150128,The recommended recipes provide optimal production rates fo
 BEGINNERGUIDE,150129,Commander//c Fairies can now undergo Evolutions! Go to <color=#ffb400ff>銆怐evelop銆慃/color> and have a look!,,0
 BEGINNERGUIDE,150130,Tap <color=#ffb400ff>銆怳pgrade & Breakthrough銆慃/color>.,,0
 BEGINNERGUIDE,150131,Then tap <color=#ffb400ff>銆怓airy Evolution Breakthrough銆慃/color> to make your Fairies even stronger!,,0
+BEGINNERGUIDE,150132,机动装甲部队关卡功能按钮(todo),,0
+BEGINNERGUIDE,150133,机动装甲部队车组成员和组件编成信息(todo),,0
+BEGINNERGUIDE,150134,机动装甲部队火力支援技能开关(todo),,0
+BEGINNERGUIDE,150135,生命：机动装甲剩余/最大生命值。//n弹药&口粮：作战、攻击建筑、待机等行为需要消耗的资源。//n能源：移动需要消耗的资源。//n备用能源：每回合开始时，会自动使用备用能源来补充能源。(todo),,0
 SPECIALFORGLOBAL,160000,Rounds,,0
 SPECIALFORGLOBAL,160001,Target,,0
 SPECIALFORGLOBAL,160002,Night,,0
@@ -6011,6 +6271,36 @@ SQUAD,190274,Tap to conduct Skill Training,,0
 SQUAD,190275,,,0
 SQUAD,190276,本次快速晋升需要消耗{1}个<color=#ffb400>快速解析契约</color>//n（当前拥有<color=#ffb400>{0}个</color>）//n是否进行快速晋升?(todo),,0
 SQUAD,190277,姝ｅ湪鏅嬪崌涓?紝鏄?惁瑕佺粓姝㈡檵鍗嗙todo),,0
+SQUAD,190278,鏃犳硶蹇?熸檵鍗囷紝褰撳墠鎷ユ湁蹇?熻В鏋愬?绾?0}锛岄渶瑕亄1}(todo),,0
+SQUAD,190279,鎵归噺瑁呰浇(todo),,0
+SQUAD,190280,璧勬簮涓嶈冻锛屾棤娉曡繘琛岃凯浠㈢todo),,0
+SQUAD,190281,绛夌骇鏈?揪鍒帮紝鏃犳硶杩涜?杩?唬(todo),,0
+SQUAD,190282,鐐瑰嚮鑺?墖杩涜?瑙ｉ攣(todo),,0
+SQUAD,190283,鐐瑰嚮鑺?墖杩涜?寮哄寲(todo),,0
+SQUAD,190284,灏嗕娇鐢ㄧ函鍑鏁版嵁鏍锋湰*{0}锛堝綋鍓嶆寔鏈夐噺锛歿2}锛夋浛浠ｅ師濮嬫暟鎹?牱鏈?{1}锛屾槸鍚︾户缁?紵(todo),,0
+SQUAD,190285,褰撳墠鑺?墖鏁版嵁涓嶈冻锛岃?鏅嬪崌鐏?姏灏忛槦鑾峰彇鏇村?鑺?墖鏁版嵁(todo),,0
+SQUAD,190286,褰撳墠鏁版嵁鏍锋湰涓嶈冻锛屾槸鍚﹀墠寰銆愭儏鎶ヤ腑蹇冦戣幏鍙栨暟鎹?牱鏈?todo),,0
+SQUAD,190287,瑙ｉ攣鏃讹紝濡傚師濮嬫牱鏈?暟鎹?笉瓒筹紝鍙?娇鐢ㄧ函鍑鏁版嵁鏍锋湰鏇夸唬(todo),,0
+SQUAD,190288,宸茶?杞借姱鐗嗙todo),,0
+SQUAD,190289,鑺?墖鏁版嵁(todo),,0
+SQUAD,190290,瑁呰浇(todo),,0
+SQUAD,190291,褰撳墠璧勬簮涓嶈冻锛岃?閲嶆柊閫夋嫨(todo),,0
+SQUAD,190292,灏嗗彇娑堟墍鏈夎姱鐗囬夋嫨锛屾槸鍚︾户缁?紵(todo),,0
+SQUAD,190293,褰撶伀鍔涘皬闃熻揪鍒?color=#ffb400>绛夌骇鍜屾槦绾т笂闄忹/color>鍚庯紝鍙?互杩涜?杩?唬锛佹秷鑰桘color=#ffb400>绾?噣鏁版嵁鏍锋湰</color>锛屾彁鍗囪凯浠ｇ瓑绾э紝鑾峰緱灞炴у姞鎴愩佺todo),,0
+SQUAD,190294,鐏?姏灏忛槦鏅嬪崌涓?todo),,0
+SQUAD,190295,璇ュ崟浣嶆?鍦ㄦ檵鍗囷紝鏃犳硶杩涜?缂栬緫鍥炶矾(todo),,0
+SQUAD,190296,绛夊緟鏃堕棿(todo),,0
+SQUAD,190297,鏅嬪崌涓?todo),,0
+SQUAD,190298,褰撳墠鐏?姏灏忛槦浠呭彲鐢ㄤ腑鏋㈡暟鎹?В閿?todo),,0
+SQUAD,190299,璇ュ崟浣嶆檵鍗囦腑锛屾棤娉曡繘琛屽崌绾︾todo),,0
+SQUAD,190300,褰撳墠閫夋嫨鏈墈0}鐐硅繘搴︽孩鍑猴紝鏄?惁缁х画(todo),,0
+SQUAD,190301,*闀挎寜鍙?壒閲忎娇鐢?紝鏁版嵁鏍锋湰灏嗕細绛夋瘮鍏戞崲涓鸿姱鐗囩粡楠嬬todo),,0
+SQUAD,190302,璇烽夋嫨闇瑕佽?杞界殑鑺?墖(todo),,0
+SQUAD,190303,鐏?姏灏忛槦(todo),,0
+SQUAD,190304,*完成后获得(todo),,0
+SQUAD,190305,所需资源(todo),,0
+SQUAD,190306,请选择需要解锁的芯片(todo),,0
+SQUAD,190307,原始芯片(todo),,0
 TOAST,200000,Formation has been preset,,0
 TOAST,200001,No available Fairies,,0
 TOAST,200002,Clear {0} different stages to unlock <color=#ffb400>Fairies</color>. Current clears {1}/{2},,0
@@ -6410,7 +6700,7 @@ THEATER,210263,Wave,,0
 THEATER,210264,Score bonus of each type of unit,,0
 THEATER,210265,No Doll echelon deployed,,0
 THEATER,210266,鏈??缃?瀺鍚堝娍鍔涙?闃炵todo),,0
-THEATER,210267,Different Theater regions have different <color=#ffb400>advantaged T-Dolls</color>.//n Advantaged T-Dolls have additional <color=#ffb400>elite enemy score multipliers</color> for themselve,,0
+THEATER,210267,不同战区有不同的<color=#ffb400>优势人形</color>。//n优势人形会具有额外的自身<color=#ffb400>精英得分加成</color>以及全方面的<color=#ffb400>属性加成</color>。//n手枪：20%冷却缩减；冲锋枪、霰弹枪：20%护甲加成，50%回避加成；//n突击步枪、步枪、机枪：20%伤害、20%命中加成(todo),,0
 THEATER,210268,Materials,,0
 THEATER,210269,Combat Settlement 鈥撨Victory,,0
 THEATER,210270,Combat Settlement 鈥撨Defeat,,0
@@ -7231,6 +7521,7 @@ FORMATION,270070,闃熼暱(todo),,0
 FORMATION,270071,宸茶?杞借姱鐗嗙todo),,0
 FORMATION,270072,鍘熸?闃炵todo),,0
 FORMATION,270073,姊?槦灏嗚繘琛屼互涓嬫敼鍔хtodo),,0
+FORMATION,270074,璇ュ崟浣嶄负绗?竴姊?槦闃熼暱锛屾棤娉曠紪鍏ャ佺todo),,0
 MINIGAME,280001,Turn,,0
 MINIGAME,280002,Finding a room//c please wait...,,0
 MINIGAME,280003,Waiting,,0
@@ -7765,5 +8056,196 @@ MINIGAME,280534,濡栫簿鐐逛綅(todo),,0
 MINIGAME,280535,鐏?姏灏忛槦鐐逛綅(todo),,0
 MINIGAME,280536,棣栭?鐐逛綅(todo),,0
 MINIGAME,280537,鐜板湪杩樹笉鎯冲喅瀹欑todo),,0
+MINIGAME,280538,鍓╀綑娆℃暟(todo),,0
+MINIGAME,280539,璇烽夋嫨闇瑕佸墠寰鐨勫叧鍗犵todo),,0
+MINIGAME,280540,瑁呯敳绐佸嚮(todo),,0
+MINIGAME,280541,*鎺ㄨ崘璇勫垎杈惧埌(todo),,0
+MINIGAME,280542,涓?汉褰撳墠璇勫垎锛欑todo),,0
+MINIGAME,280543,璇勫垎(todo),,0
+MINIGAME,280544,鍏冲崱鎵闇閲嶈?(todo),,0
+MINIGAME,280545,瑁呯敳鐐逛綅(todo),,0
+MINIGAME,280546,閫氬叧闃靛?(todo),,0
+MINIGAME,280547,鍙備笌娆℃暟涓嶈冻(todo),,0
+MINIGAME,280548,灏氭湭瑙ｉ攣锛岄渶瀹屾垚鍓嶇疆鍏冲崱(todo),,0
+MINIGAME,280549,闇瑙ｉ攣浠绘剰鏈哄姩瑁呯敳(todo),,0
+MINIGAME,280550,闂ㄧエ涓嶈冻锛屾槸鍚︽秷鑰楄祫婧愮户缁?todo),,0
+MINIGAME,280551,瀹屾垚搴ョtodo),,0
+MINIGAME,280552,瑁呯敳绐佸嚮鍙?細鍦ㄣ愮粨鏅跺甫銆戝嚭鐜?/n瑙﹀彂鏉′欢锛氬畬鎴愩愰?棰嗙偣浣嶃戝悗鍒锋柊瑁呯敳绐佸嚮//n鎸戞垬娆℃暟锛氭瘡瀹屾垚涓娆￠?棰嗙偣浣嶅彲鑾峰緱鎸戞垬鏈轰細//n鎸戞垬鎴愬姛鍚庢墸闄ゆ寫鎴樻満浼欘/n閲嶇疆鐏板煙鍚庢寫鎴樻?鏁颁篃灏嗛噸缃?/n涓嶅悓瑁呯敳鎷ユ湁鐗瑰畾鐨勮?鐢茬獊鍑诲叧鍗狀/n棣栨?鎸戞垬鎴愬姛鍙?幏寰椼愰?閫氬?鍔便戯紙閭??鍙戞斁锛堫/n鍙?弽澶嶅皾璇曞凡閫氬叧鎸戞垬//n瀹屾垚涓涓?寫鎴樺悗瑙ｉ攣涓嬩竴绾ф寫鎴楊/n(todo),,0
+MINIGAME,280553,鑷?韩鏈哄姩瑁呯敳(todo),,0
+MINIGAME,280554,缁勪欢鎺夎惤(todo),,0
+MINIGAME,280555,甯歌?鎺夎惤(todo),,0
+MINIGAME,280556,鎬绘敹鐩夌todo),,0
+MINIGAME,280557,鏌ョ湅鏁屾柟淇℃伅(todo),,0
+MINIGAME,280558,缂栬緫涓?..(todo),,0
+MINIGAME,280559,鎵ｉ櫎鏂瑰紡(todo),,0
+MINIGAME,280560,浠呴棬绁хtodo),,0
+MINIGAME,280561,闂ㄧエ/璧勬簮(todo),,0
+MINIGAME,280562,娓呴櫎(todo),,0
+MINIGAME,280563,棣栨?瀹屾垚浠绘剰棣栭?鐐逛綅瑙ｉ攣(todo),,0
+MINIGAME,280564,涓嶆弧瓒冲嚭鎴樿?姹佺todo),,0
+MINIGAME,280565,閬?亣濂囬亣涔嬪湴锛屾槸鍚︾粓姝㈣?鍒掓ā寮庣todo),,0
+MINIGAME,280566,鍙栨秷({0})(todo),,0
+MINIGAME,280567,鍙栨秷({0})(todo),,0
+MINIGAME,280568,缁撴櫠甯ョtodo),,0
+MINIGAME,280569,妫娴嬪埌浠ｇ悊浣滄垬涓?柇锛屾槸鍚︿腑鏂??鍒掓ā寮庣todo),,0
+MINIGAME,280570,鐏板煙杩涘害(todo),,0
+MINIGAME,280571,*鎺ㄨ崘鏈哄姩瑁呯敳璇勫垎鈮?0}(todo),,0
+MINIGAME,280572,杩愯?璁″垝妯″紡(todo),,0
+MINIGAME,280573,宸叉病鏈夋弧瓒宠?鍒掓ā寮忕偣浣岀todo),,0
+MINIGAME,280574,褰撳墠璧勬簮涓嶆弧瓒抽変腑鎵鏈夌偣浣岀todo),,0
+VEHICLE,290001,閫氱敤缁勪欢(todo),,0
+VEHICLE,290002,閲嶆?鍣хtodo),,0
+VEHICLE,290003,杞绘?鍣хtodo),,0
+VEHICLE,290004,鍔熻兘缁勪欢(todo),,0
+VEHICLE,290005,鐗规畩缁勪欢(todo),,0
+VEHICLE,290006,缁勪欢绫诲瀷(todo),,0
+VEHICLE,290007,绱㈡晫鑼冨洿(todo),,0
+VEHICLE,290008,閲嶆?绯绘暟(todo),,0
+VEHICLE,290009,杞绘?绯绘暟(todo),,0
+VEHICLE,290010,鍛戒腑绯绘暟(todo),,0
 VEHICLE,290011,攻速系数(todo),,0
+VEHICLE,290012,瑁呭～绯绘暟(todo),,0
 VEHICLE,290013,精度系数(todo),,0
+VEHICLE,290014,鏈哄姩瑁呯敳瑁呭?(todo),,0
+VEHICLE,290015,缁勪欢(todo),,0
+VEHICLE,290016,璇锋坊鍔犵粍浠舵垨鑰呬娇鐢ㄩ氱敤閰嶄欢(todo),,0
+VEHICLE,290017,褰撳墠閫夋嫨绱犳潗宸茶冻澶熷己鍖栬?缁勪欢鍒拌揪涓婇檺(todo),,0
+VEHICLE,290018,閲嶆?浼ゅ?+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290019,杞绘?浼ゅ?+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290020,瑁呭～+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290021,绮惧害+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290022,鏀婚炾{0}%(MAX{1}%)(todo),,0
+VEHICLE,290023,鍛戒腑+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290024,鎶ょ敳+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290025,回避+{0}%(MAX{1}%)(todo),,0
+VEHICLE,290026,褰撳墠鎸佹湁鑳芥簮涓嶈冻锛屾棤娉曡ˉ婊★紝鏄?惁杩涜?鑳芥簮鍏戞崲(todo),,0
+VEHICLE,290027,{0}缂栨垚涓?todo),,0
+VEHICLE,290028,璧勮川鏈?揪鏍嗙todo),,0
+VEHICLE,290029,鍙?敵璇疯祫璐хtodo),,0
+VEHICLE,290030,宸茶幏寰楄祫璐хtodo),,0
+VEHICLE,290031,璧勮川瀹℃牳杩涘害(todo),,0
+VEHICLE,290032,宸插紑鍚?todo),,0
+VEHICLE,290033,鏈哄姩瑁呯敳娴嬭瘯(todo),,0
+VEHICLE,290034,瑁呯敳闈跺満(todo),,0
+VEHICLE,290035,闇瑕佹満鍔ㄨ?鐢辩todo),,0
+VEHICLE,290036,宸查儴缃叉満鍔ㄨ?鐢辩todo),,0
+VEHICLE,290037,婵娲虹todo),,0
+VEHICLE,290038,鏀?彺(todo),,0
+VEHICLE,290039,杩滅▼(todo),,0
+VEHICLE,290040,璧勬簮杞?寲(todo),,0
+VEHICLE,290041,宸茶?澶囧悓绫诲瀷缁勪欢(todo),,0
+VEHICLE,290042,璇嶆潯(todo),,0
+VEHICLE,290043,闅忔満璇嶆潯(todo),,0
+VEHICLE,290044,缂栨垚浜嶎/n<color=#FFB400FF>{0}</color>(todo),,0
+VEHICLE,290045,鑳芥簮灏嗗湪(todo),,0
+VEHICLE,290046,鍚庨泦婊★紝涔熷彲鐩存帴杩涜?杞?崲(todo),,0
+VEHICLE,290047,宸ヤ綔鍙?todo),,0
+VEHICLE,290048,绉戞妧鏍愮todo),,0
+VEHICLE,290049,绛涢変腑(todo),,0
+VEHICLE,290050,璇峰厛閫夋嫨涓涓?爮浣岀todo),,0
+VEHICLE,290051,璇峰厛閫夋嫨澶栬?(todo),,0
+VEHICLE,290052,{0}鍥剧焊(todo),,0
+VEHICLE,290053,{0}闄愬畾(todo),,0
+VEHICLE,290054,鍓嶅線瑙ｉ攣(todo),,0
+VEHICLE,290055,鏈?嫢鏈夊?瑙備笉鍙?繚瀛橈紝宸插嵏涓嬨佺todo),,0
+VEHICLE,290056,閮ㄥ垎澶栬?涓嶅彲鍦ㄦ柊鍥剧焊涓婁娇鐢?紝宸插嵏涓婄todo),,0
+VEHICLE,290057,澶囩敤鑳芥簮涓婇檺(todo),,0
+VEHICLE,290058,鐔熺粌搴︿笉瓒茬todo),,0
+VEHICLE,290059,鍓嶇疆鑺傜偣灏氭湭瑙ｉ攣(todo),,0
+VEHICLE,290060,鍓嶇疆浠诲姟灏氭湭瀹屾垚(todo),,0
+VEHICLE,290061,褰撳墠璧勬簮涓嶈冻(todo),,0
+VEHICLE,290062,灞炴ц妭鐐哥todo),,0
+VEHICLE,290063,鏈哄姩瑁呯敳宸茶嚜鍔ㄨˉ缁樼todo),,0
+VEHICLE,290064,婧㈠嚭鑳芥簮杩旇繕(todo),,0
+VEHICLE,290065,浠ｇ悊浣滄垬浣跨敤鏈哄姩瑁呯敳(todo),,0
+VEHICLE,290066,瀹屾垚{0}(todo),,0
+VEHICLE,290067,瑁呯敳椋庢牸鍟嗗煄(todo),,0
+VEHICLE,290068,*鎺ㄨ崘鏈哄姩瑁呯敳璇勫垎(todo),,0
+VEHICLE,290069,浠ヤ笅缁勪欢姝ｈ?澶囧湪鍏跺畠鏈哄姩瑁呯敳涓婏紝鏄?惁寮哄埗鏇挎崲锛炵todo),,0
+VEHICLE,290070,浠ヤ笅鍗曚綅姝ｇ紪鎴愬湪鍏跺畠姊?槦涓?紝鏄?惁寮哄埗鏇挎崲锛炵todo),,0
+VEHICLE,290071,浠ヤ笅缁勪欢鎵瑁呮満鍔ㄨ?鐢叉?鍦ㄤ綔鎴樹腑锛屾棤娉曠紪鎴愩佺todo),,0
+VEHICLE,290072,浠ヤ笅鍗曚綅姝ｅ湪浣滄垬涓?紝鏃犳硶缂栨垚銆佺todo),,0
+VEHICLE,290073,<color=#FFB400FF>{0}</color>缂栨垚涓?todo),,0
+VEHICLE,290074,褰撳墠鑳芥簮宸叉弧锛屾棤娉曡繘琛屽厬鎹＄todo),,0
+VEHICLE,290075,鏈?嫢鏈夌粍浠电todo),,0
+VEHICLE,290076,缁勪欢浠撳簱(todo),,0
+VEHICLE,290077,鏁欏?鍏冲崱瀹屾垚杩涘害(todo),,0
+VEHICLE,290078,杩滆窛绂讳氦鎴樻椂锛屾棤娉曞崟鐙?挙閫锛屼粎鏀?寔鍏ㄤ綋鎾ら銆佺todo),,0
+VEHICLE,290079,鏈哄姩瑁呯敳閮ㄩ槦涓嶆敮鎸佷氦鎹?綅缃?佺todo),,0
+VEHICLE,290080,鏈哄姩瑁呯敳閫夋嫨(todo),,0
+VEHICLE,290081,鈥撨 瀹屾垚浠ヤ笅浠诲姟浠ヨВ閿? 鈥撶todo),,0
+VEHICLE,290082,璇勫垎(todo),,0
+VEHICLE,290083,鏈哄姩瑁呯敳閮ㄩ槦(todo),,0
+VEHICLE,290084,璇ユ満鍔ㄨ?鐢叉?鍦ㄤ綔鎴樹腑锛屾棤娉曡繘琛岀紪鎴愩佺todo),,0
+VEHICLE,290085,璇ユ満鍔ㄨ?鐢叉?鍦ㄤ綔鎴樹腑锛屾棤娉曞崌绾х?鎶鏍戙佺todo),,0
+VEHICLE,290086,璇ユ満鍔ㄨ?鐢叉?鍦ㄤ綔鎴樹腑锛屾棤娉曡繘琛屼慨鐞呯todo),,0
+VEHICLE,290087,璇ユ満鍔ㄨ?鐢叉?鍦ㄤ慨澶嶄腑锛屾棤娉曢儴缃层佺todo),,0
+VEHICLE,290088,璇ユ満鍔ㄨ?鐢叉?鍦ㄤ慨澶嶄腑锛屾棤娉曞崌绾х?鎶鏍戙佺todo),,0
+VEHICLE,290089,澶栬?閫夋嫨(todo),,0
+VEHICLE,290090,褰撳墠鏈哄姩瑁呯敳鏈?В閿侊紝鏄?惁璺宠浆鍒拌В閿佷换鍔★紵(todo),,0
+VEHICLE,290091,褰撳墠鏈哄姩瑁呯敳绉戞妧鏍戝凡婊犵todo),,0
+VEHICLE,290092,涓嶅彲閲嶅?鎿︿寒(todo),,0
+VEHICLE,290093,浠婃棩鎿︿寒娆℃暟宸茶揪涓婇檺(todo),,0
+VEHICLE,290094,鏈哄姩瑁呯敳棰勮?(todo),,0
+VEHICLE,290095,璇ュ崟浣嶅彲浠ヨ繙绋嬫墦鍑虹todo),,0
+VEHICLE,290096,鏌ョ湅鍥剧焊(todo),,0
+VEHICLE,290097,鍙傝?杞﹂棿(todo),,0
+VEHICLE,290098,璇曠┛涓?殑澶栬?鏃犳硶淇濆瓨銆佺todo),,0
+VEHICLE,290099,閫夋嫨鏈哄姩瑁呯敳(todo),,0
+VEHICLE,290100,鍙?氳繃鍗囩骇绉戞妧鏍戣В閿佹爮浣岀todo),,0
+VEHICLE,290101,寮硅嵂鍙ｇ伯涓嶈冻锛屾棤娉曞彂璧疯繙绋嬫敾鍑虹todo),,0
+VEHICLE,290102,璇烽夋嫨闇瑕佹縺娲荤殑鏈哄姩瑁呯敳鍚庤繘琛岀?鎶鏍戝崌绾︾todo),,0
+VEHICLE,290103,褰撳墠鏈哄姩瑁呯敳鏈夋垚鍛樺?浜庝笉鍙?嚭鎴樼姸鎬侊紝鏃犳硶閮ㄧ讲銆佺todo),,0
+VEHICLE,290104,缁勪欢鍔犲伐鍖勭todo),,0
+VEHICLE,290105,瀛樺湪灏氭湭淇濆瓨鐨勬敼鍔?紝鏄?惁涓嶄繚瀛樺苟閫鍑猴紵(todo),,0
+VEHICLE,290106,褰撳墠鏃犳?闃熸弧瓒崇偣浣嶅缓璁?晥鑳肩todo),,0
+VEHICLE,290107,瑁呯敳椋庢牸(todo),,0
+VEHICLE,290108,瑁呯敳鍥剧焊(todo),,0
+VEHICLE,290109,缁勪欢鍥剧焊(todo),,0
+VEHICLE,290110,闃叉姢缁勪欢(todo),,0
+VEHICLE,290111,鑷?姩鍙嶅簲绯荤粺(todo),,0
+VEHICLE,290112,璇嶆潯鑼冨洿(todo),,0
+VEHICLE,290113,鏈哄姩瑁呯敳鎶鑳肩todo),,0
+VEHICLE,290114,缁勪欢鎶鑳肩todo),,0
+VEHICLE,290115,缁勪欢璇嶆潯(todo),,0
+VEHICLE,290116,鎶鑳借瘝鏉犵todo),,0
+VEHICLE,290117,姝﹀櫒灞炴︾todo),,0
+VEHICLE,290118,鎴樻湳浜哄瀷鏈虹敳(todo),,0
+VEHICLE,290119,涓绘垬鍧﹀厠(todo),,0
+VEHICLE,290120,閫夋嫨缁勪欢(todo),,0
+VEHICLE,290121,閫夋嫨//n缁勪欢(todo),,0
+VEHICLE,290122,鏈夊彲鐢ㄦ潵寮哄寲鐨勯亾鍏剁todo),,0
+VEHICLE,290123,褰撳墠寮硅嵂鍙ｇ伯涓嶈冻锛屾棤娉曞彂璧疯繙绋嬫敾鍑汇佺todo),,0
+VEHICLE,290124,缁勪欢浠撳簱(todo),,0
+VEHICLE,290125,閫氱敤缁勪欢缂栨垚(todo),,0
+VEHICLE,290126,灞炴у姞鎴愭眹鎬虹todo),,0
+VEHICLE,290127,- 璇勫垎 -(todo),,0
+VEHICLE,290128,澶囩敤鑳芥簮(todo),,0
+VEHICLE,290129,鍥炴敹(todo),,0
+VEHICLE,290130,涓夋槦缁勪欢(todo),,0
+VEHICLE,290131,鍥涙槦缁勪欢(todo),,0
+VEHICLE,290132,鍗镐笅缁勪欢(todo),,0
+VEHICLE,290133,缁勪欢璇︽儏(todo),,0
+VEHICLE,290134,缁勪欢鏁版嵁(todo),,0
+VEHICLE,290135,鎶鑳煎璇嶆潯(todo),,0
+VEHICLE,290136,缁勪欢鎶鑳肩todo),,0
+VEHICLE,290137,瀛樹负(todo),,0
+VEHICLE,290138,杩涜?涓?todo),,0
+VEHICLE,290139,椋庢牸鍥剧焊(todo),,0
+VEHICLE,290140,璇曠┛涓?todo),,0
+VEHICLE,290141,杞︾粍(todo),,0
+VEHICLE,290142,鐔熺粌搴ョtodo),,0
+VEHICLE,290143,鍗镐笅鍥剧焊(todo),,0
+VEHICLE,290144,鐗规晥鏇挎崲(todo),,0
+VEHICLE,290145,闊虫晥鏇挎崲(todo),,0
+VEHICLE,290146,瑁呯敳椋庢牸(todo),,0
+VEHICLE,290147,瀛樺湪鍗犵敤涓?殑鎴愬憳/缁勪欢锛岄儴鍒嗘垚鍛楊缁勪欢鏈?兘鎴愬姛濂楃敤棰勮?銆佺todo),,0
+VEHICLE,290148,鍓嶈繘钀ュ湴姊?槦(todo),,0
+VEHICLE,290149,杩滅▼鏀诲嚮(todo),,0
+VEHICLE,290150,鍙栨秷鏀诲嚮(todo),,0
+VEHICLE,290151,{0}鏍荤todo),,0
+VEHICLE,290152,涓嬪洖鍚堝彲鐢хtodo),,0
+VEHICLE,290153,鍗冲皢閲嶇疆棰勮?{0}鐨勯厤缃?紝鏄?惁缁х画(todo),,0
+VEHICLE,290154,鏄?惁灏嗗綋鍓嶆満鍔ㄨ?鐢茬紪鎴愬瓨鍏ラ?璁緖0}锛炵todo),,0
+VEHICLE,290155,褰撳墠鑳芥簮涓嶈冻锛屾垬鏂楁棤娉曠户缁?紝//n浠ｇ悊浣滄垬缁堟?(todo),,0
+VEHICLE,290156,褰撳墠蹇?熶慨澶嶅?绾︿笉瓒筹紝宸茬粓姝?唬鐞嗕綔鎴楃todo),,0

@@ -19099,6 +19099,38 @@
     touch_area: "5,5,3"
   }
   {
+    id: 7238
+    name: 必勝のダルマ
+    classes: 72
+    type: 201
+    space: "4,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: なにがあっても倒れないこいつは、まさに不撓不屈の信念の化身だ！待て、P7！さてはまた何かを企んでいるんじゃないだろうな！
+    code: qjyd_20230102_deco_01
+    texture_type: "2"
+    offset: "0.000,0.136,0.031"
+    rotate: "2"
+    touch_area: "4,4,4"
+  }
+  {
+    id: 7239
+    name: 福招きの三毛猫
+    classes: 72
+    type: 201
+    space: "5,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 多くの猫が夢にも見ていた理想の仕事だ。ただ座って手招いていればいいなんて……しかし話によると、手招きすぎて腕が二度と上がらなくなった猫もいたらしい。だから、みんなは招き猫にやさしくするんだぞ！
+    code: qjyd_20230101_deco_01
+    texture_type: "2"
+    offset: "0.000,0.334,0.073"
+    rotate: "2"
+    interact_point: "43"
+    interact_point_offset: *0.379,0.911,0.199
+    touch_area: "5,5,5"
+  }
+  {
     id: 7301
     name: 水族館-フロア
     classes: 73
@@ -29198,11 +29230,13 @@
   }
   {
     id: 30575
+    name: インクフィズ
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
+    description: QBZ-191のポスター。
     code: poster_Carnival2022_QBZ191
     texture_type: "1"
     sorting: "5"
@@ -36274,6 +36308,96 @@
     rotate: "3"
   }
   {
+    id: 37601
+    name: 付き纏うかの影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M327のポスター。
+    code: poster_Halloween2022_M327
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37602
+    name: 地獄先遣隊
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: KH2002のポスター。
+    code: poster_Halloween2022_KH2002
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37603
+    name: 竹林の銀の鱗
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: JS 9のポスター。
+    code: poster_Halloween2022_JS9mm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37604
+    name: 指先から生れるもの
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PPQのポスター。
+    code: poster_Halloween2022_PPQ
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37605
+    name: お菓子取ったの誰だ？
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ステンMK-IIのポスター。
+    code: poster_Halloween2022_StenMK2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37607
+    name: 夜の女伯爵
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43のポスター。
+    code: poster_Halloween2022_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 37701
     name: 游龍形拳
     classes: 300
@@ -40850,6 +40974,21 @@
     decompose_gift: 100003
     description: QBZ-191のポスター。
     code: poster_BattlePass_QBZ191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330009
+    name: 浴槽の波
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Saiga-12のポスター。
+    code: poster_BattlePass_Saiga12
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

@@ -7231,7 +7231,6 @@
     item_ids: 7-1,41-100
     gift: 8605-1
     gemprice: "2588"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(AK-12)
     event_code: dailyGiftbag
@@ -7245,7 +7244,6 @@
     item_ids: 7-1,41-100
     gift: 8606-1
     gemprice: "2588"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(AN-94)
     event_code: dailyGiftbag
@@ -7259,7 +7257,6 @@
     item_ids: 7-1,41-100
     gift: 8607-1
     gemprice: "2588"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(AK-15)
     event_code: dailyGiftbag
@@ -7273,7 +7270,6 @@
     item_ids: 7-1,41-100
     gift: 8608-1
     gemprice: "2588"
-    if_cheap: "1"
     quota: "2001"
     giftbag_name: スキンパック(RPK-16)
     event_code: dailyGiftbag
@@ -31373,6 +31369,32 @@
     giftbag_name: 融合勢力専用補給パック
     event_code: dailyGiftbag
     icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31816"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 7602-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(KH2002)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin02
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "31817"
+    type: "8"
+    item_ids: 15-200,506-200,46-60,9-20
+    gemprice: "198"
+    quota: "2020"
+    giftbag_name: 重装部隊補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_jyuusou
     discount: "1.00"
     classification_id: "3002"
   }
