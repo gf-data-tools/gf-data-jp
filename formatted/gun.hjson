@@ -7596,7 +7596,7 @@
     effect_grid_pos: "25"
     effect_grid_effect: "1,20"
     type_equip1: 2;5,17
-    type_equip2: 1;1,2,3,16
+    type_equip2: 1;1,2,3,16,18
     type_equip3: 3;14,21
     ai: 87
     launch_time: 1970-01-01 08:00:00
@@ -14870,7 +14870,7 @@
     effect_guntype: "1"
     effect_grid_pos: "19"
     effect_grid_effect: "6,12"
-    type_equip1: 2;5
+    type_equip1: 2;5,19
     type_equip2: 1;1,2,3,13
     type_equip3: 3;15
     ai: 174
@@ -21621,7 +21621,7 @@
     effect_guntype: "2"
     effect_grid_pos: "17,19"
     effect_grid_effect: "1,10;4,10"
-    type_equip1: 1;1,2,3,4,13
+    type_equip1: 1;1,2,3,4,13,18
     type_equip2: 2;8
     type_equip3: 3;9,10
     ai: 105
