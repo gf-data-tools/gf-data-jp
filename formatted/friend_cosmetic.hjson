@@ -6410,6 +6410,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_Halloween2019_dog
     order: 1
     rarity: 5
@@ -6423,6 +6424,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_Halloween2019_battle
     order: 1
     rarity: 5
@@ -6436,6 +6438,7 @@
     sub_type: 2
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: card_Halloween2019
     order: 1
     rarity: 5
@@ -14166,6 +14169,39 @@
     skin: 30003
     filter_type: "4"
     frame_id: 200005
+  }
+  {
+    id: 1214
+    item_id: 2214
+    sub_type: 1
+    code: profilePic_ChessFlight_season9_1
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200008
+    logo_code: logo_flightchess_major
+  }
+  {
+    id: 1215
+    item_id: 2215
+    sub_type: 1
+    code: profilePic_ChessFlight_season9_2
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200007
+    logo_code: logo_flightchess_general
+  }
+  {
+    id: 1216
+    item_id: 2216
+    sub_type: 1
+    code: profilePic_ChessFlight_season9_3
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200006
+    logo_code: logo_flightchess_chief
   }
   {
     id: 1217

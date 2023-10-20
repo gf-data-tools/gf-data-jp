@@ -15809,12 +15809,10 @@
     expect_turn: 3
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "295"
     map_res_name: OPS27_Y
     map_information: "8000,7502|4096,2702|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "6091"
     mission_group_id: 8
     round_config: 1:1,2:2,3:3
     limit_squad: 2
@@ -15837,12 +15835,10 @@
     expect_turn: 3
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "297"
     map_res_name: OPS27_Y
     map_information: "8000,7502|4096,2702|2000,-2000"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "6091"
     mission_group_id: 8
     round_config: 1:1,2:2,3:3
     limit_squad: 2
@@ -15864,12 +15860,10 @@
     expect_turn: 5
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "276"
     map_res_name: OPS5_Y
     map_information: "5760,5040|3419,2141|1887,-2106"
     fog_length: "0,500"
     fog_color: "#000000E5"
-    draw_event_s_id: "6092"
     mission_group_id: 8
     round_config: 1:1,2:4,3:3
     limit_squad: 2
@@ -15892,12 +15886,10 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "316"
     map_res_name: OPS27_Y
     map_information: "8000,7502|4086,2702|1700,-800"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "6092"
     mission_group_id: 8
     round_config: 1:1,2:4,3:3
     limit_squad: 2

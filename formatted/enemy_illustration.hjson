@@ -3479,6 +3479,28 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    id: 175
+    name: エクスキューショナー-ブラッドハンター
+    type: 1
+    code: Excutioner_Halloween
+    introduce: 追撃戦特化型の素体に乗り換えたエクスキューショナー。本人の要望により、巨大な義手と可変式高温大鎌が搭載されている。戦闘中は稲を刈り取るように敵を薙ぎ倒し、極めて高い破壊力を持つ。ダークカラーの衣装も隠蔽に長け、背後から敵の命を狙う。かの夢に帰る者を見たか？夜に現れ、死に隠れる。そのすべては、悪夢に堕ちた狂気を刈り取るために。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 3
+    armor_rank: 3
+    speed_rank: 3
+    range_rank: 2
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,202"
+    enemy_skill: "60"
+    launch_time: 2035-5-20 00:00:00
+    org_id: 10604
+  }
+  {
     id: 176
     name: タレウス
     type: 1
