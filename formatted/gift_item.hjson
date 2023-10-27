@@ -7763,6 +7763,19 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 7606
+    name: 魔女見習い
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 86
+    skin: 7606
+    poster: 37606
+    code: gift_bundle_Halloween2022_MG42
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 7607
     name: 夜の女伯爵
     type: 2

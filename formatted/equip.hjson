@@ -9102,6 +9102,39 @@
     obtain_ids: "3003"
   }
   {
+    id: 292
+    name: 反動軽減キッド
+    description:
+      '''
+      火力+<pow>
+      命中+<hit>スキル強化$Saiga-12専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,5"
+    hit: "11,15"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_Saiga12
+    develop_duration: 3000
+    company: PT
+    fit_guns: "160"
+    equip_introduction: PT社がSaiga-12用に開発した特別な反動軽減システム、発砲時に反動を40%～50%ほど軽減できるとされている。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: pow:600,hit:1000
+    passive_skill: "759044"
+    max_level: 10
+    auto_select_id: 18099
+    is_show: 1
+    obtain_ids: "3070"
+  }
+  {
     id: 293
     name: ナノマテリアルマント
     description:
