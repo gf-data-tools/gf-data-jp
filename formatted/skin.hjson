@@ -7028,6 +7028,75 @@
     class_id: 87
   }
   {
+    id: 8401
+    name: もふもふカート
+    fit_gun: 122
+    ai: 48401
+    voice: 4
+    substitute_voice: G11_0
+    dialog: もふもふ、フワフワで……わぁ～……さっき夢で見た汚い地下室よりずっと気持ちいい～……
+    order: 97
+    class_id: 89
+  }
+  {
+    id: 8402
+    name: お家の聖騎士
+    fit_gun: 374
+    ai: 48402
+    voice: 4
+    substitute_voice: M240L_0
+    dialog: 王の剣に鉄の兜、神の使いに乗り……おっと、鎧を作るの忘れてた！バッドドラゴン、待ってろよ！騎士の装備が完成したら、勝負だ！
+    gift_position: "-98.9,207.9"
+    order: 97
+    class_id: 89
+  }
+  {
+    id: 8403
+    name: ラッピングコレクター
+    fit_gun: 163
+    ai: 48403
+    voice: 4
+    substitute_voice: AA12_0
+    dialog: 98……99……ん、ちょい待ち！その包み紙もくれ！あと1枚で100。新しいロリポップと交換できる。
+    order: 97
+    class_id: 89
+  }
+  {
+    id: 8404
+    name: ビールとわんこ
+    fit_gun: 117
+    ai: 48404
+    voice: 4
+    substitute_voice: PSG1_0
+    dialog: 指揮官、この機械犬の飼い主を知りませんか？キッチンに飲み物を取りに行ってから、ずっとくっついて離れないんです……
+    order: 97
+    class_id: 89
+  }
+  {
+    id: 8405
+    name: ハート・キャッチ・マジシャン
+    fit_gun: 12
+    ai: 48405
+    voice: 4
+    substitute_voice: C96_0
+    dialog: 良い子のみんな～、この魔法の帽子見たことあるかな？心を込めて私にお願いするだけで、何でも叶えちゃうぞ~
+    illustrator_cv: 星迴,板谷彩香,
+    order: 97
+    class_id: 89
+  }
+  {
+    id: 8406
+    name: ティン・ソルジャーの一日
+    fit_gun: 2
+    ai: 48406
+    voice: 4
+    substitute_voice: M1911_0
+    dialog: パトロール犬にブリキの兵隊2号、いざ出陣だ！……指揮官様、私たちのことバカにしてませんか？もし敵が、魔法が使えるようになったら、私たち3人こそグリフィンのエースですよ！
+    illustrator_cv: 小星,松井恵理子,
+    order: 97
+    class_id: 89
+  }
+  {
     id: 8601
     name: デューティ・クライシス
     fit_gun: 282
@@ -7209,5 +7278,14 @@
     dialog: Saiga-12、みんなを清潔にします！さぁ、次の美少女人形、早く……あっ、指揮官もいいですよ～
     illustrator_cv: yoyo,金元寿子,
     order: 96
+  }
+  {
+    id: 30010
+    name: 青い波のトランぺッター
+    fit_gun: 5
+    voice: 4
+    dialog: こうしてトランペットを吹けば、カモメたちが沈没船の周りに集まり、宝を探してくれるのじゃ！ふふん、これで、わしを連れてきたことが正解だと信じてくれたかのう？
+    illustrator_cv: yoyo,金元寿子,
+    order: 97
   }
 ]

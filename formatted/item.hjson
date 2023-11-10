@@ -565,6 +565,15 @@
     rank: 1
   }
   {
+    id: 111
+    type: 3
+    arg: "12"
+    code: Medal_2019winter_re_rank
+    item_name: カオス・リッパー勲章
+    introduction: 「異性体」ランキングモード「混乱の幕引き+」にて、卓越した戦果を残したことを表彰します。「我が太陽よ、我を照らし、その両手で闇を切り裂け」
+    rank: 1
+  }
+  {
     id: 112
     type: 3
     arg: "13"
@@ -12221,6 +12230,60 @@
     rank: 1
   }
   {
+    id: 2323
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_G11
+    item_name: もふもふカート
+    introduction: もふもふカート
+    rank: 1
+  }
+  {
+    id: 2324
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_M240L
+    item_name: お家の聖騎士
+    introduction: お家の聖騎士
+    rank: 1
+  }
+  {
+    id: 2325
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_AA12
+    item_name: ラッピングコレクター
+    introduction: ラッピングコレクター
+    rank: 1
+  }
+  {
+    id: 2326
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_PSG1
+    item_name: ビールとわんこ
+    introduction: ビールとわんこ
+    rank: 1
+  }
+  {
+    id: 2327
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_C96
+    item_name: ハート・キャッチ・マジシャン
+    introduction: ハート・キャッチ・マジシャン
+    rank: 1
+  }
+  {
+    id: 2328
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_M1911
+    item_name: ティン・ソルジャーの一日
+    introduction: ティン・ソルジャーの一日
+    rank: 1
+  }
+  {
     id: 2331
     type: 5
     arg: "1"
@@ -12236,6 +12299,24 @@
     code: profilePic_BattlePass_Saiga12
     item_name: 浴槽の波
     introduction: 浴槽の波
+    rank: 1
+  }
+  {
+    id: 2343
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1895
+    item_name: IDカード背景：沈没船の秘密
+    introduction: IDカード背景：沈没船の秘密
+    rank: 1
+  }
+  {
+    id: 2344
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1895
+    item_name: 青い波のトランぺッター
+    introduction: 青い波のトランぺッター
     rank: 1
   }
   {
@@ -15491,6 +15572,26 @@
     detail_introduction: item-30140020
   }
   {
+    id: 140021
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140021
+    introduction: item-20140021
+    rank: 1
+    detail_introduction: item-30140021
+  }
+  {
+    id: 140022
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140022
+    introduction: item-20140022
+    rank: 1
+    detail_introduction: item-30140022
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -15682,6 +15783,15 @@
     code: profileFrame_BattlePass_Saiga12
     item_name: アイコンフレーム：泡沫の私語
     introduction: アイコンフレーム：泡沫の私語
+    rank: 1
+  }
+  {
+    id: 200028
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1895
+    item_name: アイコンフレーム：浜辺の航跡
+    introduction: アイコンフレーム：浜辺の航跡
     rank: 1
   }
   {
@@ -16655,6 +16765,46 @@
     id: 1500084
     type: 15
     arg: "1500084"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500091
+    type: 15
+    arg: "1500091"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500092
+    type: 15
+    arg: "1500092"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500093
+    type: 15
+    arg: "1500093"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500094
+    type: 15
+    arg: "1500094"
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。

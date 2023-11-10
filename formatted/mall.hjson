@@ -31377,7 +31377,6 @@
     item_ids: 7-1,41-100
     gift: 7602-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(KH2002)
     event_code: dailyGiftbag
@@ -31445,6 +31444,36 @@
     icon: Bumdle_yuugo01
     discount: 1
     classification_id: 3002
+  }
+  {
+    id: 31822
+    type: 8
+    item_ids: 509-100
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    gemprice: 98
+    quota: 2005
+    giftbag_name: 妖精指令補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_natsu
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 31823
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 8402-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(M240L)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin07
+    discount: 1
+    classification_id: 3003
   }
   {
     id: 99001

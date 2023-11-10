@@ -8127,6 +8127,84 @@
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }
   {
+    id: 8401
+    name: もふもふカート
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 122
+    skin: 8401
+    poster: 38401
+    code: gift_bundle_Children2023_G11
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 8402
+    name: お家の聖騎士
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 374
+    skin: 8402
+    poster: 38402
+    code: gift_bundle_Children2023_M240L
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 8403
+    name: ラッピングコレクター
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 163
+    skin: 8403
+    poster: 38403
+    code: gift_bundle_Children2023_AA12
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 8404
+    name: ビールとわんこ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 117
+    skin: 8404
+    poster: 38404
+    code: gift_bundle_Children2023_PSG1
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 8405
+    name: ハート・キャッチ・マジシャン
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 12
+    skin: 8405
+    poster: 38405
+    code: gift_bundle_Children2023_C96
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 8406
+    name: ティン・ソルジャーの一日
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 2
+    skin: 8406
+    poster: 38406
+    code: gift_bundle_Children2023_M1911
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
     id: 8601
     name: デューティ・クライシス
     type: 2
@@ -8384,6 +8462,19 @@
     skin: 30009
     poster: 330009
     code: gift_bundle_BattlePass_Saiga12
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+  }
+  {
+    id: 30010
+    name: 青い波のトランぺッター
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 5
+    skin: 30010
+    poster: 330010
+    code: gift_bundle_BattlePass_M1895
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
   }

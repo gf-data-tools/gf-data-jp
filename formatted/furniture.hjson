@@ -36803,6 +36803,94 @@
     rotate: "3"
   }
   {
+    id: 38401
+    name: もふもふカート
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr G11のポスター
+    code: poster_Children2023_G11
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38402
+    name: お家の聖騎士
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    code: poster_Children2023_M240L
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38403
+    name: ラッピングコレクター
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AA-12のポスター。
+    code: poster_Children2023_AA12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38404
+    name: ビールとわんこ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr PSG-1のポスター。
+    code: poster_Children2023_PSG1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38405
+    name: ハート・キャッチ・マジシャン
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    code: poster_Children2023_C96
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38406
+    name: ティン・ソルジャーの一日
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1911のポスター。
+    code: poster_Children2023_M1911
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38601
     name: デューティ・クライシス
     classes: 300
@@ -41004,6 +41092,21 @@
     decompose_gift: 100003
     description: Saiga-12のポスター。
     code: poster_BattlePass_Saiga12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330010
+    name: 青い波のトランぺッター
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1895のポスター。
+    code: poster_BattlePass_M1895
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
