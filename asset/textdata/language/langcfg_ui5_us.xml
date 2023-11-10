@@ -29549,18 +29549,18 @@
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/BossInfo/Tex_BossName_1">
     <xmlID>Assets/_Scenes/HotUpdate.unity/BossInfo/Tex_BossName_1</xmlID>
-    <rect>(473.09, -21.9),(1306.7, 169.6)</rect>
+    <rect>(473.09, -21.9),(1305.7, 169.6)</rect>
     <textfont>fzteyasong</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>50</fontsize>
-    <linespac>3</linespac>
+    <linespac>0.9</linespac>
     <richtext>True</richtext>
     <alignment>MiddleRight</alignment>
     <horover>Wrap</horover>
     <verover>Truncate</verover>
     <bestfit>True</bestfit>
-    <minsize>73</minsize>
-    <maxsize>123</maxsize>
+    <minsize>65</minsize>
+    <maxsize>115</maxsize>
     <isOrnamental>False</isOrnamental>
     <ignoreOrnament>False</ignoreOrnament>
   </item>
