@@ -14605,6 +14605,34 @@
     rank: 1
   }
   {
+    id: 100166
+    type: 9
+    arg: "100166"
+    code: Christmas_Coin
+    item_name: クリスマスコイン
+    introduction: クリスマスコイン
+    rank: 1
+    daily_limit: "120"
+  }
+  {
+    id: 100167
+    type: 4
+    arg: "100167"
+    code: Nova_medal_black
+    item_name: 新星勲章・一枚の重み
+    introduction: 新星勲章・一枚の重み
+    rank: 1
+  }
+  {
+    id: 100168
+    type: 4
+    arg: "100168"
+    code: Platinum_medal_black
+    item_name: 白金勲章・一枚の重み
+    introduction: 白金勲章・一枚の重み
+    rank: 1
+  }
+  {
     id: 100175
     type: 9
     arg: "100175"

@@ -8535,49 +8535,49 @@
   {
     id: 1356
     name: prize-10001356
-    item_ids: 900051-15
+    item_ids: 100166-15
     content: prize-20001356
   }
   {
     id: 1357
     name: prize-10001357
-    item_ids: 900051-20
+    item_ids: 100166-20
     content: prize-20001357
   }
   {
     id: 1358
     name: prize-10001358
-    item_ids: 900051-15,900052-1
+    item_ids: 100166-15,100167-1
     content: prize-20001358
   }
   {
     id: 1359
     name: prize-10001359
-    item_ids: 900051-20,900053-1
+    item_ids: 100166-20,100168-1
     content: prize-20001359
   }
   {
     id: 1360
     name: prize-10001360
-    item_ids: 900052-1
+    item_ids: 100167-1
     content: prize-20001360
   }
   {
     id: 1361
     name: prize-10001361
-    item_ids: 900053-1
+    item_ids: 100168-1
     content: prize-20001361
   }
   {
     id: 1362
     name: prize-10001362
-    item_ids: 900052-2
+    item_ids: 100167-2
     content: prize-20001362
   }
   {
     id: 1363
     name: prize-10001363
-    item_ids: 900053-2
+    item_ids: 100168-2
     content: prize-20001363
   }
   {
@@ -9344,6 +9344,13 @@
     skin: 209
     content: prize-20001533
     icon: NPC_Kalina_209
+  }
+  {
+    id: 1534
+    name: prize-10001534
+    gem: 90
+    equip_ids: "294"
+    content: prize-20001534
   }
   {
     id: 1537
