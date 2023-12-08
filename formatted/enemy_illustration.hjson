@@ -333,7 +333,7 @@
     speed_rank: 2
     range_rank: 3
     counter: そこそこ厚い装甲を持ち、火力も高いため、部隊の作戦能力を高め、素早く片付けるとよい。
-    character: "1003,309,301"
+    character: "1003,302,309,301"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000016
     spine_scale: "80,80,1"
@@ -536,7 +536,7 @@
     armor_rank: 2
     range_rank: 5
     counter: 電源を断たない限り危険性が非常に高いため、周囲を占領しエネルギーの供給を断ってから倒すとよい。
-    character: "1003,309,910"
+    character: "1003,302,309,910"
     enemy_skill: "12"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000025
@@ -919,7 +919,7 @@
     speed_rank: 3
     range_rank: 5
     counter: 装甲値が高く、チャージを行った後に貫通する強力な一撃を放つ。最大俯角に限りがあるため、速やかに接近することで攻撃を免れる。シールド系スキルで攻撃の一部を防げるが望ましくはない。
-    character: "1001,1003,309,320"
+    character: "1001,1003,302,309,320"
     enemy_skill: "20"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000043
@@ -1028,7 +1028,7 @@
     speed_rank: 1
     range_rank: 3
     counter: 高めの装甲と偏向防壁を持っており、無効にするダメージの割合が大きい。複数の榴弾を放つ。破甲能力の高い人形で素早く削るか、シールドを持つ人形で榴弾を防ぐ必要がある。重装部隊の支援があるとなおよい。
-    character: "1003,309,312,319"
+    character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000048
@@ -1049,7 +1049,7 @@
     speed_rank: 3
     range_rank: 4
     counter: 高効率の偏向障壁と厚めの装甲を持ち、かなりのダメージを無効化する。体当たりを仕掛け陣形を崩しにかかるので、適宜人形を移動させ回避が必要。重装部隊の支援があるとなおよい。
-    character: "1001,309,312"
+    character: "1001,302,309,312"
     enemy_skill: "31,32"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000049
@@ -1167,7 +1167,7 @@
     speed_rank: 3
     range_rank: 5
     counter: 能力は平均的。味方に軽度のダメージを持続的に与えてくるため、長時間の交戦は避けるべし。部隊全体の能力を上げて対処するとよい。
-    character: "1001,301"
+    character: "1001,302,301"
     enemy_skill: "57,58"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000054
@@ -1362,7 +1362,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 一定の装甲と偏向障壁を持ち、デフォルトのダメージ軽減割合は並みだが、時間経過とともに偏向障壁を強化し続けるので、破砕能力が低い場合、長時間の交戦は望ましくない。重装部隊の支援は必須に近い。
-    character: "309,312,316"
+    character: "309,302,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000063
@@ -1384,7 +1384,7 @@
     speed_rank: 2
     range_rank: 4
     counter: 厚めの装甲と偏向障壁を持ち、強力な回避性能を有するため、攻撃のタイミングに注意が必要。狙撃スキルなど必中の攻撃を持つ人形を編成するとよい。
-    character: "1001,309,310,315"
+    character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000064
@@ -1569,7 +1569,7 @@
     speed_rank: 2
     range_rank: 1
     counter: 厚い装甲を持ち、移動速度は遅め。小型のミサイルを複数発放ち、広い範囲攻撃を行う。着弾予告に注意し、人形を指揮して適宜回避する必要がある。
-    character: "303,309,313"
+    character: "302,303,309,313"
     enemy_skill: "26,33"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000073
@@ -1589,7 +1589,7 @@
     armor_rank: 3
     range_rank: 5
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
-    character: "908,910,326"
+    character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000074
     spine_scale: "-15,15,1"
@@ -1608,7 +1608,7 @@
     armor_rank: 3
     range_rank: 5
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
-    character: "908,910,326"
+    character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000075
     spine_scale: "-15,15,1"
@@ -1627,7 +1627,7 @@
     armor_rank: 3
     range_rank: 5
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
-    character: "908,910,326"
+    character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000076
     spine_scale: "-15,15,1"
@@ -1648,7 +1648,7 @@
     speed_rank: 4
     range_rank: 2
     counter: 高めの装甲を持ち、相手の前列と後列をを同時に攻撃するため、前列と後列の人形で距離を空けるとよい。
-    character: "1001,303,309,310"
+    character: "1001,302,303,309,310"
     enemy_skill: "48,49,50"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000077
@@ -1686,7 +1686,7 @@
     speed_rank: 5
     range_rank: 3
     counter: 一般的な装甲を持つため、味方の破甲能力を高め、前列の人形の防御力に気を配ろう。また、強力な砲撃を行うため、ロックされた場合は素早く人形を移動させ、周りに被害が及ばないようにしよう。
-    character: "1001,1003,309,317,316"
+    character: "1001,1003,302,309,317,316"
     enemy_skill: "52,53"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000079
@@ -1708,7 +1708,7 @@
     speed_rank: 6
     range_rank: 7
     counter: 強めの装甲を持つ。攻撃予告を行った位置に中程度のダメージを与えるため、人形を指揮し適宜回避が必要。シールドを持つ状態のアレスに貫通攻撃を行うと、一定時間硬直する。
-    character: "1001,309,326,316"
+    character: "1001,302,309,326,316"
     enemy_skill: "93,94,95"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000080
@@ -2384,7 +2384,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 一定の装甲と偏向障壁を持ち、デフォルトのダメージ軽減割合は並みだが、時間経過とともに偏向障壁を強化し続けるので、破砕能力が低い場合、長時間の交戦は望ましくない。重装部隊の支援は必須に近い。
-    character: "309,312,316"
+    character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
@@ -2405,7 +2405,7 @@
     speed_rank: 2
     range_rank: 4
     counter: 厚めの装甲と偏向障壁を持ち、強力な回避性能を有するため、攻撃のタイミングに注意が必要。狙撃スキルなど必中の攻撃を持つ人形を編成するとよい。
-    character: "1001,309,310,315"
+    character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -2614,7 +2614,7 @@
     armor_rank: 2
     range_rank: 5
     counter: 射速が高く、火力は一般的。防御の高いショットガン人形で対処することがおすすめ。
-    character: "1001,320"
+    character: "1001,302,320"
     enemy_skill: "129"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -2754,7 +2754,7 @@
     speed_rank: 5
     range_rank: 5
     counter: このユニットは残りHPが多い時、砲撃陣地としての効果を持つ。味方に対しては極めて高い脅威になるため、速やかに制圧することをおすすめする。
-    character: "1001,335,320,309"
+    character: "1001,302,335,320,309"
     enemy_skill: "126,127,128"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -3255,7 +3255,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 一定の装甲と偏向障壁を持ち、デフォルトのダメージ軽減割合は並みだが、時間経過とともに偏向障壁を強化し続けるので、破砕能力が低い場合、長時間の交戦は望ましくない。重装部隊の支援は必須に近い。
-    character: "309,312,316"
+    character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
@@ -3355,7 +3355,7 @@
     speed_rank: 1
     range_rank: 3
     counter: HPが低いユニットは非常に不利、速やかに対処することをお勧めする。
-    character: "1003,314,319"
+    character: "1003,302,314,319"
     enemy_skill: "168"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "60,60,1"
@@ -3376,7 +3376,7 @@
     speed_rank: 3
     range_rank: 3
     counter: 機械ユニットの迎撃に長けている。ミサイルの攻撃に注意しよう。
-    character: "1001,1003"
+    character: "1001,1003,302"
     enemy_skill: "169,170"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -3455,7 +3455,7 @@
     speed_rank: 5
     range_rank: 5
     counter: 高い火力と防御力を有している。タイミングを見て集中攻撃を仕掛けよう。
-    character: "1001,320"
+    character: "1001,320,302"
     enemy_skill: "174,175,176"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -3508,7 +3508,6 @@
     code: Nyto_tareus
     introduce: タレウス、機甲操縦特化型のネイト。機甲「ミズ・イヴ」と非常に高い同調率を有しており、その高い火力で敵に壊滅的な打撃を与える。記憶の洗浄と改変を繰り返し受けてきたため、メンタルは弱く、感情も不安定。たまに人間だった頃の記憶を思い出すも、プログラムによってすぐに消される。
     forces: 3
-    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3523,6 +3522,7 @@
     launch_time: 2035-5-20 00:00:00
     extra: ",南雲希美,"
     spine_scale: "50,50,1"
+    org_id: 10603
   }
   {
     id: 177

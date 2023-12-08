@@ -426,7 +426,7 @@
   }
   {
     id: 52
-    type: 5
+    type: 1
     arg: "1"
     code: 签到枪容错
     item_name: 戦術人形：謎の人形
@@ -11683,6 +11683,60 @@
     rank: 1
   }
   {
+    id: 2207
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2022_Delisle
+    item_name: 紡ぐ星光
+    introduction: 紡ぐ星光
+    rank: 1
+  }
+  {
+    id: 2208
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2022_Lusa
+    item_name: トナカイのラテ
+    introduction: トナカイのラテ
+    rank: 1
+  }
+  {
+    id: 2209
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2022_MPL
+    item_name: 雪を駆ける赤
+    introduction: 雪を駆ける赤
+    rank: 1
+  }
+  {
+    id: 2210
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2022_MPK
+    item_name: 氷を越える炎
+    introduction: 氷を越える炎
+    rank: 1
+  }
+  {
+    id: 2211
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2022_KSVK
+    item_name: 雪覆の下
+    introduction: 雪覆の下
+    rank: 1
+  }
+  {
+    id: 2212
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2022_BrenTen
+    item_name: ふわふわいちごタルト
+    introduction: ふわふわいちごタルト
+    rank: 1
+  }
+  {
     id: 2214
     type: 5
     arg: "1"
@@ -12104,12 +12158,33 @@
     rank: 1
   }
   {
+    id: 2273
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_M1919A4Mod
+    rank: 1
+  }
+  {
+    id: 2274
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_K5Mod
+    rank: 1
+  }
+  {
     id: 2275
     type: 5
     arg: "1"
     code: profilePic_rank6_Type100Mod
     item_name: 一〇〇式メンタルアップグレードアイコン
     introduction: 一〇〇式メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2276
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_DP12Mod
     rank: 1
   }
   {
@@ -13003,6 +13078,33 @@
     rank: 1
   }
   {
+    id: 7045
+    type: 7
+    arg: "7042"
+    code: qjyd_20230501
+    item_name: 野に舞う蝶々
+    introduction: 夢見る少女がよく聞く蝶々の囁き――私を夢見た時、私もあなたを夢見る。
+    rank: 1
+  }
+  {
+    id: 7046
+    type: 7
+    arg: "7043"
+    code: qjyd_20230502
+    item_name: 燕の帰り
+    introduction: やさしい少女にしか分からない燕の心――春が訪れ、花が咲き、S09区に帰る時が来た。
+    rank: 1
+  }
+  {
+    id: 7047
+    type: 7
+    arg: "7044"
+    code: qjyd_20230503
+    item_name: 池の魚の夢
+    introduction: 強気な少女だからこそ賛同できる金魚の宣言――空も所詮、湖の影に過ぎない。
+    rank: 1
+  }
+  {
     id: 7201
     type: 7
     arg: "7201"
@@ -13297,6 +13399,66 @@
     is_hide_info: 1
   }
   {
+    id: 9033
+    type: 1
+    arg: "9033"
+    code: props_Component1
+    item_name: 古い設計図
+    introduction: この黄ばんだ紙に書かれているのは、前遺跡開発時代の設計図かもしれない。何かの大型装甲車の設計みたいだが、その詳しい内容はもはや読み解くことができない。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9034
+    type: 1
+    arg: "9034"
+    code: props_Component2
+    item_name: 円錐形のパーツ
+    introduction: 未知の金属材料で造られている。その特性と用途は不明のため、直接触らないようにしよう。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9035
+    type: 1
+    arg: "9035"
+    code: props_core
+    item_name: リング形のパーツ
+    introduction: 独特な形のパーツ。何か強烈な信号を発しているようだが、それを解析することができない。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9036
+    type: 1
+    arg: "9036"
+    code: props_chipset
+    item_name: 精密な機械コア
+    introduction: 現在の技術で分解することができない精密な構造になっている。唯一確認できるのは、内部に高密度なエネルギーが貯蔵されていて、非常に危険ということだ。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9037
+    type: 1
+    arg: "9037"
+    code: props_dataimage
+    item_name: 複合チップセット
+    introduction: それに使用されている技術から見て、とても数十年前の代物だとは思えない。ただ残念ながら、この破損したチップの中からデータを読み取ることはできない。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9038
+    type: 1
+    arg: "9038"
+    code: props_paper
+    item_name: 残存映像データ
+    introduction: 小型のホログラムプロジェクターで出力できる未知の地形映像データ。ただ、座標データが欠損しているため、それが一体どこなのかはまだ解析中だ。
+    rank: 1
+    sort: -999
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -13315,7 +13477,7 @@
     item_name: 超伝導パルス
     introduction: 電子パルスが足りていない場合に使用される。ログインボーナス等の方法で入手でき、通常捕獲を行うことができる。
     rank: 1
-    sort: 30
+    sort: 150
     consume_type: 1
     item_access: "5,3,2"
     detail_introduction: 「捕獲作戦」でマップ上の融合勢力に対し一回捕獲を行うことができる。
@@ -13345,6 +13507,34 @@
     code: pass_accumulation
     item_name: 前線協定パス
     introduction: 「使ったらもっとたくさんの物資が手に入るんじゃなかったのか？その物資がどこにある！？」「全部足元にありますよ、指揮官さま」
+    rank: 1
+  }
+  {
+    id: 10701
+    type: 18
+    arg: "10701"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10702
+    type: 17
+    arg: "10702"
+    code: daily_ticket
+    item_name: 探査許可証
+    introduction: 灰域で一回探査することができる許可証。この許可証を提示すれば、他の資源を消費する必要がなくなる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 10703
+    type: 18
+    arg: "10703"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
     rank: 1
   }
   {
@@ -16310,6 +16500,26 @@
     sort: -1
   }
   {
+    id: 1500021
+    type: 15
+    arg: "1500021"
+    code: Bumdle_sennku
+    item_name: 星4人形支援要請書
+    introduction: カムバックキャンペーンで獲得。倉庫にて支援要請書を使用することができます。指定された☆4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500022
+    type: 15
+    arg: "1500022"
+    code: package_choose
+    item_name: 星5装備指定ビーコン
+    introduction: カムバックキャンペーンで獲得。使用すると、座標指定投下ビーコンから☆5装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500023
     type: 15
     arg: "1500023"
@@ -16670,6 +16880,46 @@
     sort: -1
   }
   {
+    id: 1500059
+    type: 15
+    arg: "1500059"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: カムバックキャンペーンで獲得。使用すると、座標指定投下ビーコンから☆5人形専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500060
+    type: 15
+    arg: "1500060"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査第1期で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500061
+    type: 15
+    arg: "1500061"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査第1期で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500062
+    type: 15
+    arg: "1500062"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査第1期で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500064
     type: 15
     arg: "1500059"
@@ -16838,6 +17088,33 @@
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
+  }
+  {
+    id: 1600001
+    type: 1
+    arg: "1600001"
+    code: anchor_contract
+    item_name: カムバック祈願アンカリング
+    introduction: 獲得後、カムバックプレイヤー専用の祈願アンカリングが1回解放されます。
+    rank: 1
+  }
+  {
+    id: 1600002
+    type: 1
+    arg: "1600002"
+    code: ReturnPlayer_activity
+    item_name: カムバック活躍度
+    introduction: カムバックイベントに参加した際に獲得できます。
+    rank: 1
+  }
+  {
+    id: 1600050
+    type: 1
+    arg: "1600050"
+    code: lucky_ticket
+    item_name: 幸運の手紙
+    introduction: 幸運の手紙を願いのポストに入れると、抽選でグッズが当たる可能性があります！
+    rank: 1
   }
   {
     id: 9500001

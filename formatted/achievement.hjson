@@ -15382,4 +15382,454 @@
     icon_code: 就是这个人
     condition: "11209"
   }
+  {
+    identity: 1041
+    type: map_capture
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 着手点
+    content: 灰域を累計1マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1042
+    type: map_capture
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 前線陣地
+    content: 灰域を累計10マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1043
+    type: map_capture
+    count: 40
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 未開領域
+    content: 灰域を累計40マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1044
+    type: map_capture
+    count: 100
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 前進姿勢
+    content: 灰域を累計100マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1045
+    type: map_capture
+    count: 200
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 蚕食戦術
+    content: 灰域を累計200マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1046
+    type: map_capture
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 囲い込み
+    content: 灰域を累計500マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1047
+    type: map_capture
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 爆発的拡散
+    content: 灰域を累計1000マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1048
+    type: map_capture
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 遍く星々
+    content: 灰域を累計2000マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1049
+    type: map_capture
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 雲散霧消
+    content: 灰域を累計5000マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1050
+    type: map_capture
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 灰域踏破
+    content: 灰域を累計10000マス占領する。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1051
+    type: daily_encounter
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 一時休戦
+    content: 灰域探査でイベントを累計1回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1052
+    type: daily_encounter
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 台風の目
+    content: 灰域探査でイベントを累計10回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1053
+    type: daily_encounter
+    count: 20
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 停戦ライン
+    content: 灰域探査でイベントを累計20回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1054
+    type: daily_encounter
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: さよならトリガー
+    content: 灰域探査でイベントを累計50回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1055
+    type: daily_encounter
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 無人エリア
+    content: 灰域探査でイベントを累計100回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1056
+    type: daily_encounter
+    count: 200
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 夜と夜明け
+    content: 灰域探査でイベントを累計200回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1057
+    type: daily_encounter
+    count: 500
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 塵の後
+    content: 灰域探査でイベントを累計500回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1058
+    type: daily_encounter
+    count: 1000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 孤城を振り返る
+    content: 灰域探査でイベントを累計1000回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1059
+    type: daily_encounter
+    count: 2000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 静かな世界
+    content: 灰域探査でイベントを累計2000回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1060
+    type: daily_encounter
+    count: 5000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 前線に異常なし
+    content: 灰域探査でイベントを累計5000回発生させる。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1061
+    type: daily_game_bonus
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 明日？意外？
+    content: 灰域探査で奇遇の地を累計1回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1062
+    type: daily_game_bonus
+    count: 2
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 映す影
+    content: 灰域探査で奇遇の地を累計2回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1063
+    type: daily_game_bonus
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 水面の下
+    content: 灰域探査で奇遇の地を累計5回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1064
+    type: daily_game_bonus
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 扉の向こう――
+    content: 灰域探査で奇遇の地を累計10回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1065
+    type: daily_game_bonus
+    count: 20
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 嵐が来る前に
+    content: 灰域探査で奇遇の地を累計20回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1066
+    type: daily_game_bonus
+    count: 50
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 荊の中
+    content: 灰域探査で奇遇の地を累計50回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1067
+    type: daily_game_bonus
+    count: 100
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 密林に潜むもの
+    content: 灰域探査で奇遇の地を累計100回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1068
+    type: daily_game_bonus
+    count: 200
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 深淵を覗く
+    content: 灰域探査で奇遇の地を累計200回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1069
+    type: daily_game_bonus
+    count: 500
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 混沌の縁
+    content: 灰域探査で奇遇の地を累計500回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1070
+    type: daily_game_bonus
+    count: 1000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 永夜の徘徊
+    content: 灰域探査で奇遇の地を累計1000回調査する。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
 ]

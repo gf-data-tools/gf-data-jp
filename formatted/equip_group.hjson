@@ -6,6 +6,8 @@
     code: EgroupVec
     equip_unit: "199,200,201"
     group_skill: 2:992050,3:992051
+    fit_gun: "1028"
+    is_addition: 1
   }
   {
     id: 2
@@ -14,5 +16,25 @@
     code: EgroupHk416
     equip_unit: "202,203,204"
     group_skill: 2:992052,3:992053
+    fit_gun: "1029"
+    is_addition: 1
+  }
+  {
+    id: 3
+    name: Хорошо
+    des: フルセット装備のモシン・ナガンは、自身の実力を最大限発揮できるようになった。全部、問題ない。
+    code: EgroupM1891
+    equip_unit: "337,111,86"
+    group_skill: 2:778217,3:759100
+    fit_gun: "20039"
+  }
+  {
+    id: 4
+    name: 16Lab特製「AR-15」
+    des: 16Lab特製の装備を一式揃えたAR-15は、作戦においてより実力を発揮できるようになった。サブウェポンの扱いもより上手くなった。
+    code: EgroupAR15
+    equip_unit: "100,338,60"
+    group_skill: 2:778217,3:759094
+    fit_gun: "20057"
   }
 ]

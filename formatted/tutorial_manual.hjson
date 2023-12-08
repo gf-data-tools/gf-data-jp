@@ -1404,4 +1404,77 @@
     content: 5113f84d52f728ed_draw_220309143850.jpg
     function_control_id: 16
   }
+  {
+    id: 2100
+    type: 1
+    child_ids: "2101,2102,2103,2104,2105,2106,2107,2108"
+    title: 灰域探査
+    sub_title: とある日常探査中、辺境調査団第六支隊は謎の未踏エリアを発見した。
+    code: manual_daily
+    function_control_id: 29
+  }
+  {
+    id: 2101
+    type: 2
+    title: 探査へ
+    sub_title: 探査について知る。
+    content: fed8b3ac0c179987_draw_231206155623.jpg,300297b686f39964_draw_231206155623.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2102
+    type: 2
+    title: マップルール
+    sub_title: 灰域の地形は非常に複雑のため、その規則性を把握することが非常に重要となる。
+    content: 1f523dab27ec3787_draw_231206155623.jpg,dd00957073693eaa_draw_231206155624.jpg,d3bb9c0ec33fdbf9_draw_231206155624.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2103
+    type: 2
+    title: 妖精マス
+    sub_title: 妖精マスのルールと注意事項。
+    content: cb698d4a01ab9abb_draw_231206155624.jpg,14d7feb7e983099e_draw_231206155624.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2104
+    type: 2
+    title: 重装部隊マス
+    sub_title: 重装部隊マスのルールと注意事項。
+    content: 85d327b12b094a92_draw_231206155625.jpg,006f7bf4971b7458_draw_231206155625.jpg,4ff913d8bd386975_draw_231206155625.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2105
+    type: 2
+    title: イベントマス
+    sub_title: イベントマスのルールと注意事項。
+    content: ff9c0baac2a0e02f_draw_231206155625.jpg,a186ba27d3feda87_draw_231206155625.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2106
+    type: 2
+    title: ポイント報酬
+    sub_title: 探査でポイントを収集し、報酬と交換しましょう。
+    content: 5e6460408d81578a_draw_231206155626.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2107
+    type: 2
+    title: 探査リセット
+    sub_title: 探査進捗はいつでもリセットできます。
+    content: ed52591f336eaa48_draw_231206155626.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2108
+    type: 2
+    title: 代理作戦
+    sub_title: グリフィンAI代理作戦システムが運行中です。
+    content: 0f1ae6bdc4c8ebe4_draw_231206155626.jpg
+    function_control_id: 29
+  }
 ]

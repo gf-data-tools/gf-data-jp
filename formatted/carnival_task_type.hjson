@@ -351,11 +351,13 @@
   {
     id: 60
     type: get_friend_points
+    title: 友情ポイント獲得
     content: 本イベント期間中に、友情ポイントを{0}ポイント獲得する
   }
   {
     id: 61
     type: consume_friend_points
+    title: 友情ポイント消費
     content: 本イベント期間中に、友情ポイントを{0}ポイント消費する
   }
   {
@@ -396,43 +398,43 @@
     id: 68
     type: mystery_mission_1
     title: 特殊作戦
-    content: ステージ「テストA-普通」で{0}回勝利する
+    content: ステージ「四点透視-I」で{0}回勝利する
   }
   {
     id: 69
     type: mystery_mission_2
     title: 特殊作戦
-    content: ステージ「テストB-普通」で{0}回勝利する
+    content: ステージ「五点透視-I」で{0}回勝利する
   }
   {
     id: 70
     type: mystery_mission_3
     title: 特殊作戦
-    content: ステージ「テストB-難しい」で{0}回勝利する
+    content: ステージ「四点透視-II」で{0}回勝利する
   }
   {
     id: 71
     type: mystery_mission_4
     title: 特殊作戦
-    content: ステージ「テストB-悪夢」で{0}回勝利する
+    content: ステージ「五点透視-II」で{0}回勝利する
   }
   {
     id: 72
     type: mystery_mission_5
     title: 特殊作戦
-    content: ステージ「テストC-普通」で{0}回勝利する
+    content: ステージ「F18 最後の審判」で{0}回勝利する
   }
   {
     id: 73
     type: mystery_mission_6
     title: 特殊作戦
-    content: ステージ「テストステージJ」で{0}回勝利する
+    content: ステージ「F18 最後の審判 EX」で{0}回勝利する
   }
   {
     id: 74
     type: mystery_mission_7
     title: 特殊作戦
-    content: ステージ「テストステージK」で{0}回勝利する
+    content: ステージ「F18 最後の審判 UX」で{0}回勝利する
   }
   {
     id: 75
@@ -475,7 +477,8 @@
   {
     id: 82
     type: special_mission_point
-    content: ウサギの巣で{0}ポイントに達する
+    title: ランキングステージ
+    content: 「慢性虚脱」のランキングステージで累計{0}ポイントを獲得する
   }
   {
     id: 83
@@ -766,5 +769,11 @@
     title: 大型妖精製造
     content: 大型妖精製造を累計{0}回行う
     function_control_id: 1
+  }
+  {
+    id: 132
+    type: map_capture
+    title: 累計探査ポイント
+    content: 灰域探査でポイントを累計{0}個占領する。
   }
 ]

@@ -258,7 +258,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "2,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 103
@@ -968,7 +968,7 @@
     action_delay: "10,40,70"
     action_playspeed: "100,100,100"
     creation_order: "30,30,30,43,44,45"
-    creation_delay: "10,40,70,10,40,70"
+    creation_delay: "10,40,70,9,40,70"
     effect_order: "1"
     effect_delay: "1"
     effect_duration: "1"
@@ -1218,7 +1218,7 @@
     action_order: attack
     action_playspeed: "100"
     creation_order: "2,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 236
@@ -1305,7 +1305,7 @@
   {
     id: 301
     name: 稻草人特殊攻击
-    action_order: "101"
+    action_order: bossskill
     action_playspeed: "100"
     creation_order: "305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307,305,306,307"
     creation_delay: "39,39,39,43,43,43,47,47,47,51,51,51,55,55,55,59,59,59,63,63,63,67,67,67,71,71,71,75,75,75,79,79,79.83.83.83"
@@ -2394,7 +2394,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "2059,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 455
@@ -4066,7 +4066,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "1309,21,1336,1310,1310,1310"
-    creation_delay: "0,0,0,10,4,7"
+    creation_delay: "0,0,0,9,4,7"
   }
   {
     id: 1316
@@ -4113,7 +4113,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "2,21,1336,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 1324
@@ -4127,7 +4127,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "1339,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 1326
@@ -5658,7 +5658,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "2,21,138,8,10300,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 1617
@@ -9395,7 +9395,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "2,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 3050
@@ -9588,7 +9588,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "3263,3265,3262,3264,3264,3264"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 3075
@@ -9608,7 +9608,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "2,35,3268,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 3077
@@ -11079,7 +11079,7 @@
     action_order: attack
     action_playspeed: "100"
     creation_order: "3568,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
     sound_order: BT_uzi,BT_uzi,BT_uzi
     sound_delay: "0,4,7"
   }
@@ -11089,7 +11089,7 @@
     action_order: attack
     action_playspeed: "100"
     creation_order: "3568,35,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
     sound_order: BT_uzi,BT_uzi,BT_uzi
     sound_delay: "0,4,7"
   }
@@ -11099,7 +11099,7 @@
     action_order: attack1
     action_playspeed: "100"
     creation_order: "3568,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
     sound_order: BT_uzi,BT_uzi,BT_uzi
     sound_delay: "0,4,7"
   }
@@ -11109,7 +11109,7 @@
     action_order: attack1
     action_playspeed: "100"
     creation_order: "3568,35,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
     sound_order: BT_uzi,BT_uzi,BT_uzi
     sound_delay: "0,4,7"
   }
@@ -11842,7 +11842,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "10062,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7"
+    creation_delay: "0,0,0,9,4,7"
   }
   {
     id: 3392
@@ -13009,6 +13009,106 @@
     summon_order: "1671"
   }
   {
+    id: 3557
+    name: 稻草人大招
+    action_order: s,s2
+    action_delay: "0,40"
+    action_playspeed: "100,100"
+    creation_order: "10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393,10391,10392,10393"
+    creation_delay: "39,39,39,43,43,43,47,47,47,51,51,51,55,55,55,59,59,59,63,63,63,67,67,67,71,71,71,75,75,75,79,79,79.83.83.83"
+  }
+  {
+    id: 3558
+    name: 建筑师特殊攻击
+    action_order: s2
+    action_delay: "30"
+    action_playspeed: "100"
+    creation_order: "10394,10396,10410"
+    creation_delay: "50,50,0"
+  }
+  {
+    id: 3559
+    name: 狂欢终结
+    action_order: "103,102"
+    action_delay: "0,73"
+    action_playspeed: "100,100"
+    creation_order: "10402,10403,10404,10405,10406,10407,10408,10409,435,10411,10412,10413,10414"
+    creation_delay: "72,20,203,40,40,40,40,40,63,40,40,40,40"
+    sound_order: BT_BOSS_skill,BT_Rotate
+    sound_delay: "63,90"
+    effect_order: 3(Architect;狂欢终结;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
+    effect_delay: "61,218,41"
+    effect_duration: "30,43,10"
+    stop_time_speed: "0,0"
+    stop_time_delay: "55,213"
+    stop_time_duration: "50,51"
+  }
+  {
+    id: 3560
+    name: 干扰者召唤
+    creation_order: "10398,10398"
+    creation_delay: "0,15"
+  }
+  {
+    id: 3561
+    name: 破坏者普攻
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "10399,10400"
+    creation_delay: "0,10"
+  }
+  {
+    id: 3562
+    name: 干扰者大招
+    action_order: "101"
+    action_playspeed: "100"
+  }
+  {
+    id: 3563
+    name: 干扰者子弹逻辑
+    creation_order: "10426,10427"
+    creation_delay: "0,2"
+  }
+  {
+    id: 3564
+    name: 破坏者一技能
+    action_order: wait,attack
+    action_delay: "0,60"
+    action_playspeed: "100,100"
+  }
+  {
+    id: 3565
+    name: 精英破坏者轰炸
+    action_order: "102,103"
+    action_delay: "80,164"
+    action_playspeed: "200,100"
+    creation_order: "565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,10433,10434,10435,10436,10437,10438,10439,10440,10441,10442,10443,10444,10445,564,605,604,606,607"
+    creation_delay: "0,7,7,7,7,14,14,14,14,14,14,14,14,195,199,203,207,211,215,219,223,227,231,235,239,243,267,268,269,270,257,258,259,260,261,262,263,264,265,285,122,79,290,375"
+    sound_order: BT_BOSS_skill,BT_Sabotager_Jump,BT_Sabotager_Fire
+    sound_delay: "85,164,182"
+    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;盖娅终结;ROCKET LAUNCH;GAIA)
+    effect_delay: "115,87,280,110"
+    effect_duration: "10,10,100,1"
+    stop_time_delay: "112"
+    stop_time_duration: "270"
+    move_order: "204,205,206"
+    move_delay: "164,174,274"
+  }
+  {
+    id: 3566
+    name: 法官瘟疫立场
+    action_order: "101"
+    action_playspeed: "100"
+    creation_order: "10446"
+    creation_delay: "36"
+    effect_order: 2(shakesrc),2(shakesrc)
+    effect_delay: "32,40"
+    effect_duration: "8,8"
+    stop_time_duration: "36"
+    move_order: "207,208,209"
+    move_delay: "29,36,37"
+  }
+  {
     id: 3567
     name: 鱿鱼丝
     creation_order: "10449"
@@ -13030,6 +13130,21 @@
     creation_delay: "39"
   }
   {
+    id: 3570
+    name: 战斗中每隔10秒眩晕敌人2秒。
+    summon_order: "1673"
+  }
+  {
+    id: 3571
+    name: 战斗中每隔8秒对敌方血量最低单位造成10000点伤害。
+    summon_order: "1674"
+  }
+  {
+    id: 3572
+    name: 战斗中每隔10秒清空一次敌人身上护盾。
+    summon_order: "1675"
+  }
+  {
     id: 3573
     name: M110双发
     action_order: "1"
@@ -13044,6 +13159,182 @@
     action_playspeed: "100"
     creation_order: "10462,21,139,10462,21,139,10462,21,139"
     creation_delay: "0,0,0,3,3,3,6,6,6"
+  }
+  {
+    id: 3575
+    name: 机械蜘蛛普攻
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "10468,10469"
+    creation_delay: "0,2"
+  }
+  {
+    id: 3576
+    name: 小蜘蛛召唤
+    action_order: s1
+    action_playspeed: "100"
+    creation_order: "10472"
+    creation_delay: "30"
+  }
+  {
+    id: 3577
+    name: 机械蜘蛛普攻2
+    action_order: move,s2
+    action_delay: "0,20"
+    action_playspeed: "100,100"
+    creation_order: "10470,10471"
+    creation_delay: "32,32"
+    move_order: "886"
+  }
+  {
+    id: 3578
+    name: 扫地机器人扫射
+    action_order: s,s
+    action_delay: "3,21"
+    action_playspeed: "100,100"
+    creation_order: "10473"
+  }
+  {
+    id: 3579
+    name: 扫地机器人轰炸
+    action_order: wait,s2,s2
+    action_delay: "0,45,60"
+    action_playspeed: "100,100,100"
+    creation_order: "10475"
+  }
+  {
+    id: 3580
+    name: 扫地机器人范围buff
+    action_order: wait
+    action_playspeed: "100"
+    creation_order: "10478"
+  }
+  {
+    id: 3581
+    name: 扫地机器人支援轰炸
+    creation_order: "10509"
+  }
+  {
+    id: 3582
+    name: 扫地机器人cutIn
+    action_order: s2
+    action_playspeed: "100"
+    creation_order: "10508"
+    creation_delay: "2"
+    sound_order: BT_squad_morta
+    sound_delay: "29"
+  }
+  {
+    id: 3583
+    name: 工程师蓄力
+    action_order: attack
+    action_playspeed: "100"
+  }
+  {
+    id: 3584
+    name: 工程师召唤
+    action_order: s3
+    action_playspeed: "100"
+    creation_order: "10507"
+  }
+  {
+    id: 3585
+    name: 幼蛛普攻
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "10479"
+  }
+  {
+    id: 3586
+    name: 工程师修复动作
+    action_order: s
+    action_delay: "20"
+    action_playspeed: "100"
+    creation_order: "10504,10506"
+    creation_delay: "3,0"
+  }
+  {
+    id: 3587
+    name: 机甲涅托普攻
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "10480"
+    creation_delay: "7"
+  }
+  {
+    id: 3588
+    name: 机甲涅托技能1
+    action_order: s1
+    action_delay: "67"
+    action_playspeed: "100"
+    creation_order: "10481"
+  }
+  {
+    id: 3589
+    name: 机甲涅托举盾
+    action_order: s2,s3,s3,s3,s3,s3,s3,s3,s3,s3,s3
+    action_delay: "0,20,35,50,65,80,95,110,125,140,155"
+    action_playspeed: "100,100,100,100,100,100,100,100,100,100,100"
+    creation_order: "10505"
+  }
+  {
+    id: 3590
+    name: 炮兵普攻
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "10492"
+  }
+  {
+    id: 3591
+    name: 扫地机器人普攻
+    action_order: attack
+    action_playspeed: "100"
+  }
+  {
+    id: 3592
+    name: 炮兵技能1
+    action_order: s1
+    action_delay: "30"
+    action_playspeed: "100"
+    creation_order: "10495,10494,10503"
+    creation_delay: "0,30,30"
+  }
+  {
+    id: 3593
+    name: 炮兵技能2
+    action_order: s2
+    action_delay: "60"
+    action_playspeed: "100"
+    creation_order: "10496,10497"
+    creation_delay: "60,0"
+  }
+  {
+    id: 3594
+    name: 无人机普攻
+    action_order: s
+    action_playspeed: "100"
+    creation_order: "301,336,336,35,35,35"
+    creation_delay: "1,5,9,1,6,10"
+    sound_order: BT_pistol
+    effect_duration: "1"
+  }
+  {
+    id: 3595
+    name: 无动作技能CUTIN
+    action_delay: "-1"
+    action_playspeed: "100"
+    creation_order: "10512"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 3596
+    name: VRB射击
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "1863"
+    sound_order: BT_Sniper_skill_0
+    sound_delay: "3"
   }
   {
     id: 4001
@@ -17391,7 +17682,7 @@
     id: 5812
     name: 老李增益触发盟友
     creation_order: "8858,8859"
-    creation_delay: "5,8"
+    creation_delay: "1,9"
   }
   {
     id: 5813
@@ -18412,7 +18703,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "8250,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 8148
@@ -19198,7 +19489,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "8417,35,8,8,8"
-    creation_delay: "0,0,10,4,7 "
+    creation_delay: "0,0,9,4,7 "
   }
   {
     id: 8266
@@ -21083,7 +21374,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "9007,21,138,8,8,8"
-    creation_delay: "0,0,0,10,4,7 "
+    creation_delay: "0,0,0,9,4,7 "
   }
   {
     id: 8517
@@ -22117,6 +22408,21 @@
     move_order: "1036"
   }
   {
+    id: 8660
+    name: 快速狙击-莫辛纳甘
+    action_order: "1"
+    action_delay: "30"
+    action_playspeed: "100"
+    creation_order: "9189,5016"
+    creation_delay: "30"
+    sound_order: BT_Sniper_skill_0
+    sound_delay: "10"
+    effect_order: "1"
+    effect_duration: "1"
+    summon_order: "1012"
+    summon_delay: "30"
+  }
+  {
     id: 8661
     name: 导弹设施攻击
     action_order: attack
@@ -22141,6 +22447,1251 @@
     name: SL8装备
     creation_order: "9193,9194,9195,9196"
     creation_delay: "0,0,0,0"
+  }
+  {
+    id: 8664
+    name: 敌方召唤一组100级的面具涅托
+    summon_order: "4295"
+  }
+  {
+    id: 8665
+    name: 涅托 巡卫
+    summon_order: "4296"
+  }
+  {
+    id: 8666
+    name: 涅托 怒锤
+    summon_order: "4297"
+  }
+  {
+    id: 8667
+    name: 涅托 鹰眼
+    summon_order: "4298"
+  }
+  {
+    id: 8668
+    name: 机娘普攻
+    action_order: A1
+    action_playspeed: "100"
+    creation_order: "9197,9198,9199,9200"
+    creation_delay: "2,6,1,5"
+  }
+  {
+    id: 8669
+    name: 机娘特殊普攻
+    action_order: A1
+    action_playspeed: "100"
+    creation_order: "9256,9257,9258,9259,9201"
+    creation_delay: "6,6,4,4,6"
+  }
+  {
+    id: 8670
+    name: 机娘开局范围
+    creation_order: "9202"
+  }
+  {
+    id: 8671
+    name: 机娘大招
+    action_order: SP
+    action_playspeed: "100"
+    creation_order: "9211,9213,9269,9270,9271,9272,9273,9274,9275,9276,9277,9278,9279,9280,9287,9288,9289,9290,9291,9292,9293,9294,9295,9296,9297,9298"
+    creation_delay: "100,120,104,106,108,110,112,114,92,94,96,98,100,102,92,94,96,98,100,102,104,106,108,110,112,114"
+    sound_order: BT_BossCutin
+    sound_delay: "45"
+    effect_order: 3(Nyto_mecha2;全弹发射;Full Fire;Sana)
+    effect_delay: "45"
+    effect_duration: "1"
+    stop_time_delay: "45"
+    stop_time_duration: "45"
+  }
+  {
+    id: 8672
+    name: 机娘一技能导弹组
+    action_order: A3
+    action_playspeed: "100"
+    creation_order: "9203,9204,9220,9260,9261,9262,9263,9264"
+    creation_delay: "36,0,0,32,34,36,38,40"
+  }
+  {
+    id: 8673
+    name: 机娘二技能烟雾弹
+    action_order: A2
+    action_playspeed: "100"
+    creation_order: "9207"
+    creation_delay: "10"
+  }
+  {
+    id: 8674
+    name: 机娘三技能大激光
+    action_order: S1
+    action_playspeed: "100"
+    creation_order: "9209,9251"
+    creation_delay: "60,0"
+  }
+  {
+    id: 8675
+    name: 机娘激光传递
+    creation_order: "9210,9253"
+    creation_delay: "0,0"
+  }
+  {
+    id: 8676
+    name: 拉姆赞普攻
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "9219,7,3,35,9241,9241"
+    creation_delay: "4,2,0,0,0,2"
+    sound_order: BT_AK,BT_AK,BT_AK
+    sound_delay: "0,3,6"
+  }
+  {
+    id: 8677
+    name: 拉姆赞扔手雷
+    action_order: skill,skill,skill
+    action_delay: "0,90,180"
+    action_playspeed: "90,90,90"
+    creation_order: "9215,9215,9215"
+    creation_delay: "0,90,180"
+    sound_order: BT_grenade_woosh,BT_grenade_woosh,BT_grenade_woosh
+    sound_delay: "50,140,230"
+  }
+  {
+    id: 8678
+    name: 拉姆赞近身
+    action_order: move1,skill2,move2
+    action_delay: "0,10,60"
+    action_playspeed: "100,100,100"
+    creation_order: "9218"
+    creation_delay: "20"
+    sound_order: Pekola_Sword_whoosh
+    sound_delay: "20"
+    move_order: "1037,1038,1039"
+    move_delay: "0,10,60"
+  }
+  {
+    id: 8679
+    name: 拉姆赞近身额外
+    creation_order: "9218"
+    creation_delay: "40"
+    sound_order: Pekola_LargeSword_Atk
+    sound_delay: "40"
+  }
+  {
+    id: 8680
+    name: 拉姆赞狂暴
+    action_order: skill3
+    action_playspeed: "100"
+    creation_order: "9238,9239,9243"
+    creation_delay: "0,150,70"
+    sound_order: 21Summer_EN_Appear,BT_BossCutin
+    sound_delay: "65,20"
+    effect_order: 3(pamzanboss;失控;Losing Control;Ganglati)
+    effect_duration: "1"
+  }
+  {
+    id: 8681
+    name: 丹德莱
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "9223"
+    creation_delay: "20"
+  }
+  {
+    id: 8682
+    name: 我方全队命中、回避、暴击+15%，敌方召唤一组60级的射击士
+    summon_order: "4299"
+  }
+  {
+    id: 8683
+    name: 60级的射击士
+    summon_order: "4300"
+  }
+  {
+    id: 8684
+    name: JA休眠
+    action_order: s1
+    action_playspeed: "100"
+    creation_order: "9244"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8685
+    name: VP募捐
+    creation_order: "9224"
+  }
+  {
+    id: 8686
+    name: 开局影响格
+    creation_order: "9225"
+  }
+  {
+    id: 8687
+    name: 同排单位减伤1
+    creation_order: "9226"
+  }
+  {
+    id: 8688
+    name: 同排单位减伤2
+    creation_order: "9227"
+  }
+  {
+    id: 8689
+    name: 同排单位减伤3
+    creation_order: "9228"
+  }
+  {
+    id: 8690
+    name: 同排单位减伤4
+    creation_order: "9229"
+  }
+  {
+    id: 8691
+    name: 同排单位减伤5
+    creation_order: "9230"
+  }
+  {
+    id: 8692
+    name: 同排单位减伤6
+    creation_order: "9231"
+  }
+  {
+    id: 8693
+    name: 同排单位减伤7
+    creation_order: "9232"
+  }
+  {
+    id: 8694
+    name: 同排单位减伤8
+    creation_order: "9233"
+  }
+  {
+    id: 8695
+    name: 同排单位减伤9
+    creation_order: "9234"
+  }
+  {
+    id: 8696
+    name: 同排单位减伤10
+    creation_order: "9235"
+  }
+  {
+    id: 8697
+    name: tps眩晕
+    creation_order: "9236"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8698
+    name: ja起床
+    action_order: s3
+    action_playspeed: "100"
+  }
+  {
+    id: 8699
+    name: 医疗型
+    creation_order: "9237"
+    creation_delay: "30"
+  }
+  {
+    id: 8700
+    name: TPS升天
+    creation_order: "9246"
+  }
+  {
+    id: 8701
+    name: TPS火箭
+    creation_order: "9247"
+  }
+  {
+    id: 8702
+    name: 斯捷奇金步枪法球
+    creation_order: "9299"
+  }
+  {
+    id: 8703
+    name: 64式傀儡
+    creation_order: "9300,9301,9302,9303,9304,9305,9306,9307,9308,9309"
+    creation_delay: "0,0,0,0,0,0,0,0,0,0"
+  }
+  {
+    id: 8704
+    name: 64式傀儡特效
+    creation_order: "9310,9311"
+    creation_delay: "0,0"
+  }
+  {
+    id: 8705
+    name: 机娘纱那sana一技能
+    action_order: SP
+    action_playspeed: "100"
+    creation_order: "9319,9354,9326,9327,9328,9329,9330,9331,9332,9333,9334,9335,9336,9343,9344,9345,9346,9347,9348,9349,9350,9351,9352,9353,9355"
+    creation_delay: "100,104,106,108,110,112,114,92,94,96,98,100,102,92,94,96,98,100,102,104,106,108,110,112,114"
+    effect_order: 3(Nyto_mecha2;火树银花;Pyrotechnics;Sana),10(Nyto_sana;0;0)
+    effect_delay: "1,41"
+    effect_duration: "1,90"
+    stop_time_duration: "40"
+  }
+  {
+    id: 8706
+    name: 机娘纱那sana一技能解析
+    action_order: SP
+    action_playspeed: "100"
+    creation_order: "9319,9354,9326,9327,9328,9329,9330,9331,9332,9333,9334,9335,9336,9343,9344,9345,9346,9347,9348,9349,9350,9351,9352,9353,9355"
+    creation_delay: "100,104,106,108,110,112,114,92,94,96,98,100,102,92,94,96,98,100,102,104,106,108,110,112,114"
+    effect_order: 3(Nyto_mecha2_1;火树银花;Pyrotechnics;Sana),10(Nyto_sana;0;0)
+    effect_delay: "1,41"
+    effect_duration: "1,90"
+    stop_time_duration: "40"
+  }
+  {
+    id: 8707
+    name: 机娘纱那二技能
+    action_order: S2
+    action_playspeed: "100"
+    creation_order: "9360,9321,9360,9360,9360"
+    creation_delay: "35,45,55,65,75"
+  }
+  {
+    id: 8708
+    name: 机娘纱那三技能
+    action_order: A2
+    action_playspeed: "100"
+    creation_order: "9316"
+    creation_delay: "10"
+  }
+  {
+    id: 8709
+    name: 机娘纱那普攻
+    action_order: A1
+    action_playspeed: "100"
+    creation_order: "9312,9313,9314,9315"
+    creation_delay: "3,6,3,6"
+  }
+  {
+    id: 8710
+    name: 机娘纱那锁定动作
+    action_order: D3
+    action_playspeed: "200"
+  }
+  {
+    id: 8711
+    name: 机娘纱那激光
+    creation_order: "9323"
+  }
+  {
+    id: 8712
+    name: 机娘纱那再次二技能
+    creation_order: "9324"
+  }
+  {
+    id: 8713
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9357,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8714
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1040"
+  }
+  {
+    id: 8715
+    name: 震荡打击击退
+    creation_order: "9358"
+  }
+  {
+    id: 8716
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9361,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8717
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9362,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8718
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9363,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8719
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9364,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8720
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9365,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8721
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9366,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8722
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9367,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8723
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9368,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8724
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9369,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8725
+    name: 终结者
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9370,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8726
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9371,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8727
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9372,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8728
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9373,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8729
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9374,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8730
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9375,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8731
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9376,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8732
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9377,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8733
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9378,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8734
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9379,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8735
+    name: 终结者装备
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9380,30"
+    creation_delay: "0,0"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8736
+    name: 震荡打击击退
+    move_order: "1041"
+  }
+  {
+    id: 8737
+    name: 震荡打击击退
+    move_order: "1042"
+  }
+  {
+    id: 8738
+    name: 震荡打击击退
+    move_order: "1043"
+  }
+  {
+    id: 8739
+    name: 震荡打击击退
+    move_order: "1044"
+  }
+  {
+    id: 8740
+    name: 震荡打击击退
+    move_order: "1045"
+  }
+  {
+    id: 8741
+    name: 震荡打击击退
+    move_order: "1046"
+  }
+  {
+    id: 8742
+    name: 震荡打击击退
+    move_order: "1047"
+  }
+  {
+    id: 8743
+    name: 震荡打击击退
+    move_order: "1048"
+  }
+  {
+    id: 8744
+    name: 震荡打击击退
+    move_order: "1049"
+  }
+  {
+    id: 8745
+    name: 震荡打击击退
+    move_order: "1050"
+  }
+  {
+    id: 8746
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1051"
+  }
+  {
+    id: 8747
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1052"
+  }
+  {
+    id: 8748
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1053"
+  }
+  {
+    id: 8749
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1054"
+  }
+  {
+    id: 8750
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1055"
+  }
+  {
+    id: 8751
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1056"
+  }
+  {
+    id: 8752
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1057"
+  }
+  {
+    id: 8753
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1058"
+  }
+  {
+    id: 8754
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1059"
+  }
+  {
+    id: 8755
+    name: 震荡打击击退
+    creation_order: "9359"
+    creation_delay: "2"
+    move_order: "1060"
+  }
+  {
+    id: 8756
+    name: BAT技能步枪普攻
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9381,9382,139,9383,9384,9387"
+    creation_delay: "0,0,0,0,0,0"
+  }
+  {
+    id: 8757
+    name: HK433榴弹
+    action_order: s
+    action_playspeed: "100"
+    creation_order: "15"
+    creation_delay: "19"
+    sound_order: BT_fire_grenade
+    sound_delay: "35"
+  }
+  {
+    id: 8758
+    name: 硬币5
+  }
+  {
+    id: 8759
+    name: 硬币10
+  }
+  {
+    id: 8760
+    name: 硬币15
+  }
+  {
+    id: 8761
+    name: 硬币20
+  }
+  {
+    id: 8762
+    name: 硬币25
+  }
+  {
+    id: 8763
+    name: 硬币30
+  }
+  {
+    id: 8764
+    name: 伤害
+    creation_order: "9385"
+    creation_afterdeath: "1"
+  }
+  {
+    id: 8765
+    name: qbu191主动
+    creation_order: "9386"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8766
+    name: 突击步枪普攻
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "3,7,7,9389,140,140,9389"
+    creation_delay: "0,2,4,3,0,2,8"
+    sound_order: BT_AK,BT_AK,BT_AK
+    sound_delay: "0,3,6"
+  }
+  {
+    id: 8767
+    name: mg4弹射1-1
+    creation_order: "9397"
+  }
+  {
+    id: 8768
+    name: mg4弹射2
+    creation_order: "9398"
+  }
+  {
+    id: 8769
+    name: mg4弹射3
+    creation_order: "9400"
+  }
+  {
+    id: 8770
+    name: mg4弹射1-2
+    creation_order: "9397,9401"
+    creation_delay: "0,0"
+  }
+  {
+    id: 8771
+    name: mg4弹射1-3
+    creation_order: "9397,9401,9401"
+    creation_delay: "0,0,0"
+  }
+  {
+    id: 8772
+    name: mg4弹射1-4
+    creation_order: "9397,9401,9401,9401"
+    creation_delay: "0,0,0,0"
+  }
+  {
+    id: 8773
+    name: mg4弹射1-5
+    creation_order: "9397,9401,9401,9401,9401"
+    creation_delay: "0,0,0,0,0"
+  }
+  {
+    id: 8774
+    name: mg4弹射2-2
+    creation_order: "9398,9402"
+    creation_delay: "0,0"
+  }
+  {
+    id: 8775
+    name: mg4弹射2-3
+    creation_order: "9398,9402,9402"
+    creation_delay: "0,0,0"
+  }
+  {
+    id: 8776
+    name: mg4弹射2-4
+    creation_order: "9398,9402,9402,9402"
+    creation_delay: "0,0,0,0"
+  }
+  {
+    id: 8777
+    name: mg4弹射2-5
+    creation_order: "9398,9402,9402,9402,9402"
+    creation_delay: "0,0,0,0,0"
+  }
+  {
+    id: 8778
+    name: mg4弹射3-2
+    creation_order: "9400,9403"
+    creation_delay: "0,0"
+  }
+  {
+    id: 8779
+    name: mg4弹射3-3
+    creation_order: "9400,9403,9403"
+    creation_delay: "0,0,0"
+  }
+  {
+    id: 8780
+    name: mg4弹射3-4
+    creation_order: "9400,9403,9403,9403"
+    creation_delay: "0,0,0,0"
+  }
+  {
+    id: 8781
+    name: mg4弹射3-5
+    creation_order: "9400,9403,9403,9403,9403"
+    creation_delay: "0,0,0,0,0"
+  }
+  {
+    id: 8782
+    name: CMS装备地面切换
+    creation_order: "9404,9405"
+    creation_delay: "0,0"
+  }
+  {
+    id: 8783
+    name: 玩具妖精工具人1
+    summon_order: "4314"
+  }
+  {
+    id: 8784
+    name: 玩具妖精工具人2
+    summon_order: "4315"
+  }
+  {
+    id: 8785
+    name: 玩具妖精工具人3
+    summon_order: "4316"
+  }
+  {
+    id: 8786
+    name: 玩具妖精工具人4
+    summon_order: "4317"
+  }
+  {
+    id: 8787
+    name: 玩具妖精工具人5
+    summon_order: "4318"
+  }
+  {
+    id: 8788
+    name: 玩具妖精工具人6
+    summon_order: "4319"
+  }
+  {
+    id: 8789
+    name: 玩具妖精工具人7
+    summon_order: "4320"
+  }
+  {
+    id: 8790
+    name: 玩具妖精工具人8
+    summon_order: "4321"
+  }
+  {
+    id: 8791
+    name: 玩具妖精工具人9
+    summon_order: "4322"
+  }
+  {
+    id: 8792
+    name: 玩具妖精工具人10
+    summon_order: "4323"
+  }
+  {
+    id: 8793
+    name: 试炼buff
+    summon_order: "4324"
+  }
+  {
+    id: 8794
+    name: 九宫格绿闪避护甲1
+    creation_order: "9411,941101,941102"
+  }
+  {
+    id: 8795
+    name: 九宫格绿闪避护甲2
+    creation_order: "9412,941201,941202"
+  }
+  {
+    id: 8796
+    name: 九宫格绿闪避护甲3
+    creation_order: "9413,941301,941302"
+  }
+  {
+    id: 8797
+    name: 九宫格绿闪避护甲4
+    creation_order: "9414,941401,941402"
+  }
+  {
+    id: 8798
+    name: 九宫格绿闪避护甲5
+    creation_order: "9415,941501,941502"
+  }
+  {
+    id: 8799
+    name: 九宫格绿闪避护甲6
+    creation_order: "9416,941601,941602"
+  }
+  {
+    id: 8800
+    name: 九宫格绿闪避护甲7
+    creation_order: "9417,941701,941702"
+  }
+  {
+    id: 8801
+    name: 九宫格绿闪避护甲8
+    creation_order: "9418,941801,941802"
+  }
+  {
+    id: 8802
+    name: 九宫格绿闪避护甲9
+    creation_order: "9419,941901,941902"
+  }
+  {
+    id: 8803
+    name: 九宫格黄暴伤命中1
+    creation_order: "9420,942001,942002"
+  }
+  {
+    id: 8804
+    name: 九宫格黄暴伤命中2
+    creation_order: "9421,942101,942102"
+  }
+  {
+    id: 8805
+    name: 九宫格黄暴伤命中3
+    creation_order: "9422,942201,942202"
+  }
+  {
+    id: 8806
+    name: 九宫格黄暴伤命中4
+    creation_order: "9423,942301,942302"
+  }
+  {
+    id: 8807
+    name: 九宫格黄暴伤命中5
+    creation_order: "9424,942401,942402"
+  }
+  {
+    id: 8808
+    name: 九宫格黄暴伤命中6
+    creation_order: "9425,942501,942502"
+  }
+  {
+    id: 8809
+    name: 九宫格黄暴伤命中7
+    creation_order: "9426,942601,942602"
+  }
+  {
+    id: 8810
+    name: 九宫格黄暴伤命中8
+    creation_order: "9427,942701,942702"
+  }
+  {
+    id: 8811
+    name: 九宫格黄暴伤命中9
+    creation_order: "9428,942801,942802"
+  }
+  {
+    id: 8812
+    name: 九宫格红火力射速1
+    creation_order: "9429,942901,942902"
+  }
+  {
+    id: 8813
+    name: 九宫格红火力射速2
+    creation_order: "9430,943001,943002"
+  }
+  {
+    id: 8814
+    name: 九宫格红火力射速3
+    creation_order: "9431,943101,943102"
+  }
+  {
+    id: 8815
+    name: 九宫格红火力射速4
+    creation_order: "9432,943201,943202"
+  }
+  {
+    id: 8816
+    name: 九宫格红火力射速5
+    creation_order: "9433,943301,943302"
+  }
+  {
+    id: 8817
+    name: 九宫格红火力射速6
+    creation_order: "9434,943401,943402"
+  }
+  {
+    id: 8818
+    name: 九宫格红火力射速7
+    creation_order: "9435,943501,943502"
+  }
+  {
+    id: 8819
+    name: 九宫格红火力射速8
+    creation_order: "9436,943601,943602"
+  }
+  {
+    id: 8820
+    name: 九宫格红火力射速9
+    creation_order: "9437,943701,943702"
+  }
+  {
+    id: 8821
+    name: 九宫格绿同排147
+    creation_order: "9438"
+    creation_delay: "25"
+  }
+  {
+    id: 8822
+    name: 九宫格绿同排258
+    creation_order: "9439"
+    creation_delay: "25"
+  }
+  {
+    id: 8823
+    name: 九宫格绿同排369
+    creation_order: "9440"
+    creation_delay: "25"
+  }
+  {
+    id: 8824
+    name: 九宫格黄同排147
+    creation_order: "9441"
+    creation_delay: "25"
+  }
+  {
+    id: 8825
+    name: 九宫格黄同排258
+    creation_order: "9442"
+    creation_delay: "25"
+  }
+  {
+    id: 8826
+    name: 九宫格黄同排369
+    creation_order: "9443"
+    creation_delay: "25"
+  }
+  {
+    id: 8827
+    name: 九宫格红同排147
+    creation_order: "9444"
+    creation_delay: "25"
+  }
+  {
+    id: 8828
+    name: 九宫格红同排258
+    creation_order: "9445"
+    creation_delay: "25"
+  }
+  {
+    id: 8829
+    name: 九宫格红同排369
+    creation_order: "9446"
+    creation_delay: "25"
+  }
+  {
+    id: 8830
+    name: 娱乐型
+    creation_order: "9447"
+  }
+  {
+    id: 8831
+    name: 冲锋枪监测
+    creation_order: "9449"
+  }
+  {
+    id: 8832
+    name: 同排伤害提升
+    creation_order: "9450"
+  }
+  {
+    id: 8833
+    name: 前排检测
+    creation_order: "9451"
+  }
+  {
+    id: 8834
+    name: 82投掷手榴弹
+    action_order: s
+    action_playspeed: "100"
+    creation_order: "9452"
+    creation_delay: "33"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8835
+    name: 突击步枪普攻-非主动
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9454,7,7,21,140,140"
+    creation_delay: "0,2,4,0,0,2"
+    sound_order: BT_AK,BT_AK,BT_AK
+    sound_delay: "0,3,6"
+  }
+  {
+    id: 8836
+    name: 突击步枪普攻-主动
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "9455,7,7,21,140,140,9456"
+    creation_delay: "0,2,4,0,0,2"
+    sound_order: BT_AK,BT_AK,BT_AK
+    sound_delay: "0,3,6"
+  }
+  {
+    id: 8837
+    name: vsk额外攻击次数
+    action_order: "1,1,1"
+    action_delay: "0,5,10"
+    action_playspeed: "100,100,100"
+    creation_order: "3063,21,139,10302,21,139,9461,21,139"
+    creation_delay: "0,0,0,5,5,5,10,10,10"
+  }
+  {
+    id: 8838
+    name: 贝奥武夫
+    creation_order: "9466"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8839
+    name: 欧文照相
+    action_order: s
+    action_playspeed: "100"
+    effect_order: "1"
+    effect_duration: "1"
+  }
+  {
+    id: 8840
+    name: HK416额外榴弹
+    creation_order: "9470"
+  }
+  {
+    id: 8841
+    name: 亡语范围
+    creation_order: "9471"
+    creation_delay: "2"
+    creation_afterdeath: "1"
+  }
+  {
+    id: 8842
+    name: 开场给亡语
+    creation_order: "9472"
+  }
+  {
+    id: 8843
+    name: 娜希斯普攻
+    action_order: attacky
+    action_playspeed: "200"
+    creation_order: "9475,9475,9475,9475,9475,9475,9475,9476"
+    creation_delay: "0,2,4,6,8,10,12,8"
+    sound_order: Skill_jump_normal,Pekola_Sword_whoosh
+    sound_delay: "2,8"
+  }
+  {
+    id: 8844
+    name: 娜希斯二技能
+    action_order: sp1,s1,s1,sp3
+    action_delay: "0,20,60,100"
+    action_playspeed: "200,150,150,200"
+    creation_order: "9479,9479,9479,9479,9479,9479,9479,9479,9479,9479,9479,9479,9479,9479"
+    creation_delay: "20,24,27,30,34,37,40,44,60,64,67,70,74,77,80"
+  }
+  {
+    id: 8845
+    name: 娜希斯二技能伤害
+    creation_order: "9477,9478"
+    creation_delay: "0,6"
+    sound_order: BT_SeeleSickle
+    sound_delay: "1"
+  }
+  {
+    id: 8846
+    name: 娜希斯一技能
+    action_order: sp1,sp3
+    action_delay: "0,160"
+    action_playspeed: "100,200"
+    creation_order: "9480,9480,9480"
+    creation_delay: "41,81,121"
+    effect_order: 3(BossNarciss;七原罪;Seven Deadly Sins;Narciss),10(BossNarciss;0;0)
+    effect_delay: "1,41"
+    effect_duration: "1,90"
+    stop_time_duration: "40"
+  }
+  {
+    id: 8847
+    name: 娜希斯一技能解析
+    action_order: sp1,sp3
+    action_delay: "0,160"
+    action_playspeed: "100,200"
+    creation_order: "9482,9482,9482"
+    creation_delay: "41,81,121"
+    effect_order: 3(BossNarciss_1;七原罪;Seven Deadly Sins;Narciss),10(BossNarciss;0;0)
+    effect_delay: "1,41"
+    effect_duration: "1,90"
+    stop_time_duration: "40"
+  }
+  {
+    id: 8848
+    name: 娜希斯一技能实际动作
+    action_order: spj
+    action_playspeed: "200"
+    creation_order: "9481,9486,9485,9487"
+    creation_delay: "25,10,25,36"
+    sound_order: Skill_jump_high,Pekola_SmallSword_Atk
+    sound_delay: "12,25"
+    move_order: "1062,1063,1061"
+    move_delay: "12,22,35"
+  }
+  {
+    id: 8849
+    name: 娜希斯捕获表演
+    action_order: attackj
+    action_playspeed: "100"
+    creation_order: "9488"
+    creation_delay: "8"
   }
   {
     id: 9001
@@ -23280,6 +24831,15 @@
     action_playspeed: "100"
     creation_order: "237602,2412,237601"
     creation_delay: "0,0,0"
+  }
+  {
+    id: 307901
+    name: vsk皮肤攻击
+    action_order: "1,1"
+    action_delay: "0,5"
+    action_playspeed: "100,100"
+    creation_order: "3271,21,139,3273,21,139,3272,3274,3271,21,139,3272"
+    creation_delay: "0,0,0,5,5,5,2,7,10,10,10,12"
   }
   {
     id: 313002
@@ -26032,7 +27592,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581401"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552702
@@ -26040,7 +27600,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581402"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552703
@@ -26048,7 +27608,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581403"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552704
@@ -26056,7 +27616,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581404"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552705
@@ -26064,7 +27624,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581405"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552706
@@ -26072,7 +27632,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581406"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552707
@@ -26080,7 +27640,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581407"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552708
@@ -26088,7 +27648,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581408"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552709
@@ -26096,7 +27656,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581409"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552710
@@ -26104,7 +27664,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "5814,21,138,8,8,8,581410"
-    creation_delay: "0,0,0,10,4,7,1"
+    creation_delay: "0,0,0,9,4,7,1"
   }
   {
     id: 552801
@@ -26112,7 +27672,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581501,581501"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552802
@@ -26120,7 +27680,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581502,581502"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552803
@@ -26128,7 +27688,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581503,581503"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552804
@@ -26136,7 +27696,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581504,581504"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552805
@@ -26144,7 +27704,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581505,581505"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552806
@@ -26152,7 +27712,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581506,581506"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552807
@@ -26160,7 +27720,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581507,581507"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552808
@@ -26168,7 +27728,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581508,581508"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552809
@@ -26176,7 +27736,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581509,581509"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 552810
@@ -26184,7 +27744,7 @@
     action_order: "1"
     action_playspeed: "100"
     creation_order: "58151,21,138,8,8,5815,581510,581510"
-    creation_delay: "0,0,0,10,4,7,1,8"
+    creation_delay: "0,0,0,9,4,7,1,8"
   }
   {
     id: 553701
@@ -26684,6 +28244,11 @@
     action_playspeed: "100,100"
     creation_order: "777020,777021,777022"
     creation_delay: "40,70,120"
+  }
+  {
+    id: 841201
+    name: 水白
+    creation_order: "874001"
   }
   {
     id: 900002

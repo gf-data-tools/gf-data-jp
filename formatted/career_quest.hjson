@@ -968,7 +968,6 @@
     prize_id: 11002
     title: クローゼット：指揮官の性別変更
     content: 初めて指揮官の性別を変える
-    unlock_course: "130"
     new_type: 1
     grade_id: 54
     sort: 393
@@ -1758,17 +1757,6 @@
     sort: 441
   }
   {
-    id: 264
-    type: fix_gun
-    count: 1
-    prize_id: 11073
-    title: 戦術人形：人形修復
-    content: 人形修復を1回行う
-    new_type: 1
-    grade_id: 1
-    sort: 3
-  }
-  {
     id: 265
     type: develop_gun
     unlock_lv: "3"
@@ -1779,28 +1767,6 @@
     new_type: 1
     grade_id: 2
     sort: 10
-  }
-  {
-    id: 266
-    type: fix_gun
-    count: 3
-    prize_id: 11075
-    title: 戦術人形：人形修復
-    content: 人形修復を3回行う
-    new_type: 1
-    grade_id: 2
-    sort: 11
-  }
-  {
-    id: 267
-    type: quick_fix_gun
-    count: 1
-    prize_id: 11076
-    title: 戦術人形：快速修復
-    content: 快速修復を1回行う
-    new_type: 1
-    grade_id: 2
-    sort: 12
   }
   {
     id: 268
@@ -4895,5 +4861,73 @@
     new_type: 1
     grade_id: 23
     sort: 168
+  }
+  {
+    id: 558
+    type: map_capture
+    count: 1
+    prize_id: 765
+    title: 灰域探査：戦線拡大
+    content: 灰域探査でポイントを1個占領する。
+    new_type: 1
+    grade_id: 45
+    sort: 359
+  }
+  {
+    id: 559
+    type: map_refresh
+    count: 1
+    prize_id: 765
+    title: 灰域探査：戦場開闢
+    content: 灰域探査で探査エリアを1回リセットする。
+    new_type: 1
+    grade_id: 45
+    sort: 360
+  }
+  {
+    id: 560
+    type: daily_game_boss_win
+    count: 1
+    prize_id: 765
+    title: 灰域探査：斬首作戦
+    content: 灰域探査で1回ボスに勝利する。
+    new_type: 1
+    grade_id: 45
+    sort: 361
+  }
+  {
+    id: 561
+    type: daily_game_reward
+    count: 1
+    prize_id: 765
+    title: 灰域探査：戦果回収
+    content: 灰域探査で全ポイントの占領報酬を1回受け取る。
+    new_type: 1
+    grade_id: 45
+    sort: 362
+  }
+  {
+    id: 562
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 11337
+    title: 特殊ギミック：補給修復ステーション
+    content: チュートリアルをクリアする。補給修復ステーションについて理解せよ。
+    new_type: 1
+    grade_id: 45
+    sort: 359
+    condition: "10933"
+  }
+  {
+    id: 563
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 11338
+    title: ステージギミック：戦場効果
+    content: チュートリアルをクリアする。戦場効果について理解せよ。
+    new_type: 1
+    grade_id: 45
+    sort: 360
+    condition: "10921"
   }
 ]

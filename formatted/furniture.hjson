@@ -19131,6 +19131,41 @@
     touch_area: "5,5,5"
   }
   {
+    id: 7240
+    name: 騒がしい石
+    classes: 72
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 雑草が生い茂っているところにポツンと建てられている墓石。よく幽霊が出没すると噂されている。ロウソクなんかを飾ってみれば、お茶会を開いてくれるとかなんとか。
+    code: qjyd_20230501_deco_01
+    texture_type: "2"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "48"
+    interact_point_offset: *-2.3,0.05,0
+    touch_area: "4,4,0"
+  }
+  {
+    id: 7241
+    name: 秘境への門
+    classes: 72
+    type: 201
+    space: "6,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 噂によると、これは心が綺麗な者を神域へと誘ってくれる東洋の門らしい。つまり、もし心が汚い者がこれを潜ったら、神使の狐にボコボコにされる可能性があるかもしれない。
+    code: qjyd_20230502_deco,qjyd_20230502_deco_01,qjyd_20230502_deco_02
+    texture_type: "1,2,2"
+    sorting: "10,20,0"
+    offset: "0,0,0|0.010427,0.062562,0|0,0.062562,0"
+    rotate: "2,2,2"
+    interact_point: "69"
+    interact_point_offset: *0,0.06,0
+  }
+  {
     id: 7301
     name: 水族館-フロア
     classes: 73
@@ -36497,6 +36532,96 @@
     decompose_gift: 100003
     description: 56-1式のポスター
     code: poster_KungFu2022_56-1type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37801
+    name: 紡ぐ星光
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: デ・リーズルのポスター。
+    code: poster_Christmas2022_Delisle
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37802
+    name: トナカイのラテ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Lusaのポスター。
+    code: poster_Christmas2022_Lusa
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37804
+    name: 雪を駆ける赤
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MPLのポスター。
+    code: poster_Christmas2022_MPL
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37806
+    name: 氷を越える炎
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MPKのポスター。
+    code: poster_Christmas2022_MPK
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37807
+    name: 雪覆の下
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: KSVKのポスター。
+    code: poster_Christmas2022_KSVK
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37809
+    name: ふわふわいちごタルト
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ブレン・テンのポスター。
+    code: poster_Christmas2022_BrenTen
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

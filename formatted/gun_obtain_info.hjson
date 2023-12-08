@@ -1189,6 +1189,11 @@
     description: 期間限定イベント<雪の如き浪 花顔を映ず>全プレイヤー対象の応援報酬
   }
   {
+    obtain_id: "3096"
+    description: 灰域探査で入手
+    goto_page_id: "384"
+  }
+  {
     obtain_id: "20001"
     description: -イベント【正月のテーゼ】報酬
   }

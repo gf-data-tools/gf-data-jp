@@ -3388,7 +3388,7 @@
   }
   {
     id: 7001
-    name: ally_team-10007001
+    name: 突撃A班
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
@@ -3398,7 +3398,7 @@
   }
   {
     id: 7002
-    name: ally_team-10007002
+    name: 火力班
     guns: "70006,70007,70008,70009,70010"
     enemy_team_id: 1
     initial_type: 1
@@ -3408,7 +3408,7 @@
   }
   {
     id: 7003
-    name: ally_team-10007003
+    name: 突撃B班
     guns: "70011,70012,70013,70014,70015"
     enemy_team_id: 1
     initial_type: 1
@@ -3418,7 +3418,7 @@
   }
   {
     id: 7004
-    name: ally_team-10007004
+    name: 偵察A班
     guns: "70016,70017,70018,70019,70020"
     enemy_team_id: 1
     initial_type: 1
@@ -3428,7 +3428,7 @@
   }
   {
     id: 7005
-    name: ally_team-10007005
+    name: 偵察B班
     guns: "70021,70022,70023,70024,70025"
     enemy_team_id: 1
     initial_type: 1
@@ -3438,7 +3438,7 @@
   }
   {
     id: 7006
-    name: ally_team-10007006
+    name: 16小隊
     guns: "70026,70027,70028,70029,70030"
     enemy_team_id: 1
     initial_type: 1
@@ -3448,7 +3448,7 @@
   }
   {
     id: 7007
-    name: ally_team-10007007
+    name: 爆破班
     guns: "70031,70032,70033,70034,70035"
     enemy_team_id: 1
     initial_type: 1
@@ -3458,7 +3458,7 @@
   }
   {
     id: 7008
-    name: ally_team-10007008
+    name: 派遣小隊
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
@@ -3468,7 +3468,7 @@
   }
   {
     id: 7009
-    name: ally_team-10007009
+    name: 派遣小隊
     guns: "70006,70007,70008,70009,70010"
     enemy_team_id: 1
     initial_type: 1
@@ -3478,7 +3478,7 @@
   }
   {
     id: 7010
-    name: ally_team-10007010
+    name: 派遣小隊
     guns: "70011,70012,70013,70014,70015"
     enemy_team_id: 1
     initial_type: 1
@@ -3488,7 +3488,7 @@
   }
   {
     id: 7011
-    name: ally_team-10007011
+    name: 派遣小隊
     guns: "70016,70017,70018,70019,70020"
     enemy_team_id: 1
     initial_type: 1
@@ -3498,7 +3498,7 @@
   }
   {
     id: 7012
-    name: ally_team-10007012
+    name: 派遣小隊
     guns: "70021,70022,70023,70024,70025"
     enemy_team_id: 1
     initial_type: 1
@@ -3508,7 +3508,7 @@
   }
   {
     id: 7013
-    name: ally_team-10007013
+    name: 派遣小隊
     guns: "70026,70027,70028,70029,70030"
     enemy_team_id: 1
     initial_type: 1
@@ -3518,7 +3518,7 @@
   }
   {
     id: 7014
-    name: ally_team-10007014
+    name: 派遣小隊
     guns: "70031,70032,70033,70034,70035"
     enemy_team_id: 1
     initial_type: 1
@@ -3528,7 +3528,7 @@
   }
   {
     id: 7015
-    name: ally_team-10007015
+    name: 前線観測員
     guns: "70031,70032,70033,70034,70035"
     enemy_team_id: 1
     initial_type: 1
@@ -3538,157 +3538,185 @@
   }
   {
     id: 7101
-    name: ally_team-10007101
+    name: 突撃A班
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "1,2,23"
+    is_beyond_start: 1
   }
   {
     id: 7102
-    name: ally_team-10007102
+    name: 突撃A班
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "10"
+    is_beyond_start: 1
   }
   {
     id: 7103
-    name: ally_team-10007103
+    name: 偵察班
     guns: "70021,70022,70023,70024,70025"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "12"
+    is_beyond_start: 1
   }
   {
     id: 7104
-    name: ally_team-10007104
+    name: 突撃A班
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "14"
+    is_beyond_start: 1
   }
   {
     id: 7105
-    name: ally_team-10007105
+    name: 偵察A班
     guns: "70021,70022,70023,70024,70025"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "11"
+    is_beyond_start: 1
   }
   {
     id: 7106
-    name: ally_team-10007106
+    name: 火力班
     guns: "70006,70007,70008,70009,70010"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "3,24"
+    is_beyond_start: 1
   }
   {
     id: 7107
-    name: ally_team-10007107
+    name: 突撃A班
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "4"
+    is_beyond_start: 1
   }
   {
     id: 7108
-    name: ally_team-10007108
+    name: 16小隊
     guns: "70026,70027,70028,70029,70030"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "5"
+    is_beyond_start: 1
   }
   {
     id: 7109
-    name: ally_team-10007109
+    name: 突撃B班
     guns: "70011,70012,70013,70014,70015"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "6,25"
+    is_beyond_start: 1
   }
   {
     id: 7110
-    name: ally_team-10007110
+    name: 偵察B班
     guns: "70016,70017,70018,70019,70020"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "8"
+    is_beyond_start: 1
   }
   {
     id: 7111
-    name: ally_team-10007111
+    name: 偵察A班
     guns: "70021,70022,70023,70024,70025"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "9"
+    is_beyond_start: 1
   }
   {
     id: 7112
-    name: ally_team-10007112
+    name: 突撃A班
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "7"
+    is_beyond_start: 1
   }
   {
     id: 7113
-    name: ally_team-10007113
+    name: 火力班
     guns: "70006,70007,70008,70009,70010"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "13"
+    is_beyond_start: 1
   }
   {
     id: 7201
-    name: ally_team-10007201
     guns: "70021,70022,70023,70024,70025"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_squad: "1,5,7"
+    is_beyond_start: 1
   }
   {
     id: 7202
-    name: ally_team-10007202
     guns: "70001,70002,70003,70004,70005"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_squad: "2,3,4,6"
+    is_beyond_start: 1
   }
   {
     id: 7207
-    name: ally_team-10007207
+    name: 爆破班
     guns: "70066,70067,70068,70069,70070"
     enemy_team_id: 1
     initial_type: 1
@@ -3698,7 +3726,7 @@
   }
   {
     id: 7208
-    name: ally_team-10007208
+    name: 派遣小隊
     guns: "70036,70037,70038,70039,70040"
     enemy_team_id: 1
     initial_type: 1
@@ -3708,7 +3736,7 @@
   }
   {
     id: 7209
-    name: ally_team-10007209
+    name: 派遣小隊
     guns: "70041,70042,70043,70044,70045"
     enemy_team_id: 1
     initial_type: 1
@@ -3718,7 +3746,7 @@
   }
   {
     id: 7210
-    name: ally_team-10007210
+    name: 派遣小隊
     guns: "70046,70047,70048,70049,70050"
     enemy_team_id: 1
     initial_type: 1
@@ -3728,7 +3756,7 @@
   }
   {
     id: 7211
-    name: ally_team-10007211
+    name: 派遣小隊
     guns: "70051,70052,70053,70054,70055"
     enemy_team_id: 1
     initial_type: 1
@@ -3738,7 +3766,7 @@
   }
   {
     id: 7212
-    name: ally_team-10007212
+    name: 派遣小隊
     guns: "70056,70057,70058,70059,70060"
     enemy_team_id: 1
     initial_type: 1
@@ -3748,7 +3776,7 @@
   }
   {
     id: 7213
-    name: ally_team-10007213
+    name: 派遣小隊
     guns: "70061,70062,70063,70064,70065"
     enemy_team_id: 1
     initial_type: 1
@@ -3758,7 +3786,7 @@
   }
   {
     id: 7214
-    name: ally_team-10007214
+    name: 派遣小隊
     guns: "70066,70067,70068,70069,70070"
     enemy_team_id: 1
     initial_type: 1
@@ -3768,133 +3796,159 @@
   }
   {
     id: 7301
-    name: ally_team-10007301
+    name: 突撃A班
     guns: "70036,70037,70038,70039,70040"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "1,2,23"
+    is_beyond_start: 1
   }
   {
     id: 7302
-    name: ally_team-10007302
+    name: 突撃A班
     guns: "70036,70037,70038,70039,70040"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "10"
+    is_beyond_start: 1
   }
   {
     id: 7303
-    name: ally_team-10007303
+    name: 偵察A班
     guns: "70056,70057,70058,70059,70060"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "12"
+    is_beyond_start: 1
   }
   {
     id: 7304
-    name: ally_team-10007304
+    name: 突撃A班
     guns: "70036,70037,70038,70039,70040"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "14"
+    is_beyond_start: 1
   }
   {
     id: 7305
-    name: ally_team-10007305
+    name: 偵察A班
     guns: "70056,70057,70058,70059,70060"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "11"
+    is_beyond_start: 1
   }
   {
     id: 7306
-    name: ally_team-10007306
+    name: 火力班
     guns: "70041,70042,70043,70044,70045"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "3,24"
+    is_beyond_start: 1
   }
   {
     id: 7307
-    name: ally_team-10007307
+    name: 突撃A班
     guns: "70036,70037,70038,70039,70040"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "4"
+    is_beyond_start: 1
   }
   {
     id: 7308
-    name: ally_team-10007308
+    name: 16小隊
     guns: "70061,70062,70063,70064,70065"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "5"
+    is_beyond_start: 1
   }
   {
     id: 7309
-    name: ally_team-10007309
+    name: 突撃B班
     guns: "70046,70047,70048,70049,70050"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "6,25"
+    is_beyond_start: 1
   }
   {
     id: 7310
-    name: ally_team-10007310
+    name: 偵察B班
     guns: "70051,70052,70053,70054,70055"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "8"
+    is_beyond_start: 1
   }
   {
     id: 7311
-    name: ally_team-10007311
+    name: 偵察A班
     guns: "70056,70057,70058,70059,70060"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "9"
+    is_beyond_start: 1
   }
   {
     id: 7312
-    name: ally_team-10007312
+    name: 突撃A班
     guns: "70036,70037,70038,70039,70040"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "7"
+    is_beyond_start: 1
   }
   {
     id: 7313
-    name: ally_team-10007313
+    name: 火力班
     guns: "70041,70042,70043,70044,70045"
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2100;0
     ai_content: 0;0;0
     no_battle_damage: -1
+    mapping_fairy: "13"
+    is_beyond_start: 1
   }
   {
     id: 10001
@@ -5216,7 +5270,7 @@
   }
   {
     id: 78001
-    name: ally_team-10078001
+    name: グリフィン
     guns: "1084,1085,1086,1087,1088"
     enemy_team_id: 1
     initial_type: 1
@@ -6318,6 +6372,7 @@
     betray_result_enemy: "570504"
     enemy_panel_type: 1
     no_battle_damage: -1
+    mapping_guns: 引导用
   }
   {
     id: 316001
@@ -14293,7 +14348,7 @@
   }
   {
     id: 580301
-    name: ally_team-10580301
+    name: アンナ
     guns: "580301"
     enemy_team_id: 1
     initial_type: 1
@@ -14303,7 +14358,7 @@
   }
   {
     id: 580302
-    name: ally_team-10580302
+    name: アンナ
     guns: "580302"
     enemy_team_id: 1
     initial_type: 1
@@ -14313,7 +14368,7 @@
   }
   {
     id: 580303
-    name: ally_team-10580303
+    name: マーシャ
     guns: "580303"
     enemy_team_id: 1
     initial_type: 1
@@ -14326,7 +14381,7 @@
   }
   {
     id: 580305
-    name: ally_team-10580305
+    name: エリアナ
     guns: "580305"
     enemy_team_id: 1
     initial_type: 1
@@ -14336,7 +14391,7 @@
   }
   {
     id: 580306
-    name: ally_team-10580306
+    name: エリアナ
     guns: "580306"
     enemy_team_id: 1
     initial_type: 1
@@ -14346,7 +14401,7 @@
   }
   {
     id: 580307
-    name: ally_team-10580307
+    name: エリアナ
     guns: "580307"
     enemy_team_id: 1
     initial_type: 1
@@ -14356,7 +14411,7 @@
   }
   {
     id: 580901
-    name: ally_team-10580901
+    name: アンナ
     guns: "580901"
     enemy_team_id: 1
     initial_type: 1
@@ -14366,7 +14421,7 @@
   }
   {
     id: 580902
-    name: ally_team-10580902
+    name: ソ連主力部隊
     guns: "58090201,58090202,58090203,58090204,58090205"
     enemy_team_id: 1
     initial_type: 1
@@ -14376,7 +14431,7 @@
   }
   {
     id: 581101
-    name: ally_team-10581101
+    name: アンナ
     guns: "581101"
     enemy_team_id: 1
     initial_type: 1
@@ -14386,7 +14441,7 @@
   }
   {
     id: 581103
-    name: ally_team-10581103
+    name: ラムザン
     guns: "581103"
     enemy_team_id: 1
     initial_type: 1
@@ -14396,7 +14451,7 @@
   }
   {
     id: 581501
-    name: ally_team-10581501
+    name: アンジェリア
     guns: "581501,581502,581503"
     enemy_team_id: 1
     initial_type: 1
@@ -14407,7 +14462,7 @@
   }
   {
     id: 581505
-    name: ally_team-10581505
+    name: AR小隊
     guns: "1"
     enemy_team_id: 581505
     initial_type: 2
@@ -14418,7 +14473,7 @@
   }
   {
     id: 583401
-    name: ally_team-10583401
+    name: BGM-71
     guns: "1109"
     enemy_team_id: 1
     initial_type: 1
@@ -14429,7 +14484,7 @@
   }
   {
     id: 583402
-    name: ally_team-10583402
+    name: デストロイヤー
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2001:10,10;0
@@ -14439,7 +14494,7 @@
   }
   {
     id: 583600
-    name: ally_team-10583600
+    name: ダンデライオン
     guns: "583600"
     enemy_team_id: 1
     initial_type: 1
@@ -14450,7 +14505,7 @@
   }
   {
     id: 583601
-    name: ally_team-10583601
+    name: モリドー
     guns: "1"
     enemy_team_id: 583601
     ai: 102;0;102
@@ -14460,7 +14515,7 @@
   }
   {
     id: 583602
-    name: ally_team-10583602
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583602
     initial_type: 2
@@ -14473,7 +14528,7 @@
   }
   {
     id: 583603
-    name: ally_team-10583603
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583603
     initial_type: 2
@@ -14486,7 +14541,7 @@
   }
   {
     id: 583604
-    name: ally_team-10583604
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583604
     initial_type: 2
@@ -14499,7 +14554,7 @@
   }
   {
     id: 583605
-    name: ally_team-10583605
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583605
     initial_type: 2
@@ -14512,7 +14567,7 @@
   }
   {
     id: 583606
-    name: ally_team-10583606
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583606
     initial_type: 2
@@ -14525,7 +14580,7 @@
   }
   {
     id: 583607
-    name: ally_team-10583607
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583607
     initial_type: 2
@@ -14538,7 +14593,7 @@
   }
   {
     id: 583608
-    name: ally_team-10583608
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583608
     initial_type: 2
@@ -14551,7 +14606,7 @@
   }
   {
     id: 583609
-    name: ally_team-10583609
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583609
     initial_type: 2
@@ -14564,7 +14619,7 @@
   }
   {
     id: 583610
-    name: ally_team-10583610
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583610
     initial_type: 2
@@ -14577,7 +14632,7 @@
   }
   {
     id: 583611
-    name: ally_team-10583611
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583611
     initial_type: 2
@@ -14590,7 +14645,7 @@
   }
   {
     id: 583612
-    name: ally_team-10583612
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583612
     initial_type: 2
@@ -14603,7 +14658,7 @@
   }
   {
     id: 583613
-    name: ally_team-10583613
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583613
     initial_type: 2
@@ -14616,7 +14671,7 @@
   }
   {
     id: 583614
-    name: ally_team-10583614
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583614
     initial_type: 2
@@ -14629,7 +14684,7 @@
   }
   {
     id: 583615
-    name: ally_team-10583615
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583615
     initial_type: 2
@@ -14642,7 +14697,7 @@
   }
   {
     id: 583616
-    name: ally_team-10583616
+    name: パラデウス
     guns: "1"
     enemy_team_id: 583616
     initial_type: 2
@@ -14655,7 +14710,7 @@
   }
   {
     id: 584701
-    name: ally_team-10584701
+    name: アンナ
     guns: "584701"
     enemy_team_id: 1
     initial_type: 1
@@ -14665,7 +14720,7 @@
   }
   {
     id: 584702
-    name: ally_team-10584702
+    name: ソ連主力部隊
     guns: "58470201,58470202,58470203,58470204,58470205"
     enemy_team_id: 1
     initial_type: 1
@@ -14675,7 +14730,7 @@
   }
   {
     id: 584801
-    name: ally_team-10584801
+    name: アンナ
     guns: "584801"
     enemy_team_id: 1
     initial_type: 1
@@ -14685,7 +14740,7 @@
   }
   {
     id: 584802
-    name: ally_team-10584802
+    name: ラムザン
     guns: "584802"
     enemy_team_id: 1
     initial_type: 1
@@ -14695,7 +14750,7 @@
   }
   {
     id: 584803
-    name: ally_team-10584803
+    name: ソ連主力部隊
     guns: "58480301,58480302,58480303,58480304,58480305"
     enemy_team_id: 1
     initial_type: 1
@@ -14705,7 +14760,7 @@
   }
   {
     id: 584901
-    name: ally_team-10584901
+    name: アンジェリア
     guns: "584901"
     enemy_team_id: 1
     initial_type: 1
@@ -14720,7 +14775,7 @@
   }
   {
     id: 584902
-    name: ally_team-10584902
+    name: AK-12
     guns: "584905"
     enemy_team_id: 1
     initial_type: 1
@@ -14734,7 +14789,7 @@
   }
   {
     id: 584903
-    name: ally_team-10584903
+    name: AN-94
     guns: "584906"
     enemy_team_id: 1
     initial_type: 1
@@ -14748,7 +14803,7 @@
   }
   {
     id: 584905
-    name: ally_team-10584905
+    name: AR小隊
     guns: "1"
     enemy_team_id: 584905
     initial_type: 2
@@ -14759,7 +14814,7 @@
   }
   {
     id: 585501
-    name: ally_team-10585501
+    name: BGM-71
     guns: "1109"
     enemy_team_id: 1
     initial_type: 1
@@ -14770,7 +14825,7 @@
   }
   {
     id: 585502
-    name: ally_team-10585502
+    name: デストロイヤー
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2001:10,10;0
@@ -14780,7 +14835,7 @@
   }
   {
     id: 585601
-    name: ally_team-10585601
+    name: モリドー
     guns: "1"
     enemy_team_id: 585601
     ai: 102;0;102
@@ -14790,7 +14845,7 @@
   }
   {
     id: 585602
-    name: ally_team-10585602
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585602
     initial_type: 2
@@ -14803,7 +14858,7 @@
   }
   {
     id: 585603
-    name: ally_team-10585603
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585603
     initial_type: 2
@@ -14816,7 +14871,7 @@
   }
   {
     id: 585604
-    name: ally_team-10585604
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585604
     initial_type: 2
@@ -14829,7 +14884,7 @@
   }
   {
     id: 585605
-    name: ally_team-10585605
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585605
     initial_type: 2
@@ -14842,7 +14897,7 @@
   }
   {
     id: 585606
-    name: ally_team-10585606
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585606
     initial_type: 2
@@ -14855,7 +14910,7 @@
   }
   {
     id: 585607
-    name: ally_team-10585607
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585607
     initial_type: 2
@@ -14868,7 +14923,7 @@
   }
   {
     id: 585608
-    name: ally_team-10585608
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585608
     initial_type: 2
@@ -14881,7 +14936,7 @@
   }
   {
     id: 585609
-    name: ally_team-10585609
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585609
     initial_type: 2
@@ -14894,7 +14949,7 @@
   }
   {
     id: 585610
-    name: ally_team-10585610
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585610
     initial_type: 2
@@ -14907,7 +14962,7 @@
   }
   {
     id: 585611
-    name: ally_team-10585611
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585611
     initial_type: 2
@@ -14920,7 +14975,7 @@
   }
   {
     id: 585612
-    name: ally_team-10585612
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585612
     initial_type: 2
@@ -14933,7 +14988,7 @@
   }
   {
     id: 585613
-    name: ally_team-10585613
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585613
     initial_type: 2
@@ -14946,7 +15001,7 @@
   }
   {
     id: 585614
-    name: ally_team-10585614
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585614
     initial_type: 2
@@ -14959,7 +15014,7 @@
   }
   {
     id: 585615
-    name: ally_team-10585615
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585615
     initial_type: 2
@@ -14972,7 +15027,7 @@
   }
   {
     id: 585616
-    name: ally_team-10585616
+    name: パラデウス
     guns: "1"
     enemy_team_id: 585616
     initial_type: 2
@@ -14985,7 +15040,7 @@
   }
   {
     id: 587001
-    name: ally_team-10587001
+    name: BGM-71
     guns: "1109"
     enemy_team_id: 1
     initial_type: 1
@@ -14996,7 +15051,7 @@
   }
   {
     id: 587002
-    name: ally_team-10587002
+    name: デストロイヤー
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2001:10,10;0
@@ -15006,7 +15061,7 @@
   }
   {
     id: 587101
-    name: ally_team-10587101
+    name: モリドー
     guns: "1"
     enemy_team_id: 587101
     ai: 102;0;102
@@ -15016,7 +15071,7 @@
   }
   {
     id: 587102
-    name: ally_team-10587102
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587102
     initial_type: 2
@@ -15029,7 +15084,7 @@
   }
   {
     id: 587103
-    name: ally_team-10587103
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587103
     initial_type: 2
@@ -15042,7 +15097,7 @@
   }
   {
     id: 587104
-    name: ally_team-10587104
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587104
     initial_type: 2
@@ -15055,7 +15110,7 @@
   }
   {
     id: 587105
-    name: ally_team-10587105
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587105
     initial_type: 2
@@ -15068,7 +15123,7 @@
   }
   {
     id: 587106
-    name: ally_team-10587106
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587106
     initial_type: 2
@@ -15081,7 +15136,7 @@
   }
   {
     id: 587107
-    name: ally_team-10587107
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587107
     initial_type: 2
@@ -15094,7 +15149,7 @@
   }
   {
     id: 587108
-    name: ally_team-10587108
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587108
     initial_type: 2
@@ -15107,7 +15162,7 @@
   }
   {
     id: 587109
-    name: ally_team-10587109
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587109
     initial_type: 2
@@ -15120,7 +15175,7 @@
   }
   {
     id: 587110
-    name: ally_team-10587110
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587110
     initial_type: 2
@@ -15133,7 +15188,7 @@
   }
   {
     id: 587111
-    name: ally_team-10587111
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587111
     initial_type: 2
@@ -15146,7 +15201,7 @@
   }
   {
     id: 587112
-    name: ally_team-10587112
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587112
     initial_type: 2
@@ -15159,7 +15214,7 @@
   }
   {
     id: 587113
-    name: ally_team-10587113
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587113
     initial_type: 2
@@ -15172,7 +15227,7 @@
   }
   {
     id: 587114
-    name: ally_team-10587114
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587114
     initial_type: 2
@@ -15185,7 +15240,7 @@
   }
   {
     id: 587115
-    name: ally_team-10587115
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587115
     initial_type: 2
@@ -15198,7 +15253,7 @@
   }
   {
     id: 587116
-    name: ally_team-10587116
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587116
     initial_type: 2
@@ -15211,7 +15266,7 @@
   }
   {
     id: 587117
-    name: ally_team-10587117
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587117
     initial_type: 2
@@ -15224,7 +15279,7 @@
   }
   {
     id: 587118
-    name: ally_team-10587118
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587118
     initial_type: 2
@@ -15237,7 +15292,7 @@
   }
   {
     id: 587119
-    name: ally_team-10587119
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587119
     initial_type: 2
@@ -15250,7 +15305,7 @@
   }
   {
     id: 587120
-    name: ally_team-10587120
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587120
     initial_type: 2
@@ -15263,7 +15318,7 @@
   }
   {
     id: 587121
-    name: ally_team-10587121
+    name: パラデウス
     guns: "1"
     enemy_team_id: 587121
     initial_type: 2
@@ -15323,7 +15378,7 @@
   }
   {
     id: 610101
-    name: ally_team-10610101
+    name: 正規軍
     guns: "1"
     enemy_team_id: 612312
     initial_type: 2
@@ -15335,7 +15390,7 @@
   }
   {
     id: 611010
-    name: ally_team-10611010
+    name: 鉄血勢力
     guns: "1"
     enemy_team_id: 611010
     initial_type: 2
@@ -15347,7 +15402,7 @@
   }
   {
     id: 611011
-    name: ally_team-10611011
+    name: 鉄血勢力
     guns: "1"
     enemy_team_id: 611011
     initial_type: 2
@@ -15359,7 +15414,7 @@
   }
   {
     id: 611012
-    name: ally_team-10611012
+    name: 鉄血勢力
     guns: "1"
     enemy_team_id: 611012
     initial_type: 2
@@ -15371,7 +15426,7 @@
   }
   {
     id: 612310
-    name: ally_team-10612310
+    name: 正規軍
     guns: "1"
     enemy_team_id: 612310
     initial_type: 2
@@ -15383,7 +15438,7 @@
   }
   {
     id: 612311
-    name: ally_team-10612311
+    name: 正規軍
     guns: "1"
     enemy_team_id: 612311
     initial_type: 2
@@ -15395,7 +15450,7 @@
   }
   {
     id: 612312
-    name: ally_team-10612312
+    name: 正規軍
     guns: "1"
     enemy_team_id: 612312
     initial_type: 2
@@ -15511,7 +15566,6 @@
   }
   {
     id: 1144001
-    name: ally_team-11144001
     enemy_team_id: 1144001
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15519,7 +15573,6 @@
   }
   {
     id: 1144002
-    name: ally_team-11144002
     enemy_team_id: 1144002
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15527,7 +15580,6 @@
   }
   {
     id: 1144003
-    name: ally_team-11144003
     enemy_team_id: 1144003
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15535,7 +15587,6 @@
   }
   {
     id: 1144004
-    name: ally_team-11144004
     enemy_team_id: 1144002
     ai: 102;0;0
     ai_content: 1;0;0
@@ -15543,7 +15594,7 @@
   }
   {
     id: 1144401
-    name: ally_team-11144401
+    name: エージェント
     guns: "1"
     enemy_team_id: 1144401
     initial_type: 2
@@ -15553,7 +15604,7 @@
   }
   {
     id: 1144402
-    name: ally_team-11144402
+    name: エージェント
     guns: "1"
     enemy_team_id: 1144402
     initial_type: 2
@@ -15563,7 +15614,7 @@
   }
   {
     id: 1144403
-    name: ally_team-11144403
+    name: エージェント
     guns: "1"
     enemy_team_id: 1144403
     initial_type: 2
@@ -15573,7 +15624,6 @@
   }
   {
     id: 1145301
-    name: ally_team-11145301
     enemy_team_id: 1145301
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15581,7 +15631,6 @@
   }
   {
     id: 1145302
-    name: ally_team-11145302
     enemy_team_id: 1145302
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15589,7 +15638,6 @@
   }
   {
     id: 1145303
-    name: ally_team-11145303
     enemy_team_id: 1145303
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15597,7 +15645,6 @@
   }
   {
     id: 1145304
-    name: ally_team-11145304
     enemy_team_id: 1145302
     ai: 102;0;0
     ai_content: 1;0;0
@@ -15605,7 +15652,7 @@
   }
   {
     id: 1145701
-    name: ally_team-11145701
+    name: エージェント
     guns: "1"
     enemy_team_id: 1145701
     initial_type: 2
@@ -15615,7 +15662,7 @@
   }
   {
     id: 1145702
-    name: ally_team-11145702
+    name: エージェント
     guns: "1"
     enemy_team_id: 1145702
     initial_type: 2
@@ -15625,7 +15672,7 @@
   }
   {
     id: 1145703
-    name: ally_team-11145703
+    name: エージェント
     guns: "1"
     enemy_team_id: 1145703
     initial_type: 2
@@ -16768,7 +16815,7 @@
   }
   {
     id: 6000027
-    name: ally_team-16000027
+    name: アルケミスト
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2001:4,10;0
@@ -16778,7 +16825,7 @@
   }
   {
     id: 6000028
-    name: ally_team-16000028
+    name: AR隊
     guns: "10005,10006,10007,10008,10009"
     enemy_team_id: 1
     initial_type: 1
@@ -16788,7 +16835,7 @@
   }
   {
     id: 6000029
-    name: ally_team-16000029
+    name: RF隊
     guns: "10010,10011,10012,10013,10014"
     enemy_team_id: 1
     initial_type: 1
@@ -16798,7 +16845,7 @@
   }
   {
     id: 6000030
-    name: ally_team-16000030
+    name: MG隊
     guns: "10015,10016,10017,10018,10019"
     enemy_team_id: 1
     initial_type: 1
@@ -16808,7 +16855,7 @@
   }
   {
     id: 6363001
-    name: ally_team-16363001
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363001
     initial_type: 2
@@ -16820,7 +16867,7 @@
   }
   {
     id: 6363002
-    name: ally_team-16363002
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363002
     initial_type: 2
@@ -16832,7 +16879,7 @@
   }
   {
     id: 6363003
-    name: ally_team-16363003
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363003
     initial_type: 2
@@ -16844,7 +16891,7 @@
   }
   {
     id: 6363004
-    name: ally_team-16363004
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363004
     initial_type: 2
@@ -16856,7 +16903,7 @@
   }
   {
     id: 6363005
-    name: ally_team-16363005
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363005
     initial_type: 2
@@ -16868,7 +16915,7 @@
   }
   {
     id: 6363006
-    name: ally_team-16363006
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363006
     initial_type: 2
@@ -16880,7 +16927,7 @@
   }
   {
     id: 6363007
-    name: ally_team-16363007
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363007
     initial_type: 2
@@ -16892,7 +16939,7 @@
   }
   {
     id: 6363008
-    name: ally_team-16363008
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363008
     initial_type: 2
@@ -16904,7 +16951,7 @@
   }
   {
     id: 6363009
-    name: ally_team-16363009
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363009
     initial_type: 2
@@ -16916,7 +16963,7 @@
   }
   {
     id: 6363010
-    name: ally_team-16363010
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363010
     initial_type: 2
@@ -16928,7 +16975,7 @@
   }
   {
     id: 6363011
-    name: ally_team-16363011
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363011
     initial_type: 2
@@ -16940,7 +16987,7 @@
   }
   {
     id: 6363012
-    name: ally_team-16363012
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363012
     initial_type: 2
@@ -16952,7 +16999,7 @@
   }
   {
     id: 6363013
-    name: ally_team-16363013
+    name: 反乱軍
     guns: "748"
     enemy_team_id: 6363013
     initial_type: 2
@@ -16964,7 +17011,7 @@
   }
   {
     id: 6363045
-    name: ally_team-16363045
+    name: パラデウス
     guns: "748"
     enemy_team_id: 6363045
     ai: 103;1;103
@@ -16975,7 +17022,7 @@
   }
   {
     id: 6363046
-    name: ally_team-16363046
+    name: パラデウス
     guns: "748"
     enemy_team_id: 6363046
     ai: 103;1;103
@@ -16986,7 +17033,7 @@
   }
   {
     id: 6363047
-    name: ally_team-16363047
+    name: パラデウス
     guns: "748"
     enemy_team_id: 6363047
     ai: 103;1;103
@@ -16997,7 +17044,7 @@
   }
   {
     id: 6363048
-    name: ally_team-16363048
+    name: パラデウス
     guns: "748"
     enemy_team_id: 6363048
     ai: 103;1;103
@@ -17008,7 +17055,6 @@
   }
   {
     id: 6363081
-    name: ally_team-16363081
     guns: "861,862,863,864,865"
     enemy_team_id: 1
     initial_type: 1
@@ -17020,7 +17066,6 @@
   }
   {
     id: 6363082
-    name: ally_team-16363082
     guns: "866,867,868,869,870"
     enemy_team_id: 1
     initial_type: 1
@@ -17032,7 +17077,7 @@
   }
   {
     id: 6363083
-    name: ally_team-16363083
+    name: グリフィン
     guns: "871,872,873,874,875"
     enemy_team_id: 1
     initial_type: 1
@@ -17044,7 +17089,7 @@
   }
   {
     id: 6363084
-    name: ally_team-16363084
+    name: グリフィン
     guns: "876,877,878,879"
     enemy_team_id: 1
     initial_type: 1
@@ -17056,7 +17101,6 @@
   }
   {
     id: 6363085
-    name: ally_team-16363085
     guns: "880,881,882,883,884"
     enemy_team_id: 1
     initial_type: 1
@@ -17068,7 +17112,6 @@
   }
   {
     id: 6363086
-    name: ally_team-16363086
     guns: "885,886,887,888,889"
     enemy_team_id: 1
     initial_type: 1
@@ -17080,7 +17123,7 @@
   }
   {
     id: 6363087
-    name: ally_team-16363087
+    name: AR小隊
     guns: "852,853,854,855"
     enemy_team_id: 1
     initial_type: 1
@@ -17092,7 +17135,7 @@
   }
   {
     id: 6363088
-    name: ally_team-16363088
+    name: 404小隊
     guns: "856,857,858,859"
     enemy_team_id: 1
     initial_type: 1
@@ -17104,7 +17147,7 @@
   }
   {
     id: 6363089
-    name: ally_team-16363089
+    name: 装甲列車
     guns: "825"
     enemy_team_id: 1
     initial_type: 1
@@ -19691,7 +19734,7 @@
   }
   {
     id: 6580001
-    name: ally_team-16580001
+    name: 後方支援小隊
     guns: "6540101,6540102,6540103,6540104,6540105"
     enemy_team_id: 1
     initial_type: 1
@@ -19701,7 +19744,7 @@
   }
   {
     id: 6580002
-    name: ally_team-16580002
+    name: 後方支援小隊
     guns: "6540201,6540202,6540203,6540204,6540205"
     enemy_team_id: 1
     initial_type: 1
@@ -19712,7 +19755,7 @@
   }
   {
     id: 6580003
-    name: ally_team-16580003
+    name: 後方支援小隊
     guns: "6540301,6540302,6540303,6540304,6540305"
     enemy_team_id: 1
     initial_type: 1
@@ -19722,7 +19765,7 @@
   }
   {
     id: 6580101
-    name: ally_team-16580101
+    name: アンジェリア
     guns: "6580101"
     enemy_team_id: 1
     initial_type: 1
@@ -19736,7 +19779,7 @@
   }
   {
     id: 6580102
-    name: ally_team-16580102
+    name: AN-94
     guns: "6580102"
     enemy_team_id: 1
     initial_type: 1
@@ -19749,7 +19792,7 @@
   }
   {
     id: 6580103
-    name: ally_team-16580103
+    name: AK-12
     guns: "6580104"
     enemy_team_id: 1
     initial_type: 1
@@ -19762,7 +19805,7 @@
   }
   {
     id: 6580104
-    name: ally_team-16580104
+    name: AK-15
     guns: "6580103"
     enemy_team_id: 1
     initial_type: 1
@@ -19775,7 +19818,7 @@
   }
   {
     id: 6580105
-    name: ally_team-16580105
+    name: アンジェリア
     guns: "6580105,6580106"
     enemy_team_id: 1
     initial_type: 1
@@ -19788,7 +19831,7 @@
   }
   {
     id: 6580106
-    name: ally_team-16580106
+    name: アンジェリア
     guns: "6580107,6580108,6580109"
     enemy_team_id: 1
     initial_type: 1
@@ -19801,7 +19844,7 @@
   }
   {
     id: 6580107
-    name: ally_team-16580107
+    name: アンジェリア
     guns: "6580110,6580111,6580112"
     enemy_team_id: 1
     initial_type: 1
@@ -19814,7 +19857,7 @@
   }
   {
     id: 6580108
-    name: ally_team-16580108
+    name: アンジェリア
     guns: "6580113,6580114,6580115,6580116"
     enemy_team_id: 1
     initial_type: 1
@@ -19824,7 +19867,7 @@
   }
   {
     id: 6580109
-    name: ally_team-16580109
+    name: RPK-16
     guns: "1"
     enemy_team_id: 6580101
     initial_type: 2
@@ -19834,7 +19877,7 @@
   }
   {
     id: 6580110
-    name: ally_team-16580110
+    name: RPK-16
     guns: "1"
     enemy_team_id: 6581101
     initial_type: 2
@@ -19848,7 +19891,7 @@
   }
   {
     id: 6580111
-    name: ally_team-16580111
+    name: RPK-16
     guns: "1"
     enemy_team_id: 6581101
     initial_type: 2
@@ -19862,7 +19905,7 @@
   }
   {
     id: 6580112
-    name: ally_team-16580112
+    name: 反逆小隊
     guns: "6580117,6580118"
     enemy_team_id: 1
     initial_type: 1
@@ -19875,7 +19918,7 @@
   }
   {
     id: 6580113
-    name: ally_team-16580113
+    name: エージェント
     guns: "6580119"
     enemy_team_id: 1
     initial_type: 1
@@ -19888,7 +19931,7 @@
   }
   {
     id: 6580114
-    name: ally_team-16580114
+    name: アンジェリア
     guns: "6580105,6580106"
     enemy_team_id: 1
     initial_type: 1
@@ -19898,7 +19941,7 @@
   }
   {
     id: 6580115
-    name: ally_team-16580115
+    name: 反逆小隊
     guns: "6580117,6580118"
     enemy_team_id: 1
     initial_type: 1
@@ -19908,7 +19951,7 @@
   }
   {
     id: 6580116
-    name: ally_team-16580116
+    name: ミセス・グレイ
     guns: "1"
     enemy_team_id: 6580201
     initial_type: 2
@@ -19918,7 +19961,7 @@
   }
   {
     id: 6580117
-    name: ally_team-16580117
+    name: ミセス・グレイ
     guns: "1"
     enemy_team_id: 6581201
     initial_type: 2
@@ -19928,7 +19971,7 @@
   }
   {
     id: 6580118
-    name: ally_team-16580118
+    name: アンジェリア
     guns: "6580120"
     enemy_team_id: 1
     initial_type: 1
@@ -19938,7 +19981,7 @@
   }
   {
     id: 6580119
-    name: ally_team-16580119
+    name: RO635
     guns: "6580121"
     enemy_team_id: 1
     initial_type: 1
@@ -19948,7 +19991,7 @@
   }
   {
     id: 6580120
-    name: ally_team-16580120
+    name: ネイト
     guns: "1"
     enemy_team_id: 6580301
     initial_type: 2
@@ -19963,7 +20006,7 @@
   }
   {
     id: 6580121
-    name: ally_team-16580121
+    name: ネイト
     guns: "1"
     enemy_team_id: 6581301
     initial_type: 2
@@ -19978,7 +20021,7 @@
   }
   {
     id: 6580122
-    name: ally_team-16580122
+    name: アンジェリア
     guns: "6580101"
     enemy_team_id: 1
     initial_type: 1
@@ -19992,7 +20035,6 @@
   }
   {
     id: 6589101
-    name: ally_team-16589101
     guns: "1"
     enemy_team_id: 6589101
     initial_type: 2
@@ -20004,7 +20046,6 @@
   }
   {
     id: 6589105
-    name: ally_team-16589105
     guns: "1"
     enemy_team_id: 6589105
     initial_type: 2
@@ -20016,7 +20057,6 @@
   }
   {
     id: 6589108
-    name: ally_team-16589108
     guns: "1"
     enemy_team_id: 6589108
     initial_type: 2
@@ -20028,7 +20068,6 @@
   }
   {
     id: 6589110
-    name: ally_team-16589110
     guns: "1"
     enemy_team_id: 6589110
     initial_type: 2
@@ -20040,7 +20079,6 @@
   }
   {
     id: 6589121
-    name: ally_team-16589121
     guns: "1"
     enemy_team_id: 6589121
     initial_type: 2
@@ -20051,7 +20089,6 @@
   }
   {
     id: 6589122
-    name: ally_team-16589122
     guns: "1"
     enemy_team_id: 6589122
     initial_type: 2
@@ -20062,7 +20099,6 @@
   }
   {
     id: 6589123
-    name: ally_team-16589123
     guns: "1"
     enemy_team_id: 6589123
     initial_type: 2
@@ -20073,7 +20109,6 @@
   }
   {
     id: 6589124
-    name: ally_team-16589124
     guns: "1"
     enemy_team_id: 6589124
     initial_type: 2
@@ -20084,7 +20119,6 @@
   }
   {
     id: 6589125
-    name: ally_team-16589125
     guns: "1"
     enemy_team_id: 6589125
     initial_type: 2
@@ -20095,7 +20129,6 @@
   }
   {
     id: 6589126
-    name: ally_team-16589126
     guns: "1"
     enemy_team_id: 6589126
     initial_type: 2
@@ -20106,7 +20139,6 @@
   }
   {
     id: 6589127
-    name: ally_team-16589127
     guns: "1"
     enemy_team_id: 6589127
     initial_type: 2
@@ -20117,7 +20149,6 @@
   }
   {
     id: 6589128
-    name: ally_team-16589128
     guns: "1"
     enemy_team_id: 6589128
     initial_type: 2
@@ -20128,7 +20159,6 @@
   }
   {
     id: 6589129
-    name: ally_team-16589129
     guns: "1"
     enemy_team_id: 6589129
     initial_type: 2
@@ -20139,7 +20169,6 @@
   }
   {
     id: 6589130
-    name: ally_team-16589130
     guns: "1"
     enemy_team_id: 6589130
     initial_type: 2
@@ -20150,7 +20179,6 @@
   }
   {
     id: 6589131
-    name: ally_team-16589131
     guns: "1"
     enemy_team_id: 6589131
     initial_type: 2
@@ -20161,7 +20189,6 @@
   }
   {
     id: 6589132
-    name: ally_team-16589132
     guns: "1"
     enemy_team_id: 6589132
     initial_type: 2
@@ -20172,7 +20199,6 @@
   }
   {
     id: 6589133
-    name: ally_team-16589133
     guns: "1"
     enemy_team_id: 6589133
     initial_type: 2
@@ -20183,7 +20209,6 @@
   }
   {
     id: 6589134
-    name: ally_team-16589134
     guns: "1"
     enemy_team_id: 6589134
     initial_type: 2
@@ -20194,7 +20219,6 @@
   }
   {
     id: 6589135
-    name: ally_team-16589135
     guns: "1"
     enemy_team_id: 6589135
     initial_type: 2
@@ -20205,7 +20229,6 @@
   }
   {
     id: 6589136
-    name: ally_team-16589136
     guns: "1"
     enemy_team_id: 6589136
     initial_type: 2
@@ -20216,7 +20239,6 @@
   }
   {
     id: 6589137
-    name: ally_team-16589137
     guns: "1"
     enemy_team_id: 6589137
     initial_type: 2
@@ -20227,7 +20249,6 @@
   }
   {
     id: 6589138
-    name: ally_team-16589138
     guns: "1"
     enemy_team_id: 6589138
     initial_type: 2
@@ -20238,7 +20259,6 @@
   }
   {
     id: 6589139
-    name: ally_team-16589139
     guns: "1"
     enemy_team_id: 6589139
     initial_type: 2
@@ -20249,7 +20269,6 @@
   }
   {
     id: 6589140
-    name: ally_team-16589140
     guns: "1"
     enemy_team_id: 6589140
     initial_type: 2
@@ -20260,7 +20279,6 @@
   }
   {
     id: 6589141
-    name: ally_team-16589141
     guns: "1"
     enemy_team_id: 6589141
     initial_type: 2
@@ -20271,7 +20289,6 @@
   }
   {
     id: 6589142
-    name: ally_team-16589142
     guns: "1"
     enemy_team_id: 6589142
     initial_type: 2
@@ -20282,7 +20299,6 @@
   }
   {
     id: 6589143
-    name: ally_team-16589143
     guns: "1"
     enemy_team_id: 6589143
     initial_type: 2
@@ -20293,7 +20309,6 @@
   }
   {
     id: 6589144
-    name: ally_team-16589144
     guns: "1"
     enemy_team_id: 6589144
     initial_type: 2
@@ -20304,7 +20319,6 @@
   }
   {
     id: 6589145
-    name: ally_team-16589145
     guns: "1"
     enemy_team_id: 6589145
     initial_type: 2
@@ -20315,7 +20329,6 @@
   }
   {
     id: 6589146
-    name: ally_team-16589146
     guns: "1"
     enemy_team_id: 6589146
     initial_type: 2
@@ -20326,7 +20339,6 @@
   }
   {
     id: 6589147
-    name: ally_team-16589147
     guns: "1"
     enemy_team_id: 6589147
     initial_type: 2
@@ -20337,7 +20349,6 @@
   }
   {
     id: 6589148
-    name: ally_team-16589148
     guns: "1"
     enemy_team_id: 6589148
     initial_type: 2
@@ -20348,7 +20359,6 @@
   }
   {
     id: 6589149
-    name: ally_team-16589149
     guns: "1"
     enemy_team_id: 6589149
     initial_type: 2
@@ -20359,7 +20369,6 @@
   }
   {
     id: 6589150
-    name: ally_team-16589150
     guns: "1"
     enemy_team_id: 6589150
     initial_type: 2
@@ -20370,7 +20379,6 @@
   }
   {
     id: 6589151
-    name: ally_team-16589151
     guns: "1"
     enemy_team_id: 6589151
     initial_type: 2
@@ -20382,7 +20390,6 @@
   }
   {
     id: 6589205
-    name: ally_team-16589205
     guns: "1"
     enemy_team_id: 6589205
     initial_type: 2
@@ -20394,7 +20401,6 @@
   }
   {
     id: 6589208
-    name: ally_team-16589208
     guns: "1"
     enemy_team_id: 6589208
     initial_type: 2
@@ -20406,7 +20412,6 @@
   }
   {
     id: 6589209
-    name: ally_team-16589209
     guns: "1"
     enemy_team_id: 6589209
     initial_type: 2
@@ -20418,7 +20423,6 @@
   }
   {
     id: 6589210
-    name: ally_team-16589210
     guns: "1"
     enemy_team_id: 6589210
     initial_type: 2
@@ -20430,7 +20434,6 @@
   }
   {
     id: 6589221
-    name: ally_team-16589221
     guns: "1"
     enemy_team_id: 6589221
     initial_type: 2
@@ -20441,7 +20444,6 @@
   }
   {
     id: 6589222
-    name: ally_team-16589222
     guns: "1"
     enemy_team_id: 6589222
     initial_type: 2
@@ -20452,7 +20454,6 @@
   }
   {
     id: 6589223
-    name: ally_team-16589223
     guns: "1"
     enemy_team_id: 6589223
     initial_type: 2
@@ -20463,7 +20464,6 @@
   }
   {
     id: 6589224
-    name: ally_team-16589224
     guns: "1"
     enemy_team_id: 6589224
     initial_type: 2
@@ -20474,7 +20474,6 @@
   }
   {
     id: 6589225
-    name: ally_team-16589225
     guns: "1"
     enemy_team_id: 6589225
     initial_type: 2
@@ -20485,7 +20484,6 @@
   }
   {
     id: 6589226
-    name: ally_team-16589226
     guns: "1"
     enemy_team_id: 6589226
     initial_type: 2
@@ -20496,7 +20494,6 @@
   }
   {
     id: 6589227
-    name: ally_team-16589227
     guns: "1"
     enemy_team_id: 6589227
     initial_type: 2
@@ -20507,7 +20504,6 @@
   }
   {
     id: 6589228
-    name: ally_team-16589228
     guns: "1"
     enemy_team_id: 6589228
     initial_type: 2
@@ -20518,7 +20514,6 @@
   }
   {
     id: 6589229
-    name: ally_team-16589229
     guns: "1"
     enemy_team_id: 6589229
     initial_type: 2
@@ -20529,7 +20524,6 @@
   }
   {
     id: 6589230
-    name: ally_team-16589230
     guns: "1"
     enemy_team_id: 6589230
     initial_type: 2
@@ -20540,7 +20534,6 @@
   }
   {
     id: 6589231
-    name: ally_team-16589231
     guns: "1"
     enemy_team_id: 6589231
     initial_type: 2
@@ -20551,7 +20544,6 @@
   }
   {
     id: 6589232
-    name: ally_team-16589232
     guns: "1"
     enemy_team_id: 6589232
     initial_type: 2
@@ -20562,7 +20554,6 @@
   }
   {
     id: 6589233
-    name: ally_team-16589233
     guns: "1"
     enemy_team_id: 6589233
     initial_type: 2
@@ -20573,7 +20564,6 @@
   }
   {
     id: 6589234
-    name: ally_team-16589234
     guns: "1"
     enemy_team_id: 6589234
     initial_type: 2
@@ -20584,7 +20574,6 @@
   }
   {
     id: 6589235
-    name: ally_team-16589235
     guns: "1"
     enemy_team_id: 6589235
     initial_type: 2
@@ -20595,7 +20584,6 @@
   }
   {
     id: 6589236
-    name: ally_team-16589236
     guns: "1"
     enemy_team_id: 6589236
     initial_type: 2
@@ -20606,7 +20594,6 @@
   }
   {
     id: 6589237
-    name: ally_team-16589237
     guns: "1"
     enemy_team_id: 6589237
     initial_type: 2
@@ -20617,7 +20604,6 @@
   }
   {
     id: 6589238
-    name: ally_team-16589238
     guns: "1"
     enemy_team_id: 6589238
     initial_type: 2
@@ -20628,7 +20614,6 @@
   }
   {
     id: 6589239
-    name: ally_team-16589239
     guns: "1"
     enemy_team_id: 6589239
     initial_type: 2
@@ -20639,7 +20624,6 @@
   }
   {
     id: 6589240
-    name: ally_team-16589240
     guns: "1"
     enemy_team_id: 6589240
     initial_type: 2
@@ -20650,7 +20634,6 @@
   }
   {
     id: 6589241
-    name: ally_team-16589241
     guns: "1"
     enemy_team_id: 6589241
     initial_type: 2
@@ -20661,7 +20644,6 @@
   }
   {
     id: 6589242
-    name: ally_team-16589242
     guns: "1"
     enemy_team_id: 6589242
     initial_type: 2
@@ -20672,7 +20654,6 @@
   }
   {
     id: 6589243
-    name: ally_team-16589243
     guns: "1"
     enemy_team_id: 6589243
     initial_type: 2
@@ -20683,7 +20664,6 @@
   }
   {
     id: 6589244
-    name: ally_team-16589244
     guns: "1"
     enemy_team_id: 6589244
     initial_type: 2
@@ -20694,7 +20674,6 @@
   }
   {
     id: 6589245
-    name: ally_team-16589245
     guns: "1"
     enemy_team_id: 6589245
     initial_type: 2
@@ -20705,7 +20684,6 @@
   }
   {
     id: 6589246
-    name: ally_team-16589246
     guns: "1"
     enemy_team_id: 6589246
     initial_type: 2
@@ -20716,7 +20694,6 @@
   }
   {
     id: 6589247
-    name: ally_team-16589247
     guns: "1"
     enemy_team_id: 6589247
     initial_type: 2
@@ -20727,7 +20704,6 @@
   }
   {
     id: 6589248
-    name: ally_team-16589248
     guns: "1"
     enemy_team_id: 6589248
     initial_type: 2
@@ -20738,7 +20714,6 @@
   }
   {
     id: 6589249
-    name: ally_team-16589249
     guns: "1"
     enemy_team_id: 6589249
     initial_type: 2
@@ -20749,7 +20724,6 @@
   }
   {
     id: 6589250
-    name: ally_team-16589250
     guns: "1"
     enemy_team_id: 6589250
     initial_type: 2
@@ -20760,7 +20734,6 @@
   }
   {
     id: 6589251
-    name: ally_team-16589251
     guns: "1"
     enemy_team_id: 6589251
     initial_type: 2
@@ -22287,7 +22260,7 @@
   }
   {
     id: 9583801
-    name: ally_team-19583801
+    name: 反逆
     guns: "583801,583802"
     enemy_team_id: 1
     initial_type: 1
@@ -22297,7 +22270,7 @@
   }
   {
     id: 9584001
-    name: ally_team-19584001
+    name: タラクサクム
     guns: "584001,584002,584003,584004"
     enemy_team_id: 1
     initial_type: 1
@@ -22307,7 +22280,7 @@
   }
   {
     id: 9584002
-    name: ally_team-19584002
+    name: アウロラ
     guns: "584005,584006,584007"
     enemy_team_id: 1
     initial_type: 1
@@ -22317,7 +22290,7 @@
   }
   {
     id: 9584003
-    name: ally_team-19584003
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9584002
     initial_type: 2
@@ -22328,7 +22301,7 @@
   }
   {
     id: 9584004
-    name: ally_team-19584004
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9584003
     initial_type: 2
@@ -22339,7 +22312,7 @@
   }
   {
     id: 9584005
-    name: ally_team-19584005
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9584004
     initial_type: 2
@@ -22350,7 +22323,6 @@
   }
   {
     id: 9584006
-    name: ally_team-19584006
     guns: "6580117,6580118"
     enemy_team_id: 9584001
     initial_type: 2
@@ -22365,7 +22337,7 @@
   }
   {
     id: 9584091
-    name: ally_team-19584091
+    name: サナ
     guns: "6580117,6580118"
     enemy_team_id: 9584008
     initial_type: 2
@@ -22376,7 +22348,7 @@
   }
   {
     id: 9584092
-    name: ally_team-19584092
+    name: ネムラン
     guns: "6580117,6580118"
     enemy_team_id: 9584009
     initial_type: 2
@@ -22387,7 +22359,7 @@
   }
   {
     id: 9584201
-    name: ally_team-19584201
+    name: タラクサクム
     guns: "584201,584202,584203,584204"
     enemy_team_id: 1
     initial_type: 1
@@ -22397,7 +22369,7 @@
   }
   {
     id: 9584202
-    name: ally_team-19584202
+    name: アウロラ
     guns: "584205,584206,584207"
     enemy_team_id: 1
     initial_type: 1
@@ -22407,7 +22379,7 @@
   }
   {
     id: 9584203
-    name: ally_team-19584203
+    name: Fe56
     guns: "6580117,6580118"
     enemy_team_id: 1
     ai: 103;0;103
@@ -22420,7 +22392,7 @@
   }
   {
     id: 9584204
-    name: ally_team-19584204
+    name: モリドー
     guns: "6580117,6580118"
     enemy_team_id: 9584201
     initial_type: 2
@@ -22432,7 +22404,7 @@
   }
   {
     id: 9584205
-    name: ally_team-19584205
+    name: ネムラン
     guns: "6580117,6580118"
     enemy_team_id: 9584202
     initial_type: 2
@@ -22444,7 +22416,7 @@
   }
   {
     id: 9585701
-    name: ally_team-19585701
+    name: 反逆
     guns: "585701,585702"
     enemy_team_id: 1
     initial_type: 1
@@ -22454,7 +22426,7 @@
   }
   {
     id: 9585801
-    name: ally_team-19585801
+    name: タラクサクム
     guns: "585801,585802,585803,585804"
     enemy_team_id: 1
     initial_type: 1
@@ -22464,7 +22436,7 @@
   }
   {
     id: 9585802
-    name: ally_team-19585802
+    name: アウロラ
     guns: "585805,585806,585807"
     enemy_team_id: 1
     initial_type: 1
@@ -22474,7 +22446,7 @@
   }
   {
     id: 9585803
-    name: ally_team-19585803
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9585802
     initial_type: 2
@@ -22485,7 +22457,7 @@
   }
   {
     id: 9585804
-    name: ally_team-19585804
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9585803
     initial_type: 2
@@ -22496,7 +22468,7 @@
   }
   {
     id: 9585805
-    name: ally_team-19585805
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9585804
     initial_type: 2
@@ -22507,7 +22479,6 @@
   }
   {
     id: 9585806
-    name: ally_team-19585806
     guns: "6580117,6580118"
     enemy_team_id: 9585801
     initial_type: 2
@@ -22522,7 +22493,7 @@
   }
   {
     id: 9585901
-    name: ally_team-19585901
+    name: タラクサクム
     guns: "585901,585902,585903,585904"
     enemy_team_id: 1
     initial_type: 1
@@ -22532,7 +22503,7 @@
   }
   {
     id: 9585902
-    name: ally_team-19585902
+    name: アウロラ
     guns: "585905,585906,585907"
     enemy_team_id: 1
     initial_type: 1
@@ -22542,7 +22513,7 @@
   }
   {
     id: 9585903
-    name: ally_team-19585903
+    name: Fe56
     guns: "6580117,6580118"
     enemy_team_id: 1
     ai: 0;2001:5,10;0
@@ -22555,7 +22526,7 @@
   }
   {
     id: 9585904
-    name: ally_team-19585904
+    name: モリドー
     guns: "6580117,6580118"
     enemy_team_id: 9585901
     initial_type: 2
@@ -22567,7 +22538,7 @@
   }
   {
     id: 9585905
-    name: ally_team-19585905
+    name: ネムラン
     guns: "6580117,6580118"
     enemy_team_id: 9585902
     initial_type: 2
@@ -22579,7 +22550,7 @@
   }
   {
     id: 9587201
-    name: ally_team-19587201
+    name: 反逆
     guns: "587201,587202"
     enemy_team_id: 1
     initial_type: 1
@@ -22589,7 +22560,7 @@
   }
   {
     id: 9587208
-    name: ally_team-19587208
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9587208
     initial_type: 2
@@ -22600,7 +22571,7 @@
   }
   {
     id: 9587301
-    name: ally_team-19587301
+    name: タラクサクム
     guns: "587301,587302,587303,587304"
     enemy_team_id: 1
     initial_type: 1
@@ -22610,7 +22581,7 @@
   }
   {
     id: 9587302
-    name: ally_team-19587302
+    name: アウロラ
     guns: "587305,587306,587307"
     enemy_team_id: 1
     initial_type: 1
@@ -22620,7 +22591,7 @@
   }
   {
     id: 9587303
-    name: ally_team-19587303
+    name: Fe56
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2001:5,10;0
@@ -22630,7 +22601,7 @@
   }
   {
     id: 9587304
-    name: ally_team-19587304
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9587302
     initial_type: 2
@@ -22641,7 +22612,7 @@
   }
   {
     id: 9587305
-    name: ally_team-19587305
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9587303
     initial_type: 2
@@ -22652,7 +22623,7 @@
   }
   {
     id: 9587306
-    name: ally_team-19587306
+    name: パラデウス
     guns: "6580117,6580118"
     enemy_team_id: 9587304
     initial_type: 2
@@ -22663,7 +22634,6 @@
   }
   {
     id: 9587307
-    name: ally_team-19587307
     guns: "6580117,6580118"
     enemy_team_id: 9587301
     initial_type: 2
@@ -22678,7 +22648,7 @@
   }
   {
     id: 9587401
-    name: ally_team-19587401
+    name: タラクサクム
     guns: "587401,587402,587403,587404"
     enemy_team_id: 1
     initial_type: 1
@@ -22688,7 +22658,7 @@
   }
   {
     id: 9587402
-    name: ally_team-19587402
+    name: アウロラ
     guns: "587405,587406,587407"
     enemy_team_id: 1
     initial_type: 1
@@ -22698,7 +22668,7 @@
   }
   {
     id: 9587403
-    name: ally_team-19587403
+    name: Fe56
     guns: "6580117,6580118"
     enemy_team_id: 1
     ai: 103;0;103
@@ -22711,7 +22681,7 @@
   }
   {
     id: 9587404
-    name: ally_team-19587404
+    name: Fe56
     guns: "6580117,6580118"
     enemy_team_id: 1
     ai: 103;0;103
@@ -22724,7 +22694,7 @@
   }
   {
     id: 9587405
-    name: ally_team-19587405
+    name: モリドー
     guns: "6580117,6580118"
     enemy_team_id: 9587401
     initial_type: 2
@@ -22736,7 +22706,7 @@
   }
   {
     id: 9587406
-    name: ally_team-19587406
+    name: ネムラン
     guns: "6580117,6580118"
     enemy_team_id: 9587402
     initial_type: 2
@@ -23683,7 +23653,7 @@
   }
   {
     id: 58550301
-    name: ally_team-68550301
+    name: 要塞機甲
     guns: "1"
     enemy_team_id: 585503
     initial_type: 2
@@ -23694,7 +23664,7 @@
   }
   {
     id: 58700201
-    name: ally_team-68700201
+    name: 要塞機甲
     guns: "1"
     enemy_team_id: 587002
     initial_type: 2
@@ -23705,7 +23675,7 @@
   }
   {
     id: 58700401
-    name: ally_team-68700401
+    name: 要塞機甲
     guns: "1"
     enemy_team_id: 587004
     initial_type: 2

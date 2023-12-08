@@ -1483,8 +1483,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: pow:400
+    passive_skill: "759090"
     max_level: 10
     auto_select_id: 19002
+    equip_group_id: 4
     is_show: 1
     obtain_ids: "3"
     sp_description: equip-40000060
@@ -1550,8 +1552,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:300
+    passive_skill: "759184"
     max_level: 10
     auto_select_id: 20002
+    equip_group_id: 7
     is_show: 1
     obtain_ids: "3"
     sp_description: equip-40000062
@@ -2302,8 +2306,10 @@
     powerup_part: 0.16
     exclusive_rate: 3
     bonus_type: pow:200,dodge:300,critical_harm_rate:500
+    passive_skill: "759098"
     max_level: 10
     auto_select_id: 20003
+    equip_group_id: 3
     is_show: 1
     obtain_ids: "3"
     sp_description: equip-40000086
@@ -2749,8 +2755,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:500,hit:700,critical_harm_rate:1000
+    passive_skill: "759089"
     max_level: 10
     auto_select_id: 18005
+    equip_group_id: 4
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000100
@@ -2850,8 +2858,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:400,critical_percent:350
+    passive_skill: "759140"
     max_level: 10
     auto_select_id: 18006
+    equip_group_id: 6
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000103
@@ -2920,7 +2930,7 @@
     max_level: 10
     auto_select_id: 18008
     is_show: 1
-    obtain_ids: "3025"
+    obtain_ids: "3025,3096"
     sp_description: equip-40000105
   }
   {
@@ -2951,8 +2961,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:400,hit:400,critical_percent:700
+    passive_skill: "759233"
     max_level: 10
     auto_select_id: 18009
+    equip_group_id: 12
     is_show: 1
     obtain_ids: "3,3049"
     sp_description: equip-40000106
@@ -3115,8 +3127,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: critical_percent:1000,hit:1000
+    passive_skill: "759096"
     max_level: 10
     auto_select_id: 18010
+    equip_group_id: 3
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000111
@@ -3779,8 +3793,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: hit:1000,critical_percent:750
+    passive_skill: "759189"
     max_level: 10
     auto_select_id: 18026
+    equip_group_id: 8
     is_show: 1
     obtain_ids: "3027"
     sp_description: equip-40000132
@@ -3815,9 +3831,10 @@
     exclusive_rate: 3
     bonus_type: dodge:300,critical_percent:350,hit:1000
     skill: 300119
-    passive_skill: "300120"
+    passive_skill: "300120,759147"
     max_level: 10
     auto_select_id: 18027
+    equip_group_id: 5
     is_show: 1
     obtain_ids: "3"
     sp_description: equip-40000133
@@ -4519,8 +4536,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:400,critical_percent:500
+    passive_skill: "759239"
     max_level: 10
     auto_select_id: 18036
+    equip_group_id: 11
     is_show: 1
     obtain_ids: "3003"
     sp_description: equip-40000155
@@ -4587,8 +4606,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:450,hit:400,dodge:500
+    passive_skill: "759185"
     max_level: 10
     auto_select_id: 18038
+    equip_group_id: 7
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000157
@@ -4654,8 +4675,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: pow:1500,dodge:700,critical_harm_rate:250
+    passive_skill: "759234"
     max_level: 10
     auto_select_id: 20020
+    equip_group_id: 12
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000159
@@ -4964,7 +4987,7 @@
     max_level: 10
     auto_select_id: 18046
     is_show: 1
-    obtain_ids: "3054"
+    obtain_ids: "3054,3096"
     sp_description: equip-40000168
   }
   {
@@ -5060,8 +5083,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:700,critical_percent:350
+    passive_skill: "759132"
     max_level: 10
     auto_select_id: 20023
+    equip_group_id: 5
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000171
@@ -5365,8 +5390,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:1000,critical_percent:350
+    passive_skill: "759216"
     max_level: 10
     auto_select_id: 18052
+    equip_group_id: 9
     is_show: 1
     obtain_ids: "3003"
     sp_description: equip-40000180
@@ -6436,7 +6463,7 @@
     max_level: 10
     auto_select_id: 19024
     is_show: 1
-    obtain_ids: "3004"
+    obtain_ids: "3004,3096"
     sp_description: equip-40000211
   }
   {
@@ -6667,9 +6694,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:500
-    passive_skill: "902391"
+    passive_skill: "902391,759141"
     max_level: 10
     auto_select_id: 20035
+    equip_group_id: 6
     is_show: 1
     obtain_ids: "3006"
     sp_description: equip-40000218
@@ -6702,8 +6730,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:1000,pow:1000
+    passive_skill: "759221"
     max_level: 10
     auto_select_id: 18068
+    equip_group_id: 10
     is_show: 1
     obtain_ids: "3003"
     sp_description: equip-40000219
@@ -6729,7 +6759,7 @@
     code: 配件_特殊_1919
     develop_duration: 2820
     company: IOP
-    fit_guns: "80"
+    fit_guns: "80,20080"
     equip_introduction: 丈夫で長持ちする、古ぼけた鋼製のストック。至る所に刻まれている傷が、数多の戦場での出来事を物語っている。
     powerup_mp: 0.55
     powerup_ammo: 0.23
@@ -7263,7 +7293,7 @@
     max_level: 10
     auto_select_id: 20036
     is_show: 1
-    obtain_ids: "3007"
+    obtain_ids: "3007,3096"
     sp_description: equip-40000236
   }
   {
@@ -7297,7 +7327,7 @@
     max_level: 10
     auto_select_id: 20037
     is_show: 1
-    obtain_ids: "3008"
+    obtain_ids: "3008,3096"
     sp_description: equip-40000237
   }
   {
@@ -7327,9 +7357,10 @@
     powerup_part: 0.25
     exclusive_rate: 3
     bonus_type: pow:1000
-    passive_skill: "300903"
+    passive_skill: "300903,759217"
     max_level: 10
     auto_select_id: 19029
+    equip_group_id: 9
     is_show: 1
     obtain_ids: "3016"
     sp_description: 部隊命中+10%
@@ -7361,9 +7392,10 @@
     powerup_part: 0.3
     exclusive_rate: 3
     bonus_type: armor_piercing:1000
-    passive_skill: "803906"
+    passive_skill: "803906,759190"
     max_level: 10
     auto_select_id: 19030
+    equip_group_id: 8
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000239
@@ -7468,7 +7500,7 @@
     max_level: 10
     auto_select_id: 19032
     is_show: 1
-    obtain_ids: "3009"
+    obtain_ids: "3009,3096"
     sp_description: equip-40000242
   }
   {
@@ -7636,7 +7668,7 @@
     max_level: 10
     auto_select_id: 18074
     is_show: 1
-    obtain_ids: "3061"
+    obtain_ids: "3061,3096"
   }
   {
     id: 248
@@ -7669,7 +7701,7 @@
     max_level: 10
     auto_select_id: 20042
     is_show: 1
-    obtain_ids: "3011"
+    obtain_ids: "3011,3096"
   }
   {
     id: 249
@@ -8467,8 +8499,10 @@
     powerup_part: 0.25
     exclusive_rate: 3
     bonus_type: pow:1000
+    passive_skill: "759222"
     max_level: 10
     auto_select_id: 19038
+    equip_group_id: 10
     is_show: 1
     obtain_ids: "3016"
   }
@@ -8637,7 +8671,7 @@
     max_level: 10
     auto_select_id: 18088
     is_show: 1
-    obtain_ids: "3066"
+    obtain_ids: "3066,3096"
   }
   {
     id: 278
@@ -8670,7 +8704,7 @@
     max_level: 10
     auto_select_id: 18089
     is_show: 1
-    obtain_ids: "3077"
+    obtain_ids: "3077,3096"
   }
   {
     id: 279
@@ -8800,7 +8834,7 @@
     max_level: 10
     auto_select_id: 18091
     is_show: 1
-    obtain_ids: "3067"
+    obtain_ids: "3067,3096"
   }
   {
     id: 283
@@ -8862,9 +8896,10 @@
     powerup_part: 0.25
     exclusive_rate: 3
     bonus_type: hit:1000
-    passive_skill: "300903"
+    passive_skill: "300903,759240"
     max_level: 10
     auto_select_id: 19041
+    equip_group_id: 11
     is_show: 1
     obtain_ids: "3016"
     sp_description: 部隊命中+10%
@@ -9817,7 +9852,7 @@
     bonus_type: hit:800
     passive_skill: "759065"
     max_level: 10
-    auto_select_id: 18080
+    auto_select_id: 18107
     is_show: 1
     obtain_ids: "3074"
   }
@@ -10221,6 +10256,74 @@
     obtain_ids: "3094"
   }
   {
+    id: 333
+    name: M2三脚Mk2
+    description:
+      '''
+      火力+<pow> 移動速度<speed>
+      リロード時間-2秒$M1919A4専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "3,5"
+    speed: "-3,-1"
+    skill_effect: 150
+    retire_mp: 3
+    retire_ammo: 1
+    retire_mre: 1
+    retire_part: 3
+    code: 人形_特殊_M1919A4
+    develop_duration: 3540
+    company: IOP
+    fit_guns: "80,20080"
+    equip_introduction: I.O.PがM1919A4のために改造したM2三脚。最新の素材で製造されており、重さを減らしたと同時により反動を押さえられるようになった。
+    powerup_mp: 0.1
+    powerup_ammo: 0.1
+    powerup_mre: 0.1
+    powerup_part: 0.55
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    passive_skill: "759062"
+    max_level: 10
+    auto_select_id: 20055
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: リロード時間-2秒
+  }
+  {
+    id: 334
+    name: Daewoo外骨格mk5
+    description:
+      '''
+      火力<pow>
+      回避+<dodge>$K5専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-8,-8"
+    dodge: "20,25"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_K5
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "212,20212"
+    equip_introduction: K5の戦闘データに基づいて開発された特殊外骨格。K5の戦闘効率を大幅に引き上げることができる。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:800
+    max_level: 10
+    auto_select_id: 20056
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
     id: 335
     name: 十一年式信号拳銃
     description:
@@ -10253,5 +10356,206 @@
     is_show: 1
     obtain_ids: "3016"
     sp_description: 部隊命中+20%
+  }
+  {
+    id: 336
+    name: STMライオットシールド
+    description:
+      '''
+      移動速度<speed> 防御+<armor>
+      被ダメージ-1$DP-12専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "-1,-1"
+    armor: "4,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: 人形_特殊_DP12
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "282,20282"
+    equip_introduction: DP-12の本来のシールドをもとに改造された新型ライオットシールド。重さを減らしたと同時に防弾効果を大幅に引き上げた。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:500
+    passive_skill: "740091"
+    max_level: 10
+    auto_select_id: 20057
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 被ダメージ-1
+  }
+  {
+    id: 337
+    name: 7BT1
+    description:
+      '''
+      破甲+<armor_piercing>
+      射速+<rate>$モシン・ナガンMod専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    rate: "1,3"
+    armor_piercing: "155,160"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_莫辛纳甘Mod
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "20039"
+    equip_introduction: I.O.Pが改良したBT徹甲曳光弾弾頭を搭載した特製狙撃銃弾。装甲に守られている目標に対しても有効なダメージを与えることができる。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:500,rate:700
+    passive_skill: "759097"
+    max_level: 10
+    auto_select_id: 19053
+    equip_group_id: 3
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 338
+    name: SBR専用ハンドガード
+    description:
+      '''
+      射速+<rate>
+      会心率+<critical_percent><%>$ST AR-15Mod専用
+      '''
+    rank: 5
+    category: 1
+    type: 16
+    rate: "1,3"
+    critical_percent: "25,30"
+    retire_mp: 4
+    retire_ammo: 1
+    retire_mre: 4
+    retire_part: 1
+    code: 配件_特殊_AR15Mod
+    develop_duration: 3600
+    company: 16Lab
+    fit_guns: "20057"
+    equip_introduction: 16Lab特製の軽量化SBRハンドガード。ST AR-15の拡張性を引き上げることができる。
+    powerup_mp: 0.5
+    powerup_ammo: 0.25
+    powerup_mre: 0.55
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: rate:700,critical_percent:850
+    passive_skill: "759091"
+    max_level: 10
+    auto_select_id: 18114
+    equip_group_id: 4
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 344
+    name: 特製ナイロングリップ
+    description:
+      '''
+      回避+<dodge>
+      会心率+<critical_percent><%>$ブレン・テン専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    dodge: "8,11"
+    critical_percent: "16,20"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_BrenTen
+    develop_duration: 3540
+    company: IOP
+    fit_guns: "139"
+    equip_introduction: ブレン・テン用に設計されたナイロン製のグリップ。握りやすい形状で安定性が向上した。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: dodge:1000,critical_percent:500
+    max_level: 10
+    auto_select_id: 18114
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 345
+    name: 特製軽量化銃床
+    description:
+      '''
+      会心率+<critical_percent><%>
+      火力+<pow>$M1A1専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,5"
+    critical_percent: "20,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_M1A1
+    develop_duration: 2700
+    company: IOP
+    fit_guns: "35"
+    equip_introduction: M1A1用に設計された軽量化銃床。折り畳み機構も改良され、より使いやすくなった。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18115
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 346
+    name: トカレフ弾
+    description:
+      '''
+      火力+<pow>
+      破甲+<armor_piercing>$トカレフ専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "8,10"
+    armor_piercing: "-10,-7"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_托卡列夫
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "6"
+    equip_introduction: かつての戦争で、トカレフによく使われていた拳銃弾。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    max_level: 10
+    auto_select_id: 19059
+    is_show: 1
+    obtain_ids: "3003"
   }
 ]

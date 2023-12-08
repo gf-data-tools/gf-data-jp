@@ -201,9 +201,9 @@
   }
   {
     id: 712
-    name: HG参戦
+    name: 銃種限定
     type: 11
-    desc: 最低1人のHGが戦闘に参加する
+    desc: HGを参戦させる
     condition_coef: "1,1"
     score_coef: 100
   }
@@ -217,9 +217,9 @@
   }
   {
     id: 714
-    name: RF参戦
+    name: 銃種限定
     type: 11
-    desc: 最低1人のRFが戦闘に参加する
+    desc: RFを参戦させる
     condition_coef: "3,1"
     score_coef: 100
   }
@@ -241,7 +241,7 @@
   }
   {
     id: 717
-    name: 3RF参戦
+    name: 指定人数・銃種
     type: 11
     desc: 最低3人のRFが戦闘に参加する
     condition_coef: "3,3"
@@ -249,9 +249,9 @@
   }
   {
     id: 718
-    name: MG参戦
+    name: 銃種限定
     type: 11
-    desc: 最低1人のMGが戦闘に参加する
+    desc: MGを参戦させる
     condition_coef: "5,1"
     score_coef: 100
   }

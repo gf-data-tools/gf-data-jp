@@ -5135,9 +5135,37 @@
     note: オリジナルスキン
   }
   {
+    id: 5066
+    name: M1919A4-オリジナルスキン
+    fit_gun: 20080
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+    illustrator_cv: AS109,吉田幸代,
+  }
+  {
+    id: 5067
+    name: K5-オリジナルスキン
+    fit_gun: 20212
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+  }
+  {
     id: 5068
     name: 一〇〇式-オリジナルスキン
     fit_gun: 20228
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+  }
+  {
+    id: 5069
+    name: DP-12-オリジナルスキン
+    fit_gun: 20282
     voice: 4
     is_hidden: 2
     dialog: オリジナルスキン
@@ -6840,6 +6868,51 @@
     class_id: 82
   }
   {
+    id: 7801
+    name: 紡ぐ星光
+    fit_gun: 337
+    voice: 19
+    dialog: ほら、メリークリスマス……なに？なんで今日はイヤホンしてないんだって？それは、あんたがプレゼントを受け取った時の反応をちゃんと聞きたいからに決まってるでしょ！
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7802
+    name: トナカイのラテ
+    fit_gun: 311
+    voice: 19
+    dialog: 指揮官、ラテありがとう！雪中サッカーの試合も見てってくれる？……まぁ、絶対あたしのチームの勝ちなんでしょうけど！
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7804
+    name: 雪を駆ける赤
+    fit_gun: 363
+    voice: 19
+    dialog: ふぅ、なんとかあの大きい雪玉を避けることができました。あれ？MPKはどこに……ええ？！指揮官と一緒にさっきの雪玉の中に？
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7806
+    name: 氷を越える炎
+    fit_gun: 364
+    voice: 19
+    dialog: よし！また高難易度の技に成功した！……って、指揮官！？ちょっとどいて！すぐには止まらないよ――
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7807
+    name: 雪覆の下
+    fit_gun: 252
+    voice: 19
+    dialog: 用心したまえ、指揮官。たとえこの極寒の地でも、強く咲く花がいる――どうかその気持ちを、踏みにじらぬように。
+    order: 98
+    class_id: 83
+  }
+  {
     id: 7902
     name: 銀樹の謝意
     fit_gun: 356
@@ -7224,8 +7297,6 @@
     fit_gun: 253
     voice: 4
     dialog: 爽やかな季節だね、お馬さんもつい、外で走りたくなっているよ。指揮官ももしよければ……一緒にお馬さんと散歩しない？
-    note: skin-30030003
-    illustrator_cv: skin-40030003
     order: 80
   }
   {

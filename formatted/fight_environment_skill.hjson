@@ -1,11 +1,10 @@
 [
   {
     id: 1
-    name: エネルギーシールド
-    desc: 戦闘時、本部隊にいるSMG全てに、最大40ダメージ吸収するシールドを展開する。
+    name: 修復禁止
+    desc: 戦場の味方ユニットは自身のHPを回復することができない
     if_display: 1
-    code: shield
-    skill_group: "900101"
+    code: no_rec
   }
   {
     id: 2
@@ -386,7 +385,7 @@
   {
     id: 739
     name: 激怒号令
-    desc: 会心ダメージを50%上昇させる。
+    desc: 会心ダメージ50%上昇
     if_display: 1
     code: fight_skill_buff102
     skill_group: "756135"
@@ -470,6 +469,110 @@
     if_display: 1
     code: fight_skill_hurt301
     skill_group: "756204"
+  }
+  {
+    id: 1101
+    name: 陣地堅守
+    desc:
+      '''
+      3秒ごとに味方の前列の人形の回避と防御が6%上昇する（最大10回まで重複する）。
+      <color=#CF8000>この効果は1ターンの間持続する</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff103
+    skill_group: "756224"
+  }
+  {
+    id: 1102
+    name: 高速整備
+    desc:
+      '''
+      味方の開幕CTが50%短縮する。
+      <color=#CF8000>この効果は1ターンの間持続する</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff105
+    skill_group: "756225"
+  }
+  {
+    id: 1103
+    name: 焦土戦略
+    desc:
+      '''
+      6秒ごとにHPが最も高い敵に向けて燃焼弾を投げ、15秒の間3*3範囲内に対し、0.33秒ごとに60ダメージを与える。
+      <color=#CF8000>この効果は1ターンの間持続する</color>
+      '''
+    if_display: 1
+    code: fight_skill_hurt102
+    skill_group: "756227"
+  }
+  {
+    id: 1104
+    name: 応急保護
+    desc:
+      '''
+      10秒ごとに、味方の失っているHP30%分のシールドを付与する。シールドは6秒間続く。
+      <color=#CF8000>この効果は1ターンの間持続する</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff104
+    skill_group: "756089"
+  }
+  {
+    id: 1105
+    name: 無作為打撃
+    desc: 10秒ごとに、ランダムの敵ユニット1体の火力、射速、命中、回避、防御を50%低下させる。<color=#CF8000>この効果は1ターンの間持続する</color>
+    if_display: 1
+    code: fight_skill_hurt101
+    skill_group: "756093"
+  }
+  {
+    id: 1106
+    name: 偏向障壁
+    desc:
+      '''
+      戦闘開始直後、HPが最も高い味方に5秒間9999ポイントの偏向障壁を付与する。
+      <color=#CF8000>この効果は1ターンの間持続する</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff104
+    skill_group: "756228"
+  }
+  {
+    id: 1107
+    name: 突撃慣性
+    desc:
+      '''
+      この戦闘中のみ、味方全体の火力と回避は4秒ごとに3%上昇する（最大10回めで重複する）。
+      <color=#CF8000>この効果は1ターンの間持続する</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff102
+    skill_group: "756082"
+  }
+  {
+    id: 1108
+    name: 鉄の肉壁
+    desc:
+      '''
+      HPが最も高い味方ユニットは被ダメージが30%減少する。
+      <color=#CF8000>效果持续1回合</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff104
+    skill_group: "756230"
+  }
+  {
+    id: 1109
+    name: 突撃号令
+    desc:
+      '''
+      味方全体の射速が30%上昇する。
+      <color=#CF8000>效果持续1回合</color>
+      '''
+    if_display: 1
+    code: fight_skill_buff101
+    skill_group: "756231"
   }
   {
     id: 1133001
@@ -1150,5 +1253,283 @@
     if_display: 1
     code: Rouge_592206
     skill_group: "778121"
+  }
+  {
+    id: 12020101
+    name: 火力強化
+    desc: 味方全体の火力+15%。
+    if_display: 1
+    code: daily_game_01
+    skill_group: "120201"
+  }
+  {
+    id: 12020201
+    name: 火力強化+
+    desc: 味方全体の火力+30%。
+    if_display: 1
+    code: daily_game_02
+    skill_group: "120202"
+  }
+  {
+    id: 12020301
+    name: 射速強化
+    desc: 味方全体の射速+15%。
+    if_display: 1
+    code: daily_game_03
+    skill_group: "120203"
+  }
+  {
+    id: 12020401
+    name: 射速強化+
+    desc: 味方全体の射速+30%。
+    if_display: 1
+    code: daily_game_04
+    skill_group: "120204"
+  }
+  {
+    id: 12020501
+    name: 破甲強化
+    desc: 味方全体の破甲+100。
+    if_display: 1
+    code: daily_game_05
+    skill_group: "120205"
+  }
+  {
+    id: 12020601
+    name: 破甲強化+
+    desc: 味方全体の破甲+200。
+    if_display: 1
+    code: daily_game_06
+    skill_group: "120206"
+  }
+  {
+    id: 12020701
+    name: シールド強化
+    desc: 味方全体のシールド+100。
+    if_display: 1
+    code: daily_game_07
+    skill_group: "120207"
+  }
+  {
+    id: 12020801
+    name: シールド強化+
+    desc: 味方全体のシールド+200。
+    if_display: 1
+    code: daily_game_08
+    skill_group: "120208"
+  }
+  {
+    id: 12020901
+    name: 会心ダメージ強化
+    desc: 味方全体の会心ダメージ+25%。
+    if_display: 1
+    code: daily_game_09
+    skill_group: "120209"
+  }
+  {
+    id: 12021001
+    name: 会心ダメージ強化+
+    desc: 味方全体の会心ダメージ+50%。
+    if_display: 1
+    code: daily_game_10
+    skill_group: "120210"
+  }
+  {
+    id: 12021101
+    name: 回避強化
+    desc: 味方全体の回避+25%。
+    if_display: 1
+    code: daily_game_11
+    skill_group: "120211"
+  }
+  {
+    id: 12021201
+    name: 回避強化+
+    desc: 味方全体の回避+50%。
+    if_display: 1
+    code: daily_game_12
+    skill_group: "120212"
+  }
+  {
+    id: 12021301
+    name: 暗視強化
+    desc: 味方全体の暗視性能+25%。
+    if_display: 1
+    code: daily_game_13
+    skill_group: "120213"
+  }
+  {
+    id: 12021401
+    name: 暗視強化+
+    desc: 味方全体の暗視性能+50%。
+    if_display: 1
+    code: daily_game_14
+    skill_group: "120214"
+  }
+  {
+    id: 12021501
+    name: 命中強化
+    desc: 味方全体の命中+100%。
+    if_display: 1
+    code: daily_game_15
+    skill_group: "120215"
+  }
+  {
+    id: 12021601
+    name: 命中強化+
+    desc: 味方全体の命中+200%。
+    if_display: 1
+    code: daily_game_16
+    skill_group: "120216"
+  }
+  {
+    id: 12021701
+    name: 移動速度強化
+    desc: 味方全体の移動速度+100%
+    if_display: 1
+    code: daily_game_17
+    skill_group: "120217"
+  }
+  {
+    id: 12021801
+    name: 移動速度強化+
+    desc: 味方全体の移動速度+200%
+    if_display: 1
+    code: daily_game_18
+    skill_group: "120218"
+  }
+  {
+    id: 12021901
+    name: 火力低下
+    desc: 敵全体の火力-15%
+    if_display: 1
+    code: daily_game_19
+    skill_group: "120219"
+  }
+  {
+    id: 12022001
+    name: 火力低下+
+    desc: 敵全体の火力-30%
+    if_display: 1
+    code: daily_game_20
+    skill_group: "120220"
+  }
+  {
+    id: 12022101
+    name: 回避低下
+    desc: 敵全体の回避-15%
+    if_display: 1
+    code: daily_game_21
+    skill_group: "120221"
+  }
+  {
+    id: 12022201
+    name: 回避低下+
+    desc: 敵全体の回避-30%
+    if_display: 1
+    code: daily_game_22
+    skill_group: "120222"
+  }
+  {
+    id: 12022301
+    name: 目中低下
+    desc: 敵全体の命中-15%
+    if_display: 1
+    code: daily_game_23
+    skill_group: "120223"
+  }
+  {
+    id: 12022401
+    name: 目中低下+
+    desc: 敵全体の命中-30%
+    if_display: 1
+    code: daily_game_24
+    skill_group: "120224"
+  }
+  {
+    id: 12022501
+    name: 無力化スタン
+    desc: 戦闘中、10秒ごとに敵を2秒間目まい状態にする。
+    if_display: 1
+    code: P290
+    skill_group: "120225"
+  }
+  {
+    id: 12022601
+    name: 集中点射
+    desc: 戦闘中8秒ごとにHPが最も低い敵ユニットに10000ダメージを与える。
+    if_display: 1
+    code: daily_game_26
+    skill_group: "120226"
+  }
+  {
+    id: 12022701
+    name: シールド破壊
+    desc: 戦闘中、10秒ごとに敵のシールドをクリアする。
+    if_display: 1
+    code: Rouge_590301
+    skill_group: "120227"
+  }
+  {
+    id: 12022801
+    name: 陽動作戦
+    desc: 戦闘開始時、Link5の挑発ドローンを1組呼び出す。ドローン1LinkのHPは1000。
+    if_display: 1
+    code: daily_game_28
+    skill_group: "120228"
+  }
+  {
+    id: 12022901
+    name: 麻痺の花
+    desc: 戦闘開始時、敵を4秒間麻痺させる。
+    if_display: 1
+    code: Rouge_590401
+    skill_group: "120229"
+  }
+  {
+    id: 12023001
+    name: 貫通力
+    desc: 味方の攻撃が装甲を貫通した時、追加で200ダメージを与える。
+    if_display: 1
+    code: mg3mod
+    skill_group: "120230"
+  }
+  {
+    id: 12023101
+    if_display: 1
+    code: daily_game_31
+    skill_group: "120231"
+  }
+  {
+    id: 12023201
+    name: 急速チャージ
+    desc: 味方がスキルを使用する度に、次のスキルCTが20%短縮される。
+    if_display: 1
+    code: AK74M
+    skill_group: "120232"
+  }
+  {
+    id: 12023301
+    name: シールドアタック
+    desc: 味方のシールドを持つユニットの会心が100%上昇する。
+    if_display: 1
+    code: daily_game_33
+    skill_group: "120233"
+  }
+  {
+    id: 12023401
+    name: シールドアタック-1
+    desc: 味方のシールドを持つユニットの会心が100%上昇する-1。
+    if_display: 1
+    code: daily_game_33
+    skill_group: "120234"
+  }
+  {
+    id: 12023501
+    name: シールドアタック-2
+    desc: 味方のシールドを持つユニットの会心が100%上昇する-2。
+    if_display: 1
+    code: daily_game_33
+    skill_group: "120235"
   }
 ]

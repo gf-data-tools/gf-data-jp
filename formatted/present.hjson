@@ -84,6 +84,18 @@
     due_prize_id: 140016
   }
   {
+    item_id: 1500021
+    type: 1
+    prize_id: 30044
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500022
+    type: 1
+    prize_id: 30045
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
     item_id: 1500023
     type: 1
     poster: PackageImage_rank4
@@ -309,6 +321,7 @@
     prize_id: 140001
     due_time: 2023/08/13  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500053
@@ -316,6 +329,7 @@
     prize_id: 140002
     due_time: 2023/08/13  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500054
@@ -323,6 +337,7 @@
     drop_package_id: 1120
     due_time: 2023/08/13  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500055
@@ -330,6 +345,7 @@
     drop_package_id: 945
     due_time: 2023/08/13  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500056
@@ -337,6 +353,7 @@
     prize_id: 140001
     due_time: 2023/09/17  00:00:00
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500057
@@ -344,6 +361,7 @@
     prize_id: 140003
     due_time: 2023/09/17  00:00:00
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500058
@@ -351,6 +369,37 @@
     drop_package_id: 1183
     due_time: 2023/09/17  00:00:00
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
+  }
+  {
+    item_id: 1500059
+    type: 1
+    prize_id: 30058
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500060
+    type: 1
+    prize_id: 150074
+    due_time: 2024/02/11  23:59:59
+    due_prize_id: 140073
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500061
+    type: 1
+    prize_id: 150075
+    due_time: 2024/02/11  23:59:59
+    due_prize_id: 140074
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500062
+    type: 1
+    prize_id: 150076
+    due_time: 2024/02/11  23:59:59
+    due_prize_id: 140075
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500064
@@ -358,6 +407,7 @@
     drop_package_id: 945
     due_time: 2023/09/17  00:00:00
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500065
@@ -366,6 +416,7 @@
     drop_package_id: 20105
     due_time: 2023/09/26  23:59:59
     due_prize_id: 330336
+    present_info: present-11500065
   }
   {
     item_id: 1500066
@@ -374,6 +425,7 @@
     drop_package_id: 20106
     due_time: 2023/09/26  23:59:59
     due_prize_id: 330336
+    present_info: present-11500066
   }
   {
     item_id: 1500067
@@ -382,6 +434,7 @@
     drop_package_id: 20107
     due_time: 2023/09/26  23:59:59
     due_prize_id: 330336
+    present_info: present-11500067
   }
   {
     item_id: 1500068
@@ -390,6 +443,7 @@
     drop_package_id: 20108
     due_time: 2023/09/26  23:59:59
     due_prize_id: 330336
+    present_info: present-11500068
   }
   {
     item_id: 1500074
@@ -397,6 +451,7 @@
     prize_id: 140001
     due_time: 2023/10/22  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500075
@@ -404,6 +459,7 @@
     prize_id: 140004
     due_time: 2023/10/22  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500076
@@ -411,6 +467,7 @@
     drop_package_id: 1212
     due_time: 2023/10/22  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500077
@@ -418,6 +475,7 @@
     drop_package_id: 945
     due_time: 2023/10/22  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500081
@@ -425,6 +483,7 @@
     prize_id: 140001
     due_time: 2023/11/26  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500082
@@ -432,6 +491,7 @@
     prize_id: 140002
     due_time: 2023/11/26  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500083
@@ -439,6 +499,7 @@
     drop_package_id: 1263
     due_time: 2023/11/26  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500084
@@ -446,6 +507,7 @@
     drop_package_id: 945
     due_time: 2023/11/26  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500091
@@ -453,6 +515,7 @@
     prize_id: 140001
     due_time: 2023/12/31  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500092
@@ -460,6 +523,7 @@
     prize_id: 140003
     due_time: 2023/12/31  23:59:59
     due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }
   {
     item_id: 1500093
@@ -467,6 +531,7 @@
     drop_package_id: 2044
     due_time: 2023/12/31  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 1500094
@@ -474,6 +539,7 @@
     drop_package_id: 945
     due_time: 2023/12/31  23:59:59
     due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
     item_id: 9500001
@@ -482,6 +548,7 @@
     prize_id: 330314
     due_time: 2023/06/27  23:59:59
     due_prize_id: 1654
+    present_info: present-19500001
   }
   {
     item_id: 9500002
@@ -490,5 +557,6 @@
     prize_id: 330315
     due_time: 2023/06/27  23:59:59
     due_prize_id: 1655
+    present_info: present-19500002
   }
 ]

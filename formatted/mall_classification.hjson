@@ -126,6 +126,12 @@
     description: 新手支援礼包
   }
   {
+    id: 3005
+    parent_id: 3000
+    sort: 5
+    name: 協定再現
+  }
+  {
     id: 4000
     sort: 5
     name: 衣装
@@ -177,5 +183,10 @@
     parent_id: 6000
     sort: 3
     name: 補給
+  }
+  {
+    id: 7000
+    sort: 7
+    name: 友情ショップ
   }
 ]

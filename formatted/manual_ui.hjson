@@ -34,6 +34,13 @@
     is_manual_target: 2
   }
   {
+    id: 78001
+    code_a: GunBox
+    description_a: 味方部隊
+    description_b: 箱
+    code_b: Console_Icon
+  }
+  {
     id: 363001
     code_a: Boomer
     description_a: 味方部隊
@@ -1897,6 +1904,67 @@
     code_b: Console_Icon
   }
   {
+    id: 580118
+    code_a: Griffin
+    code_b: Console_Icon
+  }
+  {
+    id: 580119
+    code_a: Griffin
+    code_b: Console_Icon
+  }
+  {
+    id: 580121
+    code_a: Gospelaxis
+    description_c: 閉じる
+    code_b: Console_Icon
+  }
+  {
+    id: 580122
+    code_a: Griffin
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 580903
+    code_a: Pyxis
+    description_a: 味方部隊
+    description_c: 閉じる
+    code_b: Console_Icon
+  }
+  {
+    id: 581702
+    code_a: Detonator
+    description_b: 放棄された建物
+    description_c: 起爆
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 583601
+    code_a: Dandelion_Gri
+    description_c: 干渉
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 584511
+    code_a: LiftBlue
+    description_a: 味方部隊
+    description_b: エレベーター
+    code_b: Console_Icon
+  }
+  {
+    id: 584901
+    code_a: AK12
+    code_b: Console_Icon
+  }
+  {
+    id: 584903
+    code_a: AN94
+    code_b: Console_Icon
+  }
+  {
     id: 590001
     code_a: Rouge_590001
     description_a: 味方部隊
@@ -2914,6 +2982,91 @@
     description_c: 転送
     code_b: Console_Icon
     is_manual_target: 2
+  }
+  {
+    id: 610001
+    code_a: 2023RougeSummer_Mixer
+    description_c: 起動
+    code_b: Console_Icon
+  }
+  {
+    id: 610002
+    code_a: 2307RGM1
+    description_c: 拾う
+    code_b: Console_Icon
+  }
+  {
+    id: 610003
+    code_a: 2307RGM2
+    description_c: 拾う
+    code_b: Console_Icon
+  }
+  {
+    id: 610011
+    code_a: 2307RG01
+    code_b: Console_Icon
+  }
+  {
+    id: 610012
+    code_a: 2307RG02
+    code_b: Console_Icon
+  }
+  {
+    id: 610013
+    code_a: 2307RG03
+    code_b: Console_Icon
+  }
+  {
+    id: 610014
+    code_a: 2307RG04
+    code_b: Console_Icon
+  }
+  {
+    id: 610015
+    code_a: 2307RG05
+    code_b: Console_Icon
+  }
+  {
+    id: 610021
+    code_a: 2307RG01
+    description_c: 使用
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610022
+    code_a: 2307RG02
+    description_c: 使用
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610023
+    code_a: 2307RG03
+    description_c: 使用
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610024
+    code_a: 2307RG04
+    description_c: 使用
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610025
+    code_a: 2307RG05
+    description_c: 使用
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 611009
+    code_a: 2023RougeSummer_Mixer
+    description_b: 集計
+    description_c: 集計
+    code_b: Console_Icon
   }
   {
     id: 1000101
@@ -4542,6 +4695,40 @@
     code_b: Console_Icon
   }
   {
+    id: 6360001
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: 干渉
+    description_c: 発射
+    code_b: Console_Icon
+  }
+  {
+    id: 6360002
+    code_a: Build_PortableEMP
+    description_a: 味方部隊
+    description_b: EMP
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6360003
+    code_a: Boomer
+    description_a: 味方部隊
+    description_b: ゴリアテ
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6360004
+    code_a: Griffin
+    description_a: 味方部隊
+    description_c: 発動
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
     id: 6380201
     code_a: Console
     description_a: 味方部隊
@@ -5912,6 +6099,178 @@
     description_c: 制圧
     code_b: Console_Icon
     is_manual_target: 2
+  }
+  {
+    id: 6580001
+    code_a: Ammobox
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580002
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580003
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580004
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580005
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580006
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580007
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580008
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580009
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580010
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580011
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    code_b: Console_Icon
+  }
+  {
+    id: 6580012
+    code_a: Ammobox
+    description_a: 味方部隊
+    description_c: 拾う
+    code_b: Console_Icon
+  }
+  {
+    id: 6580013
+    code_a: MissileLauncher
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580014
+    code_a: MissileLauncher
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580101
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580102
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580103
+    code_a: AN94
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580104
+    code_a: AK15
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580105
+    code_a: AK12
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580106
+    code_a: Boomer
+    description_a: 味方部隊
+    description_b: 起爆
+    description_c: ゴリアテ
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6580107
+    code_a: Plaincloth
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 6580108
+    code_a: Spe_misisonskill
+    description_a: 味方部隊
+    description_c: 配置
+    code_b: Console_Icon
+  }
+  {
+    id: 6580109
+    code_a: Console_P
+    description_a: 味方部隊
+    description_b: パスコードパネル
+    description_c: 操作
+    code_b: Console_Icon
+  }
+  {
+    id: 6580110
+    code_a: portalskill
+    description_a: 味方部隊
+    description_b: レーダーマス
+    description_c: 転送
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6580111
+    code_a: Control_Center
+    description_a: 味方部隊
+    description_b: 中枢制御パネル
+    description_c: 閉じる
+    code_b: Console_Icon
   }
   {
     id: 8120301
@@ -7532,6 +7891,66 @@
     description_a: 味方部隊
     description_b: ゲートコンソール
     description_c: EasyBoss
+    code_b: Console_Icon
+  }
+  {
+    id: 95838002
+    code_a: Console
+    description_a: 味方部隊
+    description_c: 閉じる
+    code_b: Console_Icon
+  }
+  {
+    id: 95838004
+    code_a: Console
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    description_c: 解読
+    code_b: Console_Icon
+  }
+  {
+    id: 95838005
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 95838006
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 95838007
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 95838010
+    code_a: Console
+    description_a: 味方部隊
+    description_b: EMP手榴弾
+    description_c: 投げる
+    code_b: Console_Icon
+    is_manual_target: 1
+  }
+  {
+    id: 95838023
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 95838024
+    code_a: Console
+    description_a: 味方部隊
+    code_b: Console_Icon
+  }
+  {
+    id: 95842008
+    code_a: Console
+    description_a: 味方部隊
     code_b: Console_Icon
   }
 ]

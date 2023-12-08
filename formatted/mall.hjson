@@ -7226,6 +7226,152 @@
     classification_id: 1005
   }
   {
+    id: 11241
+    type: 9
+    item_ids: 10604-1
+    gemprice: 2000
+    quota: 2001
+    giftbag_name: 超伝導パルス
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11242
+    type: 9
+    gift: 100003-1
+    gemprice: 150
+    quota: 2003
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11243
+    type: 9
+    gift: 100002-1
+    gemprice: 60
+    quota: 2003
+    giftbag_name: アイスクリーム
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11244
+    type: 9
+    gift: 100001-1
+    gemprice: 30
+    quota: 2003
+    giftbag_name: ロリポップ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11245
+    type: 9
+    item_ids: 1021-1
+    gemprice: 800
+    original_price: 2000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: IOP
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11246
+    type: 9
+    item_ids: 1022-1
+    gemprice: 1600
+    original_price: 4000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: AEGIS
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11247
+    type: 9
+    item_ids: 1023-1
+    gemprice: 3200
+    original_price: 8000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: Jupiter
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11248
+    type: 9
+    item_ids: 1026-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: M4A1一周年記念アイコン
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11249
+    type: 9
+    item_ids: 1027-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: ST AR-15一周年記念アイコン
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11250
+    type: 9
+    item_ids: 1028-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: M16A1一周年記念アイコン
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11251
+    type: 9
+    item_ids: 1029-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: M4 SOPMOD II一周年記念アイコン
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
     id: 11518
     type: 8
     item_ids: 7-1,41-100
@@ -31573,6 +31719,19 @@
     event_code: dailyGiftbag
     icon: Bumdle_yuugo01
     discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 31833
+    type: 8
+    gemprice: 398
+    quota: 2001
+    giftbag_name: メンタルアップグレードお買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_update
+    daily_quota: 5
+    discount: 1
+    prize_id: 330135
     classification_id: 3002
   }
   {

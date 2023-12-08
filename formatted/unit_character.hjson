@@ -295,6 +295,36 @@
     character_des: 当該ユニットは敵の命中を大幅に低下させ
   }
   {
+    id: 336
+    name: 非装甲
+    character_des: このユニットは装甲を持たない
+  }
+  {
+    id: 337
+    name: 遠距離
+    character_des: 遠距離から攻撃する
+  }
+  {
+    id: 338
+    name: 機械
+    character_des: 人間らしい特徴が見当たらない機械ユニット
+  }
+  {
+    id: 339
+    name: 挑発
+    character_des: このユニットは攻撃を引き付けることができる
+  }
+  {
+    id: 340
+    name: 照準
+    character_des: 1体の目標をロックし、大ダメージを与える
+  }
+  {
+    id: 341
+    name: クリア
+    character_des: 目標部隊のバフをクリアする
+  }
+  {
     id: 401
     name: 盾持前進
     character_des: 移動時に盾を使い、被ダメージを軽減する。軽減量は、自身の攻撃によって発生するダメージと等しくなる。
@@ -535,8 +565,8 @@
   }
   {
     id: 448
-    name: unit_character-10000448
-    character_des: unit_character-20000448
+    name: 機械の心
+    character_des: 機械ユニットの戦闘をサポートする
   }
   {
     id: 900
@@ -611,5 +641,10 @@
   {
     id: 1004
     name: ???
+  }
+  {
+    id: 1005
+    name: 会心耐性
+    character_des: このユニットは会心ダメージに対する耐性を有している
   }
 ]

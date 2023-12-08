@@ -76,6 +76,10 @@
     gun_detail_bg: nation_US
     org_id: 10302
     related_story_id: 100001
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 2
@@ -159,6 +163,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100002
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 3
@@ -241,6 +249,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100003
+    gun_tag_ids: "110,105"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,3"
   }
   {
     id: 4
@@ -310,6 +322,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100004
+    gun_tag_ids: "103,118"
+    atk_speed_max: 135
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 5
@@ -396,6 +412,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100005
+    gun_tag_ids: "10102,106"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,7,8"
   }
   {
     id: 6
@@ -472,7 +492,7 @@
     effect_grid_pos: "12,14,17,19"
     effect_grid_effect: "2,10;3,25"
     type_equip1: 1;4,13,16
-    type_equip2: 2;6
+    type_equip2: 2;6,19
     type_equip3: 3;10
     ai: 6
     launch_time: 1970-01-01 08:00:00
@@ -481,6 +501,10 @@
     explore_tag: "57"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 130
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 7
@@ -567,6 +591,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10303
     related_story_id: 100007
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 125
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 8
@@ -656,6 +684,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10704
     related_story_id: 100008
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 9
@@ -736,6 +768,10 @@
     gun_detail_bg: nation_German
     org_id: 10803
     related_story_id: 100009
+    gun_tag_ids: "104,106"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "7"
   }
   {
     id: 10
@@ -840,6 +876,10 @@
     gun_detail_bg: nation_German
     org_id: 10303
     related_story_id: 100010
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 11
@@ -932,6 +972,10 @@
     gun_detail_bg: nation_German
     org_id: 10303
     related_story_id: 100011
+    gun_tag_ids: "10102,106"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,7,8"
   }
   {
     id: 12
@@ -1034,6 +1078,10 @@
     gun_detail_bg: nation_German
     org_id: 10302
     related_story_id: 100012
+    gun_tag_ids: "104,106"
+    atk_speed_max: 120
+    ratio_rec: 125
+    recommended_team_ids: "7"
   }
   {
     id: 13
@@ -1133,6 +1181,10 @@
     gun_detail_bg: nation_China
     org_id: 10704
     related_story_id: 100013
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 14
@@ -1211,6 +1263,10 @@
     rank_display: 3
     explore_tag: "5,31"
     org_id: 10303
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 15
@@ -1293,6 +1349,10 @@
     explore_tag: "29,46"
     org_id: 10802
     related_story_id: 100015
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 16
@@ -1373,6 +1433,10 @@
     gun_detail_bg: nation_US
     org_id: 102
     related_story_id: 100016
+    gun_tag_ids: "120"
+    atk_speed_max: 135
+    ratio_rec: 150
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 17
@@ -1467,6 +1531,10 @@
     gun_detail_bg: nation_US
     org_id: 10303
     related_story_id: 100017
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 18
@@ -1593,6 +1661,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100018
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 19
@@ -1670,6 +1742,10 @@
     explore_tag: "29"
     gun_detail_bg: nation_US
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 80
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20
@@ -1781,6 +1857,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100020
+    gun_tag_ids: "121,105"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 21
@@ -1869,6 +1949,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10303
     related_story_id: 100021
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 22
@@ -1958,6 +2042,10 @@
     explore_tag: "30,50,54"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 23
@@ -2046,6 +2134,10 @@
     explore_tag: "18"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 24
@@ -2145,6 +2237,10 @@
     explore_tag: "12"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 25
@@ -2236,6 +2332,10 @@
     gun_detail_bg: nation_German
     org_id: 10302
     related_story_id: 100025
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 26
@@ -2340,6 +2440,10 @@
     gun_detail_bg: nation_German
     org_id: 10203
     related_story_id: 100026
+    gun_tag_ids: "120"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 27
@@ -2435,6 +2539,10 @@
     explore_tag: "30,52"
     org_id: 10302
     related_story_id: 100027
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 28
@@ -2511,6 +2619,10 @@
     gun_detail_bg: nation_German
     org_id: 10202
     related_story_id: 100028
+    gun_tag_ids: "108,124"
+    atk_speed_max: 135
+    ratio_rec: 122
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 29
@@ -2597,6 +2709,10 @@
     explore_tag: "31,47,48,68"
     org_id: 10704
     related_story_id: 100029
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 31
@@ -2691,6 +2807,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10302
     related_story_id: 100031
+    gun_tag_ids: "110,105"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 32
@@ -2791,6 +2911,10 @@
     explore_tag: "52"
     org_id: 10202
     related_story_id: 100032
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 33
@@ -2877,6 +3001,10 @@
     explore_tag: "3,8"
     org_id: 10802
     related_story_id: 100033
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 34
@@ -2972,6 +3100,10 @@
     gun_detail_bg: nation_US
     org_id: 10303
     related_story_id: 100034
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 35
@@ -3045,7 +3177,7 @@
     effect_grid_pos: "12,14"
     effect_grid_effect: "6,12"
     type_equip1: 2;5
-    type_equip2: 1;1,2,3,13
+    type_equip2: 1;1,2,3,13,18
     type_equip3: 3;15
     ai: 35
     launch_time: 1970-01-01 08:00:00
@@ -3055,6 +3187,10 @@
     gun_detail_bg: nation_US
     org_id: 10303
     related_story_id: 100035
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 36
@@ -3158,6 +3294,10 @@
     gun_detail_bg: nation_US
     org_id: 107
     related_story_id: 100036
+    gun_tag_ids: "138,134"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 37
@@ -3249,6 +3389,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100037
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 38
@@ -3333,6 +3477,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100038
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "8"
   }
   {
     id: 39
@@ -3404,7 +3552,7 @@
     ratio_range: 100
     skill1: 102815
     normal_attack: 300104
-    passive_skill: "511030"
+    passive_skill: "511030,759099"
     effect_grid_center: 13
     effect_guntype: "1"
     effect_grid_pos: "12"
@@ -3421,6 +3569,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100039
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 40
@@ -3498,6 +3650,10 @@
     explore_tag: "54"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 41
@@ -3590,6 +3746,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100041
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,4"
   }
   {
     id: 42
@@ -3681,6 +3841,10 @@
     explore_tag: "68"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "8"
   }
   {
     id: 43
@@ -3763,6 +3927,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10402
     related_story_id: 100043
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,4"
   }
   {
     id: 44
@@ -3864,6 +4032,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100044
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 46
@@ -3949,6 +4121,10 @@
     gun_detail_bg: nation_German
     org_id: 10201
     related_story_id: 100046
+    gun_tag_ids: "138"
+    atk_speed_max: 125
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 47
@@ -4029,6 +4205,10 @@
     gun_detail_bg: nation_German
     org_id: 10303
     related_story_id: 100047
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,4"
   }
   {
     id: 48
@@ -4124,6 +4304,10 @@
     gun_detail_bg: nation_German
     org_id: 10201
     related_story_id: 100048
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 49
@@ -4203,6 +4387,10 @@
     gun_detail_bg: nation_China
     org_id: 10705
     related_story_id: 100049
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,4"
   }
   {
     id: 50
@@ -4293,6 +4481,10 @@
     explore_tag: "14,17,35,79"
     org_id: 10201
     related_story_id: 100050
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 90
+    recommended_team_ids: "2,4"
   }
   {
     id: 51
@@ -4385,6 +4577,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10202
     related_story_id: 100051
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,4"
   }
   {
     id: 52
@@ -4462,6 +4658,10 @@
     explore_tag: "13,20"
     gun_detail_bg: nation_Italy
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "2,4"
   }
   {
     id: 53
@@ -4559,6 +4759,10 @@
     explore_tag: "60"
     org_id: 104
     related_story_id: 100053
+    gun_tag_ids: "138"
+    atk_speed_max: 125
+    ratio_rec: 105
+    recommended_team_ids: "8"
   }
   {
     id: 54
@@ -4665,6 +4869,10 @@
     gun_detail_bg: team_ar
     org_id: 106
     related_story_id: 100054
+    gun_tag_ids: "110,105,152"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 55
@@ -4762,6 +4970,10 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100055
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 56
@@ -4859,6 +5071,10 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100056
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 57
@@ -4942,7 +5158,7 @@
     ratio_range: 125
     skill1: 100407
     normal_attack: 300103
-    passive_skill: "201436,201002,202006,702017"
+    passive_skill: "201436,201002,202006,702017,702041,756232,759077,759080,759081,759082"
     effect_grid_center: 13
     effect_guntype: "2"
     effect_grid_pos: "17,18,19"
@@ -4959,6 +5175,10 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100057
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 58
@@ -5066,6 +5286,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100058
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "1"
   }
   {
     id: 59
@@ -5143,6 +5367,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10203
     related_story_id: 100059
+    gun_tag_ids: "10102,123"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,7"
   }
   {
     id: 60
@@ -5241,6 +5469,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10303
     related_story_id: 100060
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "1,7"
   }
   {
     id: 61
@@ -5329,6 +5561,10 @@
     gun_detail_bg: nation_German
     org_id: 10303
     related_story_id: 100061
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "6"
   }
   {
     id: 62
@@ -5416,6 +5652,10 @@
     gun_detail_bg: nation_German
     org_id: 10202
     related_story_id: 100062
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 115
+    recommended_team_ids: "1"
   }
   {
     id: 63
@@ -5522,6 +5762,10 @@
     gun_detail_bg: nation_German
     org_id: 105
     related_story_id: 100063
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 64
@@ -5609,6 +5853,10 @@
     gun_detail_bg: nation_German
     org_id: 10705
     related_story_id: 100064
+    gun_tag_ids: "108,134"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "1"
   }
   {
     id: 65
@@ -5724,6 +5972,10 @@
     gun_detail_bg: team_404
     org_id: 10104
     related_story_id: 100065
+    gun_tag_ids: "121,153"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "6"
   }
   {
     id: 66
@@ -5816,6 +6068,10 @@
     gun_detail_bg: nation_China
     org_id: 10705
     related_story_id: 100066
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 125
+    recommended_team_ids: "6"
   }
   {
     id: 68
@@ -5935,6 +6191,10 @@
     rank_display: 2
     explore_tag: "8,17,31,39,47"
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "1"
   }
   {
     id: 69
@@ -6052,6 +6312,10 @@
     explore_tag: "10,27,56,77"
     org_id: 10403
     related_story_id: 100069
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "6"
   }
   {
     id: 70
@@ -6158,6 +6422,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10202
     related_story_id: 100070
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 71
@@ -6298,6 +6566,10 @@
     explore_tag: "5,7,31,39,67"
     org_id: 10202
     related_story_id: 100071
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 72
@@ -6390,6 +6662,10 @@
     explore_tag: "37,38,78"
     org_id: 10202
     related_story_id: 100072
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 73
@@ -6484,6 +6760,10 @@
     explore_tag: "9,14,46,51"
     org_id: 10402
     related_story_id: 100073
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 74
@@ -6568,6 +6848,10 @@
     rank_display: 2
     explore_tag: "20"
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 75
@@ -6665,6 +6949,10 @@
     gun_detail_bg: nation_US
     org_id: 10303
     related_story_id: 100075
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 95
+    recommended_team_ids: "3,5"
   }
   {
     id: 77
@@ -6753,6 +7041,10 @@
     explore_tag: "28"
     gun_detail_bg: nation_US
     org_id: 10302
+    gun_tag_ids: "117"
+    atk_speed_max: 1000
+    ratio_rec: 125
+    recommended_team_ids: "3,5"
   }
   {
     id: 78
@@ -6842,6 +7134,10 @@
     explore_tag: "20,27,41,73"
     gun_detail_bg: nation_US
     org_id: 10704
+    gun_tag_ids: "108,106"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 79
@@ -6936,6 +7232,10 @@
     explore_tag: "28"
     gun_detail_bg: nation_US
     org_id: 10302
+    gun_tag_ids: "108,106"
+    atk_speed_max: 1000
+    ratio_rec: 95
+    recommended_team_ids: "3,5"
   }
   {
     id: 80
@@ -7022,22 +7322,27 @@
     ratio_range: 110
     skill1: 105202
     normal_attack: 300105
-    passive_skill: "300201,300202,999999,756183"
+    passive_skill: "300201,300202,999999,756183,759272"
     effect_grid_center: 19
     effect_guntype: "6"
     effect_grid_pos: "25"
     effect_grid_effect: "3,25;8,10"
     type_equip1: 2;5,17
     type_equip2: 1;1,2,3,16,18
-    type_equip3: 3;14,21
+    type_equip3: 3;14,21,20
     ai: 80
     launch_time: 1970-01-01 08:00:00
     obtain_ids: "1,3,2"
     rank_display: 3
+    mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     explore_tag: "8,11,60"
     gun_detail_bg: nation_US
     org_id: 10704
     related_story_id: 100080
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 81
@@ -7127,6 +7432,10 @@
     gun_detail_bg: nation_US
     org_id: 10302
     related_story_id: 100081
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5"
   }
   {
     id: 82
@@ -7238,6 +7547,10 @@
     explore_tag: "30,54"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 85
+    recommended_team_ids: "3,5"
   }
   {
     id: 84
@@ -7322,6 +7635,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 85
@@ -7413,6 +7730,10 @@
     explore_tag: "9,10,14,69"
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "117"
+    atk_speed_max: 1000
+    ratio_rec: 115
+    recommended_team_ids: "3,5"
   }
   {
     id: 86
@@ -7505,6 +7826,10 @@
     explore_tag: "39,43,55,57"
     gun_detail_bg: nation_German
     org_id: 10702
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 87
@@ -7606,6 +7931,10 @@
     gun_detail_bg: nation_German
     org_id: 10702
     related_story_id: 100087
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 88
@@ -7709,6 +8038,10 @@
     gun_detail_bg: nation_German
     org_id: 10302
     related_story_id: 100088
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 120
+    recommended_team_ids: "3,5"
   }
   {
     id: 89
@@ -7808,6 +8141,10 @@
     explore_tag: "17,20,25,27,47"
     org_id: 10302
     related_story_id: 100089
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5"
   }
   {
     id: 90
@@ -7882,6 +8219,10 @@
     explore_tag: "12"
     gun_detail_bg: nation_Belgium
     org_id: 10704
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 91
@@ -7959,6 +8300,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100091
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 92
@@ -8054,6 +8399,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10704
     related_story_id: 100092
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 93
@@ -8135,6 +8484,10 @@
     explore_tag: "8,11,47"
     org_id: 10302
     related_story_id: 100093
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 94
@@ -8225,6 +8578,10 @@
     gun_detail_bg: nation_China
     org_id: 10705
     related_story_id: 100094
+    gun_tag_ids: "110,105"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 95
@@ -8311,6 +8668,10 @@
     gun_detail_bg: nation_China
     org_id: 10701
     related_story_id: 100095
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,4"
   }
   {
     id: 96
@@ -8417,6 +8778,10 @@
     gun_detail_bg: nation_US
     org_id: 10401
     related_story_id: 100096
+    gun_tag_ids: "10101,134"
+    atk_speed_max: 120
+    ratio_rec: 145
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 97
@@ -8500,6 +8865,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100097
+    gun_tag_ids: "10101"
+    atk_speed_max: 130
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 98
@@ -8585,6 +8954,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100098
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 99
@@ -8672,6 +9045,10 @@
     gun_detail_bg: nation_German
     org_id: 10302
     related_story_id: 100099
+    gun_tag_ids: "10101,106"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,6,7,8"
   }
   {
     id: 100
@@ -8754,6 +9131,10 @@
     gun_detail_bg: nation_German
     org_id: 10303
     related_story_id: 100100
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 101
@@ -8841,6 +9222,10 @@
     gun_detail_bg: team_404
     org_id: 10104
     related_story_id: 100101
+    gun_tag_ids: "110,105"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 102
@@ -8915,6 +9300,10 @@
     rank_display: 4
     explore_tag: "31"
     gun_detail_bg: nation_German
+    gun_tag_ids: "108,124"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 103
@@ -9002,6 +9391,10 @@
     gun_detail_bg: team_404
     org_id: 10104
     related_story_id: 100103
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 104
@@ -9089,6 +9482,10 @@
     gun_detail_bg: nation_German
     org_id: 10703
     related_story_id: 100104
+    gun_tag_ids: "120"
+    atk_speed_max: 135
+    ratio_rec: 125
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 105
@@ -9175,6 +9572,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 106
@@ -9294,6 +9695,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10202
     related_story_id: 100106
+    gun_tag_ids: "121,153"
+    atk_speed_max: 135
+    ratio_rec: 120
+    recommended_team_ids: "6"
   }
   {
     id: 107
@@ -9378,6 +9783,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10202
     related_story_id: 100107
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 108
@@ -9462,6 +9871,10 @@
     obtain_ids: "12,13"
     rank_display: 3
     org_id: 10704
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "6"
   }
   {
     id: 109
@@ -9551,6 +9964,10 @@
     gun_detail_bg: nation_German
     org_id: 10402
     related_story_id: 100109
+    gun_tag_ids: "117"
+    atk_speed_max: 1000
+    ratio_rec: 120
+    recommended_team_ids: "3,5"
   }
   {
     id: 110
@@ -9636,6 +10053,10 @@
     explore_tag: "27"
     gun_detail_bg: nation_German
     org_id: 10303
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 90
+    recommended_team_ids: "3,5"
   }
   {
     id: 111
@@ -9741,6 +10162,10 @@
     explore_tag: "39,48"
     org_id: 10704
     related_story_id: 100111
+    gun_tag_ids: "108,106"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 112
@@ -9838,6 +10263,10 @@
     explore_tag: "41"
     org_id: 10202
     related_story_id: 100112
+    gun_tag_ids: "160,165"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "9"
   }
   {
     id: 113
@@ -9918,6 +10347,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10801
     related_story_id: 100113
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 114
@@ -9998,6 +10431,10 @@
     explore_tag: "9,17,27,40,47,82"
     org_id: 103
     related_story_id: 100114
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 115
@@ -10091,6 +10528,10 @@
     explore_tag: "31,40,65"
     org_id: 10803
     related_story_id: 100115
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 135
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 116
@@ -10168,6 +10609,10 @@
     explore_tag: "9,14"
     org_id: 10704
     related_story_id: 100116
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 117
@@ -10251,6 +10696,10 @@
     gun_detail_bg: nation_German
     org_id: 10302
     related_story_id: 100117
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "8"
   }
   {
     id: 118
@@ -10344,6 +10793,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10403
     related_story_id: 100118
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,7"
   }
   {
     id: 119
@@ -10446,6 +10899,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10202
     related_story_id: 100119
+    gun_tag_ids: "108,106"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1,7"
   }
   {
     id: 120
@@ -10561,6 +11018,10 @@
     explore_tag: "28"
     gun_detail_bg: nation_Italy
     org_id: 10403
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "6"
   }
   {
     id: 121
@@ -10653,6 +11114,10 @@
     explore_tag: "33"
     gun_detail_bg: nation_US
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5"
   }
   {
     id: 122
@@ -10747,6 +11212,10 @@
     gun_detail_bg: team_404
     org_id: 10104
     related_story_id: 100122
+    gun_tag_ids: "118"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 123
@@ -10838,6 +11307,10 @@
     explore_tag: "25,77"
     gun_detail_bg: nation_German
     org_id: 10704
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 124
@@ -10921,6 +11394,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100124
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 125
@@ -11009,6 +11486,10 @@
     gun_detail_bg: nation_German
     org_id: 10402
     related_story_id: 100125
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 126
@@ -11085,6 +11566,10 @@
     gun_detail_bg: nation_China
     org_id: 10402
     related_story_id: 100126
+    gun_tag_ids: "10102"
+    atk_speed_max: 130
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 127
@@ -11181,6 +11666,10 @@
     gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100127
+    gun_tag_ids: "110,105"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 128
@@ -11264,6 +11753,10 @@
     gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100128
+    gun_tag_ids: "138"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 129
@@ -11351,6 +11844,10 @@
     explore_tag: "3,42,53,66"
     gun_detail_bg: nation_China
     org_id: 10203
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 130
@@ -11438,6 +11935,10 @@
     explore_tag: "8,42,53,67,75"
     gun_detail_bg: nation_China
     org_id: 10203
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 131
@@ -11520,6 +12021,10 @@
     rank_display: 3
     org_id: 10303
     related_story_id: 100131
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 132
@@ -11601,6 +12106,10 @@
     explore_tag: "25,53"
     gun_detail_bg: nation_China
     org_id: 10704
+    gun_tag_ids: "10101,106"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,3,4,6,7,8"
   }
   {
     id: 133
@@ -11687,6 +12196,10 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "1"
   }
   {
     id: 134
@@ -11793,6 +12306,10 @@
     rank_display: 3
     gun_detail_bg: nation_Italy
     org_id: 10302
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 135
@@ -11879,6 +12396,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10202
     related_story_id: 100135
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 136
@@ -11985,6 +12506,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10203
     related_story_id: 100136
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 137
@@ -12088,6 +12613,10 @@
     explore_tag: "14"
     gun_detail_bg: nation_Russia
     org_id: 10802
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 138
@@ -12162,6 +12691,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10102
+    gun_tag_ids: "108,115"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 139
@@ -12223,7 +12756,7 @@
     effect_grid_center: 13
     effect_grid_pos: "8,12,14,18"
     effect_grid_effect: "1,8;2,5"
-    type_equip1: 1;4,13,16
+    type_equip1: 1;4,13,16,18
     type_equip2: 2;6
     type_equip3: 3;10
     ai: 139
@@ -12232,6 +12765,10 @@
     rank_display: 2
     gun_detail_bg: nation_US
     org_id: 10704
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 140
@@ -12301,6 +12838,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10704
+    gun_tag_ids: "103"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 141
@@ -12387,6 +12928,10 @@
     rank_display: 2
     gun_detail_bg: nation_German
     org_id: 10704
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 142
@@ -12466,6 +13011,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10202
     related_story_id: 100142
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 143
@@ -12541,6 +13090,10 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100143
+    gun_tag_ids: "10102,108"
+    atk_speed_max: 135
+    ratio_rec: 125
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 144
@@ -12607,6 +13160,10 @@
     rank_display: 3
     explore_tag: "52"
     org_id: 10303
+    gun_tag_ids: "110,105"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 145
@@ -12671,6 +13228,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10703
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "8"
   }
   {
     id: 146
@@ -12748,6 +13309,10 @@
     gun_detail_bg: nation_German
     org_id: 10701
     related_story_id: 100146
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 147
@@ -12837,6 +13402,10 @@
     explore_tag: "46"
     org_id: 10803
     related_story_id: 100147
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,4"
   }
   {
     id: 148
@@ -12908,6 +13477,10 @@
     explore_tag: "13,46,57"
     org_id: 10203
     related_story_id: 100148
+    gun_tag_ids: "108,124"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 149
@@ -12983,6 +13556,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10202
     related_story_id: 100149
+    gun_tag_ids: "108,106"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 150
@@ -13055,6 +13632,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 151
@@ -13125,6 +13706,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100151
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5"
   }
   {
     id: 152
@@ -13200,6 +13785,10 @@
     gun_detail_bg: nation_US
     org_id: 10303
     related_story_id: 100152
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 115
+    recommended_team_ids: "5"
   }
   {
     id: 153
@@ -13277,6 +13866,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10702
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 115
+    recommended_team_ids: "5"
   }
   {
     id: 154
@@ -13356,6 +13949,10 @@
     gun_detail_bg: nation_US
     org_id: 10802
     related_story_id: 100154
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 155
@@ -13435,6 +14032,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100155
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 156
@@ -13512,6 +14113,10 @@
     explore_tag: "52,58"
     gun_detail_bg: nation_US
     org_id: 10203
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "5,9"
   }
   {
     id: 157
@@ -13586,6 +14191,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 158
@@ -13655,6 +14264,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "108,109"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5,9"
   }
   {
     id: 159
@@ -13733,6 +14346,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10704
     related_story_id: 100159
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "5"
   }
   {
     id: 160
@@ -13809,6 +14426,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100160
+    gun_tag_ids: "109"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5"
   }
   {
     id: 161
@@ -13881,6 +14502,10 @@
     gun_detail_bg: nation_China
     org_id: 10302
     related_story_id: 100161
+    gun_tag_ids: "108,109"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 162
@@ -13963,6 +14588,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10402
     related_story_id: 100162
+    gun_tag_ids: "108,109"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5,9"
   }
   {
     id: 163
@@ -14044,6 +14673,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100163
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 122
+    recommended_team_ids: "5,9"
   }
   {
     id: 164
@@ -14121,6 +14754,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10202
     related_story_id: 100164
+    gun_tag_ids: "126"
+    atk_speed_max: 60
+    ratio_rec: 123
+    recommended_team_ids: "9"
   }
   {
     id: 165
@@ -14198,6 +14835,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10704
     related_story_id: 100165
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5,9"
   }
   {
     id: 166
@@ -14274,6 +14915,10 @@
     explore_tag: "19,34"
     org_id: 10401
     related_story_id: 100166
+    gun_tag_ids: "117"
+    atk_speed_max: 130
+    ratio_rec: 110
+    recommended_team_ids: "2"
   }
   {
     id: 167
@@ -14355,6 +15000,10 @@
     gun_detail_bg: nation_German
     org_id: 10803
     related_story_id: 100167
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 168
@@ -14427,6 +15076,10 @@
     rank_display: 4
     explore_tag: "65"
     org_id: 10401
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 169
@@ -14500,6 +15153,10 @@
     explore_tag: "36"
     gun_detail_bg: nation_US
     org_id: 10703
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 170
@@ -14569,6 +15226,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 171
@@ -14643,6 +15304,10 @@
     explore_tag: "56"
     org_id: 10702
     related_story_id: 100171
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6,7"
   }
   {
     id: 172
@@ -14731,6 +15396,10 @@
     explore_tag: "15,16"
     gun_detail_bg: nation_US
     org_id: 10802
+    gun_tag_ids: "108,154"
+    atk_speed_max: 135
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 173
@@ -14810,6 +15479,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10402
     related_story_id: 100173
+    gun_tag_ids: "117"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 174
@@ -14881,6 +15554,10 @@
     gun_detail_bg: nation_China
     org_id: 10701
     related_story_id: 100174
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "2,4"
   }
   {
     id: 175
@@ -14951,6 +15628,10 @@
     explore_tag: "8,11,30,52,81"
     org_id: 10203
     related_story_id: 100175
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 176
@@ -15023,6 +15704,10 @@
     rank_display: 3
     org_id: 10202
     related_story_id: 100176
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 177
@@ -15099,6 +15784,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10704
     related_story_id: 100177
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 178
@@ -15173,6 +15862,10 @@
     explore_tag: "14,52"
     org_id: 10802
     related_story_id: 100178
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 179
@@ -15245,6 +15938,10 @@
     gun_detail_bg: nation_German
     org_id: 10701
     related_story_id: 100179
+    gun_tag_ids: "138"
+    atk_speed_max: 125
+    ratio_rec: 93
+    recommended_team_ids: "8"
   }
   {
     id: 180
@@ -15316,6 +16013,10 @@
     gun_detail_bg: nation_German
     org_id: 10402
     related_story_id: 100180
+    gun_tag_ids: "138,134"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 181
@@ -15394,6 +16095,10 @@
     gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100181
+    gun_tag_ids: "108,106"
+    atk_speed_max: 135
+    ratio_rec: 112
+    recommended_team_ids: "1,7"
   }
   {
     id: 182
@@ -15462,6 +16167,10 @@
     rank_display: 3
     explore_tag: "18"
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "2,4"
   }
   {
     id: 183
@@ -15528,6 +16237,10 @@
     gun_detail_bg: nation_US
     org_id: 10203
     related_story_id: 100183
+    gun_tag_ids: "107,115"
+    atk_speed_max: 130
+    ratio_rec: 90
+    recommended_team_ids: "8"
   }
   {
     id: 184
@@ -15615,6 +16328,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     related_story_id: 100184
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "2,4"
   }
   {
     id: 185
@@ -15693,6 +16410,10 @@
     explore_tag: "25"
     org_id: 10704
     related_story_id: 100185
+    gun_tag_ids: "108,106"
+    atk_speed_max: 1000
+    ratio_rec: 85
+    recommended_team_ids: "3,5"
   }
   {
     id: 186
@@ -15765,6 +16486,10 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10703
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 187
@@ -15848,6 +16573,10 @@
     obtain_ids: "27,28"
     rank_display: 4
     org_id: 10303
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 188
@@ -15921,6 +16650,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10705
     related_story_id: 100188
+    gun_tag_ids: "113,10102"
+    atk_speed_max: 60
+    ratio_rec: 133
+    recommended_team_ids: "5,9"
   }
   {
     id: 189
@@ -15997,6 +16730,10 @@
     obtain_ids: "2"
     rank_display: 4
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 118
+    recommended_team_ids: "5,9"
   }
   {
     id: 190
@@ -16070,6 +16807,10 @@
     obtain_ids: "2"
     rank_display: 3
     org_id: 10704
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 115
+    recommended_team_ids: "5"
   }
   {
     id: 191
@@ -16145,6 +16886,10 @@
     explore_tag: "52"
     gun_detail_bg: nation_Italy
     org_id: 10704
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 192
@@ -16214,6 +16959,10 @@
     gun_detail_bg: nation_China
     org_id: 10403
     related_story_id: 100192
+    gun_tag_ids: "138"
+    atk_speed_max: 125
+    ratio_rec: 102
+    recommended_team_ids: "8"
   }
   {
     id: 193
@@ -16286,6 +17035,10 @@
     gun_detail_bg: nation_China
     org_id: 10704
     related_story_id: 100193
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 112
+    recommended_team_ids: "1,7"
   }
   {
     id: 194
@@ -16361,6 +17114,10 @@
     rank_display: 5
     org_id: 10202
     related_story_id: 100194
+    gun_tag_ids: "125"
+    atk_speed_max: 150
+    ratio_rec: 115
+    recommended_team_ids: "1"
   }
   {
     id: 195
@@ -16439,6 +17196,10 @@
     gun_detail_bg: nation_German
     org_id: 10704
     related_story_id: 100195
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 90
+    recommended_team_ids: "3,5"
   }
   {
     id: 196
@@ -16521,6 +17282,10 @@
     explore_tag: "51"
     org_id: 10802
     related_story_id: 100196
+    gun_tag_ids: "121,153"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "6"
   }
   {
     id: 197
@@ -16600,6 +17365,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10203
     related_story_id: 100197
+    gun_tag_ids: "108,10101"
+    atk_speed_max: 135
+    ratio_rec: 90
+    recommended_team_ids: "2,4"
   }
   {
     id: 198
@@ -16680,6 +17449,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10203
     related_story_id: 100198
+    gun_tag_ids: "139"
+    atk_speed_max: 125
+    ratio_rec: 82
+    recommended_team_ids: "2,4,8"
   }
   {
     id: 199
@@ -16761,6 +17534,10 @@
     gun_detail_bg: nation_China
     org_id: 10704
     related_story_id: 100199
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5"
   }
   {
     id: 200
@@ -16836,6 +17613,10 @@
     gun_detail_bg: nation_US
     org_id: 10302
     related_story_id: 100200
+    gun_tag_ids: "108,106"
+    atk_speed_max: 120
+    ratio_rec: 93
+    recommended_team_ids: "2,4"
   }
   {
     id: 201
@@ -16917,6 +17698,10 @@
     explore_tag: "27"
     org_id: 10701
     related_story_id: 100201
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 202
@@ -16983,6 +17768,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100202
+    gun_tag_ids: "117"
+    atk_speed_max: 120
+    ratio_rec: 130
+    recommended_team_ids: "2"
   }
   {
     id: 203
@@ -17060,6 +17849,10 @@
     gun_detail_bg: nation_US
     org_id: 10703
     related_story_id: 100203
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 112
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 204
@@ -17152,6 +17945,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10202
     related_story_id: 100204
+    gun_tag_ids: "108"
+    atk_speed_max: 125
+    ratio_rec: 93
+    recommended_team_ids: "2,4"
   }
   {
     id: 205
@@ -17232,6 +18029,10 @@
     gun_detail_bg: team_defy
     org_id: 10104
     related_story_id: 100205
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 206
@@ -17322,6 +18123,10 @@
     gun_detail_bg: team_defy
     org_id: 10104
     related_story_id: 100206
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 207
@@ -17411,6 +18216,10 @@
     rank_display: 4
     org_id: 10703
     related_story_id: 100207
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 208
@@ -17488,6 +18297,10 @@
     gun_detail_bg: nation_German
     org_id: 10501
     related_story_id: 100208
+    gun_tag_ids: "108,124"
+    atk_speed_max: 1000
+    ratio_rec: 102
+    recommended_team_ids: "3,5"
   }
   {
     id: 209
@@ -17554,6 +18367,10 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10704
+    gun_tag_ids: "110,105"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 210
@@ -17627,6 +18444,10 @@
     explore_tag: "18"
     org_id: 10402
     related_story_id: 100210
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 211
@@ -17718,6 +18539,10 @@
     explore_tag: "37"
     gun_detail_bg: nation_US
     org_id: 10303
+    gun_tag_ids: "108"
+    atk_speed_max: 125
+    ratio_rec: 98
+    recommended_team_ids: "2,4"
   }
   {
     id: 212
@@ -17779,19 +18604,25 @@
     ratio_range: 100
     skill1: 108901
     normal_attack: 300101
+    dynamic_passive_skill: "740081"
     effect_grid_center: 13
     effect_grid_pos: "7,8,9,12,14,18"
     effect_grid_effect: "1,15;3,20"
     type_equip1: 1;4,13,16
     type_equip2: 2;6
-    type_equip3: 3;10
+    type_equip3: 3;10,20
     ai: 212
     launch_time: 2019-02-22 13:00:00
     obtain_ids: "1"
     rank_display: 4
+    mindupdate_consume: 10:20,45:200;10:40,45:1000;10:60,45:2000
     explore_tag: "29,37,61"
     org_id: 10802
     related_story_id: 100212
+    gun_tag_ids: "103"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 213
@@ -17874,6 +18705,10 @@
     explore_tag: "39"
     org_id: 10203
     related_story_id: 100213
+    gun_tag_ids: "125,115"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 214
@@ -17949,6 +18784,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10802
+    gun_tag_ids: "121,153,110"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "6"
   }
   {
     id: 215
@@ -18019,6 +18858,10 @@
     gun_detail_bg: nation_US
     org_id: 10802
     related_story_id: 100215
+    gun_tag_ids: "108,10102,113"
+    atk_speed_max: 150
+    ratio_rec: 108
+    recommended_team_ids: "1"
   }
   {
     id: 216
@@ -18095,6 +18938,10 @@
     gun_detail_bg: nation_German
     org_id: 10802
     related_story_id: 100216
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 98
+    recommended_team_ids: "6"
   }
   {
     id: 217
@@ -18165,6 +19012,10 @@
     obtain_ids: "1911"
     rank_display: 3
     org_id: 10303
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 92
+    recommended_team_ids: "2,4"
   }
   {
     id: 218
@@ -18243,6 +19094,10 @@
     gun_detail_bg: nation_China
     org_id: 10703
     related_story_id: 100218
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 220
@@ -18320,6 +19175,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100220
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 221
@@ -18401,6 +19260,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100221
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "3"
   }
   {
     id: 222
@@ -18473,6 +19336,10 @@
     gun_detail_bg: nation_US
     org_id: 10802
     related_story_id: 100222
+    gun_tag_ids: "138"
+    atk_speed_max: 125
+    ratio_rec: 98
+    recommended_team_ids: "8"
   }
   {
     id: 223
@@ -18546,6 +19413,10 @@
     rank_display: 3
     org_id: 10301
     related_story_id: 100223
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 224
@@ -18619,6 +19490,10 @@
     rank_display: 5
     explore_tag: "52"
     org_id: 10403
+    gun_tag_ids: "108,106"
+    atk_speed_max: 135
+    ratio_rec: 108
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 225
@@ -18701,6 +19576,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10301
     related_story_id: 100225
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 226
@@ -18772,6 +19651,10 @@
     gun_detail_bg: nation_US
     org_id: 10301
     related_story_id: 100226
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 92
+    recommended_team_ids: "2,4"
   }
   {
     id: 227
@@ -18846,6 +19729,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100227
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "6"
   }
   {
     id: 228
@@ -18919,6 +19806,10 @@
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     org_id: 10203
     related_story_id: 100228
+    gun_tag_ids: "113,108"
+    atk_speed_max: 135
+    ratio_rec: 145
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 229
@@ -18995,6 +19886,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100229
+    gun_tag_ids: "120"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5"
   }
   {
     id: 230
@@ -19068,6 +19963,10 @@
     gun_detail_bg: nation_US
     org_id: 10704
     related_story_id: 100230
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 92
+    recommended_team_ids: "2,4"
   }
   {
     id: 231
@@ -19148,6 +20047,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100231
+    gun_tag_ids: "117,123,136"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "2,4,8"
   }
   {
     id: 232
@@ -19217,6 +20120,10 @@
     explore_tag: "37"
     gun_detail_bg: nation_Russia
     org_id: 10301
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 96
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 233
@@ -19286,6 +20193,10 @@
     gun_detail_bg: nation_Italy
     org_id: 10203
     related_story_id: 100233
+    gun_tag_ids: "10101,124"
+    atk_speed_max: 120
+    ratio_rec: 112
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 234
@@ -19365,6 +20276,10 @@
     gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100234
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 102
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 235
@@ -19432,6 +20347,10 @@
     rank_display: 4
     gun_detail_bg: nation_Belgium
     org_id: 10704
+    gun_tag_ids: "117"
+    atk_speed_max: 120
+    ratio_rec: 98
+    recommended_team_ids: "2,4,8"
   }
   {
     id: 236
@@ -19513,6 +20432,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10402
+    gun_tag_ids: "121,153"
+    atk_speed_max: 135
+    ratio_rec: 122
+    recommended_team_ids: "6"
   }
   {
     id: 237
@@ -19590,6 +20513,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10802
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 238
@@ -19671,6 +20598,10 @@
     gun_detail_bg: nation_China
     org_id: 10802
     related_story_id: 100238
+    gun_tag_ids: "108,124"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 239
@@ -19748,6 +20679,10 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 240
@@ -19827,6 +20762,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100240
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 98
+    recommended_team_ids: "3,5"
   }
   {
     id: 241
@@ -19897,6 +20836,10 @@
     obtain_ids: "20016"
     rank_display: 3
     org_id: 10802
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "8"
   }
   {
     id: 242
@@ -19963,6 +20906,10 @@
     gun_detail_bg: nation_German
     org_id: 10203
     related_story_id: 100242
+    gun_tag_ids: "103,113"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 243
@@ -20034,6 +20981,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10403
+    gun_tag_ids: "108,103,113"
+    atk_speed_max: 150
+    ratio_rec: 113
+    recommended_team_ids: "1,6,7"
   }
   {
     id: 244
@@ -20105,6 +21056,10 @@
     gun_detail_bg: nation_US
     org_id: 10704
     related_story_id: 100244
+    gun_tag_ids: "10102,106"
+    atk_speed_max: 120
+    ratio_rec: 125
+    recommended_team_ids: "2,3,4,7,8"
   }
   {
     id: 245
@@ -20179,6 +21134,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10802
     related_story_id: 100245
+    gun_tag_ids: "108,126"
+    atk_speed_max: 135
+    ratio_rec: 123
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 247
@@ -20234,6 +21193,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10303
+    gun_tag_ids: "108,124"
+    atk_speed_max: 120
+    ratio_rec: 88
+    recommended_team_ids: "2,4"
   }
   {
     id: 248
@@ -20305,6 +21268,10 @@
     rank_display: 4
     explore_tag: "41"
     org_id: 10202
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 249
@@ -20382,6 +21349,10 @@
     obtain_ids: "1812,101"
     rank_display: 3
     org_id: 10802
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 102
+    recommended_team_ids: "3,5"
   }
   {
     id: 250
@@ -20452,6 +21423,10 @@
     rank_display: 5
     org_id: 10203
     related_story_id: 100250
+    gun_tag_ids: "10102,113"
+    atk_speed_max: 120
+    ratio_rec: 118
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 251
@@ -20565,6 +21540,10 @@
     rank_display: 5
     org_id: 10203
     related_story_id: 100251
+    gun_tag_ids: "127"
+    atk_speed_max: 150
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 252
@@ -20639,6 +21618,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100252
+    gun_tag_ids: "138,121"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 253
@@ -20716,6 +21699,10 @@
     gun_detail_bg: nation_US
     org_id: 10801
     related_story_id: 100253
+    gun_tag_ids: "108,160,165"
+    atk_speed_max: 1000
+    ratio_rec: 115
+    recommended_team_ids: "3,5,9"
   }
   {
     id: 254
@@ -20788,6 +21775,10 @@
     rank_display: 4
     org_id: 10802
     related_story_id: 100254
+    gun_tag_ids: "108,106"
+    atk_speed_max: 1000
+    ratio_rec: 102
+    recommended_team_ids: "3,5"
   }
   {
     id: 255
@@ -20859,6 +21850,10 @@
     obtain_ids: "20013"
     rank_display: 3
     org_id: 10703
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "2,4"
   }
   {
     id: 256
@@ -20928,6 +21923,10 @@
     obtain_ids: "1909,105"
     rank_display: 3
     org_id: 10703
+    gun_tag_ids: "117"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,4,8"
   }
   {
     id: 257
@@ -21006,6 +22005,10 @@
     gun_detail_bg: nation_US
     org_id: 10203
     related_story_id: 100257
+    gun_tag_ids: "108,147"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 258
@@ -21072,6 +22075,10 @@
     obtain_ids: "2008"
     rank_display: 3
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 259
@@ -21140,6 +22147,10 @@
     obtain_ids: "20014"
     rank_display: 5
     org_id: 10203
+    gun_tag_ids: "108,124"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 260
@@ -21202,6 +22213,10 @@
     rank_display: 5
     org_id: 10402
     related_story_id: 100260
+    gun_tag_ids: "117,121,110"
+    atk_speed_max: 130
+    ratio_rec: 105
+    recommended_team_ids: "2,3"
   }
   {
     id: 261
@@ -21281,6 +22296,10 @@
     gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100261
+    gun_tag_ids: "138,121"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 262
@@ -21362,6 +22381,10 @@
     rank_display: 4
     org_id: 10303
     related_story_id: 100262
+    gun_tag_ids: "109"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "1"
   }
   {
     id: 263
@@ -21440,6 +22463,10 @@
     gun_detail_bg: nation_German
     org_id: 10802
     related_story_id: 100263
+    gun_tag_ids: "108,103"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 264
@@ -21527,6 +22554,10 @@
     rank_display: 4
     explore_tag: "56"
     org_id: 10403
+    gun_tag_ids: "108,165"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5,9"
   }
   {
     id: 265
@@ -21630,6 +22661,10 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10403
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 266
@@ -21703,6 +22738,10 @@
     gun_detail_bg: nation_German
     org_id: 10201
     related_story_id: 100266
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 92
+    recommended_team_ids: "2,4"
   }
   {
     id: 267
@@ -21762,6 +22801,10 @@
     gun_detail_bg: nation_German
     org_id: 10704
     related_story_id: 100267
+    gun_tag_ids: "10102,105"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 268
@@ -21836,6 +22879,10 @@
     obtain_ids: "20010"
     rank_display: 3
     org_id: 10802
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 269
@@ -21912,6 +22959,10 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10403
+    gun_tag_ids: "10101,111"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 270
@@ -21979,6 +23030,10 @@
     rank_display: 4
     org_id: 10802
     related_story_id: 100270
+    gun_tag_ids: "108,144"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 271
@@ -22070,6 +23125,10 @@
     obtain_ids: "20011"
     rank_display: 3
     org_id: 10802
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 272
@@ -22139,6 +23198,10 @@
     rank_display: 5
     org_id: 10803
     related_story_id: 100272
+    gun_tag_ids: "118,114"
+    atk_speed_max: 130
+    ratio_rec: 110
+    recommended_team_ids: "2"
   }
   {
     id: 273
@@ -22196,6 +23259,10 @@
     gun_detail_bg: nation_German
     org_id: 10402
     related_story_id: 100273
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 274
@@ -22268,6 +23335,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100274
+    gun_tag_ids: "108,123"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 275
@@ -22336,6 +23407,10 @@
     gun_detail_bg: nation_US
     org_id: 10403
     related_story_id: 100275
+    gun_tag_ids: "125"
+    atk_speed_max: 1000
+    ratio_rec: 115
+    recommended_team_ids: "3,5"
   }
   {
     id: 276
@@ -22400,6 +23475,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10402
     related_story_id: 100276
+    gun_tag_ids: "125,149"
+    atk_speed_max: 1000
+    ratio_rec: 120
+    recommended_team_ids: "3,5"
   }
   {
     id: 277
@@ -22457,6 +23536,10 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10702
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 278
@@ -22513,6 +23596,10 @@
     rank_display: 3
     gun_detail_bg: nation_US
     org_id: 10802
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "5"
   }
   {
     id: 279
@@ -22590,6 +23677,10 @@
     rank_display: 3
     org_id: 10702
     related_story_id: 100279
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 280
@@ -22649,6 +23740,10 @@
     obtain_ids: "33,34"
     rank_display: 4
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 281
@@ -22718,6 +23813,10 @@
     gun_detail_bg: nation_German
     org_id: 10203
     related_story_id: 100281
+    gun_tag_ids: "117,121,113"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5,9"
   }
   {
     id: 282
@@ -22763,21 +23862,26 @@
     skill1: 113201
     normal_attack: 113205
     passive_skill: "300202"
-    dynamic_passive_skill: "113202,113203,113204"
+    dynamic_passive_skill: "113202,113203,113204,740063,740064"
     effect_grid_center: 8
     effect_guntype: "3,5"
     effect_grid_pos: "3,4"
     effect_grid_effect: "1,15;3,15"
-    type_equip1: 3;11
+    type_equip1: 3;11,20
     type_equip2: 2;7
     type_equip3: 1;1,2,3,4,22
     ai: 164
     launch_time: 2020-04-20 00:00:00
     obtain_ids: "2"
     rank_display: 5
+    mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     gun_detail_bg: nation_US
     org_id: 10802
     related_story_id: 100282
+    gun_tag_ids: "117,160,113,162"
+    atk_speed_max: 60
+    ratio_rec: 130
+    recommended_team_ids: "5,9"
   }
   {
     id: 283
@@ -22833,6 +23937,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10403
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 105
+    recommended_team_ids: "5"
   }
   {
     id: 284
@@ -22900,6 +24008,10 @@
     rank_display: 3
     org_id: 10403
     related_story_id: 100284
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 285
@@ -22955,6 +24067,10 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10802
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 286
@@ -23014,6 +24130,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10302
+    gun_tag_ids: "130,120"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 287
@@ -23072,6 +24192,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10403
+    gun_tag_ids: "125,124"
+    atk_speed_max: 150
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 288
@@ -23128,6 +24252,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 289
@@ -23185,6 +24313,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10803
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 112
+    recommended_team_ids: "1"
   }
   {
     id: 290
@@ -23242,6 +24374,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10403
+    gun_tag_ids: "125,124"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 291
@@ -23297,6 +24433,10 @@
     obtain_ids: "20020"
     rank_display: 3
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 292
@@ -23362,6 +24502,10 @@
     gun_detail_bg: team_defy
     org_id: 10104
     related_story_id: 100292
+    gun_tag_ids: "125"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 293
@@ -23423,6 +24567,10 @@
     gun_detail_bg: team_defy
     org_id: 10104
     related_story_id: 100293
+    gun_tag_ids: "108,124"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 294
@@ -23482,6 +24630,10 @@
     rank_display: 5
     org_id: 10201
     related_story_id: 100294
+    gun_tag_ids: "10101,112"
+    atk_speed_max: 130
+    ratio_rec: 140
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 295
@@ -23539,6 +24691,10 @@
     gun_detail_bg: nation_China
     org_id: 10802
     related_story_id: 100295
+    gun_tag_ids: "129"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "1"
   }
   {
     id: 296
@@ -23596,6 +24752,10 @@
     gun_detail_bg: nation_German
     org_id: 10401
     related_story_id: 100296
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 96
+    recommended_team_ids: "2,4"
   }
   {
     id: 297
@@ -23651,6 +24811,10 @@
     rank_display: 4
     org_id: 10403
     related_story_id: 100297
+    gun_tag_ids: "108,134"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "1"
   }
   {
     id: 298
@@ -23705,6 +24869,10 @@
     obtain_ids: "2102"
     rank_display: 3
     org_id: 10802
+    gun_tag_ids: "10101"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "6,7"
   }
   {
     id: 299
@@ -23763,6 +24931,10 @@
     rank_display: 3
     gun_detail_bg: nation_US
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 112
+    recommended_team_ids: "5,9"
   }
   {
     id: 300
@@ -23822,6 +24994,10 @@
     obtain_ids: "2111"
     rank_display: 3
     org_id: 10702
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 301
@@ -23879,6 +25055,10 @@
     obtain_ids: "2107"
     rank_display: 3
     org_id: 10704
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 302
@@ -23937,6 +25117,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10403
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 112
+    recommended_team_ids: "5"
   }
   {
     id: 303
@@ -23996,6 +25180,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
+    gun_tag_ids: "10101,106"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,3,4,6,7,8"
   }
   {
     id: 304
@@ -24053,6 +25241,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10402
+    gun_tag_ids: "121,105,140"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 305
@@ -24107,6 +25299,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10802
+    gun_tag_ids: "108,143"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 306
@@ -24166,6 +25362,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     related_story_id: 100306
+    gun_tag_ids: "108,134"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 307
@@ -24225,6 +25425,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10302
+    gun_tag_ids: "108,160,165"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5,9"
   }
   {
     id: 308
@@ -24281,6 +25485,10 @@
     obtain_ids: "2203"
     rank_display: 3
     org_id: 10303
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,4"
   }
   {
     id: 309
@@ -24336,6 +25544,10 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10303
+    gun_tag_ids: "10101,106"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,6,7,8"
   }
   {
     id: 310
@@ -24386,6 +25598,10 @@
     obtain_ids: "1"
     rank_display: 4
     org_id: 10703
+    gun_tag_ids: "103,113"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 311
@@ -24441,6 +25657,10 @@
     obtain_ids: "20018"
     rank_display: 5
     org_id: 10802
+    gun_tag_ids: "129,113,132"
+    atk_speed_max: 135
+    ratio_rec: 126
+    recommended_team_ids: "1"
   }
   {
     id: 312
@@ -24499,6 +25719,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 313
@@ -24555,6 +25779,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10202
+    gun_tag_ids: "125,124"
+    atk_speed_max: 135
+    ratio_rec: 112
+    recommended_team_ids: "1"
   }
   {
     id: 314
@@ -24610,6 +25838,10 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10702
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 315
@@ -24663,6 +25895,10 @@
     obtain_ids: "236"
     rank_display: 5
     org_id: 10303
+    gun_tag_ids: "125"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 316
@@ -24721,6 +25957,10 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10203
+    gun_tag_ids: "126,125,143"
+    atk_speed_max: 125
+    ratio_rec: 90
+    recommended_team_ids: "2"
   }
   {
     id: 317
@@ -24779,6 +26019,10 @@
     obtain_ids: "234"
     rank_display: 4
     org_id: 10202
+    gun_tag_ids: "10101,112"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "4"
   }
   {
     id: 318
@@ -24837,6 +26081,10 @@
     obtain_ids: "235"
     rank_display: 5
     org_id: 10403
+    gun_tag_ids: "108"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 319
@@ -24895,6 +26143,10 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "108,160"
+    atk_speed_max: 1000
+    ratio_rec: 115
+    recommended_team_ids: "3,5"
   }
   {
     id: 320
@@ -24948,6 +26200,10 @@
     obtain_ids: "2112"
     rank_display: 3
     org_id: 10402
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 321
@@ -25004,6 +26260,10 @@
     obtain_ids: "20019"
     rank_display: 3
     org_id: 10202
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "5,9"
   }
   {
     id: 322
@@ -25060,6 +26320,10 @@
     rank_display: 3
     gun_detail_bg: nation_China
     org_id: 10705
+    gun_tag_ids: "117,114"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2"
   }
   {
     id: 323
@@ -25120,6 +26384,10 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10302
+    gun_tag_ids: "163,145,108,116"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5,9"
   }
   {
     id: 324
@@ -25183,6 +26451,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    gun_tag_ids: "125,132,113"
+    atk_speed_max: 60
+    ratio_rec: 118
+    recommended_team_ids: "5,9"
   }
   {
     id: 325
@@ -25241,6 +26513,10 @@
     rank_display: 4
     gun_detail_bg: nation_Italy
     org_id: 10701
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 108
+    recommended_team_ids: "5,9"
   }
   {
     id: 326
@@ -25299,6 +26575,10 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10403
+    gun_tag_ids: "160,131,108"
+    atk_speed_max: 60
+    ratio_rec: 116
+    recommended_team_ids: "5,9"
   }
   {
     id: 327
@@ -25357,6 +26637,10 @@
     rank_display: 3
     gun_detail_bg: nation_US
     org_id: 10802
+    gun_tag_ids: "128"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 328
@@ -25412,6 +26696,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10202
+    gun_tag_ids: "103"
+    atk_speed_max: 120
+    ratio_rec: 104
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 329
@@ -25466,6 +26754,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10203
+    gun_tag_ids: "108,114"
+    atk_speed_max: 125
+    ratio_rec: 98
+    recommended_team_ids: "8"
   }
   {
     id: 330
@@ -25526,6 +26818,10 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10403
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 331
@@ -25578,6 +26874,10 @@
     obtain_ids: "240"
     rank_display: 5
     org_id: 10401
+    gun_tag_ids: "10101"
+    atk_speed_max: 130
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 332
@@ -25631,6 +26931,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10704
+    gun_tag_ids: "118"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2"
   }
   {
     id: 333
@@ -25686,6 +26990,10 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10201
+    gun_tag_ids: "125,10101"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 334
@@ -25750,6 +27058,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10302
+    gun_tag_ids: "108"
+    atk_speed_max: 125
+    ratio_rec: 110
+    recommended_team_ids: "2,4"
   }
   {
     id: 335
@@ -25807,6 +27119,10 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10202
+    gun_tag_ids: "108,131"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 336
@@ -25866,6 +27182,10 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10301
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 337
@@ -25924,6 +27244,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10802
+    gun_tag_ids: "10101,145"
+    atk_speed_max: 125
+    ratio_rec: 115
+    recommended_team_ids: "4"
   }
   {
     id: 338
@@ -25983,6 +27307,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10802
+    gun_tag_ids: "117,110"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 339
@@ -26046,6 +27374,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10203
+    gun_tag_ids: "125,126"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "3,5"
   }
   {
     id: 340
@@ -26103,6 +27435,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "108,106"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1,7"
   }
   {
     id: 341
@@ -26155,6 +27491,10 @@
     obtain_ids: "247"
     rank_display: 5
     org_id: 10202
+    gun_tag_ids: "131,113,10102"
+    atk_speed_max: 135
+    ratio_rec: 125
+    recommended_team_ids: "1,2,3,7"
   }
   {
     id: 342
@@ -26214,6 +27554,10 @@
     obtain_ids: "245"
     rank_display: 5
     org_id: 10201
+    gun_tag_ids: "126"
+    atk_speed_max: 135
+    ratio_rec: 120
+    recommended_team_ids: "1"
   }
   {
     id: 343
@@ -26271,6 +27615,10 @@
     obtain_ids: "246"
     rank_display: 4
     org_id: 10402
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "6,7"
   }
   {
     id: 344
@@ -26330,6 +27678,10 @@
     obtain_ids: "245"
     rank_display: 4
     org_id: 10403
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6,7"
   }
   {
     id: 345
@@ -26386,6 +27738,10 @@
     obtain_ids: "246"
     rank_display: 5
     org_id: 10202
+    gun_tag_ids: "108,165"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5,9"
   }
   {
     id: 346
@@ -26442,6 +27798,10 @@
     obtain_ids: "1"
     rank_display: 4
     org_id: 10303
+    gun_tag_ids: "103,106"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,6,7,8"
   }
   {
     id: 347
@@ -26501,6 +27861,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10202
+    gun_tag_ids: "107,114,131,117,115"
+    atk_speed_max: 150
+    ratio_rec: 118
+    recommended_team_ids: "1"
   }
   {
     id: 348
@@ -26557,6 +27921,10 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10402
+    gun_tag_ids: "117,146"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "2,4,8"
   }
   {
     id: 349
@@ -26615,6 +27983,10 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10402
+    gun_tag_ids: "155"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 350
@@ -26674,6 +28046,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
+    gun_tag_ids: "164,108"
+    atk_speed_max: 60
+    ratio_rec: 116
+    recommended_team_ids: "5,9"
   }
   {
     id: 351
@@ -26740,6 +28116,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10705
+    gun_tag_ids: "121,162"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 352
@@ -26801,6 +28181,10 @@
     rank_display: 4
     gun_detail_bg: nation_Italy
     org_id: 10403
+    gun_tag_ids: "108,103,113"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 353
@@ -26858,6 +28242,10 @@
     obtain_ids: "2"
     rank_display: 4
     org_id: 10802
+    gun_tag_ids: "108"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "5,9"
   }
   {
     id: 354
@@ -26913,6 +28301,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10302
+    gun_tag_ids: "103,112,124"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 355
@@ -26972,6 +28364,10 @@
     rank_display: 4
     gun_detail_bg: nation_Belgium
     org_id: 10704
+    gun_tag_ids: "10102,124"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,7"
   }
   {
     id: 356
@@ -27027,6 +28423,10 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10202
+    gun_tag_ids: "108,112,124"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 357
@@ -27084,6 +28484,10 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10203
+    gun_tag_ids: "118,124"
+    atk_speed_max: 130
+    ratio_rec: 100
+    recommended_team_ids: "2"
   }
   {
     id: 358
@@ -27143,6 +28547,10 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10202
+    gun_tag_ids: "103"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 359
@@ -27201,6 +28609,10 @@
     obtain_ids: "248"
     rank_display: 5
     org_id: 10402
+    gun_tag_ids: "121,105,133,10101"
+    atk_speed_max: 135
+    ratio_rec: 112
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 360
@@ -27255,6 +28667,10 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
+    gun_tag_ids: "108,111,10102,147"
+    atk_speed_max: 120
+    ratio_rec: 102
+    recommended_team_ids: "2,4"
   }
   {
     id: 361
@@ -27312,6 +28728,10 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10402
+    gun_tag_ids: "109,121,156"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 362
@@ -27371,6 +28791,10 @@
     obtain_ids: "248"
     rank_display: 4
     org_id: 10403
+    gun_tag_ids: "103,160"
+    atk_speed_max: 1000
+    ratio_rec: 100
+    recommended_team_ids: "9"
   }
   {
     id: 363
@@ -27430,6 +28854,10 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10301
+    gun_tag_ids: "113,134"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 364
@@ -27489,6 +28917,10 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10302
+    gun_tag_ids: "121,134"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 365
@@ -27542,6 +28974,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10704
+    gun_tag_ids: "125"
+    atk_speed_max: 150
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 366
@@ -27603,6 +29039,10 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10704
+    gun_tag_ids: "103,113"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 367
@@ -27666,6 +29106,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10704
+    gun_tag_ids: "126,149"
+    atk_speed_max: 60
+    ratio_rec: 100
+    recommended_team_ids: "9"
   }
   {
     id: 368
@@ -27723,6 +29167,10 @@
     obtain_ids: "2"
     rank_display: 4
     org_id: 10803
+    gun_tag_ids: "103"
+    atk_speed_max: 60
+    ratio_rec: 105
+    recommended_team_ids: "9"
   }
   {
     id: 369
@@ -27778,6 +29226,10 @@
     gun_detail_bg: nation_US
     org_id: 10703
     show_damage_skin: ",0,7601,"
+    gun_tag_ids: "108,107"
+    atk_speed_max: 130
+    ratio_rec: 105
+    recommended_team_ids: "8"
   }
   {
     id: 370
@@ -27834,6 +29286,10 @@
     gun_detail_bg: nation_US
     org_id: 10402
     show_damage_skin: ",0,"
+    gun_tag_ids: "10102,110,104,106"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,7,8"
   }
   {
     id: 371
@@ -27896,6 +29352,10 @@
     gun_detail_bg: nation_Russia
     org_id: 10302
     show_damage_skin: ",0,"
+    gun_tag_ids: "108,10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,4"
   }
   {
     id: 372
@@ -27957,6 +29417,10 @@
     gun_detail_bg: nation_US
     org_id: 10202
     show_damage_skin: ",0,"
+    gun_tag_ids: "148,107,10101"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "6,7"
   }
   {
     id: 373
@@ -28011,6 +29475,10 @@
     gun_detail_bg: nation_US
     org_id: 10802
     show_damage_skin: ",0,"
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 98
+    recommended_team_ids: "6"
   }
   {
     id: 374
@@ -28077,6 +29545,10 @@
     gun_detail_bg: nation_Belgium
     org_id: 10402
     show_damage_skin: ",0,"
+    gun_tag_ids: "108,112,130"
+    atk_speed_max: 1000
+    ratio_rec: 106
+    recommended_team_ids: "3,5"
   }
   {
     id: 375
@@ -28133,6 +29605,10 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10701
+    gun_tag_ids: "103,113,124"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 376
@@ -28195,6 +29671,10 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10703
+    gun_tag_ids: "131,103"
+    atk_speed_max: 135
+    ratio_rec: 150
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 377
@@ -28266,6 +29746,10 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10402
+    gun_tag_ids: "103,108,134"
+    atk_speed_max: 125
+    ratio_rec: 96
+    recommended_team_ids: "2,4"
   }
   {
     id: 378
@@ -28337,6 +29821,10 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10201
+    gun_tag_ids: "118,103,134"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1,6,7"
   }
   {
     id: 379
@@ -28391,6 +29879,10 @@
     rank_display: 4
     org_id: 10301
     show_damage_skin: ",0,"
+    gun_tag_ids: "133,120,10102"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 380
@@ -28451,6 +29943,10 @@
     rank_display: 4
     org_id: 10402
     show_damage_skin: ",0,"
+    gun_tag_ids: "112,108,10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 381
@@ -28512,6 +30008,10 @@
     gun_detail_bg: nation_US
     org_id: 10705
     show_damage_skin: ",0,"
+    gun_tag_ids: "108"
+    atk_speed_max: 150
+    ratio_rec: 95
+    recommended_team_ids: "4"
   }
   {
     id: 382
@@ -28575,6 +30075,10 @@
     rank_display: 4
     org_id: 10402
     show_damage_skin: ",0,"
+    gun_tag_ids: "124,103"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 1001
@@ -28617,6 +30121,10 @@
     obtain_ids: "304,305"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "121"
+    atk_speed_max: 120
+    ratio_rec: 90
+    recommended_team_ids: "3"
   }
   {
     id: 1002
@@ -28664,6 +30172,10 @@
     obtain_ids: "303"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "117,121"
+    atk_speed_max: 60
+    ratio_rec: 125
+    recommended_team_ids: "5"
   }
   {
     id: 1009
@@ -28708,6 +30220,10 @@
     obtain_ids: "206"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 1010
@@ -28751,6 +30267,10 @@
     obtain_ids: "306"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "10102"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 1017
@@ -28795,6 +30315,10 @@
     rank_display: 7
     gun_detail_bg: collab
     related_story_id: 42
+    gun_tag_ids: "103,124"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 1018
@@ -28839,6 +30363,10 @@
     rank_display: 7
     gun_detail_bg: collab
     related_story_id: 42
+    gun_tag_ids: "10102,113"
+    atk_speed_max: 120
+    ratio_rec: 128
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 1019
@@ -28884,6 +30412,10 @@
     rank_display: 7
     gun_detail_bg: collab
     related_story_id: 42
+    gun_tag_ids: "125"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 1020
@@ -28929,6 +30461,10 @@
     rank_display: 7
     gun_detail_bg: collab
     related_story_id: 42
+    gun_tag_ids: "108"
+    atk_speed_max: 125
+    ratio_rec: 102
+    recommended_team_ids: "2,4"
   }
   {
     id: 1021
@@ -28976,6 +30512,10 @@
     rank_display: 7
     gun_detail_bg: collab
     related_story_id: 42
+    gun_tag_ids: "126"
+    atk_speed_max: 1000
+    ratio_rec: 118
+    recommended_team_ids: "9"
   }
   {
     id: 1022
@@ -29024,6 +30564,10 @@
     rank_display: 7
     gun_detail_bg: collab
     related_story_id: 42
+    gun_tag_ids: "117,121"
+    atk_speed_max: 60
+    ratio_rec: 122
+    recommended_team_ids: "5"
   }
   {
     id: 1023
@@ -29068,6 +30612,10 @@
     obtain_ids: "231"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "113,108"
+    atk_speed_max: 135
+    ratio_rec: 108
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 1024
@@ -29111,6 +30659,10 @@
     obtain_ids: "233"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "108,121"
+    atk_speed_max: 125
+    ratio_rec: 90
+    recommended_team_ids: "2,4"
   }
   {
     id: 1025
@@ -29158,6 +30710,10 @@
     obtain_ids: "233"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "108,121"
+    atk_speed_max: 60
+    ratio_rec: 115
+    recommended_team_ids: "5,9"
   }
   {
     id: 1026
@@ -29204,6 +30760,10 @@
     obtain_ids: "232"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 95
+    recommended_team_ids: "3,5"
   }
   {
     id: 1027
@@ -29248,6 +30808,10 @@
     obtain_ids: "232"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "108,124"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 1028
@@ -29357,6 +30921,10 @@
     obtain_ids: "238"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "132,135"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 1029
@@ -29469,6 +31037,10 @@
     obtain_ids: "237"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "121,135"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "6"
   }
   {
     id: 1030
@@ -29512,6 +31084,10 @@
     obtain_ids: "244"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "120,117,121,113"
+    atk_speed_max: 135
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 1031
@@ -29556,6 +31132,10 @@
     obtain_ids: "242"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "118,127,114,145,113"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 1032
@@ -29599,6 +31179,10 @@
     obtain_ids: "243"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "109,110"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 1033
@@ -29645,6 +31229,10 @@
     obtain_ids: "244"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "121,110,103,117,114"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 1034
@@ -29692,6 +31280,10 @@
     obtain_ids: "243"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "121,160,113,110"
+    atk_speed_max: 60
+    ratio_rec: 130
+    recommended_team_ids: "5,9"
   }
   {
     id: 1035
@@ -29736,6 +31328,10 @@
     obtain_ids: "254"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "10101,121,126,112"
+    atk_speed_max: 120
+    ratio_rec: 140
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 1036
@@ -29779,6 +31375,10 @@
     obtain_ids: "254"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "121,10102,112"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,7"
   }
   {
     id: 1037
@@ -29823,6 +31423,10 @@
     obtain_ids: "256"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "144,108,124,112"
+    atk_speed_max: 125
+    ratio_rec: 98
+    recommended_team_ids: "4"
   }
   {
     id: 1038
@@ -29867,6 +31471,10 @@
     obtain_ids: "255"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "124,109,112"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 1039
@@ -29910,6 +31518,10 @@
     obtain_ids: "255"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "103,113,112"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 1040
@@ -29955,6 +31567,10 @@
     obtain_ids: "254"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "160,121,112"
+    atk_speed_max: 1000
+    ratio_rec: 96
+    recommended_team_ids: "9"
   }
   {
     id: 1041
@@ -30000,6 +31616,10 @@
     obtain_ids: "256"
     rank_display: 7
     gun_detail_bg: collab
+    gun_tag_ids: "10102,144"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "9"
   }
   {
     id: 9001
@@ -30034,6 +31654,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9002
@@ -30068,6 +31690,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9003
@@ -30101,6 +31725,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 150
   }
   {
     id: 9004
@@ -30135,6 +31761,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 200
   }
   {
     id: 9005
@@ -30168,6 +31796,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9006
@@ -30202,6 +31832,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9007
@@ -30236,6 +31868,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9008
@@ -30270,6 +31904,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9009
@@ -30304,6 +31940,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9010
@@ -30338,6 +31976,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 200
   }
   {
     id: 9011
@@ -30372,6 +32012,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 200
   }
   {
     id: 9012
@@ -30468,6 +32110,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9013
@@ -30556,6 +32200,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 757
   }
   {
     id: 9014
@@ -30616,6 +32262,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 757
   }
   {
     id: 9015
@@ -30686,6 +32334,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 303
   }
   {
     id: 9016
@@ -30754,6 +32404,8 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 284
   }
   {
     id: 9017
@@ -30825,6 +32477,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 454
   }
   {
     id: 9018
@@ -30885,6 +32539,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 757
   }
   {
     id: 9019
@@ -30955,6 +32611,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 303
   }
   {
     id: 9020
@@ -31023,6 +32681,8 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 284
   }
   {
     id: 9021
@@ -31094,6 +32754,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 909
   }
   {
     id: 9022
@@ -31182,6 +32844,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1515
   }
   {
     id: 9023
@@ -31242,6 +32906,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 1515
   }
   {
     id: 9024
@@ -31312,6 +32978,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 606
   }
   {
     id: 9025
@@ -31383,6 +33051,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 909
   }
   {
     id: 9026
@@ -31471,6 +33141,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1515
   }
   {
     id: 9027
@@ -31531,6 +33203,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "203"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 1515
   }
   {
     id: 9028
@@ -31599,6 +33273,8 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 568
   }
   {
     id: 9029
@@ -31670,6 +33346,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 454
   }
   {
     id: 9030
@@ -31758,6 +33436,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 757
   }
   {
     id: 9031
@@ -31828,6 +33508,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 303
   }
   {
     id: 9032
@@ -31896,6 +33578,8 @@
     ai: 176
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 284
   }
   {
     id: 9034
@@ -31977,6 +33661,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9035
@@ -32047,6 +33733,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 105
   }
   {
     id: 9036
@@ -32147,6 +33835,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 1000
   }
   {
     id: 9037
@@ -32249,6 +33939,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 950
   }
   {
     id: 9038
@@ -32333,6 +34025,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 7200
   }
   {
     id: 9039
@@ -32406,6 +34100,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1050
   }
   {
     id: 9040
@@ -32446,6 +34142,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9041
@@ -32486,6 +34184,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9042
@@ -32526,6 +34226,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9043
@@ -32566,6 +34268,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9044
@@ -32604,6 +34308,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1100
   }
   {
     id: 9045
@@ -32638,6 +34344,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9046
@@ -32672,6 +34380,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9047
@@ -32706,6 +34416,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9048
@@ -32781,6 +34493,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1600
   }
   {
     id: 9049
@@ -32819,6 +34533,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 13000
   }
   {
     id: 9050
@@ -32856,6 +34572,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 18000
   }
   {
     id: 9051
@@ -32893,6 +34611,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 10000
   }
   {
     id: 9052
@@ -32930,6 +34650,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 11000
   }
   {
     id: 9053
@@ -33006,6 +34728,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1800
   }
   {
     id: 9054
@@ -33044,6 +34768,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9055
@@ -33080,6 +34806,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9056
@@ -33122,6 +34850,8 @@
     obtain_ids: "222"
     rank_display: 7
     gun_detail_bg: collab
+    atk_speed_max: 120
+    ratio_rec: 90
   }
   {
     id: 9057
@@ -33164,6 +34894,8 @@
     obtain_ids: "222"
     rank_display: 7
     gun_detail_bg: collab
+    atk_speed_max: 120
+    ratio_rec: 90
   }
   {
     id: 9058
@@ -33198,6 +34930,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 400
   }
   {
     id: 9059
@@ -33232,6 +34966,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 400
   }
   {
     id: 9060
@@ -33270,6 +35006,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1800
   }
   {
     id: 9061
@@ -33307,6 +35045,8 @@
     ai: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 120
   }
   {
     id: 9062
@@ -33344,6 +35084,8 @@
     ai: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 120
   }
   {
     id: 9063
@@ -33383,6 +35125,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1800
   }
   {
     id: 9064
@@ -33466,6 +35210,8 @@
     ai: 65
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 108
   }
   {
     id: 9065
@@ -33547,6 +35293,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 68
   }
   {
     id: 9066
@@ -33629,6 +35377,8 @@
     ai: 65
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 108
   }
   {
     id: 9067
@@ -33709,6 +35459,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 68
   }
   {
     id: 9068
@@ -33745,6 +35497,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 226
   }
   {
     id: 9069
@@ -33782,6 +35536,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9070
@@ -33821,6 +35577,8 @@
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
     gun_detail_bg: collab
+    atk_speed_max: 120
+    ratio_rec: 115
   }
   {
     id: 9071
@@ -33859,6 +35617,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1800
   }
   {
     id: 9072
@@ -33897,6 +35657,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1800
   }
   {
     id: 9073
@@ -33936,6 +35698,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9074
@@ -33976,6 +35740,8 @@
     is_additional: 1
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 500
   }
   {
     id: 9075
@@ -34012,6 +35778,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 226
   }
   {
     id: 9076
@@ -34048,6 +35816,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 226
   }
   {
     id: 9077
@@ -34086,6 +35856,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 500
   }
   {
     id: 9078
@@ -34125,6 +35897,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9079
@@ -34163,6 +35937,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 75
   }
   {
     id: 9080
@@ -34200,6 +35976,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9081
@@ -34240,6 +36018,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9082
@@ -34280,6 +36060,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9083
@@ -34320,6 +36102,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "6"
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9084
@@ -34360,6 +36144,8 @@
     launch_time: 2030-12-31 23:59:59
     obtain_ids: "1,2"
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 9085
@@ -34396,6 +36182,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 800
   }
   {
     id: 9086
@@ -34431,6 +36219,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9087
@@ -34466,6 +36256,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9088
@@ -34501,6 +36293,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9089
@@ -34539,6 +36333,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9090
@@ -34622,6 +36418,8 @@
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
     gun_detail_bg: collab
+    atk_speed_max: 120
+    ratio_rec: 272
   }
   {
     id: 9091
@@ -34677,6 +36475,8 @@
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
     gun_detail_bg: nation_Russia
+    atk_speed_max: 120
+    ratio_rec: 113
   }
   {
     id: 9092
@@ -34745,6 +36545,8 @@
     rank_display: 5
     explore_tag: "49,52"
     gun_detail_bg: nation_Belgium
+    atk_speed_max: 120
+    ratio_rec: 341
   }
   {
     id: 9093
@@ -34808,6 +36610,8 @@
     ai: 4
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 227
   }
   {
     id: 9094
@@ -34889,6 +36693,8 @@
     ai: 125
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 242
   }
   {
     id: 9095
@@ -34927,6 +36733,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9096
@@ -34965,6 +36773,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9097
@@ -35003,6 +36813,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9098
@@ -35042,6 +36854,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1100
   }
   {
     id: 9099
@@ -35082,6 +36896,8 @@
     ai: 54
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1100
   }
   {
     id: 9100
@@ -35120,6 +36936,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 500
   }
   {
     id: 9101
@@ -35158,6 +36976,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9102
@@ -35197,6 +37017,8 @@
     ai: 65
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 108
   }
   {
     id: 9103
@@ -35236,6 +37058,8 @@
     ai: 55
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 100
   }
   {
     id: 9104
@@ -35274,6 +37098,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 115
   }
   {
     id: 9105
@@ -35315,6 +37141,8 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 3
+    atk_speed_max: 120
+    ratio_rec: 650
   }
   {
     id: 9106
@@ -35356,6 +37184,8 @@
     ai: 20
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 500
   }
   {
     id: 9107
@@ -35400,6 +37230,8 @@
     launch_time: 2030-12-31 23:59:59
     rank_display: 7
     gun_detail_bg: collab
+    atk_speed_max: 120
+    ratio_rec: 140
   }
   {
     id: 9108
@@ -35444,6 +37276,8 @@
     launch_time: 2030-12-31 23:59:59
     rank_display: 7
     gun_detail_bg: collab
+    atk_speed_max: 120
+    ratio_rec: 98
   }
   {
     id: 9109
@@ -35484,6 +37318,338 @@
     ai: 6
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 650
+  }
+  {
+    id: 9110
+    name: gun-10009110
+    en_name: Dandelion_Gri
+    code: Dandelion_Gri
+    extra: gun-40009110
+    en_introduce: gun-50009110
+    character: gun-60009110
+    type: 2
+    rank: 5
+    develop_duration: 9300
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 1200
+    ratio_pow: 120
+    ratio_rate: 112
+    ratio_speed: 60
+    ratio_hit: 120
+    ratio_dodge: 98
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 100
+    ratio_range: 999
+    skill1: 100107
+    normal_attack: 755307
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1200
+  }
+  {
+    id: 9111
+    name: gun-10009111
+    en_name: Ahmin
+    code: Ahmin_battle
+    extra: gun-40009111
+    en_introduce: gun-50009111
+    character: gun-60009111
+    type: 2
+    rank: 5
+    develop_duration: 9300
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 800
+    ratio_pow: 120
+    ratio_rate: 112
+    ratio_speed: 60
+    ratio_hit: 250
+    ratio_dodge: 60
+    eat_ratio: 100
+    ratio_range: 100
+    skill1: 100107
+    normal_attack: 300103
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 800
+  }
+  {
+    id: 9112
+    name: gun-10009112
+    en_name: Pamzan_Young
+    code: Pamazan_Young_NPC
+    extra: gun-40009112
+    en_introduce: gun-50009112
+    character: gun-60009112
+    type: 2
+    rank: 5
+    develop_duration: 9300
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 800
+    ratio_pow: 120
+    ratio_rate: 112
+    ratio_speed: 60
+    ratio_hit: 250
+    ratio_dodge: 60
+    eat_ratio: 100
+    ratio_range: 100
+    skill1: 100107
+    normal_attack: 300103
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 800
+  }
+  {
+    id: 9113
+    name: gun-10009113
+    en_name: Ange_01
+    code: Ange_battle_01
+    extra: gun-40009113
+    en_introduce: gun-50009113
+    character: gun-60009113
+    type: 1
+    rank: 5
+    develop_duration: 3000
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 1200
+    ratio_pow: 100
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 100
+    ratio_dodge: 100
+    eat_ratio: 98
+    ratio_range: 100
+    skill1: 100504
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1200
+  }
+  {
+    id: 9114
+    name: gun-10009114
+    en_name: Ange_02
+    code: Ange_battle_02
+    extra: gun-40009114
+    en_introduce: gun-50009114
+    character: gun-60009114
+    type: 1
+    rank: 5
+    develop_duration: 3000
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 1200
+    ratio_pow: 100
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 100
+    ratio_dodge: 100
+    eat_ratio: 98
+    ratio_range: 100
+    skill1: 100504
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1200
+  }
+  {
+    id: 9115
+    name: gun-10009115
+    en_name: Ange_03
+    code: Ange_battle_03
+    extra: gun-40009115
+    en_introduce: gun-50009115
+    character: gun-60009115
+    type: 1
+    rank: 5
+    develop_duration: 3000
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 1200
+    ratio_pow: 100
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 100
+    ratio_dodge: 100
+    eat_ratio: 98
+    ratio_range: 100
+    skill1: 100504
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1200
+  }
+  {
+    id: 9116
+    name: gun-10009116
+    en_name: Ange_04
+    code: Ange_battle_04
+    extra: gun-40009116
+    en_introduce: gun-50009116
+    character: gun-60009116
+    type: 1
+    rank: 5
+    develop_duration: 3000
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 1200
+    ratio_pow: 100
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 100
+    ratio_dodge: 100
+    eat_ratio: 98
+    ratio_range: 100
+    skill1: 100504
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1200
+  }
+  {
+    id: 9117
+    name: gun-10009117
+    en_name: NPC_Laplace
+    code: NPC_Laplace
+    extra: gun-40009117
+    en_introduce: gun-50009117
+    character: gun-60009117
+    type: 1
+    rank: 5
+    develop_duration: 3000
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 1200
+    ratio_pow: 100
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 100
+    ratio_dodge: 100
+    eat_ratio: 98
+    ratio_range: 100
+    skill1: 100504
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "8"
+    effect_grid_effect: "2,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 20
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1200
   }
   {
     id: 20001
@@ -35561,6 +37727,10 @@
     prize_id: 3001
     explore_tag: "52"
     gun_detail_bg: nation_US
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 132
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20002
@@ -35644,6 +37814,10 @@
     prize_id: 3002
     explore_tag: "68"
     gun_detail_bg: nation_US
+    gun_tag_ids: "10102,105,109"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 20005
@@ -35729,6 +37903,10 @@
     prize_id: 3005
     explore_tag: "6,25,54,58,70,73"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "10102,106"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,7,8"
   }
   {
     id: 20007
@@ -35815,6 +37993,10 @@
     prize_id: 3007
     explore_tag: "38"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "10101,108,127"
+    atk_speed_max: 130
+    ratio_rec: 125
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20008
@@ -35903,6 +38085,10 @@
     prize_id: 3008
     explore_tag: "14,37,48"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "103,113"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20010
@@ -36008,6 +38194,10 @@
     gun_detail_bg: nation_German
     related_story_id: 100010
     show_damage_skin: ",3905,"
+    gun_tag_ids: "10101"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20012
@@ -36108,6 +38298,10 @@
     prize_id: 3012
     explore_tag: "55,57,67"
     gun_detail_bg: nation_German
+    gun_tag_ids: "104,106,10101"
+    atk_speed_max: 120
+    ratio_rec: 125
+    recommended_team_ids: "2,3,4,6,7,8"
   }
   {
     id: 20013
@@ -36209,6 +38403,10 @@
     gun_detail_bg: nation_China
     related_story_id: 100013
     show_damage_skin: ",5507,0,"
+    gun_tag_ids: "10101,107"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20021
@@ -36298,6 +38496,10 @@
     explore_tag: "7,50,54,69"
     gun_detail_bg: nation_Russia
     related_story_id: 100021
+    gun_tag_ids: "121,105,103,136"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20026
@@ -36401,6 +38603,10 @@
     prize_id: 3026
     explore_tag: "6,18,58,70"
     gun_detail_bg: nation_German
+    gun_tag_ids: "120,108"
+    atk_speed_max: 135
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20029
@@ -36486,6 +38692,10 @@
     rank_display: 4
     prize_id: 3029
     explore_tag: "31,47,48,68"
+    gun_tag_ids: "121,105,129"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20031
@@ -36578,6 +38788,10 @@
     rank_display: 4
     prize_id: 3031
     gun_detail_bg: nation_Italy
+    gun_tag_ids: "110,105,121"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20032
@@ -36677,6 +38891,10 @@
     rank_display: 4
     prize_id: 3032
     explore_tag: "52"
+    gun_tag_ids: "121,105"
+    atk_speed_max: 120
+    ratio_rec: 98
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20037
@@ -36766,6 +38984,10 @@
     prize_id: 3037
     explore_tag: "31,45,67"
     gun_detail_bg: nation_US
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 20039
@@ -36838,13 +39060,13 @@
     skill1: 800605
     skill2: 800602
     normal_attack: 800601
-    passive_skill: "511030"
+    passive_skill: "511030,759099"
     dynamic_passive_skill: "800604"
     effect_grid_center: 13
     effect_guntype: "1"
     effect_grid_pos: "12"
     effect_grid_effect: "6,18"
-    type_equip1: 2;5
+    type_equip1: 2;5,19
     type_equip2: 1;1,2,3,13,18
     type_equip3: 3;15,20,23
     ai: 39
@@ -36854,6 +39076,10 @@
     prize_id: 3039
     explore_tag: "8,50,54,68"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "138,108,135"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 20044
@@ -36954,6 +39180,10 @@
     prize_id: 3044
     explore_tag: "37"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "138"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "8"
   }
   {
     id: 20046
@@ -37040,6 +39270,10 @@
     gun_detail_bg: nation_German
     related_story_id: 100046
     show_damage_skin: ",0,4301,"
+    gun_tag_ids: "138,118,136"
+    atk_speed_max: 135
+    ratio_rec: 98
+    recommended_team_ids: "8"
   }
   {
     id: 20049
@@ -37118,6 +39352,10 @@
     prize_id: 3049
     explore_tag: "53,75"
     gun_detail_bg: nation_China
+    gun_tag_ids: "108,148"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,4"
   }
   {
     id: 20050
@@ -37211,6 +39449,10 @@
     explore_tag: "14,17,35,79"
     related_story_id: 100050
     show_damage_skin: ",901,10,0,"
+    gun_tag_ids: "118,112,10101"
+    atk_speed_max: 150
+    ratio_rec: 100
+    recommended_team_ids: "4"
   }
   {
     id: 20051
@@ -37301,6 +39543,10 @@
     prize_id: 3051
     explore_tag: "3,49,64"
     gun_detail_bg: nation_Belgium
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,4"
   }
   {
     id: 20053
@@ -37398,6 +39644,10 @@
     rank_display: 6
     prize_id: 3053
     explore_tag: "60"
+    gun_tag_ids: "138,150,114"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "8"
   }
   {
     id: 20055
@@ -37495,6 +39745,10 @@
     prize_id: 3055
     explore_tag: "69,84"
     gun_detail_bg: team_ar
+    gun_tag_ids: "118,121,124"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1"
   }
   {
     id: 20056
@@ -37592,6 +39846,10 @@
     prize_id: 3056
     explore_tag: "84"
     gun_detail_bg: team_ar
+    gun_tag_ids: "121,153"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 20057
@@ -37676,7 +39934,7 @@
     skill1: 801003
     skill2: 801002
     normal_attack: 801001
-    passive_skill: "200402,201437,201002,202006,702017"
+    passive_skill: "200402,201437,201002,202006,702017,702041,756232,759077,759080,759081,759082"
     dynamic_passive_skill: "801004"
     effect_grid_center: 13
     effect_guntype: "2"
@@ -37692,6 +39950,10 @@
     prize_id: 3057
     explore_tag: "20,84"
     gun_detail_bg: team_ar
+    gun_tag_ids: "108,135"
+    atk_speed_max: 150
+    ratio_rec: 95
+    recommended_team_ids: "1"
   }
   {
     id: 20060
@@ -37789,6 +40051,10 @@
     prize_id: 3060
     explore_tag: "9,50,69"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "108,106"
+    atk_speed_max: 135
+    ratio_rec: 120
+    recommended_team_ids: "1,7"
   }
   {
     id: 20061
@@ -37876,6 +40142,10 @@
     prize_id: 3061
     explore_tag: "27,55"
     gun_detail_bg: nation_German
+    gun_tag_ids: "121,153"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "6"
   }
   {
     id: 20063
@@ -37981,6 +40251,10 @@
     prize_id: 3063
     explore_tag: "26,69"
     gun_detail_bg: nation_German
+    gun_tag_ids: "121,153,127,110"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "6"
   }
   {
     id: 20064
@@ -38068,6 +40342,10 @@
     prize_id: 3064
     explore_tag: "3,27,34,44,73"
     gun_detail_bg: nation_German
+    gun_tag_ids: "108,134"
+    atk_speed_max: 135
+    ratio_rec: 115
+    recommended_team_ids: "1"
   }
   {
     id: 20065
@@ -38182,6 +40460,10 @@
     prize_id: 3065
     explore_tag: "9,10,83,86"
     gun_detail_bg: team_404
+    gun_tag_ids: "121,153"
+    atk_speed_max: 150
+    ratio_rec: 110
+    recommended_team_ids: "6"
   }
   {
     id: 20066
@@ -38276,6 +40558,10 @@
     gun_detail_bg: nation_China
     related_story_id: 100066
     show_damage_skin: ",1905,0,7706,5065,"
+    gun_tag_ids: "121,153,158,124"
+    atk_speed_max: 135
+    ratio_rec: 130
+    recommended_team_ids: "6"
   }
   {
     id: 20071
@@ -38415,6 +40701,10 @@
     rank_display: 4
     prize_id: 3071
     explore_tag: "5,7,31,39,67"
+    gun_tag_ids: "108,10101,124"
+    atk_speed_max: 120
+    ratio_rec: 112
+    recommended_team_ids: "1,6,7"
   }
   {
     id: 20075
@@ -38512,6 +40802,118 @@
     prize_id: 3075
     explore_tag: "28,62"
     gun_detail_bg: nation_US
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 95
+    recommended_team_ids: "3,5"
+  }
+  {
+    id: 20080
+    name: M1919A4
+    en_name: M1919A4
+    code: M1919A4Mod
+    introduce:
+      '''
+      类型            中型机枪
+      总重            14公斤
+      全长            964毫米
+      操作人数         2至3名
+      弹药            .30-06 Springfield（U.S.）
+                      7.62×51mm NATO（U.S.）
+                      .303 British
+      枪机种类        后坐作用
+      发射速率        400–600发／分钟
+      枪口初速        850米／秒
+      有效射程        1,400米
+      供弹方式        M9弹链供弹
+      瞄准具型式      可调机械照门
+      '''
+    dialogue: M1919A4,加入啦！战斗的盛宴,快开始吧！
+    extra: 豆芽,吉田幸代,
+    en_introduce:
+      '''
+      Type                       Medium machine gun
+
+      Weight                     31 lb (14 kg) 
+
+      Length                     37.94 in (964 mm) 
+
+      Barrel length              24 in (610 mm)
+
+      Cartridge                  .30-06 Springfield (U.S.)
+
+                                 7.62×51mm NATO
+
+                                 .303 British
+
+                                 7.92×57mm Mauser
+
+                                 6.5×55mm
+
+                                 7.62×54mmR
+
+                                 8×63mm patron m/32
+
+                                 7.65×53mm Argentine
+
+                                 7.5×54mm French
+
+      Action                     Recoil-operated/short-recoil operation
+
+      Rate of fire               400–600 round/min (1200–1500 for AN/M2 variant)
+
+      Muzzle velocity            2,800 ft/s (850 m/s)
+
+      Effective firing range     1,500 yd (1,400 m) (maximum effective range)
+
+      Feed system                250-round belt
+      '''
+    type: 5
+    rank: 4
+    develop_duration: 20400
+    baseammo: 40
+    basemre: 30
+    ammo_add_withnumber: 25
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 5
+    retiremre: 2
+    retirepart: 5
+    ratio_life: 110
+    ratio_pow: 132
+    ratio_rate: 95
+    ratio_speed: 100
+    ratio_hit: 116
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 5
+    special: 9
+    eat_ratio: 116
+    ratio_range: 110
+    skill1: 740084
+    skill2: 740088
+    normal_attack: 740086
+    passive_skill: "300201,300202,740087,759272"
+    effect_grid_center: 19
+    effect_guntype: "6"
+    effect_grid_pos: "23,24,25"
+    effect_grid_effect: "3,30;8,12"
+    type_equip1: 2;5,17,19
+    type_equip2: 1;1,2,3,16,18
+    type_equip3: 3;14,21,20
+    ai: 80
+    launch_time: 2016-05-20 00:00:00
+    obtain_ids: "35"
+    rank_display: 4
+    prize_id: 3080
+    explore_tag: "8,11,60"
+    gun_detail_bg: nation_US
+    related_story_id: 100080
+    show_damage_skin: ",0,5066,7,"
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 20081
@@ -38601,6 +41003,10 @@
     prize_id: 3081
     explore_tag: "10,38,78"
     gun_detail_bg: nation_US
+    gun_tag_ids: "108,113"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5,9"
   }
   {
     id: 20088
@@ -38706,6 +41112,10 @@
     gun_detail_bg: nation_German
     related_story_id: 100088
     show_damage_skin: ",0,7205,"
+    gun_tag_ids: "108,114"
+    atk_speed_max: 1000
+    ratio_rec: 120
+    recommended_team_ids: "3,5"
   }
   {
     id: 20089
@@ -38804,6 +41214,10 @@
     rank_display: 4
     prize_id: 3089
     explore_tag: "17,20,25,27,47"
+    gun_tag_ids: "108,160"
+    atk_speed_max: 1000
+    ratio_rec: 105
+    recommended_team_ids: "3,5"
   }
   {
     id: 20091
@@ -38880,6 +41294,10 @@
     prize_id: 3091
     explore_tag: "8,11"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "103"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20093
@@ -38961,6 +41379,10 @@
     rank_display: 4
     prize_id: 3093
     explore_tag: "8,11,47"
+    gun_tag_ids: "108"
+    atk_speed_max: 120
+    ratio_rec: 85
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20094
@@ -39050,6 +41472,10 @@
     prize_id: 3094
     explore_tag: "53"
     gun_detail_bg: nation_China
+    gun_tag_ids: "110,105,10102"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20095
@@ -39136,6 +41562,10 @@
     prize_id: 3095
     explore_tag: "53"
     gun_detail_bg: nation_China
+    gun_tag_ids: "118,106,121,149"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "8"
   }
   {
     id: 20097
@@ -39219,6 +41649,10 @@
     prize_id: 3097
     explore_tag: "65,77"
     gun_detail_bg: nation_US
+    gun_tag_ids: "103,111,137"
+    atk_speed_max: 135
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20101
@@ -39306,6 +41740,10 @@
     prize_id: 3101
     explore_tag: "83"
     gun_detail_bg: team_404
+    gun_tag_ids: "110,105,113,103"
+    atk_speed_max: 135
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20103
@@ -39392,6 +41830,10 @@
     prize_id: 3103
     explore_tag: "35,37,83"
     gun_detail_bg: team_404
+    gun_tag_ids: "10102,105,142"
+    atk_speed_max: 135
+    ratio_rec: 133
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20104
@@ -39481,6 +41923,10 @@
     explore_tag: "44"
     gun_detail_bg: nation_German
     related_story_id: 100104
+    gun_tag_ids: "120,116,124"
+    atk_speed_max: 150
+    ratio_rec: 135
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20114
@@ -39561,6 +42007,10 @@
     rank_display: 6
     prize_id: 3114
     explore_tag: "9,17,27,40,47,82"
+    gun_tag_ids: "10102,116"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,8"
   }
   {
     id: 20115
@@ -39656,6 +42106,10 @@
     explore_tag: "31,40,65"
     related_story_id: 100115
     show_damage_skin: ",310,3101,5060,"
+    gun_tag_ids: "108,130,109,116"
+    atk_speed_max: 150
+    ratio_rec: 135
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20122
@@ -39749,6 +42203,10 @@
     prize_id: 3122
     explore_tag: "10,18,62,83,86"
     gun_detail_bg: team_404
+    gun_tag_ids: "118,114"
+    atk_speed_max: 150
+    ratio_rec: 110
+    recommended_team_ids: "1"
   }
   {
     id: 20124
@@ -39832,6 +42290,10 @@
     prize_id: 3124
     explore_tag: "32"
     gun_detail_bg: nation_US
+    gun_tag_ids: "138,127"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "8"
   }
   {
     id: 20125
@@ -39920,6 +42382,10 @@
     rank_display: 6
     prize_id: 3125
     gun_detail_bg: nation_German
+    gun_tag_ids: "108"
+    atk_speed_max: 1000
+    ratio_rec: 110
+    recommended_team_ids: "3,5"
   }
   {
     id: 20136
@@ -40026,6 +42492,10 @@
     prize_id: 3136
     explore_tag: "8"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "121,105"
+    atk_speed_max: 135
+    ratio_rec: 130
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20143
@@ -40101,6 +42571,10 @@
     prize_id: 3143
     explore_tag: "40,48,82,84"
     gun_detail_bg: team_ar
+    gun_tag_ids: "10102,108,116"
+    atk_speed_max: 150
+    ratio_rec: 115
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20152
@@ -40175,6 +42649,10 @@
     rank_display: 4
     prize_id: 3152
     gun_detail_bg: nation_US
+    gun_tag_ids: "117"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5"
   }
   {
     id: 20154
@@ -40254,6 +42732,10 @@
     rank_display: 4
     prize_id: 3154
     gun_detail_bg: nation_US
+    gun_tag_ids: "108,113,10102"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 20159
@@ -40332,6 +42814,10 @@
     rank_display: 4
     prize_id: 3159
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "117,129"
+    atk_speed_max: 60
+    ratio_rec: 110
+    recommended_team_ids: "5"
   }
   {
     id: 20161
@@ -40403,6 +42889,10 @@
     prize_id: 3161
     explore_tag: "53"
     gun_detail_bg: nation_China
+    gun_tag_ids: "108,109"
+    atk_speed_max: 60
+    ratio_rec: 120
+    recommended_team_ids: "5,9"
   }
   {
     id: 20171
@@ -40477,6 +42967,10 @@
     prize_id: 3171
     explore_tag: "56"
     related_story_id: 100171
+    gun_tag_ids: "103"
+    atk_speed_max: 135
+    ratio_rec: 105
+    recommended_team_ids: "6,7"
   }
   {
     id: 20178
@@ -40549,6 +43043,10 @@
     rank_display: 4
     prize_id: 3178
     explore_tag: "14,52"
+    gun_tag_ids: "10102,105,137"
+    atk_speed_max: 120
+    ratio_rec: 120
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20199
@@ -40629,6 +43127,10 @@
     prize_id: 3199
     explore_tag: "28,53"
     gun_detail_bg: nation_China
+    gun_tag_ids: "108,103,113"
+    atk_speed_max: 1000
+    ratio_rec: 108
+    recommended_team_ids: "3,5,9"
   }
   {
     id: 20200
@@ -40703,6 +43205,10 @@
     rank_display: 5
     prize_id: 3200
     gun_detail_bg: nation_US
+    gun_tag_ids: "108,106"
+    atk_speed_max: 150
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 20201
@@ -40784,6 +43290,10 @@
     prize_id: 3201
     explore_tag: "27"
     related_story_id: 100201
+    gun_tag_ids: "138,108,164"
+    atk_speed_max: 120
+    ratio_rec: 100
+    recommended_team_ids: "2,4,8"
   }
   {
     id: 20205
@@ -40864,6 +43374,91 @@
     explore_tag: "27"
     gun_detail_bg: team_defy
     related_story_id: 100205
+    gun_tag_ids: "118,157"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1"
+  }
+  {
+    id: 20212
+    name: K5
+    en_name: K5
+    code: K5Mod
+    introduce:
+      '''
+      类型            半自动手枪
+      总重            空枪：800克
+      全长            190毫米
+      枪管长度        105毫米
+      弹药            9×19毫米鲁格弹
+      枪机种类        枪管短行程后座作用，单/双动
+      枪口初速        350米／秒
+      有效射程        50米
+      供弹方式        12、13发可拆卸式弹匣
+                      异说为13发可拆卸式弹匣事实上可装14发
+                      10、13、14或15发史密斯威森M5906系列可拆式弹匣（会伸出超过弹匣插槽）
+      瞄准具型式      机械瞄具：固定金属缺口式照门和准星（三点式准星）
+      '''
+    dialogue: 果然，无数的迹象都在表明……指挥官，我和您的相遇，是命中注定的。
+    extra: Lpip,伊澄ちひろ,
+    en_introduce:
+      '''
+      Type                       Semi-automatic pistol
+      Weight                     734 g (25.9 oz) DP51
+                                 751 g (26.5 oz) DP51 MKII
+                                 686 g (24.2 oz) DP51C
+      Length                     178 mm (7.0 in) DP51 (MKII)
+                                 177.8 mm (7.0 in) DP51C
+      Barrel length              104.14 mm (4.1 in)DP51 (MKII)
+                                 91.14 mm (3.6 in) DP51C
+      Cartridge                  9×19mm Parabellum
+      Action                     Semi-automatic
+      Effective firing range     50 m
+      Feed system                13- or 15-round magazine DP51 (MKII)
+      Sights                     Iron sights
+      '''
+    type: 1
+    rank: 5
+    develop_duration: 3180
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 110
+    ratio_pow: 112
+    ratio_rate: 118
+    ratio_speed: 100
+    ratio_hit: 115
+    ratio_dodge: 122
+    armor_piercing: 15
+    crit: 40
+    eat_ratio: 110
+    ratio_range: 100
+    skill1: 740077
+    skill2: 740078
+    normal_attack: 300101
+    dynamic_passive_skill: "740081,740082,740083"
+    effect_grid_center: 13
+    effect_grid_pos: "7,8,9,12,14,18"
+    effect_grid_effect: "1,18;3,20"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6
+    type_equip3: 3;10,20
+    ai: 212
+    launch_time: 2018-03-22 00:00:00
+    obtain_ids: "35"
+    rank_display: 5
+    prize_id: 3212
+    explore_tag: "29,37,61"
+    related_story_id: 100212
+    show_damage_skin: ",0,5067,2002,3308,5306,6905,"
+    gun_tag_ids: "103,120"
+    atk_speed_max: 120
+    ratio_rec: 110
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20216
@@ -40940,6 +43535,10 @@
     explore_tag: "30"
     gun_detail_bg: nation_German
     related_story_id: 100216
+    gun_tag_ids: "121,153,145,10102,110"
+    atk_speed_max: 120
+    ratio_rec: 98
+    recommended_team_ids: "6"
   }
   {
     id: 20220
@@ -41016,6 +43615,10 @@
     explore_tag: "10"
     gun_detail_bg: nation_Russia
     related_story_id: 100220
+    gun_tag_ids: "103"
+    atk_speed_max: 120
+    ratio_rec: 115
+    recommended_team_ids: "2,3,4,6,8"
   }
   {
     id: 20221
@@ -41097,6 +43700,10 @@
     prize_id: 3221
     explore_tag: "13,29"
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "108,113"
+    atk_speed_max: 120
+    ratio_rec: 108
+    recommended_team_ids: "3"
   }
   {
     id: 20228
@@ -41170,6 +43777,11 @@
     rank_display: 6
     prize_id: 3228
     related_story_id: 100228
+    show_damage_skin: ",0,2903,4905,7102,4004,8804,"
+    gun_tag_ids: "113,108,103,116"
+    atk_speed_max: 150
+    ratio_rec: 150
+    recommended_team_ids: "1,2,3,6,7"
   }
   {
     id: 20230
@@ -41245,6 +43857,10 @@
     gun_detail_bg: nation_US
     related_story_id: 100230
     show_damage_skin: ",0,5061,5407,"
+    gun_tag_ids: "108,114"
+    atk_speed_max: 120
+    ratio_rec: 95
+    recommended_team_ids: "2,4"
   }
   {
     id: 20252
@@ -41318,6 +43934,76 @@
     rank_display: 5
     prize_id: 3252
     gun_detail_bg: nation_Russia
+    gun_tag_ids: "138,121"
+    atk_speed_max: 125
+    ratio_rec: 100
+    recommended_team_ids: "8"
+  }
+  {
+    id: 20282
+    name: DP-12
+    en_name: DP-12
+    code: DP12Mod
+    extra: Pandea_work,甲斐田裕子,
+    en_introduce:
+      '''
+      Type                       Bullpup pump-action shotgun
+      Mass                       9.3 lb (4.2 kg)
+      Length                     29.5 in (75 cm)
+      Height                     7 in (18 cm)                           
+      Cartridge                  12 gauge (2¾" shells)
+      Caliber                    12 gauge
+      Action                     Pump action
+      Feed system                7+7+2 (2¾") dual internal tube
+      Sights                     Iron sights are not standard
+      '''
+    type: 6
+    rank: 6
+    develop_duration: 29580
+    baseammo: 30
+    basemre: 40
+    ammo_add_withnumber: 15
+    mre_add_withnumber: 25
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    retirepart: 5
+    ratio_life: 118
+    ratio_pow: 110
+    ratio_rate: 146
+    ratio_speed: 100
+    ratio_hit: 115
+    ratio_dodge: 110
+    ratio_armor: 129
+    armor_piercing: 15
+    crit: 40
+    special: 5
+    eat_ratio: 112
+    ratio_range: 100
+    skill1: 740090
+    skill2: 740062
+    normal_attack: 740067
+    passive_skill: "300202"
+    dynamic_passive_skill: "740063,740064,740065,740066"
+    effect_grid_center: 8
+    effect_guntype: "3,5"
+    effect_grid_pos: "2,3,4"
+    effect_grid_effect: "1,18;3,18"
+    type_equip1: 3;11,20
+    type_equip2: 2;7
+    type_equip3: 1;1,2,3,4,22
+    ai: 164
+    launch_time: 2019-11-19 00:00:00
+    obtain_ids: "35"
+    rank_display: 6
+    prize_id: 3282
+    gun_detail_bg: nation_US
+    related_story_id: 100282
+    show_damage_skin: ",0,8101,8601,"
+    gun_tag_ids: "109,160,113,162,108"
+    atk_speed_max: 60
+    ratio_rec: 133
+    recommended_team_ids: "5,9"
   }
   {
     id: 20293
@@ -41379,6 +44065,10 @@
     prize_id: 3293
     gun_detail_bg: team_defy
     related_story_id: 100293
+    gun_tag_ids: "118,124,120,157,132,139"
+    atk_speed_max: 150
+    ratio_rec: 105
+    recommended_team_ids: "1"
   }
   {
     id: 30156
@@ -41452,6 +44142,8 @@
     ai: 156
     launch_time: 2030-12-31 23:59:59
     rank_display: 4
+    atk_speed_max: 120
+    ratio_rec: 110
   }
   {
     id: 30164
@@ -41524,6 +44216,8 @@
     ai: 164
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 118
   }
   {
     id: 30229
@@ -41596,6 +44290,8 @@
     ai: 229
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 120
   }
   {
     id: 90001
@@ -41678,5 +44374,7 @@
     ai: 21
     launch_time: 2030-12-31 23:59:59
     rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 110
   }
 ]

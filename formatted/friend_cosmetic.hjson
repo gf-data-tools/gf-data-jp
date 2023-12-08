@@ -288,6 +288,7 @@
     order: 1
     rarity: 1
     filter_type: "2"
+    event_id: 2662
   }
   {
     id: 22
@@ -300,6 +301,7 @@
     order: 2
     rarity: 2
     filter_type: "3"
+    event_id: 2663
   }
   {
     id: 23
@@ -312,6 +314,7 @@
     order: 2
     rarity: 3
     filter_type: "3"
+    event_id: 2664
   }
   {
     id: 24
@@ -349,6 +352,7 @@
     rarity: 10
     filter_type: "1"
     frame_id: 200005
+    event_id: 2666
   }
   {
     id: 27
@@ -362,6 +366,7 @@
     rarity: 10
     filter_type: "1"
     frame_id: 200005
+    event_id: 2667
   }
   {
     id: 28
@@ -375,6 +380,7 @@
     rarity: 10
     filter_type: "1"
     frame_id: 200005
+    event_id: 2665
   }
   {
     id: 29
@@ -388,6 +394,7 @@
     rarity: 10
     filter_type: "1"
     frame_id: 200005
+    event_id: 2668
   }
   {
     id: 30
@@ -14204,6 +14211,78 @@
     frame_id: 200005
   }
   {
+    id: 1207
+    item_id: 2207
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Christmas2022_Delisle
+    order: 1
+    rarity: 5
+    skin: 7801
+  }
+  {
+    id: 1208
+    item_id: 2208
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Christmas2022_Lusa
+    order: 1
+    rarity: 5
+    skin: 7802
+  }
+  {
+    id: 1209
+    item_id: 2209
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Christmas2022_MPL
+    order: 1
+    rarity: 5
+    skin: 7804
+  }
+  {
+    id: 1210
+    item_id: 2210
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Christmas2022_MPK
+    order: 1
+    rarity: 5
+    skin: 7806
+  }
+  {
+    id: 1211
+    item_id: 2211
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Christmas2022_KSVK
+    order: 1
+    rarity: 5
+    skin: 7807
+  }
+  {
+    id: 1212
+    item_id: 2212
+    sub_type: 1
+    gem: 40
+    item_ids: 508-1000
+    onsale: 1
+    code: profilePic_Christmas2022_BrenTen
+    order: 1
+    rarity: 5
+    skin: 7809
+  }
+  {
     id: 1214
     item_id: 2214
     sub_type: 1
@@ -14725,6 +14804,26 @@
     frame_id: 200005
   }
   {
+    id: 1273
+    item_id: 2273
+    sub_type: 1
+    code: profilePic_rank4_M1919A4Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200001
+  }
+  {
+    id: 1274
+    item_id: 2274
+    sub_type: 1
+    code: profilePic_rank5_K5Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200002
+  }
+  {
     id: 1275
     item_id: 2275
     sub_type: 1
@@ -14732,6 +14831,16 @@
     order: 1
     rarity: 5
     filter_type: "5"
+  }
+  {
+    id: 1276
+    item_id: 2276
+    sub_type: 1
+    code: profilePic_rank6_DP12Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200003
   }
   {
     id: 1277
