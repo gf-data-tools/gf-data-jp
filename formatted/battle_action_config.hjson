@@ -21421,7 +21421,7 @@
     creation_delay: "0,53,64,85,58,69,90,93,58,69,90"
     sound_order: skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_isomer_disturbation
     sound_delay: "53,64,85,90"
-    effect_order: 3(Nyto_tareus;充能力场;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
+    effect_order: 3(Nyto_tareus;チャージ型障壁;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21436,7 +21436,7 @@
     creation_delay: "0,53,64,85,58,69,90,93,58,69,90"
     sound_order: skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_isomer_disturbation
     sound_delay: "53,64,85,90"
-    effect_order: 3(Nyto_tareus_1;充能力场;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
+    effect_order: 3(Nyto_tareus_1;チャージ型障壁;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"

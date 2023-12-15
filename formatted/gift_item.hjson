@@ -8265,6 +8265,20 @@
     normal_description: プレゼントすると好感度を獲得します
   }
   {
+    id: 7809
+    name: ふわふわいちごタルト
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 139
+    skin: 7809
+    poster: 37809
+    code: gift_bundle_Christmas2022_BrenTen
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
     id: 7902
     name: 銀樹の謝意
     type: 2
@@ -8918,6 +8932,20 @@
     skin: 30010
     poster: 330010
     code: gift_bundle_BattlePass_M1895
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 30011
+    name: ミス・ピッツバーグ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 366
+    skin: 30011
+    poster: 330011
+    code: gift_bundle_BattlePass_SPAS15
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     normal_description: プレゼントすると好感度を獲得します

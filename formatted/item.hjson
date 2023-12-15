@@ -664,6 +664,24 @@
     rank: 1
   }
   {
+    id: 126
+    type: 3
+    arg: "27"
+    code: Medal_TheaterJPAdd2nd
+    item_name: 離島局地戦区開拓者勲章
+    introduction: 離島局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「奮戦するあなたの姿は、永遠にこの波に刻まれるだろう」
+    rank: 1
+  }
+  {
+    id: 127
+    type: 3
+    arg: "28"
+    code: Medal_TheaterJPAdd2nd_rank
+    item_name: 離島局地戦区征服者勲章
+    introduction: 離島局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「どんな荒波にも畏れずに立ち向かえ！」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -12494,6 +12512,24 @@
     rank: 1
   }
   {
+    id: 2362
+    type: 5
+    arg: "1"
+    code: card_BattlePass_SPAS15
+    item_name: IDカード背景：デリシャスタイム
+    introduction: IDカード背景：デリシャスタイム
+    rank: 1
+  }
+  {
+    id: 2363
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_SPAS15
+    item_name: ミス・ピッツバーグ
+    introduction: ミス・ピッツバーグ
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15810,6 +15846,26 @@
     detail_introduction: item-30140022
   }
   {
+    id: 140023
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140023
+    introduction: item-20140023
+    rank: 1
+    detail_introduction: item-30140023
+  }
+  {
+    id: 140024
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140024
+    introduction: item-20140024
+    rank: 1
+    detail_introduction: item-30140024
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16010,6 +16066,15 @@
     code: profileFrame_BattlePass_M1895
     item_name: アイコンフレーム：浜辺の航跡
     introduction: アイコンフレーム：浜辺の航跡
+    rank: 1
+  }
+  {
+    id: 200030
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_SPAS15
+    item_name: アイコンフレーム：ハンバーガーの匂い
+    introduction: アイコンフレーム：ハンバーガーの匂い
     rank: 1
   }
   {
@@ -17088,6 +17153,47 @@
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
+  }
+  {
+    id: 1500095
+    type: 15
+    arg: "1500095"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500096
+    type: 15
+    arg: "1500096"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500097
+    type: 15
+    arg: "1500097"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500098
+    type: 15
+    arg: "1500098"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500098
   }
   {
     id: 1600001

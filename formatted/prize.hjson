@@ -21165,6 +21165,30 @@
     content: prize-20008535
   }
   {
+    id: 8536
+    name: prize-10008536
+    item_ids: 140023-1
+    content: prize-20008536
+  }
+  {
+    id: 8537
+    name: prize-10008537
+    item_ids: 140024-1,10606-300,200030-1,2362-1
+    content: prize-20008537
+  }
+  {
+    id: 8538
+    name: prize-10008538
+    item_ids: 140024-1,10606-300,200030-1,2362-1
+    content: prize-20008538
+  }
+  {
+    id: 8539
+    name: prize-10008539
+    gift: 30001-1
+    content: prize-20008539
+  }
+  {
     id: 9101
     name: 2018年のクリスマスの思い出写真
     item_ids: 1212-1
@@ -21406,82 +21430,82 @@
     id: 10086
     name: イベント報酬
     ammo: 200
-    item_ids: 110025-20
+    item_ids: 110026-20
   }
   {
     id: 10087
     name: イベント報酬
     mre: 200
-    item_ids: 110025-30
+    item_ids: 110026-30
   }
   {
     id: 10088
     name: イベント報酬
     part: 100
-    item_ids: 110025-50
+    item_ids: 110026-50
   }
   {
     id: 10089
     name: イベント報酬
     part: 200
-    item_ids: 110025-100
+    item_ids: 110026-100
   }
   {
     id: 10090
     name: イベント報酬
     part: 300
-    item_ids: 110025-150
+    item_ids: 110026-150
   }
   {
     id: 10091
     name: イベント報酬
     mp: 100
-    item_ids: 110025-10
+    item_ids: 110026-10
   }
   {
     id: 10092
     name: イベント報酬
     part: 100
-    item_ids: 110025-30
+    item_ids: 110026-30
   }
   {
     id: 10093
     name: イベント報酬
     ammo: 200
-    item_ids: 110025-10
+    item_ids: 110026-10
   }
   {
     id: 10094
     name: イベント報酬
     mre: 200
-    item_ids: 110025-20
+    item_ids: 110026-20
   }
   {
     id: 10095
     name: イベント報酬
-    item_ids: 1-10,110025-200
+    item_ids: 1-10,110026-200
   }
   {
     id: 10096
     name: イベント報酬
     part: 100
-    item_ids: 110025-30
+    item_ids: 110026-30
   }
   {
     id: 10097
     name: イベント報酬
     part: 200
-    item_ids: 110025-50
+    item_ids: 110026-50
   }
   {
     id: 10098
     name: イベント報酬
-    item_ids: 41-20,110025-50
+    item_ids: 41-20,110026-50
   }
   {
     id: 10099
     name: イベント報酬
-    item_ids: 45-200,110025-200
+    item_ids: 45-200,110026-200
   }
   {
     id: 10100
@@ -21519,7 +21543,7 @@
   {
     id: 10105
     name: 活躍報酬
-    gift: 8612-1,100003-10
+    gift: 7809-1,100003-10
     icon: Bumdle_bline
   }
   {
@@ -21557,12 +21581,12 @@
   {
     id: 10111
     name: イベント報酬
-    item_ids: 110025-200,45-200
+    item_ids: 110026-200,45-200
   }
   {
     id: 10112
     name: イベント報酬
-    item_ids: 110025-100,45-100
+    item_ids: 110026-100,45-100
   }
   {
     id: 10113
@@ -41620,6 +41644,32 @@
     content: prize-20120085
   }
   {
+    id: 120086
+    name: prize-10120086
+    item_ids: 41-30,1500095-1
+    content: prize-20120086
+  }
+  {
+    id: 120087
+    name: prize-10120087
+    item_ids: 41-30
+    gift: 30011-1
+    content: prize-20120087
+  }
+  {
+    id: 120088
+    name: prize-10120088
+    item_ids: 41-30,1500096-1
+    content: prize-20120088
+  }
+  {
+    id: 120089
+    name: prize-10120089
+    gem: 680
+    item_ids: 1500097-1
+    content: prize-20120089
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -41840,6 +41890,24 @@
     name: prize-10130033
     item_ids: 10606-300,200028-1,2343-1
     content: prize-20130033
+  }
+  {
+    id: 130034
+    name: prize-10130034
+    item_ids: 1500098-1
+    content: prize-20130034
+  }
+  {
+    id: 130035
+    name: prize-10130035
+    item_ids: 602-1,1500095-1,1500096-1,505-680
+    content: prize-20130035
+  }
+  {
+    id: 130036
+    name: prize-10130036
+    item_ids: 10606-300,200030-1,2362-1
+    content: prize-20130036
   }
   {
     id: 140001
@@ -42500,6 +42568,54 @@
     name: prize-10140108
     gun_id: "303"
     content: prize-20140108
+  }
+  {
+    id: 140109
+    name: prize-10140109
+    gun_id: "307"
+    content: prize-20140109
+  }
+  {
+    id: 140110
+    name: prize-10140110
+    gun_id: "245"
+    content: prize-20140110
+  }
+  {
+    id: 140111
+    name: prize-10140111
+    gun_id: "312"
+    content: prize-20140111
+  }
+  {
+    id: 140112
+    name: prize-10140112
+    gun_id: "125"
+    content: prize-20140112
+  }
+  {
+    id: 140113
+    name: prize-10140113
+    gun_id: "260"
+    content: prize-20140113
+  }
+  {
+    id: 140114
+    name: prize-10140114
+    gun_id: "365"
+    content: prize-20140114
+  }
+  {
+    id: 140115
+    name: prize-10140115
+    gun_id: "148"
+    content: prize-20140115
+  }
+  {
+    id: 140116
+    name: prize-10140116
+    gun_id: "173"
+    content: prize-20140116
   }
   {
     id: 150001
@@ -45709,6 +45825,418 @@
   }
   {
     id: 330398
+    name: 局地戦区最終ステージランキング上位51%～100%報酬
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    icon: Bumdle_red
+  }
+  {
+    id: 330399
+    name: 局地戦区3000ポイント報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    icon: Bumdle_red
+  }
+  {
+    id: 330400
+    name: 局地戦区30000ポイント報酬
+    item_ids: 309-1,506-100,9-50
+    icon: CentreDataMK47
+  }
+  {
+    id: 330401
+    name: 局地戦区60000ポイント報酬
+    item_ids: 309-2,46-100
+    icon: CentreDataMK47
+  }
+  {
+    id: 330402
+    name: 局地戦区90000ポイント報酬
+    item_ids: 309-3,46-100,506-100
+    coins: 1-500
+    icon: CentreDataMK47
+  }
+  {
+    id: 330403
+    name: 局地戦区120000ポイント報酬
+    item_ids: 8-1,41-20,9-50
+    icon: Bumdle_red
+  }
+  {
+    id: 330404
+    name: 局地戦区155000ポイント報酬
+    item_ids: 309-4,46-200,506-100
+    icon: CentreDataMK47
+  }
+  {
+    id: 330405
+    name: 局地戦区190000ポイント報酬
+    item_ids: 46-200
+    coins: 2-500
+    icon: Bumdle_red
+  }
+  {
+    id: 330406
+    name: 局地戦区225000ポイント報酬
+    item_ids: 309-5,506-100,44-200,9-50
+    icon: CentreDataMK47
+  }
+  {
+    id: 330407
+    name: 局地戦区260000ポイント報酬
+    item_ids: 8-1
+    coins: 3-500
+    icon: Bumdle_red
+  }
+  {
+    id: 330408
+    name: 局地戦区300000ポイント報酬
+    item_ids: 309-5,46-200,506-100
+    icon: CentreDataMK47
+  }
+  {
+    id: 330409
+    name: 局地戦区340000ポイント報酬
+    item_ids: 126-1,41-50
+    icon: Bumdle_red
+  }
+  {
+    id: 330410
+    name: 局地戦区380000ポイント報酬
+    item_ids: 9-100,46-300,10604-5
+    icon: Bumdle_red
+  }
+  {
+    id: 330411
+    name: 局地戦区430000ポイント報酬
+    item_ids: 46-300,506-200,10604-5
+    icon: Bumdle_red
+  }
+  {
+    id: 330412
+    name: 局地戦区480000ポイント報酬
+    item_ids: 8-1,44-300,10604-5
+    icon: Bumdle_red
+  }
+  {
+    id: 330413
+    name: 局地戦区ポイントランキング1位報酬
+    item_ids: 309-40,9-100,46-500,506-500
+    coins: 1-500,2-500,3-500
+    icon: Bumdle_red
+  }
+  {
+    id: 330414
+    name: 局地戦区ポイントランキング2位報酬
+    item_ids: 309-39,9-95,46-475,506-475
+    coins: 1-475,2-475,3-475
+    icon: Bumdle_red
+  }
+  {
+    id: 330415
+    name: 局地戦区ポイントランキング3位報酬
+    item_ids: 309-38,9-90,46-450,506-450
+    coins: 1-450,2-450,3-450
+    icon: Bumdle_red
+  }
+  {
+    id: 330416
+    name: 局地戦区ポイントランキング4位報酬
+    item_ids: 309-37,9-85,46-425,506-425
+    coins: 1-425,2-425,3-425
+    icon: Bumdle_red
+  }
+  {
+    id: 330417
+    name: 局地戦区ポイントランキング5位報酬
+    item_ids: 309-36,9-80,46-400,506-400
+    coins: 1-400,2-400,3-400
+    icon: Bumdle_red
+  }
+  {
+    id: 330418
+    name: 局地戦区ポイントランキング6位報酬
+    item_ids: 309-35,9-75,46-375,506-375
+    coins: 1-375,2-375,3-375
+    icon: Bumdle_red
+  }
+  {
+    id: 330419
+    name: 局地戦区ポイントランキング7位報酬
+    item_ids: 309-35,9-70,46-350,506-350
+    coins: 1-350,2-350,3-350
+    icon: Bumdle_red
+  }
+  {
+    id: 330420
+    name: 局地戦区ポイントランキング8位報酬
+    item_ids: 309-35,9-65,46-325,506-325
+    coins: 1-325,2-325,3-325
+    icon: Bumdle_red
+  }
+  {
+    id: 330421
+    name: 局地戦区ポイントランキング9位報酬
+    item_ids: 309-35,9-60,46-300,506-300
+    coins: 1-300,2-300,3-300
+    icon: Bumdle_red
+  }
+  {
+    id: 330422
+    name: 局地戦区ポイントランキング10位報酬
+    item_ids: 309-35,9-55,46-275,506-275
+    coins: 1-275,2-275,3-275
+    icon: Bumdle_red
+  }
+  {
+    id: 330423
+    name: 局地戦区ポイントランキング11~100位報酬
+    item_ids: 309-32,9-50,46-250,506-250
+    coins: 1-250,2-250,3-250
+    icon: Bumdle_red
+  }
+  {
+    id: 330424
+    name: 局地戦区ポイントランキング上位1%～5%報酬
+    item_ids: 309-30,9-45,46-225,506-225
+    coins: 1-225,2-225,3-225
+    icon: Bumdle_red
+  }
+  {
+    id: 330425
+    name: 局地戦区ポイントランキング上位6%～10%報酬
+    item_ids: 309-25,9-40,46-200,506-200
+    coins: 1-200,2-200,3-200
+    icon: Bumdle_red
+  }
+  {
+    id: 330426
+    name: 局地戦区ポイントランキング上位11%～15%報酬
+    item_ids: 309-20,9-35,46-175,506-175
+    coins: 1-175,2-175,3-175
+    icon: Bumdle_red
+  }
+  {
+    id: 330427
+    name: 局地戦区ポイントランキング上位16%～20%報酬
+    item_ids: 309-15,9-30,46-150,506-150
+    coins: 1-150,2-150,3-150
+    icon: Bumdle_red
+  }
+  {
+    id: 330428
+    name: 局地戦区ポイントランキング上位21%～30%報酬
+    item_ids: 309-10,9-25,46-125,506-125
+    coins: 1-125,2-125,3-125
+    icon: Bumdle_red
+  }
+  {
+    id: 330429
+    name: 局地戦区ポイントランキング上位31%～40%報酬
+    item_ids: 309-5,9-20,46-100,506-100
+    coins: 1-100,2-100,3-100
+    icon: Bumdle_red
+  }
+  {
+    id: 330430
+    name: 局地戦区ポイントランキング上位41%～50%報酬
+    item_ids: 309-2,9-15,46-75,506-75
+    coins: 1-75,2-75,3-75
+    icon: Bumdle_red
+  }
+  {
+    id: 330431
+    name: 局地戦区ポイントランキング上位51%～100%報酬
+    item_ids: 9-10,46-50,506-50
+    coins: 1-50,2-50,3-50
+    icon: Bumdle_red
+  }
+  {
+    id: 330432
+    name: 局地戦区最終ステージランキング1位報酬
+    mp: 10000
+    ammo: 10000
+    mre: 10000
+    part: 10000
+    item_ids: 127-12
+    icon: Bumdle_red
+  }
+  {
+    id: 330433
+    name: 局地戦区最終ステージランキング2位報酬
+    mp: 9500
+    ammo: 9500
+    mre: 9500
+    part: 9500
+    item_ids: 127-11
+    icon: Bumdle_red
+  }
+  {
+    id: 330434
+    name: 局地戦区最終ステージランキング3位報酬
+    mp: 9000
+    ammo: 9000
+    mre: 9000
+    part: 9000
+    item_ids: 127-10
+    icon: Bumdle_red
+  }
+  {
+    id: 330435
+    name: 局地戦区最終ステージランキング4位報酬
+    mp: 8500
+    ammo: 8500
+    mre: 8500
+    part: 8500
+    item_ids: 127-9
+    icon: Bumdle_red
+  }
+  {
+    id: 330436
+    name: 局地戦区最終ステージランキング5位報酬
+    mp: 8000
+    ammo: 8000
+    mre: 8000
+    part: 8000
+    item_ids: 127-8
+    icon: Bumdle_red
+  }
+  {
+    id: 330437
+    name: 局地戦区最終ステージランキング6位報酬
+    mp: 7500
+    ammo: 7500
+    mre: 7500
+    part: 7500
+    item_ids: 127-7
+    icon: Bumdle_red
+  }
+  {
+    id: 330438
+    name: 局地戦区最終ステージランキング7位報酬
+    mp: 7000
+    ammo: 7000
+    mre: 7000
+    part: 7000
+    item_ids: 127-6
+    icon: Bumdle_red
+  }
+  {
+    id: 330439
+    name: 局地戦区最終ステージランキング8位報酬
+    mp: 6500
+    ammo: 6500
+    mre: 6500
+    part: 6500
+    item_ids: 127-5
+    icon: Bumdle_red
+  }
+  {
+    id: 330440
+    name: 局地戦区最終ステージランキング9位報酬
+    mp: 6000
+    ammo: 6000
+    mre: 6000
+    part: 6000
+    item_ids: 127-4
+    icon: Bumdle_red
+  }
+  {
+    id: 330441
+    name: 局地戦区最終ステージランキング10位報酬
+    mp: 5500
+    ammo: 5500
+    mre: 5500
+    part: 5500
+    item_ids: 127-3
+    icon: Bumdle_red
+  }
+  {
+    id: 330442
+    name: 局地戦区最終ステージランキング11~100位報酬
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 127-2
+    icon: Bumdle_red
+  }
+  {
+    id: 330443
+    name: 局地戦区最終ステージランキング上位1%～5%報酬
+    mp: 4500
+    ammo: 4500
+    mre: 4500
+    part: 4500
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330444
+    name: 局地戦区最終ステージランキング上位6%～10%報酬
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330445
+    name: 局地戦区最終ステージランキング上位11%～15%報酬
+    mp: 3500
+    ammo: 3500
+    mre: 3500
+    part: 3500
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330446
+    name: 局地戦区最終ステージランキング上位16%～20%報酬
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330447
+    name: 局地戦区最終ステージランキング上位21%～30%報酬
+    mp: 2500
+    ammo: 2500
+    mre: 2500
+    part: 2500
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330448
+    name: 局地戦区最終ステージランキング上位31%～40%報酬
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330449
+    name: 局地戦区最終ステージランキング上位41%～50%報酬
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+    item_ids: 127-1
+    icon: Bumdle_red
+  }
+  {
+    id: 330450
     name: 局地戦区最終ステージランキング上位51%～100%報酬
     mp: 1000
     ammo: 1000
