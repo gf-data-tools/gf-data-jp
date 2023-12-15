@@ -3013,7 +3013,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 1000
     area_mission_id: 901411
-    advantage_desc: theater_area-30000711
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 712
@@ -3043,7 +3043,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 2600
     area_mission_id: 901411
-    advantage_desc: theater_area-30000712
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 713
@@ -3073,7 +3073,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 4200
     area_mission_id: 901411
-    advantage_desc: theater_area-30000713
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 714
@@ -3105,7 +3105,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 4800
     area_mission_id: 901411
-    advantage_desc: theater_area-30000714
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 715
@@ -3136,7 +3136,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 5200
     area_mission_id: 901412
-    advantage_desc: theater_area-30000715
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 716
@@ -3166,7 +3166,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 5800
     area_mission_id: 901412
-    advantage_desc: theater_area-30000716
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 717
@@ -3196,7 +3196,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 6400
     area_mission_id: 901412
-    advantage_desc: theater_area-30000717
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 718
@@ -3228,7 +3228,7 @@
     description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 7500
     area_mission_id: 901412
-    advantage_desc: theater_area-30000718
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%
   }
   {
     id: 721
@@ -3258,7 +3258,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 7800
     area_mission_id: 901421
-    advantage_desc: theater_area-30000721
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 722
@@ -3288,7 +3288,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 8000
     area_mission_id: 901421
-    advantage_desc: theater_area-30000722
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 723
@@ -3318,7 +3318,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 8500
     area_mission_id: 901421
-    advantage_desc: theater_area-30000723
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 724
@@ -3350,7 +3350,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 8800
     area_mission_id: 901421
-    advantage_desc: theater_area-30000724
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 725
@@ -3382,7 +3382,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 9200
     area_mission_id: 901422
-    advantage_desc: theater_area-30000725
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 726
@@ -3412,7 +3412,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 9600
     area_mission_id: 901422
-    advantage_desc: theater_area-30000726
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 727
@@ -3442,7 +3442,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 13000
     area_mission_id: 901422
-    advantage_desc: theater_area-30000727
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 728
@@ -3474,7 +3474,7 @@
     description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 14500
     area_mission_id: 901422
-    advantage_desc: theater_area-30000728
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 731
@@ -3504,7 +3504,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 13000
     area_mission_id: 901431
-    advantage_desc: theater_area-30000731
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 732
@@ -3535,7 +3535,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 16000
     area_mission_id: 901431
-    advantage_desc: theater_area-30000732
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 733
@@ -3567,7 +3567,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 20000
     area_mission_id: 901431
-    advantage_desc: theater_area-30000733
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 734
@@ -3599,7 +3599,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 22000
     area_mission_id: 901431
-    advantage_desc: theater_area-30000734
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 735
@@ -3629,7 +3629,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 26000
     area_mission_id: 901432
-    advantage_desc: theater_area-30000735
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 736
@@ -3662,7 +3662,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 27500
     area_mission_id: 901432
-    advantage_desc: theater_area-30000736
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 737
@@ -3692,7 +3692,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 29000
     area_mission_id: 901433
-    advantage_desc: theater_area-30000737
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 738
@@ -3724,7 +3724,7 @@
     description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 31000
     area_mission_id: 901433
-    advantage_desc: theater_area-30000738
+    advantage_desc: アサルトライフル：火力+10%；サブマシンガン：回避+10%；全銃種戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 741
@@ -3754,7 +3754,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 2400
     area_mission_id: 901441
-    advantage_desc: theater_area-30000741
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 742
@@ -3785,7 +3785,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 4800
     area_mission_id: 901441
-    advantage_desc: theater_area-30000742
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 743
@@ -3818,7 +3818,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 6400
     area_mission_id: 901441
-    advantage_desc: theater_area-30000743
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 744
@@ -3849,7 +3849,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 14000
     area_mission_id: 901442
-    advantage_desc: theater_area-30000744
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 745
@@ -3880,7 +3880,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 25000
     area_mission_id: 901442
-    advantage_desc: theater_area-30000745
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 746
@@ -3912,7 +3912,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 28000
     area_mission_id: 901442
-    advantage_desc: theater_area-30000746
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 747
@@ -3943,7 +3943,7 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 30000
     area_mission_id: 901443
-    advantage_desc: theater_area-30000747
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 748
@@ -3975,11 +3975,11 @@
     description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 34000
     area_mission_id: 901443
-    advantage_desc: theater_area-30000748
+    advantage_desc: 戦闘開始時、耐久値100ポイントのシールドを獲得する
   }
   {
     id: 911
-    name: theater_area-10000911
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: "1"
     basic_score: 1000
@@ -4002,15 +4002,14 @@
     battle_background: wasteland
     theater_id: 91
     display_length: 300
-    description: theater_area-20000911
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 1000
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
-    advantage_desc: theater_area-30000911
   }
   {
     id: 912
-    name: theater_area-10000912
+    name: 通常ステージ
     fight_type: 2
     success_type_condition: "1"
     basic_score: 1000
@@ -4033,15 +4032,14 @@
     battle_background: network
     theater_id: 91
     display_length: 300
-    description: theater_area-20000912
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 2600
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
-    advantage_desc: theater_area-30000912
   }
   {
     id: 913
-    name: theater_area-10000913
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: "1"
     basic_score: 1000
@@ -4064,15 +4062,14 @@
     battle_background: wasteland
     theater_id: 91
     display_length: 300
-    description: theater_area-20000913
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 4200
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
-    advantage_desc: theater_area-30000913
   }
   {
     id: 914
-    name: theater_area-10000914
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: "1"
     basic_score: 1000
@@ -4097,15 +4094,14 @@
     battle_background: network
     theater_id: 91
     display_length: 300
-    description: theater_area-20000914
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 4800
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
-    advantage_desc: theater_area-30000914
   }
   {
     id: 915
-    name: theater_area-10000915
+    name: 通常ステージ
     fight_type: 3
     type_coef: "40"
     success_type_condition: "1"
@@ -4129,15 +4125,14 @@
     battle_background: wasteland
     theater_id: 91
     display_length: 300
-    description: theater_area-20000915
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 5200
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
-    advantage_desc: theater_area-30000915
   }
   {
     id: 916
-    name: theater_area-10000916
+    name: 通常ステージ
     fight_type: 2
     success_type_condition: "1"
     basic_score: 2000
@@ -4160,15 +4155,14 @@
     battle_background: network
     theater_id: 91
     display_length: 300
-    description: theater_area-20000916
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 5800
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
-    advantage_desc: theater_area-30000916
   }
   {
     id: 917
-    name: theater_area-10000917
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: "1"
     basic_score: 3000
@@ -4191,15 +4185,14 @@
     battle_background: wasteland
     theater_id: 91
     display_length: 300
-    description: theater_area-20000917
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 6400
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
-    advantage_desc: theater_area-30000917
   }
   {
     id: 918
-    name: theater_area-10000918
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: "1"
     basic_score: 3000
@@ -4224,15 +4217,14 @@
     battle_background: network
     theater_id: 91
     display_length: 300
-    description: theater_area-20000918
+    description: 硝煙弾雨による洗礼を受けた山が、我々の一つ目の障害となる。この区域を掌握し、次の作戦のための橋頭堡を築け。
     difficulty: 7500
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
-    advantage_desc: theater_area-30000918
   }
   {
     id: 921
-    name: theater_area-10000921
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: 1;712
     basic_score: 1000
@@ -4255,15 +4247,14 @@
     battle_background: abandonedvillage
     theater_id: 92
     display_length: 300
-    description: theater_area-20000921
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 7800
     area_mission_id: 902421
     advantage_skill: "75621101"
-    advantage_desc: theater_area-30000921
   }
   {
     id: 922
-    name: theater_area-10000922
+    name: 通常ステージ
     fight_type: 2
     success_type_condition: 1;6
     basic_score: 1000
@@ -4286,15 +4277,14 @@
     battle_background: network
     theater_id: 92
     display_length: 300
-    description: theater_area-20000922
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 8000
     area_mission_id: 902421
     advantage_skill: "75621101"
-    advantage_desc: theater_area-30000922
   }
   {
     id: 923
-    name: theater_area-10000923
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: 1;3
     basic_score: 1000
@@ -4317,15 +4307,14 @@
     battle_background: abandonedvillage
     theater_id: 92
     display_length: 300
-    description: theater_area-20000923
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 8500
     area_mission_id: 902421
     advantage_skill: "75621101"
-    advantage_desc: theater_area-30000923
   }
   {
     id: 924
-    name: theater_area-10000924
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;707
     basic_score: 1000
@@ -4350,15 +4339,14 @@
     battle_background: network
     theater_id: 92
     display_length: 300
-    description: theater_area-20000924
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 8800
     area_mission_id: 902421
     advantage_skill: "75621101"
-    advantage_desc: theater_area-30000924
   }
   {
     id: 925
-    name: theater_area-10000925
+    name: 通常ステージ
     fight_type: 3
     type_coef: "40"
     success_type_condition: 1;12
@@ -4383,15 +4371,14 @@
     battle_background: abandonedvillage
     theater_id: 92
     display_length: 300
-    description: theater_area-20000925
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 9200
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
-    advantage_desc: theater_area-30000925
   }
   {
     id: 926
-    name: theater_area-10000926
+    name: 通常ステージ
     fight_type: 2
     success_type_condition: 1;901
     basic_score: 2000
@@ -4414,15 +4401,14 @@
     battle_background: network
     theater_id: 92
     display_length: 300
-    description: theater_area-20000926
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 9600
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
-    advantage_desc: theater_area-30000926
   }
   {
     id: 927
-    name: theater_area-10000927
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: 1;716
     basic_score: 3000
@@ -4445,15 +4431,14 @@
     battle_background: abandonedvillage
     theater_id: 92
     display_length: 300
-    description: theater_area-20000927
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 13000
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
-    advantage_desc: theater_area-30000927
   }
   {
     id: 928
-    name: theater_area-10000928
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;724
     basic_score: 3000
@@ -4478,15 +4463,14 @@
     battle_background: network
     theater_id: 92
     display_length: 300
-    description: theater_area-20000928
+    description: 状況を打破するため、我々は戦線を延長し、目標を包囲することを決定した。しかしこの地に集中している敵の砲火は、途切れることのない雷鳴の如く戦場上空に轟いている。
     difficulty: 14500
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
-    advantage_desc: theater_area-30000928
   }
   {
     id: 931
-    name: theater_area-10000931
+    name: 通常ステージ
     fight_type: 2
     success_type_condition: 1;712;713
     basic_score: 1000
@@ -4509,15 +4493,14 @@
     battle_background: network
     theater_id: 93
     display_length: 300
-    description: theater_area-20000931
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 13000
     area_mission_id: 902431
     advantage_skill: "75621101,75620901,75621201"
-    advantage_desc: theater_area-30000931
   }
   {
     id: 932
-    name: theater_area-10000932
+    name: 通常ステージ
     fight_type: 4
     type_coef: "10094,1"
     success_type_condition: 1;714;801
@@ -4541,15 +4524,14 @@
     battle_background: iron
     theater_id: 93
     display_length: 300
-    description: theater_area-20000932
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 16000
     area_mission_id: 902431
     advantage_skill: "75621101,75620901,75621201"
-    advantage_desc: theater_area-30000932
   }
   {
     id: 933
-    name: theater_area-10000933
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;716;726
     basic_score: 1000
@@ -4574,15 +4556,14 @@
     battle_background: network
     theater_id: 93
     display_length: 300
-    description: theater_area-20000933
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 20000
     area_mission_id: 902431
     advantage_skill: "75621101,75620901,75621201"
-    advantage_desc: theater_area-30000933
   }
   {
     id: 934
-    name: theater_area-10000934
+    name: 通常ステージ
     fight_type: 3
     type_coef: "60"
     success_type_condition: 1;709;722
@@ -4607,15 +4588,14 @@
     battle_background: iron
     theater_id: 93
     display_length: 300
-    description: theater_area-20000934
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 22000
     area_mission_id: 902432
     advantage_skill: "75620701,75620801"
-    advantage_desc: theater_area-30000934
   }
   {
     id: 935
-    name: theater_area-10000935
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: 1;728;902
     basic_score: 2000
@@ -4638,15 +4618,14 @@
     battle_background: iron
     theater_id: 93
     display_length: 300
-    description: theater_area-20000935
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 26000
     area_mission_id: 902432
     advantage_skill: "75620701,75620801"
-    advantage_desc: theater_area-30000935
   }
   {
     id: 936
-    name: theater_area-10000936
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;703;723
     basic_score: 2000
@@ -4672,15 +4651,14 @@
     battle_background: network
     theater_id: 93
     display_length: 300
-    description: theater_area-20000936
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 27500
     area_mission_id: 902432
     advantage_skill: "75620701,75620801"
-    advantage_desc: theater_area-30000936
   }
   {
     id: 937
-    name: theater_area-10000937
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: 1;14;716
     basic_score: 3000
@@ -4703,15 +4681,14 @@
     battle_background: iron
     theater_id: 93
     display_length: 300
-    description: theater_area-20000937
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 29000
     area_mission_id: 902433
     advantage_skill: "75621101,75621201,75621001"
-    advantage_desc: theater_area-30000937
   }
   {
     id: 938
-    name: theater_area-10000938
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;718;723
     basic_score: 3000
@@ -4736,15 +4713,14 @@
     battle_background: network
     theater_id: 93
     display_length: 300
-    description: theater_area-20000938
+    description: 作戦はついに最終段階へ移行した。しかし、この最後の一歩はこれまでで最も困難な一歩となるだろう。得られるのは勝利による栄光か、それとも敗北による地獄なのか。どちらへ転ぶかは我々の次の行動次第だ。
     difficulty: 31000
     area_mission_id: 902433
     advantage_skill: "75621101,75621201,75621001"
-    advantage_desc: theater_area-30000938
   }
   {
     id: 941
-    name: theater_area-10000941
+    name: 通常ステージ
     fight_type: 2
     success_type_condition: 1;727;712
     basic_score: 1500
@@ -4767,15 +4743,14 @@
     battle_background: network
     theater_id: 94
     display_length: 300
-    description: theater_area-20000941
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 2400
     area_mission_id: 902441
     advantage_skill: "75621501,75621701,75621601,75621801"
-    advantage_desc: theater_area-30000941
   }
   {
     id: 942
-    name: theater_area-10000942
+    name: 通常ステージ
     fight_type: 1
     success_type_condition: 1;718;714
     basic_score: 1500
@@ -4799,15 +4774,14 @@
     battle_background: snowland
     theater_id: 94
     display_length: 300
-    description: theater_area-20000942
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 4800
     area_mission_id: 902441
     advantage_skill: "75621501,75621701,75621601,75621801"
-    advantage_desc: theater_area-30000942
   }
   {
     id: 943
-    name: theater_area-10000943
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;727;903
     basic_score: 1500
@@ -4833,15 +4807,14 @@
     battle_background: network
     theater_id: 94
     display_length: 300
-    description: theater_area-20000943
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 6400
     area_mission_id: 902441
     advantage_skill: "75621501,75621701,75621601,75621801"
-    advantage_desc: theater_area-30000943
   }
   {
     id: 944
-    name: theater_area-10000944
+    name: 通常ステージ
     fight_type: 3
     type_coef: "40"
     success_type_condition: 1;723;3
@@ -4865,15 +4838,14 @@
     battle_background: snowland
     theater_id: 94
     display_length: 300
-    description: theater_area-20000944
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 14000
     area_mission_id: 902442
     advantage_skill: "75621301,75621401"
-    advantage_desc: theater_area-30000944
   }
   {
     id: 945
-    name: theater_area-10000945
+    name: 通常ステージ
     fight_type: 4
     type_coef: "10090,2"
     success_type_condition: 1;802;723
@@ -4897,15 +4869,14 @@
     battle_background: snowland
     theater_id: 94
     display_length: 300
-    description: theater_area-20000945
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 25000
     area_mission_id: 902442
     advantage_skill: "75621301,75621401"
-    advantage_desc: theater_area-30000945
   }
   {
     id: 946
-    name: theater_area-10000946
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;904;704
     basic_score: 3000
@@ -4930,15 +4901,14 @@
     battle_background: network
     theater_id: 94
     display_length: 300
-    description: theater_area-20000946
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 28000
     area_mission_id: 902442
     advantage_skill: "75621301,75621401"
-    advantage_desc: theater_area-30000946
   }
   {
     id: 947
-    name: theater_area-10000947
+    name: 通常ステージ
     fight_type: 4
     type_coef: "800008,1"
     success_type_condition: 1;722;712
@@ -4962,15 +4932,14 @@
     battle_background: snowland
     theater_id: 94
     display_length: 300
-    description: theater_area-20000947
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 30000
     area_mission_id: 902443
     advantage_skill: "75621501,75621701"
-    advantage_desc: theater_area-30000947
   }
   {
     id: 948
-    name: theater_area-10000948
+    name: 要塞ステージ
     fight_type: 2
     success_type_condition: 1;716;707
     basic_score: 5000
@@ -4995,10 +4964,9 @@
     battle_background: network
     theater_id: 94
     display_length: 300
-    description: theater_area-20000948
+    description: 外郭の堅牢な防御を突破したが、そんなものはまだ序の口に過ぎない。我々はこれより渓谷へ入り、そこに待ち受ける敵を殲滅しなければならない。勝利を手にするのは、最後まで立っていられた者のみだ。
     difficulty: 34000
     area_mission_id: 902443
     advantage_skill: "75621501,75621701"
-    advantage_desc: theater_area-30000948
   }
 ]
