@@ -4006,6 +4006,12 @@
     difficulty: 1000
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 912
@@ -4036,6 +4042,12 @@
     difficulty: 2600
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 913
@@ -4066,6 +4078,12 @@
     difficulty: 4200
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 914
@@ -4098,6 +4116,12 @@
     difficulty: 4800
     area_mission_id: 902411
     advantage_skill: "75620701,75620801,75620901"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 915
@@ -4129,6 +4153,11 @@
     difficulty: 5200
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      マシンガン：火力、命中+20%
+      '''
   }
   {
     id: 916
@@ -4159,6 +4188,11 @@
     difficulty: 5800
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      マシンガン：火力、命中+20%
+      '''
   }
   {
     id: 917
@@ -4189,6 +4223,11 @@
     difficulty: 6400
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      マシンガン：火力、命中+20%
+      '''
   }
   {
     id: 918
@@ -4221,6 +4260,11 @@
     difficulty: 7500
     area_mission_id: 902412
     advantage_skill: "75620701,75621001"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      マシンガン：火力、命中+20%
+      '''
   }
   {
     id: 921
@@ -4251,6 +4295,7 @@
     difficulty: 7800
     area_mission_id: 902421
     advantage_skill: "75621101"
+    advantage_desc: ライフル：火力、命中+20%
   }
   {
     id: 922
@@ -4281,6 +4326,7 @@
     difficulty: 8000
     area_mission_id: 902421
     advantage_skill: "75621101"
+    advantage_desc: ライフル：火力、命中+20%
   }
   {
     id: 923
@@ -4311,6 +4357,7 @@
     difficulty: 8500
     area_mission_id: 902421
     advantage_skill: "75621101"
+    advantage_desc: ライフル：火力、命中+20%
   }
   {
     id: 924
@@ -4343,6 +4390,7 @@
     difficulty: 8800
     area_mission_id: 902421
     advantage_skill: "75621101"
+    advantage_desc: ライフル：火力、命中+20%
   }
   {
     id: 925
@@ -4375,6 +4423,11 @@
     difficulty: 9200
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 926
@@ -4405,6 +4458,11 @@
     difficulty: 9600
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 927
@@ -4435,6 +4493,11 @@
     difficulty: 13000
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 928
@@ -4467,6 +4530,11 @@
     difficulty: 14500
     area_mission_id: 902422
     advantage_skill: "75621101,75620901"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      '''
   }
   {
     id: 931
@@ -4497,6 +4565,12 @@
     difficulty: 13000
     area_mission_id: 902431
     advantage_skill: "75621101,75620901,75621201"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      ショットガン：防御+20%
+      '''
   }
   {
     id: 932
@@ -4528,6 +4602,12 @@
     difficulty: 16000
     area_mission_id: 902431
     advantage_skill: "75621101,75620901,75621201"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      ショットガン：防御+20%
+      '''
   }
   {
     id: 933
@@ -4560,6 +4640,12 @@
     difficulty: 20000
     area_mission_id: 902431
     advantage_skill: "75621101,75620901,75621201"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      ハンドガン：スキルCT-20%
+      ショットガン：防御+20%
+      '''
   }
   {
     id: 934
@@ -4592,6 +4678,11 @@
     difficulty: 22000
     area_mission_id: 902432
     advantage_skill: "75620701,75620801"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      '''
   }
   {
     id: 935
@@ -4622,6 +4713,11 @@
     difficulty: 26000
     area_mission_id: 902432
     advantage_skill: "75620701,75620801"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      '''
   }
   {
     id: 936
@@ -4655,6 +4751,11 @@
     difficulty: 27500
     area_mission_id: 902432
     advantage_skill: "75620701,75620801"
+    advantage_desc:
+      '''
+      アサルトライフル：火力、命中+20%
+      サブマシンガン：命中、回避+50%
+      '''
   }
   {
     id: 937
@@ -4685,6 +4786,12 @@
     difficulty: 29000
     area_mission_id: 902433
     advantage_skill: "75621101,75621201,75621001"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      マシンガン：火力、命中+20%
+      ショットガン：防御+20%
+      '''
   }
   {
     id: 938
@@ -4717,6 +4824,12 @@
     difficulty: 31000
     area_mission_id: 902433
     advantage_skill: "75621101,75621201,75621001"
+    advantage_desc:
+      '''
+      ライフル：火力、命中+20%
+      マシンガン：火力、命中+20%
+      ショットガン：防御+20%
+      '''
   }
   {
     id: 941
@@ -4747,6 +4860,13 @@
     difficulty: 2400
     area_mission_id: 902441
     advantage_skill: "75621501,75621701,75621601,75621801"
+    advantage_desc:
+      '''
+      ハンドガン：味方全体の火力、回避+20%
+      ライフル：会心ダメージを100%上昇させる
+      マシンガン：リロード時間を3秒に固定する
+      ショットガン：被ダメージ-10
+      '''
   }
   {
     id: 942
@@ -4778,6 +4898,13 @@
     difficulty: 4800
     area_mission_id: 902441
     advantage_skill: "75621501,75621701,75621601,75621801"
+    advantage_desc:
+      '''
+      ハンドガン：味方全体の火力、回避+20%
+      ライフル：会心ダメージを100%上昇させる
+      マシンガン：リロード時間を3秒に固定する
+      ショットガン：被ダメージ-10
+      '''
   }
   {
     id: 943
@@ -4811,6 +4938,13 @@
     difficulty: 6400
     area_mission_id: 902441
     advantage_skill: "75621501,75621701,75621601,75621801"
+    advantage_desc:
+      '''
+      ハンドガン：味方全体の火力、回避+20%
+      ライフル：会心ダメージを100%上昇させる
+      マシンガン：リロード時間を3秒に固定する
+      ショットガン：被ダメージ-10
+      '''
   }
   {
     id: 944
@@ -4842,13 +4976,18 @@
     difficulty: 14000
     area_mission_id: 902442
     advantage_skill: "75621301,75621401"
+    advantage_desc:
+      '''
+      マシンガン：通常攻撃に固定ダメージが100加わる
+      ショットガン：1秒ごとに20ポイントのシールドを獲得する
+      '''
   }
   {
     id: 945
     name: 通常ステージ
     fight_type: 4
     type_coef: "10090,2"
-    success_type_condition: 1;802;723
+    success_type_condition: 1;722;723
     basic_score: 3000
     fight_environment_group: 703;707;735
     theater_spare_gun_num: 5
@@ -4873,6 +5012,11 @@
     difficulty: 25000
     area_mission_id: 902442
     advantage_skill: "75621301,75621401"
+    advantage_desc:
+      '''
+      マシンガン：通常攻撃に固定ダメージが100加わる
+      ショットガン：1秒ごとに20ポイントのシールドを獲得する
+      '''
   }
   {
     id: 946
@@ -4905,6 +5049,11 @@
     difficulty: 28000
     area_mission_id: 902442
     advantage_skill: "75621301,75621401"
+    advantage_desc:
+      '''
+      マシンガン：通常攻撃に固定ダメージが100加わる
+      ショットガン：1秒ごとに20ポイントのシールドを獲得する
+      '''
   }
   {
     id: 947
@@ -4936,6 +5085,11 @@
     difficulty: 30000
     area_mission_id: 902443
     advantage_skill: "75621501,75621701"
+    advantage_desc:
+      '''
+      ハンドガン：味方全体の火力、回避+20%
+      ライフル：会心ダメージを100%上昇させる
+      '''
   }
   {
     id: 948
@@ -4968,5 +5122,10 @@
     difficulty: 34000
     area_mission_id: 902443
     advantage_skill: "75621501,75621701"
+    advantage_desc:
+      '''
+      ハンドガン：味方全体の火力、回避+20%
+      ライフル：会心ダメージを100%上昇させる
+      '''
   }
 ]
