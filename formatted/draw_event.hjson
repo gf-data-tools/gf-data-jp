@@ -4545,6 +4545,90 @@
     clear_cycle: 1
   }
   {
+    id: 671
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 672
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 673
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 674
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 675
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 676
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 677
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 678
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 679
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 680
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 681
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 682
+    type: 1
+    start_time: 2023-12-29 13:00:00
+    end_time: 2024-01-19 13:00:00
+    clear_cycle: 1
+  }
+  {
     id: 683
     type: 1
     start_time: 2023-02-02 10:00:00
@@ -4796,6 +4880,20 @@
     start_time: 2023-02-02 10:00:00
     end_time: 2036-02-09 10:00:00
     clear_cycle: 1
+  }
+  {
+    id: 950
+    item_id: 100199
+    type: 1
+    start_time: 2023-12-30 00:00:00
+    end_time: 2024-01-12 23:59:59
+    drop_ids: 99:2113,100:2114,101:2115
+    title_res: bd6bde77df480d59_draw_231227021940.png
+    amount_coordinate: "317.5,-165"
+    bg_res: 49a60828c679731e_draw_231227185043.jpg
+    is_show: 1
+    prize_skip: 1970:101
+    can_ten_draws: 1
   }
   {
     id: 6001

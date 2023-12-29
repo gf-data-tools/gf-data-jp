@@ -3602,6 +3602,271 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    id: 182
+    name: クラスター従者
+    type: 1
+    code: Scarecrow
+    introduce: 情報の収集と分析が得意で、正面きっての戦闘は苦手。鉄血人形の中での地位は低め。理性派で、無口かつ毒舌。職務を忠実に遂行し、感性というものを見下す。感情豊かで服従しか知らないグリフィン人形に優越感を抱いている。
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,201"
+    enemy_skill: "59"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 183
+    name: 加重騎士
+    type: 1
+    code: BossGager
+    introduce: 主に指揮作戦と人員調整を担当。戦闘人形を直接指揮でき、またなかなかの戦闘能力も持つ。地位は比較的高く、エージェントに次ぐ高い指揮権限を有している。真面目で厳しく、妥協を許さない。言動から凜とした切れ者の気質がうかがえる。敵に対してもポリシーを持ち、礼節を欠かさない。
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,207"
+    enemy_skill: "66,67,96"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 184
+    name: 極値ぬいぐるみ
+    type: 1
+    code: BossArchitect
+    introduce: 遠距離破壊と火力支援に長け、戦闘能力は高い。通常は単独行動を好む。活発で明るく能天気な少女で、いつでもハイテンション。グリフィンに対しても特に敵対意識がない。鉄血の命令には最小限のみ従うが、爆破と破壊には異様に熱中するため、敵からはかなり危険視されている。
+    forces: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    armor_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 攻撃予告を行った位置に中程度のダメージを与える。周囲も巻き込んだ範囲攻撃となるため、人形を指揮し適宜回避が必要。
+    character: "1001,208,309"
+    enemy_skill: "68,69"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 185
+    name: ガウス指揮
+    type: 1
+    code: Agent
+    introduce: エリザと鉄血の連絡任務を担当。戦闘人形はその命令に直接従う。地位は極めて高く、戦闘も指揮も得意。すべての戦闘人形を指揮できる。冷静沈着で、決して羽目を外すことはない。敵にも味方にも敬語を使う。しかし実際は、主人には忠実であるが他人を見下しており、特にグリフィンのことをバカにしている。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 2
+    rate_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 彼女がシールドを生成した際には、火力を集中させシールドを破ることでチャージを中断させ、高火力の攻撃を回避しよう。
+    character: "1001,212"
+    enemy_skill: "77,78"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    id: 186
+    name: 離散測量士
+    type: 1
+    code: Excutioner
+    introduce: エリートの斥候に相当する。スケアクロウよりやや地位が高く、よくコンビを組んでいる。衝動的で大雑把な女傑。正々堂々とした戦いを好み、弱い者いじめを嫌う。
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 3
+    armor_rank: 3
+    speed_rank: 3
+    range_rank: 2
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,202,309"
+    enemy_skill: "60"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    id: 187
+    name: 分散牧童
+    type: 1
+    code: Destroyer
+    introduce: 爆破任務が得意で、爆弾処理も専門家レベル。戦闘能力も高く、アルケミストとコンビを組むことも。普段は高慢で毒舌だが実はツンデレ。少し子供っぽく、焦るとべそをかく。自分の身長をかなり気にしている。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 一発当たりの火力は極めた高いが、射速は低めで、命中は普通。回避タイプの人形で食い止めるとよい。
+    character: "1001,206"
+    enemy_skill: "64,99"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 188
+    name: 尤度近衛
+    type: 1
+    code: Weaver
+    introduce: 短距離の突破または防御作戦が得意で、知能と戦闘能力が高い。胡蝶事件の後に作られた人形だが、試験的な製造であるため、AIが極めて不安定で制御しにくい。表面的には物静かだが、内心は傲慢。強い武力と知性を兼ね備えるが、実戦経験が少ない。不可解な行動をとるため、敵も味方も動きが読めず、危険度は極めて高い。
+    forces: 1
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 攻撃予告を行った位置に中程度のダメージを与える。人形を指揮し適宜回避が必要。
+    character: "1001,210,309"
+    enemy_skill: "71,98"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    id: 189
+    name: カオスシンガー
+    type: 1
+    code: Dreamer
+    introduce: 遠隔での戦闘能力に重点を置き、超遠距離から狙った場所を攻撃する能力を備える。エリザが直接指揮を執る。胡蝶事件の後で作られた人形。自身の能力により正面攻撃する必要がないため、普段は鉄血本部にいて、ジャッジをからかって遊んでいる。優雅な微笑みの中に、傲慢さと捉えどころのなさがうかがえる。精神状態は極めて不安定で、常に自己中心的。戦闘では狂気的かつ制御不能な一面を見せる。また、恐るべき破壊力を持ち、仲間の安否さえ考えない。通常は戦場に現れないのが幸いである。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 射程が長いため、部隊の移動速度に注意しないと大きな損害をもたらす。
+    character: "1001,209"
+    enemy_skill: "70,97"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "75,75,1"
+  }
+  {
+    id: 190
+    name: 事後紡績工
+    type: 1
+    code: Hunter
+    introduce: 機動性と知能は比較的高く、妨害と追撃作戦が得意。だがスケアクロウとエクスキューショナーの協力がなければ実力を最大限発揮できない。冷静沈着で、あらゆる手段を用いて敵を袋小路に追い込み生け捕りにする。グリフィンをかなり見下しているが、卑劣すぎる手段を取ることは潔しとしない。
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 4
+    speed_rank: 5
+    range_rank: 4
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,203,309"
+    enemy_skill: "62"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "75,75,1"
+  }
+  {
+    id: 191
+    name: シフト祭祀
+    type: 1
+    code: Alchemist
+    introduce: 各種戦術ニーズに対応するマルチアタッカーで、尋問と拷問が得意。鉄血の戦闘エリートで、デストロイヤーとコンビを組むことも。うぬぼれ屋で尊大かつ残忍、目的達成のためなら手段を選ばない。Ｓっ気があり、グリフィンを欲望を満たすためのおもちゃと考えている。しかし精神的には大人で、鉄血の仲間のために力を尽くしてくれる。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 4
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,205"
+    enemy_skill: "63"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 192
+    name: 変動修道士
+    type: 1
+    code: Intruder
+    introduce: 戦闘策略の提供を担当。また暗号解読と妨害任務も得意で、戦闘人形を直接指揮できる比較的優れた人材。ゲーガーへの直接管理権を持つ。上品で穏やかな言動の背後に、大きな虚無を感じさせる。人類の演劇が好きで、自分自身を投影しているようだ。
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,204"
+    enemy_skill: "84"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 193
+    name: 収斂愚者
+    type: 1
+    code: Justice
+    introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
+    forces: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 射速が高く、火力は普通。同時に複数を攻撃するため、十分な防御力を持つショットガンの人形で食い止めるとよい。また、地面に表示される紫の領域を避けないと、持続ダメージと弱化効果を受けるので注意しよう。
+    character: "1001,211,309"
+    enemy_skill: "73,74,75"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 194
+    name: 来る年のナイトメア
+    type: 1
+    code: Scarecrow_SpringFes
+    introduce: スケアクロウの火力強化型。新型の浮遊砲台により、本来のスケアクロウと比べて火力が格段に上がっている。指揮ポートも強化されており、以前よりも浮遊砲台を自由に制御できるようになった。服装のデザインは、一年の終わりに人々や村を襲う伝説の妖怪に由来している。その目は夜の闇を見破り、その爪はあらゆる障害を切り裂く……まさに、今のスケアクロウのようだ。
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 正体不明,慎重に対処を！
+    character: "1001"
+    enemy_skill: "179,116,180,181,182,183"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
     id: 100001
     name: ゲベンヌ
     type: 1

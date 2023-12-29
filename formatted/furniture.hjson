@@ -27869,6 +27869,20 @@
     bonus_id: 3104
   }
   {
+    id: 20110
+    name: 荒野の風
+    classes: 81
+    type: 201
+    space: "9,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: バイクが欲しいかい？メンテナンス代に悩んでいるかい？今なら、このカリーナ特製バイクシミュレーターがおすすめだ！NTW-20の愛車を完全再現――作戦報告書を10枚書いてくれれば、1分間好きに遊ぶことができるよ！
+    code: 2023NationalDay_deco
+    texture_type: "1"
+    offset: "0.000,-0.219,-0.052"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: かぼちゃクマさん
     classes: 300
@@ -41086,6 +41100,111 @@
     sorting: "0,10,50"
     offset: "0,0,0|0.5,-2.08,-3.836|0.7,-1.53,-2"
     rotate: "3,2,2"
+  }
+  {
+    id: 310001
+    name: 初午のお稲荷
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kar98kのポスター。
+    code: poster_NewYear2024_98K
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310002
+    name: 御魂四方紅
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M110のポスター。
+    code: poster_NewYear2024_M110
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310004
+    name: 夜銜蝉
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZB-26のポスター。
+    code: poster_NewYear2024_ZB26
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310005
+    name: 藍月紫藤
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556のポスター。
+    code: poster_NewYear2024_APC556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310006
+    name: 歳神のお使い
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C14のポスター。
+    code: poster_NewYear2024_C14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310007
+    name: みかんの香り
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr HK45のポスター。
+    code: poster_NewYear2024_HK45
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310008
+    name: 冬の鹿鳴
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1ガーランドのポスター。
+    code: poster_NewYear2024_M1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
   }
   {
     id: 330001

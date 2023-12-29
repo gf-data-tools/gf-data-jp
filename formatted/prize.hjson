@@ -9376,6 +9376,13 @@
     item_ids: 121001-1
   }
   {
+    id: 1541
+    name: prize-10001541
+    gem: 90
+    equip_ids: "295"
+    content: prize-20001541
+  }
+  {
     id: 1543
     name: prize-10001543
     gun_id: "366"
@@ -9738,6 +9745,12 @@
     content: prize-20001624
   }
   {
+    id: 1625
+    name: prize-10001625
+    gun_id: "361"
+    content: prize-20001625
+  }
+  {
     id: 1626
     name: prize-10001626
     gun_id: "1,7,99,100,98,168,202,212,248,269,310,332,346,354,358,26,101,103,23,136,150,102,177,137,225,203,280,286,295,304,328,336,355,363,364,36,39,42,117,43,146,180,184,200,226,235,247,252,270,273,305,317,360,60,64,66,69,72,118,171,187,207,216,227,237,262,288,297,330,335,343,344,349,75,78,85,88,121,240,149,185,199,254,264,275,319,362,153,155,156,162,165,189,283,302,325,326,352,353,368"
@@ -10029,6 +10042,91 @@
     item_ids: 41-100
     content: prize-20001708
     icon: Bumdle_cashwhite
+  }
+  {
+    id: 1709
+    name: prize-10001709
+    item_ids: 100169-6
+    content: prize-20001709
+  }
+  {
+    id: 1710
+    name: prize-10001710
+    item_ids: 100169-15,100170-1
+    content: prize-20001710
+  }
+  {
+    id: 1711
+    name: prize-10001711
+    item_ids: 100169-15,100170-2
+    content: prize-20001711
+  }
+  {
+    id: 1712
+    name: prize-10001712
+    item_ids: 100169-8
+    content: prize-20001712
+  }
+  {
+    id: 1713
+    name: prize-10001713
+    item_ids: 100169-15,100171-1
+    content: prize-20001713
+  }
+  {
+    id: 1714
+    name: prize-10001714
+    item_ids: 100169-15,100171-2
+    content: prize-20001714
+  }
+  {
+    id: 1715
+    name: prize-10001715
+    item_ids: 100169-10
+    content: prize-20001715
+  }
+  {
+    id: 1716
+    name: prize-10001716
+    item_ids: 100169-15
+    content: prize-20001716
+  }
+  {
+    id: 1717
+    name: prize-10001717
+    item_ids: 100170-1
+    content: prize-20001717
+  }
+  {
+    id: 1718
+    name: prize-10001718
+    item_ids: 100170-2
+    content: prize-20001718
+  }
+  {
+    id: 1719
+    name: prize-10001719
+    item_ids: 100171-1
+    content: prize-20001719
+  }
+  {
+    id: 1720
+    name: prize-10001720
+    item_ids: 100171-2
+    content: prize-20001720
+  }
+  {
+    id: 1721
+    name: prize-10001721
+    skin: 210
+    content: prize-20001721
+    icon: NPC_Persica_210
+  }
+  {
+    id: 1722
+    name: prize-10001722
+    equip_ids: "320"
+    content: prize-20001722
   }
   {
     id: 1724
@@ -11079,6 +11177,19 @@
     name: prize-10001951
     gun_id: "378"
     content: prize-20001951
+  }
+  {
+    id: 1970
+    name: prize-10001970
+    furniture: "20110"
+    content: prize-20001970
+  }
+  {
+    id: 1972
+    name: prize-10001972
+    item_ids: 100199-20
+    content: prize-20001972
+    commander_uniform: "5640,5643"
   }
   {
     id: 2001
@@ -12687,6 +12798,18 @@
     name: prize-10004314
     item_ids: 2182-1
     content: prize-20004314
+  }
+  {
+    id: 4315
+    name: prize-10004315
+    sangvis: "1022"
+    content: prize-20004315
+  }
+  {
+    id: 4316
+    name: prize-10004316
+    item_ids: 2213-1
+    content: prize-20004316
   }
   {
     id: 5001
@@ -22141,6 +22264,62 @@
     icon: Medal_Chess
   }
   {
+    id: 10764
+    name: 少佐の栄誉
+    user_exp: 30
+    item_ids: 106-5,2270-1,200008-1
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、少佐の栄誉を獲得しました！報酬：ラフベリー勲章×5、指揮官経験値×30、アイコン「ブラックジャック・コードVIII：極線」
+    icon: Medal_Chess
+  }
+  {
+    id: 10765
+    name: 中佐の栄誉
+    user_exp: 60
+    item_ids: 106-10
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、中佐の栄誉を獲得しました！報酬：ラフベリー勲章×10、指揮官経験値×60
+    icon: Medal_Chess
+  }
+  {
+    id: 10766
+    name: 大佐の栄誉
+    user_exp: 100
+    item_ids: 106-20
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、大佐の栄誉を獲得しました！報酬：ラフベリー勲章×20、指揮官経験値×100
+    icon: Medal_Chess
+  }
+  {
+    id: 10767
+    name: 少将の栄誉
+    user_exp: 200
+    item_ids: 106-30,2271-1,200007-1
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、少将の栄誉を獲得しました！報酬：ラフベリー勲章×30、指揮官経験値×200、アイコン「ユーカー・コードVIII：極線」
+    icon: Medal_Chess
+  }
+  {
+    id: 10768
+    name: 中将の栄誉
+    user_exp: 500
+    item_ids: 106-40
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、中将の栄誉を獲得しました！報酬：ラフベリー勲章×40、指揮官経験値×500
+    icon: Medal_Chess
+  }
+  {
+    id: 10769
+    name: 大将の栄誉
+    user_exp: 1000
+    item_ids: 106-50
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、大将の栄誉を獲得しました！報酬：ラフベリー勲章×50、指揮官経験値×1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10770
+    name: 元帥の栄誉
+    user_exp: 2000
+    item_ids: 106-60,2272-1,200006-1
+    content: おめでとうございます！「コードVIII：極線」今シーズンにおいて、元帥の栄誉を獲得しました！報酬：ラフベリー勲章×60、指揮官経験値×2000、アイコン「詐欺師・コードVIII：極線」
+    icon: Medal_Chess
+  }
+  {
     id: 11000
     name: ハンガーが欲しい
     user_exp: 30
@@ -31292,6 +31471,75 @@
     core: 10
   }
   {
+    id: 17321
+    name: 初級推測-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17322
+    name: 解析推測-任務報酬
+    gift: 200001-50
+  }
+  {
+    id: 17323
+    name: 超越推測-任務報酬
+    item_ids: 46-50
+  }
+  {
+    id: 17324
+    name: 内挿分析-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17325
+    name: 誤差分析-任務報酬
+    gift: 200001-50
+  }
+  {
+    id: 17326
+    name: 収束分析-任務報酬
+    item_ids: 46-50
+  }
+  {
+    id: 17327
+    name: 調和シミュレート-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17328
+    name: 実解析シミュレート-任務報酬
+    gift: 200001-50
+  }
+  {
+    id: 17329
+    name: 複素シミュレート-任務報酬
+    item_ids: 46-50
+  }
+  {
+    id: 17330
+    name: ベイズ決定理論-任務報酬
+    item_ids: 45-20
+  }
+  {
+    id: 17331
+    name: 漫衍-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 17332
+    name: 集合-任務報酬
+    core: 5
+  }
+  {
     id: 20001
     name: 友情ポイント商品1
     mp: 2000
@@ -32488,7 +32736,7 @@
   {
     id: 30203
     name: 8ライン報酬
-    gift: 7606-1
+    gift: 10006-1
     icon: Bumdle_bline
   }
   {
@@ -37232,6 +37480,41 @@
     part: 3500
     gem: 200
     fairy_ids: 32-757090
+  }
+  {
+    id: 40530
+    name: 50000ポイント報酬
+    item_ids: 100172-1,9027-1
+  }
+  {
+    id: 40531
+    name: 100000ポイント報酬
+    item_ids: 45-20
+  }
+  {
+    id: 40532
+    name: 150000ポイント報酬
+    item_ids: 100173-1,9028-1
+  }
+  {
+    id: 40533
+    name: 250000ポイント報酬
+    item_ids: 45-30
+  }
+  {
+    id: 40534
+    name: 350000ポイント報酬
+    item_ids: 100174-1,9029-1
+  }
+  {
+    id: 40535
+    name: 450000ポイント報酬
+    item_ids: 45-40
+  }
+  {
+    id: 40536
+    name: 550000ポイント報酬
+    item_ids: 45-50
   }
   {
     id: 44001
@@ -46243,5 +46526,695 @@
     mre: 1000
     part: 1000
     icon: Bumdle_red
+  }
+  {
+    id: 330451
+    name: prize-10330451
+    mp: 2024
+    ammo: 2024
+    mre: 2024
+    part: 2024
+    item_ids: 13-1,7-2,3-40,1-20,2-20,10603-60
+    content: prize-20330451
+    bp_pay: 60
+  }
+  {
+    id: 330452
+    name: prize-10330452
+    item_ids: 9500003-1
+    content: prize-20330452
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 330453
+    name: prize-10330453
+    item_ids: 9500004-1
+    content: prize-20330453
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 330454
+    name: prize-10330454
+    item_ids: 9500005-1
+    content: prize-20330454
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 330455
+    name: prize-10330455
+    gift: 4201-1
+    content: prize-20330455
+  }
+  {
+    id: 330456
+    name: prize-10330456
+    gift: 4202-1
+    content: prize-20330456
+  }
+  {
+    id: 330457
+    name: prize-10330457
+    gift: 5101-1
+    content: prize-20330457
+  }
+  {
+    id: 330458
+    name: prize-10330458
+    gift: 5302-1
+    content: prize-20330458
+  }
+  {
+    id: 330459
+    name: prize-10330459
+    gift: 5602-1
+    content: prize-20330459
+  }
+  {
+    id: 330460
+    name: prize-10330460
+    gift: 5603-1
+    content: prize-20330460
+  }
+  {
+    id: 330461
+    name: prize-10330461
+    gift: 563-1
+    content: prize-20330461
+  }
+  {
+    id: 330462
+    name: prize-10330462
+    gift: 551-1
+    content: prize-20330462
+  }
+  {
+    id: 330463
+    name: prize-10330463
+    gift: 5802-1
+    content: prize-20330463
+  }
+  {
+    id: 330464
+    name: prize-10330464
+    gift: 5805-1
+    content: prize-20330464
+  }
+  {
+    id: 330465
+    name: prize-10330465
+    gift: 5901-1
+    content: prize-20330465
+  }
+  {
+    id: 330466
+    name: prize-10330466
+    gift: 6102-1
+    content: prize-20330466
+  }
+  {
+    id: 330467
+    name: prize-10330467
+    gift: 6202-1
+    content: prize-20330467
+  }
+  {
+    id: 330468
+    name: prize-10330468
+    gift: 6503-1
+    content: prize-20330468
+  }
+  {
+    id: 330469
+    name: prize-10330469
+    gift: 6601-1
+    content: prize-20330469
+  }
+  {
+    id: 330470
+    name: prize-10330470
+    gift: 7501-1
+    content: prize-20330470
+  }
+  {
+    id: 330471
+    name: prize-10330471
+    gift: 7902-1
+    content: prize-20330471
+  }
+  {
+    id: 330472
+    name: prize-10330472
+    gift: 2604-1
+    content: prize-20330472
+  }
+  {
+    id: 330473
+    name: prize-10330473
+    gift: 4203-1
+    content: prize-20330473
+  }
+  {
+    id: 330474
+    name: prize-10330474
+    gift: 4204-1
+    content: prize-20330474
+  }
+  {
+    id: 330475
+    name: prize-10330475
+    gift: 4205-1
+    content: prize-20330475
+  }
+  {
+    id: 330476
+    name: prize-10330476
+    gift: 4206-1
+    content: prize-20330476
+  }
+  {
+    id: 330477
+    name: prize-10330477
+    gift: 5102-1
+    content: prize-20330477
+  }
+  {
+    id: 330478
+    name: prize-10330478
+    gift: 5103-1
+    content: prize-20330478
+  }
+  {
+    id: 330479
+    name: prize-10330479
+    gift: 5301-1
+    content: prize-20330479
+  }
+  {
+    id: 330480
+    name: prize-10330480
+    gift: 5303-1
+    content: prize-20330480
+  }
+  {
+    id: 330481
+    name: prize-10330481
+    gift: 5305-1
+    content: prize-20330481
+  }
+  {
+    id: 330482
+    name: prize-10330482
+    gift: 5304-1
+    content: prize-20330482
+  }
+  {
+    id: 330483
+    name: prize-10330483
+    gift: 5306-1
+    content: prize-20330483
+  }
+  {
+    id: 330484
+    name: prize-10330484
+    gift: 5307-1
+    content: prize-20330484
+  }
+  {
+    id: 330485
+    name: prize-10330485
+    gift: 5605-1
+    content: prize-20330485
+  }
+  {
+    id: 330486
+    name: prize-10330486
+    gift: 5606-1
+    content: prize-20330486
+  }
+  {
+    id: 330487
+    name: prize-10330487
+    gift: 5601-1
+    content: prize-20330487
+  }
+  {
+    id: 330488
+    name: prize-10330488
+    gift: 5604-1
+    content: prize-20330488
+  }
+  {
+    id: 330489
+    name: prize-10330489
+    gift: 554-1
+    content: prize-20330489
+  }
+  {
+    id: 330490
+    name: prize-10330490
+    gift: 560-1
+    content: prize-20330490
+  }
+  {
+    id: 330491
+    name: prize-10330491
+    gift: 561-1
+    content: prize-20330491
+  }
+  {
+    id: 330492
+    name: prize-10330492
+    gift: 562-1
+    content: prize-20330492
+  }
+  {
+    id: 330493
+    name: prize-10330493
+    gift: 564-1
+    content: prize-20330493
+  }
+  {
+    id: 330494
+    name: prize-10330494
+    gift: 565-1
+    content: prize-20330494
+  }
+  {
+    id: 330495
+    name: prize-10330495
+    gift: 5801-1
+    content: prize-20330495
+  }
+  {
+    id: 330496
+    name: prize-10330496
+    gift: 5803-1
+    content: prize-20330496
+  }
+  {
+    id: 330497
+    name: prize-10330497
+    gift: 5804-1
+    content: prize-20330497
+  }
+  {
+    id: 330498
+    name: prize-10330498
+    gift: 5806-1
+    content: prize-20330498
+  }
+  {
+    id: 330499
+    name: prize-10330499
+    gift: 5903-1
+    content: prize-20330499
+  }
+  {
+    id: 330500
+    name: prize-10330500
+    gift: 5904-1
+    content: prize-20330500
+  }
+  {
+    id: 330501
+    name: prize-10330501
+    gift: 5902-1
+    content: prize-20330501
+  }
+  {
+    id: 330502
+    name: prize-10330502
+    gift: 4704-1
+    content: prize-20330502
+  }
+  {
+    id: 330503
+    name: prize-10330503
+    gift: 6101-1
+    content: prize-20330503
+  }
+  {
+    id: 330504
+    name: prize-10330504
+    gift: 6103-1
+    content: prize-20330504
+  }
+  {
+    id: 330505
+    name: prize-10330505
+    gift: 6105-1
+    content: prize-20330505
+  }
+  {
+    id: 330506
+    name: prize-10330506
+    gift: 6106-1
+    content: prize-20330506
+  }
+  {
+    id: 330507
+    name: prize-10330507
+    gift: 6201-1
+    content: prize-20330507
+  }
+  {
+    id: 330508
+    name: prize-10330508
+    gift: 6501-1
+    content: prize-20330508
+  }
+  {
+    id: 330509
+    name: prize-10330509
+    gift: 6502-1
+    content: prize-20330509
+  }
+  {
+    id: 330510
+    name: prize-10330510
+    gift: 6504-1
+    content: prize-20330510
+  }
+  {
+    id: 330511
+    name: prize-10330511
+    gift: 6505-1
+    content: prize-20330511
+  }
+  {
+    id: 330512
+    name: prize-10330512
+    gift: 6603-1
+    content: prize-20330512
+  }
+  {
+    id: 330513
+    name: prize-10330513
+    gift: 6604-1
+    content: prize-20330513
+  }
+  {
+    id: 330514
+    name: prize-10330514
+    gift: 6605-1
+    content: prize-20330514
+  }
+  {
+    id: 330515
+    name: prize-10330515
+    gift: 7001-1
+    content: prize-20330515
+  }
+  {
+    id: 330516
+    name: prize-10330516
+    gift: 7002-1
+    content: prize-20330516
+  }
+  {
+    id: 330517
+    name: prize-10330517
+    gift: 7502-1
+    content: prize-20330517
+  }
+  {
+    id: 330518
+    name: prize-10330518
+    gift: 7503-1
+    content: prize-20330518
+  }
+  {
+    id: 330519
+    name: prize-10330519
+    gift: 7504-1
+    content: prize-20330519
+  }
+  {
+    id: 330520
+    name: prize-10330520
+    gift: 7903-1
+    content: prize-20330520
+  }
+  {
+    id: 330521
+    name: prize-10330521
+    gift: 7904-1
+    content: prize-20330521
+  }
+  {
+    id: 330522
+    name: prize-10330522
+    gift: 3506-1
+    content: prize-20330522
+  }
+  {
+    id: 330523
+    name: prize-10330523
+    gift: 4209-1
+    content: prize-20330523
+  }
+  {
+    id: 330524
+    name: prize-10330524
+    gift: 4210-1
+    content: prize-20330524
+  }
+  {
+    id: 330525
+    name: prize-10330525
+    gift: 4207-1
+    content: prize-20330525
+  }
+  {
+    id: 330526
+    name: prize-10330526
+    gift: 4308-1
+    content: prize-20330526
+  }
+  {
+    id: 330527
+    name: prize-10330527
+    gift: 5104-1
+    content: prize-20330527
+  }
+  {
+    id: 330528
+    name: prize-10330528
+    gift: 5105-1
+    content: prize-20330528
+  }
+  {
+    id: 330529
+    name: prize-10330529
+    gift: 5107-1
+    content: prize-20330529
+  }
+  {
+    id: 330530
+    name: prize-10330530
+    gift: 5309-1
+    content: prize-20330530
+  }
+  {
+    id: 330531
+    name: prize-10330531
+    gift: 5607-1
+    content: prize-20330531
+  }
+  {
+    id: 330532
+    name: prize-10330532
+    gift: 5608-1
+    content: prize-20330532
+  }
+  {
+    id: 330533
+    name: prize-10330533
+    gift: 550-1
+    content: prize-20330533
+  }
+  {
+    id: 330534
+    name: prize-10330534
+    gift: 552-1
+    content: prize-20330534
+  }
+  {
+    id: 330535
+    name: prize-10330535
+    gift: 553-1
+    content: prize-20330535
+  }
+  {
+    id: 330536
+    name: prize-10330536
+    gift: 5807-1
+    content: prize-20330536
+  }
+  {
+    id: 330537
+    name: prize-10330537
+    gift: 5808-1
+    content: prize-20330537
+  }
+  {
+    id: 330538
+    name: prize-10330538
+    gift: 5905-1
+    content: prize-20330538
+  }
+  {
+    id: 330539
+    name: prize-10330539
+    gift: 5907-1
+    content: prize-20330539
+  }
+  {
+    id: 330540
+    name: prize-10330540
+    gift: 5906-1
+    content: prize-20330540
+  }
+  {
+    id: 330541
+    name: prize-10330541
+    gift: 5908-1
+    content: prize-20330541
+  }
+  {
+    id: 330542
+    name: prize-10330542
+    gift: 6109-1
+    content: prize-20330542
+  }
+  {
+    id: 330543
+    name: prize-10330543
+    gift: 6108-1
+    content: prize-20330543
+  }
+  {
+    id: 330544
+    name: prize-10330544
+    gift: 6203-1
+    content: prize-20330544
+  }
+  {
+    id: 330545
+    name: prize-10330545
+    gift: 6205-1
+    content: prize-20330545
+  }
+  {
+    id: 330546
+    name: prize-10330546
+    gift: 6207-1
+    content: prize-20330546
+  }
+  {
+    id: 330547
+    name: prize-10330547
+    gift: 6206-1
+    content: prize-20330547
+  }
+  {
+    id: 330548
+    name: prize-10330548
+    gift: 6204-1
+    content: prize-20330548
+  }
+  {
+    id: 330549
+    name: prize-10330549
+    gift: 6507-1
+    content: prize-20330549
+  }
+  {
+    id: 330550
+    name: prize-10330550
+    gift: 6606-1
+    content: prize-20330550
+  }
+  {
+    id: 330551
+    name: prize-10330551
+    gift: 6607-1
+    content: prize-20330551
+  }
+  {
+    id: 330552
+    name: prize-10330552
+    gift: 6707-1
+    content: prize-20330552
+  }
+  {
+    id: 330553
+    name: prize-10330553
+    gift: 7003-1
+    content: prize-20330553
+  }
+  {
+    id: 330554
+    name: prize-10330554
+    gift: 7004-1
+    content: prize-20330554
+  }
+  {
+    id: 330555
+    name: prize-10330555
+    gift: 7505-1
+    content: prize-20330555
+  }
+  {
+    id: 330556
+    name: prize-10330556
+    gift: 7506-1
+    content: prize-20330556
+  }
+  {
+    id: 330557
+    name: prize-10330557
+    gift: 7905-1
+    content: prize-20330557
+  }
+  {
+    id: 330558
+    name: prize-10330558
+    gift: 7906-1
+    content: prize-20330558
+  }
+  {
+    id: 330559
+    name: prize-10330559
+    gift: 574-1
+    content: prize-20330559
+  }
+  {
+    id: 330560
+    name: prize-10330560
+    gun_id: "1,7,98,99,100,168,202,212,248,269,310,346,332,354,358,23,26,101,102,103,136,137,150,177,203,225,280,286,295,304,328,336,355,363,364,36,39,42,43,117,146,180,184,200,226,235,247,252,270,273,305,317,360,60,64,66,69,72,118,171,187,207,216,227,237,262,288,297,330,349,335,343,344,75,78,85,88,121,149,185,199,240,254,264,275,319,362,153,155,156,162,165,189,283,302,325,326,352,353,368"
+    content: prize-20330560
+    icon: Bumdle_invocation_1
+  }
+  {
+    id: 330561
+    name: prize-10330561
+    gun_id: "4,96,97,114,126,142,166,183,233,242,250,260,272,285,294,303,331,375,357,16,20,28,59,104,115,127,135,213,224,228,234,245,251,259,311,315,347,333,341,376,359,46,48,50,53,128,148,179,192,197,198,204,211,222,231,257,261,266,296,312,316,329,337,348,334,377,62,65,73,106,119,122,129,130,172,175,181,194,196,205,206,214,215,236,243,274,287,289,290,293,306,313,318,338,340,356,365,342,378,361,109,112,125,173,208,238,253,263,276,292,307,339,345,151,157,160,163,164,188,229,281,282,323,324,350,351,367,366"
+    content: prize-20330561
+    icon: Bumdle_invocation_2
+  }
+  {
+    id: 330562
+    name: prize-10330562
+    item_ids: 9500006-1
+    content: prize-20330562
+    icon: Bumdle_invocation_1
+  }
+  {
+    id: 330563
+    name: prize-10330563
+    item_ids: 9500007-1
+    content: prize-20330563
+    icon: Bumdle_invocation_2
   }
 ]

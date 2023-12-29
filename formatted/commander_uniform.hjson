@@ -3153,4 +3153,32 @@
     position: "-0.134,0.852"
     color_icon_id: "949"
   }
+  {
+    id: 5640
+    name: 威風堂々（青）
+    description: 万夫不当の勇士たる者、この旗を以って、己の風格を表すべし。さすれば敵軍は恐怖に打ち震え、友軍もまたフレンドリーファイヤーをせずに済む。
+    code: BodyAcco
+    icon: commander_5640_icon
+    type: 4
+    uniform_class: "56"
+    color_normal: Commander_5640_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.126,0.332"
+    color_icon_id: "956"
+  }
+  {
+    id: 5643
+    name: 威風堂々（赤）
+    description: 万夫不当の勇士たる者、この旗を以って、己の風格を表すべし。さすれば敵軍は恐怖に打ち震え、友軍もまたフレンドリーファイヤーをせずに済む。
+    code: BodyAcco
+    icon: commander_5643_icon
+    type: 4
+    uniform_class: "56"
+    color_normal: Commander_5643_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.126,0.332"
+    color_icon_id: "957"
+  }
 ]

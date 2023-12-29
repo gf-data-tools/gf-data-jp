@@ -9209,6 +9209,39 @@
     obtain_ids: "3071"
   }
   {
+    id: 295
+    name: 専用Mlokハンドガード
+    description:
+      '''
+      会心率+<critical_percent><%>
+      会心ダメージ+<critical_harm_rate><%>スキル強化$AUG専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_harm_rate: "8,10"
+    critical_percent: "25,30"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_AUG
+    develop_duration: 3600
+    company: CG
+    fit_guns: "73"
+    equip_introduction: GG社がAUGに設計した軽量型Mlokハンドガード。AUGのオプション搭載能力の引き上げてくれる。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:850,critical_harm_rate:500
+    passive_skill: "759055"
+    max_level: 10
+    auto_select_id: 18101
+    is_show: 1
+    obtain_ids: "3072"
+  }
+  {
     id: 296
     name: 92式信号拳銃
     description:
@@ -9891,6 +9924,38 @@
     auto_select_id: 19046
     is_show: 1
     obtain_ids: "3080"
+  }
+  {
+    id: 320
+    name: MAB高性能外骨格
+    description:
+      '''
+      火力+<pow>
+      回避+<dodge>$PA-15専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "1,3"
+    dodge: "20,25"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_PA15
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "260"
+    equip_introduction: PA-15のためにI.O.Pが新しく開発した外骨格。メンタルモデルと連動して戦闘データを共有できるチップが搭載されており、作戦効率を大幅に向上させることができる。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:700,dodge:600
+    max_level: 10
+    auto_select_id: 20051
+    is_show: 1
+    obtain_ids: "3093"
   }
   {
     id: 322

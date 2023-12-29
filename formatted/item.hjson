@@ -11755,6 +11755,15 @@
     rank: 1
   }
   {
+    id: 2213
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Nyto_tareus
+    item_name: タレウスアイコン
+    introduction: タレウスアイコン
+    rank: 1
+  }
+  {
     id: 2214
     type: 5
     arg: "1"
@@ -12176,6 +12185,33 @@
     rank: 1
   }
   {
+    id: 2270
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season10_1
+    item_name: ブラックジャック・コードVIII：極線
+    introduction: ブラックジャック・コードVIII：極線
+    rank: 1
+  }
+  {
+    id: 2271
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season10_2
+    item_name: ユーカー・コードVIII：極線
+    introduction: ユーカー・コードVIII：極線
+    rank: 1
+  }
+  {
+    id: 2272
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season10_3
+    item_name: 詐欺師・コードVIII：極線
+    introduction: 詐欺師・コードVIII：極線
+    rank: 1
+  }
+  {
     id: 2273
     type: 5
     arg: "1"
@@ -12302,6 +12338,24 @@
     code: profilePic_BattlePass_MK3A1
     item_name: MK3A1の修復芸術
     introduction: MK3A1の修復芸術
+    rank: 1
+  }
+  {
+    id: 2314
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_PA15
+    item_name: PA-15アイコン
+    introduction: PA-15アイコン
+    rank: 1
+  }
+  {
+    id: 2315
+    type: 5
+    arg: "1"
+    code: card_friendmall_PA15
+    item_name: IDカード背景：ブルース狂想曲
+    introduction: IDカード背景：ブルース狂想曲
     rank: 1
   }
   {
@@ -12528,6 +12582,71 @@
     item_name: ミス・ピッツバーグ
     introduction: ミス・ピッツバーグ
     rank: 1
+  }
+  {
+    id: 2410
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_98K
+    item_name: 夜銜蝉
+    introduction: 夜銜蝉
+    rank: 1
+  }
+  {
+    id: 2411
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_M110
+    item_name: 藍月紫藤
+    introduction: 藍月紫藤
+    rank: 1
+  }
+  {
+    id: 2412
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_ZB26
+    item_name: 歳神のお使い
+    introduction: 歳神のお使い
+    rank: 1
+  }
+  {
+    id: 2413
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_APC556
+    item_name: みかんの香り
+    introduction: みかんの香り
+    rank: 1
+  }
+  {
+    id: 2414
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_C14
+    item_name: 冬の鹿鳴
+    introduction: 冬の鹿鳴
+    rank: 1
+  }
+  {
+    id: 2415
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_HK45
+    item_name: item-10002415
+    introduction: item-20002415
+    rank: 1
+    detail_introduction: item-30002415
+  }
+  {
+    id: 2416
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_M1
+    item_name: item-10002416
+    introduction: item-20002416
+    rank: 1
+    detail_introduction: item-30002416
   }
   {
     id: 4001
@@ -13401,6 +13520,45 @@
     code: Saga_PT
     item_name: インスピレーション
     introduction: 銭湯のステージをクリアすることで、強化することができます。
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9026
+    type: 1
+    arg: "9026"
+    code: EventPT4
+    item_name: パズルボックスの予想PT
+    introduction: パズルボックスの予想PT
+    rank: 1
+  }
+  {
+    id: 9027
+    type: 1
+    arg: "9027"
+    code: Rouge_Raid
+    item_name: 獲得後、イベント中の味方部隊はスキル「連合強襲」を得ることができます。アイテム使用後、「狙撃支援」、「砲撃支援」、「空襲支援」の戦場効果を獲得できます。
+    introduction: 獲得後、イベント中の味方部隊はスキル「連合強襲」を得ることができます。アイテム使用後、「狙撃支援」、「砲撃支援」、「空襲支援」の戦場効果を獲得できます。
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9028
+    type: 1
+    arg: "9028"
+    code: Rouge_Focus
+    item_name: 獲得後、イベント中の味方部隊はスキル「集中」を得ることができます。アイテム使用後、同名の戦場効果を獲得できます。
+    introduction: 獲得後、イベント中の味方部隊はスキル「集中」を得ることができます。アイテム使用後、同名の戦場効果を獲得できます。
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9029
+    type: 1
+    arg: "9029"
+    code: Rouge_Strengthen
+    item_name: 獲得後、イベント中の味方部隊はスキル「強化」を得ることができます。アイテム使用後、同名の戦場効果を獲得できます。
+    introduction: 獲得後、イベント中の味方部隊はスキル「強化」を得ることができます。アイテム使用後、同名の戦場効果を獲得できます。
     rank: 1
     is_hide_info: 1
   }
@@ -14859,6 +15017,64 @@
     rank: 1
   }
   {
+    id: 100169
+    type: 9
+    arg: "100169"
+    code: Fix_Coin
+    item_name: 修正コイン
+    introduction: 修正コイン
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100170
+    type: 4
+    arg: "100170"
+    code: Nova_medal
+    item_name: 新星勲章・パズルボックスの予想
+    introduction: 新星勲章・パズルボックスの予想
+    rank: 1
+  }
+  {
+    id: 100171
+    type: 4
+    arg: "100171"
+    code: Platinum_medal
+    item_name: 白金勲章・パズルボックスの予想
+    introduction: 白金勲章・パズルボックスの予想
+    rank: 1
+  }
+  {
+    id: 100172
+    type: 1
+    arg: "100172"
+    code: Rouge_Raid
+    item_name: 連合強襲
+    introduction: 獲得後、イベント中の味方部隊はスキル「連合強襲」を得ることができます。アイテム使用後、「狙撃支援」、「砲撃支援」、「空襲支援」の戦場効果を獲得できます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 100173
+    type: 1
+    arg: "100173"
+    code: Rouge_Focus
+    item_name: 集中
+    introduction: 獲得後、イベント中の味方部隊はスキル「集中」を得ることができます。アイテム使用後、同名の戦場効果を獲得できます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 100174
+    type: 1
+    arg: "100174"
+    code: Rouge_Strengthen
+    item_name: 強化
+    introduction: 獲得後、イベント中の味方部隊はスキル「強化」を得ることができます。アイテム使用後、同名の戦場効果を獲得できます。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 100175
     type: 9
     arg: "100175"
@@ -14875,6 +15091,15 @@
     code: Platinum_medal_black
     item_name: 白金勲章・雪の如き浪 花顔を映ず
     introduction: 白金勲章・雪の如き浪 花顔を映ず
+    rank: 1
+  }
+  {
+    id: 100199
+    type: 4
+    arg: "100199"
+    code: Bumdle_2021Enjoy
+    item_name: 新年限定物資箱
+    introduction: 新年限定物資箱
     rank: 1
   }
   {
@@ -15381,6 +15606,136 @@
     item_name: イベントポイント
     introduction: イベントポイント
     rank: 1
+  }
+  {
+    id: 110054
+    type: 4
+    arg: "110054"
+    code: EventPT5
+    item_name: item-10110054
+    introduction: item-20110054
+    rank: 1
+    detail_introduction: item-30110054
+  }
+  {
+    id: 110055
+    type: 4
+    arg: "110055"
+    code: PT
+    item_name: item-10110055
+    introduction: item-20110055
+    rank: 1
+    detail_introduction: item-30110055
+  }
+  {
+    id: 110056
+    type: 4
+    arg: "110056"
+    code: PT
+    item_name: item-10110056
+    introduction: item-20110056
+    rank: 1
+    detail_introduction: item-30110056
+  }
+  {
+    id: 110057
+    type: 4
+    arg: "110057"
+    code: PT
+    item_name: item-10110057
+    introduction: item-20110057
+    rank: 1
+    detail_introduction: item-30110057
+  }
+  {
+    id: 110058
+    type: 4
+    arg: "110058"
+    code: PT
+    item_name: item-10110058
+    introduction: item-20110058
+    rank: 1
+    detail_introduction: item-30110058
+  }
+  {
+    id: 110059
+    type: 4
+    arg: "110059"
+    code: PT
+    item_name: item-10110059
+    introduction: item-20110059
+    rank: 1
+    detail_introduction: item-30110059
+  }
+  {
+    id: 110060
+    type: 4
+    arg: "110060"
+    code: PT
+    item_name: item-10110060
+    introduction: item-20110060
+    rank: 1
+    detail_introduction: item-30110060
+  }
+  {
+    id: 110061
+    type: 4
+    arg: "110061"
+    code: EventPT6
+    item_name: item-10110061
+    introduction: item-20110061
+    rank: 1
+    detail_introduction: item-30110061
+  }
+  {
+    id: 110062
+    type: 4
+    arg: "110062"
+    code: PT
+    item_name: item-10110062
+    introduction: item-20110062
+    rank: 1
+    detail_introduction: item-30110062
+  }
+  {
+    id: 110063
+    type: 4
+    arg: "110063"
+    code: PT
+    item_name: item-10110063
+    introduction: item-20110063
+    rank: 1
+    detail_introduction: item-30110063
+  }
+  {
+    id: 110064
+    type: 4
+    arg: "110064"
+    code: EventPT7
+    item_name: item-10110064
+    introduction: item-20110064
+    rank: 1
+    detail_introduction: item-30110064
+  }
+  {
+    id: 110065
+    type: 4
+    arg: "110065"
+    code: PT
+    item_name: item-10110065
+    introduction: item-20110065
+    rank: 1
+    detail_introduction: item-30110065
+  }
+  {
+    id: 110066
+    type: 4
+    arg: "110066"
+    code: EventPT8
+    item_name: item-10110066
+    introduction: item-20110066
+    rank: 1
+    detail_introduction: item-30110066
   }
   {
     id: 120001
@@ -16039,6 +16394,15 @@
     code: profileFrame_BattlePass_MK3A1
     item_name: アイコンフレーム：解体潮流
     introduction: アイコンフレーム：解体潮流
+    rank: 1
+  }
+  {
+    id: 200022
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_PA15
+    item_name: アイコンフレーム：氷海幻想
+    introduction: アイコンフレーム：氷海幻想
     rank: 1
   }
   {
@@ -17239,6 +17603,56 @@
     code: package_choose
     item_name: 星5人形支援要請書
     introduction: 使用することで、「2022年9月2日(金)」までに実装された「星5戦術人形」から1名を要請できます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500003
+    type: 15
+    arg: "9500003"
+    code: Bumdle_Coupons3
+    item_name: 秘蔵スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500004
+    type: 15
+    arg: "9500004"
+    code: Bumdle_Coupons2
+    item_name: プレミアムスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500005
+    type: 15
+    arg: "9500005"
+    code: Bumdle_Coupons1
+    item_name: 至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500006
+    type: 15
+    arg: "9500006"
+    code: Bumdle_invocation_1
+    item_name: 星4人形支援要請書
+    introduction: 使用することで、「2023年9月15日(金)」の前日までに実装された「星4戦術人形」から1名を要請できます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500007
+    type: 15
+    arg: "9500007"
+    code: Bumdle_invocation_2
+    item_name: 星5人形支援要請書
+    introduction: 使用することで、「2023年9月15日(金)」の前日までに実装された「星5戦術人形」から1名を要請できます。
     rank: 1
     sort: -1
   }
