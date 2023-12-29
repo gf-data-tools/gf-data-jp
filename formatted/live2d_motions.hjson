@@ -2513,7 +2513,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 55102
@@ -2641,7 +2641,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -2735,7 +2735,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 55602
@@ -2862,7 +2862,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -3178,7 +3178,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 56302
@@ -3306,7 +3306,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -4075,7 +4075,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 65002
@@ -4226,7 +4226,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -4621,7 +4621,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 101002
@@ -4748,7 +4748,7 @@
     type: 401
     motion_name: motions/idle.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -5939,7 +5939,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 122002
@@ -6066,7 +6066,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -6782,7 +6782,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 143002
@@ -6918,7 +6918,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -22327,7 +22327,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 530202
@@ -22454,7 +22454,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -22548,7 +22548,7 @@
     type: 101
     motion_name: daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 530502
@@ -22557,7 +22557,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUE1
     text: GUN|4type|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -22567,7 +22567,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUE2
     text: GUN|4type|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -22577,7 +22577,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUE3
     text: GUN|4type|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -22587,7 +22587,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUEWEDDING
     text: GUN|4type|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -22595,7 +22595,7 @@
     type: 401
     motion_name: daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -22605,7 +22605,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUE1
     text: GUN|4type|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -22615,7 +22615,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUE2
     text: GUN|4type|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -22625,7 +22625,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUE3
     text: GUN|4type|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -22635,7 +22635,7 @@
     probability: 1
     voice: GUN|4type|DIALOGUEWEDDING
     text: GUN|4type|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -22644,7 +22644,7 @@
     probability: 1
     voice: GUN|4type|HELLO
     text: GUN|4type|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -22653,7 +22653,7 @@
     probability: 1
     voice: GUN|4type|HELLO
     text: GUN|4type|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -22663,7 +22663,7 @@
     probability: 1
     voice: GUN|4type|CHRISTMAS
     text: GUN|4type|CHRISTMAS
-    name: C
+    name: Standby
     voice_code: CHRISTMAS
   }
   {
@@ -22673,7 +22673,7 @@
     probability: 1
     voice: GUN|4type|CHRISTMAS
     text: GUN|4type|CHRISTMAS
-    name: C
+    name: Standby
     voice_code: CHRISTMAS
   }
   {
@@ -22681,7 +22681,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 530802
@@ -22808,7 +22808,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -22920,7 +22920,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 540202
@@ -23052,7 +23052,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -23152,7 +23152,7 @@
     type: 101
     motion_name: daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 540502
@@ -23161,7 +23161,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUE1
     text: GUN|UMP45|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -23171,7 +23171,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUE2
     text: GUN|UMP45|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -23181,7 +23181,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUE3
     text: GUN|UMP45|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -23191,7 +23191,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUEWEDDING
     text: GUN|UMP45|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -23199,7 +23199,7 @@
     type: 401
     motion_name: daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -23209,7 +23209,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUE1
     text: GUN|UMP45|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -23219,7 +23219,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUE2
     text: GUN|UMP45|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -23229,7 +23229,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUE3
     text: GUN|UMP45|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -23239,7 +23239,7 @@
     probability: 1
     voice: GUN|UMP45|DIALOGUEWEDDING
     text: GUN|UMP45|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -23248,7 +23248,7 @@
     probability: 1
     voice: GUN|UMP45|HELLO
     text: GUN|UMP45|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -23257,7 +23257,7 @@
     probability: 1
     voice: GUN|UMP45|HELLO
     text: GUN|UMP45|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -23267,7 +23267,7 @@
     probability: 1
     voice: GUN|UMP45|NEWYEAR
     text: GUN|UMP45|NEWYEAR
-    name: C
+    name: Standby
     voice_code: NEWYEAR
   }
   {
@@ -23277,7 +23277,7 @@
     probability: 1
     voice: GUN|UMP45|NEWYEAR
     text: GUN|UMP45|NEWYEAR
-    name: C
+    name: Standby
     voice_code: NEWYEAR
   }
   {
@@ -23285,7 +23285,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 550102
@@ -23412,7 +23412,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -23506,7 +23506,7 @@
     type: 101
     motion_name: daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 550202
@@ -23515,7 +23515,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUE1
     text: GUN|QBU88|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -23525,7 +23525,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUE2
     text: GUN|QBU88|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -23535,7 +23535,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUE3
     text: GUN|QBU88|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -23545,7 +23545,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUEWEDDING
     text: GUN|QBU88|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -23553,7 +23553,7 @@
     type: 401
     motion_name: daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -23563,7 +23563,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUE1
     text: GUN|QBU88|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -23573,7 +23573,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUE2
     text: GUN|QBU88|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -23583,7 +23583,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUE3
     text: GUN|QBU88|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -23593,7 +23593,7 @@
     probability: 1
     voice: GUN|QBU88|DIALOGUEWEDDING
     text: GUN|QBU88|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -23602,7 +23602,7 @@
     probability: 1
     voice: GUN|QBU88|HELLO
     text: GUN|QBU88|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -23611,7 +23611,7 @@
     probability: 1
     voice: GUN|QBU88|HELLO
     text: GUN|QBU88|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -23621,7 +23621,7 @@
     probability: 1
     voice: GUN|QBU88|NEWYEAR
     text: GUN|QBU88|NEWYEAR
-    name: C
+    name: Standby
     voice_code: NEWYEAR
   }
   {
@@ -23631,7 +23631,7 @@
     probability: 1
     voice: GUN|QBU88|NEWYEAR
     text: GUN|QBU88|NEWYEAR
-    name: C
+    name: Standby
     voice_code: NEWYEAR
   }
   {
@@ -23639,7 +23639,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 560202
@@ -23787,7 +23787,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -23881,7 +23881,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 560302
@@ -24009,7 +24009,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -24103,7 +24103,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 560402
@@ -24112,7 +24112,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUE1
     text: GUN|95type|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -24122,7 +24122,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUE2
     text: GUN|95type|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -24132,7 +24132,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUE3
     text: GUN|95type|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -24142,7 +24142,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUEWEDDING
     text: GUN|95type|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -24150,7 +24150,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -24160,7 +24160,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUE1
     text: GUN|95type|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -24170,7 +24170,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUE2
     text: GUN|95type|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -24180,7 +24180,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUE3
     text: GUN|95type|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -24190,7 +24190,7 @@
     probability: 1
     voice: GUN|95type|DIALOGUEWEDDING
     text: GUN|95type|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -24199,7 +24199,7 @@
     probability: 1
     voice: GUN|95type|HELLO
     text: GUN|95type|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -24208,7 +24208,7 @@
     probability: 1
     voice: GUN|95type|HELLO
     text: GUN|95type|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -24236,7 +24236,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 570202
@@ -24365,7 +24365,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -24460,7 +24460,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 570302
@@ -24469,7 +24469,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUE1
     text: GUN|M1928A1|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -24479,7 +24479,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUE2
     text: GUN|M1928A1|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -24489,7 +24489,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUE3
     text: GUN|M1928A1|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -24499,7 +24499,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUEWEDDING
     text: GUN|M1928A1|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -24507,7 +24507,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -24517,7 +24517,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUE1
     text: GUN|M1928A1|DIALOGUE1
-    name: C
+    name: Standby
     voice_code: DIALOGUE1
   }
   {
@@ -24527,7 +24527,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUE2
     text: GUN|M1928A1|DIALOGUE2
-    name: C
+    name: Standby
     voice_code: DIALOGUE2
   }
   {
@@ -24537,7 +24537,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUE3
     text: GUN|M1928A1|DIALOGUE3
-    name: C
+    name: Standby
     voice_code: DIALOGUE3
   }
   {
@@ -24547,7 +24547,7 @@
     probability: 1
     voice: GUN|M1928A1|DIALOGUEWEDDING
     text: GUN|M1928A1|DIALOGUEWEDDING
-    name: C
+    name: Standby
     voice_code: DIALOGUEWEDDING
   }
   {
@@ -24556,7 +24556,7 @@
     probability: 1
     voice: GUN|M1928A1|HELLO
     text: GUN|M1928A1|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -24565,7 +24565,7 @@
     probability: 1
     voice: GUN|M1928A1|HELLO
     text: GUN|M1928A1|HELLO
-    name: C
+    name: Standby
     voice_code: HELLO
   }
   {
@@ -24573,7 +24573,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 580202
@@ -24700,7 +24700,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -24795,7 +24795,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 580502
@@ -24922,7 +24922,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -25016,7 +25016,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 590102
@@ -25143,7 +25143,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -25237,7 +25237,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 610202
@@ -25365,7 +25365,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -25460,7 +25460,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 620202
@@ -25587,7 +25587,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -25909,7 +25909,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 640102
@@ -26028,7 +26028,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -26636,7 +26636,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 670102
@@ -26763,7 +26763,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -26870,7 +26870,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 680102
@@ -26997,7 +26997,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -27096,7 +27096,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 690102
@@ -27223,7 +27223,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -27328,7 +27328,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 710102
@@ -27452,7 +27452,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -27556,7 +27556,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 710602
@@ -27695,7 +27695,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -27807,7 +27807,7 @@
     type: 101
     motion_name: motions/daiji.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 720202
@@ -27936,7 +27936,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -28030,7 +28030,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 730302
@@ -28157,7 +28157,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -28258,7 +28258,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 740602
@@ -28386,7 +28386,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -28485,7 +28485,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 740702
@@ -28624,7 +28624,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -28736,7 +28736,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 750102
@@ -28869,7 +28869,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -28965,7 +28965,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 760102
@@ -29099,7 +29099,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -29418,7 +29418,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 780102
@@ -29546,7 +29546,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -29662,7 +29662,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 790202
@@ -29789,7 +29789,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -29883,7 +29883,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 800302
@@ -30010,7 +30010,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -30104,7 +30104,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 810102
@@ -30234,7 +30234,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -30331,7 +30331,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 820302
@@ -30461,7 +30461,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -30558,7 +30558,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 830102
@@ -30690,7 +30690,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -30785,7 +30785,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 840102
@@ -30922,7 +30922,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -31022,7 +31022,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 850202
@@ -31153,7 +31153,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -31254,7 +31254,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 860102
@@ -31332,7 +31332,7 @@
     motion_name: motions/GLS_1.mtn
     touch_area: gls
     probability: 1
-    name: ᥬ
+    name: Wear glasses
     camera: 1
   }
   {
@@ -31341,7 +31341,7 @@
     motion_name: motions/GLS_2.mtn
     touch_area: gls2
     probability: 1
-    name: ᥬͤ⤹
+    name: Remove glasses
     camera: 1
   }
   {
@@ -31393,7 +31393,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -31493,7 +31493,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
   }
   {
     id: 861002
@@ -31624,7 +31624,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: C
+    name: Standby
     is_hurt: 1
   }
   {
@@ -31729,7 +31729,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: live2d_motions-11000401
+    name: Standby
   }
   {
     id: 1000402
@@ -31738,7 +31738,7 @@
     hold_time: "13,15"
     probability: 0.5
     voice: GUN|ZB26|MOOD1
-    name: live2d_motions-11000402
+    name: Interaction(Special) 1
     camera: 1
     delay: 2030
   }
@@ -31749,7 +31749,7 @@
     hold_time: "23,25"
     probability: 0.5
     voice: GUN|ZB26|LOWMOOD
-    name: live2d_motions-11000403
+    name: Interaction(Special) 2
     camera: 1
     delay: 4330
   }
@@ -31761,7 +31761,7 @@
     probability: 1
     voice: GUN|ZB26|DIALOGUE1
     text: GUN|ZB26|DIALOGUE1
-    name: live2d_motions-11000404
+    name: Interaction 1
     camera: 1
     voice_code: DIALOGUE1
   }
@@ -31773,7 +31773,7 @@
     probability: 1
     voice: GUN|ZB26|TIP
     text: GUN|ZB26|TIP
-    name: live2d_motions-11000405
+    name: Interaction 2
     camera: 1
     voice_code: TIP
   }
@@ -31785,7 +31785,7 @@
     probability: 1
     voice: GUN|ZB26|PHRASE
     text: GUN|ZB26|PHRASE
-    name: live2d_motions-11000406
+    name: Interaction 3
     camera: 1
     voice_code: PHRASE
   }
@@ -31797,7 +31797,7 @@
     probability: 1
     voice: GUN|ZB26|FEED
     text: GUN|ZB26|FEED
-    name: live2d_motions-11000407
+    name: Interaction 4
     camera: 1
     delay: 2960
     voice_code: FEED
@@ -31810,7 +31810,7 @@
     probability: 1
     voice: GUN|ZB26|OPERATIONOVER
     text: GUN|ZB26|OPERATIONOVER
-    name: live2d_motions-11000408
+    name: Interaction 5
     camera: 1
     voice_code: OPERATIONOVER
   }
@@ -31822,7 +31822,7 @@
     probability: 1
     voice: GUN|ZB26|NEWYEAR
     text: GUN|ZB26|NEWYEAR
-    name: live2d_motions-11000409
+    name: Interaction 6
     camera: 1
     voice_code: NEWYEAR
   }
@@ -31834,7 +31834,7 @@
     probability: 1
     voice: GUN|ZB26|DIALOGUEWEDDING
     text: GUN|ZB26|DIALOGUEWEDDING
-    name: live2d_motions-11000410
+    name: Post-Oath
     camera: 1
     voice_code: DIALOGUEWEDDING
   }
@@ -31845,7 +31845,7 @@
     probability: 1
     voice: GUN|ZB26|SOULCONTRACT
     text: GUN|ZB26|SOULCONTRACT
-    name: live2d_motions-11000411
+    name: Oath Scene
     camera: 1
     voice_code: SOULCONTRACT
   }
@@ -31855,7 +31855,7 @@
     motion_name: motions/shake.mtn
     probability: 1
     voice: GUN|ZB26|MOOD2
-    name: live2d_motions-11000412
+    name: Shaking
     camera: 1
   }
   {
@@ -31865,7 +31865,7 @@
     probability: 1
     voice: GUN|ZB26|LOADING
     text: GUN|ZB26|LOADING
-    name: live2d_motions-11000413
+    name: Login
     camera: 1
     delay: 500
     voice_code: LOADING
@@ -31875,7 +31875,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1
-    name: live2d_motions-11000414
+    name: Standby
     is_hurt: 1
   }
   {
@@ -31886,7 +31886,7 @@
     probability: 1
     voice: GUN|ZB26|NEWYEAR
     text: GUN|ZB26|NEWYEAR
-    name: live2d_motions-11000415
+    name: Interaction 1
     camera: 1
     is_hurt: 1
     voice_code: NEWYEAR
@@ -31899,7 +31899,7 @@
     probability: 1
     voice: GUN|ZB26|DIALOGUE2
     text: GUN|ZB26|DIALOGUE2
-    name: live2d_motions-11000416
+    name: Interaction 2
     camera: 1
     is_hurt: 1
     voice_code: DIALOGUE2
@@ -31912,7 +31912,7 @@
     probability: 1
     voice: GUN|ZB26|OPERATIONBEGIN
     text: GUN|ZB26|OPERATIONBEGIN
-    name: live2d_motions-11000417
+    name: Interaction 3
     camera: 1
     is_hurt: 1
     delay: 5200
@@ -31926,7 +31926,7 @@
     probability: 1
     voice: GUN|ZB26|FIX
     text: GUN|ZB26|FIX
-    name: live2d_motions-11000418
+    name: Interaction 4
     camera: 1
     is_hurt: 1
     delay: 3500
@@ -31940,7 +31940,7 @@
     probability: 1
     voice: GUN|ZB26|BREAK
     text: GUN|ZB26|BREAK
-    name: live2d_motions-11000419
+    name: Interaction 5
     camera: 1
     is_hurt: 1
     voice_code: BREAK
@@ -31951,7 +31951,7 @@
     motion_name: motions/broken_7.mtn
     touch_area: beijingguan
     probability: 1
-    name: live2d_motions-11000420
+    name: Close Background
     camera: 1
     is_hurt: 1
   }
@@ -31961,7 +31961,7 @@
     motion_name: motions/broken_8.mtn
     touch_area: beijingkai
     probability: 1
-    name: live2d_motions-11000421
+    name: Display Background
     camera: 1
     is_hurt: 1
   }
@@ -31972,7 +31972,7 @@
     probability: 1
     voice: GUN|ZB26|LOADING
     text: GUN|ZB26|LOADING
-    name: live2d_motions-11000422
+    name: Login
     camera: 1
     is_hurt: 1
     delay: 6000
@@ -31983,7 +31983,7 @@
     type: 301
     motion_name: motions/shake.mtn
     probability: 1
-    name: live2d_motions-11000423
+    name: Shaking
     camera: 1
     is_hurt: 1
   }
