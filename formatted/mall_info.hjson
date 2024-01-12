@@ -32263,6 +32263,31 @@
     classification_id: "1008"
   }
   {
+    id: "31863"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力専用補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31864"
+    type: "8"
+    sort: "6"
+    gemprice: "580"
+    quota: "2005"
+    giftbag_name: 慢性虚脱戦備補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_Sangvis
+    discount: "1.00"
+    prize_id: "330276"
+    classification_id: "3002"
+  }
+  {
     id: "99001"
     type: "102"
     gemprice: "980"

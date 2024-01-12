@@ -13258,6 +13258,33 @@
     rank: 1
   }
   {
+    id: 7048
+    type: 7
+    arg: "7045"
+    code: qjyd_20230901
+    item_name: 焦がれる恋心
+    introduction: 相手を見た0.03秒目、視界の中は、ファンタスティックな光に満ち溢れていた。それが、一目惚れだ。
+    rank: 1
+  }
+  {
+    id: 7049
+    type: 7
+    arg: "7046"
+    code: qjyd_20230902
+    item_name: 漂う夢
+    introduction: 一面の花畑も、色とりどりの世界も、必ずしも夢の中にあるわけではない。もしかしたら、あなたのそばにも。
+    rank: 1
+  }
+  {
+    id: 7050
+    type: 7
+    arg: "7047"
+    code: qjyd_20230903
+    item_name: ビッドリズム
+    introduction: 最も簡単な数字に隠されているのは、最も純粋な気持ち。あなたに、この8ビットのドット絵を――メンタルモデルの底より、愛を込めて。
+    rank: 1
+  }
+  {
     id: 7201
     type: 7
     arg: "7201"
@@ -13724,6 +13751,15 @@
     id: 10703
     type: 18
     arg: "10703"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10704
+    type: 18
+    arg: "10704"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -17393,6 +17429,36 @@
     code: Bumdle_4year_Coupons
     item_name: 四周年至高のスキン抽選券
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500071
+    type: 15
+    arg: "1500071"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500072
+    type: 15
+    arg: "1500072"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500073
+    type: 15
+    arg: "1500073"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
     rank: 1
     sort: -1
   }

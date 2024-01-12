@@ -12950,9 +12950,27 @@
     content: 報酬受領
   }
   {
+    id: 5025
+    name: カフェPV報酬-2023年1月大型イベント
+    furniture: "20025"
+    content: 報酬受領
+  }
+  {
     id: 5026
     name: カフェPV報酬-2022年7月大型イベント-Protean
     furniture: "20026"
+    content: 報酬受領
+  }
+  {
+    id: 5027
+    name: カフェPV報酬-2023年5月大型イベント
+    furniture: "20077"
+    content: 報酬受領
+  }
+  {
+    id: 5028
+    name: カフェPV報酬-2023年9月大型イベント
+    furniture: "20078"
     content: 報酬受領
   }
   {
@@ -20216,79 +20234,79 @@
   {
     id: 7447
     name: prize-10007447
-    item_ids: 10703-30
+    item_ids: 10704-30
     content: prize-20007447
   }
   {
     id: 7448
     name: prize-10007448
-    item_ids: 10703-45
+    item_ids: 10704-45
     content: prize-20007448
   }
   {
     id: 7449
     name: prize-10007449
-    item_ids: 10703-60
+    item_ids: 10704-60
     content: prize-20007449
   }
   {
     id: 7450
     name: prize-10007450
-    item_ids: 10703-45
+    item_ids: 10704-45
     content: prize-20007450
   }
   {
     id: 7451
     name: prize-10007451
-    item_ids: 10703-68
+    item_ids: 10704-68
     content: prize-20007451
   }
   {
     id: 7452
     name: prize-10007452
-    item_ids: 10703-90
+    item_ids: 10704-90
     content: prize-20007452
   }
   {
     id: 7453
     name: prize-10007453
-    item_ids: 10703-90
+    item_ids: 10704-90
     content: prize-20007453
   }
   {
     id: 7454
     name: prize-10007454
-    item_ids: 10703-120
+    item_ids: 10704-120
     content: prize-20007454
   }
   {
     id: 7455
     name: prize-10007455
-    item_ids: 10703-75
+    item_ids: 10704-75
     content: prize-20007455
   }
   {
     id: 7456
     name: prize-10007456
-    item_ids: 10703-150
+    item_ids: 10704-150
     content: prize-20007456
   }
   {
     id: 7457
     name: prize-10007457
-    item_ids: 10703-60
+    item_ids: 10704-60
     content: prize-20007457
   }
   {
     id: 7458
     name: prize-10007458
-    item_ids: 10703-135
+    item_ids: 10704-135
     content: prize-20007458
   }
   {
     id: 7459
     name: prize-10007459
-    item_ids: 10703-180
+    item_ids: 10704-180
     content: prize-20007459
   }
   {
@@ -20635,31 +20653,31 @@
   {
     id: 7532
     name: prize-10007532
-    item_ids: 10703-180
+    item_ids: 10704-180
     content: prize-20007532
   }
   {
     id: 7533
     name: prize-10007533
-    item_ids: 10703-270
+    item_ids: 10704-270
     content: prize-20007533
   }
   {
     id: 7534
     name: prize-10007534
-    item_ids: 10703-360
+    item_ids: 10704-360
     content: prize-20007534
   }
   {
     id: 7535
     name: prize-10007535
-    item_ids: 10703-112
+    item_ids: 10704-112
     content: prize-20007535
   }
   {
     id: 7536
     name: prize-10007536
-    item_ids: 10703-90
+    item_ids: 10704-90
     content: prize-20007536
   }
   {
@@ -25989,6 +26007,42 @@
       '''
   }
   {
+    id: 12348
+    name: 改良型12.7mm弾
+    equip_ids: "361"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力+20
+      破甲+200
+      6P62専用
+      '''
+  }
+  {
+    id: 12349
+    name: 特製Berettaチップ
+    equip_ids: "363"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力+18 射速+25
+      会心ダメージ-50%
+      AR70専用
+      '''
+  }
+  {
+    id: 12350
+    name: 特殊MAS弾
+    equip_ids: "362"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力+5
+      破甲+500
+      AAT-52専用
+      '''
+  }
+  {
     id: 12401
     name: キャンディポケット
     item_ids: 7001-1
@@ -26268,6 +26322,24 @@
     name: prize-10012447
     item_ids: 7047-1
     content: prize-20012447
+  }
+  {
+    id: 12448
+    name: prize-10012448
+    item_ids: 7048-1
+    content: prize-20012448
+  }
+  {
+    id: 12449
+    name: prize-10012449
+    item_ids: 7049-1
+    content: prize-20012449
+  }
+  {
+    id: 12450
+    name: prize-10012450
+    item_ids: 7050-1
+    content: prize-20012450
   }
   {
     id: 12501
@@ -41976,6 +42048,18 @@
     content: prize-20121005
   }
   {
+    id: 121006
+    name: prize-10121006
+    furniture: "7242"
+    content: prize-20121006
+  }
+  {
+    id: 121007
+    name: prize-10121007
+    furniture: "7243"
+    content: prize-20121007
+  }
+  {
     id: 130001
     name: prize-10130001
     item_ids: 1500014-1
@@ -43136,7 +43220,7 @@
   {
     id: 150040
     name: prize-10150040
-    item_ids: 1500060-1
+    item_ids: 1500071-1
     content: prize-20150040
   }
   {
@@ -43196,7 +43280,7 @@
   {
     id: 150050
     name: prize-10150050
-    item_ids: 1500061-1
+    item_ids: 1500072-1
     content: prize-20150050
   }
   {
@@ -43256,7 +43340,7 @@
   {
     id: 150060
     name: prize-10150060
-    item_ids: 1500062-1
+    item_ids: 1500073-1
     content: prize-20150060
   }
   {
@@ -43276,6 +43360,24 @@
     name: prize-10150076
     equip_ids: "236,278,247"
     content: prize-20150076
+  }
+  {
+    id: 150077
+    name: prize-10150077
+    equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150077
+  }
+  {
+    id: 150078
+    name: prize-10150078
+    equip_ids: "211,337,338,342,343"
+    content: prize-20150078
+  }
+  {
+    id: 150079
+    name: prize-10150079
+    equip_ids: "236,278,247,295,105"
+    content: prize-20150079
   }
   {
     id: 220011

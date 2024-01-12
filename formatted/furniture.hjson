@@ -19166,6 +19166,42 @@
     interact_point_offset: *0,0.06,0
   }
   {
+    id: 7242
+    name: 揺れる空
+    classes: 72
+    type: 201
+    space: "7,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: これは「シーソー」という名前の昔の遊具だが、どうやら安全面の問題があって、公園から取り外されたらしい。しかし、ちびっ子の人形たちにとって、その有り余る精力を発散するにはちょうどいいシロモノだ――ん？アーキテクトがこれを使って爆弾を打ち上げようとしていると！？逃げろ！今すぐ！
+    code: qjyd_20230901_deco_1,qjyd_20230901_deco_2,qjyd_20230901_deco_3
+    texture_type: "2,2,2"
+    sorting: "20,10,0"
+    offset: "0,0,0|0.010427,0.062562,0|0,0.062562,0"
+    rotate: "2,2,2"
+    interact_point: "872421,872422"
+    interact_point_offset: "0,0,0|0,0,0"
+    touch_area: "4,4,0"
+  }
+  {
+    id: 7243
+    name: 眠りの深淵
+    classes: 72
+    type: 201
+    space: "6,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 見た目は恐ろしいサメだが、人形の間では非常に人気らしい。話を聞いたところ、これの中に頭を突っ込めば、一瞬で安眠につくことができるだとか。しかも最近、指揮官もこれにハマっている。
+    code: qjyd_20230902_deco
+    texture_type: "2"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "87243"
+    interact_point_offset: *-2.567,0.911,0.000
+    touch_area: "4,4,0"
+  }
+  {
     id: 7301
     name: 水族館-フロア
     classes: 73
@@ -26999,6 +27035,21 @@
     rotate: "3"
   }
   {
+    id: 20025
+    name: ポスター-回帰定理
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2023年1月大型イベント-回帰定理の限定ポスター
+    code: pv_2021summer
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 20026
     name: ポスター-鏡像論-Protean
     classes: 20
@@ -27707,6 +27758,36 @@
     code: 2022_Carnival_deco_drawing
     texture_type: "1"
     offset: "0,0.542204,0"
+    rotate: "3"
+  }
+  {
+    id: 20077
+    name: ポスター-2023静止点
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2023年5月大型イベント-静止点の限定ポスター
+    code: pv_2022winter
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
+    id: 20078
+    name: ポスター-2023縦軸歪曲
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2023年9月大型イベント-縦軸歪曲の限定ポスター
+    code: pv_2022summer
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
     rotate: "3"
   }
   {

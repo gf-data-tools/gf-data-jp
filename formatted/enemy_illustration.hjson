@@ -3602,6 +3602,29 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    id: 181
+    name: スケアクロウ-来る年のナイトメア
+    type: 1
+    code: Scarecrow_SpringFes
+    introduce: スケアクロウの火力強化型。新型の浮遊砲台により、本来のスケアクロウと比べて火力が格段に上がっている。指揮ポートも強化されており、以前よりも浮遊砲台を自由に制御できるようになった。服装のデザインは、一年の終わりに人々や村を襲う伝説の妖怪に由来している。その目は夜の闇を見通し、その爪はあらゆる障害を切り裂く……まさに、今のスケアクロウのようだ。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 正体不明,慎重に対処を！
+    character: "1001"
+    enemy_skill: "179,116,180,181,182,183"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",奥野香耶,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+  }
+  {
     id: 182
     name: クラスター従者
     type: 1
