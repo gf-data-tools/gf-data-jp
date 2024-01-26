@@ -4,7 +4,7 @@ BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:ここは倉庫なの？　�
 BossJustice(0)<Speaker>ジャッジ</Speaker>||:情報によると、ここは思考訓練と電子戦の訓練エリアみたいだ。
 BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:電子戦の訓練？　こんな小さな空間で？
 BOSS-11(0)<Speaker>ドリーマー</Speaker>||:とりあえず、調べてみましょう。
-()||<BIN>461</BIN><hide_dialogue><branchstyle>BranchLabel</branchstyle><t></t><tips>点击放大镜，进行敏感信息挖掘</tips>:虫眼鏡をタップして、現場の情報を発掘しましょう<cg>480,-400<cg>800,20<cg>-50,350
+()||<BIN>461</BIN><hide_dialogue><branchstyle>BranchLabel</branchstyle><t></t><tips>虫眼鏡をタップして、現場の情報を発掘しましょう</tips>:虫眼鏡をタップして、現場の情報を発掘しましょう<cg>480,-400<cg>800,20<cg>-50,350
 ()||<分支>1</分支><BGM>BGM_Empty</BGM><黑屏1>:
 ()||<分支>1</分支><黑屏2><BIN>447</BIN>:
 ()||<分支>1</分支><BGM>GF_21summer_avg_Demon</BGM>:アルケミストは、他の訓練室と違う広い部屋を発見した。+ドアを開けると、他の部屋の倍ぐらいあるようだ。

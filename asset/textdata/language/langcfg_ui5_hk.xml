@@ -448,6 +448,7 @@
     <maxsize>50</maxsize>
     <isOrnamental>False</isOrnamental>
     <ignoreOrnament>False</ignoreOrnament>
+    <xmlLanCfgID>260032</xmlLanCfgID>
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Description/Tex_Pre">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Description/Tex_Pre</xmlID>
@@ -465,6 +466,7 @@
     <maxsize>48</maxsize>
     <isOrnamental>False</isOrnamental>
     <ignoreOrnament>False</ignoreOrnament>
+    <xmlLanCfgID>260033</xmlLanCfgID>
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Description/Num">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Description/Num</xmlID>
@@ -485,7 +487,7 @@
   <item des="Assets/_Scenes/HotUpdate.unity/Description/Tex_Post">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Description/Tex_Post</xmlID>
     <rect>(651.0, -26.0),(289.8, 86.3)</rect>
-    <textfont>JDJSCU</textfont>
+    <textfont>cusong</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>48</fontsize>
     <linespac>1</linespac>
@@ -498,11 +500,12 @@
     <maxsize>48</maxsize>
     <isOrnamental>False</isOrnamental>
     <ignoreOrnament>False</ignoreOrnament>
+    <xmlLanCfgID>260034</xmlLanCfgID>
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Btn_Cancel/UI_Text">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Btn_Cancel/UI_Text</xmlID>
     <rect>(34.4, 2.1),(141.5, 67.3)</rect>
-    <textfont>JDJSCU</textfont>
+    <textfont>cusong</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>67</fontsize>
     <linespac>1</linespac>
@@ -515,11 +518,12 @@
     <maxsize>0</maxsize>
     <isOrnamental>False</isOrnamental>
     <ignoreOrnament>False</ignoreOrnament>
+    <xmlLanCfgID>260035</xmlLanCfgID>
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Btn_Confirm/UI_Text">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Btn_Confirm/UI_Text</xmlID>
     <rect>(34.4, 2.1),(141.5, 67.3)</rect>
-    <textfont>JDJSCU</textfont>
+    <textfont>cusong</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>67</fontsize>
     <linespac>1</linespac>
@@ -532,11 +536,12 @@
     <maxsize>0</maxsize>
     <isOrnamental>False</isOrnamental>
     <ignoreOrnament>False</ignoreOrnament>
+    <xmlLanCfgID>260036</xmlLanCfgID>
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Btn_Ok/Tex_Confirm_25">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Btn_Ok/Tex_Confirm_25</xmlID>
     <rect>(339.0, 3.0),(380.0, 56.0)</rect>
-    <textfont>JDJSTE</textfont>
+    <textfont>cusong</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>53</fontsize>
     <linespac>1</linespac>

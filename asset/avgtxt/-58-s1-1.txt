@@ -12,7 +12,7 @@ BossJustice(0)<Speaker>ジャッジ</Speaker>||:現在地点は、アヴェル�
 BossJustice(0)<Speaker></Speaker><同时置暗>||:……
 BossJustice(0)<Speaker>ジャッジ</Speaker>||:ではこれより、SSE現場情報発掘を開始する。
 ()||<SE1>AVG_tele_connect</SE1>:（ピッーー）
-()||<BIN>448</BIN><hide_dialogue><branchstyle>BranchLabel</branchstyle><t></t><tips>点击放大镜，进行敏感信息挖掘</tips>:虫眼鏡をタップして、現場の情報を発掘しましょう<cg>-300,300<cg>300,0<cg>480,-150<cg>-480,-120
+()||<BIN>448</BIN><hide_dialogue><branchstyle>BranchLabel</branchstyle><t></t><tips>虫眼鏡をタップして、現場の情報を発掘しましょう</tips>:虫眼鏡をタップして、現場の情報を発掘しましょう<cg>-300,300<cg>300,0<cg>480,-150<cg>-480,-120
 ()||<分支>1</分支><黑屏1>:
 ()||<分支>1</分支><黑屏2><BIN>99</BIN>:……+アヴェルヌス外部デッキの周辺では、雨が降っている。+武器や薬莢、素体の残骸などが、そこら辺に散らばっている。+黒い煙から、鼻を突き刺すようなひどい匂いがする。+転倒した輸送車は今もバチバチと火花を上げており、車内から//n白い兵士が半分だけ身を乗り出していた。どうやら逃げようとして//n砲撃に遭ったようだ。
 ()<Speaker>デストロイヤーの声</Speaker>||<分支>1</分支>:あれ、D班のヘリ！
