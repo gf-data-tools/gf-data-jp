@@ -27950,6 +27950,155 @@
     bonus_id: 3104
   }
   {
+    id: 20092
+    name: 冬の訪れ
+    classes: 19
+    type: 201
+    space: "7,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 愚かな人類よ、これは未来への道である。この中で誕生したものは、貴様らの最悪な世界を完全に変えてくれるだろう。だから、こいつを起動する前に、まずは第三層においてあるその灰皿をどかすのだ。
+    code: 2023WinterActivity_Library_deco
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20093
+    name: 百万の薔薇
+    classes: 19
+    type: 201
+    space: "5,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 美しい楽曲とは、命のドレスであって、生存の条件ではない。それには人々の美しさへの憧れが託されており、そして非凡なる気高さは憧れの中から生まれる……時が経てば経つほど、香り立つ。
+    code: 2023WinterActivity_cdplayer_deco
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20094
+    name: 灰燼のドーム
+    classes: 19
+    type: 101
+    space: "10,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 行き交う人々は、自分たちの通った地面を気にかけることがない。しかし地面は、自分に乗せた想いをいつも覚えている。土地の価値とは、そこにあったものではなく、それが見届けてきたものにある……悲しみ、離別、そして無数の灰燼。
+    code: 2023WinterActivity_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 20095
+    name: 自由の枷
+    classes: 19
+    type: 201
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: かつては束縛の象徴だったが、その本来の機能が失われ、ただの模型となった後、もう二度と恐れられなくなった。今となっては、却って自由の象徴だ――デザインも悪くないし。
+    code: 2023WinterActivity_Gospelaxis_deco
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20096
+    name: 聖杯号
+    classes: 19
+    type: 302
+    space: "5,8,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 遺跡署作業着「聖杯号」。これこそ、研究に身を捧げた我らの服装。常に限界を挑んでいるため、この作業着のデザインもある程度その影響を受け、我々の遺跡に対する期待が表れている。
+    code: 2023WinterActivity_uniform_deco
+    texture_type: "1"
+    offset: "0.000,0.365,0.000"
+    rotate: "3"
+  }
+  {
+    id: 20097
+    name: 過去の影
+    classes: 19
+    type: 302
+    space: "4,9,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 人々が写真機を発明したのは、一番大切な思い出を一番美しい瞬間に留めるためだ。過去に戻ることはできない、だからこそ、思い出は大切になる。
+    code: 2023WinterActivity_Laplace,2023WinterActivity_Laplace_deco_A,2023WinterActivity_Laplace_deco_B
+    texture_type: "1,2,2"
+    sorting: "0,10,20"
+    offset: "0.000,0.198,0.000|0.052,-0.038,0.000|0.000,-1.092,0.000"
+    rotate: "3,3,3"
+    interact_point: "106"
+    interact_point_offset: *-0.399,4.265,-0.523
+  }
+  {
+    id: 20098
+    name: 獲物狙う狼の群れ
+    classes: 19
+    type: 201
+    space: "9,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 狼の天性は人と似ている。群れで生きるため、彼らはそれぞれの役職を果たし、お互いを助け合う。どんな狼でも、群れなしでは生きていけない……自分が群れにとってお荷物だと気づくまでは。
+    code: 2023WinterActivity_Defy,2023WinterActivity_Defy_deco
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.000,0.000,0.000|0.177,0.031,0.010"
+    rotate: "2,2"
+  }
+  {
+    id: 20099
+    name: 暁の地平線
+    classes: 19
+    type: 301
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 希望とは危険なものだ。この荒廃した世界で、希望など何の役にも立たない。希望を抱く度に、傷つけられてしまう……それでも、希望は消えたりはしない。この世界がどれほど荒んでいても、明日の太陽は昇ると同じように。
+    code: 2023WinterActivity_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20100
+    name: 名も無き者
+    classes: 19
+    type: 201
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 英雄の名は求めず、人々に記憶されることも望まず、その淡々とした表情の裏にあるのは、名も無き熱き魂だ……本人にこれを見られたら、粉々に砕かれるかもしれない。
+    code: 2023WinterActivity_Ange_deco,2023WinterActivity_Ange_decoA
+    texture_type: "2,1"
+    sorting: "10,0"
+    offset: "0.001,1.140,0.264|0.081,-0.035,-0.008"
+    rotate: "2,2"
+    interact_point: "64"
+    interact_point_offset: *2.771,0.000,0.000
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20101
+    name: 湖底のナビゲーター
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「慢性虚脱」にて称えられる功績を残したことを表彰する。「未踏の氷山を征服するよりも、心の奥深くにある湖の底を探索する方が、よほど勇気が必要だ」
+    code: 2023WinterActivity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 20110
     name: 荒野の風
     classes: 81
@@ -41447,6 +41596,21 @@
     decompose_gift: 100003
     description: SPSA-15のポスター。
     code: poster_BattlePass_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330012
+    name: キューティトレーナー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M327のポスター。
+    code: poster_BattlePass_M327
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

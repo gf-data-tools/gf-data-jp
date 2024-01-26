@@ -2658,8 +2658,7 @@
   }
   {
     id: 583600
-    name: mission_buff_config-10583600
-    description: mission_buff_config-20583600
+    name: ダンデライオン
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -2694,8 +2693,7 @@
   }
   {
     id: 584900
-    name: mission_buff_config-10584900
-    description: mission_buff_config-20584900
+    name: アンジェリア
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4813,8 +4811,8 @@
   }
   {
     id: 6360000
-    name: mission_buff_config-16360000
-    description: mission_buff_config-26360000
+    name: 【标记】NPC标记1
+    description: 初始化
     type: 1
     duration_type: "5,1"
     duration_time: "1,1"
@@ -4826,8 +4824,8 @@
   }
   {
     id: 6360001
-    name: mission_buff_config-16360001
-    description: mission_buff_config-26360001
+    name: 【标记】NPC标记2
+    description: 移动1
     type: 1
     duration_type: "5,1"
     duration_time: "1,1"
@@ -4840,8 +4838,8 @@
   }
   {
     id: 6360002
-    name: mission_buff_config-16360002
-    description: mission_buff_config-26360002
+    name: 【标记】NPC标记3
+    description: 移动2
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -4852,8 +4850,7 @@
   }
   {
     id: 6360003
-    name: mission_buff_config-16360003
-    description: mission_buff_config-26360003
+    name: 【标记】干扰buff
     code: debuff
     type: 2
     duration_type: "1"
@@ -4865,8 +4862,8 @@
   }
   {
     id: 6360004
-    name: mission_buff_config-16360004
-    description: mission_buff_config-26360004
+    name: 【标记】携带EMPbuff
+    description: EMP手榴弾携帯中
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -4877,8 +4874,8 @@
   }
   {
     id: 6360005
-    name: mission_buff_config-16360005
-    description: mission_buff_config-26360005
+    name: 【标记】携带歌利亚buff
+    description: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -4889,8 +4886,7 @@
   }
   {
     id: 6360006
-    name: mission_buff_config-16360006
-    description: mission_buff_config-26360006
+    name: 【标记】强化梯队
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -4900,8 +4896,8 @@
   }
   {
     id: 6360007
-    name: mission_buff_config-16360007
-    description: mission_buff_config-26360007
+    name: 【标记】梯队被强化
+    description: 属性提升
     code: buff
     type: 1
     duration_type: "1"
@@ -4912,8 +4908,7 @@
   }
   {
     id: 6360008
-    name: mission_buff_config-16360008
-    description: mission_buff_config-26360008
+    name: 【标记】M4定身
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -6405,8 +6400,8 @@
   }
   {
     id: 6580000
-    name: mission_buff_config-16580000
-    description: mission_buff_config-26580000
+    name: 梯队状态
+    description: 元気(このターンの交戦回数:0)
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -6419,8 +6414,8 @@
   }
   {
     id: 6580001
-    name: mission_buff_config-16580001
-    description: mission_buff_config-26580001
+    name: 梯队状态
+    description: 元気(このターンの交戦回数:1)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6434,8 +6429,8 @@
   }
   {
     id: 6580002
-    name: mission_buff_config-16580002
-    description: mission_buff_config-26580002
+    name: 梯队状态
+    description: 元気(このターンの交戦回数:2)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6449,8 +6444,8 @@
   }
   {
     id: 6580003
-    name: mission_buff_config-16580003
-    description: mission_buff_config-26580003
+    name: 梯队状态
+    description: 疲労度I(このターンの交戦回数:3)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6465,8 +6460,8 @@
   }
   {
     id: 6580004
-    name: mission_buff_config-16580004
-    description: mission_buff_config-26580004
+    name: 梯队状态
+    description: 疲労度I(このターンの交戦回数:4)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6481,8 +6476,8 @@
   }
   {
     id: 6580005
-    name: mission_buff_config-16580005
-    description: mission_buff_config-26580005
+    name: 梯队状态
+    description: 疲労度I(このターンの交戦回数:5)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6497,8 +6492,8 @@
   }
   {
     id: 6580006
-    name: mission_buff_config-16580006
-    description: mission_buff_config-26580006
+    name: 梯队状态
+    description: 疲労度II(このターンの交戦回数:6)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6513,8 +6508,8 @@
   }
   {
     id: 6580007
-    name: mission_buff_config-16580007
-    description: mission_buff_config-26580007
+    name: 梯队状态
+    description: 疲労度II(このターンの交戦回数:7)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6529,8 +6524,8 @@
   }
   {
     id: 6580008
-    name: mission_buff_config-16580008
-    description: mission_buff_config-26580008
+    name: 梯队状态
+    description: 疲労度III(このターンの交戦回数:8)
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6545,8 +6540,8 @@
   }
   {
     id: 6580009
-    name: mission_buff_config-16580009
-    description: mission_buff_config-26580009
+    name: 梯队状态
+    description: 疲労困憊
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6558,8 +6553,8 @@
   }
   {
     id: 6580010
-    name: mission_buff_config-16580010
-    description: mission_buff_config-26580010
+    name: 携带弹药
+    description: 残り弾薬数:1
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -6570,8 +6565,8 @@
   }
   {
     id: 6580011
-    name: mission_buff_config-16580011
-    description: mission_buff_config-26580011
+    name: 携带弹药
+    description: 残り弾薬数:2
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -6582,8 +6577,8 @@
   }
   {
     id: 6580012
-    name: mission_buff_config-16580012
-    description: mission_buff_config-26580012
+    name: 携带弹药
+    description: 残り弾薬数:3
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -6594,8 +6589,7 @@
   }
   {
     id: 6580013
-    name: mission_buff_config-16580013
-    description: mission_buff_config-26580013
+    name: 【标记】可携带弹药
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -6605,8 +6599,7 @@
   }
   {
     id: 6580014
-    name: mission_buff_config-16580014
-    description: mission_buff_config-26580014
+    name: 【标记】炮台支援buff
     type: 1
     duration_type: "2"
     duration_time: "1"
@@ -6615,8 +6608,8 @@
   }
   {
     id: 6580015
-    name: mission_buff_config-16580015
-    description: mission_buff_config-26580015
+    name: 携带buff
+    description: プラスチック爆弾携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -6627,8 +6620,8 @@
   }
   {
     id: 6580016
-    name: mission_buff_config-16580016
-    description: mission_buff_config-26580016
+    name: 信号强化
+    description: 可以抵抗福音枢椎的效果
     code: AK74M
     type: 1
     duration_type: "1"
@@ -6716,8 +6709,8 @@
   }
   {
     id: 6580107
-    name: mission_buff_config-16580107
-    description: mission_buff_config-26580107
+    name: 禁足
+    description: 移動禁止
     code: Theresa_Back
     type: 2
     duration_type: "1"
@@ -6750,8 +6743,8 @@
   }
   {
     id: 6580110
-    name: mission_buff_config-16580110
-    description: mission_buff_config-26580110
+    name: 禁足
+    description: 禁止移动且降低各项属性
     code: Theresa_Back
     type: 2
     duration_type: "1"
@@ -7640,8 +7633,8 @@
   }
   {
     id: 9583801
-    name: mission_buff_config-19583801
-    description: mission_buff_config-29583801
+    name: 携带buff
+    description: EMP携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"

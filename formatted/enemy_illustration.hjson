@@ -3890,6 +3890,384 @@
     spine_scale: "70,70,1"
   }
   {
+    id: 195
+    name: スケアクロウ
+    type: 1
+    code: Scarecrow
+    introduce: 情報の収集と分析が得意で、正面きっての戦闘は苦手。鉄血人形の中での地位は低め。理性派で、無口かつ毒舌。職務を忠実に遂行し、感性というものを見下す。感情豊かで服従しか知らないグリフィン人形に優越感を抱いている。
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,306,307"
+    enemy_skill: "184,185,186"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 196
+    name: アーキテクト
+    type: 1
+    code: BossArchitect
+    introduce: 遠距離破壊と火力支援に長け、戦闘能力は高い。通常は単独行動を好む。活発で明るく能天気な少女で、いつでもハイテンション。グリフィンに対しても特に敵対意識がない。鉄血の命令には最小限のみ従うが、爆破と破壊には異様に熱中するため、敵からはかなり危険視されている。
+    forces: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,319"
+    enemy_skill: "187,188,189"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 197
+    name: イントゥルーダー
+    type: 1
+    code: Intruder
+    introduce: 戦闘策略の提供を担当。また暗号解読と妨害任務も得意で、戦闘人形を直接指揮できる比較的優れた人材。ゲーガーへの直接管理権を持つ。上品で穏やかな言動の背後に、大きな虚無を感じさせる。人類の演劇が好きで、自分自身を投影しているようだ。
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,306"
+    enemy_skill: "190,191,192"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 198
+    name: デストロイヤー
+    type: 1
+    code: DestroyerPlus
+    introduce: 爆破任務が得意で、爆弾処理も専門家レベル。戦闘能力も高く、アルケミストとコンビを組むことも。普段は高慢で毒舌だが実はツンデレ。少し子供っぽく、焦るとべそをかく。自分の身長をかなり気にしている。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,319"
+    enemy_skill: "193,194,195"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 199
+    name: ジャッジ
+    type: 1
+    code: Justice
+    introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
+    forces: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,309,307"
+    enemy_skill: "196,197,198"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 200
+    name: アラクネ
+    type: 2
+    code: MechanicalSpiderM
+    introduce: 蜘蛛型の戦闘ロボの母機。高い安定性と機動性を有しており、同時に大量の小型戦闘ロボを搭載している。あらゆる戦闘において恐ろしい敵となる。
+    forces: 3
+    pow_rank: 3
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 3
+    armor_rank: 5
+    speed_rank: 3
+    range_rank: 2
+    counter: 重装甲ユニット。複製体を操って戦う。本体の防御力が高く、部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,1005,302,309,321"
+    enemy_skill: "199,200,201"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+    tenacity_rank: 3
+  }
+  {
+    id: 201
+    name: アラクネ複製体
+    type: 2
+    code: MechanicalSpiderS
+    introduce: 蜘蛛型の小型戦闘ロボ。機動性は非常に高く、攻撃力も高い。どんな相手に対しても有効にダメージを与えることができ、群れで行動するため、非常に厄介な相手である。
+    forces: 3
+    pow_rank: 3
+    life_rank: 1
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 4
+    armor_rank: 1
+    speed_rank: 5
+    range_rank: 1
+    counter: 高い回避を持ち、高速で味方部隊に接近して来る。早い段階で殲滅することがおすすめ。
+    character: "303,304,306,309,316"
+    enemy_skill: "202"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 202
+    name: トロイ
+    type: 4
+    code: Fortress
+    introduce: 要塞級の超大型戦闘ロボ。陸上部隊を搭載することも可能。戦略兵器レベルの破壊力を有しており、戦局を左右できる戦闘ユニット。
+    forces: 3
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 1
+    rate_rank: 3
+    armor_rank: 6
+    speed_rank: 3
+    range_rank: 3
+    counter: 非常に高い防御力と範囲攻撃能力を有している。最優先で倒すことがおすすめ。
+    character: "1001,1005,302,309,319,313"
+    enemy_skill: "203,204,205"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+    tenacity_rank: 5
+  }
+  {
+    id: 203
+    name: エンジニア
+    type: 3
+    code: Engineer
+    introduce: 支援用工兵人形ユニット。自身の戦闘力は低いが、支援ユニットとしては非常に厄介な存在である。ドローンでいつも戦場の状況を俯瞰している。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 2
+    rate_rank: 6
+    speed_rank: 3
+    range_rank: 3
+    counter: このユニットは常にドローンを製造し続け、戦闘を支援する。長期戦に陥らないように注意を。
+    character: "1001,321"
+    enemy_skill: "206,169"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 204
+    name: ラドン
+    type: 4
+    code: Mecha_N
+    introduce: パラデウス製の最新の大型重機甲ユニット。あらゆる作戦に適しており、いかなる場合においても無類の破壊力を発揮する。非常に恐ろしい敵である。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 4
+    armor_rank: 5
+    speed_rank: 3
+    range_rank: 5
+    counter: 重装甲ユニット。ほぼすべての能力において高水準である。交戦するタイミングに注意せよ。
+    character: "1001,1003,302,309,313,319,310"
+    enemy_skill: "207,208"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "50,50,1"
+  }
+  {
+    id: 205
+    name: アーティレリィ
+    type: 3
+    code: Artillery
+    introduce: ガンナーの発展型ユニット。火力と装甲がさらに向上したが、代わりに移動速度が落ちている。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 2
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 4
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1003,319,316"
+    enemy_skill: "209,210"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 206
+    name: サナ
+    type: 1
+    code: Nyto_mecha2
+    introduce: パラデウスのエリートユニット。見た目はただのか弱い少女だが、一度仮面を被り、専用機に搭乗すれば、瞬く間に恐ろしい相手と化す。
+    forces: 3
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 6
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 7
+    counter: 非常に強いジャミング能力を持っている。注意して対処せよ。
+    character: "1001,216"
+    enemy_skill: "211,212,213,214,215,216"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 207
+    name: ガングラティ
+    type: 1
+    code: Pamzan_Final
+    introduce: パラデウス所属の謎の殺し屋。人間の肉体と機械の継ぎ接ぎで出来た不気味な存在。使用されている技術は、他のパラデウスとどこか違うようだ。
+    forces: 3
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 2
+    speed_rank: 4
+    range_rank: 3
+    counter: 一撃必殺の能力を有している。注意して対処せよ。
+    character: "1001"
+    enemy_skill: "217,218,219,220"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+    tenacity_rank: 5
+  }
+  {
+    id: 208
+    name: M4A1ダミー
+    type: 3
+    code: M4A1_enemy
+    introduce: M4A1のダミー。本体のような優柔不断さはなく、完璧に命令に従う。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 209
+    name: AR-15ダミー
+    type: 3
+    code: AR15_enemy
+    introduce: AR-15のダミー。嫌味を言わないところ以外、本体とほとんど同じ。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 210
+    name: SOPIIダミー
+    type: 3
+    code: M4 SOPMOD II_enemy
+    introduce: SOPIIのダミー。本体とほぼ同じように行動する。敵はその笑い声を聞いただけで逃げ出す。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 211
+    name: M16A1
+    type: 3
+    code: M16A1Griffin
+    introduce: 特別な使命と権限を与えられたM16A1。重要な分岐点に立つ度に、AR小隊を正しい道へと導いてくれる。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 212
+    name: 警備団の戦闘員
+    type: 3
+    code: USSR_Agent
+    introduce: ベスラン警備団の武装戦闘員。狂信的な者たちで構成されており、戦闘訓練も受けている。銃などの武器を扱うことができ、警備団の武力の中枢を担っている。
+    pow_rank: 1
+    life_rank: 3
+    hit_rank: 2
+    dodge_rank: 3
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001"
+    launch_time: 2035-5-20 00:00:00
+  }
+  {
+    id: 213
+    name: 弱ったアスクレピオスの杖
+    type: 3
+    code: Obelisk_partB
+    introduce: マシンガンを使用する重火力型人形。エネルギーをチャージ後、プラズマビームを3回発射する。プラズマビームは一定の回避を無視し、ブラインド状態を付与する。【アケソの皿】と合体後、より強力になる。今は弱っているため、火力が大幅に低下している。
+    forces: 3
+    pow_rank: 1
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 1
+    range_rank: 4
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,1003,335,320"
+    enemy_skill: "130"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
     id: 100001
     name: ゲベンヌ
     type: 1

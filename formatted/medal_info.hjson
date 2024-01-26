@@ -236,6 +236,27 @@
     decorate_code: Logo_Events
   }
   {
+    id: "22"
+    order: "78"
+    evo_step: "1"
+    appearance_id: "120"
+    item_id: "121"
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
+  {
+    id: "23"
+    order: "77"
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "121,122,123,124,125,126,127,128,129,130,131,132"
+    item_id: "122"
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
     id: "25"
     name: 域外局地戦区開拓者勲章
     order: "75"

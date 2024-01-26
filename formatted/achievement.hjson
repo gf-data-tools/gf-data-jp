@@ -15832,4 +15832,55 @@
     sort: 305
     icon_code: 日常_彩蛋
   }
+  {
+    identity: 1071
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 足場なし
+    content: 慢性虚脱-SUM 生きることとは戦うことだ-UX：廃棄建築を4つ爆破してからクリアする
+    type_sort: 100
+    sort: 306
+    icon_code: 无处落脚
+    condition: 11382:1138202
+  }
+  {
+    identity: 1072
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 死神とハイタッチ
+    content: 慢性虚脱-AUT 死の島：通常難易度で人質を2名救出、または、UX難易度で人質を3名救出する
+    type_sort: 100
+    sort: 307
+    icon_code: 与死神击掌
+    condition: 11355:1135502,11384:1138402
+  }
+  {
+    identity: 1073
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 谷底のエコー
+    content: 慢性虚脱のエンディングテーマを最後まで鑑賞する。
+    type_sort: 100
+    sort: 308
+    icon_code: 谷底回声
+    condition: "11418"
+  }
 ]

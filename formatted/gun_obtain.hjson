@@ -406,6 +406,18 @@
     description: -期間限定イベント【雪の如き浪 花顔を映ず】ショップ引換
   }
   {
+    obtain_id: 257
+    description: -期間限定イベント【慢性虚脱】人質救援で獲得
+  }
+  {
+    obtain_id: 258
+    description: -期間限定イベント【慢性虚脱】クリア報酬
+  }
+  {
+    obtain_id: 259
+    description: -期間限定イベント【慢性虚脱】物資箱で獲得
+  }
+  {
     obtain_id: 301
     description: -イベント【赤色のテーゼ】報酬
   }
@@ -548,6 +560,14 @@
   {
     obtain_id: 513
     description: -期間限定イベント【静止点】ランキングモード報酬
+  }
+  {
+    obtain_id: 514
+    description: -期間限定イベント【縦軸歪曲】ランキングモード報酬
+  }
+  {
+    obtain_id: 515
+    description: -期間限定イベント【慢性虚脱】ランキングモード報酬
   }
   {
     obtain_id: 1701
@@ -1103,6 +1123,7 @@
   }
   {
     obtain_id: 3073
+    description: -2024年2月ログイン報酬
   }
   {
     obtain_id: 3074
@@ -1194,6 +1215,10 @@
     obtain_id: 3096
     description: 灰域探査で入手
     goto_page_id: 384
+  }
+  {
+    obtain_id: 3097
+    description: <慢性虚脱>ランキング1200000ポイント報酬
   }
   {
     obtain_id: 20001

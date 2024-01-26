@@ -6973,48 +6973,56 @@
     mission_id: "10580"
     campaign: -42
     bgm: BGM_Frontline
+    title: 真夜中の追走
   }
   {
     id: 625
     mission_id: "10581"
     campaign: -42
     bgm: BGM_Frontline
+    title: 凶事の終り
   }
   {
     id: 626
     mission_id: "10582"
     campaign: -42
     bgm: BGM_Frontline
+    title: 壊れたエコー
   }
   {
     id: 627
     mission_id: "10583"
     campaign: -42
     bgm: BGM_Frontline
+    title: 真夜中の追走EX
   }
   {
     id: 628
     mission_id: "10584"
     campaign: -42
     bgm: BGM_Frontline
+    title: 凶事の終りEX
   }
   {
     id: 629
     mission_id: "10585"
     campaign: -42
     bgm: BGM_Frontline
+    title: 壊れたエコーEX
   }
   {
     id: 630
     mission_id: "10586"
     campaign: -42
     bgm: BGM_Frontline
+    title: カーニバルナイト
   }
   {
     id: 631
     mission_id: "10587"
     campaign: -42
     bgm: BGM_Frontline
+    title: カーニバルナイトEX
   }
   {
     id: 632
@@ -7022,6 +7030,7 @@
     scripts: -42-1-1First
     campaign: -42
     bgm: BGM_Frontline
+    title: 廻る涼夜
     start: -42-1-1First
   }
   {
@@ -7030,6 +7039,7 @@
     scripts: -42-2-1First
     campaign: -42
     bgm: BGM_Frontline
+    title: 倒影
     start: -42-2-1First
   }
   {
@@ -7038,6 +7048,7 @@
     scripts: -42-3-1First
     campaign: -42
     bgm: BGM_Frontline
+    title: 名もなき者
     start: -42-3-1First
   }
   {
@@ -7046,6 +7057,7 @@
     scripts: -42-4-1First
     campaign: -42
     bgm: BGM_Frontline
+    title: 蝶影霧散
     start: -42-4-1First
   }
   {
@@ -7054,6 +7066,7 @@
     scripts: -42-1-2
     campaign: -42
     bgm: BGM_Frontline
+    title: 雨夜の会話
     start: -42-1-2
   }
   {
@@ -7062,6 +7075,7 @@
     scripts: -42-2-2
     campaign: -42
     bgm: BGM_Frontline
+    title: 追憶
     start: -42-2-2
   }
   {
@@ -7070,6 +7084,7 @@
     scripts: -42-3-8
     campaign: -42
     bgm: BGM_Frontline
+    title: 跡なき泪
     start: -42-3-8
   }
   {
@@ -8465,6 +8480,7 @@
     scripts: -47-1-1,-47-1-2
     campaign: -47
     bgm: BGM_Frontline
+    title: 波寄
     start: -47-1-1
     first: -47-1-2
     end: -47-1-2
@@ -8475,6 +8491,7 @@
     scripts: -47-2-WS-1,-47-2-1,-47-2-2
     campaign: -47
     bgm: BGM_Frontline
+    title: 暗流
     start: -47-2-1
     round: 1:-47-2-WS-1
     first: -47-2-2
@@ -8486,6 +8503,7 @@
     scripts: -47-3-1,-47-3-2
     campaign: -47
     bgm: BGM_Frontline
+    title: 勢子
     start: -47-3-1
     first: -47-3-2
     end: -47-3-2
@@ -8496,6 +8514,7 @@
     scripts: -47-4-1,-47-4-2
     campaign: -47
     bgm: BGM_Frontline
+    title: 零和
     start: -47-4-1
     first: -47-4-2
     end: -47-4-2
@@ -9477,6 +9496,7 @@
   {
     id: 918
     mission_id: "10988"
+    description: 「指揮官の叫び声と必死の逃走劇でもって、今年のクリスマスは賑やかな幕開けを迎えたのだった」
     scripts: -49-0-0
     campaign: -32
     bgm: BGM_Frontline
@@ -9486,6 +9506,7 @@
   {
     id: 919
     mission_id: "10989"
+    description: 「暗い森の中で、コインをめぐる戦いが密かに繰り広げられていた」
     scripts: -49-1-1
     campaign: -32
     bgm: BGM_Frontline
@@ -9495,6 +9516,7 @@
   {
     id: 920
     mission_id: "10990"
+    description: 「捨てられた想い、伝えられない想い」
     scripts: -49-1-2
     campaign: -32
     bgm: BGM_Frontline
@@ -9505,6 +9527,7 @@
   {
     id: 921
     mission_id: "10991"
+    description: 「まず、これを飲み切って、理性を捨ててしまいましょう」
     scripts: -49-2-1
     campaign: -32
     bgm: BGM_Frontline
@@ -9514,6 +9537,7 @@
   {
     id: 922
     mission_id: "10992"
+    description: 「彼女たちの積もり積もった恨みは、ここで晴らされることになる」
     scripts: -49-2-2
     campaign: -32
     bgm: BGM_Frontline
@@ -9524,6 +9548,7 @@
   {
     id: 923
     mission_id: "10993"
+    description: 「私は勝つ。そしてボーナスを10倍手に入れ、あんたの口から真実を聞きだす」
     scripts: -49-3-1
     campaign: -32
     bgm: BGM_Frontline
@@ -9533,6 +9558,7 @@
   {
     id: 924
     mission_id: "10994"
+    description: 「でも楽しいことをするには犠牲は付き物だからね」
     scripts: -49-3-2
     campaign: -32
     bgm: BGM_Frontline
@@ -9543,6 +9569,7 @@
   {
     id: 925
     mission_id: "10995"
+    description: 「クリスマス魔法がほんとに効くのか……」
     scripts: -49-4-1
     campaign: -32
     bgm: BGM_Frontline
@@ -9552,6 +9579,7 @@
   {
     id: 926
     mission_id: "10996"
+    description: 「……でもその前に、一つ秘密を教えてあげる。」
     scripts: -49-4-2
     campaign: -32
     bgm: BGM_Frontline
@@ -9562,6 +9590,7 @@
   {
     id: 927
     mission_id: "10997"
+    description: 「悲痛な叫び声をあげると、指揮官は冷たい雪の降る夜に駆け出していった……」
     scripts: -49-5-1
     campaign: -32
     bgm: BGM_Frontline
@@ -11395,5 +11424,636 @@
     campaign: -57
     title: 日が落ちるまで
     start: -57-W7-2
+  }
+  {
+    id: 1160
+    mission_id: "11333"
+    scripts: -58-start
+    campaign: -58
+    title: 黒いイリス
+    start: -58-start
+  }
+  {
+    id: 1161
+    mission_id: "11334"
+    description: 「先生も、同じように自分の国のために戦う覚悟はありますか？」
+    scripts: -58-1-A1
+    campaign: -58
+    title: WTR ワイルドノース
+    start: -58-1-A1
+  }
+  {
+    id: 1162
+    mission_id: "11336"
+    description: 「まぁ、何事にも例外があるというわけだ」
+    scripts: -58-1-A2
+    campaign: -58
+    title: WTR ブナの林I
+    start: -58-1-A2
+  }
+  {
+    id: 1163
+    mission_id: "11335,11377"
+    description: 「銃の向きが、お互いの立場を」
+    campaign: -58
+    title: WTR 雪中の狩人
+  }
+  {
+    id: 1164
+    mission_id: "11338"
+    description: 「結局俺らとやつらは立場が違うんだ」
+    scripts: -58-1-A4
+    campaign: -58
+    title: WTR クワガタ
+    start: -58-1-A4
+  }
+  {
+    id: 1165
+    mission_id: "11337,11378"
+    description: 「立場なんか知らねぇよ。そこにいるのはウチの兄貴なんだからな」
+    campaign: -58
+    title: WTR コンポジションII
+  }
+  {
+    id: 1166
+    mission_id: "11339"
+    description: 「結局人間関係ってのは、金で解決するのがいい」
+    scripts: -58-1-A6
+    campaign: -58
+    title: WTR 雪に映える朝陽
+    start: -58-1-A6
+  }
+  {
+    id: 1167
+    mission_id: "11406"
+    description: 「それはその瞬間の、自分の世界があまりにも小さいからだ」
+    scripts: -58-1-A7
+    campaign: -58
+    title: WTR 日没時の湿原
+    start: -58-1-A7
+  }
+  {
+    id: 1168
+    mission_id: "11340"
+    description: 「雪の花は一瞬で融けてしまうけど、シベリアの吹雪ならどうなるかしら？」
+    scripts: -58-1-B1
+    campaign: -58
+    title: SPR 夜：赤い木
+    start: -58-1-B1
+  }
+  {
+    id: 1169
+    mission_id: "11341,11379"
+    description: 「そんなに難しい作戦じゃないからね。私についてくれば、今後はもっと色んなことを教えてあげる」
+    campaign: -58
+    title: SPR コンポジションVI
+  }
+  {
+    id: 1170
+    mission_id: "11342"
+    description: 「あの日から、もう退路がなくなったんだから」
+    scripts: -58-1-B3
+    campaign: -58
+    title: SPR 灰色の木
+    start: -58-1-B3
+  }
+  {
+    id: 1171
+    mission_id: "11343,11380"
+    description: 「シベリアの雪の花のように、一瞬で融けて、なんの跡も残さない」
+    campaign: -58
+    title: SPR 赤のコンポジションB
+  }
+  {
+    id: 1172
+    mission_id: "11344"
+    description: 「世界各国がいがみ合っている中、人間を一人殺したところで戦争が終わるはずない！」
+    scripts: -58-1-B5
+    campaign: -58
+    title: SPR 構成番号1
+    start: -58-1-B5
+  }
+  {
+    id: 1173
+    mission_id: "11345"
+    description: 「私たちは同じだと思ってた。でも……それが違ったというのか？」
+    scripts: -58-1-B6
+    campaign: -58
+    title: SPR ヨーロッパのローラーの翼
+    start: -58-1-B6
+  }
+  {
+    id: 1174
+    mission_id: "11346"
+    description: 「彼女たちは殺戮のために生まれたが、それしかできないわけではない」
+    scripts: -58-1-C1
+    campaign: -58
+    title: SUM 第9組第1番白鳥
+    start: -58-1-C1
+  }
+  {
+    id: 1175
+    mission_id: "11348"
+    description: 「私の指揮はあくまでも一つ、私の指示に従うことだけよ」
+    scripts: -58-1-C2
+    campaign: -58
+    title: SUM 青いラウンジと陽光
+    start: -58-1-C2
+  }
+  {
+    id: 1176
+    mission_id: "11350"
+    description: 「アンジェリア指揮官、ご協力お願いします」
+    scripts: -58-1-C3
+    campaign: -58
+    title: SUM 晩鐘
+    start: -58-1-C3
+  }
+  {
+    id: 1177
+    mission_id: "11351"
+    description: 「悪かったわね、LAMG」
+    scripts: -58-1-C4
+    campaign: -58
+    title: SUM 風に吹かれて
+    start: -58-1-C4
+  }
+  {
+    id: 1178
+    mission_id: "11347,11381"
+    description: 「矢は放たれ、命中した」
+    campaign: -58
+    title: SUM 森の中の道
+  }
+  {
+    id: 1179
+    mission_id: "11407"
+    description: 「そして俺はこの与えられた命で、お前に復讐する」
+    scripts: -58-1-C6
+    campaign: -58
+    title: SUM ゴシキヒワ
+    start: -58-1-C6
+  }
+  {
+    id: 1180
+    mission_id: "11349,11382"
+    description: 「最後の一発だけ残しておいてくれよ、もし失敗したら……」
+    campaign: -58
+    title: SUM 生きるとは戦うこと
+  }
+  {
+    id: 1181
+    mission_id: "11408"
+    description: 「あの小鳥が落ちた時、私は泣いてなかった」
+    scripts: -58-1-C8
+    campaign: -58
+    title: SUM 第9組第6番白鳥
+    start: -58-1-C8
+  }
+  {
+    id: 1182
+    mission_id: "11352"
+    description: 「そしてこれを読んでいる君は、おそらくより良い世界にいるのだろう」
+    scripts: -58-1-D1
+    campaign: -58
+    title: AUT 青と銀
+    start: -58-1-D1
+  }
+  {
+    id: 1183
+    mission_id: "11354"
+    description: 「……私の最も嫌いな三種類の人間って知ってる？」
+    scripts: -58-1-D2
+    campaign: -58
+    title: AUT 屋根の上のバイオリン弾き
+    start: -58-1-D2
+  }
+  {
+    id: 1184
+    mission_id: "11355,11384"
+    description: 「釣りには忍耐力が必要だからね」
+    scripts: -58-1-D3-point1
+    campaign: -58
+    title: AUT 死の島
+  }
+  {
+    id: 1185
+    mission_id: "11356"
+    description: 「デュエットの次はトリオ」
+    scripts: -58-1-D4
+    campaign: -58
+    title: AUT 波
+    start: -58-1-D4
+  }
+  {
+    id: 1186
+    mission_id: "11357"
+    description: 「新世界で会いましょう」
+    scripts: -58-1-D5
+    campaign: -58
+    title: AUT 青い翼の振り子時計
+    start: -58-1-D5
+  }
+  {
+    id: 1187
+    mission_id: "11353,11383"
+    description: 「大丈夫、誰もこんなことが起きるなんて予想できるはずないから。私にも……」
+    scripts: -58-1-D6-point1,-58-1-D6-point2,-58-1-D6-point3,-58-1-D6-point4
+    campaign: -58
+    title: AUT 死と生
+  }
+  {
+    id: 1188
+    mission_id: "11434"
+    description: 「アンジェさん、あなたはいつもそうなんです。帰らぬ道だと分かっていても、ひたすら進み続ける」
+    scripts: -58-1-D7
+    campaign: -58
+    title: AUT ドン川の夜
+    start: -58-1-D7
+  }
+  {
+    id: 1189
+    mission_id: "11358"
+    description: 「もし彼女が地獄の縁に立ったとしたら……私たちは一緒に飛び込むけど、あなたたちは引き留めてくれる。そうでしょう？」
+    scripts: -58-2-R1
+    campaign: -58
+    title: L1 生命の樹
+    start: -58-2-R1
+  }
+  {
+    id: 1190
+    mission_id: "11360"
+    description: 「プロジェクト『ヘラ』、被検体NO.10373：アンジェリア」
+    scripts: -58-2-T1
+    campaign: -58
+    title: L2 コントロールルームモニター
+    start: -58-2-T1
+  }
+  {
+    id: 1191
+    mission_id: "11361"
+    description: 「一瞬、希望が見えたわ」
+    scripts: -58-2-T2
+    campaign: -58
+    title: L3 手術台
+    start: -58-2-T2
+  }
+  {
+    id: 1192
+    mission_id: "11359,11385"
+    description: 「アンジェ、必ず助けるから」
+    campaign: -58
+    title: L4 円の中の円
+  }
+  {
+    id: 1193
+    mission_id: "11409"
+    description: 「人間は……自分の創造主を作り出すことができないのさ」
+    scripts: -58-2-R3
+    campaign: -58
+    title: L5 右へ-左へ
+    start: -58-2-R3
+  }
+  {
+    id: 1194
+    mission_id: "11410"
+    description: 「いいえ、これは放射線濃度が基準値を超えた警報よ」
+    scripts: -58-2-T3
+    campaign: -58
+    title: L6 受け渡し窓
+    start: -58-2-T3
+  }
+  {
+    id: 1195
+    mission_id: "11411"
+    description: 「アンジェが目を覚ましたわ」
+    scripts: -58-2-T4
+    campaign: -58
+    title: L7 浄化装置
+    start: -58-2-T4
+  }
+  {
+    id: 1196
+    mission_id: "11412"
+    description: 「人間らしく、死なせて欲しい……」
+    scripts: -58-2-R4
+    campaign: -58
+    title: L8 鏡の前の少女
+    start: -58-2-R4
+  }
+  {
+    id: 1197
+    mission_id: "11362"
+    description: 「イリヤー・ムーロメツ作戦、開始」
+    scripts: -58-3-F1
+    campaign: -58
+    title: F1 赤い騎士
+    start: -58-3-F1
+  }
+  {
+    id: 1198
+    mission_id: "11363"
+    description: 「やられた分は、倍返し、ね」
+    scripts: -58-3-F2
+    campaign: -58
+    title: F2 霧の海の旅人
+    start: -58-3-F2
+  }
+  {
+    id: 1199
+    mission_id: "11364,11386,11392"
+    description: 「鉄と血、光と炎、雨と涙」
+    campaign: -58
+    title: F3 黒の正方形
+  }
+  {
+    id: 1200
+    mission_id: "11365"
+    description: 「地獄の番人」
+    scripts: -58-3-F4
+    campaign: -58
+    title: F4 灰色と黒のアレンジメント
+    start: -58-3-F4
+  }
+  {
+    id: 1201
+    mission_id: "11367"
+    description: 「そんなあなたが動揺した時、一体どんな顔を見せてくれるのかしら」
+    scripts: -58-3-F5
+    campaign: -58
+    title: F5 彫刻の寓意
+    start: -58-3-F5
+  }
+  {
+    id: 1202
+    mission_id: "11366,11387,11393"
+    description: 「夜を砕く曙の光」
+    campaign: -58
+    title: F6 鈍い赤
+  }
+  {
+    id: 1203
+    mission_id: "11369"
+    description: 「おかえりなさい、サナ」
+    scripts: -58-3-F7
+    campaign: -58
+    title: F7 人の子
+    start: -58-3-F7
+  }
+  {
+    id: 1204
+    mission_id: "11371"
+    description: 「タラクサクム、指定ポイントまで到着」
+    scripts: -58-3-F8
+    campaign: -58
+    title: F8 記憶の固執
+    start: -58-3-F8
+  }
+  {
+    id: 1205
+    mission_id: "11368,11388,11394"
+    description: 「西塔と東塔を繋ぐ橋の上で」
+    campaign: -58
+    title: F9 砲声
+  }
+  {
+    id: 1206
+    mission_id: "11373"
+    description: 「本当に怖いのは、人を刺す前の針なんですけどね」
+    scripts: -58-3-F10
+    campaign: -58
+    title: F10 白の上の白
+    start: -58-3-F10
+  }
+  {
+    id: 1207
+    mission_id: "11375"
+    description: 「3分ちょうだい」
+    scripts: -58-3-F11
+    campaign: -58
+    title: F11 紅海の横断
+    start: -58-3-F11
+  }
+  {
+    id: 1208
+    mission_id: "11370,11389,11395"
+    description: 「首元を狙う鋭いファング」
+    campaign: -58
+    title: F12 晩鐘
+  }
+  {
+    id: 1209
+    mission_id: "11413"
+    description: 「……大丈夫、私が一緒にいてあげます」
+    scripts: -58-3-F13
+    campaign: -58
+    title: F13 大洪水
+    start: -58-3-F13
+  }
+  {
+    id: 1210
+    mission_id: "11414"
+    description: 「平地の氷山」
+    scripts: -58-3-F14
+    campaign: -58
+    title: F14 騎士と死と悪魔
+    start: -58-3-F14
+  }
+  {
+    id: 1211
+    mission_id: "11372,11390,11396"
+    description: 「どんな代償でも惜しまない、なら、誰がその代償になる？」
+    campaign: -58
+    title: F15 ゲルニカ
+  }
+  {
+    id: 1212
+    mission_id: "11415"
+    description: 「もし人生が徒労に終わる定めとして、足掻く意味はどこにある？」
+    scripts: -58-3-F16
+    campaign: -58
+    title: F16 死と火
+    start: -58-3-F16
+  }
+  {
+    id: 1213
+    mission_id: "11416"
+    description: 「少しだけ、少しだけでいいから」
+    scripts: -58-3-F17
+    campaign: -58
+    title: F17 黒い十字架
+    start: -58-3-F17
+  }
+  {
+    id: 1214
+    mission_id: "11374,11391,11397"
+    description: 「私は最後までここを守るわ。だって……」
+    campaign: -58
+    title: F18 最後の審判
+  }
+  {
+    id: 1215
+    mission_id: "11417"
+    description: 「外にあるのは、光なの？」
+    scripts: -58-3-F19
+    campaign: -58
+    title: F19 第10組第1番祭壇画
+    start: -58-3-F19
+  }
+  {
+    id: 1216
+    mission_id: "11418"
+    description: 「RO！SOP II！」
+    scripts: -58-3-F20
+    campaign: -58
+    title: F20 日没
+    start: -58-3-F20
+  }
+  {
+    id: 1217
+    mission_id: "11419"
+    description: 「なにが見えた？」
+    scripts: -58-S1-1
+    campaign: -58
+    title: SSE01 デッキ
+    start: -58-S1-1
+  }
+  {
+    id: 1218
+    mission_id: "11420"
+    description: 「時代の遺産」
+    scripts: -58-S1-2
+    campaign: -58
+    title: SSE01-1 デッキ下部通路
+    start: -58-S1-2
+  }
+  {
+    id: 1219
+    mission_id: "11421"
+    description: 「あの彫像以外、何もないし」
+    scripts: -58-S2-1
+    campaign: -58
+    title: SSE02 東塔ホール
+    start: -58-S2-1
+  }
+  {
+    id: 1220
+    mission_id: "11422"
+    description: 「パラデウスの訓練場だ」
+    scripts: -58-S2-2
+    campaign: -58
+    title: SSE02-1 東塔2階（東）
+    start: -58-S2-2
+  }
+  {
+    id: 1221
+    mission_id: "11423"
+    description: 「彼女たちの残した痕跡」
+    scripts: -58-S2-3
+    campaign: -58
+    title: SSE02-2 東塔3階（西）
+    start: -58-S2-3
+  }
+  {
+    id: 1222
+    mission_id: "11424"
+    description: 「皆注意して進め」
+    scripts: -58-S3-1
+    campaign: -58
+    title: SSE03 ビーニードルシステム
+    start: -58-S3-1
+  }
+  {
+    id: 1223
+    mission_id: "11425"
+    description: 「修復されたのは嘘か、真か？」
+    scripts: -58-S3-2
+    campaign: -58
+    title: SSE03-1 東塔32階
+    start: -58-S3-2
+  }
+  {
+    id: 1224
+    mission_id: "11426"
+    description: 「一つの欠片……」
+    scripts: -58-S3-3
+    campaign: -58
+    title: SSE03-2 東塔37階
+    start: -58-S3-3
+  }
+  {
+    id: 1225
+    mission_id: "11427"
+    description: 「この部屋自体が罠よ！」
+    scripts: -58-S3-4
+    campaign: -58
+    title: SSE03-3 東塔40階
+    start: -58-S3-4
+  }
+  {
+    id: 1226
+    mission_id: "11428"
+    description: 「こちらFe56C班、現在アヴェルヌス東塔56階にいる」
+    scripts: -58-S4-1
+    campaign: -58
+    title: SSE04 遺跡実験エリア
+    start: -58-S4-1
+  }
+  {
+    id: 1227
+    mission_id: "11429"
+    description: 「ボロボロになっているけど、やるべきことはやっておかないと」
+    scripts: -58-S4-2
+    campaign: -58
+    title: SSE04-1 制御センター
+    start: -58-S4-2
+  }
+  {
+    id: 1228
+    mission_id: "11430"
+    description: 「閲覧後、必ず処分せよ」
+    scripts: -58-S4-3
+    campaign: -58
+    title: SSE04-2 映像シミュレーション区画
+    start: -58-S4-3
+  }
+  {
+    id: 1229
+    mission_id: "11431"
+    description: 「……ほんと、面倒な場所だ」
+    scripts: -58-S4-4
+    campaign: -58
+    title: SSE04-3 投射実験区画
+    start: -58-S4-4
+  }
+  {
+    id: 1230
+    mission_id: "11432"
+    description: 「抜け落ちた埃を探せ」
+    scripts: -58-S5
+    campaign: -58
+    title: SSE05 手術エリア
+    start: -58-S5
+  }
+  {
+    id: 1231
+    mission_id: "11433"
+    description: 「くれぐれもお体にご注意を」
+    scripts: -58-S6
+    campaign: -58
+    title: SSE06 隠し通路
+    start: -58-S6
+  }
+  {
+    id: 1232
+    mission_id: "11404"
+    campaign: -58
+    start: -58-EX-Final
+  }
+  {
+    id: 1233
+    mission_id: "11405"
+    campaign: -58
+    start: -58-UX-Final
   }
 ]

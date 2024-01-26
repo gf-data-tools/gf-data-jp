@@ -646,6 +646,24 @@
     rank: 1
   }
   {
+    id: 121
+    type: 3
+    arg: "22"
+    code: Medal_SlowShock
+    item_name: 湖底のナビゲーター
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「慢性虚脱」にて称えられる功績を残したことを表彰する。「未踏の氷山を征服するよりも、心の奥深くにある湖の底を探索する方が、よほど勇気が必要だ」
+    rank: 1
+  }
+  {
+    id: 122
+    type: 3
+    arg: "23"
+    code: Medal_SlowShock_rank
+    item_name: 海の雪線勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「慢性虚脱」のランキングステージで、輝かしい成績を残したことを表彰する。「灼熱の火種が夜を照らした時、私も純白の中で朝日のように生まれ変わる」
+    rank: 1
+  }
+  {
     id: 124
     type: 3
     arg: "25"
@@ -1074,6 +1092,50 @@
     rank: 1
     sort: -40
     detail_introduction: 「工廠-装備製造」にて大型製造のI.O.P特殊オーダーを注文できます。Testtest
+  }
+  {
+    id: 527
+    type: 1
+    arg: "527"
+    code: Grenade
+    item_name: item-10000527
+    introduction: item-20000527
+    rank: 1
+    detail_introduction: item-30000527
+    is_hide_info: 1
+  }
+  {
+    id: 528
+    type: 1
+    arg: "528"
+    code: Grenade
+    item_name: item-10000528
+    introduction: item-20000528
+    rank: 1
+    detail_introduction: item-30000528
+    is_hide_info: 1
+  }
+  {
+    id: 529
+    type: 1
+    arg: "529"
+    code: Flashbang
+    item_name: item-10000529
+    introduction: item-20000529
+    rank: 1
+    detail_introduction: item-30000529
+    is_hide_info: 1
+  }
+  {
+    id: 530
+    type: 1
+    arg: "530"
+    code: Flashbang
+    item_name: item-10000530
+    introduction: item-20000530
+    rank: 1
+    detail_introduction: item-30000530
+    is_hide_info: 1
   }
   {
     id: 601
@@ -2912,6 +2974,26 @@
     introduction: Am RFBアイコン
     rank: 1
     detail_introduction: item-30001180
+  }
+  {
+    id: 1181
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_SAT8
+    item_name: SAT8アイコン
+    introduction: SAT8アイコン
+    rank: 1
+    detail_introduction: item-30001181
+  }
+  {
+    id: 1182
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_USAS12
+    item_name: USAS-12アイコン
+    introduction: USAS-12アイコン
+    rank: 1
+    detail_introduction: item-30001182
   }
   {
     id: 1183
@@ -11944,10 +12026,21 @@
     rank: 1
   }
   {
+    id: 2235
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Scarecrow_SpringFes
+    item_name: スケアクロウ-来る年のナイトメアアイコン
+    introduction: スケアクロウ-来る年のナイトメアアイコン
+    rank: 1
+  }
+  {
     id: 2236
     type: 5
     arg: "1"
     code: profilePic_Saga2023_Sakura
+    item_name: 輝く光
+    introduction: 輝く光
     rank: 1
   }
   {
@@ -12323,6 +12416,132 @@
     rank: 1
   }
   {
+    id: 2287
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_01
+    item_name: アイコン：鏡の中の人
+    introduction: アイコン：鏡の中の人
+    rank: 1
+  }
+  {
+    id: 2288
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_02
+    item_name: アイコン：帰ってきたバルドル
+    introduction: アイコン：帰ってきたバルドル
+    rank: 1
+  }
+  {
+    id: 2289
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_03
+    item_name: アイコン：闇へ向かう者
+    introduction: アイコン：闇へ向かう者
+    rank: 1
+  }
+  {
+    id: 2290
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_04
+    item_name: アイコン：ケプラー78bの落下
+    introduction: アイコン：ケプラー78bの落下
+    rank: 1
+  }
+  {
+    id: 2291
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_05
+    item_name: アイコン：物語を盗む者
+    introduction: アイコン：物語を盗む者
+    rank: 1
+  }
+  {
+    id: 2292
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_06
+    item_name: アイコン：物語の中の者
+    introduction: アイコン：物語の中の者
+    rank: 1
+  }
+  {
+    id: 2293
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_07
+    item_name: アイコン：帰ってきたヘズ
+    introduction: アイコン：帰ってきたヘズ
+    rank: 1
+  }
+  {
+    id: 2294
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_08
+    item_name: アイコン：光へ向かう者
+    introduction: アイコン：光へ向かう者
+    rank: 1
+  }
+  {
+    id: 2295
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_01
+    item_name: IDカード背景：栄誉ある宣誓の地
+    introduction: IDカード背景：栄誉ある宣誓の地
+    rank: 1
+  }
+  {
+    id: 2296
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_02
+    item_name: IDカード背景：歌は止まない
+    introduction: IDカード背景：歌は止まない
+    rank: 1
+  }
+  {
+    id: 2297
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_03
+    item_name: IDカード背景：静寂な魂の港
+    introduction: IDカード背景：静寂な魂の港
+    rank: 1
+  }
+  {
+    id: 2298
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_04
+    item_name: IDカード背景：夜明けが来る
+    introduction: IDカード背景：夜明けが来る
+    rank: 1
+  }
+  {
+    id: 2299
+    type: 5
+    arg: "1"
+    code: cg_SlowShockActivity2023_01
+    item_name: 背景：レコード博物館
+    introduction: 背景：レコード博物館
+    rank: 1
+  }
+  {
+    id: 2300
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2023_coremask
+    item_name: 真核の仮面アイコン·慢性虚脱
+    introduction: 真核の仮面アイコン·慢性虚脱
+    rank: 1
+  }
+  {
     id: 2301
     type: 5
     arg: "1"
@@ -12428,6 +12647,24 @@
     code: profilePic_Children2023_M1911
     item_name: ティン・ソルジャーの一日
     introduction: ティン・ソルジャーの一日
+    rank: 1
+  }
+  {
+    id: 2329
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_MK3A1
+    item_name: MK3A1アイコン
+    introduction: MK3A1アイコン
+    rank: 1
+  }
+  {
+    id: 2330
+    type: 5
+    arg: "1"
+    code: card_friendmall_MK3A1
+    item_name: IDカード: レンチガール
+    introduction: IDカード: レンチガール
     rank: 1
   }
   {
@@ -12581,6 +12818,24 @@
     code: profilePic_BattlePass_SPAS15
     item_name: ミス・ピッツバーグ
     introduction: ミス・ピッツバーグ
+    rank: 1
+  }
+  {
+    id: 2373
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M327
+    item_name: IDカード背景：春の追いかけっこ
+    introduction: IDカード背景：春の追いかけっこ
+    rank: 1
+  }
+  {
+    id: 2374
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M327
+    item_name: キューティトレーナー
+    introduction: キューティトレーナー
     rank: 1
   }
   {
@@ -15128,6 +15383,52 @@
     rank: 1
   }
   {
+    id: 100180
+    type: 9
+    arg: "100180"
+    code: Bumdle_2023SlowShock
+    item_name: 物資箱・慢性虚脱
+    introduction: 物資箱・慢性虚脱
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100181
+    type: 4
+    arg: "100181"
+    code: Nova_medal_black
+    item_name: 新星勲章・慢性虚脱
+    introduction: 新星勲章・慢性虚脱
+    rank: 1
+  }
+  {
+    id: 100182
+    type: 4
+    arg: "100182"
+    code: Platinum_medal_black
+    item_name: 白金勲章・慢性虚脱
+    introduction: 白金勲章・慢性虚脱
+    rank: 1
+  }
+  {
+    id: 100183
+    type: 4
+    arg: "100183"
+    code: coremask_2023SlowShock
+    item_name: 真核の仮面・慢性虚脱
+    introduction: 真核の仮面・慢性虚脱
+    rank: 1
+  }
+  {
+    id: 100184
+    type: 4
+    arg: "100184"
+    code: coremask2_2023SlowShock
+    item_name: 蝕心の仮面・慢性虚脱
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
     id: 100199
     type: 4
     arg: "100199"
@@ -15646,130 +15947,127 @@
     type: 4
     arg: "110054"
     code: EventPT5
-    item_name: item-10110054
-    introduction: item-20110054
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110054
   }
   {
     id: 110055
     type: 4
     arg: "110055"
     code: PT
-    item_name: item-10110055
-    introduction: item-20110055
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110055
   }
   {
     id: 110056
     type: 4
     arg: "110056"
     code: PT
-    item_name: item-10110056
-    introduction: item-20110056
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110056
   }
   {
     id: 110057
     type: 4
     arg: "110057"
     code: PT
-    item_name: item-10110057
-    introduction: item-20110057
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110057
   }
   {
     id: 110058
     type: 4
     arg: "110058"
     code: PT
-    item_name: item-10110058
-    introduction: item-20110058
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110058
   }
   {
     id: 110059
     type: 4
     arg: "110059"
     code: PT
-    item_name: item-10110059
-    introduction: item-20110059
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110059
   }
   {
     id: 110060
     type: 4
     arg: "110060"
     code: PT
-    item_name: item-10110060
-    introduction: item-20110060
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110060
   }
   {
     id: 110061
     type: 4
     arg: "110061"
     code: EventPT6
-    item_name: item-10110061
-    introduction: item-20110061
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110061
   }
   {
     id: 110062
     type: 4
     arg: "110062"
     code: PT
-    item_name: item-10110062
-    introduction: item-20110062
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110062
   }
   {
     id: 110063
     type: 4
     arg: "110063"
     code: PT
-    item_name: item-10110063
-    introduction: item-20110063
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110063
   }
   {
     id: 110064
     type: 4
     arg: "110064"
     code: EventPT7
-    item_name: item-10110064
-    introduction: item-20110064
+    item_name: イベントポイント
+    introduction: イベントポイント
     rank: 1
-    detail_introduction: item-30110064
   }
   {
     id: 110065
     type: 4
     arg: "110065"
     code: PT
-    item_name: item-10110065
-    introduction: item-20110065
     rank: 1
-    detail_introduction: item-30110065
   }
   {
     id: 110066
     type: 4
     arg: "110066"
     code: EventPT8
-    item_name: item-10110066
-    introduction: item-20110066
     rank: 1
-    detail_introduction: item-30110066
+  }
+  {
+    id: 110067
+    type: 4
+    arg: "110067"
+    code: PT
+    rank: 1
+  }
+  {
+    id: 110068
+    type: 4
+    arg: "110068"
+    code: PT
+    rank: 1
   }
   {
     id: 120001
@@ -16255,6 +16553,26 @@
     detail_introduction: item-30140024
   }
   {
+    id: 140025
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140025
+    introduction: item-20140025
+    rank: 1
+    detail_introduction: item-30140025
+  }
+  {
+    id: 140026
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140026
+    introduction: item-20140026
+    rank: 1
+    detail_introduction: item-30140026
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16449,6 +16767,15 @@
     rank: 1
   }
   {
+    id: 200025
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_MK3A1
+    item_name: アイコンフレーム：腕利きメカニック
+    introduction: アイコンフレーム：腕利きメカニック
+    rank: 1
+  }
+  {
     id: 200026
     type: 1
     arg: "1"
@@ -16473,6 +16800,15 @@
     code: profileFrame_BattlePass_SPAS15
     item_name: アイコンフレーム：ハンバーガーの匂い
     introduction: アイコンフレーム：ハンバーガーの匂い
+    rank: 1
+  }
+  {
+    id: 200032
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M327
+    item_name: アイコンフレーム：無邪気な笑顔
+    introduction: アイコンフレーム：無邪気な笑顔
     rank: 1
   }
   {
@@ -17383,6 +17719,16 @@
     sort: -1
   }
   {
+    id: 1500063
+    type: 15
+    arg: "1500063"
+    code: package_choose
+    item_name: 特殊人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500064
     type: 15
     arg: "1500059"
@@ -17621,7 +17967,46 @@
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
-    detail_introduction: item-31500098
+  }
+  {
+    id: 1500099
+    type: 15
+    arg: "1500099"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500100
+    type: 15
+    arg: "1500100"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500101
+    type: 15
+    arg: "1500101"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500102
+    type: 15
+    arg: "1500102"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
   }
   {
     id: 1600001

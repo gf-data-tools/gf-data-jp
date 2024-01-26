@@ -9508,6 +9508,40 @@
     obtain_ids: "3003"
   }
   {
+    id: 304
+    name: GRUNTレール
+    description:
+      '''
+      火力+<pow> 会心率+<critical_percent><%>
+      命中+<hit>スキル強化$K2専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "1,3"
+    hit: "2,4"
+    critical_percent: "18,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_K2
+    develop_duration: 3600
+    company: MITS
+    fit_guns: "194"
+    equip_introduction: K2の現代化改修キットの一つ。K2の拡張性を引き上げることができる。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:800,pow:700,hit:1000
+    passive_skill: "759057"
+    max_level: 10
+    auto_select_id: 18106
+    is_show: 1
+    obtain_ids: "3073"
+  }
+  {
     id: 305
     name: SFライト改
     description:
@@ -10504,6 +10538,39 @@
     equip_group_id: 4
     is_show: 1
     obtain_ids: "3096"
+  }
+  {
+    id: 340
+    name: M2特製徹甲弾
+    description:
+      '''
+      破甲+<armor_piercing>
+      火力+<pow>スキル追加$M1918専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,3"
+    armor_piercing: "250,250"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_M1918
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "75,20075"
+    equip_introduction: M2徹甲弾をもとに、初速と弾道安定性を引き上げたと特製銃弾。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:1000,pow:700
+    passive_skill: "759127"
+    max_level: 10
+    auto_select_id: 19055
+    is_show: 1
+    obtain_ids: "3097"
   }
   {
     id: 342

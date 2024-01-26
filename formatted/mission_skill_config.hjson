@@ -4039,8 +4039,10 @@
   }
   {
     id: 2201
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP5%分を回復する。
+    lvup_description: 回復量:5%
     skill_group_id: 22
     level: 1
     spot_type: "-1"
@@ -4055,8 +4057,10 @@
   }
   {
     id: 2202
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP7%分を回復する。
+    lvup_description: 回復量:7%
     skill_group_id: 22
     level: 2
     train_coin_type: 1
@@ -4074,8 +4078,10 @@
   }
   {
     id: 2203
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP8%分を回復する。
+    lvup_description: 回復量:8%
     skill_group_id: 22
     level: 3
     train_coin_type: 1
@@ -4093,8 +4099,10 @@
   }
   {
     id: 2204
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP10%分を回復する。
+    lvup_description: 回復量:10%
     skill_group_id: 22
     level: 4
     train_coin_type: 1
@@ -4112,8 +4120,10 @@
   }
   {
     id: 2205
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP12%分を回復する。
+    lvup_description: 回復量:12%
     skill_group_id: 22
     level: 5
     train_coin_type: 2
@@ -4131,8 +4141,10 @@
   }
   {
     id: 2206
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP13%分を回復する。
+    lvup_description: 回復量:13%
     skill_group_id: 22
     level: 6
     train_coin_type: 2
@@ -4150,8 +4162,10 @@
   }
   {
     id: 2207
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP15%分を回復する。
+    lvup_description: 回復量:15%
     skill_group_id: 22
     level: 7
     train_coin_type: 2
@@ -4169,8 +4183,10 @@
   }
   {
     id: 2208
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP17%分を回復する。
+    lvup_description: 回復量:17%
     skill_group_id: 22
     level: 8
     train_coin_type: 2
@@ -4188,8 +4204,10 @@
   }
   {
     id: 2209
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP18%分を回復する。
+    lvup_description: 回復量:18%
     skill_group_id: 22
     level: 9
     train_coin_type: 3
@@ -4207,8 +4225,10 @@
   }
   {
     id: 2210
-    name: 修復妖精
+    name: 応急手当
     code: Doctor
+    description: 周囲1マス範囲以内にいる味方部隊の各ユニットを、それぞれの最大HP20%分を回復する。
+    lvup_description: 回復量:20%
     skill_group_id: 22
     level: 10
     train_coin_type: 3
@@ -4529,9 +4549,6 @@
   }
   {
     id: 70001
-    name: mission_skill_config-10070001
-    description: mission_skill_config-20070001
-    lvup_description: mission_skill_config-30070001
     skill_group_id: 70001
     level: 1
     spot_type: "-1"
@@ -4543,9 +4560,6 @@
   }
   {
     id: 70011
-    name: mission_skill_config-10070011
-    description: mission_skill_config-20070011
-    lvup_description: mission_skill_config-30070011
     skill_group_id: 70011
     level: 1
     spot_type: "-1"
@@ -4557,9 +4571,6 @@
   }
   {
     id: 70012
-    name: mission_skill_config-10070012
-    description: mission_skill_config-20070012
-    lvup_description: mission_skill_config-30070012
     skill_group_id: 70012
     level: 1
     spot_type: "-1"
@@ -4572,9 +4583,6 @@
   }
   {
     id: 70014
-    name: mission_skill_config-10070014
-    description: mission_skill_config-20070014
-    lvup_description: mission_skill_config-30070014
     skill_group_id: 70014
     level: 1
     spot_type: "-1"
@@ -4587,9 +4595,6 @@
   }
   {
     id: 70015
-    name: mission_skill_config-10070015
-    description: mission_skill_config-20070015
-    lvup_description: mission_skill_config-30070015
     skill_group_id: 70015
     level: 1
     spot_type: "-1"
@@ -4600,9 +4605,6 @@
   }
   {
     id: 70016
-    name: mission_skill_config-10070016
-    description: mission_skill_config-20070016
-    lvup_description: mission_skill_config-30070016
     skill_group_id: 70016
     level: 1
     spot_type: "-1"
@@ -4613,9 +4615,6 @@
   }
   {
     id: 70021
-    name: mission_skill_config-10070021
-    description: mission_skill_config-20070021
-    lvup_description: mission_skill_config-30070021
     skill_group_id: 70021
     level: 1
     spot_type: "-1"
@@ -4626,9 +4625,6 @@
   }
   {
     id: 70022
-    name: mission_skill_config-10070022
-    description: mission_skill_config-20070022
-    lvup_description: mission_skill_config-30070022
     skill_group_id: 70022
     level: 1
     spot_type: "-1"
@@ -4639,9 +4635,6 @@
   }
   {
     id: 72001
-    name: mission_skill_config-10072001
-    description: mission_skill_config-20072001
-    lvup_description: mission_skill_config-30072001
     skill_group_id: 72001
     level: 1
     spot_type: "-1"
@@ -4653,9 +4646,6 @@
   }
   {
     id: 78001
-    name: mission_skill_config-10078001
-    description: mission_skill_config-20078001
-    lvup_description: mission_skill_config-30078001
     skill_group_id: 78001
     level: 1
     spot_type: "-1"
@@ -4667,9 +4657,6 @@
   }
   {
     id: 78002
-    name: mission_skill_config-10078002
-    description: mission_skill_config-20078002
-    lvup_description: mission_skill_config-30078002
     skill_group_id: 78002
     level: 1
     spot_type: "-1"
@@ -4681,9 +4668,6 @@
   }
   {
     id: 78003
-    name: mission_skill_config-10078003
-    description: mission_skill_config-20078003
-    lvup_description: mission_skill_config-30078003
     skill_group_id: 78003
     level: 1
     spot_type: "-1"
@@ -4696,9 +4680,6 @@
   }
   {
     id: 78004
-    name: mission_skill_config-10078004
-    description: mission_skill_config-20078004
-    lvup_description: mission_skill_config-30078004
     skill_group_id: 78004
     level: 1
     spot_type: "-1"
@@ -4711,9 +4692,6 @@
   }
   {
     id: 78005
-    name: mission_skill_config-10078005
-    description: mission_skill_config-20078005
-    lvup_description: mission_skill_config-30078005
     skill_group_id: 78005
     level: 1
     spot_type: "-1"
@@ -4726,9 +4704,6 @@
   }
   {
     id: 78006
-    name: mission_skill_config-10078006
-    description: mission_skill_config-20078006
-    lvup_description: mission_skill_config-30078006
     skill_group_id: 78006
     level: 1
     spot_type: "-1"
@@ -4740,9 +4715,7 @@
   }
   {
     id: 78007
-    name: mission_skill_config-10078007
-    description: mission_skill_config-20078007
-    lvup_description: mission_skill_config-30078007
+    name: リザルト
     skill_group_id: 78007
     level: 1
     spot_type: "-1"
@@ -4756,9 +4729,7 @@
   }
   {
     id: 78008
-    name: mission_skill_config-10078008
-    description: mission_skill_config-20078008
-    lvup_description: mission_skill_config-30078008
+    name: リザルト
     skill_group_id: 78008
     level: 1
     spot_type: "-1"
@@ -20518,9 +20489,7 @@
   }
   {
     id: 580001
-    name: mission_skill_config-10580001
-    description: mission_skill_config-20580001
-    lvup_description: mission_skill_config-30580001
+    name: 心拍数徐脈
     skill_group_id: 580001
     level: 1
     spot_type: "-1"
@@ -20535,9 +20504,7 @@
   }
   {
     id: 580002
-    name: mission_skill_config-10580002
-    description: mission_skill_config-20580002
-    lvup_description: mission_skill_config-30580002
+    name: 心拍数やや低め
     skill_group_id: 580002
     level: 1
     spot_type: "-1"
@@ -20552,9 +20519,7 @@
   }
   {
     id: 580003
-    name: mission_skill_config-10580003
-    description: mission_skill_config-20580003
-    lvup_description: mission_skill_config-30580003
+    name: 心拍数正常
     skill_group_id: 580003
     level: 1
     spot_type: "-1"
@@ -20569,9 +20534,7 @@
   }
   {
     id: 580004
-    name: mission_skill_config-10580004
-    description: mission_skill_config-20580004
-    lvup_description: mission_skill_config-30580004
+    name: 心拍数やや高め
     skill_group_id: 580004
     level: 1
     spot_type: "-1"
@@ -20586,9 +20549,7 @@
   }
   {
     id: 580005
-    name: mission_skill_config-10580005
-    description: mission_skill_config-20580005
-    lvup_description: mission_skill_config-30580005
+    name: 心拍数頻脈
     skill_group_id: 580005
     level: 1
     spot_type: "-1"
@@ -20603,9 +20564,6 @@
   }
   {
     id: 580006
-    name: mission_skill_config-10580006
-    description: mission_skill_config-20580006
-    lvup_description: mission_skill_config-30580006
     skill_group_id: 580006
     level: 1
     spot_type: "-1"
@@ -20619,9 +20577,6 @@
   }
   {
     id: 580007
-    name: mission_skill_config-10580007
-    description: mission_skill_config-20580007
-    lvup_description: mission_skill_config-30580007
     skill_group_id: 580007
     level: 1
     spot_type: "-1"
@@ -20635,9 +20590,6 @@
   }
   {
     id: 580008
-    name: mission_skill_config-10580008
-    description: mission_skill_config-20580008
-    lvup_description: mission_skill_config-30580008
     skill_group_id: 580008
     level: 1
     spot_type: "-1"
@@ -20651,9 +20603,6 @@
   }
   {
     id: 580009
-    name: mission_skill_config-10580009
-    description: mission_skill_config-20580009
-    lvup_description: mission_skill_config-30580009
     skill_group_id: 580009
     level: 1
     spot_type: "-1"
@@ -20667,9 +20616,6 @@
   }
   {
     id: 580010
-    name: mission_skill_config-10580010
-    description: mission_skill_config-20580010
-    lvup_description: mission_skill_config-30580010
     skill_group_id: 580010
     level: 1
     spot_type: "-1"
@@ -20684,9 +20630,6 @@
   }
   {
     id: 580051
-    name: mission_skill_config-10580051
-    description: mission_skill_config-20580051
-    lvup_description: mission_skill_config-30580051
     skill_group_id: 580051
     level: 1
     spot_type: "-1"
@@ -20701,9 +20644,6 @@
   }
   {
     id: 580052
-    name: mission_skill_config-10580052
-    description: mission_skill_config-20580052
-    lvup_description: mission_skill_config-30580052
     skill_group_id: 580052
     level: 1
     spot_type: "-1"
@@ -20718,9 +20658,6 @@
   }
   {
     id: 580053
-    name: mission_skill_config-10580053
-    description: mission_skill_config-20580053
-    lvup_description: mission_skill_config-30580053
     skill_group_id: 580053
     level: 1
     spot_type: "-1"
@@ -20733,9 +20670,6 @@
   }
   {
     id: 580054
-    name: mission_skill_config-10580054
-    description: mission_skill_config-20580054
-    lvup_description: mission_skill_config-30580054
     skill_group_id: 580054
     level: 1
     spot_type: "-1"
@@ -20747,9 +20681,6 @@
   }
   {
     id: 580059
-    name: mission_skill_config-10580059
-    description: mission_skill_config-20580059
-    lvup_description: mission_skill_config-30580059
     skill_group_id: 580059
     level: 1
     spot_type: "-1"
@@ -20765,9 +20696,6 @@
   }
   {
     id: 580060
-    name: mission_skill_config-10580060
-    description: mission_skill_config-20580060
-    lvup_description: mission_skill_config-30580060
     skill_group_id: 580060
     level: 1
     spot_type: "-1"
@@ -20781,9 +20709,6 @@
   }
   {
     id: 580061
-    name: mission_skill_config-10580061
-    description: mission_skill_config-20580061
-    lvup_description: mission_skill_config-30580061
     skill_group_id: 580061
     level: 1
     spot_type: "-1"
@@ -20797,9 +20722,7 @@
   }
   {
     id: 580100
-    name: mission_skill_config-10580100
-    description: mission_skill_config-20580100
-    lvup_description: mission_skill_config-30580100
+    name: 信号判定
     skill_group_id: 580100
     level: 1
     spot_type: "-1"
@@ -20811,9 +20734,7 @@
   }
   {
     id: 580101
-    name: mission_skill_config-10580101
-    description: mission_skill_config-20580101
-    lvup_description: mission_skill_config-30580101
+    name: 信号不良
     skill_group_id: 580101
     level: 1
     spot_type: "-1"
@@ -20828,9 +20749,7 @@
   }
   {
     id: 580102
-    name: mission_skill_config-10580102
-    description: mission_skill_config-20580102
-    lvup_description: mission_skill_config-30580102
+    name: 信号低め
     skill_group_id: 580102
     level: 1
     spot_type: "-1"
@@ -20845,9 +20764,7 @@
   }
   {
     id: 580103
-    name: mission_skill_config-10580103
-    description: mission_skill_config-20580103
-    lvup_description: mission_skill_config-30580103
+    name: 信号標準
     skill_group_id: 580103
     level: 1
     spot_type: "-1"
@@ -20861,9 +20778,7 @@
   }
   {
     id: 580104
-    name: mission_skill_config-10580104
-    description: mission_skill_config-20580104
-    lvup_description: mission_skill_config-30580104
+    name: 信号良好
     skill_group_id: 580104
     level: 1
     spot_type: "-1"
@@ -20878,9 +20793,7 @@
   }
   {
     id: 580105
-    name: mission_skill_config-10580105
-    description: mission_skill_config-20580105
-    lvup_description: mission_skill_config-30580105
+    name: 信号暴露
     skill_group_id: 580105
     level: 1
     spot_type: "-1"
@@ -20895,9 +20808,7 @@
   }
   {
     id: 580106
-    name: mission_skill_config-10580106
-    description: mission_skill_config-20580106
-    lvup_description: mission_skill_config-30580106
+    name: 信号不良
     skill_group_id: 580106
     level: 1
     spot_type: "1,3,7"
@@ -20909,9 +20820,7 @@
   }
   {
     id: 580107
-    name: mission_skill_config-10580107
-    description: mission_skill_config-20580107
-    lvup_description: mission_skill_config-30580107
+    name: 信号回復
     skill_group_id: 580107
     level: 1
     spot_type: "1,3,7"
@@ -20923,9 +20832,7 @@
   }
   {
     id: 580108
-    name: mission_skill_config-10580108
-    description: mission_skill_config-20580108
-    lvup_description: mission_skill_config-30580108
+    name: 信号低め
     skill_group_id: 580108
     level: 1
     spot_type: "1,3,7"
@@ -20937,9 +20844,7 @@
   }
   {
     id: 580109
-    name: mission_skill_config-10580109
-    description: mission_skill_config-20580109
-    lvup_description: mission_skill_config-30580109
+    name: 信号回復
     skill_group_id: 580109
     level: 1
     spot_type: "1,3,7"
@@ -20951,9 +20856,7 @@
   }
   {
     id: 580111
-    name: mission_skill_config-10580111
-    description: mission_skill_config-20580111
-    lvup_description: mission_skill_config-30580111
+    name: 信号-5
     skill_group_id: 580111
     level: 1
     spot_type: "-1"
@@ -20968,9 +20871,6 @@
   }
   {
     id: 580112
-    name: mission_skill_config-10580112
-    description: mission_skill_config-20580112
-    lvup_description: mission_skill_config-30580112
     skill_group_id: 580112
     level: 1
     spot_type: "-1"
@@ -20982,9 +20882,7 @@
   }
   {
     id: 580113
-    name: mission_skill_config-10580113
-    description: mission_skill_config-20580113
-    lvup_description: mission_skill_config-30580113
+    name: 信号+20
     skill_group_id: 580113
     level: 1
     spot_type: "-1"
@@ -20999,9 +20897,7 @@
   }
   {
     id: 580114
-    name: mission_skill_config-10580114
-    description: mission_skill_config-20580114
-    lvup_description: mission_skill_config-30580114
+    name: 信号+10
     skill_group_id: 580114
     level: 1
     spot_type: "-1"
@@ -21016,9 +20912,7 @@
   }
   {
     id: 580115
-    name: mission_skill_config-10580115
-    description: mission_skill_config-20580115
-    lvup_description: mission_skill_config-30580115
+    name: 信号-10
     skill_group_id: 580115
     level: 1
     spot_type: "-1"
@@ -21033,9 +20927,7 @@
   }
   {
     id: 580116
-    name: mission_skill_config-10580116
-    description: mission_skill_config-20580116
-    lvup_description: mission_skill_config-30580116
+    name: 信号+5
     skill_group_id: 580116
     level: 1
     spot_type: "-1"
@@ -21050,9 +20942,7 @@
   }
   {
     id: 580117
-    name: mission_skill_config-10580117
-    description: mission_skill_config-20580117
-    lvup_description: mission_skill_config-30580117
+    name: 信号+50
     skill_group_id: 580117
     level: 1
     spot_type: "-1"
@@ -21068,9 +20958,8 @@
   }
   {
     id: 580118
-    name: mission_skill_config-10580118
-    description: mission_skill_config-20580118
-    lvup_description: mission_skill_config-30580118
+    name: 信号を強化
+    description: 設備を調整し、SN比を上げる
     skill_group_id: 580118
     level: 1
     spot_type: "-1"
@@ -21085,9 +20974,8 @@
   }
   {
     id: 580119
-    name: mission_skill_config-10580119
-    description: mission_skill_config-20580119
-    lvup_description: mission_skill_config-30580119
+    name: 信号を軽減
+    description: 設備を調整し、SN比を下げる
     skill_group_id: 580119
     level: 1
     spot_type: "-1"
@@ -21102,9 +20990,7 @@
   }
   {
     id: 580120
-    name: mission_skill_config-10580120
-    description: mission_skill_config-20580120
-    lvup_description: mission_skill_config-30580120
+    name: ジャマー初期化
     skill_group_id: 580120
     level: 1
     spot_type: "-1"
@@ -21116,9 +21002,7 @@
   }
   {
     id: 580121
-    name: mission_skill_config-10580121
-    description: mission_skill_config-20580121
-    lvup_description: mission_skill_config-30580121
+    name: ジャマーを停止
     skill_group_id: 580121
     level: 1
     spot_type: "-1"
@@ -21132,9 +21016,8 @@
   }
   {
     id: 580122
-    name: mission_skill_config-10580122
-    description: mission_skill_config-20580122
-    lvup_description: mission_skill_config-30580122
+    name: 信号強化
+    description: 1ターンの間、目標を福音アクシスの影響を受けないようにする。距離1マス以内の味方に対し使用可能。
     skill_group_id: 580122
     level: 1
     spot_type: "-1"
@@ -21151,9 +21034,8 @@
   }
   {
     id: 580123
-    name: mission_skill_config-10580123
-    description: mission_skill_config-20580123
-    lvup_description: mission_skill_config-30580123
+    name: ジャマー更新
+    description: 範囲2マス以内のユニットにジャミングをかける。ジャミングをかけられたユニットは、2回移動する度に、1ターンの間麻痺状態になる。麻痺状態になったユニットは移動できず、各種ステータスが大幅に低下する。
     skill_group_id: 580123
     level: 1
     spot_type: "-1"
@@ -21165,9 +21047,6 @@
   }
   {
     id: 580124
-    name: mission_skill_config-10580124
-    description: mission_skill_config-20580124
-    lvup_description: mission_skill_config-30580124
     skill_group_id: 580124
     level: 1
     spot_type: "-1"
@@ -21179,9 +21058,7 @@
   }
   {
     id: 580205
-    name: mission_skill_config-10580205
-    description: mission_skill_config-20580205
-    lvup_description: mission_skill_config-30580205
+    name: 信号暴露
     skill_group_id: 580205
     level: 1
     spot_type: "-1"
@@ -21196,9 +21073,6 @@
   }
   {
     id: 580301
-    name: mission_skill_config-10580301
-    description: mission_skill_config-20580301
-    lvup_description: mission_skill_config-30580301
     skill_group_id: 580301
     level: 1
     spot_type: "-1"
@@ -21211,9 +21085,6 @@
   }
   {
     id: 580302
-    name: mission_skill_config-10580302
-    description: mission_skill_config-20580302
-    lvup_description: mission_skill_config-30580302
     skill_group_id: 580302
     level: 1
     spot_type: "-1"
@@ -21225,9 +21096,6 @@
   }
   {
     id: 580303
-    name: mission_skill_config-10580303
-    description: mission_skill_config-20580303
-    lvup_description: mission_skill_config-30580303
     skill_group_id: 580303
     level: 1
     spot_type: "-1"
@@ -21239,9 +21107,6 @@
   }
   {
     id: 580310
-    name: mission_skill_config-10580310
-    description: mission_skill_config-20580310
-    lvup_description: mission_skill_config-30580310
     skill_group_id: 580310
     level: 1
     spot_type: "-1"
@@ -21253,9 +21118,6 @@
   }
   {
     id: 580311
-    name: mission_skill_config-10580311
-    description: mission_skill_config-20580311
-    lvup_description: mission_skill_config-30580311
     skill_group_id: 580311
     level: 1
     spot_type: "-1"
@@ -21268,9 +21130,6 @@
   }
   {
     id: 580312
-    name: mission_skill_config-10580312
-    description: mission_skill_config-20580312
-    lvup_description: mission_skill_config-30580312
     skill_group_id: 580312
     level: 1
     spot_type: "-1"
@@ -21283,9 +21142,6 @@
   }
   {
     id: 580313
-    name: mission_skill_config-10580313
-    description: mission_skill_config-20580313
-    lvup_description: mission_skill_config-30580313
     skill_group_id: 580313
     level: 1
     spot_type: "-1"
@@ -21298,9 +21154,6 @@
   }
   {
     id: 580314
-    name: mission_skill_config-10580314
-    description: mission_skill_config-20580314
-    lvup_description: mission_skill_config-30580314
     skill_group_id: 580314
     level: 1
     spot_type: "-1"
@@ -21313,9 +21166,6 @@
   }
   {
     id: 580315
-    name: mission_skill_config-10580315
-    description: mission_skill_config-20580315
-    lvup_description: mission_skill_config-30580315
     skill_group_id: 580315
     level: 1
     spot_type: "-1"
@@ -21328,9 +21178,6 @@
   }
   {
     id: 580316
-    name: mission_skill_config-10580316
-    description: mission_skill_config-20580316
-    lvup_description: mission_skill_config-30580316
     skill_group_id: 580316
     level: 1
     spot_type: "-1"
@@ -21343,9 +21190,6 @@
   }
   {
     id: 580317
-    name: mission_skill_config-10580317
-    description: mission_skill_config-20580317
-    lvup_description: mission_skill_config-30580317
     skill_group_id: 580317
     level: 1
     spot_type: "-1"
@@ -21358,9 +21202,6 @@
   }
   {
     id: 580318
-    name: mission_skill_config-10580318
-    description: mission_skill_config-20580318
-    lvup_description: mission_skill_config-30580318
     skill_group_id: 580318
     level: 1
     spot_type: "-1"
@@ -21373,9 +21214,6 @@
   }
   {
     id: 580319
-    name: mission_skill_config-10580319
-    description: mission_skill_config-20580319
-    lvup_description: mission_skill_config-30580319
     skill_group_id: 580319
     level: 1
     spot_type: "-1"
@@ -21388,9 +21226,6 @@
   }
   {
     id: 580320
-    name: mission_skill_config-10580320
-    description: mission_skill_config-20580320
-    lvup_description: mission_skill_config-30580320
     skill_group_id: 580320
     level: 1
     spot_type: "-1"
@@ -21403,9 +21238,6 @@
   }
   {
     id: 580321
-    name: mission_skill_config-10580321
-    description: mission_skill_config-20580321
-    lvup_description: mission_skill_config-30580321
     skill_group_id: 580321
     level: 1
     spot_type: "-1"
@@ -21418,9 +21250,6 @@
   }
   {
     id: 580322
-    name: mission_skill_config-10580322
-    description: mission_skill_config-20580322
-    lvup_description: mission_skill_config-30580322
     skill_group_id: 580322
     level: 1
     spot_type: "-1"
@@ -21433,9 +21262,6 @@
   }
   {
     id: 580323
-    name: mission_skill_config-10580323
-    description: mission_skill_config-20580323
-    lvup_description: mission_skill_config-30580323
     skill_group_id: 580323
     level: 1
     spot_type: "-1"
@@ -21448,9 +21274,6 @@
   }
   {
     id: 580324
-    name: mission_skill_config-10580324
-    description: mission_skill_config-20580324
-    lvup_description: mission_skill_config-30580324
     skill_group_id: 580324
     level: 1
     spot_type: "-1"
@@ -21463,9 +21286,6 @@
   }
   {
     id: 580325
-    name: mission_skill_config-10580325
-    description: mission_skill_config-20580325
-    lvup_description: mission_skill_config-30580325
     skill_group_id: 580325
     level: 1
     spot_type: "-1"
@@ -21478,9 +21298,6 @@
   }
   {
     id: 580401
-    name: mission_skill_config-10580401
-    description: mission_skill_config-20580401
-    lvup_description: mission_skill_config-30580401
     skill_group_id: 580401
     level: 1
     spot_type: "-1"
@@ -21495,9 +21312,6 @@
   }
   {
     id: 580402
-    name: mission_skill_config-10580402
-    description: mission_skill_config-20580402
-    lvup_description: mission_skill_config-30580402
     skill_group_id: 580402
     level: 1
     spot_type: "-1"
@@ -21512,9 +21326,6 @@
   }
   {
     id: 580411
-    name: mission_skill_config-10580411
-    description: mission_skill_config-20580411
-    lvup_description: mission_skill_config-30580411
     skill_group_id: 580411
     level: 1
     spot_type: "-1"
@@ -21529,9 +21340,6 @@
   }
   {
     id: 580501
-    name: mission_skill_config-10580501
-    description: mission_skill_config-20580501
-    lvup_description: mission_skill_config-30580501
     skill_group_id: 580501
     level: 1
     spot_type: "-1"
@@ -21542,9 +21350,7 @@
   }
   {
     id: 580502
-    name: mission_skill_config-10580502
-    description: mission_skill_config-20580502
-    lvup_description: mission_skill_config-30580502
+    name: "[avg]-58-A4-5-1"
     skill_group_id: 580502
     level: 1
     spot_type: "-1"
@@ -21556,9 +21362,6 @@
   }
   {
     id: 580901
-    name: mission_skill_config-10580901
-    description: mission_skill_config-20580901
-    lvup_description: mission_skill_config-30580901
     skill_group_id: 580901
     level: 1
     spot_type: "-1"
@@ -21573,9 +21376,6 @@
   }
   {
     id: 580903
-    name: mission_skill_config-10580903
-    description: mission_skill_config-20580903
-    lvup_description: mission_skill_config-30580903
     skill_group_id: 580903
     level: 1
     spot_type: "-1"
@@ -21588,9 +21388,6 @@
   }
   {
     id: 580904
-    name: mission_skill_config-10580904
-    description: mission_skill_config-20580904
-    lvup_description: mission_skill_config-30580904
     skill_group_id: 580904
     level: 1
     spot_type: "-1"
@@ -21604,9 +21401,8 @@
   }
   {
     id: 580905
-    name: mission_skill_config-10580905
-    description: mission_skill_config-20580905
-    lvup_description: mission_skill_config-30580905
+    name: 砲台を停止
+    description: 周囲1マス範囲への砲台の攻撃を停止する。
     skill_group_id: 580905
     level: 1
     spot_type: "-1"
@@ -21621,9 +21417,6 @@
   }
   {
     id: 580906
-    name: mission_skill_config-10580906
-    description: mission_skill_config-20580906
-    lvup_description: mission_skill_config-30580906
     skill_group_id: 580906
     level: 1
     spot_type: "-1"
@@ -21636,9 +21429,7 @@
   }
   {
     id: 580907
-    name: mission_skill_config-10580907
-    description: mission_skill_config-20580907
-    lvup_description: mission_skill_config-30580907
+    name: 砲台バックドア
     skill_group_id: 580907
     level: 1
     spot_type: "-1"
@@ -21650,9 +21441,6 @@
   }
   {
     id: 580908
-    name: mission_skill_config-10580908
-    description: mission_skill_config-20580908
-    lvup_description: mission_skill_config-30580908
     skill_group_id: 580908
     level: 1
     spot_type: "-1"
@@ -21668,9 +21456,6 @@
   }
   {
     id: 580909
-    name: mission_skill_config-10580909
-    description: mission_skill_config-20580909
-    lvup_description: mission_skill_config-30580909
     skill_group_id: 580909
     level: 1
     spot_type: "-1"
@@ -21684,9 +21469,6 @@
   }
   {
     id: 580910
-    name: mission_skill_config-10580910
-    description: mission_skill_config-20580910
-    lvup_description: mission_skill_config-30580910
     skill_group_id: 580910
     level: 1
     spot_type: "-1"
@@ -21701,9 +21483,6 @@
   }
   {
     id: 580911
-    name: mission_skill_config-10580911
-    description: mission_skill_config-20580911
-    lvup_description: mission_skill_config-30580911
     skill_group_id: 580911
     level: 1
     spot_type: "-1"
@@ -21716,9 +21495,6 @@
   }
   {
     id: 580912
-    name: mission_skill_config-10580912
-    description: mission_skill_config-20580912
-    lvup_description: mission_skill_config-30580912
     skill_group_id: 580912
     level: 1
     spot_type: "-1"
@@ -21731,9 +21507,6 @@
   }
   {
     id: 580913
-    name: mission_skill_config-10580913
-    description: mission_skill_config-20580913
-    lvup_description: mission_skill_config-30580913
     skill_group_id: 580913
     level: 1
     spot_type: "-1"
@@ -21746,9 +21519,6 @@
   }
   {
     id: 580914
-    name: mission_skill_config-10580914
-    description: mission_skill_config-20580914
-    lvup_description: mission_skill_config-30580914
     skill_group_id: 580914
     level: 1
     spot_type: "-1"
@@ -21763,9 +21533,6 @@
   }
   {
     id: 581101
-    name: mission_skill_config-10581101
-    description: mission_skill_config-20581101
-    lvup_description: mission_skill_config-30581101
     skill_group_id: 581101
     level: 1
     spot_type: "-1"
@@ -21779,9 +21546,6 @@
   }
   {
     id: 581102
-    name: mission_skill_config-10581102
-    description: mission_skill_config-20581102
-    lvup_description: mission_skill_config-30581102
     skill_group_id: 581102
     level: 1
     spot_type: "-1"
@@ -21796,9 +21560,7 @@
   }
   {
     id: 581103
-    name: mission_skill_config-10581103
-    description: mission_skill_config-20581103
-    lvup_description: mission_skill_config-30581103
+    name: "[avg]-58-EXT-11-1"
     skill_group_id: 581103
     level: 1
     spot_type: "-1"
@@ -21810,9 +21572,7 @@
   }
   {
     id: 581500
-    name: mission_skill_config-10581500
-    description: mission_skill_config-20581500
-    lvup_description: mission_skill_config-30581500
+    name: アンジェ失敗判定
     skill_group_id: 581500
     level: 1
     spot_type: "-1"
@@ -21824,9 +21584,7 @@
   }
   {
     id: 581501
-    name: mission_skill_config-10581501
-    description: mission_skill_config-20581501
-    lvup_description: mission_skill_config-30581501
+    name: アンジェ初期化
     skill_group_id: 581501
     level: 1
     spot_type: "-1"
@@ -21841,9 +21599,7 @@
   }
   {
     id: 581502
-    name: mission_skill_config-10581502
-    description: mission_skill_config-20581502
-    lvup_description: mission_skill_config-30581502
+    name: 増援ポイント初期化
     skill_group_id: 581502
     level: 1
     spot_type: "-1"
@@ -21855,9 +21611,7 @@
   }
   {
     id: 581503
-    name: mission_skill_config-10581503
-    description: mission_skill_config-20581503
-    lvup_description: mission_skill_config-30581503
+    name: AR退場
     skill_group_id: 581503
     level: 1
     spot_type: "-1"
@@ -21870,9 +21624,7 @@
   }
   {
     id: 581504
-    name: mission_skill_config-10581504
-    description: mission_skill_config-20581504
-    lvup_description: mission_skill_config-30581504
+    name: AR多動
     skill_group_id: 581504
     level: 1
     spot_type: "-1"
@@ -21885,9 +21637,7 @@
   }
   {
     id: 581505
-    name: mission_skill_config-10581505
-    description: mission_skill_config-20581505
-    lvup_description: mission_skill_config-30581505
+    name: AR増援
     skill_group_id: 581505
     level: 1
     spot_type: "-1"
@@ -21900,9 +21650,7 @@
   }
   {
     id: 581506
-    name: mission_skill_config-10581506
-    description: mission_skill_config-20581506
-    lvup_description: mission_skill_config-30581506
+    name: 心拍数初期化
     skill_group_id: 581506
     level: 1
     spot_type: "-1"
@@ -21914,9 +21662,7 @@
   }
   {
     id: 581507
-    name: mission_skill_config-10581507
-    description: mission_skill_config-20581507
-    lvup_description: mission_skill_config-30581507
+    name: 心拍数誘導
     skill_group_id: 581507
     level: 1
     spot_type: "-1"
@@ -21928,9 +21674,7 @@
   }
   {
     id: 581508
-    name: mission_skill_config-10581508
-    description: mission_skill_config-20581508
-    lvup_description: mission_skill_config-30581508
+    name: アンジェ生存判定
     skill_group_id: 581508
     level: 1
     spot_type: "-1"
@@ -21944,9 +21688,7 @@
   }
   {
     id: 581509
-    name: mission_skill_config-10581509
-    description: mission_skill_config-20581509
-    lvup_description: mission_skill_config-30581509
+    name: アンジェ失敗判定
     skill_group_id: 581509
     level: 1
     spot_type: "-1"
@@ -21958,9 +21700,7 @@
   }
   {
     id: 581510
-    name: mission_skill_config-10581510
-    description: mission_skill_config-20581510
-    lvup_description: mission_skill_config-30581510
+    name: アンジェ生存クリア
     skill_group_id: 581510
     level: 1
     spot_type: "-1"
@@ -21972,9 +21712,7 @@
   }
   {
     id: 581700
-    name: mission_skill_config-10581700
-    description: mission_skill_config-20581700
-    lvup_description: mission_skill_config-30581700
+    name: 反逆初期化
     skill_group_id: 581700
     level: 1
     spot_type: "-1"
@@ -21986,9 +21724,7 @@
   }
   {
     id: 581701
-    name: mission_skill_config-10581701
-    description: mission_skill_config-20581701
-    lvup_description: mission_skill_config-30581701
+    name: 廃棄建築初期化
     skill_group_id: 581701
     level: 1
     spot_type: "-1"
@@ -22000,9 +21736,8 @@
   }
   {
     id: 581702
-    name: mission_skill_config-10581702
-    description: mission_skill_config-20581702
-    lvup_description: mission_skill_config-30581702
+    name: 起爆
+    description: 廃棄建築を遠距離起爆し、ダメージを与えて廃墟を残す。この操作は心拍数を大幅に上げる。
     skill_group_id: 581702
     level: 1
     spot_type: "-1"
@@ -22018,9 +21753,7 @@
   }
   {
     id: 581703
-    name: mission_skill_config-10581703
-    description: mission_skill_config-20581703
-    lvup_description: mission_skill_config-30581703
+    name: 起爆+心拍数
     skill_group_id: 581703
     level: 1
     spot_type: "-1"
@@ -22035,9 +21768,7 @@
   }
   {
     id: 581704
-    name: mission_skill_config-10581704
-    description: mission_skill_config-20581704
-    lvup_description: mission_skill_config-30581704
+    name: 強敵多動
     skill_group_id: 581704
     level: 1
     spot_type: "-1"
@@ -22051,9 +21782,7 @@
   }
   {
     id: 581798
-    name: mission_skill_config-10581798
-    description: mission_skill_config-20581798
-    lvup_description: mission_skill_config-30581798
+    name: 心拍数初期化
     skill_group_id: 581798
     level: 1
     spot_type: "-1"
@@ -22065,9 +21794,7 @@
   }
   {
     id: 581799
-    name: mission_skill_config-10581799
-    description: mission_skill_config-20581799
-    lvup_description: mission_skill_config-30581799
+    name: アンジェ初期化
     skill_group_id: 581799
     level: 1
     spot_type: "-1"
@@ -22082,9 +21809,7 @@
   }
   {
     id: 583201
-    name: mission_skill_config-10583201
-    description: mission_skill_config-20583201
-    lvup_description: mission_skill_config-30583201
+    name: "[avg]-58-F3-32-1"
     skill_group_id: 583201
     level: 1
     spot_type: "-1"
@@ -22096,9 +21821,7 @@
   }
   {
     id: 583600
-    name: mission_skill_config-10583600
-    description: mission_skill_config-20583600
-    lvup_description: mission_skill_config-30583600
+    name: 信号標記初期化
     skill_group_id: 583600
     level: 1
     spot_type: "-1"
@@ -22113,9 +21836,8 @@
   }
   {
     id: 583601
-    name: mission_skill_config-10583601
-    description: mission_skill_config-20583601
-    lvup_description: mission_skill_config-30583601
+    name: メンタルジャミング
+    description: 目標を大幅に弱体化する。一部の敵に対しあまり効かない。SN比が通常値以上の場合のみ使用可能。使用後、SN比を少し下げる。
     skill_group_id: 583601
     level: 1
     spot_type: "-1"
@@ -22132,9 +21854,7 @@
   }
   {
     id: 583602
-    name: mission_skill_config-10583602
-    description: mission_skill_config-20583602
-    lvup_description: mission_skill_config-30583602
+    name: モリドー
     skill_group_id: 583602
     level: 1
     spot_type: "-1"
@@ -22146,9 +21866,7 @@
   }
   {
     id: 583603
-    name: mission_skill_config-10583603
-    description: mission_skill_config-20583603
-    lvup_description: mission_skill_config-30583603
+    name: 信号標記初期化
     skill_group_id: 583603
     level: 1
     spot_type: "-1"
@@ -22160,9 +21878,7 @@
   }
   {
     id: 583604
-    name: mission_skill_config-10583604
-    description: mission_skill_config-20583604
-    lvup_description: mission_skill_config-30583604
+    name: モリドー検知
     skill_group_id: 583604
     level: 1
     spot_type: "-1"
@@ -22173,9 +21889,6 @@
   }
   {
     id: 584505
-    name: mission_skill_config-10584505
-    description: mission_skill_config-20584505
-    lvup_description: mission_skill_config-30584505
     skill_group_id: 584505
     level: 1
     spot_type: "-1"
@@ -22187,9 +21900,8 @@
   }
   {
     id: 584511
-    name: mission_skill_config-10584511
-    description: mission_skill_config-20584511
-    lvup_description: mission_skill_config-30584511
+    name: エレベーター-Iに乗る
+    description: 対応するエレベーター-Iに移動する。対応するエレベーター-Iポイントに、すでにユニットが存在している場合、移動することはできない。
     skill_group_id: 584511
     level: 1
     spot_type: "-1"
@@ -22202,9 +21914,8 @@
   }
   {
     id: 584512
-    name: mission_skill_config-10584512
-    description: mission_skill_config-20584512
-    lvup_description: mission_skill_config-30584512
+    name: エレベーター-IIに乗る
+    description: 対応するエレベーター-IIに移動する。対応するエレベーター-IIポイントに、すでにユニットが存在している場合、移動することはできない。
     skill_group_id: 584512
     level: 1
     spot_type: "-1"
@@ -22217,9 +21928,8 @@
   }
   {
     id: 584513
-    name: mission_skill_config-10584513
-    description: mission_skill_config-20584513
-    lvup_description: mission_skill_config-30584513
+    name: エレベーター-IIIに乗る
+    description: 対応するエレベーター-IIIに移動する。対応するエレベーター-IIIポイントに、すでにユニットが存在している場合、移動することはできない。
     skill_group_id: 584513
     level: 1
     spot_type: "-1"
@@ -22232,9 +21942,8 @@
   }
   {
     id: 584514
-    name: mission_skill_config-10584514
-    description: mission_skill_config-20584514
-    lvup_description: mission_skill_config-30584514
+    name: エレベーター-IVに乗る
+    description: 対応するエレベーター-IVに移動する。対応するエレベーター-IVポイントに、すでにユニットが存在している場合、移動することはできない。
     skill_group_id: 584514
     level: 1
     spot_type: "-1"
@@ -22247,9 +21956,6 @@
   }
   {
     id: 584801
-    name: mission_skill_config-10584801
-    description: mission_skill_config-20584801
-    lvup_description: mission_skill_config-30584801
     skill_group_id: 584801
     level: 1
     spot_type: "-1"
@@ -22263,9 +21969,7 @@
   }
   {
     id: 584900
-    name: mission_skill_config-10584900
-    description: mission_skill_config-20584900
-    lvup_description: mission_skill_config-30584900
+    name: 増援ポイント初期化
     skill_group_id: 584900
     level: 1
     spot_type: "-1"
@@ -22276,9 +21980,8 @@
   }
   {
     id: 584901
-    name: mission_skill_config-10584901
-    description: mission_skill_config-20584901
-    lvup_description: mission_skill_config-30584901
+    name: AK-12を集結
+    description: AK-12を集結させ、二人で行動する。
     skill_group_id: 584901
     level: 1
     spot_type: "-1"
@@ -22294,9 +21997,8 @@
   }
   {
     id: 584902
-    name: mission_skill_config-10584902
-    description: mission_skill_config-20584902
-    lvup_description: mission_skill_config-30584902
+    name: AK-12を集結
+    description: AK-12を集結させ、三人で行動する。
     skill_group_id: 584902
     level: 1
     spot_type: "-1"
@@ -22311,9 +22013,8 @@
   }
   {
     id: 584903
-    name: mission_skill_config-10584903
-    description: mission_skill_config-20584903
-    lvup_description: mission_skill_config-30584903
+    name: AN-94を集結
+    description: AN-94を集結させ、二人で行動する。
     skill_group_id: 584903
     level: 1
     spot_type: "-1"
@@ -22329,9 +22030,8 @@
   }
   {
     id: 584904
-    name: mission_skill_config-10584904
-    description: mission_skill_config-20584904
-    lvup_description: mission_skill_config-30584904
+    name: AN-94を集結
+    description: AN-94を集結させ、三人で行動する。
     skill_group_id: 584904
     level: 1
     spot_type: "-1"
@@ -22346,9 +22046,7 @@
   }
   {
     id: 584906
-    name: mission_skill_config-10584906
-    description: mission_skill_config-20584906
-    lvup_description: mission_skill_config-30584906
+    name: AR退場
     skill_group_id: 584906
     level: 1
     spot_type: "-1"
@@ -22361,9 +22059,7 @@
   }
   {
     id: 584907
-    name: mission_skill_config-10584907
-    description: mission_skill_config-20584907
-    lvup_description: mission_skill_config-30584907
+    name: AR増援
     skill_group_id: 584907
     level: 1
     spot_type: "-1"
@@ -22376,9 +22072,7 @@
   }
   {
     id: 585001
-    name: mission_skill_config-10585001
-    description: mission_skill_config-20585001
-    lvup_description: mission_skill_config-30585001
+    name: 強敵多動
     skill_group_id: 585001
     level: 1
     spot_type: "-1"
@@ -22392,9 +22086,7 @@
   }
   {
     id: 585600
-    name: mission_skill_config-10585600
-    description: mission_skill_config-20585600
-    lvup_description: mission_skill_config-30585600
+    name: 信号標記初期化
     skill_group_id: 585600
     level: 1
     spot_type: "-1"
@@ -22409,9 +22101,6 @@
   }
   {
     id: 587001
-    name: mission_skill_config-10587001
-    description: mission_skill_config-20587001
-    lvup_description: mission_skill_config-30587001
     skill_group_id: 587001
     level: 1
     spot_type: "-1"
@@ -22426,9 +22115,6 @@
   }
   {
     id: 587002
-    name: mission_skill_config-10587002
-    description: mission_skill_config-20587002
-    lvup_description: mission_skill_config-30587002
     skill_group_id: 587002
     level: 1
     spot_type: "-1"
@@ -26616,9 +26302,6 @@
   }
   {
     id: 610000
-    name: mission_skill_config-10610000
-    description: mission_skill_config-20610000
-    lvup_description: mission_skill_config-30610000
     skill_group_id: 610000
     level: 1
     spot_type: "-1"
@@ -26630,9 +26313,6 @@
   }
   {
     id: 610001
-    name: mission_skill_config-10610001
-    description: mission_skill_config-20610001
-    lvup_description: mission_skill_config-30610001
     skill_group_id: 610001
     level: 1
     spot_type: "-1"
@@ -26644,9 +26324,6 @@
   }
   {
     id: 610002
-    name: mission_skill_config-10610002
-    description: mission_skill_config-20610002
-    lvup_description: mission_skill_config-30610002
     skill_group_id: 610002
     level: 1
     spot_type: "-1"
@@ -26662,9 +26339,6 @@
   }
   {
     id: 610003
-    name: mission_skill_config-10610003
-    description: mission_skill_config-20610003
-    lvup_description: mission_skill_config-30610003
     skill_group_id: 610003
     level: 1
     spot_type: "-1"
@@ -26680,9 +26354,6 @@
   }
   {
     id: 610004
-    name: mission_skill_config-10610004
-    description: mission_skill_config-20610004
-    lvup_description: mission_skill_config-30610004
     skill_group_id: 610004
     level: 1
     spot_type: "-1"
@@ -26694,9 +26365,6 @@
   }
   {
     id: 610005
-    name: mission_skill_config-10610005
-    description: mission_skill_config-20610005
-    lvup_description: mission_skill_config-30610005
     skill_group_id: 610005
     level: 1
     spot_type: "-1"
@@ -26708,9 +26376,6 @@
   }
   {
     id: 610006
-    name: mission_skill_config-10610006
-    description: mission_skill_config-20610006
-    lvup_description: mission_skill_config-30610006
     skill_group_id: 610006
     level: 1
     spot_type: "-1"
@@ -26722,9 +26387,6 @@
   }
   {
     id: 610007
-    name: mission_skill_config-10610007
-    description: mission_skill_config-20610007
-    lvup_description: mission_skill_config-30610007
     skill_group_id: 610007
     level: 1
     spot_type: "-1"
@@ -26736,9 +26398,6 @@
   }
   {
     id: 610008
-    name: mission_skill_config-10610008
-    description: mission_skill_config-20610008
-    lvup_description: mission_skill_config-30610008
     skill_group_id: 610008
     level: 1
     spot_type: "-1"
@@ -26750,9 +26409,6 @@
   }
   {
     id: 610009
-    name: mission_skill_config-10610009
-    description: mission_skill_config-20610009
-    lvup_description: mission_skill_config-30610009
     skill_group_id: 610009
     level: 1
     spot_type: "-1"
@@ -26764,9 +26420,6 @@
   }
   {
     id: 610010
-    name: mission_skill_config-10610010
-    description: mission_skill_config-20610010
-    lvup_description: mission_skill_config-30610010
     skill_group_id: 610010
     level: 1
     spot_type: "-1"
@@ -26779,10 +26432,7 @@
   }
   {
     id: 610011
-    name: mission_skill_config-10610011
     code: 2307RG01
-    description: mission_skill_config-20610011
-    lvup_description: mission_skill_config-30610011
     skill_group_id: 610011
     level: 1
     spot_type: "-1"
@@ -26795,10 +26445,7 @@
   }
   {
     id: 610012
-    name: mission_skill_config-10610012
     code: 2307RG02
-    description: mission_skill_config-20610012
-    lvup_description: mission_skill_config-30610012
     skill_group_id: 610012
     level: 1
     spot_type: "-1"
@@ -26811,10 +26458,7 @@
   }
   {
     id: 610013
-    name: mission_skill_config-10610013
     code: 2307RG03
-    description: mission_skill_config-20610013
-    lvup_description: mission_skill_config-30610013
     skill_group_id: 610013
     level: 1
     spot_type: "-1"
@@ -26827,10 +26471,7 @@
   }
   {
     id: 610014
-    name: mission_skill_config-10610014
     code: 2307RG04
-    description: mission_skill_config-20610014
-    lvup_description: mission_skill_config-30610014
     skill_group_id: 610014
     level: 1
     spot_type: "-1"
@@ -26843,10 +26484,7 @@
   }
   {
     id: 610015
-    name: mission_skill_config-10610015
     code: 2307RG05
-    description: mission_skill_config-20610015
-    lvup_description: mission_skill_config-30610015
     skill_group_id: 610015
     level: 1
     spot_type: "-1"
@@ -26859,9 +26497,6 @@
   }
   {
     id: 610021
-    name: mission_skill_config-10610021
-    description: mission_skill_config-20610021
-    lvup_description: mission_skill_config-30610021
     skill_group_id: 610021
     level: 1
     spot_type: "-1"
@@ -26875,9 +26510,6 @@
   }
   {
     id: 610022
-    name: mission_skill_config-10610022
-    description: mission_skill_config-20610022
-    lvup_description: mission_skill_config-30610022
     skill_group_id: 610022
     level: 1
     spot_type: "-1"
@@ -26891,9 +26523,6 @@
   }
   {
     id: 610023
-    name: mission_skill_config-10610023
-    description: mission_skill_config-20610023
-    lvup_description: mission_skill_config-30610023
     skill_group_id: 610023
     level: 1
     spot_type: "-1"
@@ -26907,9 +26536,6 @@
   }
   {
     id: 610024
-    name: mission_skill_config-10610024
-    description: mission_skill_config-20610024
-    lvup_description: mission_skill_config-30610024
     skill_group_id: 610024
     level: 1
     spot_type: "-1"
@@ -26923,9 +26549,6 @@
   }
   {
     id: 610025
-    name: mission_skill_config-10610025
-    description: mission_skill_config-20610025
-    lvup_description: mission_skill_config-30610025
     skill_group_id: 610025
     level: 1
     spot_type: "-1"
@@ -26941,9 +26564,6 @@
   }
   {
     id: 610031
-    name: mission_skill_config-10610031
-    description: mission_skill_config-20610031
-    lvup_description: mission_skill_config-30610031
     skill_group_id: 610031
     level: 1
     spot_type: "-1"
@@ -26955,9 +26575,6 @@
   }
   {
     id: 610032
-    name: mission_skill_config-10610032
-    description: mission_skill_config-20610032
-    lvup_description: mission_skill_config-30610032
     skill_group_id: 610032
     level: 1
     spot_type: "-1"
@@ -26972,9 +26589,6 @@
   }
   {
     id: 610033
-    name: mission_skill_config-10610033
-    description: mission_skill_config-20610033
-    lvup_description: mission_skill_config-30610033
     skill_group_id: 610033
     level: 1
     spot_type: "-1"
@@ -26986,9 +26600,6 @@
   }
   {
     id: 610034
-    name: mission_skill_config-10610034
-    description: mission_skill_config-20610034
-    lvup_description: mission_skill_config-30610034
     skill_group_id: 610034
     level: 1
     spot_type: "-1"
@@ -27003,9 +26614,6 @@
   }
   {
     id: 610035
-    name: mission_skill_config-10610035
-    description: mission_skill_config-20610035
-    lvup_description: mission_skill_config-30610035
     skill_group_id: 610035
     level: 1
     spot_type: "-1"
@@ -27019,9 +26627,6 @@
   }
   {
     id: 610091
-    name: mission_skill_config-10610091
-    description: mission_skill_config-20610091
-    lvup_description: mission_skill_config-30610091
     skill_group_id: 610091
     level: 1
     spot_type: "-1"
@@ -27032,9 +26637,6 @@
   }
   {
     id: 610099
-    name: mission_skill_config-10610099
-    description: mission_skill_config-20610099
-    lvup_description: mission_skill_config-30610099
     skill_group_id: 610099
     level: 1
     spot_type: "-1"
@@ -27044,9 +26646,6 @@
   }
   {
     id: 610101
-    name: mission_skill_config-10610101
-    description: mission_skill_config-20610101
-    lvup_description: mission_skill_config-30610101
     skill_group_id: 610101
     level: 1
     spot_type: "-1"
@@ -27058,9 +26657,6 @@
   }
   {
     id: 610201
-    name: mission_skill_config-10610201
-    description: mission_skill_config-20610201
-    lvup_description: mission_skill_config-30610201
     skill_group_id: 610201
     level: 1
     spot_type: "-1"
@@ -27073,9 +26669,6 @@
   }
   {
     id: 610301
-    name: mission_skill_config-10610301
-    description: mission_skill_config-20610301
-    lvup_description: mission_skill_config-30610301
     skill_group_id: 610301
     level: 1
     spot_type: "-1"
@@ -27088,9 +26681,6 @@
   }
   {
     id: 610401
-    name: mission_skill_config-10610401
-    description: mission_skill_config-20610401
-    lvup_description: mission_skill_config-30610401
     skill_group_id: 610401
     level: 1
     spot_type: "-1"
@@ -27103,9 +26693,6 @@
   }
   {
     id: 610601
-    name: mission_skill_config-10610601
-    description: mission_skill_config-20610601
-    lvup_description: mission_skill_config-30610601
     skill_group_id: 610601
     level: 1
     spot_type: "-1"
@@ -27118,9 +26705,6 @@
   }
   {
     id: 610701
-    name: mission_skill_config-10610701
-    description: mission_skill_config-20610701
-    lvup_description: mission_skill_config-30610701
     skill_group_id: 610701
     level: 1
     spot_type: "-1"
@@ -27133,9 +26717,6 @@
   }
   {
     id: 611001
-    name: mission_skill_config-10611001
-    description: mission_skill_config-20611001
-    lvup_description: mission_skill_config-30611001
     skill_group_id: 611001
     level: 1
     spot_type: "-1"
@@ -27148,9 +26729,6 @@
   }
   {
     id: 611002
-    name: mission_skill_config-10611002
-    description: mission_skill_config-20611002
-    lvup_description: mission_skill_config-30611002
     skill_group_id: 611002
     level: 1
     spot_type: "-1"
@@ -27163,9 +26741,6 @@
   }
   {
     id: 611003
-    name: mission_skill_config-10611003
-    description: mission_skill_config-20611003
-    lvup_description: mission_skill_config-30611003
     skill_group_id: 611003
     level: 1
     spot_type: "-1"
@@ -27179,9 +26754,6 @@
   }
   {
     id: 611004
-    name: mission_skill_config-10611004
-    description: mission_skill_config-20611004
-    lvup_description: mission_skill_config-30611004
     skill_group_id: 611004
     level: 1
     spot_type: "-1"
@@ -27195,9 +26767,6 @@
   }
   {
     id: 611005
-    name: mission_skill_config-10611005
-    description: mission_skill_config-20611005
-    lvup_description: mission_skill_config-30611005
     skill_group_id: 611005
     level: 1
     spot_type: "-1"
@@ -27210,9 +26779,6 @@
   }
   {
     id: 611006
-    name: mission_skill_config-10611006
-    description: mission_skill_config-20611006
-    lvup_description: mission_skill_config-30611006
     skill_group_id: 611006
     level: 1
     spot_type: "-1"
@@ -27225,9 +26791,6 @@
   }
   {
     id: 611007
-    name: mission_skill_config-10611007
-    description: mission_skill_config-20611007
-    lvup_description: mission_skill_config-30611007
     skill_group_id: 611007
     level: 1
     spot_type: "-1"
@@ -27239,9 +26802,6 @@
   }
   {
     id: 611008
-    name: mission_skill_config-10611008
-    description: mission_skill_config-20611008
-    lvup_description: mission_skill_config-30611008
     skill_group_id: 611008
     level: 1
     spot_type: "-1"
@@ -27253,9 +26813,7 @@
   }
   {
     id: 611009
-    name: mission_skill_config-10611009
-    description: mission_skill_config-20611009
-    lvup_description: mission_skill_config-30611009
+    name: リザルト
     skill_group_id: 611009
     level: 1
     spot_type: "-1"
@@ -27269,9 +26827,6 @@
   }
   {
     id: 611701
-    name: mission_skill_config-10611701
-    description: mission_skill_config-20611701
-    lvup_description: mission_skill_config-30611701
     skill_group_id: 611701
     level: 1
     spot_type: "-1"
@@ -27284,9 +26839,6 @@
   }
   {
     id: 611901
-    name: mission_skill_config-10611901
-    description: mission_skill_config-20611901
-    lvup_description: mission_skill_config-30611901
     skill_group_id: 611901
     level: 1
     spot_type: "-1"
@@ -27299,9 +26851,6 @@
   }
   {
     id: 612303
-    name: mission_skill_config-10612303
-    description: mission_skill_config-20612303
-    lvup_description: mission_skill_config-30612303
     skill_group_id: 612303
     level: 1
     spot_type: "-1"
@@ -27315,9 +26864,6 @@
   }
   {
     id: 612304
-    name: mission_skill_config-10612304
-    description: mission_skill_config-20612304
-    lvup_description: mission_skill_config-30612304
     skill_group_id: 612304
     level: 1
     spot_type: "-1"
@@ -27331,9 +26877,6 @@
   }
   {
     id: 700111
-    name: mission_skill_config-10700111
-    description: mission_skill_config-20700111
-    lvup_description: mission_skill_config-30700111
     skill_group_id: 700111
     level: 1
     spot_type: "-1"
@@ -27343,9 +26886,6 @@
   }
   {
     id: 700121
-    name: mission_skill_config-10700121
-    description: mission_skill_config-20700121
-    lvup_description: mission_skill_config-30700121
     skill_group_id: 700121
     level: 1
     spot_type: "-1"
@@ -27356,9 +26896,6 @@
   }
   {
     id: 700141
-    name: mission_skill_config-10700141
-    description: mission_skill_config-20700141
-    lvup_description: mission_skill_config-30700141
     skill_group_id: 700141
     level: 1
     spot_type: "-1"
@@ -35357,9 +34894,6 @@
   }
   {
     id: 1144001
-    name: mission_skill_config-11144001
-    description: mission_skill_config-21144001
-    lvup_description: mission_skill_config-31144001
     skill_group_id: 1144001
     level: 1
     spot_type: "-1"
@@ -35372,9 +34906,6 @@
   }
   {
     id: 1144302
-    name: mission_skill_config-11144302
-    description: mission_skill_config-21144302
-    lvup_description: mission_skill_config-31144302
     skill_group_id: 1144302
     level: 1
     spot_type: "-1"
@@ -35387,9 +34918,6 @@
   }
   {
     id: 1144303
-    name: mission_skill_config-11144303
-    description: mission_skill_config-21144303
-    lvup_description: mission_skill_config-31144303
     skill_group_id: 1144303
     level: 1
     spot_type: "-1"
@@ -35403,9 +34931,6 @@
   }
   {
     id: 1144400
-    name: mission_skill_config-11144400
-    description: mission_skill_config-21144400
-    lvup_description: mission_skill_config-31144400
     skill_group_id: 1144400
     level: 1
     spot_type: "-1"
@@ -35420,9 +34945,6 @@
   }
   {
     id: 1144401
-    name: mission_skill_config-11144401
-    description: mission_skill_config-21144401
-    lvup_description: mission_skill_config-31144401
     skill_group_id: 1144401
     level: 1
     spot_type: "-1"
@@ -35436,9 +34958,6 @@
   }
   {
     id: 1144402
-    name: mission_skill_config-11144402
-    description: mission_skill_config-21144402
-    lvup_description: mission_skill_config-31144402
     skill_group_id: 1144402
     level: 1
     spot_type: "-1"
@@ -35453,9 +34972,6 @@
   }
   {
     id: 1144403
-    name: mission_skill_config-11144403
-    description: mission_skill_config-21144403
-    lvup_description: mission_skill_config-31144403
     skill_group_id: 1144403
     level: 1
     spot_type: "-1"
@@ -35470,9 +34986,6 @@
   }
   {
     id: 1144404
-    name: mission_skill_config-11144404
-    description: mission_skill_config-21144404
-    lvup_description: mission_skill_config-31144404
     skill_group_id: 1144404
     level: 1
     spot_type: "-1"
@@ -35487,9 +35000,6 @@
   }
   {
     id: 1144405
-    name: mission_skill_config-11144405
-    description: mission_skill_config-21144405
-    lvup_description: mission_skill_config-31144405
     skill_group_id: 1144405
     level: 1
     spot_type: "-1"
@@ -35504,9 +35014,6 @@
   }
   {
     id: 1144406
-    name: mission_skill_config-11144406
-    description: mission_skill_config-21144406
-    lvup_description: mission_skill_config-31144406
     skill_group_id: 1144406
     level: 1
     spot_type: "-1"
@@ -35521,9 +35028,6 @@
   }
   {
     id: 1144411
-    name: mission_skill_config-11144411
-    description: mission_skill_config-21144411
-    lvup_description: mission_skill_config-31144411
     skill_group_id: 1144411
     level: 1
     spot_type: "-1"
@@ -35538,9 +35042,6 @@
   }
   {
     id: 1144412
-    name: mission_skill_config-11144412
-    description: mission_skill_config-21144412
-    lvup_description: mission_skill_config-31144412
     skill_group_id: 1144412
     level: 1
     spot_type: "-1"
@@ -35555,9 +35056,6 @@
   }
   {
     id: 1144413
-    name: mission_skill_config-11144413
-    description: mission_skill_config-21144413
-    lvup_description: mission_skill_config-31144413
     skill_group_id: 1144413
     level: 1
     spot_type: "-1"
@@ -35572,9 +35070,6 @@
   }
   {
     id: 1144414
-    name: mission_skill_config-11144414
-    description: mission_skill_config-21144414
-    lvup_description: mission_skill_config-31144414
     skill_group_id: 1144414
     level: 1
     spot_type: "-1"
@@ -35587,9 +35082,6 @@
   }
   {
     id: 1145700
-    name: mission_skill_config-11145700
-    description: mission_skill_config-21145700
-    lvup_description: mission_skill_config-31145700
     skill_group_id: 1145700
     level: 1
     spot_type: "-1"
@@ -35604,9 +35096,6 @@
   }
   {
     id: 1145701
-    name: mission_skill_config-11145701
-    description: mission_skill_config-21145701
-    lvup_description: mission_skill_config-31145701
     skill_group_id: 1145701
     level: 1
     spot_type: "-1"
@@ -35620,9 +35109,6 @@
   }
   {
     id: 1145702
-    name: mission_skill_config-11145702
-    description: mission_skill_config-21145702
-    lvup_description: mission_skill_config-31145702
     skill_group_id: 1145702
     level: 1
     spot_type: "-1"
@@ -35637,9 +35123,6 @@
   }
   {
     id: 1145703
-    name: mission_skill_config-11145703
-    description: mission_skill_config-21145703
-    lvup_description: mission_skill_config-31145703
     skill_group_id: 1145703
     level: 1
     spot_type: "-1"
@@ -35654,9 +35137,6 @@
   }
   {
     id: 1145704
-    name: mission_skill_config-11145704
-    description: mission_skill_config-21145704
-    lvup_description: mission_skill_config-31145704
     skill_group_id: 1145704
     level: 1
     spot_type: "-1"
@@ -35671,9 +35151,6 @@
   }
   {
     id: 1145705
-    name: mission_skill_config-11145705
-    description: mission_skill_config-21145705
-    lvup_description: mission_skill_config-31145705
     skill_group_id: 1145705
     level: 1
     spot_type: "-1"
@@ -35688,9 +35165,6 @@
   }
   {
     id: 1145706
-    name: mission_skill_config-11145706
-    description: mission_skill_config-21145706
-    lvup_description: mission_skill_config-31145706
     skill_group_id: 1145706
     level: 1
     spot_type: "-1"
@@ -35705,9 +35179,6 @@
   }
   {
     id: 1145711
-    name: mission_skill_config-11145711
-    description: mission_skill_config-21145711
-    lvup_description: mission_skill_config-31145711
     skill_group_id: 1145711
     level: 1
     spot_type: "-1"
@@ -35722,9 +35193,6 @@
   }
   {
     id: 1145712
-    name: mission_skill_config-11145712
-    description: mission_skill_config-21145712
-    lvup_description: mission_skill_config-31145712
     skill_group_id: 1145712
     level: 1
     spot_type: "-1"
@@ -35739,9 +35207,6 @@
   }
   {
     id: 1145713
-    name: mission_skill_config-11145713
-    description: mission_skill_config-21145713
-    lvup_description: mission_skill_config-31145713
     skill_group_id: 1145713
     level: 1
     spot_type: "-1"
@@ -38320,9 +37785,7 @@
   }
   {
     id: 6360001
-    name: mission_skill_config-16360001
-    description: mission_skill_config-26360001
-    lvup_description: mission_skill_config-36360001
+    description: このモードに変更すると、敵飛行場からこれ以上強力な敵が出現しなくなります。※注意:すでにマップ上に存在する敵が変化するわけではありません。
     skill_group_id: 6360001
     level: 1
     spot_type: "-1"
@@ -38336,10 +37799,7 @@
   }
   {
     id: 6360002
-    name: mission_skill_config-16360002
     code: "1"
-    description: mission_skill_config-26360002
-    lvup_description: mission_skill_config-36360002
     skill_group_id: 6360002
     level: 1
     spot_type: "-1"
@@ -38351,10 +37811,7 @@
   }
   {
     id: 6360003
-    name: mission_skill_config-16360003
     code: "1"
-    description: mission_skill_config-26360003
-    lvup_description: mission_skill_config-36360003
     skill_group_id: 6360003
     level: 1
     spot_type: "-1"
@@ -38367,10 +37824,7 @@
   }
   {
     id: 6360004
-    name: mission_skill_config-16360004
     code: "1"
-    description: mission_skill_config-26360004
-    lvup_description: mission_skill_config-36360004
     skill_group_id: 6360004
     level: 1
     spot_type: "-1"
@@ -38382,10 +37836,7 @@
   }
   {
     id: 6360005
-    name: mission_skill_config-16360005
     code: "1"
-    description: mission_skill_config-26360005
-    lvup_description: mission_skill_config-36360005
     skill_group_id: 6360005
     level: 1
     spot_type: "-1"
@@ -38395,10 +37846,7 @@
   }
   {
     id: 6360006
-    name: mission_skill_config-16360006
     code: "1"
-    description: mission_skill_config-26360006
-    lvup_description: mission_skill_config-36360006
     skill_group_id: 6360006
     level: 1
     spot_type: "-1"
@@ -38408,10 +37856,8 @@
   }
   {
     id: 6360007
-    name: mission_skill_config-16360007
+    name: Don't translate
     code: "1"
-    description: mission_skill_config-26360007
-    lvup_description: mission_skill_config-36360007
     skill_group_id: 6360007
     level: 1
     spot_type: "-1"
@@ -38422,10 +37868,7 @@
   }
   {
     id: 6360008
-    name: mission_skill_config-16360008
     code: "1"
-    description: mission_skill_config-26360008
-    lvup_description: mission_skill_config-36360008
     skill_group_id: 6360008
     level: 1
     spot_type: "-1"
@@ -38438,10 +37881,7 @@
   }
   {
     id: 6360009
-    name: mission_skill_config-16360009
     code: "1"
-    description: mission_skill_config-26360009
-    lvup_description: mission_skill_config-36360009
     skill_group_id: 6360009
     level: 1
     spot_type: "-1"
@@ -38454,10 +37894,7 @@
   }
   {
     id: 6360010
-    name: mission_skill_config-16360010
     code: "1"
-    description: mission_skill_config-26360010
-    lvup_description: mission_skill_config-36360010
     skill_group_id: 6360010
     level: 1
     spot_type: "-1"
@@ -38470,10 +37907,8 @@
   }
   {
     id: 6360011
-    name: mission_skill_config-16360011
     code: "1"
-    description: mission_skill_config-26360011
-    lvup_description: mission_skill_config-36360011
+    description: だるまさんが……転んだ！
     skill_group_id: 6360011
     level: 1
     spot_type: "-1"
@@ -38487,10 +37922,9 @@
   }
   {
     id: 6360012
-    name: mission_skill_config-16360012
+    name: ゴリアテを投げる
     code: "1"
-    description: mission_skill_config-26360012
-    lvup_description: mission_skill_config-36360012
+    description: 爆破する。
     skill_group_id: 6360012
     level: 1
     spot_type: "-1"
@@ -38504,10 +37938,7 @@
   }
   {
     id: 6360013
-    name: mission_skill_config-16360013
     code: "1"
-    description: mission_skill_config-26360013
-    lvup_description: mission_skill_config-36360013
     skill_group_id: 6360013
     level: 1
     spot_type: "-1"
@@ -38521,10 +37952,7 @@
   }
   {
     id: 6360014
-    name: mission_skill_config-16360014
     code: "1"
-    description: mission_skill_config-26360014
-    lvup_description: mission_skill_config-36360014
     skill_group_id: 6360014
     level: 1
     spot_type: "-1"
@@ -38535,10 +37963,7 @@
   }
   {
     id: 6360015
-    name: mission_skill_config-16360015
     code: "1"
-    description: mission_skill_config-26360015
-    lvup_description: mission_skill_config-36360015
     skill_group_id: 6360015
     level: 1
     spot_type: "-1"
@@ -38549,10 +37974,7 @@
   }
   {
     id: 6360016
-    name: mission_skill_config-16360016
     code: "1"
-    description: mission_skill_config-26360016
-    lvup_description: mission_skill_config-36360016
     skill_group_id: 6360016
     level: 1
     spot_type: "-1"
@@ -38563,10 +37985,7 @@
   }
   {
     id: 6360017
-    name: mission_skill_config-16360017
     code: "1"
-    description: mission_skill_config-26360017
-    lvup_description: mission_skill_config-36360017
     skill_group_id: 6360017
     level: 1
     spot_type: "-1"
@@ -38577,10 +37996,7 @@
   }
   {
     id: 6360018
-    name: mission_skill_config-16360018
     code: "1"
-    description: mission_skill_config-26360018
-    lvup_description: mission_skill_config-36360018
     skill_group_id: 6360018
     level: 1
     spot_type: "-1"
@@ -38591,9 +38007,6 @@
   }
   {
     id: 6360019
-    name: mission_skill_config-16360019
-    description: mission_skill_config-26360019
-    lvup_description: mission_skill_config-36360019
     skill_group_id: 6360019
     level: 1
     spot_type: "3,7"
@@ -51933,10 +51346,7 @@
   }
   {
     id: 6580001
-    name: mission_skill_config-16580001
     code: "1"
-    description: mission_skill_config-26580001
-    lvup_description: mission_skill_config-36580001
     skill_group_id: 6580001
     level: 1
     spot_type: "-1"
@@ -51948,10 +51358,7 @@
   }
   {
     id: 6580002
-    name: mission_skill_config-16580002
     code: "1"
-    description: mission_skill_config-26580002
-    lvup_description: mission_skill_config-36580002
     skill_group_id: 6580002
     level: 1
     spot_type: "-1"
@@ -51963,10 +51370,7 @@
   }
   {
     id: 6580003
-    name: mission_skill_config-16580003
     code: "1"
-    description: mission_skill_config-26580003
-    lvup_description: mission_skill_config-36580003
     skill_group_id: 6580003
     level: 1
     spot_type: "-1"
@@ -51979,10 +51383,7 @@
   }
   {
     id: 6580004
-    name: mission_skill_config-16580004
     code: "1"
-    description: mission_skill_config-26580004
-    lvup_description: mission_skill_config-36580004
     skill_group_id: 6580004
     level: 1
     spot_type: "-1"
@@ -51995,10 +51396,7 @@
   }
   {
     id: 6580005
-    name: mission_skill_config-16580005
     code: "1"
-    description: mission_skill_config-26580005
-    lvup_description: mission_skill_config-36580005
     skill_group_id: 6580005
     level: 1
     spot_type: "-1"
@@ -52011,10 +51409,9 @@
   }
   {
     id: 6580006
-    name: mission_skill_config-16580006
+    name: 装填
     code: "1"
-    description: mission_skill_config-26580006
-    lvup_description: mission_skill_config-36580006
+    description: 1回分の弾薬を装填する
     skill_group_id: 6580006
     level: 1
     spot_type: "-1"
@@ -52028,10 +51425,9 @@
   }
   {
     id: 6580007
-    name: mission_skill_config-16580007
+    name: 装填
     code: "1"
-    description: mission_skill_config-26580007
-    lvup_description: mission_skill_config-36580007
+    description: 2回分の弾薬を装填する
     skill_group_id: 6580007
     level: 1
     spot_type: "-1"
@@ -52045,10 +51441,9 @@
   }
   {
     id: 6580008
-    name: mission_skill_config-16580008
+    name: 装填
     code: "1"
-    description: mission_skill_config-26580008
-    lvup_description: mission_skill_config-36580008
+    description: 3回分の弾薬を装填する
     skill_group_id: 6580008
     level: 1
     spot_type: "-1"
@@ -52063,10 +51458,7 @@
   }
   {
     id: 6580009
-    name: mission_skill_config-16580009
     code: "1"
-    description: mission_skill_config-26580009
-    lvup_description: mission_skill_config-36580009
     skill_group_id: 6580009
     level: 1
     spot_type: "-1"
@@ -52079,10 +51471,7 @@
   }
   {
     id: 6580010
-    name: mission_skill_config-16580010
     code: "1"
-    description: mission_skill_config-26580010
-    lvup_description: mission_skill_config-36580010
     skill_group_id: 6580010
     level: 1
     spot_type: "-1"
@@ -52095,10 +51484,7 @@
   }
   {
     id: 6580011
-    name: mission_skill_config-16580011
     code: "1"
-    description: mission_skill_config-26580011
-    lvup_description: mission_skill_config-36580011
     skill_group_id: 6580011
     level: 1
     spot_type: "-1"
@@ -52111,10 +51497,7 @@
   }
   {
     id: 6580012
-    name: mission_skill_config-16580012
     code: "1"
-    description: mission_skill_config-26580012
-    lvup_description: mission_skill_config-36580012
     skill_group_id: 6580012
     level: 1
     spot_type: "-1"
@@ -52127,10 +51510,7 @@
   }
   {
     id: 6580013
-    name: mission_skill_config-16580013
     code: "1"
-    description: mission_skill_config-26580013
-    lvup_description: mission_skill_config-36580013
     skill_group_id: 6580013
     level: 1
     spot_type: "-1"
@@ -52143,10 +51523,7 @@
   }
   {
     id: 6580014
-    name: mission_skill_config-16580014
     code: "1"
-    description: mission_skill_config-26580014
-    lvup_description: mission_skill_config-36580014
     skill_group_id: 6580014
     level: 1
     spot_type: "-1"
@@ -52159,10 +51536,7 @@
   }
   {
     id: 6580015
-    name: mission_skill_config-16580015
     code: "1"
-    description: mission_skill_config-26580015
-    lvup_description: mission_skill_config-36580015
     skill_group_id: 6580015
     level: 1
     spot_type: "-1"
@@ -52175,10 +51549,7 @@
   }
   {
     id: 6580016
-    name: mission_skill_config-16580016
     code: "1"
-    description: mission_skill_config-26580016
-    lvup_description: mission_skill_config-36580016
     skill_group_id: 6580016
     level: 1
     spot_type: "-1"
@@ -52191,10 +51562,7 @@
   }
   {
     id: 6580017
-    name: mission_skill_config-16580017
     code: "1"
-    description: mission_skill_config-26580017
-    lvup_description: mission_skill_config-36580017
     skill_group_id: 6580017
     level: 1
     spot_type: "-1"
@@ -52207,10 +51575,7 @@
   }
   {
     id: 6580018
-    name: mission_skill_config-16580018
     code: "1"
-    description: mission_skill_config-26580018
-    lvup_description: mission_skill_config-36580018
     skill_group_id: 6580018
     level: 1
     spot_type: "-1"
@@ -52223,10 +51588,7 @@
   }
   {
     id: 6580019
-    name: mission_skill_config-16580019
     code: "1"
-    description: mission_skill_config-26580019
-    lvup_description: mission_skill_config-36580019
     skill_group_id: 6580019
     level: 1
     spot_type: "-1"
@@ -52239,10 +51601,7 @@
   }
   {
     id: 6580020
-    name: mission_skill_config-16580020
     code: "1"
-    description: mission_skill_config-26580020
-    lvup_description: mission_skill_config-36580020
     skill_group_id: 6580020
     level: 1
     spot_type: "-1"
@@ -52255,10 +51614,7 @@
   }
   {
     id: 6580021
-    name: mission_skill_config-16580021
     code: "1"
-    description: mission_skill_config-26580021
-    lvup_description: mission_skill_config-36580021
     skill_group_id: 6580021
     level: 1
     spot_type: "-1"
@@ -52271,10 +51627,7 @@
   }
   {
     id: 6580022
-    name: mission_skill_config-16580022
     code: "1"
-    description: mission_skill_config-26580022
-    lvup_description: mission_skill_config-36580022
     skill_group_id: 6580022
     level: 1
     spot_type: "-1"
@@ -52287,10 +51640,7 @@
   }
   {
     id: 6580023
-    name: mission_skill_config-16580023
     code: "1"
-    description: mission_skill_config-26580023
-    lvup_description: mission_skill_config-36580023
     skill_group_id: 6580023
     level: 1
     spot_type: "-1"
@@ -52303,10 +51653,9 @@
   }
   {
     id: 6580024
-    name: mission_skill_config-16580024
+    name: 陣地堅守
     code: "1"
-    description: mission_skill_config-26580024
-    lvup_description: mission_skill_config-36580024
+    description: 3秒ごとに味方の前衛人形の回避と防御を10%上昇させる(最大10重まで累積)。
     skill_group_id: 6580024
     level: 1
     spot_type: "-1"
@@ -52321,10 +51670,9 @@
   }
   {
     id: 6580025
-    name: mission_skill_config-16580025
+    name: 高速整備
     code: "1"
-    description: mission_skill_config-26580025
-    lvup_description: mission_skill_config-36580025
+    description: 味方全体の開幕CTを30%短縮させる。
     skill_group_id: 6580025
     level: 1
     spot_type: "-1"
@@ -52339,10 +51687,9 @@
   }
   {
     id: 6580026
-    name: mission_skill_config-16580026
+    name: 焦土戦略
     code: "1"
-    description: mission_skill_config-26580026
-    lvup_description: mission_skill_config-36580026
+    description: 6秒ごとに最もHPの多い敵に燃焼物を投擲し、15秒間、3×3の範囲に0.33秒ごとに100ダメージを与える。
     skill_group_id: 6580026
     level: 1
     spot_type: "-1"
@@ -52357,10 +51704,9 @@
   }
   {
     id: 6580027
-    name: mission_skill_config-16580027
+    name: 応急保護
     code: "1"
-    description: mission_skill_config-26580027
-    lvup_description: mission_skill_config-36580027
+    description: 10秒ごとに、味方のHP減少量の30%と同数のダメージを吸収するシールドを6秒間展開する。
     skill_group_id: 6580027
     level: 1
     spot_type: "-1"
@@ -52375,10 +51721,9 @@
   }
   {
     id: 6580028
-    name: mission_skill_config-16580028
+    name: 無作為打撃
     code: "1"
-    description: mission_skill_config-26580028
-    lvup_description: mission_skill_config-36580028
+    description: 15秒ごとに、ランダムで敵ユニット1人の火力/射速/命中/回避/防御を50%低下させる。
     skill_group_id: 6580028
     level: 1
     spot_type: "-1"
@@ -52393,10 +51738,9 @@
   }
   {
     id: 6580029
-    name: mission_skill_config-16580029
+    name: 偏向障壁
     code: "1"
-    description: mission_skill_config-26580029
-    lvup_description: mission_skill_config-36580029
+    description: 戦闘開始より8秒間、HPが最も多い味方ユニットに9999ポイントの偏向障壁を展開する。
     skill_group_id: 6580029
     level: 1
     spot_type: "-1"
@@ -52411,10 +51755,9 @@
   }
   {
     id: 6580030
-    name: mission_skill_config-16580030
+    name: 突撃慣性
     code: "1"
-    description: mission_skill_config-26580030
-    lvup_description: mission_skill_config-36580030
+    description: この戦闘における味方全体の火力と回避を4秒ごとに3%上昇させる(最大10重まで累積)。
     skill_group_id: 6580030
     level: 1
     spot_type: "-1"
@@ -52429,10 +51772,9 @@
   }
   {
     id: 6580031
-    name: mission_skill_config-16580031
+    name: 鉄の肉壁
     code: "1"
-    description: mission_skill_config-26580031
-    lvup_description: mission_skill_config-36580031
+    description: HPの最も多い味方ユニットの被ダメージを30%減少させる。
     skill_group_id: 6580031
     level: 1
     spot_type: "-1"
@@ -52447,10 +51789,9 @@
   }
   {
     id: 6580032
-    name: mission_skill_config-16580032
+    name: 突撃号令
     code: "1"
-    description: mission_skill_config-26580032
-    lvup_description: mission_skill_config-36580032
+    description: 味方全体の射速を30%上昇させる。
     skill_group_id: 6580032
     level: 1
     spot_type: "-1"
@@ -52465,10 +51806,7 @@
   }
   {
     id: 6580033
-    name: mission_skill_config-16580033
     code: "1"
-    description: mission_skill_config-26580033
-    lvup_description: mission_skill_config-36580033
     skill_group_id: 6580033
     level: 1
     spot_type: "-1"
@@ -52482,10 +51820,8 @@
   }
   {
     id: 6580034
-    name: mission_skill_config-16580034
+    name: 弾薬を拾う
     code: "1"
-    description: mission_skill_config-26580034
-    lvup_description: mission_skill_config-36580034
     skill_group_id: 6580034
     level: 1
     spot_type: "-1"
@@ -52500,10 +51836,8 @@
   }
   {
     id: 6580035
-    name: mission_skill_config-16580035
+    name: 支援開始
     code: "1"
-    description: mission_skill_config-26580035
-    lvup_description: mission_skill_config-36580035
     skill_group_id: 6580035
     level: 1
     spot_type: "-1"
@@ -52517,10 +51851,8 @@
   }
   {
     id: 6580036
-    name: mission_skill_config-16580036
+    name: 支援停止
     code: "1"
-    description: mission_skill_config-26580036
-    lvup_description: mission_skill_config-36580036
     skill_group_id: 6580036
     level: 1
     spot_type: "-1"
@@ -52534,10 +51866,7 @@
   }
   {
     id: 6580037
-    name: mission_skill_config-16580037
     code: "1"
-    description: mission_skill_config-26580037
-    lvup_description: mission_skill_config-36580037
     skill_group_id: 6580037
     level: 1
     spot_type: "-1"
@@ -52551,10 +51880,7 @@
   }
   {
     id: 6580038
-    name: mission_skill_config-16580038
     code: "1"
-    description: mission_skill_config-26580038
-    lvup_description: mission_skill_config-36580038
     skill_group_id: 6580038
     level: 1
     spot_type: "-1"
@@ -52568,10 +51894,7 @@
   }
   {
     id: 6580039
-    name: mission_skill_config-16580039
     code: "1"
-    description: mission_skill_config-26580039
-    lvup_description: mission_skill_config-36580039
     skill_group_id: 6580039
     level: 1
     spot_type: "-1"
@@ -52585,10 +51908,7 @@
   }
   {
     id: 6580040
-    name: mission_skill_config-16580040
     code: "1"
-    description: mission_skill_config-26580040
-    lvup_description: mission_skill_config-36580040
     skill_group_id: 6580040
     level: 1
     spot_type: "-1"
@@ -52602,10 +51922,7 @@
   }
   {
     id: 6580041
-    name: mission_skill_config-16580041
     code: "1"
-    description: mission_skill_config-26580041
-    lvup_description: mission_skill_config-36580041
     skill_group_id: 6580041
     level: 1
     spot_type: "-1"
@@ -52619,10 +51936,7 @@
   }
   {
     id: 6580042
-    name: mission_skill_config-16580042
     code: "1"
-    description: mission_skill_config-26580042
-    lvup_description: mission_skill_config-36580042
     skill_group_id: 6580042
     level: 1
     spot_type: "-1"
@@ -52636,10 +51950,9 @@
   }
   {
     id: 6580043
-    name: mission_skill_config-16580043
+    name: 装填
     code: "1"
-    description: mission_skill_config-26580043
-    lvup_description: mission_skill_config-36580043
+    description: 1回分の弾薬を装填する
     skill_group_id: 6580043
     level: 1
     spot_type: "-1"
@@ -52653,10 +51966,9 @@
   }
   {
     id: 6580044
-    name: mission_skill_config-16580044
+    name: 装填
     code: "1"
-    description: mission_skill_config-26580044
-    lvup_description: mission_skill_config-36580044
+    description: 2回分の弾薬を装填する
     skill_group_id: 6580044
     level: 1
     spot_type: "-1"
@@ -52670,10 +51982,9 @@
   }
   {
     id: 6580045
-    name: mission_skill_config-16580045
+    name: 装填
     code: "1"
-    description: mission_skill_config-26580045
-    lvup_description: mission_skill_config-36580045
+    description: 3回分の弾薬を装填する
     skill_group_id: 6580045
     level: 1
     spot_type: "-1"
@@ -52688,10 +51999,7 @@
   }
   {
     id: 6580046
-    name: mission_skill_config-16580046
     code: "1"
-    description: mission_skill_config-26580046
-    lvup_description: mission_skill_config-36580046
     skill_group_id: 6580046
     level: 1
     spot_type: "-1"
@@ -52704,10 +52012,7 @@
   }
   {
     id: 6580047
-    name: mission_skill_config-16580047
     code: "1"
-    description: mission_skill_config-26580047
-    lvup_description: mission_skill_config-36580047
     skill_group_id: 6580047
     level: 1
     spot_type: "-1"
@@ -52720,10 +52025,7 @@
   }
   {
     id: 6580048
-    name: mission_skill_config-16580048
     code: "1"
-    description: mission_skill_config-26580048
-    lvup_description: mission_skill_config-36580048
     skill_group_id: 6580048
     level: 1
     spot_type: "-1"
@@ -52736,10 +52038,7 @@
   }
   {
     id: 6580049
-    name: mission_skill_config-16580049
     code: "1"
-    description: mission_skill_config-26580049
-    lvup_description: mission_skill_config-36580049
     skill_group_id: 6580049
     level: 1
     spot_type: "-1"
@@ -52752,10 +52051,7 @@
   }
   {
     id: 6580050
-    name: mission_skill_config-16580050
     code: "1"
-    description: mission_skill_config-26580050
-    lvup_description: mission_skill_config-36580050
     skill_group_id: 6580050
     level: 1
     spot_type: "-1"
@@ -52768,10 +52064,7 @@
   }
   {
     id: 6580051
-    name: mission_skill_config-16580051
     code: "1"
-    description: mission_skill_config-26580051
-    lvup_description: mission_skill_config-36580051
     skill_group_id: 6580051
     level: 1
     spot_type: "-1"
@@ -52784,10 +52077,7 @@
   }
   {
     id: 6580052
-    name: mission_skill_config-16580052
     code: "1"
-    description: mission_skill_config-26580052
-    lvup_description: mission_skill_config-36580052
     skill_group_id: 6580052
     level: 1
     spot_type: "-1"
@@ -52800,10 +52090,7 @@
   }
   {
     id: 6580053
-    name: mission_skill_config-16580053
     code: "1"
-    description: mission_skill_config-26580053
-    lvup_description: mission_skill_config-36580053
     skill_group_id: 6580053
     level: 1
     spot_type: "-1"
@@ -52816,10 +52103,7 @@
   }
   {
     id: 6580054
-    name: mission_skill_config-16580054
     code: "1"
-    description: mission_skill_config-26580054
-    lvup_description: mission_skill_config-36580054
     skill_group_id: 6580054
     level: 1
     spot_type: "-1"
@@ -52832,10 +52116,7 @@
   }
   {
     id: 6580055
-    name: mission_skill_config-16580055
     code: "1"
-    description: mission_skill_config-26580055
-    lvup_description: mission_skill_config-36580055
     skill_group_id: 6580055
     level: 1
     spot_type: "-1"
@@ -52848,10 +52129,7 @@
   }
   {
     id: 6580056
-    name: mission_skill_config-16580056
     code: "1"
-    description: mission_skill_config-26580056
-    lvup_description: mission_skill_config-36580056
     skill_group_id: 6580056
     level: 1
     spot_type: "-1"
@@ -52864,10 +52142,7 @@
   }
   {
     id: 6580057
-    name: mission_skill_config-16580057
     code: "1"
-    description: mission_skill_config-26580057
-    lvup_description: mission_skill_config-36580057
     skill_group_id: 6580057
     level: 1
     spot_type: "-1"
@@ -52880,10 +52155,7 @@
   }
   {
     id: 6580058
-    name: mission_skill_config-16580058
     code: "1"
-    description: mission_skill_config-26580058
-    lvup_description: mission_skill_config-36580058
     skill_group_id: 6580058
     level: 1
     spot_type: "-1"
@@ -52896,10 +52168,7 @@
   }
   {
     id: 6580059
-    name: mission_skill_config-16580059
     code: "1"
-    description: mission_skill_config-26580059
-    lvup_description: mission_skill_config-36580059
     skill_group_id: 6580059
     level: 1
     spot_type: "-1"
@@ -52912,10 +52181,7 @@
   }
   {
     id: 6580060
-    name: mission_skill_config-16580060
     code: "1"
-    description: mission_skill_config-26580060
-    lvup_description: mission_skill_config-36580060
     skill_group_id: 6580060
     level: 1
     spot_type: "-1"
@@ -52928,10 +52194,7 @@
   }
   {
     id: 6580061
-    name: mission_skill_config-16580061
     code: "1"
-    description: mission_skill_config-26580061
-    lvup_description: mission_skill_config-36580061
     skill_group_id: 6580061
     level: 1
     spot_type: "-1"
@@ -52945,10 +52208,7 @@
   }
   {
     id: 6580062
-    name: mission_skill_config-16580062
     code: "1"
-    description: mission_skill_config-26580062
-    lvup_description: mission_skill_config-36580062
     skill_group_id: 6580062
     level: 1
     spot_type: "-1"
@@ -52962,10 +52222,7 @@
   }
   {
     id: 6580063
-    name: mission_skill_config-16580063
     code: "1"
-    description: mission_skill_config-26580063
-    lvup_description: mission_skill_config-36580063
     skill_group_id: 6580063
     level: 1
     spot_type: "-1"
@@ -52979,10 +52236,7 @@
   }
   {
     id: 6580064
-    name: mission_skill_config-16580064
     code: "1"
-    description: mission_skill_config-26580064
-    lvup_description: mission_skill_config-36580064
     skill_group_id: 6580064
     level: 1
     spot_type: "-1"
@@ -52996,10 +52250,7 @@
   }
   {
     id: 6580065
-    name: mission_skill_config-16580065
     code: "1"
-    description: mission_skill_config-26580065
-    lvup_description: mission_skill_config-36580065
     skill_group_id: 6580065
     level: 1
     spot_type: "-1"
@@ -53013,10 +52264,7 @@
   }
   {
     id: 6580066
-    name: mission_skill_config-16580066
     code: "1"
-    description: mission_skill_config-26580066
-    lvup_description: mission_skill_config-36580066
     skill_group_id: 6580066
     level: 1
     spot_type: "-1"
@@ -53030,10 +52278,7 @@
   }
   {
     id: 6580067
-    name: mission_skill_config-16580067
     code: "1"
-    description: mission_skill_config-26580067
-    lvup_description: mission_skill_config-36580067
     skill_group_id: 6580067
     level: 1
     spot_type: "-1"
@@ -53045,10 +52290,7 @@
   }
   {
     id: 6580068
-    name: mission_skill_config-16580068
     code: "1"
-    description: mission_skill_config-26580068
-    lvup_description: mission_skill_config-36580068
     skill_group_id: 6580068
     level: 1
     spot_type: "-1"
@@ -53060,10 +52302,7 @@
   }
   {
     id: 6580069
-    name: mission_skill_config-16580069
     code: "1"
-    description: mission_skill_config-26580069
-    lvup_description: mission_skill_config-36580069
     skill_group_id: 6580069
     level: 1
     spot_type: "-1"
@@ -53076,10 +52315,7 @@
   }
   {
     id: 6580070
-    name: mission_skill_config-16580070
     code: "1"
-    description: mission_skill_config-26580070
-    lvup_description: mission_skill_config-36580070
     skill_group_id: 6580070
     level: 1
     spot_type: "-1"
@@ -53093,10 +52329,7 @@
   }
   {
     id: 6580071
-    name: mission_skill_config-16580071
     code: "1"
-    description: mission_skill_config-26580071
-    lvup_description: mission_skill_config-36580071
     skill_group_id: 6580071
     level: 1
     spot_type: "-1"
@@ -53109,10 +52342,7 @@
   }
   {
     id: 6580072
-    name: mission_skill_config-16580072
     code: "1"
-    description: mission_skill_config-26580072
-    lvup_description: mission_skill_config-36580072
     skill_group_id: 6580072
     level: 1
     spot_type: "-1"
@@ -53126,10 +52356,7 @@
   }
   {
     id: 6580073
-    name: mission_skill_config-16580073
     code: "1"
-    description: mission_skill_config-26580073
-    lvup_description: mission_skill_config-36580073
     skill_group_id: 6580073
     level: 1
     spot_type: "-1"
@@ -53143,10 +52370,7 @@
   }
   {
     id: 6580074
-    name: mission_skill_config-16580074
     code: "1"
-    description: mission_skill_config-26580074
-    lvup_description: mission_skill_config-36580074
     skill_group_id: 6580074
     level: 1
     spot_type: "-1"
@@ -53159,10 +52383,7 @@
   }
   {
     id: 6580075
-    name: mission_skill_config-16580075
     code: "1"
-    description: mission_skill_config-26580075
-    lvup_description: mission_skill_config-36580075
     skill_group_id: 6580075
     level: 1
     spot_type: "-1"
@@ -53174,10 +52395,7 @@
   }
   {
     id: 6580101
-    name: mission_skill_config-16580101
     code: "1"
-    description: mission_skill_config-26580101
-    lvup_description: mission_skill_config-36580101
     skill_group_id: 6580101
     level: 1
     spot_type: "-1"
@@ -53191,10 +52409,7 @@
   }
   {
     id: 6580102
-    name: mission_skill_config-16580102
     code: "1"
-    description: mission_skill_config-26580102
-    lvup_description: mission_skill_config-36580102
     skill_group_id: 6580102
     level: 1
     spot_type: "-1"
@@ -53207,10 +52422,7 @@
   }
   {
     id: 6580103
-    name: mission_skill_config-16580103
     code: "1"
-    description: mission_skill_config-26580103
-    lvup_description: mission_skill_config-36580103
     skill_group_id: 6580103
     level: 1
     spot_type: "-1"
@@ -53222,10 +52434,7 @@
   }
   {
     id: 6580104
-    name: mission_skill_config-16580104
     code: "1"
-    description: mission_skill_config-26580104
-    lvup_description: mission_skill_config-36580104
     skill_group_id: 6580104
     level: 1
     spot_type: "-1"
@@ -53237,10 +52446,7 @@
   }
   {
     id: 6580105
-    name: mission_skill_config-16580105
     code: "1"
-    description: mission_skill_config-26580105
-    lvup_description: mission_skill_config-36580105
     skill_group_id: 6580105
     level: 1
     spot_type: "-1"
@@ -53252,10 +52458,9 @@
   }
   {
     id: 6580106
-    name: mission_skill_config-16580106
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580106
-    lvup_description: mission_skill_config-36580106
+    description: AN-94と会話する
     skill_group_id: 6580106
     level: 1
     spot_type: "-1"
@@ -53271,10 +52476,9 @@
   }
   {
     id: 6580107
-    name: mission_skill_config-16580107
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580107
-    lvup_description: mission_skill_config-36580107
+    description: AK-15と会話する
     skill_group_id: 6580107
     level: 1
     spot_type: "-1"
@@ -53290,10 +52494,9 @@
   }
   {
     id: 6580108
-    name: mission_skill_config-16580108
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580108
-    lvup_description: mission_skill_config-36580108
+    description: AK-15と会話する
     skill_group_id: 6580108
     level: 1
     spot_type: "-1"
@@ -53309,10 +52512,9 @@
   }
   {
     id: 6580109
-    name: mission_skill_config-16580109
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580109
-    lvup_description: mission_skill_config-36580109
+    description: AK-12と会話する
     skill_group_id: 6580109
     level: 1
     spot_type: "-1"
@@ -53328,10 +52530,9 @@
   }
   {
     id: 6580110
-    name: mission_skill_config-16580110
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580110
-    lvup_description: mission_skill_config-36580110
+    description: AK-12と会話する
     skill_group_id: 6580110
     level: 1
     spot_type: "-1"
@@ -53347,10 +52548,7 @@
   }
   {
     id: 6580111
-    name: mission_skill_config-16580111
     code: "1"
-    description: mission_skill_config-26580111
-    lvup_description: mission_skill_config-36580111
     skill_group_id: 6580111
     level: 1
     spot_type: "-1"
@@ -53362,10 +52560,7 @@
   }
   {
     id: 6580112
-    name: mission_skill_config-16580112
     code: "1"
-    description: mission_skill_config-26580112
-    lvup_description: mission_skill_config-36580112
     skill_group_id: 6580112
     level: 1
     spot_type: "-1"
@@ -53378,10 +52573,7 @@
   }
   {
     id: 6580113
-    name: mission_skill_config-16580113
     code: "1"
-    description: mission_skill_config-26580113
-    lvup_description: mission_skill_config-36580113
     skill_group_id: 6580113
     level: 1
     spot_type: "-1"
@@ -53394,10 +52586,9 @@
   }
   {
     id: 6580114
-    name: mission_skill_config-16580114
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580114
-    lvup_description: mission_skill_config-36580114
+    description: AK-15とAK-12と会話する
     skill_group_id: 6580114
     level: 1
     spot_type: "-1"
@@ -53412,10 +52603,7 @@
   }
   {
     id: 6580115
-    name: mission_skill_config-16580115
     code: "1"
-    description: mission_skill_config-26580115
-    lvup_description: mission_skill_config-36580115
     skill_group_id: 6580115
     level: 1
     spot_type: "-1"
@@ -53427,10 +52615,9 @@
   }
   {
     id: 6580116
-    name: mission_skill_config-16580116
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580116
-    lvup_description: mission_skill_config-36580116
+    description: AN-94と会話する
     skill_group_id: 6580116
     level: 1
     spot_type: "-1"
@@ -53446,10 +52633,7 @@
   }
   {
     id: 6580117
-    name: mission_skill_config-16580117
     code: "1"
-    description: mission_skill_config-26580117
-    lvup_description: mission_skill_config-36580117
     skill_group_id: 6580117
     level: 1
     spot_type: "-1"
@@ -53461,10 +52645,7 @@
   }
   {
     id: 6580118
-    name: mission_skill_config-16580118
     code: "1"
-    description: mission_skill_config-26580118
-    lvup_description: mission_skill_config-36580118
     skill_group_id: 6580118
     level: 1
     spot_type: "-1"
@@ -53476,10 +52657,7 @@
   }
   {
     id: 6580119
-    name: mission_skill_config-16580119
     code: "1"
-    description: mission_skill_config-26580119
-    lvup_description: mission_skill_config-36580119
     skill_group_id: 6580119
     level: 1
     spot_type: "-1"
@@ -53491,10 +52669,7 @@
   }
   {
     id: 6580120
-    name: mission_skill_config-16580120
     code: "1"
-    description: mission_skill_config-26580120
-    lvup_description: mission_skill_config-36580120
     skill_group_id: 6580120
     level: 1
     spot_type: "-1"
@@ -53506,10 +52681,8 @@
   }
   {
     id: 6580121
-    name: mission_skill_config-16580121
+    name: Don't translate
     code: "1"
-    description: mission_skill_config-26580121
-    lvup_description: mission_skill_config-36580121
     skill_group_id: 6580121
     level: 1
     spot_type: "-1"
@@ -53521,10 +52694,7 @@
   }
   {
     id: 6580122
-    name: mission_skill_config-16580122
     code: "1"
-    description: mission_skill_config-26580122
-    lvup_description: mission_skill_config-36580122
     skill_group_id: 6580122
     level: 1
     spot_type: "-1"
@@ -53536,10 +52706,9 @@
   }
   {
     id: 6580123
-    name: mission_skill_config-16580123
+    name: 爆弾を起爆
     code: "1"
-    description: mission_skill_config-26580123
-    lvup_description: mission_skill_config-36580123
+    description: ゴリアテを起爆する。1か所のゴリアテは、1回のみ起爆できる。（ゴリアテの爆発は、周囲1マス範囲内の通常ユニットを倒し、それ以外のユニットを1ターン行動不能にする）
     skill_group_id: 6580123
     level: 1
     spot_type: "-1"
@@ -53554,10 +52723,7 @@
   }
   {
     id: 6580124
-    name: mission_skill_config-16580124
     code: "1"
-    description: mission_skill_config-26580124
-    lvup_description: mission_skill_config-36580124
     skill_group_id: 6580124
     level: 1
     spot_type: "-1"
@@ -53570,10 +52736,9 @@
   }
   {
     id: 6580125
-    name: mission_skill_config-16580125
+    name: 会話
     code: "1"
-    description: mission_skill_config-26580125
-    lvup_description: mission_skill_config-36580125
+    description: エージェントと会話する
     skill_group_id: 6580125
     level: 1
     spot_type: "-1"
@@ -53589,10 +52754,9 @@
   }
   {
     id: 6580126
-    name: mission_skill_config-16580126
+    name: トラップ設置
     code: "1"
-    description: mission_skill_config-26580126
-    lvup_description: mission_skill_config-36580126
+    description: ここにトラップを設置する。
     skill_group_id: 6580126
     level: 1
     spot_type: "-1"
@@ -53607,10 +52771,7 @@
   }
   {
     id: 6580127
-    name: mission_skill_config-16580127
     code: "1"
-    description: mission_skill_config-26580127
-    lvup_description: mission_skill_config-36580127
     skill_group_id: 6580127
     level: 1
     spot_type: "-1"
@@ -53622,10 +52783,7 @@
   }
   {
     id: 6580128
-    name: mission_skill_config-16580128
     code: "1"
-    description: mission_skill_config-26580128
-    lvup_description: mission_skill_config-36580128
     skill_group_id: 6580128
     level: 1
     spot_type: "-1"
@@ -53638,10 +52796,7 @@
   }
   {
     id: 6580129
-    name: mission_skill_config-16580129
     code: "1"
-    description: mission_skill_config-26580129
-    lvup_description: mission_skill_config-36580129
     skill_group_id: 6580129
     level: 1
     spot_type: "-1"
@@ -53653,10 +52808,7 @@
   }
   {
     id: 6580130
-    name: mission_skill_config-16580130
     code: "1"
-    description: mission_skill_config-26580130
-    lvup_description: mission_skill_config-36580130
     skill_group_id: 6580130
     level: 1
     spot_type: "-1"
@@ -53668,10 +52820,7 @@
   }
   {
     id: 6580131
-    name: mission_skill_config-16580131
     code: "1"
-    description: mission_skill_config-26580131
-    lvup_description: mission_skill_config-36580131
     skill_group_id: 6580131
     level: 1
     spot_type: "-1"
@@ -53683,10 +52832,7 @@
   }
   {
     id: 6580132
-    name: mission_skill_config-16580132
     code: "1"
-    description: mission_skill_config-26580132
-    lvup_description: mission_skill_config-36580132
     skill_group_id: 6580132
     level: 1
     spot_type: "-1"
@@ -53698,10 +52844,7 @@
   }
   {
     id: 6580133
-    name: mission_skill_config-16580133
     code: "1"
-    description: mission_skill_config-26580133
-    lvup_description: mission_skill_config-36580133
     skill_group_id: 6580133
     level: 1
     spot_type: "-1"
@@ -53713,10 +52856,7 @@
   }
   {
     id: 6580134
-    name: mission_skill_config-16580134
     code: "1"
-    description: mission_skill_config-26580134
-    lvup_description: mission_skill_config-36580134
     skill_group_id: 6580134
     level: 1
     spot_type: "-1"
@@ -53728,10 +52868,7 @@
   }
   {
     id: 6580135
-    name: mission_skill_config-16580135
     code: "1"
-    description: mission_skill_config-26580135
-    lvup_description: mission_skill_config-36580135
     skill_group_id: 6580135
     level: 1
     spot_type: "-1"
@@ -53743,10 +52880,7 @@
   }
   {
     id: 6580136
-    name: mission_skill_config-16580136
     code: "1"
-    description: mission_skill_config-26580136
-    lvup_description: mission_skill_config-36580136
     skill_group_id: 6580136
     level: 1
     spot_type: "-1"
@@ -53758,10 +52892,7 @@
   }
   {
     id: 6580137
-    name: mission_skill_config-16580137
     code: "1"
-    description: mission_skill_config-26580137
-    lvup_description: mission_skill_config-36580137
     skill_group_id: 6580137
     level: 1
     spot_type: "-1"
@@ -53773,10 +52904,7 @@
   }
   {
     id: 6580138
-    name: mission_skill_config-16580138
     code: "1"
-    description: mission_skill_config-26580138
-    lvup_description: mission_skill_config-36580138
     skill_group_id: 6580138
     level: 1
     spot_type: "-1"
@@ -53788,10 +52916,9 @@
   }
   {
     id: 6580139
-    name: mission_skill_config-16580139
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580139
-    lvup_description: mission_skill_config-36580139
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580139
     level: 1
     spot_type: "-1"
@@ -53807,10 +52934,9 @@
   }
   {
     id: 6580140
-    name: mission_skill_config-16580140
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580140
-    lvup_description: mission_skill_config-36580140
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580140
     level: 1
     spot_type: "-1"
@@ -53826,10 +52952,9 @@
   }
   {
     id: 6580141
-    name: mission_skill_config-16580141
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580141
-    lvup_description: mission_skill_config-36580141
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580141
     level: 1
     spot_type: "-1"
@@ -53845,10 +52970,9 @@
   }
   {
     id: 6580142
-    name: mission_skill_config-16580142
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580142
-    lvup_description: mission_skill_config-36580142
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580142
     level: 1
     spot_type: "-1"
@@ -53864,10 +52988,9 @@
   }
   {
     id: 6580143
-    name: mission_skill_config-16580143
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580143
-    lvup_description: mission_skill_config-36580143
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580143
     level: 1
     spot_type: "-1"
@@ -53883,10 +53006,9 @@
   }
   {
     id: 6580144
-    name: mission_skill_config-16580144
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580144
-    lvup_description: mission_skill_config-36580144
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580144
     level: 1
     spot_type: "-1"
@@ -53902,10 +53024,9 @@
   }
   {
     id: 6580145
-    name: mission_skill_config-16580145
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580145
-    lvup_description: mission_skill_config-36580145
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580145
     level: 1
     spot_type: "-1"
@@ -53921,10 +53042,9 @@
   }
   {
     id: 6580146
-    name: mission_skill_config-16580146
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580146
-    lvup_description: mission_skill_config-36580146
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580146
     level: 1
     spot_type: "-1"
@@ -53940,10 +53060,9 @@
   }
   {
     id: 6580147
-    name: mission_skill_config-16580147
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580147
-    lvup_description: mission_skill_config-36580147
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580147
     level: 1
     spot_type: "-1"
@@ -53959,10 +53078,9 @@
   }
   {
     id: 6580148
-    name: mission_skill_config-16580148
+    name: 切り替える
     code: "1"
-    description: mission_skill_config-26580148
-    lvup_description: mission_skill_config-36580148
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580148
     level: 1
     spot_type: "-1"
@@ -53978,10 +53096,9 @@
   }
   {
     id: 6580149
-    name: mission_skill_config-16580149
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580149
-    lvup_description: mission_skill_config-36580149
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580149
     level: 1
     spot_type: "-1"
@@ -53997,10 +53114,9 @@
   }
   {
     id: 6580150
-    name: mission_skill_config-16580150
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580150
-    lvup_description: mission_skill_config-36580150
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580150
     level: 1
     spot_type: "-1"
@@ -54016,10 +53132,9 @@
   }
   {
     id: 6580151
-    name: mission_skill_config-16580151
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580151
-    lvup_description: mission_skill_config-36580151
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580151
     level: 1
     spot_type: "-1"
@@ -54035,10 +53150,9 @@
   }
   {
     id: 6580152
-    name: mission_skill_config-16580152
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580152
-    lvup_description: mission_skill_config-36580152
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580152
     level: 1
     spot_type: "-1"
@@ -54054,10 +53168,9 @@
   }
   {
     id: 6580153
-    name: mission_skill_config-16580153
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580153
-    lvup_description: mission_skill_config-36580153
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580153
     level: 1
     spot_type: "-1"
@@ -54073,10 +53186,9 @@
   }
   {
     id: 6580154
-    name: mission_skill_config-16580154
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580154
-    lvup_description: mission_skill_config-36580154
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580154
     level: 1
     spot_type: "-1"
@@ -54092,10 +53204,9 @@
   }
   {
     id: 6580155
-    name: mission_skill_config-16580155
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580155
-    lvup_description: mission_skill_config-36580155
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580155
     level: 1
     spot_type: "-1"
@@ -54111,10 +53222,9 @@
   }
   {
     id: 6580156
-    name: mission_skill_config-16580156
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580156
-    lvup_description: mission_skill_config-36580156
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580156
     level: 1
     spot_type: "-1"
@@ -54130,10 +53240,9 @@
   }
   {
     id: 6580157
-    name: mission_skill_config-16580157
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580157
-    lvup_description: mission_skill_config-36580157
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580157
     level: 1
     spot_type: "-1"
@@ -54149,10 +53258,9 @@
   }
   {
     id: 6580158
-    name: mission_skill_config-16580158
+    name: 切り替え-
     code: "1"
-    description: mission_skill_config-26580158
-    lvup_description: mission_skill_config-36580158
+    description: 施設の状態を切り替えることで、接続パターンを変更する。（-10BPM）
     skill_group_id: 6580158
     level: 1
     spot_type: "-1"
@@ -54168,10 +53276,7 @@
   }
   {
     id: 6580159
-    name: mission_skill_config-16580159
     code: "1"
-    description: mission_skill_config-26580159
-    lvup_description: mission_skill_config-36580159
     skill_group_id: 6580159
     level: 1
     spot_type: "-1"
@@ -54182,10 +53287,7 @@
   }
   {
     id: 6580160
-    name: mission_skill_config-16580160
     code: "1"
-    description: mission_skill_config-26580160
-    lvup_description: mission_skill_config-36580160
     skill_group_id: 6580160
     level: 1
     spot_type: "-1"
@@ -54197,10 +53299,7 @@
   }
   {
     id: 6580161
-    name: mission_skill_config-16580161
     code: "1"
-    description: mission_skill_config-26580161
-    lvup_description: mission_skill_config-36580161
     skill_group_id: 6580161
     level: 1
     spot_type: "-1"
@@ -54212,10 +53311,7 @@
   }
   {
     id: 6580162
-    name: mission_skill_config-16580162
     code: "1"
-    description: mission_skill_config-26580162
-    lvup_description: mission_skill_config-36580162
     skill_group_id: 6580162
     level: 1
     spot_type: "-1"
@@ -54227,10 +53323,7 @@
   }
   {
     id: 6580163
-    name: mission_skill_config-16580163
     code: "1"
-    description: mission_skill_config-26580163
-    lvup_description: mission_skill_config-36580163
     skill_group_id: 6580163
     level: 1
     spot_type: "-1"
@@ -54243,10 +53336,7 @@
   }
   {
     id: 6580164
-    name: mission_skill_config-16580164
     code: "1"
-    description: mission_skill_config-26580164
-    lvup_description: mission_skill_config-36580164
     skill_group_id: 6580164
     level: 1
     spot_type: "-1"
@@ -54259,10 +53349,7 @@
   }
   {
     id: 6580165
-    name: mission_skill_config-16580165
     code: "1"
-    description: mission_skill_config-26580165
-    lvup_description: mission_skill_config-36580165
     skill_group_id: 6580165
     level: 1
     spot_type: "-1"
@@ -54275,10 +53362,7 @@
   }
   {
     id: 6580166
-    name: mission_skill_config-16580166
     code: "1"
-    description: mission_skill_config-26580166
-    lvup_description: mission_skill_config-36580166
     skill_group_id: 6580166
     level: 1
     spot_type: "-1"
@@ -54291,10 +53375,7 @@
   }
   {
     id: 6580167
-    name: mission_skill_config-16580167
     code: "1"
-    description: mission_skill_config-26580167
-    lvup_description: mission_skill_config-36580167
     skill_group_id: 6580167
     level: 1
     spot_type: "-1"
@@ -54307,10 +53388,7 @@
   }
   {
     id: 6580168
-    name: mission_skill_config-16580168
     code: "1"
-    description: mission_skill_config-26580168
-    lvup_description: mission_skill_config-36580168
     skill_group_id: 6580168
     level: 1
     spot_type: "-1"
@@ -54323,10 +53401,13 @@
   }
   {
     id: 6580169
-    name: mission_skill_config-16580169
+    name: 転送
     code: "1"
-    description: mission_skill_config-26580169
-    lvup_description: mission_skill_config-36580169
+    description:
+      '''
+      範囲4マス以内のレーダーポイントに1回転送する。（-20BPM）
+      Energize~
+      '''
     skill_group_id: 6580169
     level: 1
     spot_type: "-1"
@@ -54342,10 +53423,7 @@
   }
   {
     id: 6580170
-    name: mission_skill_config-16580170
     code: "1"
-    description: mission_skill_config-26580170
-    lvup_description: mission_skill_config-36580170
     skill_group_id: 6580170
     level: 1
     spot_type: "-1"
@@ -54358,10 +53436,7 @@
   }
   {
     id: 6580171
-    name: mission_skill_config-16580171
     code: "1"
-    description: mission_skill_config-26580171
-    lvup_description: mission_skill_config-36580171
     skill_group_id: 6580171
     level: 1
     spot_type: "-1"
@@ -54374,10 +53449,7 @@
   }
   {
     id: 6580172
-    name: mission_skill_config-16580172
     code: "1"
-    description: mission_skill_config-26580172
-    lvup_description: mission_skill_config-36580172
     skill_group_id: 6580172
     level: 1
     spot_type: "-1"
@@ -54390,10 +53462,7 @@
   }
   {
     id: 6580173
-    name: mission_skill_config-16580173
     code: "1"
-    description: mission_skill_config-26580173
-    lvup_description: mission_skill_config-36580173
     skill_group_id: 6580173
     level: 1
     spot_type: "-1"
@@ -54406,10 +53475,7 @@
   }
   {
     id: 6580174
-    name: mission_skill_config-16580174
     code: "1"
-    description: mission_skill_config-26580174
-    lvup_description: mission_skill_config-36580174
     skill_group_id: 6580174
     level: 1
     spot_type: "-1"
@@ -54422,10 +53488,7 @@
   }
   {
     id: 6580175
-    name: mission_skill_config-16580175
     code: "1"
-    description: mission_skill_config-26580175
-    lvup_description: mission_skill_config-36580175
     skill_group_id: 6580175
     level: 1
     spot_type: "-1"
@@ -54438,10 +53501,7 @@
   }
   {
     id: 6580176
-    name: mission_skill_config-16580176
     code: "1"
-    description: mission_skill_config-26580176
-    lvup_description: mission_skill_config-36580176
     skill_group_id: 6580176
     level: 1
     spot_type: "-1"
@@ -54456,10 +53516,7 @@
   }
   {
     id: 6580177
-    name: mission_skill_config-16580177
     code: "1"
-    description: mission_skill_config-26580177
-    lvup_description: mission_skill_config-36580177
     skill_group_id: 6580177
     level: 1
     spot_type: "-1"
@@ -54474,10 +53531,7 @@
   }
   {
     id: 6580178
-    name: mission_skill_config-16580178
     code: "1"
-    description: mission_skill_config-26580178
-    lvup_description: mission_skill_config-36580178
     skill_group_id: 6580178
     level: 1
     spot_type: "-1"
@@ -54491,10 +53545,7 @@
   }
   {
     id: 6580179
-    name: mission_skill_config-16580179
     code: "1"
-    description: mission_skill_config-26580179
-    lvup_description: mission_skill_config-36580179
     skill_group_id: 6580179
     level: 1
     spot_type: "-1"
@@ -54507,10 +53558,7 @@
   }
   {
     id: 6580180
-    name: mission_skill_config-16580180
     code: "1"
-    description: mission_skill_config-26580180
-    lvup_description: mission_skill_config-36580180
     skill_group_id: 6580180
     level: 1
     spot_type: "-1"
@@ -54522,10 +53570,7 @@
   }
   {
     id: 6580181
-    name: mission_skill_config-16580181
     code: "1"
-    description: mission_skill_config-26580181
-    lvup_description: mission_skill_config-36580181
     skill_group_id: 6580181
     level: 1
     spot_type: "-1"
@@ -54537,10 +53582,7 @@
   }
   {
     id: 6580182
-    name: mission_skill_config-16580182
     code: "1"
-    description: mission_skill_config-26580182
-    lvup_description: mission_skill_config-36580182
     skill_group_id: 6580182
     level: 1
     spot_type: "-1"
@@ -54553,10 +53595,7 @@
   }
   {
     id: 6580183
-    name: mission_skill_config-16580183
     code: "1"
-    description: mission_skill_config-26580183
-    lvup_description: mission_skill_config-36580183
     skill_group_id: 6580183
     level: 1
     spot_type: "-1"
@@ -54569,10 +53608,7 @@
   }
   {
     id: 6580184
-    name: mission_skill_config-16580184
     code: "1"
-    description: mission_skill_config-26580184
-    lvup_description: mission_skill_config-36580184
     skill_group_id: 6580184
     level: 1
     spot_type: "-1"
@@ -54587,10 +53623,7 @@
   }
   {
     id: 6580185
-    name: mission_skill_config-16580185
     code: "1"
-    description: mission_skill_config-26580185
-    lvup_description: mission_skill_config-36580185
     skill_group_id: 6580185
     level: 1
     spot_type: "-1"
@@ -54603,10 +53636,7 @@
   }
   {
     id: 6580186
-    name: mission_skill_config-16580186
     code: "1"
-    description: mission_skill_config-26580186
-    lvup_description: mission_skill_config-36580186
     skill_group_id: 6580186
     level: 1
     spot_type: "-1"
@@ -54618,10 +53648,9 @@
   }
   {
     id: 6580187
-    name: mission_skill_config-16580187
+    name: 中枢を停止
     code: "1"
-    description: mission_skill_config-26580187
-    lvup_description: mission_skill_config-36580187
+    description: 停止後、敵が弱体化する。
     skill_group_id: 6580187
     level: 1
     spot_type: "-1"
@@ -54635,10 +53664,9 @@
   }
   {
     id: 6580188
-    name: mission_skill_config-16580188
+    name: Don't translate
     code: "1"
-    description: mission_skill_config-26580188
-    lvup_description: mission_skill_config-36580188
+    description: パラデウスの制御中枢。停止させると、敵が弱体化する。
     skill_group_id: 6580188
     level: 1
     spot_type: "-1"
@@ -54648,10 +53676,7 @@
   }
   {
     id: 6580189
-    name: mission_skill_config-16580189
     code: "1"
-    description: mission_skill_config-26580189
-    lvup_description: mission_skill_config-36580189
     skill_group_id: 6580189
     level: 1
     spot_type: "-1"
@@ -54664,10 +53689,7 @@
   }
   {
     id: 6580190
-    name: mission_skill_config-16580190
     code: "1"
-    description: mission_skill_config-26580190
-    lvup_description: mission_skill_config-36580190
     skill_group_id: 6580190
     level: 1
     spot_type: "-1"
@@ -54680,10 +53702,7 @@
   }
   {
     id: 6580191
-    name: mission_skill_config-16580191
     code: "1"
-    description: mission_skill_config-26580191
-    lvup_description: mission_skill_config-36580191
     skill_group_id: 6580191
     level: 1
     spot_type: "-1"
@@ -54697,10 +53716,7 @@
   }
   {
     id: 6580192
-    name: mission_skill_config-16580192
     code: "1"
-    description: mission_skill_config-26580192
-    lvup_description: mission_skill_config-36580192
     skill_group_id: 6580192
     level: 1
     spot_type: "-1"
@@ -54713,10 +53729,7 @@
   }
   {
     id: 6580193
-    name: mission_skill_config-16580193
     code: "1"
-    description: mission_skill_config-26580193
-    lvup_description: mission_skill_config-36580193
     skill_group_id: 6580193
     level: 1
     spot_type: "-1"
@@ -54729,10 +53742,8 @@
   }
   {
     id: 6580194
-    name: mission_skill_config-16580194
     code: "1"
-    description: mission_skill_config-26580194
-    lvup_description: mission_skill_config-36580194
+    description: ゴリアテの爆発は、周囲1マス範囲内の通常ユニットを倒し、それ以外のユニットを1ターン行動不能にする
     skill_group_id: 6580194
     level: 1
     spot_type: "-1"
@@ -54743,10 +53754,7 @@
   }
   {
     id: 6589001
-    name: mission_skill_config-16589001
     code: "1"
-    description: mission_skill_config-26589001
-    lvup_description: mission_skill_config-36589001
     skill_group_id: 6589001
     level: 1
     spot_type: "-1"
@@ -54758,10 +53766,7 @@
   }
   {
     id: 6589002
-    name: mission_skill_config-16589002
     code: "1"
-    description: mission_skill_config-26589002
-    lvup_description: mission_skill_config-36589002
     skill_group_id: 6589002
     level: 1
     spot_type: "-1"
@@ -54773,10 +53778,7 @@
   }
   {
     id: 6589003
-    name: mission_skill_config-16589003
     code: "1"
-    description: mission_skill_config-26589003
-    lvup_description: mission_skill_config-36589003
     skill_group_id: 6589003
     level: 1
     spot_type: "-1"
@@ -54788,10 +53790,7 @@
   }
   {
     id: 6589004
-    name: mission_skill_config-16589004
     code: "1"
-    description: mission_skill_config-26589004
-    lvup_description: mission_skill_config-36589004
     skill_group_id: 6589004
     level: 1
     spot_type: "-1"
@@ -54803,10 +53802,7 @@
   }
   {
     id: 6589005
-    name: mission_skill_config-16589005
     code: "1"
-    description: mission_skill_config-26589005
-    lvup_description: mission_skill_config-36589005
     skill_group_id: 6589005
     level: 1
     spot_type: "-1"
@@ -54818,10 +53814,7 @@
   }
   {
     id: 6589006
-    name: mission_skill_config-16589006
     code: "1"
-    description: mission_skill_config-26589006
-    lvup_description: mission_skill_config-36589006
     skill_group_id: 6589006
     level: 1
     spot_type: "-1"
@@ -54833,10 +53826,7 @@
   }
   {
     id: 6589007
-    name: mission_skill_config-16589007
     code: "1"
-    description: mission_skill_config-26589007
-    lvup_description: mission_skill_config-36589007
     skill_group_id: 6589007
     level: 1
     spot_type: "-1"
@@ -54848,10 +53838,7 @@
   }
   {
     id: 6589008
-    name: mission_skill_config-16589008
     code: "1"
-    description: mission_skill_config-26589008
-    lvup_description: mission_skill_config-36589008
     skill_group_id: 6589008
     level: 1
     spot_type: "-1"
@@ -54863,10 +53850,7 @@
   }
   {
     id: 6589009
-    name: mission_skill_config-16589009
     code: "1"
-    description: mission_skill_config-26589009
-    lvup_description: mission_skill_config-36589009
     skill_group_id: 6589009
     level: 1
     spot_type: "-1"
@@ -54878,10 +53862,7 @@
   }
   {
     id: 6589010
-    name: mission_skill_config-16589010
     code: "1"
-    description: mission_skill_config-26589010
-    lvup_description: mission_skill_config-36589010
     skill_group_id: 6589010
     level: 1
     spot_type: "-1"
@@ -54893,10 +53874,7 @@
   }
   {
     id: 6589011
-    name: mission_skill_config-16589011
     code: "1"
-    description: mission_skill_config-26589011
-    lvup_description: mission_skill_config-36589011
     skill_group_id: 6589011
     level: 1
     spot_type: "-1"
@@ -54908,10 +53886,7 @@
   }
   {
     id: 6589012
-    name: mission_skill_config-16589012
     code: "1"
-    description: mission_skill_config-26589012
-    lvup_description: mission_skill_config-36589012
     skill_group_id: 6589012
     level: 1
     spot_type: "-1"
@@ -54923,10 +53898,7 @@
   }
   {
     id: 6589013
-    name: mission_skill_config-16589013
     code: "1"
-    description: mission_skill_config-26589013
-    lvup_description: mission_skill_config-36589013
     skill_group_id: 6589013
     level: 1
     spot_type: "-1"
@@ -54938,10 +53910,7 @@
   }
   {
     id: 6589014
-    name: mission_skill_config-16589014
     code: "1"
-    description: mission_skill_config-26589014
-    lvup_description: mission_skill_config-36589014
     skill_group_id: 6589014
     level: 1
     spot_type: "-1"
@@ -54953,10 +53922,7 @@
   }
   {
     id: 6589015
-    name: mission_skill_config-16589015
     code: "1"
-    description: mission_skill_config-26589015
-    lvup_description: mission_skill_config-36589015
     skill_group_id: 6589015
     level: 1
     spot_type: "-1"
@@ -54968,10 +53934,7 @@
   }
   {
     id: 6589016
-    name: mission_skill_config-16589016
     code: "1"
-    description: mission_skill_config-26589016
-    lvup_description: mission_skill_config-36589016
     skill_group_id: 6589016
     level: 1
     spot_type: "-1"
@@ -54983,10 +53946,7 @@
   }
   {
     id: 6589017
-    name: mission_skill_config-16589017
     code: "1"
-    description: mission_skill_config-26589017
-    lvup_description: mission_skill_config-36589017
     skill_group_id: 6589017
     level: 1
     spot_type: "-1"
@@ -54998,10 +53958,7 @@
   }
   {
     id: 6589018
-    name: mission_skill_config-16589018
     code: "1"
-    description: mission_skill_config-26589018
-    lvup_description: mission_skill_config-36589018
     skill_group_id: 6589018
     level: 1
     spot_type: "-1"
@@ -55013,10 +53970,7 @@
   }
   {
     id: 6589019
-    name: mission_skill_config-16589019
     code: "1"
-    description: mission_skill_config-26589019
-    lvup_description: mission_skill_config-36589019
     skill_group_id: 6589019
     level: 1
     spot_type: "-1"
@@ -55028,10 +53982,7 @@
   }
   {
     id: 6589020
-    name: mission_skill_config-16589020
     code: "1"
-    description: mission_skill_config-26589020
-    lvup_description: mission_skill_config-36589020
     skill_group_id: 6589020
     level: 1
     spot_type: "-1"
@@ -55043,10 +53994,7 @@
   }
   {
     id: 6589021
-    name: mission_skill_config-16589021
     code: "1"
-    description: mission_skill_config-26589021
-    lvup_description: mission_skill_config-36589021
     skill_group_id: 6589021
     level: 1
     spot_type: "-1"
@@ -55058,10 +54006,7 @@
   }
   {
     id: 6589022
-    name: mission_skill_config-16589022
     code: "1"
-    description: mission_skill_config-26589022
-    lvup_description: mission_skill_config-36589022
     skill_group_id: 6589022
     level: 1
     spot_type: "-1"
@@ -55073,10 +54018,7 @@
   }
   {
     id: 6589023
-    name: mission_skill_config-16589023
     code: "1"
-    description: mission_skill_config-26589023
-    lvup_description: mission_skill_config-36589023
     skill_group_id: 6589023
     level: 1
     spot_type: "-1"
@@ -55088,10 +54030,7 @@
   }
   {
     id: 6589024
-    name: mission_skill_config-16589024
     code: "1"
-    description: mission_skill_config-26589024
-    lvup_description: mission_skill_config-36589024
     skill_group_id: 6589024
     level: 1
     spot_type: "-1"
@@ -55103,10 +54042,7 @@
   }
   {
     id: 6589025
-    name: mission_skill_config-16589025
     code: "1"
-    description: mission_skill_config-26589025
-    lvup_description: mission_skill_config-36589025
     skill_group_id: 6589025
     level: 1
     spot_type: "-1"
@@ -55118,10 +54054,7 @@
   }
   {
     id: 6589026
-    name: mission_skill_config-16589026
     code: "1"
-    description: mission_skill_config-26589026
-    lvup_description: mission_skill_config-36589026
     skill_group_id: 6589026
     level: 1
     spot_type: "-1"
@@ -55133,10 +54066,7 @@
   }
   {
     id: 6589027
-    name: mission_skill_config-16589027
     code: "1"
-    description: mission_skill_config-26589027
-    lvup_description: mission_skill_config-36589027
     skill_group_id: 6589027
     level: 1
     spot_type: "-1"
@@ -55148,10 +54078,7 @@
   }
   {
     id: 6589028
-    name: mission_skill_config-16589028
     code: "1"
-    description: mission_skill_config-26589028
-    lvup_description: mission_skill_config-36589028
     skill_group_id: 6589028
     level: 1
     spot_type: "-1"
@@ -55163,10 +54090,7 @@
   }
   {
     id: 6589029
-    name: mission_skill_config-16589029
     code: "1"
-    description: mission_skill_config-26589029
-    lvup_description: mission_skill_config-36589029
     skill_group_id: 6589029
     level: 1
     spot_type: "-1"
@@ -55178,10 +54102,7 @@
   }
   {
     id: 6589030
-    name: mission_skill_config-16589030
     code: "1"
-    description: mission_skill_config-26589030
-    lvup_description: mission_skill_config-36589030
     skill_group_id: 6589030
     level: 1
     spot_type: "-1"
@@ -55193,10 +54114,7 @@
   }
   {
     id: 6589031
-    name: mission_skill_config-16589031
     code: "1"
-    description: mission_skill_config-26589031
-    lvup_description: mission_skill_config-36589031
     skill_group_id: 6589031
     level: 1
     spot_type: "-1"
@@ -55208,10 +54126,7 @@
   }
   {
     id: 6589032
-    name: mission_skill_config-16589032
     code: "1"
-    description: mission_skill_config-26589032
-    lvup_description: mission_skill_config-36589032
     skill_group_id: 6589032
     level: 1
     spot_type: "-1"
@@ -55223,10 +54138,7 @@
   }
   {
     id: 6589033
-    name: mission_skill_config-16589033
     code: "1"
-    description: mission_skill_config-26589033
-    lvup_description: mission_skill_config-36589033
     skill_group_id: 6589033
     level: 1
     spot_type: "-1"
@@ -55238,10 +54150,7 @@
   }
   {
     id: 6589034
-    name: mission_skill_config-16589034
     code: "1"
-    description: mission_skill_config-26589034
-    lvup_description: mission_skill_config-36589034
     skill_group_id: 6589034
     level: 1
     spot_type: "-1"
@@ -55253,10 +54162,7 @@
   }
   {
     id: 6589035
-    name: mission_skill_config-16589035
     code: "1"
-    description: mission_skill_config-26589035
-    lvup_description: mission_skill_config-36589035
     skill_group_id: 6589035
     level: 1
     spot_type: "-1"
@@ -55268,10 +54174,7 @@
   }
   {
     id: 6589036
-    name: mission_skill_config-16589036
     code: "1"
-    description: mission_skill_config-26589036
-    lvup_description: mission_skill_config-36589036
     skill_group_id: 6589036
     level: 1
     spot_type: "-1"
@@ -55283,10 +54186,7 @@
   }
   {
     id: 6589037
-    name: mission_skill_config-16589037
     code: "1"
-    description: mission_skill_config-26589037
-    lvup_description: mission_skill_config-36589037
     skill_group_id: 6589037
     level: 1
     spot_type: "-1"
@@ -55298,10 +54198,7 @@
   }
   {
     id: 6589038
-    name: mission_skill_config-16589038
     code: "1"
-    description: mission_skill_config-26589038
-    lvup_description: mission_skill_config-36589038
     skill_group_id: 6589038
     level: 1
     spot_type: "-1"
@@ -55313,10 +54210,7 @@
   }
   {
     id: 6589039
-    name: mission_skill_config-16589039
     code: "1"
-    description: mission_skill_config-26589039
-    lvup_description: mission_skill_config-36589039
     skill_group_id: 6589039
     level: 1
     spot_type: "-1"
@@ -55328,10 +54222,7 @@
   }
   {
     id: 6589040
-    name: mission_skill_config-16589040
     code: "1"
-    description: mission_skill_config-26589040
-    lvup_description: mission_skill_config-36589040
     skill_group_id: 6589040
     level: 1
     spot_type: "-1"
@@ -55343,10 +54234,7 @@
   }
   {
     id: 6589041
-    name: mission_skill_config-16589041
     code: "1"
-    description: mission_skill_config-26589041
-    lvup_description: mission_skill_config-36589041
     skill_group_id: 6589041
     level: 1
     spot_type: "-1"
@@ -55358,10 +54246,7 @@
   }
   {
     id: 6589042
-    name: mission_skill_config-16589042
     code: "1"
-    description: mission_skill_config-26589042
-    lvup_description: mission_skill_config-36589042
     skill_group_id: 6589042
     level: 1
     spot_type: "-1"
@@ -55373,10 +54258,7 @@
   }
   {
     id: 6589043
-    name: mission_skill_config-16589043
     code: "1"
-    description: mission_skill_config-26589043
-    lvup_description: mission_skill_config-36589043
     skill_group_id: 6589043
     level: 1
     spot_type: "-1"
@@ -55388,10 +54270,7 @@
   }
   {
     id: 6589044
-    name: mission_skill_config-16589044
     code: "1"
-    description: mission_skill_config-26589044
-    lvup_description: mission_skill_config-36589044
     skill_group_id: 6589044
     level: 1
     spot_type: "-1"
@@ -55403,10 +54282,7 @@
   }
   {
     id: 6589045
-    name: mission_skill_config-16589045
     code: "1"
-    description: mission_skill_config-26589045
-    lvup_description: mission_skill_config-36589045
     skill_group_id: 6589045
     level: 1
     spot_type: "-1"
@@ -55418,10 +54294,7 @@
   }
   {
     id: 6589046
-    name: mission_skill_config-16589046
     code: "1"
-    description: mission_skill_config-26589046
-    lvup_description: mission_skill_config-36589046
     skill_group_id: 6589046
     level: 1
     spot_type: "-1"
@@ -55433,10 +54306,7 @@
   }
   {
     id: 6589047
-    name: mission_skill_config-16589047
     code: "1"
-    description: mission_skill_config-26589047
-    lvup_description: mission_skill_config-36589047
     skill_group_id: 6589047
     level: 1
     spot_type: "-1"
@@ -55448,10 +54318,7 @@
   }
   {
     id: 6589048
-    name: mission_skill_config-16589048
     code: "1"
-    description: mission_skill_config-26589048
-    lvup_description: mission_skill_config-36589048
     skill_group_id: 6589048
     level: 1
     spot_type: "-1"
@@ -55463,10 +54330,7 @@
   }
   {
     id: 6589049
-    name: mission_skill_config-16589049
     code: "1"
-    description: mission_skill_config-26589049
-    lvup_description: mission_skill_config-36589049
     skill_group_id: 6589049
     level: 1
     spot_type: "-1"
@@ -55478,10 +54342,7 @@
   }
   {
     id: 6589050
-    name: mission_skill_config-16589050
     code: "1"
-    description: mission_skill_config-26589050
-    lvup_description: mission_skill_config-36589050
     skill_group_id: 6589050
     level: 1
     spot_type: "-1"
@@ -55493,10 +54354,7 @@
   }
   {
     id: 6589051
-    name: mission_skill_config-16589051
     code: "1"
-    description: mission_skill_config-26589051
-    lvup_description: mission_skill_config-36589051
     skill_group_id: 6589051
     level: 1
     spot_type: "-1"
@@ -55508,10 +54366,7 @@
   }
   {
     id: 6589052
-    name: mission_skill_config-16589052
     code: "1"
-    description: mission_skill_config-26589052
-    lvup_description: mission_skill_config-36589052
     skill_group_id: 6589052
     level: 1
     spot_type: "-1"
@@ -55523,10 +54378,7 @@
   }
   {
     id: 6589053
-    name: mission_skill_config-16589053
     code: "1"
-    description: mission_skill_config-26589053
-    lvup_description: mission_skill_config-36589053
     skill_group_id: 6589053
     level: 1
     spot_type: "-1"
@@ -55538,10 +54390,7 @@
   }
   {
     id: 6589054
-    name: mission_skill_config-16589054
     code: "1"
-    description: mission_skill_config-26589054
-    lvup_description: mission_skill_config-36589054
     skill_group_id: 6589054
     level: 1
     spot_type: "-1"
@@ -55553,10 +54402,7 @@
   }
   {
     id: 6589055
-    name: mission_skill_config-16589055
     code: "1"
-    description: mission_skill_config-26589055
-    lvup_description: mission_skill_config-36589055
     skill_group_id: 6589055
     level: 1
     spot_type: "-1"
@@ -55568,10 +54414,7 @@
   }
   {
     id: 6589056
-    name: mission_skill_config-16589056
     code: "1"
-    description: mission_skill_config-26589056
-    lvup_description: mission_skill_config-36589056
     skill_group_id: 6589056
     level: 1
     spot_type: "-1"
@@ -55583,10 +54426,7 @@
   }
   {
     id: 6589057
-    name: mission_skill_config-16589057
     code: "1"
-    description: mission_skill_config-26589057
-    lvup_description: mission_skill_config-36589057
     skill_group_id: 6589057
     level: 1
     spot_type: "-1"
@@ -55598,10 +54438,7 @@
   }
   {
     id: 6589058
-    name: mission_skill_config-16589058
     code: "1"
-    description: mission_skill_config-26589058
-    lvup_description: mission_skill_config-36589058
     skill_group_id: 6589058
     level: 1
     spot_type: "-1"
@@ -55613,10 +54450,7 @@
   }
   {
     id: 6589059
-    name: mission_skill_config-16589059
     code: "1"
-    description: mission_skill_config-26589059
-    lvup_description: mission_skill_config-36589059
     skill_group_id: 6589059
     level: 1
     spot_type: "-1"
@@ -55628,10 +54462,7 @@
   }
   {
     id: 6589060
-    name: mission_skill_config-16589060
     code: "1"
-    description: mission_skill_config-26589060
-    lvup_description: mission_skill_config-36589060
     skill_group_id: 6589060
     level: 1
     spot_type: "-1"
@@ -55643,10 +54474,7 @@
   }
   {
     id: 6589061
-    name: mission_skill_config-16589061
     code: "1"
-    description: mission_skill_config-26589061
-    lvup_description: mission_skill_config-36589061
     skill_group_id: 6589061
     level: 1
     spot_type: "-1"
@@ -55658,10 +54486,7 @@
   }
   {
     id: 6589062
-    name: mission_skill_config-16589062
     code: "1"
-    description: mission_skill_config-26589062
-    lvup_description: mission_skill_config-36589062
     skill_group_id: 6589062
     level: 1
     spot_type: "-1"
@@ -55673,10 +54498,7 @@
   }
   {
     id: 6589063
-    name: mission_skill_config-16589063
     code: "1"
-    description: mission_skill_config-26589063
-    lvup_description: mission_skill_config-36589063
     skill_group_id: 6589063
     level: 1
     spot_type: "-1"
@@ -55688,10 +54510,7 @@
   }
   {
     id: 6589064
-    name: mission_skill_config-16589064
     code: "1"
-    description: mission_skill_config-26589064
-    lvup_description: mission_skill_config-36589064
     skill_group_id: 6589064
     level: 1
     spot_type: "-1"
@@ -55703,10 +54522,7 @@
   }
   {
     id: 6589065
-    name: mission_skill_config-16589065
     code: "1"
-    description: mission_skill_config-26589065
-    lvup_description: mission_skill_config-36589065
     skill_group_id: 6589065
     level: 1
     spot_type: "-1"
@@ -55718,10 +54534,7 @@
   }
   {
     id: 6589066
-    name: mission_skill_config-16589066
     code: "1"
-    description: mission_skill_config-26589066
-    lvup_description: mission_skill_config-36589066
     skill_group_id: 6589066
     level: 1
     spot_type: "-1"
@@ -55733,10 +54546,7 @@
   }
   {
     id: 6589067
-    name: mission_skill_config-16589067
     code: "1"
-    description: mission_skill_config-26589067
-    lvup_description: mission_skill_config-36589067
     skill_group_id: 6589067
     level: 1
     spot_type: "-1"
@@ -55748,10 +54558,7 @@
   }
   {
     id: 6589068
-    name: mission_skill_config-16589068
     code: "1"
-    description: mission_skill_config-26589068
-    lvup_description: mission_skill_config-36589068
     skill_group_id: 6589068
     level: 1
     spot_type: "-1"
@@ -55763,10 +54570,7 @@
   }
   {
     id: 6589069
-    name: mission_skill_config-16589069
     code: "1"
-    description: mission_skill_config-26589069
-    lvup_description: mission_skill_config-36589069
     skill_group_id: 6589069
     level: 1
     spot_type: "-1"
@@ -55778,10 +54582,7 @@
   }
   {
     id: 6589070
-    name: mission_skill_config-16589070
     code: "1"
-    description: mission_skill_config-26589070
-    lvup_description: mission_skill_config-36589070
     skill_group_id: 6589070
     level: 1
     spot_type: "-1"
@@ -55793,10 +54594,8 @@
   }
   {
     id: 6589071
-    name: mission_skill_config-16589071
+    name: 粘着爆弾を投げる
     code: "1"
-    description: mission_skill_config-26589071
-    lvup_description: mission_skill_config-36589071
     skill_group_id: 6589071
     level: 1
     spot_type: "-1"
@@ -55811,10 +54610,7 @@
   }
   {
     id: 6589072
-    name: mission_skill_config-16589072
     code: "1"
-    description: mission_skill_config-26589072
-    lvup_description: mission_skill_config-36589072
     skill_group_id: 6589072
     level: 1
     spot_type: "-1"
@@ -69916,9 +68712,6 @@
   }
   {
     id: 58000101
-    name: mission_skill_config-68000101
-    description: mission_skill_config-78000101
-    lvup_description: mission_skill_config-88000101
     skill_group_id: 58000101
     level: 1
     spot_type: "-1"
@@ -69933,9 +68726,6 @@
   }
   {
     id: 58000102
-    name: mission_skill_config-68000102
-    description: mission_skill_config-78000102
-    lvup_description: mission_skill_config-88000102
     skill_group_id: 58000102
     level: 1
     spot_type: "-1"
@@ -69949,9 +68739,6 @@
   }
   {
     id: 58000103
-    name: mission_skill_config-68000103
-    description: mission_skill_config-78000103
-    lvup_description: mission_skill_config-88000103
     skill_group_id: 58000103
     level: 1
     spot_type: "-1"
@@ -69966,9 +68753,6 @@
   }
   {
     id: 58000401
-    name: mission_skill_config-68000401
-    description: mission_skill_config-78000401
-    lvup_description: mission_skill_config-88000401
     skill_group_id: 58000401
     level: 1
     spot_type: "-1"
@@ -69982,9 +68766,6 @@
   }
   {
     id: 58005201
-    name: mission_skill_config-68005201
-    description: mission_skill_config-78005201
-    lvup_description: mission_skill_config-88005201
     skill_group_id: 58005201
     level: 1
     spot_type: "-1"
@@ -69999,9 +68780,6 @@
   }
   {
     id: 58041101
-    name: mission_skill_config-68041101
-    description: mission_skill_config-78041101
-    lvup_description: mission_skill_config-88041101
     skill_group_id: 58041101
     level: 1
     spot_type: "-1"
@@ -70013,9 +68791,6 @@
   }
   {
     id: 58451101
-    name: mission_skill_config-68451101
-    description: mission_skill_config-78451101
-    lvup_description: mission_skill_config-88451101
     skill_group_id: 58451101
     level: 1
     spot_type: "-1"
@@ -70029,9 +68804,6 @@
   }
   {
     id: 58451201
-    name: mission_skill_config-68451201
-    description: mission_skill_config-78451201
-    lvup_description: mission_skill_config-88451201
     skill_group_id: 58451201
     level: 1
     spot_type: "-1"
@@ -70045,9 +68817,6 @@
   }
   {
     id: 58451301
-    name: mission_skill_config-68451301
-    description: mission_skill_config-78451301
-    lvup_description: mission_skill_config-88451301
     skill_group_id: 58451301
     level: 1
     spot_type: "-1"
@@ -70061,9 +68830,6 @@
   }
   {
     id: 58451401
-    name: mission_skill_config-68451401
-    description: mission_skill_config-78451401
-    lvup_description: mission_skill_config-88451401
     skill_group_id: 58451401
     level: 1
     spot_type: "-1"
@@ -71589,9 +70355,6 @@
   }
   {
     id: 95838001
-    name: mission_skill_config-105838001
-    description: mission_skill_config-115838001
-    lvup_description: mission_skill_config-125838001
     skill_group_id: 95838001
     level: 1
     spot_type: "-1"
@@ -71603,9 +70366,7 @@
   }
   {
     id: 95838002
-    name: mission_skill_config-105838002
-    description: mission_skill_config-115838002
-    lvup_description: mission_skill_config-125838002
+    name: ジャマーを停止
     skill_group_id: 95838002
     level: 1
     spot_type: "-1"
@@ -71619,9 +70380,6 @@
   }
   {
     id: 95838003
-    name: mission_skill_config-105838003
-    description: mission_skill_config-115838003
-    lvup_description: mission_skill_config-125838003
     skill_group_id: 95838003
     level: 1
     spot_type: "-1"
@@ -71632,9 +70390,8 @@
   }
   {
     id: 95838004
-    name: mission_skill_config-105838004
-    description: mission_skill_config-115838004
-    lvup_description: mission_skill_config-125838004
+    name: ハッキング
+    description: 防御ゲートのシステムにハッキングする。
     skill_group_id: 95838004
     level: 1
     spot_type: "-1"
@@ -71649,9 +70406,12 @@
   }
   {
     id: 95838005
-    name: mission_skill_config-105838005
-    description: mission_skill_config-115838005
-    lvup_description: mission_skill_config-125838005
+    name: 解読完了
+    description:
+      '''
+      ハッキング終了。
+      防御ゲートIを起動。
+      '''
     skill_group_id: 95838005
     level: 1
     spot_type: "-1"
@@ -71665,9 +70425,8 @@
   }
   {
     id: 95838006
-    name: mission_skill_config-105838006
-    description: mission_skill_config-115838006
-    lvup_description: mission_skill_config-125838006
+    name: ハッキング中…
+    description: 制御パネル①をハッキング中。
     skill_group_id: 95838006
     level: 1
     spot_type: "-1"
@@ -71682,9 +70441,8 @@
   }
   {
     id: 95838007
-    name: mission_skill_config-105838007
-    description: mission_skill_config-115838007
-    lvup_description: mission_skill_config-125838007
+    name: ハッキング中…
+    description: 制御パネル②をハッキング中。
     skill_group_id: 95838007
     level: 1
     spot_type: "-1"
@@ -71699,9 +70457,6 @@
   }
   {
     id: 95838008
-    name: mission_skill_config-105838008
-    description: mission_skill_config-115838008
-    lvup_description: mission_skill_config-125838008
     skill_group_id: 95838008
     level: 1
     spot_type: "-1"
@@ -71716,9 +70471,6 @@
   }
   {
     id: 95838009
-    name: mission_skill_config-105838009
-    description: mission_skill_config-115838009
-    lvup_description: mission_skill_config-125838009
     skill_group_id: 95838009
     level: 1
     spot_type: "-1"
@@ -71732,9 +70484,12 @@
   }
   {
     id: 95838010
-    name: mission_skill_config-105838010
-    description: mission_skill_config-115838010
-    lvup_description: mission_skill_config-125838010
+    name: EMP手榴弾
+    description:
+      '''
+      ※1回のみ使用可能。
+      目標1体を1ターンの間行動不能にし、その次のターンの戦闘力を大幅に弱体化することができる。
+      '''
     skill_group_id: 95838010
     level: 1
     spot_type: "-1"
@@ -71749,9 +70504,6 @@
   }
   {
     id: 95838011
-    name: mission_skill_config-105838011
-    description: mission_skill_config-115838011
-    lvup_description: mission_skill_config-125838011
     skill_group_id: 95838011
     level: 1
     spot_type: "-1"
@@ -71764,9 +70516,8 @@
   }
   {
     id: 95838012
-    name: mission_skill_config-105838012
-    description: mission_skill_config-115838012
-    lvup_description: mission_skill_config-125838012
+    name: ハッキング中…
+    description: 制御パネル②をハッキング中。
     skill_group_id: 95838012
     level: 1
     spot_type: "-1"
@@ -71782,9 +70533,6 @@
   }
   {
     id: 95838013
-    name: mission_skill_config-105838013
-    description: mission_skill_config-115838013
-    lvup_description: mission_skill_config-125838013
     skill_group_id: 95838013
     level: 1
     spot_type: "-1"
@@ -71798,9 +70546,6 @@
   }
   {
     id: 95838014
-    name: mission_skill_config-105838014
-    description: mission_skill_config-115838014
-    lvup_description: mission_skill_config-125838014
     skill_group_id: 95838014
     level: 1
     spot_type: "-1"
@@ -71813,9 +70558,6 @@
   }
   {
     id: 95838015
-    name: mission_skill_config-105838015
-    description: mission_skill_config-115838015
-    lvup_description: mission_skill_config-125838015
     skill_group_id: 95838015
     level: 1
     spot_type: "-1"
@@ -71828,9 +70570,6 @@
   }
   {
     id: 95838016
-    name: mission_skill_config-105838016
-    description: mission_skill_config-115838016
-    lvup_description: mission_skill_config-125838016
     skill_group_id: 95838016
     level: 1
     spot_type: "-1"
@@ -71843,9 +70582,8 @@
   }
   {
     id: 95838017
-    name: mission_skill_config-105838017
-    description: mission_skill_config-115838017
-    lvup_description: mission_skill_config-125838017
+    name: ハッキング中…
+    description: 制御パネル①をハッキング中。
     skill_group_id: 95838017
     level: 1
     spot_type: "-1"
@@ -71861,9 +70599,6 @@
   }
   {
     id: 95838018
-    name: mission_skill_config-105838018
-    description: mission_skill_config-115838018
-    lvup_description: mission_skill_config-125838018
     skill_group_id: 95838018
     level: 1
     spot_type: "-1"
@@ -71877,9 +70612,6 @@
   }
   {
     id: 95838019
-    name: mission_skill_config-105838019
-    description: mission_skill_config-115838019
-    lvup_description: mission_skill_config-125838019
     skill_group_id: 95838019
     level: 1
     spot_type: "-1"
@@ -71891,9 +70623,6 @@
   }
   {
     id: 95838020
-    name: mission_skill_config-105838020
-    description: mission_skill_config-115838020
-    lvup_description: mission_skill_config-125838020
     skill_group_id: 95838020
     level: 1
     spot_type: "-1"
@@ -71906,9 +70635,8 @@
   }
   {
     id: 95838021
-    name: mission_skill_config-105838021
-    description: mission_skill_config-115838021
-    lvup_description: mission_skill_config-125838021
+    name: Openコマンド(防御ゲートI用)
+    description: 防御ゲートIをOpen状態に変更する
     skill_group_id: 95838021
     level: 1
     spot_type: "-1"
@@ -71925,9 +70653,8 @@
   }
   {
     id: 95838022
-    name: mission_skill_config-105838022
-    description: mission_skill_config-115838022
-    lvup_description: mission_skill_config-125838022
+    name: Closeコマンド(防御ゲートI用)
+    description: 防御ゲートをClose状態に変更する
     skill_group_id: 95838022
     level: 1
     spot_type: "-1"
@@ -71943,9 +70670,8 @@
   }
   {
     id: 95838023
-    name: mission_skill_config-105838023
-    description: mission_skill_config-115838023
-    lvup_description: mission_skill_config-125838023
+    name: 信号調整
+    description: SN比を10上昇させる。
     skill_group_id: 95838023
     level: 1
     spot_type: "-1"
@@ -71960,9 +70686,8 @@
   }
   {
     id: 95838024
-    name: mission_skill_config-105838024
-    description: mission_skill_config-115838024
-    lvup_description: mission_skill_config-125838024
+    name: 信号調整
+    description: SN比を10低下させる。
     skill_group_id: 95838024
     level: 1
     spot_type: "-1"
@@ -71977,9 +70702,6 @@
   }
   {
     id: 95838025
-    name: mission_skill_config-105838025
-    description: mission_skill_config-115838025
-    lvup_description: mission_skill_config-125838025
     skill_group_id: 95838025
     level: 1
     spot_type: "-1"
@@ -71994,9 +70716,6 @@
   }
   {
     id: 95838026
-    name: mission_skill_config-105838026
-    description: mission_skill_config-115838026
-    lvup_description: mission_skill_config-125838026
     skill_group_id: 95838026
     level: 1
     spot_type: "-1"
@@ -72011,9 +70730,6 @@
   }
   {
     id: 95838027
-    name: mission_skill_config-105838027
-    description: mission_skill_config-115838027
-    lvup_description: mission_skill_config-125838027
     skill_group_id: 95838027
     level: 1
     spot_type: "-1"
@@ -72025,9 +70741,6 @@
   }
   {
     id: 95838028
-    name: mission_skill_config-105838028
-    description: mission_skill_config-115838028
-    lvup_description: mission_skill_config-125838028
     skill_group_id: 95838028
     level: 1
     spot_type: "-1"
@@ -72039,9 +70752,6 @@
   }
   {
     id: 95838029
-    name: mission_skill_config-105838029
-    description: mission_skill_config-115838029
-    lvup_description: mission_skill_config-125838029
     skill_group_id: 95838029
     level: 1
     spot_type: "-1"
@@ -72053,9 +70763,6 @@
   }
   {
     id: 95838030
-    name: mission_skill_config-105838030
-    description: mission_skill_config-115838030
-    lvup_description: mission_skill_config-125838030
     skill_group_id: 95838030
     level: 1
     spot_type: "-1"
@@ -72067,9 +70774,8 @@
   }
   {
     id: 95840001
-    name: mission_skill_config-105840001
-    description: mission_skill_config-115840001
-    lvup_description: mission_skill_config-125840001
+    name: ハッキング中…
+    description: 制御パネルをハッキング中。
     skill_group_id: 95840001
     level: 1
     spot_type: "-1"
@@ -72084,9 +70790,8 @@
   }
   {
     id: 95840002
-    name: mission_skill_config-105840002
-    description: mission_skill_config-115840002
-    lvup_description: mission_skill_config-125840002
+    name: ハッキング中…
+    description: 制御パネルをハッキング中。
     skill_group_id: 95840002
     level: 1
     spot_type: "-1"
@@ -72101,9 +70806,12 @@
   }
   {
     id: 95840003
-    name: mission_skill_config-105840003
-    description: mission_skill_config-115840003
-    lvup_description: mission_skill_config-125840003
+    name: ハッキング中…
+    description:
+      '''
+      ハッキング終了。
+      防御ゲートを起動。
+      '''
     skill_group_id: 95840003
     level: 1
     spot_type: "-1"
@@ -72119,9 +70827,12 @@
   }
   {
     id: 95840004
-    name: mission_skill_config-105840004
-    description: mission_skill_config-115840004
-    lvup_description: mission_skill_config-125840004
+    name: ハッキング中…
+    description:
+      '''
+      ハッキング終了。
+      防御ゲートを起動。
+      '''
     skill_group_id: 95840004
     level: 1
     spot_type: "-1"
@@ -72137,9 +70848,6 @@
   }
   {
     id: 95840005
-    name: mission_skill_config-105840005
-    description: mission_skill_config-115840005
-    lvup_description: mission_skill_config-125840005
     skill_group_id: 95840005
     level: 1
     spot_type: "-1"
@@ -72152,9 +70860,6 @@
   }
   {
     id: 95840006
-    name: mission_skill_config-105840006
-    description: mission_skill_config-115840006
-    lvup_description: mission_skill_config-125840006
     skill_group_id: 95840006
     level: 1
     spot_type: "-1"
@@ -72167,9 +70872,6 @@
   }
   {
     id: 95840007
-    name: mission_skill_config-105840007
-    description: mission_skill_config-115840007
-    lvup_description: mission_skill_config-125840007
     skill_group_id: 95840007
     level: 1
     spot_type: "-1"
@@ -72182,9 +70884,6 @@
   }
   {
     id: 95840008
-    name: mission_skill_config-105840008
-    description: mission_skill_config-115840008
-    lvup_description: mission_skill_config-125840008
     skill_group_id: 95840008
     level: 1
     spot_type: "-1"
@@ -72196,9 +70895,6 @@
   }
   {
     id: 95840009
-    name: mission_skill_config-105840009
-    description: mission_skill_config-115840009
-    lvup_description: mission_skill_config-125840009
     skill_group_id: 95840009
     level: 1
     spot_type: "-1"
@@ -72212,9 +70908,7 @@
   }
   {
     id: 95840010
-    name: mission_skill_config-105840010
-    description: mission_skill_config-115840010
-    lvup_description: mission_skill_config-125840010
+    name: 福音アクシズを停止
     skill_group_id: 95840010
     level: 1
     spot_type: "-1"
@@ -72228,9 +70922,7 @@
   }
   {
     id: 95840011
-    name: mission_skill_config-105840011
-    description: mission_skill_config-115840011
-    lvup_description: mission_skill_config-125840011
+    name: 福音アクシズを停止
     skill_group_id: 95840011
     level: 1
     spot_type: "-1"
@@ -72244,9 +70936,6 @@
   }
   {
     id: 95840012
-    name: mission_skill_config-105840012
-    description: mission_skill_config-115840012
-    lvup_description: mission_skill_config-125840012
     skill_group_id: 95840012
     level: 1
     spot_type: "-1"
@@ -72260,9 +70949,6 @@
   }
   {
     id: 95840013
-    name: mission_skill_config-105840013
-    description: mission_skill_config-115840013
-    lvup_description: mission_skill_config-125840013
     skill_group_id: 95840013
     level: 1
     spot_type: "-1"
@@ -72276,9 +70962,6 @@
   }
   {
     id: 95840014
-    name: mission_skill_config-105840014
-    description: mission_skill_config-115840014
-    lvup_description: mission_skill_config-125840014
     skill_group_id: 95840014
     level: 1
     spot_type: "-1"
@@ -72290,9 +70973,8 @@
   }
   {
     id: 95840015
-    name: mission_skill_config-105840015
-    description: mission_skill_config-115840015
-    lvup_description: mission_skill_config-125840015
+    name: 信号調整
+    description: SN比を10上昇させる。
     skill_group_id: 95840015
     level: 1
     spot_type: "-1"
@@ -72307,9 +70989,8 @@
   }
   {
     id: 95840016
-    name: mission_skill_config-105840016
-    description: mission_skill_config-115840016
-    lvup_description: mission_skill_config-125840016
+    name: 信号調整
+    description: SN比を10低下させる。
     skill_group_id: 95840016
     level: 1
     spot_type: "-1"
@@ -72324,9 +71005,6 @@
   }
   {
     id: 95840017
-    name: mission_skill_config-105840017
-    description: mission_skill_config-115840017
-    lvup_description: mission_skill_config-125840017
     skill_group_id: 95840017
     level: 1
     spot_type: "-1"
@@ -72338,9 +71016,6 @@
   }
   {
     id: 95840018
-    name: mission_skill_config-105840018
-    description: mission_skill_config-115840018
-    lvup_description: mission_skill_config-125840018
     skill_group_id: 95840018
     level: 1
     spot_type: "-1"
@@ -72352,9 +71027,6 @@
   }
   {
     id: 95840019
-    name: mission_skill_config-105840019
-    description: mission_skill_config-115840019
-    lvup_description: mission_skill_config-125840019
     skill_group_id: 95840019
     level: 1
     spot_type: "-1"
@@ -72366,9 +71038,6 @@
   }
   {
     id: 95840020
-    name: mission_skill_config-105840020
-    description: mission_skill_config-115840020
-    lvup_description: mission_skill_config-125840020
     skill_group_id: 95840020
     level: 1
     spot_type: "-1"
@@ -72380,9 +71049,6 @@
   }
   {
     id: 95840021
-    name: mission_skill_config-105840021
-    description: mission_skill_config-115840021
-    lvup_description: mission_skill_config-125840021
     skill_group_id: 95840021
     level: 1
     spot_type: "-1"
@@ -72394,9 +71060,6 @@
   }
   {
     id: 95840022
-    name: mission_skill_config-105840022
-    description: mission_skill_config-115840022
-    lvup_description: mission_skill_config-125840022
     skill_group_id: 95840022
     level: 1
     spot_type: "-1"
@@ -72408,9 +71071,6 @@
   }
   {
     id: 95840023
-    name: mission_skill_config-105840023
-    description: mission_skill_config-115840023
-    lvup_description: mission_skill_config-125840023
     skill_group_id: 95840023
     level: 1
     spot_type: "-1"
@@ -72425,9 +71085,6 @@
   }
   {
     id: 95840024
-    name: mission_skill_config-105840024
-    description: mission_skill_config-115840024
-    lvup_description: mission_skill_config-125840024
     skill_group_id: 95840024
     level: 1
     spot_type: "-1"
@@ -72442,9 +71099,6 @@
   }
   {
     id: 95840025
-    name: mission_skill_config-105840025
-    description: mission_skill_config-115840025
-    lvup_description: mission_skill_config-125840025
     skill_group_id: 95840025
     level: 1
     spot_type: "-1"
@@ -72459,9 +71113,6 @@
   }
   {
     id: 95840026
-    name: mission_skill_config-105840026
-    description: mission_skill_config-115840026
-    lvup_description: mission_skill_config-125840026
     skill_group_id: 95840026
     level: 1
     spot_type: "-1"
@@ -72474,9 +71125,6 @@
   }
   {
     id: 95840027
-    name: mission_skill_config-105840027
-    description: mission_skill_config-115840027
-    lvup_description: mission_skill_config-125840027
     skill_group_id: 95840027
     level: 1
     spot_type: "-1"
@@ -72489,9 +71137,6 @@
   }
   {
     id: 95840028
-    name: mission_skill_config-105840028
-    description: mission_skill_config-115840028
-    lvup_description: mission_skill_config-125840028
     skill_group_id: 95840028
     level: 1
     spot_type: "-1"
@@ -72504,9 +71149,6 @@
   }
   {
     id: 95840029
-    name: mission_skill_config-105840029
-    description: mission_skill_config-115840029
-    lvup_description: mission_skill_config-125840029
     skill_group_id: 95840029
     level: 1
     spot_type: "-1"
@@ -72518,9 +71160,6 @@
   }
   {
     id: 95840030
-    name: mission_skill_config-105840030
-    description: mission_skill_config-115840030
-    lvup_description: mission_skill_config-125840030
     skill_group_id: 95840030
     level: 1
     spot_type: "-1"
@@ -72532,9 +71171,6 @@
   }
   {
     id: 95840031
-    name: mission_skill_config-105840031
-    description: mission_skill_config-115840031
-    lvup_description: mission_skill_config-125840031
     skill_group_id: 95840031
     level: 1
     spot_type: "-1"
@@ -72546,9 +71182,6 @@
   }
   {
     id: 95840032
-    name: mission_skill_config-105840032
-    description: mission_skill_config-115840032
-    lvup_description: mission_skill_config-125840032
     skill_group_id: 95840032
     level: 1
     spot_type: "-1"
@@ -72560,9 +71193,6 @@
   }
   {
     id: 95840033
-    name: mission_skill_config-105840033
-    description: mission_skill_config-115840033
-    lvup_description: mission_skill_config-125840033
     skill_group_id: 95840033
     level: 1
     spot_type: "-1"
@@ -72574,9 +71204,6 @@
   }
   {
     id: 95840034
-    name: mission_skill_config-105840034
-    description: mission_skill_config-115840034
-    lvup_description: mission_skill_config-125840034
     skill_group_id: 95840034
     level: 1
     spot_type: "-1"
@@ -72588,9 +71215,6 @@
   }
   {
     id: 95840035
-    name: mission_skill_config-105840035
-    description: mission_skill_config-115840035
-    lvup_description: mission_skill_config-125840035
     skill_group_id: 95840035
     level: 1
     spot_type: "-1"
@@ -72602,9 +71226,6 @@
   }
   {
     id: 95840036
-    name: mission_skill_config-105840036
-    description: mission_skill_config-115840036
-    lvup_description: mission_skill_config-125840036
     skill_group_id: 95840036
     level: 1
     spot_type: "-1"
@@ -72616,9 +71237,6 @@
   }
   {
     id: 95840037
-    name: mission_skill_config-105840037
-    description: mission_skill_config-115840037
-    lvup_description: mission_skill_config-125840037
     skill_group_id: 95840037
     level: 1
     spot_type: "-1"
@@ -72630,9 +71248,6 @@
   }
   {
     id: 95840038
-    name: mission_skill_config-105840038
-    description: mission_skill_config-115840038
-    lvup_description: mission_skill_config-125840038
     skill_group_id: 95840038
     level: 1
     spot_type: "-1"
@@ -72644,9 +71259,7 @@
   }
   {
     id: 95842001
-    name: mission_skill_config-105842001
-    description: mission_skill_config-115842001
-    lvup_description: mission_skill_config-125842001
+    name: 福音アクシズを停止
     skill_group_id: 95842001
     level: 1
     spot_type: "-1"
@@ -72660,9 +71273,7 @@
   }
   {
     id: 95842002
-    name: mission_skill_config-105842002
-    description: mission_skill_config-115842002
-    lvup_description: mission_skill_config-125842002
+    name: 福音アクシズを停止
     skill_group_id: 95842002
     level: 1
     spot_type: "-1"
@@ -72676,9 +71287,7 @@
   }
   {
     id: 95842003
-    name: mission_skill_config-105842003
-    description: mission_skill_config-115842003
-    lvup_description: mission_skill_config-125842003
+    name: 福音アクシズを停止
     skill_group_id: 95842003
     level: 1
     spot_type: "-1"
@@ -72692,9 +71301,7 @@
   }
   {
     id: 95842004
-    name: mission_skill_config-105842004
-    description: mission_skill_config-115842004
-    lvup_description: mission_skill_config-125842004
+    name: 福音アクシズを停止
     skill_group_id: 95842004
     level: 1
     spot_type: "-1"
@@ -72708,9 +71315,6 @@
   }
   {
     id: 95842005
-    name: mission_skill_config-105842005
-    description: mission_skill_config-115842005
-    lvup_description: mission_skill_config-125842005
     skill_group_id: 95842005
     level: 1
     spot_type: "-1"
@@ -72724,9 +71328,6 @@
   }
   {
     id: 95842006
-    name: mission_skill_config-105842006
-    description: mission_skill_config-115842006
-    lvup_description: mission_skill_config-125842006
     skill_group_id: 95842006
     level: 1
     spot_type: "-1"
@@ -72740,9 +71341,6 @@
   }
   {
     id: 95842007
-    name: mission_skill_config-105842007
-    description: mission_skill_config-115842007
-    lvup_description: mission_skill_config-125842007
     skill_group_id: 95842007
     level: 1
     spot_type: "-1"
@@ -72756,9 +71354,6 @@
   }
   {
     id: 95842008
-    name: mission_skill_config-105842008
-    description: mission_skill_config-115842008
-    lvup_description: mission_skill_config-125842008
     skill_group_id: 95842008
     level: 1
     spot_type: "-1"
@@ -72772,9 +71367,6 @@
   }
   {
     id: 95842009
-    name: mission_skill_config-105842009
-    description: mission_skill_config-115842009
-    lvup_description: mission_skill_config-125842009
     skill_group_id: 95842009
     level: 1
     spot_type: "-1"
@@ -72787,9 +71379,6 @@
   }
   {
     id: 95842010
-    name: mission_skill_config-105842010
-    description: mission_skill_config-115842010
-    lvup_description: mission_skill_config-125842010
     skill_group_id: 95842010
     level: 1
     spot_type: "-1"
@@ -72802,9 +71391,6 @@
   }
   {
     id: 95842011
-    name: mission_skill_config-105842011
-    description: mission_skill_config-115842011
-    lvup_description: mission_skill_config-125842011
     skill_group_id: 95842011
     level: 1
     spot_type: "-1"
@@ -72817,9 +71403,6 @@
   }
   {
     id: 95842012
-    name: mission_skill_config-105842012
-    description: mission_skill_config-115842012
-    lvup_description: mission_skill_config-125842012
     skill_group_id: 95842012
     level: 1
     spot_type: "-1"
@@ -72833,9 +71416,6 @@
   }
   {
     id: 95842013
-    name: mission_skill_config-105842013
-    description: mission_skill_config-115842013
-    lvup_description: mission_skill_config-125842013
     skill_group_id: 95842013
     level: 1
     spot_type: "-1"
@@ -72847,9 +71427,8 @@
   }
   {
     id: 95842014
-    name: mission_skill_config-105842014
-    description: mission_skill_config-115842014
-    lvup_description: mission_skill_config-125842014
+    name: Openコマンド(防御ゲートI用)
+    description: 防御ゲートIをOpen状態に変更する
     skill_group_id: 95842014
     level: 1
     spot_type: "-1"
@@ -72866,9 +71445,8 @@
   }
   {
     id: 95842015
-    name: mission_skill_config-105842015
-    description: mission_skill_config-115842015
-    lvup_description: mission_skill_config-125842015
+    name: Closeコマンド(防御ゲートI用)
+    description: 防御ゲートをClose状態に変更する
     skill_group_id: 95842015
     level: 1
     spot_type: "-1"
@@ -72884,9 +71462,8 @@
   }
   {
     id: 95842016
-    name: mission_skill_config-105842016
-    description: mission_skill_config-115842016
-    lvup_description: mission_skill_config-125842016
+    name: Openコマンド(防御ゲートI用)
+    description: 防御ゲートIをOpen状態に変更する
     skill_group_id: 95842016
     level: 1
     spot_type: "-1"
@@ -72903,9 +71480,8 @@
   }
   {
     id: 95842017
-    name: mission_skill_config-105842017
-    description: mission_skill_config-115842017
-    lvup_description: mission_skill_config-125842017
+    name: Closeコマンド(防御ゲートI用)
+    description: 防御ゲートをClose状態に変更する
     skill_group_id: 95842017
     level: 1
     spot_type: "-1"
@@ -72921,9 +71497,6 @@
   }
   {
     id: 95842018
-    name: mission_skill_config-105842018
-    description: mission_skill_config-115842018
-    lvup_description: mission_skill_config-125842018
     skill_group_id: 95842018
     level: 1
     spot_type: "-1"
@@ -72935,9 +71508,6 @@
   }
   {
     id: 95842019
-    name: mission_skill_config-105842019
-    description: mission_skill_config-115842019
-    lvup_description: mission_skill_config-125842019
     skill_group_id: 95842019
     level: 1
     spot_type: "-1"
@@ -72949,9 +71519,6 @@
   }
   {
     id: 95842020
-    name: mission_skill_config-105842020
-    description: mission_skill_config-115842020
-    lvup_description: mission_skill_config-125842020
     skill_group_id: 95842020
     level: 1
     spot_type: "-1"
@@ -72965,9 +71532,6 @@
   }
   {
     id: 95842021
-    name: mission_skill_config-105842021
-    description: mission_skill_config-115842021
-    lvup_description: mission_skill_config-125842021
     skill_group_id: 95842021
     level: 1
     spot_type: "-1"
@@ -72980,9 +71544,6 @@
   }
   {
     id: 95842022
-    name: mission_skill_config-105842022
-    description: mission_skill_config-115842022
-    lvup_description: mission_skill_config-125842022
     skill_group_id: 95842022
     level: 1
     spot_type: "-1"

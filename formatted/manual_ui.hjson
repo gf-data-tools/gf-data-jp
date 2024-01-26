@@ -38,6 +38,7 @@
     code_a: GunBox
     description_a: 味方部隊
     description_b: 箱
+    description_c: 開ける
     code_b: Console_Icon
   }
   {
@@ -1906,22 +1907,33 @@
   {
     id: 580118
     code_a: Griffin
+    description_a: グリフィン
+    description_b: 信号調整
+    description_c: 増強
     code_b: Console_Icon
   }
   {
     id: 580119
     code_a: Griffin
+    description_a: グリフィン
+    description_b: 信号調整
+    description_c: 軽減
     code_b: Console_Icon
   }
   {
     id: 580121
     code_a: Gospelaxis
+    description_a: グリフィン
+    description_b: 福音アクシス
     description_c: 閉じる
     code_b: Console_Icon
   }
   {
     id: 580122
     code_a: Griffin
+    description_a: グリフィン
+    description_b: 信号強化
+    description_c: 信号強化
     code_b: Console_Icon
     is_manual_target: 2
   }
@@ -1929,12 +1941,14 @@
     id: 580903
     code_a: Pyxis
     description_a: 味方部隊
+    description_b: 軍の砲台
     description_c: 閉じる
     code_b: Console_Icon
   }
   {
     id: 581702
     code_a: Detonator
+    description_a: アンジェリア
     description_b: 放棄された建物
     description_c: 起爆
     code_b: Console_Icon
@@ -1943,6 +1957,8 @@
   {
     id: 583601
     code_a: Dandelion_Gri
+    description_a: ダンデライオン
+    description_b: パラデウス
     description_c: 干渉
     code_b: Console_Icon
     is_manual_target: 2
@@ -1952,16 +1968,23 @@
     code_a: LiftBlue
     description_a: 味方部隊
     description_b: エレベーター
+    description_c: 移動
     code_b: Console_Icon
   }
   {
     id: 584901
     code_a: AK12
+    description_a: アンジェリア
+    description_b: AK-12
+    description_c: 集結
     code_b: Console_Icon
   }
   {
     id: 584903
     code_a: AN94
+    description_a: アンジェリア
+    description_b: AN-94
+    description_c: 集結
     code_b: Console_Icon
   }
   {
@@ -6104,6 +6127,8 @@
     id: 6580001
     code_a: Ammobox
     description_a: 味方部隊
+    description_b: 弾薬
+    description_c: 装填
     code_b: Console_Icon
   }
   {
@@ -6111,6 +6136,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6118,6 +6144,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6125,6 +6152,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6132,6 +6160,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6139,6 +6168,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6146,6 +6176,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6153,6 +6184,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6160,6 +6192,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6167,6 +6200,7 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
@@ -6174,12 +6208,14 @@
     code_a: Spe_misisonskill
     description_a: 味方部隊
     description_b: ゲートコンソール
+    description_c: 選択
     code_b: Console_Icon
   }
   {
     id: 6580012
     code_a: Ammobox
     description_a: 味方部隊
+    description_b: 弾薬
     description_c: 拾う
     code_b: Console_Icon
   }
@@ -6187,42 +6223,56 @@
     id: 6580013
     code_a: MissileLauncher
     description_a: 味方部隊
+    description_b: 砲台
+    description_c: 支援開始
     code_b: Console_Icon
   }
   {
     id: 6580014
     code_a: MissileLauncher
     description_a: 味方部隊
+    description_b: 砲台
+    description_c: 支援停止
     code_b: Console_Icon
   }
   {
     id: 6580101
     code_a: Console
     description_a: 味方部隊
+    description_b: 心拍数
+    description_c: "10"
     code_b: Console_Icon
   }
   {
     id: 6580102
     code_a: Console
     description_a: 味方部隊
+    description_b: 心拍数
+    description_c: "-10"
     code_b: Console_Icon
   }
   {
     id: 6580103
     code_a: AN94
     description_a: 味方部隊
+    description_b: 会話
+    description_c: AN-94
     code_b: Console_Icon
   }
   {
     id: 6580104
     code_a: AK15
     description_a: 味方部隊
+    description_b: 会話
+    description_c: AK-15
     code_b: Console_Icon
   }
   {
     id: 6580105
     code_a: AK12
     description_a: 味方部隊
+    description_b: 会話
+    description_c: AK-12
     code_b: Console_Icon
   }
   {
@@ -6238,12 +6288,15 @@
     id: 6580107
     code_a: Plaincloth
     description_a: 味方部隊
+    description_b: エージェント
+    description_c: 会話
     code_b: Console_Icon
   }
   {
     id: 6580108
     code_a: Spe_misisonskill
     description_a: 味方部隊
+    description_b: トラップ
     description_c: 配置
     code_b: Console_Icon
   }
@@ -7897,6 +7950,7 @@
     id: 95838002
     code_a: Console
     description_a: 味方部隊
+    description_b: 福音アクシス
     description_c: 閉じる
     code_b: Console_Icon
   }
@@ -7912,18 +7966,24 @@
     id: 95838005
     code_a: Console
     description_a: 味方部隊
+    description_b: 制御パネル①
+    description_c: アンロック
     code_b: Console_Icon
   }
   {
     id: 95838006
     code_a: Console
     description_a: 味方部隊
+    description_b: 制御パネル②
+    description_c: アンロック
     code_b: Console_Icon
   }
   {
     id: 95838007
     code_a: Console
     description_a: 味方部隊
+    description_b: 制御パネル③
+    description_c: 開ける
     code_b: Console_Icon
   }
   {
@@ -7939,18 +7999,24 @@
     id: 95838023
     code_a: Console
     description_a: 味方部隊
+    description_b: 信号調整
+    description_c: 増強
     code_b: Console_Icon
   }
   {
     id: 95838024
     code_a: Console
     description_a: 味方部隊
+    description_b: 信号調整
+    description_c: 軽減
     code_b: Console_Icon
   }
   {
     id: 95842008
     code_a: Console
     description_a: 味方部隊
+    description_b: 信管
+    description_c: 置く
     code_b: Console_Icon
   }
 ]
