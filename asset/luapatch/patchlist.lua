@@ -324,6 +324,7 @@ patch3040=
 "3040/DeploymentEnemyTeamController",
 "3040/DeploymentAllyTeamController",		
 "3040/DeploymentUIController",
+"3040/DeploymentController",	
 "3040/MissionData",
 "3040/MissionSelectionController",		
 "3040/GarageVehiclePlatformController",	

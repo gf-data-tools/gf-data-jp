@@ -17,6 +17,12 @@ local InitShowContainer = function(self)
 	end
 end
 
+local CanPlayAllSpots = function(self)
+	if self.playHolders.Count>0 or self.playSpots.Count > 0 then
+		return false;
+	end
+	return self:CanPlayAllSpots();
+end
 
 util.hotfix_ex(CS.OPSPanelController,'InitShowContainer',InitShowContainer)
-
+util.hotfix_ex(CS.OPSPanelController,'CanPlayAllSpots',CanPlayAllSpots)
