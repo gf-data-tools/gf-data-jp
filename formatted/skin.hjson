@@ -5475,6 +5475,81 @@
     class_id: 55
   }
   {
+    id: 5501
+    name: 寒客を迎える
+    fit_gun: 253
+    voice: 15
+    dialog: 窓の月はいつものように、ただ一つの違いは梅あり。指揮官、新年の初日、もう少し司令室をデコレーションしよう！
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5502
+    name: 舞う凌霄
+    fit_gun: 261
+    voice: 15
+    dialog: 指揮官！新年快楽ハッピーニューイヤー！それとお年玉はこっちな！ありがとう！
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5503
+    name: 白花に集う
+    fit_gun: 315
+    voice: 15
+    dialog: 先輩、気を付けて――爆竹が鳴りますよ！
+    gift_position: "-1.6,-144.7"
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5504
+    name: 蓮を挽く
+    fit_gun: 252
+    voice: 15
+    dialog: 新たな年には新たな挑戦が待っている。指揮官よ、汝はどこまでの未来を見据えている？
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5505
+    name: 倒仙百合を夢見る
+    fit_gun: 302
+    voice: 15
+    dialog: あっ、指揮官さん……ごめんなさい、こっそり一杯だけ飲むつもりでしたが……
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5506
+    name: 山茶花を待つ
+    fit_gun: 43
+    voice: 15
+    dialog: 新年の一日目だ、もっとシャキッとしなさい。よし、受け取れ、お年玉だ。
+    gift_position: "-97,14.86"
+    illustrator_cv: 柱柱,田中美海,
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5507
+    name: 蕾に口づけ
+    fit_gun: 13
+    voice: 15
+    dialog: 年に一度の春節ですから、もっと贅沢にいきましょう。指揮官さん、この衣装はどうですか？
+    order: 102
+    class_id: 56
+  }
+  {
+    id: 5508
+    name: 金銭樹を支える
+    fit_gun: 49
+    voice: 15
+    dialog: 新年開運、洪福斉天！指揮官、あけましておめでとうございます！
+    order: 102
+    class_id: 56
+  }
+  {
     id: 5601
     name: 黄昏の時
     fit_gun: 294
