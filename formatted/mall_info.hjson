@@ -7664,6 +7664,152 @@
     classification_id: "1007"
   }
   {
+    id: "11505"
+    type: "9"
+    item_ids: 2342-1
+    gemprice: "3200"
+    original_price: "8000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: IDカード背景：ゼークトの謎
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11506"
+    type: "9"
+    item_ids: 1052-1
+    gemprice: "2400"
+    original_price: "6000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: IDカード背景：Vespid&Ripper
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11507"
+    type: "9"
+    item_ids: 1053-1
+    gemprice: "3200"
+    original_price: "8000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: IDカード背景：M4A1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11508"
+    type: "9"
+    item_ids: 2341-1
+    gemprice: "2000"
+    original_price: "5000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: 416アイコン
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11509"
+    type: "9"
+    item_ids: 1183-1
+    gemprice: "2000"
+    original_price: "5000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: Vectorアイコン
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11510"
+    type: "9"
+    item_ids: 1184-1
+    gemprice: "1600"
+    original_price: "4000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: Spitfireアイコン
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11511"
+    type: "9"
+    item_ids: 200027-1
+    gemprice: "2000"
+    original_price: "5000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: アイコンフレーム：藍色の咆哮
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11512"
+    type: "9"
+    item_ids: 10604-1
+    gemprice: "2000"
+    quota: "2001"
+    giftbag_name: 超伝導パルス
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11513"
+    type: "9"
+    gift: 100003-1
+    gemprice: "150"
+    quota: "2003"
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11514"
+    type: "9"
+    gift: 100002-1
+    gemprice: "60"
+    quota: "2003"
+    giftbag_name: アイスクリーム
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "11515"
+    type: "9"
+    gift: 100001-1
+    gemprice: "30"
+    quota: "2003"
+    giftbag_name: ロリポップ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
     id: "11518"
     type: "8"
     item_ids: 7-1,41-100
@@ -33763,6 +33909,56 @@
     event_code: dailyGiftbag
     icon: Bumdle_choco
     discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31968"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力専用補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "31969"
+    type: "8"
+    sort: "6"
+    gemprice: "580"
+    quota: "2005"
+    giftbag_name: 戦術人形特訓補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_fukki
+    discount: "1.00"
+    prize_id: "330276"
+    classification_id: "3002"
+  }
+  {
+    id: "31970"
+    type: "8"
+    gemprice: "380"
+    quota: "2001"
+    giftbag_name: 3月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_haru2
+    discount: "1.00"
+    prize_id: "330565"
+    classification_id: "3002"
+  }
+  {
+    id: "31971"
+    type: "8"
+    gemprice: "118"
+    quota: "2001"
+    giftbag_name: 3月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_blue
+    daily_quota: "1"
+    discount: "1.00"
+    prize_id: "265"
     classification_id: "3002"
   }
   {

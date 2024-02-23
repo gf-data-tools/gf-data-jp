@@ -9524,6 +9524,15 @@
     rank: 1
   }
   {
+    id: 1922
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Prowler_SWAP_HD
+    item_name: プラウラーSWAPアイコン-HD
+    introduction: プラウラーSWAPアイコン-HD
+    rank: 1
+  }
+  {
     id: 1923
     type: 5
     arg: "1"
@@ -12758,6 +12767,24 @@
     rank: 1
   }
   {
+    id: 2341
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_HK416
+    item_name: 416アイコン
+    introduction: 416アイコン
+    rank: 1
+  }
+  {
+    id: 2342
+    type: 5
+    arg: "1"
+    code: card_friendmall_HK416
+    item_name: IDカード背景：ゼークトの謎
+    introduction: IDカード背景：ゼークトの謎
+    rank: 1
+  }
+  {
     id: 2343
     type: 5
     arg: "1"
@@ -14087,6 +14114,15 @@
     id: 10704
     type: 18
     arg: "10704"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10705
+    type: 18
+    arg: "10705"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -16857,6 +16893,15 @@
     rank: 1
   }
   {
+    id: 200027
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_HK416
+    item_name: アイコンフレーム：藍色の咆哮
+    introduction: アイコンフレーム：藍色の咆哮
+    rank: 1
+  }
+  {
     id: 200028
     type: 1
     arg: "1"
@@ -17917,6 +17962,36 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500078
+    type: 15
+    arg: "1500078"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500079
+    type: 15
+    arg: "1500079"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500080
+    type: 15
+    arg: "1500080"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
     rank: 1
     sort: -1
   }
