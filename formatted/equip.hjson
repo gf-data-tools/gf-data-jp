@@ -10752,7 +10752,7 @@
     description:
       '''
       火力+<pow> 命中+<hit>
-      破甲<armor piercing>Gr MP5 MOD専用
+      破甲<armor_piercing>$Gr MP5 MOD専用
       '''
     rank: 5
     category: 2
@@ -10787,7 +10787,7 @@
     description:
       '''
       火力+<pow> 移動速度+<speed>
-      リロード時間-2秒$Gr MG4 MOD専用
+      リロード時間-2秒$Gr MG4 MOD専用
       '''
     rank: 5
     category: 3
