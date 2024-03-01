@@ -8600,6 +8600,90 @@
     normal_description: プレゼントすると好感度を獲得します
   }
   {
+    id: 8101
+    name: 霧の十字星
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 282
+    skin: 8101
+    poster: 38101
+    code: gift_bundle_WhiteV2023_DP12
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 8102
+    name: 泡沫の白雪
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 341
+    skin: 8102
+    poster: 38102
+    code: gift_bundle_WhiteV2023_SP9
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 8103
+    name: ブルー瞑想曲
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 73
+    skin: 8103
+    poster: 38103
+    code: gift_bundle_WhiteV2023_AUG
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 8105
+    name: 烏藤の仙境
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 317
+    skin: 8105
+    poster: 38105
+    code: gift_bundle_WhiteV2023_MondragonM1908
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 8106
+    name: 迷う月ウサギ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 72
+    skin: 8106
+    poster: 38106
+    code: gift_bundle_WhiteV2023_TAR21
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 8108
+    name: 浮世の願い
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 220
+    skin: 8108
+    poster: 38108
+    code: gift_bundle_WhiteV2023_MP443
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
     id: 8201
     name: コード船長
     type: 2
@@ -9183,6 +9267,20 @@
     skin: 30012
     poster: 330012
     code: gift_bundle_BattlePass_M327
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 30013
+    name: ハート・スティール・キッチン
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 390
+    skin: 30013
+    poster: 330013
+    code: gift_bundle_BattlePass_HK433
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     normal_description: プレゼントすると好感度を獲得します

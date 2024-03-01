@@ -12350,6 +12350,69 @@
     rank: 1
   }
   {
+    id: 2262
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_DP12
+    item_name: 霧の十字星
+    introduction: 霧の十字星
+    rank: 1
+  }
+  {
+    id: 2263
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_SP9
+    item_name: 泡沫の白雪
+    introduction: 泡沫の白雪
+    rank: 1
+  }
+  {
+    id: 2264
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_AUG
+    item_name: ブルー瞑想曲
+    introduction: ブルー瞑想曲
+    rank: 1
+  }
+  {
+    id: 2265
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_MondragonM1908
+    item_name: 烏藤の仙境
+    introduction: 烏藤の仙境
+    rank: 1
+  }
+  {
+    id: 2266
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_TAR21
+    item_name: 迷う月ウサギ
+    introduction: 迷う月ウサギ
+    rank: 1
+  }
+  {
+    id: 2267
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_357
+    item_name: 薫る風と蝶の影
+    introduction: 薫る風と蝶の影
+    rank: 1
+  }
+  {
+    id: 2268
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_MP443
+    item_name: 浮世の願い
+    introduction: 浮世の願い
+    rank: 1
+  }
+  {
     id: 2269
     type: 5
     arg: "1"
@@ -12935,6 +12998,24 @@
     code: profilePic_BattlePass_M327
     item_name: キューティトレーナー
     introduction: キューティトレーナー
+    rank: 1
+  }
+  {
+    id: 2394
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HK433
+    item_name: IDカード背景：警告！キッチンは立ち入り禁止！
+    introduction: IDカード背景：警告！キッチンは立ち入り禁止！
+    rank: 1
+  }
+  {
+    id: 2395
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HK433
+    item_name: ハート・スティール・キッチン
+    introduction: ハート・スティール・キッチン
     rank: 1
   }
   {
@@ -16681,6 +16762,26 @@
     detail_introduction: item-30140026
   }
   {
+    id: 140027
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140027
+    introduction: item-20140027
+    rank: 1
+    detail_introduction: item-30140027
+  }
+  {
+    id: 140028
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140028
+    introduction: item-20140028
+    rank: 1
+    detail_introduction: item-30140028
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16926,6 +17027,15 @@
     code: profileFrame_BattlePass_M327
     item_name: アイコンフレーム：無邪気な笑顔
     introduction: アイコンフレーム：無邪気な笑顔
+    rank: 1
+  }
+  {
+    id: 200034
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HK433
+    item_name: アイコンフレーム：調理手記
+    introduction: アイコンフレーム：調理手記
     rank: 1
   }
   {
@@ -18152,6 +18262,46 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500103
+    type: 15
+    arg: "1500103"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-朝の味で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500104
+    type: 15
+    arg: "1500104"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-朝の味で獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500105
+    type: 15
+    arg: "1500105"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-朝の味で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500106
+    type: 15
+    arg: "1500106"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-朝の味で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
   }

@@ -662,6 +662,38 @@
     present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
+    item_id: 1500103
+    type: 1
+    prize_id: 140001
+    due_time: 2024/04/14  23:59:59
+    due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500104
+    type: 1
+    prize_id: 140003
+    due_time: 2024/04/14  23:59:59
+    due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500105
+    type: 2
+    drop_package_id: 2168
+    due_time: 2024/04/14  23:59:59
+    due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
+  }
+  {
+    item_id: 1500106
+    type: 2
+    drop_package_id: 945
+    due_time: 2024/04/14  23:59:59
+    due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
+  }
+  {
     item_id: 9500001
     type: 1
     poster: PackageImage_rank4

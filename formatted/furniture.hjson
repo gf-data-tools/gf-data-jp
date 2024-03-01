@@ -30000,6 +30000,7 @@
   }
   {
     id: 30594
+    name: 森で遊撃
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
@@ -37423,6 +37424,111 @@
     rotate: "3"
   }
   {
+    id: 38101
+    name: 霧の十字星
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: DP-12のポスター。
+    code: poster_WhiteV2023_DP12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38102
+    name: 泡沫の白雪
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SP9のポスター。
+    code: poster_WhiteV2023_SP9
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38103
+    name: ブルー瞑想曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUGのポスター。
+    code: poster_WhiteV2023_AUG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38105
+    name: 烏藤の仙境
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: モンドラゴンM1908のポスター。
+    code: poster_WhiteV2023_MondragonM1908
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38106
+    name: 迷う月ウサギ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: TAR-21のポスター。
+    code: poster_WhiteV2023_TAR21
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38107
+    name: 薫る風と蝶の影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: アストラのポスター。
+    code: poster_WhiteV2023_357
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38108
+    name: 浮世の願い
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP-443のポスター。
+    code: poster_WhiteV2023_MP443
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38201
     name: コード船長
     classes: 300
@@ -41952,6 +42058,21 @@
     decompose_gift: 100003
     description: M327のポスター。
     code: poster_BattlePass_M327
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330013
+    name: ハート・スティール・キッチン
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 433のポスター。
+    code: poster_BattlePass_HK433
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
