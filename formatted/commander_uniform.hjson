@@ -3165,6 +3165,106 @@
     color_icon_id: "949"
   }
   {
+    id: 5411
+    name: 極地のレンジャー
+    description: オシャレのついでに、落ちてくるコウモリのフンから髪の毛を守ることができる。冒険には必須な品物だ！
+    code: Head1
+    icon: commander_5411_icon
+    type: 1
+    gender: 1
+    uniform_class: "54"
+    color_normal: Commander_5411_N
+    color_icon_id: "950"
+  }
+  {
+    id: 5412
+    name: 完璧な旅人
+    description: ハプニングと明日、どちらかが先に来るか分からない。だけど、賢い者は、常に全力で目の前の障碍を取り払う。
+    code: Head2
+    icon: commander_5412_icon
+    type: 1
+    gender: 2
+    uniform_class: "54"
+    color_normal: Commander_5412_N
+    color_icon_id: "951"
+  }
+  {
+    id: 5420
+    name: 日差しガードマン
+    description: 日焼け止めスプレーと一緒に使うように――じゃないと、アライグマみたいな日焼け跡が残るぞ。
+    code: HeadAcco
+    icon: commander_5420_icon
+    type: 2
+    uniform_class: "54"
+    color_normal: Commander_5420_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.009,0.575"
+    color_icon_id: "952"
+  }
+  {
+    id: 5431
+    name: 幽谷の影
+    description: これぞ完璧な探険セット――どんな罠が待ち受けていようと、必ず遺跡の奥に眠るお宝を手に入れる！
+    code: Body1
+    icon: commander_5431_icon
+    type: 3
+    gender: 1
+    uniform_class: "54"
+    color_normal: Commander_5431_N
+    color_icon_id: "953"
+  }
+  {
+    id: 5432
+    name: 遺跡の痕跡
+    description: 考古学者の秘密道具――「この銘を唱えた者には、呪いが降りかかるぞ！」「もう大声で唱えているって！」
+    code: Body2
+    icon: commander_5432_icon
+    type: 3
+    gender: 2
+    uniform_class: "54"
+    color_normal: Commander_5432_N
+    color_icon_id: "954"
+  }
+  {
+    id: 5440
+    name: タイムナビゲーター
+    description: 「この古い地図に従えば、宝物が眠っている遺跡に辿り着ける！」「……って、なにこの遊園地？」
+    code: BodyAcco
+    icon: commander_5440_icon
+    type: 4
+    uniform_class: "54"
+    color_normal: Commander_5440_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.065,0.068"
+    color_icon_id: "955"
+  }
+  {
+    id: 5451
+    name: 砂海の嵐
+    description: これを身に纏えば、どんな劣悪な環境にも耐えることができる。しかし……砂嵐だけは対象外だ！死にたくなければ全力で逃げろ！
+    code: Foot1
+    icon: commander_5451_icon
+    type: 5
+    gender: 1
+    uniform_class: "54"
+    color_normal: Commander_5451_N
+    color_icon_id: "956"
+  }
+  {
+    id: 5452
+    name: 樹海の息
+    description: これを着て木の上に登れば、安全に夜を過ごすことができる――まぁ、この「ツタ」は確かに少し気持ち悪いが……待て、なんだこいつは！？舌を吐いてるぞ！？
+    code: Foot2
+    icon: commander_5452_icon
+    type: 5
+    gender: 2
+    uniform_class: "54"
+    color_normal: Commander_5452_N
+    color_icon_id: "957"
+  }
+  {
     id: 5640
     name: 威風堂々（青）
     description: 万夫不当の勇士たる者、この旗を以って、己の風格を表すべし。さすれば敵軍は恐怖に打ち震え、友軍もまたフレンドリーファイヤーをせずに済む。

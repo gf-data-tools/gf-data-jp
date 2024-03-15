@@ -13639,8 +13639,8 @@
     id: 1140
     item_id: 2140
     sub_type: 1
-    gem: 200
-    item_ids: 508-5000
+    gem: 160
+    item_ids: 508-4000
     onsale: 1
     code: profilePic_BattlePass_AR15
     order: 1
@@ -15449,6 +15449,39 @@
     order: 1
     rarity: 5
     skin: 30008
+  }
+  {
+    id: 1318
+    item_id: 2318
+    sub_type: 1
+    code: profilePic_ChessFlight_season11_1
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200008
+    logo_code: logo_flightchess_major
+  }
+  {
+    id: 1319
+    item_id: 2319
+    sub_type: 1
+    code: profilePic_ChessFlight_season11_2
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200007
+    logo_code: logo_flightchess_general
+  }
+  {
+    id: 1320
+    item_id: 2320
+    sub_type: 1
+    code: profilePic_ChessFlight_season11_3
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200006
+    logo_code: logo_flightchess_chief
   }
   {
     id: 1323

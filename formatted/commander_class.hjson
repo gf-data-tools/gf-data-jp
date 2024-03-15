@@ -503,6 +503,20 @@
     source_description: 五周年記念ログインボーナス
   }
   {
+    id: 54
+    name: 秘境探検隊
+    description: 山を越え、海を越え、地図にすら乗っていない無人島の密林の中、我々は失われた文明の遺跡を発見した――いいか？これは勇気ある者のみ参加できる冒険だ。覚悟ができたら、共に進もう。
+    group_id: "96"
+    code: commander_5431_icon
+    bonus_plastic: "130021"
+    skill_id: 111
+    path: CLASS54
+    is_class: 1
+    des_year: "2024"
+    source: 2
+    source_description: ラフベリーチェスガチャ報酬
+  }
+  {
     id: 56
     name: 皆陣列在前
     description: それは、戦場を包む暗雲であり、刀剣に降る白雪である……臨兵闘者、その恐れを捨て、使命を背負いて進め！

@@ -12740,6 +12740,33 @@
     rank: 1
   }
   {
+    id: 2318
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season11_1
+    item_name: 同態感応 · コードIX：閉弦
+    introduction: 同態感応 · コードIX：閉弦
+    rank: 1
+  }
+  {
+    id: 2319
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season11_2
+    item_name: 義体連携 · コードIX：閉弦
+    introduction: 義体連携 · コードIX：閉弦
+    rank: 1
+  }
+  {
+    id: 2320
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season11_3
+    item_name: 連携の印 · コードIX：閉弦
+    introduction: 連携の印 · コードIX：閉弦
+    rank: 1
+  }
+  {
     id: 2323
     type: 5
     arg: "1"
@@ -16509,7 +16536,15 @@
     item_name: 砲弾描く弧線
     introduction: 次発装填！急げ！よし、今度こそぶっ飛ばしてやる――撃て！！！
     rank: 1
-    detail_introduction: item-30130020
+  }
+  {
+    id: 130021
+    type: 12
+    arg: "130021"
+    code: Y_Z_zhihuiguan_zidan
+    item_name: 弾丸の嵐を潜り抜けて
+    introduction: 視線を前に、弾痕を後ろに――「リラックスしろ、あんなザコどもの射撃なんぞ当たらんさ」
+    rank: 1
   }
   {
     id: 140001
