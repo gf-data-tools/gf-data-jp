@@ -1396,49 +1396,42 @@
     type: 1
     prize_id: 121006
     cost: 4001-8000
-    is_new: 1
   }
   {
     id: 230
     type: 1
     prize_id: 121007
     cost: 4001-8000
-    is_new: 1
   }
   {
     id: 231
     type: 4
     prize_id: 12448
     cost: 4003-1500|4004-1500
-    is_new: 1
   }
   {
     id: 232
     type: 4
     prize_id: 12449
     cost: 4001-1500|4004-1500
-    is_new: 1
   }
   {
     id: 233
     type: 4
     prize_id: 12450
     cost: 4002-1500|4004-1500
-    is_new: 1
   }
   {
     id: 234
     type: 3
     prize_id: 12348
     cost: 4003-5000
-    is_new: 1
   }
   {
     id: 235
     type: 3
     prize_id: 12349
     cost: 4003-5000
-    is_new: 1
   }
   {
     id: 236
@@ -1446,6 +1439,47 @@
     prize_id: 12350
     cost: 4003-4000
     start_time: " "
+  }
+  {
+    id: 239
+    type: 1
+    prize_id: 121009
+    cost: 4001-8000
+    is_new: 1
+  }
+  {
+    id: 240
+    type: 1
+    prize_id: 121010
+    cost: 4001-8000
+    is_new: 1
+  }
+  {
+    id: 241
+    type: 1
+    prize_id: 121011
+    cost: 4001-8000
+    is_new: 1
+  }
+  {
+    id: 242
+    type: 1
+    prize_id: 121012
+    cost: 4001-8000
+    is_new: 1
+  }
+  {
+    id: 243
+    type: 1
+    prize_id: 121013
+    cost: 4001-8000
+    is_new: 1
+  }
+  {
+    id: 244
+    type: 1
+    prize_id: 121014
+    cost: 4001-8000
     is_new: 1
   }
 ]

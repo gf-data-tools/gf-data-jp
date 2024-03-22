@@ -73,4 +73,22 @@
     group_skill: 2:778217,3:759192
     fit_gun: "20125"
   }
+  {
+    id: 9
+    name: Макарова
+    des: 完全装備したマカロフは、戦場でより正確に作戦を指揮できる。
+    code: EgroupPM
+    equip_unit: "180,238,351"
+    group_skill: 2:778217,3:759219
+    fit_gun: "20008"
+  }
+  {
+    id: 10
+    name: Товарищи
+    des: 完全装備したPPSh-41は、より他の人形たちと連携がとりやすくなった。
+    code: EgroupPPSh41
+    equip_unit: "352,272,219"
+    group_skill: 2:778217,3:759224
+    fit_gun: "20021"
+  }
 ]

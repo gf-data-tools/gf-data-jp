@@ -12767,6 +12767,15 @@
     rank: 1
   }
   {
+    id: 2322
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Nyto_mecha2
+    item_name: サナアイコン
+    introduction: サナアイコン
+    rank: 1
+  }
+  {
     id: 2323
     type: 5
     arg: "1"
@@ -14231,6 +14240,15 @@
     id: 10705
     type: 18
     arg: "10705"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10706
+    type: 18
+    arg: "10706"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -18177,6 +18195,36 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500085
+    type: 15
+    arg: "1500085"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500086
+    type: 15
+    arg: "1500086"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500087
+    type: 15
+    arg: "1500087"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
     rank: 1
     sort: -1
   }

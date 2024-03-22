@@ -13077,6 +13077,16 @@
     content: prize-20004318
   }
   {
+    id: 4319
+    name: 融合勢力：サナ
+    sangvis: "1024"
+  }
+  {
+    id: 4320
+    name: アイコン：サナアイコン
+    item_ids: 2322-1
+  }
+  {
     id: 5001
     name: カフェPV報酬-2018年9月大型イベント
     furniture: "2004"
@@ -20500,79 +20510,79 @@
   {
     id: 7447
     name: prize-10007447
-    item_ids: 10705-30
+    item_ids: 10706-30
     content: prize-20007447
   }
   {
     id: 7448
     name: prize-10007448
-    item_ids: 10705-45
+    item_ids: 10706-45
     content: prize-20007448
   }
   {
     id: 7449
     name: prize-10007449
-    item_ids: 10705-60
+    item_ids: 10706-60
     content: prize-20007449
   }
   {
     id: 7450
     name: prize-10007450
-    item_ids: 10705-45
+    item_ids: 10706-45
     content: prize-20007450
   }
   {
     id: 7451
     name: prize-10007451
-    item_ids: 10705-68
+    item_ids: 10706-68
     content: prize-20007451
   }
   {
     id: 7452
     name: prize-10007452
-    item_ids: 10705-90
+    item_ids: 10706-90
     content: prize-20007452
   }
   {
     id: 7453
     name: prize-10007453
-    item_ids: 10705-90
+    item_ids: 10706-90
     content: prize-20007453
   }
   {
     id: 7454
     name: prize-10007454
-    item_ids: 10705-120
+    item_ids: 10706-120
     content: prize-20007454
   }
   {
     id: 7455
     name: prize-10007455
-    item_ids: 10705-75
+    item_ids: 10706-75
     content: prize-20007455
   }
   {
     id: 7456
     name: prize-10007456
-    item_ids: 10705-150
+    item_ids: 10706-150
     content: prize-20007456
   }
   {
     id: 7457
     name: prize-10007457
-    item_ids: 10705-60
+    item_ids: 10706-60
     content: prize-20007457
   }
   {
     id: 7458
     name: prize-10007458
-    item_ids: 10705-135
+    item_ids: 10706-135
     content: prize-20007458
   }
   {
     id: 7459
     name: prize-10007459
-    item_ids: 10705-180
+    item_ids: 10706-180
     content: prize-20007459
   }
   {
@@ -20919,31 +20929,31 @@
   {
     id: 7532
     name: prize-10007532
-    item_ids: 10705-180
+    item_ids: 10706-180
     content: prize-20007532
   }
   {
     id: 7533
     name: prize-10007533
-    item_ids: 10705-270
+    item_ids: 10706-270
     content: prize-20007533
   }
   {
     id: 7534
     name: prize-10007534
-    item_ids: 10705-360
+    item_ids: 10706-360
     content: prize-20007534
   }
   {
     id: 7535
     name: prize-10007535
-    item_ids: 10705-112
+    item_ids: 10706-112
     content: prize-20007535
   }
   {
     id: 7536
     name: prize-10007536
-    item_ids: 10705-90
+    item_ids: 10706-90
     content: prize-20007536
   }
   {
@@ -34877,6 +34887,552 @@
     coins: 2-50
   }
   {
+    id: 36799
+    name: ①-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 36801
+    name: ③-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 36802
+    name: ⑥-任務報酬
+    gift: 200001-100
+  }
+  {
+    id: 36803
+    name: ⑨-任務報酬
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36804
+    name: ⑬-任務報酬
+    core: 5
+  }
+  {
+    id: 36805
+    name: Ⅲ-任務報酬
+    coins: 1-100
+  }
+  {
+    id: 36806
+    name: Ⅶ-任務報酬
+    item_ids: 51-2
+  }
+  {
+    id: 36807
+    name: Ⅹ-任務報酬
+    item_ids: 45-100
+  }
+  {
+    id: 36808
+    name: XIII-任務報酬
+    item_ids: 525-30
+  }
+  {
+    id: 36809
+    name: IIIB-任務報酬
+    coins: 3-50
+  }
+  {
+    id: 36810
+    name: VIIB-任務報酬
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36811
+    name: IVA-任務報酬
+    item_ids: 9-30
+  }
+  {
+    id: 36812
+    name: VIA-任務報酬
+    item_ids: 44-100
+  }
+  {
+    id: 36813
+    name: delta-任務報酬
+    coins: 2-100
+  }
+  {
+    id: 36814
+    name: zeta-任務報酬
+    item_ids: 45-100
+  }
+  {
+    id: 36815
+    name: theta-任務報酬
+    core: 5
+  }
+  {
+    id: 36816
+    name: kappa-任務報酬
+    item_ids: 51-2
+  }
+  {
+    id: 36817
+    name: 10-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 36818
+    name: 100-任務報酬
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36819
+    name: 1001-任務報酬
+    item_ids: 506-50
+  }
+  {
+    id: 36820
+    name: 111-任務報酬
+    item_ids: 14-50
+  }
+  {
+    id: 36821
+    name: hecta-任務報酬
+    item_ids: 51-2
+  }
+  {
+    id: 36822
+    name: micro-任務報酬
+    coins: 3-50
+  }
+  {
+    id: 36823
+    name: centi-任務報酬
+    coins: 3-100
+  }
+  {
+    id: 36824
+    name: Mega-任務報酬
+    item_ids: 45-100
+  }
+  {
+    id: 36825
+    name: ⑥-EX-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 36826
+    name: ⑬-EX-任務報酬
+    item_ids: 51-2
+  }
+  {
+    id: 36827
+    name: Ⅲ-EX-任務報酬
+    gift: 200001-100
+  }
+  {
+    id: 36828
+    name: Ⅶ-EX-任務報酬
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36829
+    name: XIII-EX-任務報酬
+    coins: 1-300
+  }
+  {
+    id: 36830
+    name: IIIB-EX-任務報酬
+    item_ids: 51-2
+  }
+  {
+    id: 36831
+    name: IVA-EX-任務報酬
+    item_ids: 9-50
+  }
+  {
+    id: 36832
+    name: VIA-EX-任務報酬
+    coins: 2-300
+  }
+  {
+    id: 36833
+    name: delta-EX-任務報酬
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36834
+    name: theta-EX-任務報酬
+    item_ids: 44-100
+  }
+  {
+    id: 36835
+    name: kappa-EX-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 36836
+    name: 10-EX-任務報酬
+    core: 10
+  }
+  {
+    id: 36837
+    name: 100-EX-任務報酬
+    item_ids: 46-100
+  }
+  {
+    id: 36838
+    name: 1001-EX-任務報酬
+    coins: 3-300
+  }
+  {
+    id: 36839
+    name: 111-EX-任務報酬
+    item_ids: 45-150
+  }
+  {
+    id: 36840
+    name: hecta-EX-任務報酬
+    item_ids: 15-100
+  }
+  {
+    id: 36841
+    name: micro-EX-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 36842
+    name: Mega-EX-任務報酬
+    item_ids: 45-100
+  }
+  {
+    id: 36846
+    name: 阿頼耶識-任務報酬
+    core: 10
+  }
+  {
+    id: 36847
+    name: 離散変化∞-任務報酬
+    coins: 2-50
+  }
+  {
+    id: 36848
+    name: 離散変化∞-EX-任務報酬
+    item_ids: 525-30
+  }
+  {
+    id: 36849
+    name: スピンエコー∞-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 36850
+    name: スピンエコー∞-EX-任務報酬
+    coins: 3-100
+  }
+  {
+    id: 36851
+    name: ②-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 36852
+    name: ④-任務報酬
+    item_ids: 506-50
+  }
+  {
+    id: 36853
+    name: ⑤-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 36854
+    name: ⑦-任務報酬
+    coins: 1-100
+  }
+  {
+    id: 36855
+    name: ⑧-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 36856
+    name: ⑩-任務報酬
+    item_ids: 45-50
+  }
+  {
+    id: 36857
+    name: ⑪-任務報酬
+    item_ids: 9-20
+  }
+  {
+    id: 36858
+    name: ⑫-任務報酬
+    item_ids: 14-100
+  }
+  {
+    id: 36859
+    name: ⑭-任務報酬
+    core: 5
+  }
+  {
+    id: 36860
+    name: ⑮-任務報酬
+    coins: 2-50
+  }
+  {
+    id: 36861
+    name: Ⅰ-任務報酬
+    item_ids: 46-50
+  }
+  {
+    id: 36862
+    name: Ⅱ-任務報酬
+    coins: 3-50
+  }
+  {
+    id: 36863
+    name: Ⅳ-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 36864
+    name: Ⅴ-任務報酬
+    core: 5
+  }
+  {
+    id: 36865
+    name: Ⅵ-任務報酬
+    coins: 2-100
+  }
+  {
+    id: 36866
+    name: Ⅷ-任務報酬
+    item_ids: 45-50
+  }
+  {
+    id: 36867
+    name: Ⅸ-任務報酬
+    item_ids: 525-20
+  }
+  {
+    id: 36868
+    name: Ⅺ-任務報酬
+    item_ids: 14-50
+  }
+  {
+    id: 36869
+    name: Ⅻ-任務報酬
+    core: 5
+  }
+  {
+    id: 36870
+    name: XIV-任務報酬
+    item_ids: 9-50
+  }
+  {
+    id: 36871
+    name: XV-任務報酬
+    coins: 1-100
+  }
+  {
+    id: 36872
+    name: IA-任務報酬
+    item_ids: 506-100
+  }
+  {
+    id: 36873
+    name: IIA-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 36874
+    name: IVB-任務報酬
+    item_ids: 9-20
+  }
+  {
+    id: 36875
+    name: VB-任務報酬
+    item_ids: 14-50
+  }
+  {
+    id: 36876
+    name: VIB-任務報酬
+    item_ids: 45-50
+  }
+  {
+    id: 36877
+    name: IB-任務報酬
+    coins: 2-50
+  }
+  {
+    id: 36878
+    name: IIB-任務報酬
+    coins: 3-50
+  }
+  {
+    id: 36879
+    name: IIIA-任務報酬
+    coins: 1-50
+  }
+  {
+    id: 36880
+    name: VA-任務報酬
+    coins: 2-50
+  }
+  {
+    id: 36881
+    name: VIIA-任務報酬
+    coins: 3-50
+  }
+  {
+    id: 36882
+    name: alpha-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 36883
+    name: beta-任務報酬
+    item_ids: 506-100
+  }
+  {
+    id: 36884
+    name: gamma-任務報酬
+    item_ids: 45-50
+  }
+  {
+    id: 36885
+    name: epsilon-任務報酬
+    coins: 2-100
+  }
+  {
+    id: 36886
+    name: eta-任務報酬
+    item_ids: 525-20
+  }
+  {
+    id: 36887
+    name: iota-任務報酬
+    core: 5
+  }
+  {
+    id: 36888
+    name: lambda-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 36889
+    name: mu-任務報酬
+    item_ids: 46-100
+  }
+  {
+    id: 36890
+    name: nu-任務報酬
+    coins: 3-50
+  }
+  {
+    id: 36891
+    name: 1-任務報酬
+    item_ids: 15-50
+  }
+  {
+    id: 36892
+    name: 11-任務報酬
+    item_ids: 45-50
+  }
+  {
+    id: 36893
+    name: 101-任務報酬
+    item_ids: 506-50
+  }
+  {
+    id: 36894
+    name: 110-任務報酬
+    coins: 3-100
+  }
+  {
+    id: 36895
+    name: 1000-任務報酬
+    coins: 1-50
+  }
+  {
+    id: 36896
+    name: 1010-任務報酬
+    coins: 2-50
+  }
+  {
+    id: 36897
+    name: pico-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 36898
+    name: nano-任務報酬
+    mp: 400
+    ammo: 400
+    mre: 400
+    part: 400
+  }
+  {
+    id: 36899
+    name: milli-任務報酬
+    item_ids: 46-100
+  }
+  {
+    id: 36900
+    name: deci-任務報酬
+    item_ids: 15-50
+  }
+  {
+    id: 36901
+    name: deca-任務報酬
+    item_ids: 45-100
+  }
+  {
+    id: 36902
+    name: kilo-任務報酬
+    coins: 2-50
+  }
+  {
+    id: 36903
+    name: Giga-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 36904
+    name: Tera-任務報酬
+    coins: 3-50
+  }
+  {
     id: 36950
     name: 離席の時②-任務報酬
     gift: 200001-50
@@ -43470,6 +44026,42 @@
     content: prize-20121007
   }
   {
+    id: 121009
+    name: prize-10121009
+    furniture: "20016"
+    content: prize-20121009
+  }
+  {
+    id: 121010
+    name: prize-10121010
+    furniture: "20017"
+    content: prize-20121010
+  }
+  {
+    id: 121011
+    name: prize-10121011
+    furniture: "20018"
+    content: prize-20121011
+  }
+  {
+    id: 121012
+    name: prize-10121012
+    furniture: "20019"
+    content: prize-20121012
+  }
+  {
+    id: 121013
+    name: prize-10121013
+    furniture: "20020"
+    content: prize-20121013
+  }
+  {
+    id: 121014
+    name: prize-10121014
+    furniture: "20021"
+    content: prize-20121014
+  }
+  {
     id: 130001
     name: prize-10130001
     item_ids: 1500014-1
@@ -44762,7 +45354,7 @@
   {
     id: 150040
     name: prize-10150040
-    item_ids: 1500078-1
+    item_ids: 1500085-1
     content: prize-20150040
   }
   {
@@ -44822,7 +45414,7 @@
   {
     id: 150050
     name: prize-10150050
-    item_ids: 1500079-1
+    item_ids: 1500086-1
     content: prize-20150050
   }
   {
@@ -44882,7 +45474,7 @@
   {
     id: 150060
     name: prize-10150060
-    item_ids: 1500080-1
+    item_ids: 1500087-1
     content: prize-20150060
   }
   {
@@ -44938,6 +45530,24 @@
     name: prize-10150082
     equip_ids: "236,278,247,295,105,349,237"
     content: prize-20150082
+  }
+  {
+    id: 150083
+    name: prize-10150083
+    equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150083
+  }
+  {
+    id: 150084
+    name: prize-10150084
+    equip_ids: "211,337,338,342,343,348,248,351,352"
+    content: prize-20150084
+  }
+  {
+    id: 150085
+    name: prize-10150085
+    equip_ids: "236,278,247,295,105,349,237,168,282"
+    content: prize-20150085
   }
   {
     id: 220011
