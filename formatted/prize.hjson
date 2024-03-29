@@ -9675,6 +9675,13 @@
     icon: Bumdle_cashblue
   }
   {
+    id: 1610
+    name: prize-10001610
+    gem: 90
+    equip_ids: "316"
+    content: prize-20001610
+  }
+  {
     id: 1611
     name: prize-10001611
     item_ids: 100163-10,100164-1
@@ -21732,6 +21739,30 @@
     name: prize-10008547
     gift: 30002-1
     content: prize-20008547
+  }
+  {
+    id: 8548
+    name: prize-10008548
+    item_ids: 140029-1
+    content: prize-20008548
+  }
+  {
+    id: 8549
+    name: prize-10008549
+    item_ids: 140030-1,10606-300,200036-1,2406-1
+    content: prize-20008549
+  }
+  {
+    id: 8550
+    name: prize-10008550
+    item_ids: 140030-1,10606-300,200036-1,2406-1
+    content: prize-20008550
+  }
+  {
+    id: 8551
+    name: prize-10008551
+    gift: 30003-1
+    content: prize-20008551
   }
   {
     id: 9101
@@ -39180,6 +39211,270 @@
     fairy_ids: 32-757090
   }
   {
+    id: 40502
+    name: 48000ポイント報酬
+    item_ids: 514-40,41-6
+    gift: 200001-50,400001-50
+    icon: Bumdle_red
+  }
+  {
+    id: 40503
+    name: 88888ポイント報酬
+    mp: 150
+    ammo: 150
+    mre: 150
+    part: 150
+    item_ids: 515-50,516-50,41-6
+    coins: 1-50,2-50,3-50
+    icon: Bumdle_brown
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40504
+    name: 480000ポイント報酬
+    item_ids: 514-60,41-6
+    gift: 200001-100,400001-100
+    icon: Bumdle_indigo
+  }
+  {
+    id: 40505
+    name: 680000ポイント報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 515-100,516-100,41-8
+    coins: 1-100,2-100,3-100
+    icon: Bumdle_guoqing
+  }
+  {
+    id: 40506
+    name: 980000ポイント報酬
+    item_ids: 514-80,41-8
+    gift: 200001-150,400001-150
+    icon: Bumdle_yellow
+  }
+  {
+    id: 40507
+    name: 1280000ポイント報酬
+    mp: 350
+    ammo: 350
+    mre: 350
+    part: 350
+    item_ids: 515-150,516-150,41-8
+    equip_ids: "160"
+    coins: 1-150,2-150,3-150
+  }
+  {
+    id: 40508
+    name: 1580000ポイント報酬
+    item_ids: 514-120,41-10
+    gift: 200001-200,400001-200
+    fairy_ids: 22-0
+  }
+  {
+    id: 40509
+    name: 1880000ポイント報酬
+    mp: 700
+    ammo: 700
+    mre: 700
+    part: 700
+    item_ids: 515-300,516-200,41-10
+    coins: 1-300,2-250,3-200
+    icon: Bumdle_navy
+  }
+  {
+    id: 40510
+    name: 2280000ポイント報酬
+    item_ids: 514-150,41-10
+    gift: 200001-300,400001-300
+    icon: Bumdle_blue
+  }
+  {
+    id: 40511
+    name: 2680000ポイント報酬
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 515-400,516-300,41-10
+    coins: 1-400,2-350,3-300
+    icon: Bumdle_may
+  }
+  {
+    id: 40512
+    name: 3080000ポイント報酬
+    item_ids: 514-150,41-10
+    gift: 200001-300,400001-300
+    icon: Bumdle_orange
+  }
+  {
+    id: 40513
+    name: 3480000ポイント報酬
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 515-400,516-400,41-10
+    coins: 1-400,2-350,3-300
+    icon: Bumdle_ruby
+  }
+  {
+    id: 40514
+    name: <終焉の花海+>ポイントランキング1位報酬
+    mp: 30000
+    ammo: 30000
+    mre: 30000
+    part: 30000
+    gem: 2024
+    item_ids: 116-11
+  }
+  {
+    id: 40515
+    name: <終焉の花海+>ポイントランキング2位報酬
+    mp: 28000
+    ammo: 28000
+    mre: 28000
+    part: 28000
+    gem: 1800
+    item_ids: 116-10
+  }
+  {
+    id: 40516
+    name: <終焉の花海+>ポイントランキング3位報酬
+    mp: 26000
+    ammo: 26000
+    mre: 26000
+    part: 26000
+    gem: 1600
+    item_ids: 116-9
+  }
+  {
+    id: 40517
+    name: <終焉の花海+>ポイントランキング4位報酬
+    mp: 24000
+    ammo: 24000
+    mre: 24000
+    part: 24000
+    gem: 1400
+    item_ids: 116-8
+  }
+  {
+    id: 40518
+    name: <終焉の花海+>ポイントランキング5位報酬
+    mp: 22000
+    ammo: 22000
+    mre: 22000
+    part: 22000
+    gem: 1200
+    item_ids: 116-7
+  }
+  {
+    id: 40519
+    name: <終焉の花海+>ポイントランキング6位報酬
+    mp: 20000
+    ammo: 20000
+    mre: 20000
+    part: 20000
+    gem: 1000
+    item_ids: 116-6
+  }
+  {
+    id: 40520
+    name: <終焉の花海+>ポイントランキング7位報酬
+    mp: 18000
+    ammo: 18000
+    mre: 18000
+    part: 18000
+    gem: 900
+    item_ids: 116-5
+  }
+  {
+    id: 40521
+    name: <終焉の花海+>ポイントランキング8位報酬
+    mp: 16000
+    ammo: 16000
+    mre: 16000
+    part: 16000
+    gem: 800
+    item_ids: 116-4
+  }
+  {
+    id: 40522
+    name: <終焉の花海+>ポイントランキング9位報酬
+    mp: 14000
+    ammo: 14000
+    mre: 14000
+    part: 14000
+    gem: 700
+    item_ids: 116-3
+  }
+  {
+    id: 40523
+    name: <終焉の花海+>ポイントランキング10位報酬
+    mp: 12000
+    ammo: 12000
+    mre: 12000
+    part: 12000
+    gem: 600
+    item_ids: 116-2
+  }
+  {
+    id: 40524
+    name: <終焉の花海+>ポイントランキング11~100位報酬
+    mp: 10000
+    ammo: 10000
+    mre: 10000
+    part: 10000
+    gem: 500
+    item_ids: 116-1
+  }
+  {
+    id: 40525
+    name: <終焉の花海+>ポイントランキング350000ポイント報酬
+    fairy_ids: 22-0
+  }
+  {
+    id: 40526
+    name: <終焉の花海+>ポイントランキング600000ポイント報酬
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+    gem: 50
+    item_ids: 116-1
+  }
+  {
+    id: 40527
+    name: <終焉の花海+>ポイントランキング800000ポイント報酬
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    fairy_ids: 22-0
+  }
+  {
+    id: 40528
+    name: <終焉の花海+>ポイントランキング900000ポイント報酬
+    mp: 2500
+    ammo: 2500
+    mre: 2500
+    part: 2500
+    gem: 100
+    commander_uniform: "1510"
+  }
+  {
+    id: 40529
+    name: <終焉の花海+>ポイントランキング1100000ポイント報酬
+    mp: 3500
+    ammo: 3500
+    mre: 3500
+    part: 3500
+    gem: 200
+    fairy_ids: 22-910122
+  }
+  {
     id: 40530
     name: 50000ポイント報酬
     item_ids: 100172-1,9027-1
@@ -42733,6 +43028,62 @@
     icon: chessgahsa_95451
   }
   {
+    id: 95511
+    name: prize-10095511
+    content: prize-20095511
+    send_limit: 1
+    commander_uniform: "5511"
+  }
+  {
+    id: 95512
+    name: prize-10095512
+    content: prize-20095512
+    send_limit: 1
+    commander_uniform: "5512"
+  }
+  {
+    id: 95520
+    name: prize-10095520
+    content: prize-20095520
+    send_limit: 1
+    commander_uniform: "5520"
+  }
+  {
+    id: 95531
+    name: prize-10095531
+    content: prize-20095531
+    send_limit: 1
+    commander_uniform: "5531"
+  }
+  {
+    id: 95532
+    name: prize-10095532
+    content: prize-20095532
+    send_limit: 1
+    commander_uniform: "5532"
+  }
+  {
+    id: 95540
+    name: prize-10095540
+    content: prize-20095540
+    send_limit: 1
+    commander_uniform: "5540"
+  }
+  {
+    id: 95551
+    name: prize-10095551
+    content: prize-20095551
+    send_limit: 1
+    commander_uniform: "5551"
+  }
+  {
+    id: 95552
+    name: prize-10095552
+    content: prize-20095552
+    send_limit: 1
+    commander_uniform: "5552"
+  }
+  {
     id: 99999
     name: 初チャージ特典
     mp: 1000
@@ -43990,6 +44341,32 @@
     content: prize-20120097
   }
   {
+    id: 120098
+    name: prize-10120098
+    item_ids: 41-30,1500109-1
+    content: prize-20120098
+  }
+  {
+    id: 120099
+    name: prize-10120099
+    item_ids: 41-30
+    gift: 30014-1
+    content: prize-20120099
+  }
+  {
+    id: 120100
+    name: prize-10120100
+    item_ids: 41-30,1500110-1
+    content: prize-20120100
+  }
+  {
+    id: 120101
+    name: prize-10120101
+    gem: 680
+    item_ids: 1500111-1
+    content: prize-20120101
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -44312,6 +44689,24 @@
     name: prize-10130042
     item_ids: 10606-300,200034-1,2394-1
     content: prize-20130042
+  }
+  {
+    id: 130043
+    name: prize-10130043
+    item_ids: 1500112-1
+    content: prize-20130043
+  }
+  {
+    id: 130044
+    name: prize-10130044
+    item_ids: 602-1,1500109-1,1500110-1,505-680
+    content: prize-20130044
+  }
+  {
+    id: 130045
+    name: prize-10130045
+    item_ids: 10606-300,200036-1,2406-1
+    content: prize-20130045
   }
   {
     id: 140001
@@ -45116,6 +45511,54 @@
     name: prize-10140132
     gun_id: "263"
     content: prize-20140132
+  }
+  {
+    id: 140133
+    name: prize-10140133
+    gun_id: "65"
+    content: prize-20140133
+  }
+  {
+    id: 140134
+    name: prize-10140134
+    gun_id: "339"
+    content: prize-20140134
+  }
+  {
+    id: 140135
+    name: prize-10140135
+    gun_id: "213"
+    content: prize-20140135
+  }
+  {
+    id: 140136
+    name: prize-10140136
+    gun_id: "50"
+    content: prize-20140136
+  }
+  {
+    id: 140137
+    name: prize-10140137
+    gun_id: "329"
+    content: prize-20140137
+  }
+  {
+    id: 140138
+    name: prize-10140138
+    gun_id: "53"
+    content: prize-20140138
+  }
+  {
+    id: 140139
+    name: prize-10140139
+    gun_id: "260"
+    content: prize-20140139
+  }
+  {
+    id: 140140
+    name: prize-10140140
+    gun_id: "125"
+    content: prize-20140140
   }
   {
     id: 150001
@@ -49500,5 +49943,12 @@
     item_ids: 506-300,10603-30
     content: prize-20330565
     bp_pay: 30
+  }
+  {
+    id: 330566
+    name: prize-10330566
+    item_ids: 506-100
+    coins: 1-500,3-500
+    content: prize-20330566
   }
 ]

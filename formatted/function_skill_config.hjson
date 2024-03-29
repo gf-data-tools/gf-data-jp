@@ -114,6 +114,7 @@
     description: 探索によって得られる帰還報酬の数が{0}%上昇する{1}
     arguments: 5
     max_level: 3
+    is_show: 1
     type: 1
     function_skill: exploration_reward_up
   }
@@ -125,6 +126,7 @@
     description: 探索で中途報酬を得られる確率が {0}%上昇する{1}
     arguments: 1
     max_level: 5
+    is_show: 1
     type: 1
     function_skill: exploration_mid_rate_up
   }

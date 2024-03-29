@@ -15463,14 +15463,14 @@
     eat_ratio: 115
     ratio_range: 100
     skill1: 106304
-    normal_attack: 106304
-    passive_skill: "300108,300201,300202,756180"
+    normal_attack: 759069
+    passive_skill: "300108,300201,300202,756180,759067"
     effect_grid_center: 17
     effect_guntype: "6"
     effect_grid_pos: "21,22,23"
     effect_grid_effect: "2,15;3,12"
     type_equip1: 2;5,17
-    type_equip2: 1;1,2,3,16
+    type_equip2: 1;1,2,3,16,18
     type_equip3: 3;14,21
     ai: 173
     launch_time: 2018-12-06 00:00:00
@@ -30150,7 +30150,7 @@
     name: Jatimatic
     en_name: Jatimatic
     code: Jatimatic
-    extra: Rinotuna,,
+    extra: Rinotuna,稗田寧々,
     en_introduce:
       '''
       Type                       Submachine gun
@@ -30213,7 +30213,7 @@
     name: VRB
     en_name: VRB
     code: VRB
-    extra: カワグチ,,
+    extra: カワグチ,藤川茜,
     en_introduce:
       '''
       Type                       Assault rifle
@@ -30270,7 +30270,7 @@
     name: LAMG
     en_name: LAMG
     code: LAMG
-    extra: 瑶柱菌,,
+    extra: 瑶柱菌,堂坂有希,
     en_introduce:
       '''
       Type                       Light machine gun
@@ -30336,7 +30336,7 @@
     name: TPS
     en_name: TPS
     code: TPS
-    extra: S.Joop,,
+    extra: S.Joop,小野早稀,
     en_introduce:
       '''
       Type                       Shotgun
@@ -30400,7 +30400,7 @@
     name: QBU-191
     en_name: QBU-191
     code: QBU191
-    extra: 陆银,,
+    extra: 陆银,遠藤綾,
     en_introduce:
       '''
       Type                       Rifle
@@ -30461,7 +30461,7 @@
     name: ボーイズ
     en_name: Boys
     code: BoysAntiTank
-    extra: 鈴ノ,,
+    extra: 鈴ノ,日向葵,
     en_introduce:
       '''
       Type                       Rifle
@@ -30524,7 +30524,7 @@
     name: "433"
     en_name: HK433
     code: HK433
-    extra: 豆包,,
+    extra: 豆包,川澄綾子,
     en_introduce:
       '''
       Type                       Assault rifle

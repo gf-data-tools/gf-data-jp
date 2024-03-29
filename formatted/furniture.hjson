@@ -37236,7 +37236,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: SL8のポスター。
+    description: Gr SL8のポスター。
     code: poster_NewYear2023_SL8
     texture_type: "1"
     sorting: "5"
@@ -37641,6 +37641,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
+    description: M240Lのポスター。
     code: poster_Children2023_M240L
     texture_type: "1"
     sorting: "5"
@@ -37685,6 +37686,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
+    description: C96のポスター。
     code: poster_Children2023_C96
     texture_type: "1"
     sorting: "5"
@@ -37714,6 +37716,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
+    description: DP-12のポスター。
     code: poster_OfficeLady2023_DP12
     texture_type: "1"
     sorting: "5"
@@ -37728,6 +37731,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
+    description: LTLX7000のポスター。
     code: poster_OfficeLady2023_LTLX7000
     texture_type: "1"
     sorting: "5"
@@ -37742,6 +37746,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
+    description: グリズリーのポスター。
     code: poster_OfficeLady2023_Grizzly
     texture_type: "1"
     sorting: "5"
@@ -37863,6 +37868,96 @@
     decompose_gift: 100003
     description: StG44のポスター。
     code: poster_OfficeLady2023_STG44
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38701
+    name: ポールダンスの夜
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PA-15のポスター。
+    code: poster_Dancer2023_PA15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38702
+    name: あなたのための歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBU-191のポスター。
+    code: poster_Dancer2023_QBU191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38703
+    name: 東方の麗人
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 劉氏歩槍のポスター。
+    code: poster_Dancer2023_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38704
+    name: 花と風の詩
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G28のポスター。
+    code: poster_Dancer2023_G28
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38705
+    name: 雲と霞が舞う時
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M14のポスター。
+    code: poster_Dancer2023_M14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38706
+    name: ワイングラスのキス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RMB-93のポスター。
+    code: poster_Dancer2023_RMB93
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -42073,6 +42168,21 @@
     decompose_gift: 100003
     description: 433のポスター。
     code: poster_BattlePass_HK433
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330014
+    name: 頭突き症候群
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M950Aのポスター。
+    code: poster_BattlePass_M950A
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

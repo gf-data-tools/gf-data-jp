@@ -507,7 +507,7 @@
     fit_gun: 101
     voice: 16
     dialog: 指揮官、今日もらったチョコ、多すぎないですか？…だから、もう一つもらってもいいんじゃない？うふふふ。
-    illustrator_cv: skin-40000409
+    illustrator_cv: ZAGALA,能登麻美子,
     order: 1
     class_id: 6
   }
@@ -517,7 +517,7 @@
     fit_gun: 103
     voice: 16
     dialog: 指揮官、これ、私からのチョコレート。もちろん、ちゃーんとみんなにも作ってきたんだから。やるでしょ？
-    illustrator_cv: skin-40000410
+    illustrator_cv: ZAGALA,嶺内ともみ,
     order: 1
     class_id: 6
   }
@@ -919,6 +919,7 @@
     fit_gun: 103
     voice: 4
     dialog: さっきからずっと上り続けてる？じゃあ上に向かおうと下に向かおうと、同じってことよね？
+    illustrator_cv: --,嶺内ともみ,
     order: 51
     class_id: 64
   }
@@ -928,6 +929,7 @@
     fit_gun: 101
     voice: 4
     dialog: ほら、踊ろう！素晴らしいパフォーマンスにするため、サボっちゃだめだよ！
+    illustrator_cv: --,能登麻美子,
     order: 51
     class_id: 64
   }
@@ -937,6 +939,7 @@
     fit_gun: 65
     voice: 4
     dialog: 打楽器は打楽器よ、私は気迫でM16A1に勝つんだから……G11、起きなさい。
+    illustrator_cv: --,野中藍,
     order: 51
     class_id: 64
   }
@@ -1380,7 +1383,7 @@
     fit_gun: 97
     voice: 4
     dialog: ちょっとぉ、そこ、まだ綺麗になってない。日直じゃ怠けられないじゃん……
-    illustrator_cv: skin-40000702
+    illustrator_cv: 音符,古賀葵,
     order: 3
     class_id: 8
   }
@@ -1495,7 +1498,7 @@
     voice: 4
     dialog: 最後の演目が始まる？やっとあたしの出番ね！
     note: アハハ……ホテルの倉庫を片付けるの忘れちゃってたみたい。ホテルのスタッフに迷惑かけてないといいけど……
-    illustrator_cv: skin-40000808
+    illustrator_cv: 音符,古賀葵,
     order: 18
     class_id: 9
   }
@@ -1944,7 +1947,7 @@
     voice: 19
     dialog: メリークリスマス…晩ご飯はまだ？
     explore_tag: "3002"
-    illustrator_cv: skin-40001602
+    illustrator_cv: 音符,福原綾香,
     order: 24
     class_id: 16
   }
@@ -2340,6 +2343,7 @@
     voice: 4
     dialog: パーティーか……こういう雰囲気、私にはなんだか新鮮に感じる。指揮官はどう？楽しめてる？
     note: 「不幸を届けに来た。」……こんなことが言えること自体、私に言わせれば幸せなことなのかもね。
+    illustrator_cv: ZAGALA,嶺内ともみ,
     order: 32
     class_id: 21
   }
@@ -2465,7 +2469,7 @@
     voice: 4
     dialog: 足をあげて、そこからどいて！床が鏡になるぐらいきれいになるまでは、足跡の一つも許さないからね！
     note: 大掃除の後だと、心も部屋もピッカピカ！うんうん、今回の訓練は宿舎でも推し進めるべきだよ！今度時間があれば指揮官に相談しようかな～
-    illustrator_cv: skin-40002303
+    illustrator_cv: 音符,古賀葵,
     order: 12
     class_id: 23
   }
@@ -2634,7 +2638,7 @@
     ai: 42502
     voice: 4
     dialog: ねぇ……眠れるドラゴンを起こしたらどんなことが起きるか分かってる？まぁ、聞いてみて……
-    illustrator_cv: skin-40002502
+    illustrator_cv: 音符,福原綾香,
     order: 15
     class_id: 25
   }
@@ -3299,7 +3303,7 @@
     voice: 4
     substitute_voice: UMP45_0
     dialog: ふふっ、今日はお外に遊びに行ってもいいんだって！指揮官、つきあってよね。
-    illustrator_cv: skin-40003403
+    illustrator_cv: ZAGALA,嶺内ともみ,
     order: 38
     class_id: 34
   }
@@ -3311,7 +3315,7 @@
     voice: 4
     substitute_voice: UMP9_0
     dialog: 指揮官、今日は遊びに連れてってくれるんでしょ？だよね！そうだと思ってた！
-    illustrator_cv: skin-40003404
+    illustrator_cv: ZAGALA,能登麻美子,
     order: 38
     class_id: 34
   }
@@ -3497,7 +3501,7 @@
     voice: 4
     dialog: 野球部マネージャーの送別会の後に、見つけたのですが……わたしの丸筒に入ってたこのボタン……これ、指揮官の第二ボタンですよね？
     gift_position: "-88,-174"
-    illustrator_cv: skin-40003702
+    illustrator_cv: GINGALA,大门香实,
     order: 28
     class_id: 37
   }
@@ -3507,7 +3511,7 @@
     fit_gun: 130
     voice: 4
     dialog: パンを咥えたまま走って曲がり角で指揮官とごっつんこ……えへへ、古典的だけど、まんまとかかったよね、指揮官？
-    illustrator_cv: skin-40003703
+    illustrator_cv: Nagu,佐倉綾音,
     order: 28
     class_id: 37
   }
@@ -3806,7 +3810,7 @@
     voice: 15
     dialog: ふぅ……除夜の鐘を鳴らすくらいであたしを起こさないでよ……ねむい……明日も朝からお守りを貰いに行かなきゃいけないし……ちゃんとおんぶで連れてってね……
     gift_position: "-60,-139.5"
-    illustrator_cv: skin-40004102
+    illustrator_cv: 陆银,福原綾香,
     order: 25
     class_id: 41
   }
@@ -4030,6 +4034,7 @@
     ai: 44308
     voice: 16
     dialog: あなたにハルシャギクを送って、お仕事が終わるのを待って、一緒にケーキを食べて、最後のいちごをあーんしてもらって……ずっとこうだったらいいのにな！
+    note: ごめんなさい！でもチョコレートが本当に美味しくて……次のお給料が出たらちゃんと返しますから……
     gift_position: "-171.5,-204.6"
     order: 27
     class_id: 43
@@ -4466,6 +4471,7 @@
     fit_gun: 109
     voice: 4
     dialog: 「動かねば闇にへだつや花と水。」読む度にある種の絶望を感じさせる、そんな句だ。
+    illustrator_cv: Mxixi,小清水亜美,
     order: 35
     class_id: 49
   }
@@ -4673,7 +4679,7 @@
     is_hidden: 2
     dialog: オリジナルスキン
     note: オリジナルスキン
-    illustrator_cv: skin-40005014
+    illustrator_cv: 海猫络合物,田村ゆかり,
   }
   {
     id: 5015
@@ -4683,7 +4689,7 @@
     is_hidden: 2
     dialog: オリジナルスキン
     note: オリジナルスキン
-    illustrator_cv: skin-40005015
+    illustrator_cv: ZAGALA,嶺内ともみ,
   }
   {
     id: 5016
@@ -5658,6 +5664,7 @@
     fit_gun: 16
     voice: 4
     dialog: 「罪を償う？誰がそんなことを意に介する？間違いを犯したのなら相応の代価を払うべきだ、他に道はない。なぜなら、それこそが愛（正義）だから。」
+    illustrator_cv: 小枪,種田梨沙,
     order: 47
     class_id: 58
   }
@@ -5685,7 +5692,7 @@
     name: ミス・マガル
     fit_gun: 258
     voice: 4
-    dialog: 「わたしは人間のことをよく知りすぎている。指揮官、あなたは簡単に人を信じるけど、わたしはそうじゃないよ。」
+    dialog: 人間のことはよく知ってる。指揮官、あなたはいつも他人を安々信用してしまうけど、わたしは違う。
     order: 47
     class_id: 58
   }
@@ -7439,6 +7446,7 @@
     fit_gun: 138
     voice: 4
     dialog: 「契約しなさい、これはあなたにとっても、断れない未来なのよ……」どう、指揮官？この新しいキャッチコピーを見たら、きっとみんな感動してグリフィンに入ろうと思うはず！これでグリフィンの未来も安泰ね！
+    illustrator_cv: --,井上麻里奈,
     order: 94
     class_id: 91
   }
@@ -7448,8 +7456,64 @@
     fit_gun: 61
     voice: 4
     dialog: やはり、事務所の周囲で怪しい信号をキャッチしました。回り込んで挟み撃ちですね、分かりました！指揮官もくれぐれもお気をつけください。それでは、また後で。
+    illustrator_cv: ditto,白砂沙帆,
     order: 94
     class_id: 91
+  }
+  {
+    id: 8701
+    name: ポールダンスの夜
+    fit_gun: 260
+    voice: 4
+    dialog: この瞬間、夜は私のために輝く！準備はいい？3、2、1――
+    order: 105
+    class_id: 92
+  }
+  {
+    id: 8702
+    name: あなたのための歌
+    fit_gun: 388
+    voice: 4
+    dialog: 白鳥は湖で舞い、金色の太陽の光は、再び大地に満ちる。新しい一日、新しいすべて……指揮官、ありがとう。私は、もう一度この世界のために歌いたいわ。
+    gift_position: "-96.4,14.32"
+    order: 105
+    class_id: 92
+  }
+  {
+    id: 8703
+    name: 東方の麗人
+    fit_gun: 316
+    voice: 4
+    dialog: 「所謂伊人、在水一方」あれ？指揮官、なんでそんなに驚いてるんですか？わたしの歌がどこかおかしかったのでしょうか？……あっ、これは演出のために、舞台に金色のひらひらを撒いてもらったのですよ。綺麗だったんでしょう？
+    order: 105
+    class_id: 92
+  }
+  {
+    id: 8704
+    name: 花と風の詩
+    fit_gun: 146
+    voice: 4
+    dialog: 今日は天気がいいし、綺麗な花もいっぱい採れた！あっ、指揮官、これあげるよ。今日もいい気分になれますように！
+    order: 105
+    class_id: 92
+  }
+  {
+    id: 8705
+    name: 雲と霞が舞う時
+    fit_gun: 37
+    voice: 4
+    dialog: こういう感じのドレスを着るのは初めてですよ！ほんと綺麗！だけどなんか、こう裾が長いと、踊る時はつい心配になって……へへっ、でもありがとうね、指揮官！
+    order: 105
+    class_id: 92
+  }
+  {
+    id: 8706
+    name: ワイングラスのキス
+    fit_gun: 159
+    voice: 4
+    dialog: 本日限りのスペシャルカクテルサービスですわよ。一杯どうかしら、指揮官？……いいえ、これは仕事には含まれいないわよ。フフッ、さぁ、舌で感じてみて。
+    order: 105
+    class_id: 92
   }
   {
     id: 10001
@@ -7542,6 +7606,7 @@
     fit_gun: 253
     voice: 4
     dialog: 爽やかな季節だね、お馬さんもつい、外で走りたくなっているよ。指揮官ももしよければ……一緒にお馬さんと散歩しない？
+    gift_position: "-410.3,113.7"
     order: 80
   }
   {
@@ -7551,6 +7616,7 @@
     voice: 4
     dialog: ようこそ、指揮官。もう一度ルールを説明する――七日後、私を捕らえた者がすべての賞金を得る……では、狩りを楽しんできたまえ。
     note: skin-30030004
+    gift_position: "-150.2,297.5"
     illustrator_cv: skin-40030004
     order: 81
   }
@@ -7560,6 +7626,7 @@
     fit_gun: 378
     voice: 4
     dialog: いい天気だね。今日はブラッシングしようか。ね？サモ？アンクル？
+    gift_position: "-274.1,47.4"
     order: 84
   }
   {
@@ -7627,5 +7694,14 @@
     voice: 4
     dialog: こら、つまみ食いはダメですよ！――あら、すぐに大人しくなるなんて……私が料理しているところを見たいの？じゃ、ちゃんとそこで大人しくしててね。
     order: 104
+  }
+  {
+    id: 30014
+    name: 頭突き症候群
+    fit_gun: 97
+    voice: 4
+    dialog: よっ、指揮官、やっと来たか。よし、本番の前にジュースを奢ってやる。ちょうど小銭が余ったからな。
+    illustrator_cv: 八号地球,古賀葵,
+    order: 106
   }
 ]

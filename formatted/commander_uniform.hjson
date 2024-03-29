@@ -3265,6 +3265,146 @@
     color_icon_id: "957"
   }
   {
+    id: 5511
+    name: 紳士の基準
+    description: 髪の毛を一本一本、丁寧に手入れをして、セットする……誰かをダンスに誘うのなら、これが最低限必要なことだ。
+    code: Head1
+    icon: commander_5511_icon
+    type: 1
+    gender: 1
+    uniform_class: "55"
+    color_normal: Commander_5511_N
+    color_0: Commander_5511_0
+    color_1: Commander_5511_1
+    color_2: Commander_5511_2
+    color_3: Commander_5511_3
+    color_4: Commander_5511_4
+    color_icon_id: "900,901,902,903,904,905"
+  }
+  {
+    id: 5512
+    name: 麗人の風格
+    description: 靡く羽根、薫る花……華やかなハットこそ、淑女の一番いい名刺だ。
+    code: Head2
+    icon: commander_5512_icon
+    type: 1
+    gender: 2
+    uniform_class: "55"
+    color_normal: Commander_5512_N
+    color_0: Commander_5512_0
+    color_1: Commander_5512_1
+    color_2: Commander_5512_2
+    color_3: Commander_5512_3
+    color_4: Commander_5512_4
+    color_icon_id: "906,907,908,909,910,911"
+  }
+  {
+    id: 5520
+    name: 輝きの源
+    description: 舞踏会には、それに相応しい「品格」というものがある。その中で、自身の個性を貫くためには、センスだけでなく勢いも必要だ。
+    code: HeadAcco
+    icon: commander_5520_icon
+    type: 2
+    uniform_class: "55"
+    color_normal: Commander_5520_N
+    color_0: Commander_5520_0
+    color_1: Commander_5520_1
+    color_2: Commander_5520_2
+    color_3: Commander_5520_3
+    color_4: Commander_5520_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.297,0.353"
+    color_icon_id: "912,913,914,915,916,917"
+  }
+  {
+    id: 5531
+    name: 金色の年月
+    description: 無駄な枝は剪定されるも、その溢れ出す生命力は消えない。「手をこちらへ。世界は、我々のために回っているのだ」
+    code: Body1
+    icon: commander_5531_icon
+    type: 3
+    gender: 1
+    uniform_class: "55"
+    color_normal: Commander_5531_N
+    color_0: Commander_5531_0
+    color_1: Commander_5531_1
+    color_2: Commander_5531_2
+    color_3: Commander_5531_3
+    color_4: Commander_5531_4
+    color_icon_id: "918,919,920,921,922,923"
+  }
+  {
+    id: 5532
+    name: 花卉の香り
+    description: か弱く美しい見た目は、ただの偽装。人を誘惑することこそ、本当の目的。「この瞬間、私は自分の手で運命を決める」
+    code: Body2
+    icon: commander_5532_icon
+    type: 3
+    gender: 2
+    uniform_class: "55"
+    color_normal: Commander_5532_N
+    color_0: Commander_5532_0
+    color_1: Commander_5532_1
+    color_2: Commander_5532_2
+    color_3: Commander_5532_3
+    color_4: Commander_5532_4
+    color_icon_id: "924,925,926,927,928,929"
+  }
+  {
+    id: 5540
+    name: 知られざる絶技
+    description: ダンスは所詮社交の手段に過ぎない。真に重要なのは、それを得るために積み重ねて来た研鑽だ。
+    code: BodyAcco
+    icon: commander_5540_icon
+    type: 4
+    uniform_class: "55"
+    color_normal: Commander_5540_N
+    color_0: Commander_5540_0
+    color_1: Commander_5540_1
+    color_2: Commander_5540_2
+    color_3: Commander_5540_3
+    color_4: Commander_5540_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.123,0.007"
+    color_icon_id: "930,931,932,933,934,935"
+  }
+  {
+    id: 5551
+    name: ウィーブ
+    description: リードする者の足さばき。
+    code: Foot1
+    icon: commander_5551_icon
+    type: 5
+    gender: 1
+    uniform_class: "55"
+    color_normal: Commander_5551_N
+    color_0: Commander_5551_0
+    color_1: Commander_5551_1
+    color_2: Commander_5551_2
+    color_3: Commander_5551_3
+    color_4: Commander_5551_4
+    color_icon_id: "936,937,938,939,940,941"
+  }
+  {
+    id: 5552
+    name: クローズドプロムナード
+    description: 波を切り裂くような、力強いステップ。
+    code: Foot2
+    icon: commander_5552_icon
+    type: 5
+    gender: 2
+    uniform_class: "55"
+    color_normal: Commander_5552_N
+    color_0: Commander_5552_0
+    color_1: Commander_5552_1
+    color_2: Commander_5552_2
+    color_3: Commander_5552_3
+    color_4: Commander_5552_4
+    color_icon_id: "942,943,944,945,946,947"
+  }
+  {
     id: 5640
     name: 威風堂々（青）
     description: 万夫不当の勇士たる者、この旗を以って、己の風格を表すべし。さすれば敵軍は恐怖に打ち震え、友軍もまたフレンドリーファイヤーをせずに済む。

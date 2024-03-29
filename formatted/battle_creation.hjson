@@ -51092,6 +51092,96 @@
     is_die_delete: 1
   }
   {
+    id: 3714
+    name: AR15敌方射击法球
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    hurt_id: "2007"
+    is_form_play: 1
+    scale: "0.35,0.35,1"
+  }
+  {
+    id: 3715
+    name: AR15子弹
+    code: zidan4_Enemy
+    start_type: "1"
+    start_offset: "-0.05,-0.1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 3500
+    effect_area: 1
+    hurt_id: "2008"
+    is_form_play: 1
+    scale: "0.4,0.4"
+    sound_order: BT_pistol
+  }
+  {
+    id: 3717
+    name: AR15防护范围
+    start_type: "7"
+    start_offset: "6,0,0"
+    destination_type: "7"
+    destination_offset: "6,0,0"
+    exist_duration: "99999"
+    effect_type: 1
+    effect_area: 2
+    effect_param_1: "2"
+    effect_param_2: "8"
+    buff_id: 2434:1
+    buff_cd: "15"
+    is_form_play: 1
+    creation_type: 2
+    scale: "1"
+  }
+  {
+    id: 3718
+    name: AR15预警1
+    code: 爆炸范围
+    start_type: "6"
+    start_offset: "-0.75,0,0.1"
+    destination_type: "6"
+    destination_offset: "-0.75,0,0.1"
+    is_clone: 1
+    rotate: "90,0,0"
+    exist_duration: "60"
+    scale: "1.25,2.15"
+    trigger_creation_id: "371801"
+    trigger_creation_delay: "55"
+  }
+  {
+    id: 3719
+    name: AR15预警2
+    code: 爆炸范围
+    start_type: "6"
+    start_offset: "-0.75,0,0.1"
+    destination_type: "6"
+    destination_offset: "-0.75,0,0.1"
+    is_clone: 1
+    rotate: "90,0,0"
+    exist_duration: "60"
+    scale: "1.25,2.15"
+    trigger_creation_id: "371901"
+    trigger_creation_delay: "55"
+  }
+  {
+    id: 3720
+    name: AR15自爆伤害
+    start_type: "3"
+    destination_type: "3"
+    effect_type: 2
+    effect_area: 1
+    effect_param_1: "99"
+    hurt_id: "2685"
+    is_form_play: 1
+    scale: "10,0,10"
+  }
+  {
     id: 4000
     name: 白色boss普攻预警1
     start_type: "6"
@@ -97402,6 +97492,182 @@
     scale: "1"
   }
   {
+    id: 371501
+    name: AR15枪口火光
+    code: Fire
+    start_type: "1"
+    start_offset: "-0.2,0.1"
+    destination_type: "1"
+    destination_offset: "-0.2,0.1"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    rotate: "0,0,180"
+    exist_duration: "1"
+    effect_area: 1
+    is_form_play: 1
+    creation_type: 1
+    scale: "1"
+  }
+  {
+    id: 371502
+    name: AR15无判定子弹
+    code: zidan4_Enemy
+    start_type: "1"
+    start_offset: "-0.15,0"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 3500
+    effect_area: 1
+    is_form_play: 1
+    scale: "0.4,0.4"
+    sound_order: BT_pistol
+  }
+  {
+    id: 371701
+    name: AR15掩体1
+    start_type: "3"
+    start_offset: "-3,0,-2.1"
+    destination_type: "3"
+    destination_offset: "-3,0,-2.1"
+    exist_duration: "1"
+    scale: "1"
+    summoner_order: "1701"
+  }
+  {
+    id: 371702
+    name: AR15掩体2
+    start_type: "3"
+    start_offset: "-3,0,2.1"
+    destination_type: "3"
+    destination_offset: "-3,0,2.1"
+    exist_duration: "1"
+    scale: "1"
+    summoner_order: "1701"
+  }
+  {
+    id: 371801
+    name: AR15手雷1
+    code: 2023ss/23ss_boss_sl
+    start_type: "1"
+    start_offset: "0.5,0.8,0"
+    destination_type: "7"
+    decision_offset: "-3"
+    is_clone: 1
+    route_type: 2
+    route_hight: 400
+    speed: 1500
+    spin_velocity: 4000
+    rotate: "0,0,180"
+    exist_duration: "30"
+    scale: "0.2,0.2"
+    trigger_creation_id: "371802,371803,25"
+    trigger_creation_delay: "-1,-1"
+  }
+  {
+    id: 371802
+    name: AR15手雷1结算
+    code: 爆炸
+    start_type: "7"
+    destination_type: "7"
+    exist_duration: "30"
+    effect_type: 2
+    effect_area: 1
+    effect_param_1: "1"
+    hurt_id: "2682"
+    creation_type: 2
+    scale: "1"
+    sound_order: BT_grenade_explode
+  }
+  {
+    id: 371803
+    name: AR15手雷1结算
+    start_type: "7"
+    destination_type: "7"
+    exist_duration: "30"
+    effect_type: 2
+    effect_area: 1
+    effect_param_1: "1"
+    buff_id: 2435:1
+    is_form_play: 1
+    creation_type: 2
+    scale: "1"
+  }
+  {
+    id: 371901
+    name: AR15手雷2
+    code: 2023ss/23ss_boss_sl
+    start_type: "1"
+    start_offset: "0.5,0.8,0"
+    destination_type: "7"
+    decision_offset: "-3"
+    is_clone: 1
+    route_type: 2
+    route_hight: 400
+    speed: 1500
+    spin_velocity: 4000
+    rotate: "0,0,180"
+    exist_duration: "30"
+    scale: "0.2,0.2"
+    trigger_creation_id: "371902,371903,25"
+    trigger_creation_delay: "-1,-1"
+  }
+  {
+    id: 371902
+    name: AR15手雷2结算
+    code: 爆炸
+    start_type: "7"
+    destination_type: "7"
+    exist_duration: "30"
+    effect_type: 2
+    effect_area: 1
+    effect_param_1: "1"
+    hurt_id: "2683"
+    buff_cd: "0,0,0,0"
+    creation_type: 2
+    scale: "1"
+    sound_order: BT_grenade_explode
+  }
+  {
+    id: 371903
+    name: AR15手雷2结算
+    start_type: "7"
+    destination_type: "7"
+    exist_duration: "30"
+    effect_type: 2
+    effect_area: 1
+    effect_param_1: "1"
+    hurt_id: "2684"
+    buff_cd: "0,0,0,0"
+    creation_type: 2
+    scale: "1"
+  }
+  {
+    id: 372001
+    name: AR15爆炸
+    code: 爆炸
+    start_type: "3"
+    destination_type: "3"
+    exist_duration: "30"
+    is_form_play: 1
+    creation_type: 2
+    scale: "5,5"
+    sound_order: BT_grenade_explode
+  }
+  {
+    id: 372002
+    name: AR15自爆自我伤害
+    start_type: "1"
+    start_offset: "1"
+    destination_type: "5"
+    route_type: 1
+    speed: 500
+    hurt_id: "2686"
+    is_form_play: 1
+    scale: "1"
+  }
+  {
     id: 536801
     name: 铁血M16打击预警
     code: M16_Normal/M16_Alert
@@ -101751,6 +102017,266 @@
     effect_area: 1
     scale: "1"
     summoner_order: "149720"
+  }
+  {
+    id: 570141
+    name: 刘皮肤8703增援lv1
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149721"
+  }
+  {
+    id: 570142
+    name: 刘皮肤8703增援lv2
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149722"
+  }
+  {
+    id: 570143
+    name: 刘皮肤8703增援lv3
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149723"
+  }
+  {
+    id: 570144
+    name: 刘皮肤8703增援lv4
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149724"
+  }
+  {
+    id: 570145
+    name: 刘皮肤8703增援lv5
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149725"
+  }
+  {
+    id: 570146
+    name: 刘皮肤8703增援lv6
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149726"
+  }
+  {
+    id: 570147
+    name: 刘皮肤8703增援lv7
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149727"
+  }
+  {
+    id: 570148
+    name: 刘皮肤8703增援lv8
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149728"
+  }
+  {
+    id: 570149
+    name: 刘皮肤8703增援lv9
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149729"
+  }
+  {
+    id: 570150
+    name: 刘皮肤8703增援lv10
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149730"
+  }
+  {
+    id: 570151
+    name: 刘皮肤10204增援lv1
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149731"
+  }
+  {
+    id: 570152
+    name: 刘皮肤10204增援lv2
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149732"
+  }
+  {
+    id: 570153
+    name: 刘皮肤10204增援lv3
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149733"
+  }
+  {
+    id: 570154
+    name: 刘皮肤10204增援lv4
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149734"
+  }
+  {
+    id: 570155
+    name: 刘皮肤10204增援lv5
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149735"
+  }
+  {
+    id: 570156
+    name: 刘皮肤10204增援lv6
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149736"
+  }
+  {
+    id: 570157
+    name: 刘皮肤10204增援lv7
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149737"
+  }
+  {
+    id: 570158
+    name: 刘皮肤10204增援lv8
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149738"
+  }
+  {
+    id: 570159
+    name: 刘皮肤10204增援lv9
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149739"
+  }
+  {
+    id: 570160
+    name: 刘皮肤10204增援lv10
+    start_type: "8"
+    start_offset: "-8.58,0,-1.65"
+    destination_type: "8"
+    destination_offset: "-8.58,0,-1.65"
+    random_number: "3"
+    random_offset: ‘0,0,4.2;0,0,0;0,0,-4.2
+    effect_area: 1
+    scale: "1"
+    summoner_order: "149740"
   }
   {
     id: 570501

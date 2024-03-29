@@ -517,6 +517,19 @@
     source_description: ラフベリーチェスガチャ報酬
   }
   {
+    id: 55
+    name: 華やかな灯が昇る時
+    description: 煌びやかな光の中、笑い、舞い、酔い、或いは狩り……すべてが夜のベールに融け込み、流れるような宴を紡ぎ出す。
+    group_id: "97"
+    code: commander_5531_icon
+    bonus_plastic: "130022"
+    skill_id: 110
+    path: CLASS55
+    is_class: 1
+    des_year: "2024"
+    source: 1
+  }
+  {
     id: 56
     name: 皆陣列在前
     description: それは、戦場を包む暗雲であり、刀剣に降る白雪である……臨兵闘者、その恐れを捨て、使命を背負いて進め！

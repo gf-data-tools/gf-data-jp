@@ -610,6 +610,15 @@
     rank: 1
   }
   {
+    id: 116
+    type: 3
+    arg: "17"
+    code: Medal_2021winter_re_rank
+    item_name: 終焉の破壊者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「連鎖分裂」のランキングステージ「終焉の花海+」で、輝かしい成績を残したことを表彰する。「世界の終わりはあなたの足元で止まる。そして命はあなたの後ろで存続する」
+    rank: 1
+  }
+  {
     id: 117
     type: 3
     arg: "18"
@@ -1734,6 +1743,16 @@
     introduction: 背景：SPP-1
     rank: 1
     detail_introduction: item-30001054
+  }
+  {
+    id: 1055
+    type: 5
+    arg: "1"
+    code: card_rankQ_dreamer
+    item_name: ドリーマー
+    introduction: 背景：ドリーマー
+    rank: 1
+    detail_introduction: item-30001055
   }
   {
     id: 1056
@@ -13001,6 +13020,24 @@
     rank: 1
   }
   {
+    id: 2360
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_AUG
+    item_name: AUGアイコン
+    introduction: AUGアイコン
+    rank: 1
+  }
+  {
+    id: 2361
+    type: 5
+    arg: "1"
+    code: card_friendmall_AUG
+    item_name: IDカード背景：潔白の勇気
+    introduction: IDカード背景：潔白の勇気
+    rank: 1
+  }
+  {
     id: 2362
     type: 5
     arg: "1"
@@ -13016,6 +13053,60 @@
     code: profilePic_BattlePass_SPAS15
     item_name: ミス・ピッツバーグ
     introduction: ミス・ピッツバーグ
+    rank: 1
+  }
+  {
+    id: 2364
+    type: 5
+    arg: "1"
+    code: profilePic_Dancer2023_PA15
+    item_name: ポールダンスの夜
+    introduction: ポールダンスの夜
+    rank: 1
+  }
+  {
+    id: 2365
+    type: 5
+    arg: "1"
+    code: profilePic_Dancer2023_QBU191
+    item_name: あなたのための歌
+    introduction: あなたのための歌
+    rank: 1
+  }
+  {
+    id: 2366
+    type: 5
+    arg: "1"
+    code: profilePic_Dancer2023_GeneralLiu
+    item_name: 東方の麗人
+    introduction: 東方の麗人
+    rank: 1
+  }
+  {
+    id: 2367
+    type: 5
+    arg: "1"
+    code: profilePic_Dancer2023_G28
+    item_name: 花と風の詩
+    introduction: 花と風の詩
+    rank: 1
+  }
+  {
+    id: 2368
+    type: 5
+    arg: "1"
+    code: profilePic_Dancer2023_M14
+    item_name: 雲と霞が舞う時
+    introduction: 雲と霞が舞う時
+    rank: 1
+  }
+  {
+    id: 2369
+    type: 5
+    arg: "1"
+    code: profilePic_Dancer2023_RMB93
+    item_name: ワイングラスのキス
+    introduction: ワイングラスのキス
     rank: 1
   }
   {
@@ -13052,6 +13143,24 @@
     code: profilePic_BattlePass_HK433
     item_name: ハート・スティール・キッチン
     introduction: ハート・スティール・キッチン
+    rank: 1
+  }
+  {
+    id: 2406
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M950A
+    item_name: IDカード背景：ジュース天国
+    introduction: IDカード背景：ジュース天国
+    rank: 1
+  }
+  {
+    id: 2407
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M950A
+    item_name: 頭突き症候群
+    introduction: 頭突き症候群
     rank: 1
   }
   {
@@ -16565,6 +16674,15 @@
     rank: 1
   }
   {
+    id: 130022
+    type: 12
+    arg: "130022"
+    code: Y_Z_zhihuiguan_Dancer
+    item_name: 迷夢の時代
+    introduction: 輝くミラーボールは、すべてのダンサーを平等に照らす。この瞬間、お互いの身分などもはや関係ない。ただ踊って、楽しむだけだ。
+    rank: 1
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -16835,6 +16953,26 @@
     detail_introduction: item-30140028
   }
   {
+    id: 140029
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140029
+    introduction: item-20140029
+    rank: 1
+    detail_introduction: item-30140029
+  }
+  {
+    id: 140030
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140030
+    introduction: item-20140030
+    rank: 1
+    detail_introduction: item-30140030
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -17065,6 +17203,15 @@
     rank: 1
   }
   {
+    id: 200029
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_AUG
+    item_name: アイコンフレーム：永遠の美
+    introduction: アイコンフレーム：永遠の美
+    rank: 1
+  }
+  {
     id: 200030
     type: 1
     arg: "1"
@@ -17089,6 +17236,15 @@
     code: profileFrame_BattlePass_HK433
     item_name: アイコンフレーム：調理手記
     introduction: アイコンフレーム：調理手記
+    rank: 1
+  }
+  {
+    id: 200036
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M950A
+    item_name: アイコンフレーム：スルッと――
+    introduction: アイコンフレーム：スルッと――
     rank: 1
   }
   {
@@ -18385,6 +18541,46 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 前線協定-朝の味で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500109
+    type: 15
+    arg: "1500109"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-最高のロック！で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500110
+    type: 15
+    arg: "1500110"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-最高のロック！で獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500111
+    type: 15
+    arg: "1500111"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-最高のロック！で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500112
+    type: 15
+    arg: "1500112"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-最高のロック！で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
   }
