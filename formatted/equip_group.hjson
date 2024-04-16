@@ -91,4 +91,22 @@
     group_skill: 2:778217,3:759224
     fit_gun: "20021"
   }
+  {
+    id: 11
+    name: 漆黒の女王
+    des: 完全装備したPPKは、敵に際限なき苦痛を与えるだろう。
+    code: EgroupPPK
+    equip_unit: "155,284,355"
+    group_skill: 2:778217,3:759242
+    fit_gun: "20010"
+  }
+  {
+    id: 12
+    name: 404カスタマイズ416
+    des: 404小隊がオーダーメイドした416専用セット。416の作戦能力を大幅に引き上げることができる。
+    code: EgroupHK416KMod
+    equip_unit: "106,356,159"
+    group_skill: 2:778217,3:759236
+    fit_gun: "20065"
+  }
 ]

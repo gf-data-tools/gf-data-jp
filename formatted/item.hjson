@@ -14364,6 +14364,15 @@
     rank: 1
   }
   {
+    id: 10707
+    type: 18
+    arg: "10707"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -15724,6 +15733,34 @@
     item_name: 白金勲章・雪の如き浪 花顔を映ず
     introduction: 白金勲章・雪の如き浪 花顔を映ず
     rank: 1
+  }
+  {
+    id: 100177
+    type: 4
+    arg: "100177"
+    code: Nova_medal
+    item_name: 新星勲章·愛を焙炒
+    introduction: 新星勲章·愛を焙炒
+    rank: 1
+  }
+  {
+    id: 100178
+    type: 4
+    arg: "100178"
+    code: Platinum_medal
+    item_name: 白金勲章·愛を焙炒
+    introduction: 白金勲章·愛を焙炒
+    rank: 1
+  }
+  {
+    id: 100179
+    type: 9
+    arg: "100179"
+    code: Roasted_Cocoa
+    item_name: 焙炒カカオ
+    introduction: 焙炒カカオ
+    rank: 1
+    daily_limit: "120"
   }
   {
     id: 100180
@@ -18378,6 +18415,36 @@
     id: 1500087
     type: 15
     arg: "1500087"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500088
+    type: 15
+    arg: "1500088"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500089
+    type: 15
+    arg: "1500089"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500090
+    type: 15
+    arg: "1500090"
     code: package_choose
     item_name: 高ランク専用装備指定ビーコン
     introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
