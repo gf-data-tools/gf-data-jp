@@ -19202,6 +19202,45 @@
     touch_area: "4,4,0"
   }
   {
+    id: 7244
+    name: ボンバー・パーティー
+    classes: 72
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 一粒一粒のコーンを丁寧に加工し、特製のマシンに入れて磨かなければ、その本当の香り引き出すことができない……休憩エリアにこういう標語を書けば、みんなやる気がでるのかしら？
+    code: qjyd_20240101_deco01,qjyd_20240101_popcorn
+    texture_type: "1,2"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|-0.182,0.692,0.105"
+    rotate: "2,2"
+    interact_point: "44"
+    interact_point_offset: *1.050,0.541,1.736
+  }
+  {
+    id: 7245
+    name: ダイナーゲート救出計画
+    classes: 72
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description:
+      '''
+      曰く、お釈迦さまは地獄に蜘蛛の糸を伸ばし、そこで苦しむ悪鬼たちを救おうと願った。しかし、悪鬼たちはいつも一斉に蜘蛛の糸を掴み、糸を切らしてしまうという……
+      「どういう意味？」
+      「あいつらが勝手にクレーンから落ちたんだよ、私のせいじゃない！」
+      '''
+    code: qjyd_20240101_clawcrane
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "64,71,72"
+    interact_point_offset: *2.348,-0.347,0.000|*-2.873,-0.296,0.000|*0.000,-0.407,0.000
+    touch_area: "3,3,3"
+  }
+  {
     id: 7301
     name: 水族館-フロア
     classes: 73
@@ -26934,6 +26973,216 @@
     rotate: "2"
   }
   {
+    id: 11201
+    name: 六有茶屋-雪花柄の菱形タイル
+    classes: 112
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: たまにはコーラとか練乳とかソースとかが落ちてしまうが……大丈夫、掃除すれば全部元通りになる！
+    code: Dining2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11202
+    name: 六有茶屋-赤錆色の壁
+    classes: 112
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 落ち着いた雰囲気のレトロな赤錆色の壁。指揮官の制服の色から発想を貰ったらしい。
+    code: Dining2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11203
+    name: 六有茶屋-4面モニターのメニュー
+    classes: 112
+    type: 302
+    position: "5,1"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 五つ星レストランにも後れを取らない！
+    code: Dining2023_deco_01
+    texture_type: "1"
+    offset: "0.000,1.543,0.000"
+    rotate: "3"
+  }
+  {
+    id: 11204
+    name: 六有茶屋-ミルクティーとサンドイッチ
+    classes: 112
+    type: 202
+    position: "21,4"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: メロンパンの中にメロンはないけど、ミルクティーの中にはちゃんとミルクがある。
+    code: Dining2023_deco_17,Dining2023_deco_11,Dining2023_deco_12
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-0.807,0.000,0.000|0.820,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *2.188,1.565,0.114|*-2.071,1.537,-0.285
+  }
+  {
+    id: 11205
+    name: 六有茶屋-目玉焼きと叉焼
+    classes: 112
+    type: 202
+    position: "26,10"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: ついでにソフトドリンクも！
+    code: Dining2023_deco_10,Dining2023_deco_11
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.313,-0.250,-0.052|-0.845,0.000,0.000"
+    rotate: "2,2"
+    interact_point: "19"
+    interact_point_offset: *-2.333,1.480,0.142
+  }
+  {
+    id: 11206
+    name: 六有茶屋-バタートースト
+    classes: 112
+    type: 202
+    position: "2,7"
+    space: "8,5,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: バターもアイスクリームも冷たいからカロリーはゼロだよね！
+    code: Dining2023_deco_16,Dining2023_deco_14
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "-0.250,-0.323,-0.073|0.996,0.079,0.020"
+    rotate: "2,2"
+    interact_point: "18"
+    interact_point_offset: *2.421,1.224,0.341
+  }
+  {
+    id: 11207
+    name: 六有茶屋-焼売と小籠包
+    classes: 112
+    type: 202
+    position: "13,7"
+    space: "8,5,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 「ヤムチャセンライ！」CF-05がミルクティーを啜りながらそれを口にした時、RO635は自分の耳を疑った。
+    code: Dining2023_deco_15,Dining2023_deco_13
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.334,-0.282,-0.063|-0.980,0.109,0.028"
+    rotate: "2,2"
+    interact_point: "19"
+    interact_point_offset: *-1.925,1.537,-0.285
+  }
+  {
+    id: 11208
+    name: 六有茶屋-ハス形のランプ
+    classes: 112
+    type: 201
+    position: "25,8"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「ランプの傘がハスの形をしているから、電球もハスの花托の形にすれば……いや、やっぱいいか」
+    code: Dining2023_deco_02,Dining2023_deco_03
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-2.053,1.523,0.351|2.555,1.558,0.360"
+    rotate: "2,2"
+  }
+  {
+    id: 11209
+    name: 六有茶屋-最高の品揃え
+    classes: 112
+    type: 201
+    position: "2,1"
+    space: "12,4,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: スナックからドリンクまで、なんでもありだ！でもちょっと待って、このぬいぐるみたちは非売品だから！
+    code: Dining2023_deco_04
+    texture_type: "1"
+    offset: "0.000,-0.167,-0.042"
+    rotate: "2"
+  }
+  {
+    id: 11210
+    name: 六有茶屋-シフト表
+    classes: 112
+    type: 302
+    position: "9,8"
+    space: "4,8,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 経費を節約するために、本来の装飾品の代わりに、カリーナは原料を仕入れた時のおまけのポスターと黒板を壁につけることにした。
+    code: Dining2023_deco_05
+    texture_type: "1"
+    offset: "0.000,0.417,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11211
+    name: 六有茶屋-キッチンの様子
+    classes: 112
+    type: 201
+    position: "19,0"
+    space: "13,3,1,1,0,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 開店以来、キッチンでは何度もローストグースの盗難事件が起きた。それが原因で、キッチンの間取りがこういう風になってしまったんだ。
+    code: Dining2023_deco_06,Dining2023_deco_07,Dining2023_ants,Dining2023_deco_18,Dining2023_deco_19
+    texture_type: "1,1,2,1,1"
+    sorting: "0,0,0,20,20"
+    offset: "0.000,0.000,0.000|4.600,0.000,0.000|-1.083,0.838,-0.044|0.000,0.000,0.000|4.600,0.000,0.000"
+    rotate: "2,2,2,2,2"
+  }
+  {
+    id: 11212
+    name: 六有茶屋-泥棒猫
+    classes: 112
+    type: 302
+    position: "15,15"
+    space: "3,8,1,1,1,1"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 常にキッチンの中を狙っている謎多き怪盗。
+    code: Dining2023_deco_08
+    texture_type: "1"
+    offset: "0.000,0.302,0.000"
+    rotate: "3"
+  }
+  {
+    id: 11213
+    name: 六有茶屋-ネオンサイン
+    classes: 112
+    type: 302
+    position: "19,2"
+    space: "5,4,1,1,1,1"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 元々はもっと大きな看板を二つ作る予定だったが、値段を聞いた瞬間、指揮官はそれを諦めた。
+    code: Dining2023_deco_09,Dining2023_lightA,Dining2023_lightB
+    texture_type: "1,2,2"
+    sorting: "0,0,0"
+    offset: "0.352,0.000,0.000|-0.658,-0.423,0.000|0.345,-0.380,0.000"
+    rotate: "3,3,3"
+  }
+  {
     id: 20004
     name: 四度目の輝けるステージ
     classes: 31
@@ -28320,6 +28569,23 @@
     rotate: "3"
   }
   {
+    id: 20105
+    name: 「全部欲しい」ミキサー
+    classes: 81
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 人生には常に、無数の選択が我々を待ち受けている。この施設は、そういう選択に困っている者たち向けに、手助けをするためのものだ――だけど覚えてくれたまえ、取捨選択は、誰しも経験することだ。
+    code: 2023RougeSummer_Mixer_deco
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "64"
+    interact_point_offset: *3.996,0.000,0.000
+    touch_area: "3,3,0"
+  }
+  {
     id: 20110
     name: 荒野の風
     classes: 81
@@ -28332,6 +28598,21 @@
     texture_type: "1"
     offset: "0.000,-0.219,-0.052"
     rotate: "2"
+  }
+  {
+    id: 20131
+    name: ポスター-慢性虚脱
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024年1月大型イベント-慢性虚脱限定ポスター
+    code: pv_2023spring
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
   }
   {
     id: 30001
@@ -37709,6 +37990,21 @@
     rotate: "3"
   }
   {
+    id: 38507
+    name: フカヒレ・シルエット
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64式のポスター。
+    code: poster_Swimsuit2023_64type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38601
     name: デューティ・クライシス
     classes: 300
@@ -37958,6 +38254,111 @@
     decompose_gift: 100003
     description: RMB-93のポスター。
     code: poster_Dancer2023_RMB93
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38901
+    name: レッキスのフルーツティー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4A1のポスター。
+    code: poster_Dining2023_M4A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38902
+    name: 疾走のパフェ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4 SOPMODIIのポスター。
+    code: poster_Dining2023_M4 SOPMOD II
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38903
+    name: フクロウのラテ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ST AR-15のポスター。
+    code: poster_Dining2023_AR15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38904
+    name: 仙境の酒
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M16A1のポスター。
+    code: poster_Dining2023_M16A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38905
+    name: サクラシェイク
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RO635のポスター。
+    code: poster_Dining2023_RO635
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38906
+    name: 銀鈴花の騎士
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: A-545のポスター。
+    code: poster_Dining2023_A545
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38908
+    name: 羽のメイド
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ファルコンのポスター。
+    code: poster_Dining2023_Falcon
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -42183,6 +42584,21 @@
     decompose_gift: 100003
     description: M950Aのポスター。
     code: poster_BattlePass_M950A
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330015
+    name: 煙雨青綺
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 95式のポスター。
+    code: poster_BattlePass_95type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

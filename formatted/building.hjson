@@ -23530,6 +23530,7 @@
     mission_skill: 0;0;0;610091
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:1
+    name: 調合システム
     code: 2023RougeSummer_Mixer
     shifting_spot: "60,30"
     shifting_team: "-60,-30"
@@ -23553,6 +23554,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
+    name: 液体ジャミングスプレー
     code: Hiding
     shifting_spot: "60,30"
     shifting_team: "-60,-30"
@@ -23564,6 +23566,7 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    active_building_info: 2023RougeSummer_BuildMixer;液体ジャミングスプレー;0,0;610092
   }
   {
     id: 610003
@@ -23574,6 +23577,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:1
+    name: 人形潤滑オイル
     code: Hiding
     shifting_spot: "60,30"
     shifting_team: "-60,-30"
@@ -23585,6 +23589,7 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    active_building_info: 2023RougeSummer_BuildMixer;人形潤滑オイル;0,0;610093
   }
   {
     id: 610101
@@ -23709,6 +23714,7 @@
     mission_skill: 0;0;0;610091
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:1,1:1
+    name: 調合システム
     code: 2023RougeSummer_Mixer
     shifting_spot: "60,30"
     shifting_team: "-60,-30"

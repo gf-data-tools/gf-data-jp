@@ -774,6 +774,38 @@
     present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
+    item_id: 1500113
+    type: 1
+    prize_id: 140001
+    due_time: 2024/06/23 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500113
+  }
+  {
+    item_id: 1500114
+    type: 1
+    prize_id: 140002
+    due_time: 2024/06/23 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500114
+  }
+  {
+    item_id: 1500115
+    type: 2
+    drop_package_id: 2242
+    due_time: 2024/06/23 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500115
+  }
+  {
+    item_id: 1500116
+    type: 2
+    drop_package_id: 945
+    due_time: 2024/06/23 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500116
+  }
+  {
     item_id: 9500001
     type: 1
     poster: PackageImage_rank4
@@ -900,5 +932,14 @@
       【SG】：M1887、Am KSG、Saiga-12、AA-12、FP-6、S.A.T.8、M870、CAWS、DP-12、LTLX7000、M6 ASW、FO-12、M26-MASS、MK3A1、SPAS-15
       ※本アイテムの有効期限は「2024年2月27日(火) 23:59」までとなっております。終了時間には十分にお気を付けください。
       '''
+  }
+  {
+    item_id: 9500008
+    type: 1
+    poster: PackageImage_rank5
+    prize_id: 330567
+    due_time: 2024/06/27  23:59:59
+    due_prize_id: 140076
+    present_info: present-19500008
   }
 ]

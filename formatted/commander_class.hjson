@@ -478,6 +478,7 @@
     skill_id: 107
     path: CLASS51
     is_class: 1
+    des_year: "2023"
     source: 1
   }
   {
@@ -537,6 +538,20 @@
     code: commander_5640_icon
     path: CLASS56
     is_class: 1
+    des_year: "2024"
     source: 2
+  }
+  {
+    id: 57
+    name: 風味食堂
+    description: ご飯が美味しくなるような動画が観たいって？味覚だけでなく、視覚の刺激も欲しいと？問題ないさ！S09区の指揮官なら、その需要をすべて満足してみせよう！グリフィンのグルメバラエティー番組――風味食堂をお楽しみあれ！
+    group_id: "99"
+    code: commander_5731_icon
+    bonus_plastic: "130023"
+    skill_id: 108
+    path: CLASS57
+    is_class: 1
+    des_year: "2024"
+    source: 1
   }
 ]

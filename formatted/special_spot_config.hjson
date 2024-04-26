@@ -14448,7 +14448,7 @@
   }
   {
     id: 610201
-    name: special_spot_config-10610201
+    name: "[avg]-61-EXT-guide"
     description: special_spot_config-20610201
     priority: 1
     duration_type: "1"
@@ -14466,8 +14466,7 @@
   }
   {
     id: 610301
-    name: special_spot_config-10610301
-    description: special_spot_config-20610301
+    name: "[avg]-61-EXT-A1"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -14484,8 +14483,7 @@
   }
   {
     id: 610401
-    name: special_spot_config-10610401
-    description: special_spot_config-20610401
+    name: "[avg]-61-EXT-A2"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -14502,8 +14500,7 @@
   }
   {
     id: 610601
-    name: special_spot_config-10610601
-    description: special_spot_config-20610601
+    name: "[avg]-61-EXT-B1"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -14520,8 +14517,7 @@
   }
   {
     id: 610701
-    name: special_spot_config-10610701
-    description: special_spot_config-20610701
+    name: "[avg]-61-EXT-B2"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -14629,8 +14625,7 @@
   }
   {
     id: 611701
-    name: special_spot_config-10611701
-    description: special_spot_config-20611701
+    name: "[avg]-61-EXT-A2H"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -14647,8 +14642,7 @@
   }
   {
     id: 611901
-    name: special_spot_config-10611901
-    description: special_spot_config-20611901
+    name: "[avg]-61-EXT-B1H"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -19895,7 +19889,7 @@
   }
   {
     id: 1144004
-    name: special_spot_config-11144004
+    name: "[avg]-61-EXT-A3"
     description: special_spot_config-21144004
     priority: 1
     duration_type: "1"
@@ -19932,7 +19926,7 @@
   }
   {
     id: 1144304
-    name: special_spot_config-11144304
+    name: "[avg]-61-EXT-B3"
     description: special_spot_config-21144304
     priority: 1
     duration_type: "1"
@@ -20007,8 +20001,7 @@
   }
   {
     id: 1144404
-    name: special_spot_config-11144404
-    description: special_spot_config-21144404
+    name: "[avg]-61-EXT-C1"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -20026,7 +20019,7 @@
   {
     id: 1144411
     name: special_spot_config-11144411
-    description: special_spot_config-21144411
+    description: エージェントを倒す
     code: Agent
     priority: 1144411
     duration_type: "1"

@@ -26299,6 +26299,7 @@
   }
   {
     id: 610000
+    name: ミキサー初期化
     skill_group_id: 610000
     level: 1
     spot_type: "-1"
@@ -26310,6 +26311,8 @@
   }
   {
     id: 610001
+    name: 調合システム
+    description: ジャミングスプレーと潤滑オイルを調合し、新しい物質を生み出すシステム。これで余ったジャミングスプレーと潤滑オイルを無駄なく利用できる。
     skill_group_id: 610001
     level: 1
     spot_type: "-1"
@@ -26321,6 +26324,8 @@
   }
   {
     id: 610002
+    name: 液体ジャミングスプレー
+    description: ジャミング物質が大量に含まれているスプレー。敵に向けて噴射することで、電子機器などに一定のダメージを与えることができる。
     skill_group_id: 610002
     level: 1
     spot_type: "-1"
@@ -26336,6 +26341,8 @@
   }
   {
     id: 610003
+    name: 人形潤滑オイル
+    description: 軍用レベルの物資。戦術人形の素体性能を、短時間内大幅に引き上げることができる。特にジャンプ力向上の効果が一番著しい。
     skill_group_id: 610003
     level: 1
     spot_type: "-1"
@@ -26351,6 +26358,7 @@
   }
   {
     id: 610004
+    name: ジャミング-1
     skill_group_id: 610004
     level: 1
     spot_type: "-1"
@@ -26362,6 +26370,7 @@
   }
   {
     id: 610005
+    name: ジャンプ-1
     skill_group_id: 610005
     level: 1
     spot_type: "-1"
@@ -26373,6 +26382,7 @@
   }
   {
     id: 610006
+    name: ジャミング-100
     skill_group_id: 610006
     level: 1
     spot_type: "-1"
@@ -26384,6 +26394,7 @@
   }
   {
     id: 610007
+    name: ジャンプ-100
     skill_group_id: 610007
     level: 1
     spot_type: "-1"
@@ -26395,6 +26406,7 @@
   }
   {
     id: 610008
+    name: ジャミング+1
     skill_group_id: 610008
     level: 1
     spot_type: "-1"
@@ -26406,6 +26418,7 @@
   }
   {
     id: 610009
+    name: ジャンプ+1
     skill_group_id: 610009
     level: 1
     spot_type: "-1"
@@ -26417,6 +26430,7 @@
   }
   {
     id: 610010
+    name: 収拾カウント
     skill_group_id: 610010
     level: 1
     spot_type: "-1"
@@ -26429,7 +26443,9 @@
   }
   {
     id: 610011
+    name: 液体弱体スプレー
     code: 2307RG01
+    description: 目標をある程度弱体化させ、1ターン行動不能にする。
     skill_group_id: 610011
     level: 1
     spot_type: "-1"
@@ -26442,7 +26458,9 @@
   }
   {
     id: 610012
+    name: 人形動力オイル
     code: 2307RG02
+    description: 部隊を短距離ジャンプさせ、1回の戦闘の間、戦闘力をある程度向上させる。
     skill_group_id: 610012
     level: 1
     spot_type: "-1"
@@ -26455,7 +26473,9 @@
   }
   {
     id: 610013
+    name: 強力弱体スプレー
     code: 2307RG03
+    description: 目標を大幅弱体化させ、2ターン行動不能にする。
     skill_group_id: 610013
     level: 1
     spot_type: "-1"
@@ -26468,7 +26488,9 @@
   }
   {
     id: 610014
+    name: 強力動力オイル
     code: 2307RG04
+    description: 部隊を長距離ジャンプさせ、1回の戦闘の間、戦闘力を大幅向上させる。
     skill_group_id: 610014
     level: 1
     spot_type: "-1"
@@ -26481,7 +26503,9 @@
   }
   {
     id: 610015
+    name: 不安定な合成物
     code: 2307RG05
+    description: 液体スプレーとオイルを混合した物。両方の効果を同時に持つ不思議なアイテム（たぶん）。
     skill_group_id: 610015
     level: 1
     spot_type: "-1"
@@ -26494,6 +26518,8 @@
   }
   {
     id: 610021
+    name: 液体弱体スプレー
+    description: 1マス以内の敵に使用可能。目標をある程度弱体化させ、1ターン行動不能にする。
     skill_group_id: 610021
     level: 1
     spot_type: "-1"
@@ -26507,6 +26533,8 @@
   }
   {
     id: 610022
+    name: 人形動力オイル
+    description: 1マス以内の無人ポイントにジャンプし、1回の戦闘の間、戦闘力をある程度向上させる。
     skill_group_id: 610022
     level: 1
     spot_type: "-1"
@@ -26520,6 +26548,8 @@
   }
   {
     id: 610023
+    name: 強力弱体スプレー
+    description: 2マス以内の敵に使用可能。目標を大幅弱体化させ、2ターン行動不能にする。
     skill_group_id: 610023
     level: 1
     spot_type: "-1"
@@ -26533,6 +26563,8 @@
   }
   {
     id: 610024
+    name: 強力動力オイル
+    description: 3マス以内の無人ポイントにジャンプし、1回の戦闘の間、戦闘力を大幅向上させる。
     skill_group_id: 610024
     level: 1
     spot_type: "-1"
@@ -26546,6 +26578,8 @@
   }
   {
     id: 610025
+    name: 不安定な合成物
+    description: 2マス以内の敵にジャンプし、直接戦闘に入ることができる。戦闘時、敵を弱体化し、味方を強化する。
     skill_group_id: 610025
     level: 1
     spot_type: "-1"
@@ -26561,6 +26595,7 @@
   }
   {
     id: 610031
+    name: 小ジャミングクリア
     skill_group_id: 610031
     level: 1
     spot_type: "-1"
@@ -26572,6 +26607,7 @@
   }
   {
     id: 610032
+    name: 小ジャンプクリア
     skill_group_id: 610032
     level: 1
     spot_type: "-1"
@@ -26586,6 +26622,7 @@
   }
   {
     id: 610033
+    name: 大ジャミングクリア
     skill_group_id: 610033
     level: 1
     spot_type: "-1"
@@ -26597,6 +26634,7 @@
   }
   {
     id: 610034
+    name: 大ジャンプクリア
     skill_group_id: 610034
     level: 1
     spot_type: "-1"
@@ -26611,6 +26649,7 @@
   }
   {
     id: 610035
+    name: ジャミングジャンプクリア
     skill_group_id: 610035
     level: 1
     spot_type: "-1"
@@ -26624,6 +26663,7 @@
   }
   {
     id: 610091
+    description: ジャミングスプレーと潤滑オイルを調合し、新しい物質を生み出すシステム。これで余ったジャミングスプレーと潤滑オイルを無駄なく利用できる。
     skill_group_id: 610091
     level: 1
     spot_type: "-1"
@@ -26634,6 +26674,7 @@
   }
   {
     id: 610099
+    name: ミキサー初期化
     skill_group_id: 610099
     level: 1
     spot_type: "-1"
@@ -26643,6 +26684,7 @@
   }
   {
     id: 610101
+    name: 強敵多動
     skill_group_id: 610101
     level: 1
     spot_type: "-1"
@@ -37821,7 +37863,9 @@
   }
   {
     id: 6360004
+    name: ジャミング発射
     code: "1"
+    description: 周囲1マス以内の敵に一定のダメージを与え、ステータスを20%低下させる。（1ターンの間持続、重ね掛け不可）
     skill_group_id: 6360004
     level: 1
     spot_type: "-1"
@@ -37904,6 +37948,7 @@
   }
   {
     id: 6360011
+    name: EMP投擲
     code: "1"
     description: だるまさんが……転んだ！
     skill_group_id: 6360011
@@ -37935,7 +37980,9 @@
   }
   {
     id: 6360013
+    name: バフ部隊
     code: "1"
+    description: お前は強化された、行け！（1ターンの間持続）
     skill_group_id: 6360013
     level: 1
     spot_type: "-1"

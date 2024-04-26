@@ -12885,6 +12885,15 @@
     rank: 1
   }
   {
+    id: 2334
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_64type
+    item_name: フカヒレ・シルエット
+    introduction: フカヒレ・シルエット
+    rank: 1
+  }
+  {
     id: 2341
     type: 5
     arg: "1"
@@ -13110,6 +13119,24 @@
     rank: 1
   }
   {
+    id: 2370
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_WA2000
+    item_name: WA2000アイコン
+    introduction: WA2000アイコン
+    rank: 1
+  }
+  {
+    id: 2371
+    type: 5
+    arg: "1"
+    code: card_friendmall_WA2000
+    item_name: IDカード背景：コード47
+    introduction: IDカード背景：コード47
+    rank: 1
+  }
+  {
     id: 2373
     type: 5
     arg: "1"
@@ -13125,6 +13152,69 @@
     code: profilePic_BattlePass_M327
     item_name: キューティトレーナー
     introduction: キューティトレーナー
+    rank: 1
+  }
+  {
+    id: 2387
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M4A1
+    item_name: レッキスのフルーツティー
+    introduction: レッキスのフルーツティー
+    rank: 1
+  }
+  {
+    id: 2388
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M4 SOPMOD II
+    item_name: 疾走のパフェ
+    introduction: 疾走のパフェ
+    rank: 1
+  }
+  {
+    id: 2389
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_AR15
+    item_name: フクロウのラテ
+    introduction: フクロウのラテ
+    rank: 1
+  }
+  {
+    id: 2390
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M16A1
+    item_name: 仙境の酒
+    introduction: 仙境の酒
+    rank: 1
+  }
+  {
+    id: 2391
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_RO635
+    item_name: サクラシェイク
+    introduction: サクラシェイク
+    rank: 1
+  }
+  {
+    id: 2392
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_A545
+    item_name: 銀鈴花の騎士
+    introduction: 銀鈴花の騎士
+    rank: 1
+  }
+  {
+    id: 2393
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_Falcon
+    item_name: 羽のメイド
+    introduction: 羽のメイド
     rank: 1
   }
   {
@@ -13224,6 +13314,24 @@
     code: profilePic_NewYear2024_M1
     item_name: 冬の鹿鳴
     introduction: 冬の鹿鳴
+    rank: 1
+  }
+  {
+    id: 2442
+    type: 5
+    arg: "1"
+    code: card_BattlePass_95type
+    item_name: IDカード背景：猗々亭心
+    introduction: IDカード背景：猗々亭心
+    rank: 1
+  }
+  {
+    id: 2443
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_95type
+    item_name: 煙雨青綺
+    introduction: 煙雨青綺
     rank: 1
   }
   {
@@ -13865,6 +13973,33 @@
     rank: 1
   }
   {
+    id: 7051
+    type: 7
+    arg: "7045"
+    code: qjyd_20240101
+    item_name: 白銀の時代
+    introduction: 銀貨が雨のように降って来るなんて、夢の中でしか見れないと思っていたのに、よくよく考えてみたら、毎度自分がお金を使う時も、大体似たような感じだった。
+    rank: 1
+  }
+  {
+    id: 7052
+    type: 7
+    arg: "7046"
+    code: qjyd_20240102
+    item_name: 蒼き星々
+    introduction: 夜の空で輝く星々でも、我が手中の煌めきには及ばない。
+    rank: 1
+  }
+  {
+    id: 7053
+    type: 7
+    arg: "7047"
+    code: qjyd_20240103
+    item_name: 悪魔からの敬意
+    introduction: これほど、人を堕落へと誘うものはない。
+    rank: 1
+  }
+  {
     id: 7201
     type: 7
     arg: "7201"
@@ -14256,6 +14391,36 @@
     introduction: 小型のホログラムプロジェクターで出力できる未知の地形映像データ。ただ、座標データが欠損しているため、それが一体どこなのかはまだ解析中だ。
     rank: 1
     sort: -999
+  }
+  {
+    id: 9041
+    type: 1
+    arg: "9041"
+    code: 2307RG001
+    item_name: 液体ジャミングスプレー
+    introduction: ジャミング物質が大量に含まれているスプレー。敵に向けて噴射することで、電子機器などに一定のダメージを与えることができる。
+    rank: 1
+    sort: -999
+    is_hide_info: 1
+  }
+  {
+    id: 9042
+    type: 1
+    arg: "9042"
+    code: 2307RG002
+    item_name: 人形潤滑オイル
+    introduction: 軍用レベルの物資。戦術人形の素体性能を、短時間内大幅に引き上げることができる。特にジャンプ力向上の効果が一番著しい。
+    rank: 1
+    sort: -999
+    is_hide_info: 1
+  }
+  {
+    id: 9043
+    type: 1
+    arg: "9043"
+    code: mind_PT
+    item_name: 思考域の迷路PT
+    rank: 1
   }
   {
     id: 10603
@@ -15809,6 +15974,34 @@
     rank: 1
   }
   {
+    id: 100191
+    type: 4
+    arg: "100191"
+    code: Nova_medal_black
+    item_name: 新星勲章・思考域の迷路
+    introduction: 新星勲章・思考域の迷路
+    rank: 1
+  }
+  {
+    id: 100192
+    type: 4
+    arg: "100192"
+    code: Platinum_medal_black
+    item_name: 白金勲章・思考域の迷路
+    introduction: 白金勲章・思考域の迷路
+    rank: 1
+  }
+  {
+    id: 100193
+    type: 9
+    arg: "100193"
+    code: Mind_Coin
+    item_name: 思考コイン
+    introduction: 思考コイン
+    rank: 1
+    daily_limit: "60"
+  }
+  {
     id: 100199
     type: 4
     arg: "100199"
@@ -16720,6 +16913,15 @@
     rank: 1
   }
   {
+    id: 130023
+    type: 12
+    arg: "130023"
+    code: Y_Z_zhihuiguan_Restaurant
+    item_name: デンジャラスゲーム
+    introduction: ルールは簡単だ：このナイフがリンゴに当たったら、今日はお前が皿を洗え。当たらなかったら、まぁ、私がやるしかないな。
+    rank: 1
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -17010,6 +17212,26 @@
     detail_introduction: item-30140030
   }
   {
+    id: 140031
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140031
+    introduction: item-20140031
+    rank: 1
+    detail_introduction: item-30140031
+  }
+  {
+    id: 140032
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140032
+    introduction: item-20140032
+    rank: 1
+    detail_introduction: item-30140032
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -17258,6 +17480,15 @@
     rank: 1
   }
   {
+    id: 200031
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_WA2000
+    item_name: アイコンフレーム：ダークパープルの贈り物
+    introduction: アイコンフレーム：ダークパープルの贈り物
+    rank: 1
+  }
+  {
     id: 200032
     type: 1
     arg: "1"
@@ -17282,6 +17513,15 @@
     code: profileFrame_BattlePass_M950A
     item_name: アイコンフレーム：スルッと――
     introduction: アイコンフレーム：スルッと――
+    rank: 1
+  }
+  {
+    id: 200039
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_95type
+    item_name: アイコンフレーム：翠煙奚琴
+    introduction: アイコンフレーム：翠煙奚琴
     rank: 1
   }
   {
@@ -17541,6 +17781,15 @@
     code: Platinum_medal
     item_name: 白金勲章・繭中の蝶
     introduction: 白金勲章・繭中の蝶
+    rank: 1
+  }
+  {
+    id: 900057
+    type: 4
+    arg: "900057"
+    code: Bumdle_October2
+    item_name: GW物資箱
+    introduction: GW物資箱
     rank: 1
   }
   {
@@ -18652,6 +18901,46 @@
     sort: -1
   }
   {
+    id: 1500113
+    type: 15
+    arg: "1500113"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-蘭塘秋夢で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500114
+    type: 15
+    arg: "1500114"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 前線協定-蘭塘秋夢で獲得。使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500115
+    type: 15
+    arg: "1500115"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-蘭塘秋夢で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500116
+    type: 15
+    arg: "1500116"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-蘭塘秋夢で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -18745,6 +19034,16 @@
     code: Bumdle_invocation_2
     item_name: 星5人形支援要請書
     introduction: 使用することで、「2023年9月15日(金)」の前日までに実装された「星5戦術人形」から1名を要請できます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500008
+    type: 15
+    arg: "9500008"
+    code: Bumdle_invocation_3
+    item_name: GW限定人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
   }

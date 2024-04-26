@@ -15596,6 +15596,7 @@
   }
   {
     id: 1144001
+    name: 軍のユニット
     enemy_team_id: 1144001
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15603,6 +15604,7 @@
   }
   {
     id: 1144002
+    name: 軍のユニット
     enemy_team_id: 1144002
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15610,6 +15612,7 @@
   }
   {
     id: 1144003
+    name: 軍のユニット
     enemy_team_id: 1144003
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15617,6 +15620,7 @@
   }
   {
     id: 1144004
+    name: 軍のユニット
     enemy_team_id: 1144002
     ai: 102;0;0
     ai_content: 1;0;0
@@ -15654,6 +15658,7 @@
   }
   {
     id: 1145301
+    name: 軍のユニット
     enemy_team_id: 1145301
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15661,6 +15666,7 @@
   }
   {
     id: 1145302
+    name: 軍のユニット
     enemy_team_id: 1145302
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15668,6 +15674,7 @@
   }
   {
     id: 1145303
+    name: 軍のユニット
     enemy_team_id: 1145303
     ai: 103;0;0
     ai_content: 0;0;0
@@ -15675,6 +15682,7 @@
   }
   {
     id: 1145304
+    name: 軍のユニット
     enemy_team_id: 1145302
     ai: 102;0;0
     ai_content: 1;0;0
@@ -17085,6 +17093,7 @@
   }
   {
     id: 6363081
+    name: トンプソン小隊
     guns: "861,862,863,864,865"
     enemy_team_id: 1
     initial_type: 1
@@ -17096,6 +17105,7 @@
   }
   {
     id: 6363082
+    name: MP5小隊
     guns: "866,867,868,869,870"
     enemy_team_id: 1
     initial_type: 1
@@ -17131,6 +17141,7 @@
   }
   {
     id: 6363085
+    name: ネゲヴ小隊
     guns: "880,881,882,883,884"
     enemy_team_id: 1
     initial_type: 1
@@ -17142,6 +17153,7 @@
   }
   {
     id: 6363086
+    name: ウェルロッド小隊
     guns: "885,886,887,888,889"
     enemy_team_id: 1
     initial_type: 1

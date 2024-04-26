@@ -3009,49 +3009,72 @@
   {
     id: 610001
     code_a: 2023RougeSummer_Mixer
+    description_a: グリフィン
+    description_b: 調合システム
     description_c: 起動
     code_b: Console_Icon
   }
   {
     id: 610002
     code_a: 2307RGM1
+    description_a: グリフィン
+    description_b: 液体ジャミングスプレー
     description_c: 拾う
     code_b: Console_Icon
   }
   {
     id: 610003
     code_a: 2307RGM2
+    description_a: グリフィン
+    description_b: 人形潤滑オイル
     description_c: 拾う
     code_b: Console_Icon
   }
   {
     id: 610011
     code_a: 2307RG01
+    description_a: グリフィン
+    description_b: 液体弱体スプレー
+    description_c: 制作
     code_b: Console_Icon
   }
   {
     id: 610012
     code_a: 2307RG02
+    description_a: グリフィン
+    description_b: 人形動力オイル
+    description_c: 制作
     code_b: Console_Icon
   }
   {
     id: 610013
     code_a: 2307RG03
+    description_a: グリフィン
+    description_b: 強力弱体スプレー
+    description_c: 制作
     code_b: Console_Icon
   }
   {
     id: 610014
     code_a: 2307RG04
+    description_a: グリフィン
+    description_b: 強力動力オイル
+    description_c: 制作
     code_b: Console_Icon
   }
   {
     id: 610015
     code_a: 2307RG05
+    description_a: グリフィン
+    description_b: 不安定な合成物
+    description_c: 制作
     code_b: Console_Icon
   }
   {
     id: 610021
     code_a: 2307RG01
+    description_a: グリフィン
+    description_b: 液体弱体スプレー
     description_c: 使用
     code_b: Console_Icon
     is_manual_target: 2
@@ -3059,6 +3082,8 @@
   {
     id: 610022
     code_a: 2307RG02
+    description_a: グリフィン
+    description_b: 人形動力オイル
     description_c: 使用
     code_b: Console_Icon
     is_manual_target: 2
@@ -3066,6 +3091,8 @@
   {
     id: 610023
     code_a: 2307RG03
+    description_a: グリフィン
+    description_b: 強力弱体スプレー
     description_c: 使用
     code_b: Console_Icon
     is_manual_target: 2
@@ -3073,6 +3100,8 @@
   {
     id: 610024
     code_a: 2307RG04
+    description_a: グリフィン
+    description_b: 強力動力オイル
     description_c: 使用
     code_b: Console_Icon
     is_manual_target: 2
@@ -3080,6 +3109,8 @@
   {
     id: 610025
     code_a: 2307RG05
+    description_a: グリフィン
+    description_b: 不安定な合成物
     description_c: 使用
     code_b: Console_Icon
     is_manual_target: 2
@@ -3087,6 +3118,7 @@
   {
     id: 611009
     code_a: 2023RougeSummer_Mixer
+    description_a: グリフィン
     description_b: 集計
     description_c: 集計
     code_b: Console_Icon
@@ -4747,6 +4779,7 @@
     id: 6360004
     code_a: Griffin
     description_a: 味方部隊
+    description_b: バフ
     description_c: 発動
     code_b: Console_Icon
     is_manual_target: 2

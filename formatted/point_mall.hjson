@@ -11478,6 +11478,39 @@
     classification_id: 3005
   }
   {
+    id: 10431
+    type: 21
+    gem_pay: 350
+    gem: 350
+    double_gem_pay: 350
+    double_gem: 350
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 10432
+    type: 21
+    gem_pay: 740
+    gem: 740
+    double_gem_pay: 740
+    double_gem: 740
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 10433
+    type: 21
+    gem_pay: 1610
+    gem: 1610
+    double_gem_pay: 1610
+    double_gem: 1610
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
+  }
+  {
     id: 10500
     type: 6
     gem_pay: 315
@@ -11684,6 +11717,39 @@
     quota_num: 1
     prize_id: 8563
     classification_id: 3005
+  }
+  {
+    id: 10531
+    type: 21
+    gem_pay: 350
+    gem: 350
+    double_gem_pay: 350
+    double_gem: 350
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 10532
+    type: 21
+    gem_pay: 740
+    gem: 740
+    double_gem_pay: 740
+    double_gem: 740
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 10533
+    type: 21
+    gem_pay: 1610
+    gem: 1610
+    double_gem_pay: 1610
+    double_gem: 1610
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
   }
   {
     id: 20101
@@ -13661,6 +13727,39 @@
     quota_num: 1
     prize_id: 8563
     classification_id: 3005
+  }
+  {
+    id: 30192
+    type: 21
+    gem_pay: 405
+    gem: 405
+    double_gem_pay: 405
+    double_gem: 405
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 30193
+    type: 21
+    gem_pay: 800
+    gem: 800
+    double_gem_pay: 800
+    double_gem: 800
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 30194
+    type: 21
+    gem_pay: 1700
+    gem: 1700
+    double_gem_pay: 1700
+    double_gem: 1700
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
   }
   {
     id: 30501
@@ -17179,6 +17278,39 @@
     classification_id: 3005
   }
   {
+    id: 51194
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 2
+    prize_id: 1247
+    classification_id: 6003
+  }
+  {
+    id: 51195
+    type: 21
+    gem_pay: 1160
+    gem: 1160
+    double_gem_pay: 1160
+    double_gem: 1160
+    quota_num: 1
+    prize_id: 1248
+    classification_id: 6003
+  }
+  {
+    id: 51196
+    type: 21
+    gem_pay: 560
+    gem: 560
+    double_gem_pay: 560
+    double_gem: 560
+    quota_num: 10
+    prize_id: 1448
+    classification_id: 6003
+  }
+  {
     id: 60001
     type: 4
     gem_pay: 60
@@ -20039,6 +20171,102 @@
     classification_id: 6003
   }
   {
+    id: 60339
+    type: 6
+    gem_pay: 670
+    gem: 670
+    double_gem_pay: 670
+    double_gem: 670
+    quota_num: 1
+    prize_id: 8552
+  }
+  {
+    id: 60340
+    type: 6
+    gem_pay: 1045
+    gem: 1045
+    double_gem_pay: 1045
+    double_gem: 1045
+    quota_num: 1
+    prize_id: 8553
+  }
+  {
+    id: 60341
+    type: 6
+    gem_pay: 355
+    gem: 355
+    double_gem_pay: 355
+    double_gem: 355
+    quota_num: 1
+    prize_id: 8554
+  }
+  {
+    id: 60342
+    type: 10
+    gem_pay: 800
+    gem: 800
+    double_gem_pay: 800
+    double_gem: 800
+    quota_num: 1
+    prize_id: 8555
+    classification_id: 3005
+  }
+  {
+    id: 60343
+    type: 21
+    gem_pay: 1745
+    gem: 1745
+    double_gem_pay: 1745
+    double_gem: 1745
+    quota_num: 2
+    prize_id: 1259
+    classification_id: 6003
+  }
+  {
+    id: 60344
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 10
+    prize_id: 1651
+    classification_id: 6003
+  }
+  {
+    id: 60345
+    type: 21
+    gem_pay: 2820
+    gem: 2820
+    double_gem_pay: 2820
+    double_gem: 2820
+    quota_num: 1
+    prize_id: 2236
+    classification_id: 6003
+  }
+  {
+    id: 60346
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 330569
+    classification_id: 6003
+  }
+  {
+    id: 60347
+    type: 21
+    gem_pay: 555
+    gem: 555
+    double_gem_pay: 555
+    double_gem: 555
+    quota_num: 3
+    prize_id: 2238
+    classification_id: 6003
+  }
+  {
     id: 70201
     type: 21
     gem_pay: 1040
@@ -21035,6 +21263,39 @@
     quota_num: 1
     prize_id: 8563
     classification_id: 3005
+  }
+  {
+    id: 70296
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70297
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70298
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
   }
   {
     id: 70301
@@ -22035,6 +22296,39 @@
     classification_id: 3005
   }
   {
+    id: 70396
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70397
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70398
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
+  }
+  {
     id: 70401
     type: 21
     gem_pay: 1040
@@ -23031,6 +23325,39 @@
     quota_num: 1
     prize_id: 8563
     classification_id: 3005
+  }
+  {
+    id: 70496
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70497
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70498
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
   }
   {
     id: 70501
@@ -24031,6 +24358,39 @@
     classification_id: 3005
   }
   {
+    id: 70596
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70597
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70598
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
+  }
+  {
     id: 70601
     type: 21
     gem_pay: 1040
@@ -25027,6 +25387,39 @@
     quota_num: 1
     prize_id: 8563
     classification_id: 3005
+  }
+  {
+    id: 70696
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70697
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70698
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
   }
   {
     id: 70701
@@ -26027,6 +26420,39 @@
     classification_id: 3005
   }
   {
+    id: 70796
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70797
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70798
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
+  }
+  {
     id: 70801
     type: 21
     gem_pay: 1040
@@ -27025,6 +27451,39 @@
     classification_id: 3005
   }
   {
+    id: 70896
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70897
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70898
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
+  }
+  {
     id: 70901
     type: 21
     gem_pay: 1040
@@ -28021,6 +28480,39 @@
     quota_num: 1
     prize_id: 8563
     classification_id: 3005
+  }
+  {
+    id: 70996
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 2
+    prize_id: 2361
+    classification_id: 6003
+  }
+  {
+    id: 70997
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 2
+    prize_id: 2362
+    classification_id: 6003
+  }
+  {
+    id: 70998
+    type: 21
+    gem_pay: 1880
+    gem: 1880
+    double_gem_pay: 1880
+    double_gem: 1880
+    quota_num: 1
+    prize_id: 2363
+    classification_id: 6003
   }
   {
     id: 666666

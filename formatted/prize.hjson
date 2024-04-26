@@ -10035,6 +10035,13 @@
     icon: Bumdle_cashblack
   }
   {
+    id: 1704
+    name: prize-10001704
+    gem: 90
+    equip_ids: "319"
+    content: prize-20001704
+  }
+  {
     id: 1705
     name: prize-10001705
     item_ids: 121002-1
@@ -11588,6 +11595,227 @@
     id: 2020
     name: タマスダレ
     gift: 1804-1
+  }
+  {
+    id: 2104
+    name: prize-10002104
+    item_ids: 100193-6
+    content: prize-20002104
+  }
+  {
+    id: 2105
+    name: prize-10002105
+    item_ids: 100193-8
+    content: prize-20002105
+  }
+  {
+    id: 2106
+    name: prize-10002106
+    item_ids: 100193-10
+    content: prize-20002106
+  }
+  {
+    id: 2107
+    name: prize-10002107
+    item_ids: 100193-12
+    content: prize-20002107
+  }
+  {
+    id: 2108
+    name: prize-10002108
+    item_ids: 100193-15
+    content: prize-20002108
+  }
+  {
+    id: 2109
+    name: prize-10002109
+    item_ids: 100193-10,9043-2000
+    content: prize-20002109
+  }
+  {
+    id: 2110
+    name: prize-10002110
+    item_ids: 100193-10,100191-2
+    content: prize-20002110
+  }
+  {
+    id: 2111
+    name: prize-10002111
+    item_ids: 100193-10,100192-2
+    content: prize-20002111
+  }
+  {
+    id: 2112
+    name: prize-10002112
+    item_ids: 100193-10,100191-1,9043-2000
+    content: prize-20002112
+  }
+  {
+    id: 2113
+    name: prize-10002113
+    item_ids: 100193-10,100192-1
+    content: prize-20002113
+  }
+  {
+    id: 2114
+    name: prize-10002114
+    item_ids: 100193-10,100192-1,9043-2000
+    content: prize-20002114
+  }
+  {
+    id: 2115
+    name: prize-10002115
+    item_ids: 100193-12,100191-2
+    content: prize-20002115
+  }
+  {
+    id: 2116
+    name: prize-10002116
+    item_ids: 100193-12,100192-2
+    content: prize-20002116
+  }
+  {
+    id: 2117
+    name: prize-10002117
+    item_ids: 100193-15,100191-2,9043-3000
+    content: prize-20002117
+  }
+  {
+    id: 2118
+    name: prize-10002118
+    item_ids: 100193-15,100192-2
+    content: prize-20002118
+  }
+  {
+    id: 2119
+    name: prize-10002119
+    item_ids: 100193-15,100192-2,9043-3000
+    content: prize-20002119
+  }
+  {
+    id: 2120
+    name: prize-10002120
+    item_ids: 100193-15,9043-3000
+    content: prize-20002120
+  }
+  {
+    id: 2121
+    name: prize-10002121
+    item_ids: 100191-2
+    content: prize-20002121
+  }
+  {
+    id: 2122
+    name: prize-10002122
+    item_ids: 100192-2
+    content: prize-20002122
+  }
+  {
+    id: 2123
+    name: prize-10002123
+    item_ids: 100193-6,100191-1
+    content: prize-20002123
+  }
+  {
+    id: 2124
+    name: prize-10002124
+    item_ids: 100193-6,100192-1
+    content: prize-20002124
+  }
+  {
+    id: 2125
+    name: prize-10002125
+    item_ids: 100193-8,100191-1
+    content: prize-20002125
+  }
+  {
+    id: 2126
+    name: prize-10002126
+    item_ids: 100193-8,100192-1
+    content: prize-20002126
+  }
+  {
+    id: 2127
+    name: prize-10002127
+    item_ids: 100191-1
+    content: prize-20002127
+  }
+  {
+    id: 2128
+    name: prize-10002128
+    item_ids: 100192-1
+    content: prize-20002128
+  }
+  {
+    id: 2129
+    name: prize-10002129
+    furniture: "20105"
+    content: prize-20002129
+  }
+  {
+    id: 2130
+    name: prize-10002130
+    equip_ids: "353"
+    content: prize-20002130
+  }
+  {
+    id: 2131
+    name: 20000ポイント報酬
+    gift: 200001-100
+    icon: battle_report
+  }
+  {
+    id: 2132
+    name: 40000ポイント報酬
+    item_ids: 45-20
+  }
+  {
+    id: 2133
+    name: 70000ポイント報酬
+    coins: 2-200
+  }
+  {
+    id: 2134
+    name: 100000ポイント報酬
+    item_ids: 45-30
+  }
+  {
+    id: 2135
+    name: 150000ポイント報酬
+    item_ids: 44-200
+  }
+  {
+    id: 2136
+    name: 200000ポイント報酬
+    item_ids: 45-40
+  }
+  {
+    id: 2137
+    name: 250000ポイント報酬
+    coins: 2-300
+  }
+  {
+    id: 2138
+    name: 300000ポイント報酬
+    fairy_ids: 34-757184
+  }
+  {
+    id: 2236
+    name: prize-10002236
+    core: 50
+    item_ids: 41-588,45-1000,506-1000
+    gift: 100003-10
+    content: prize-20002236
+    icon: Bumdle_dragon01
+  }
+  {
+    id: 2238
+    name: prize-10002238
+    item_ids: 41-200,10603-30
+    gift: 100003-5
+    content: prize-20002238
+    icon: Bumdle_dragon05
+    bp_pay: 30
   }
   {
     id: 3001
@@ -13254,6 +13482,12 @@
     id: 5028
     name: カフェPV報酬-2023年9月大型イベント
     furniture: "20078"
+    content: 報酬受領
+  }
+  {
+    id: 5029
+    name: カフェPV報酬-2024年1月大型イベント
+    furniture: "20131"
     content: 報酬受領
   }
   {
@@ -21765,6 +21999,30 @@
     content: prize-20008551
   }
   {
+    id: 8552
+    name: prize-10008552
+    item_ids: 140031-1
+    content: prize-20008552
+  }
+  {
+    id: 8553
+    name: prize-10008553
+    item_ids: 140032-1,10606-300,200039-1,2442-1
+    content: prize-20008553
+  }
+  {
+    id: 8554
+    name: prize-10008554
+    item_ids: 140032-1,10606-300,200039-1,2442-1
+    content: prize-20008554
+  }
+  {
+    id: 8555
+    name: prize-10008555
+    gift: 30004-1
+    content: prize-20008555
+  }
+  {
     id: 9101
     name: 2018年のクリスマスの思い出写真
     item_ids: 1212-1
@@ -26545,6 +26803,42 @@
       '''
   }
   {
+    id: 12351
+    name: 改良型Largo弾
+    equip_ids: "378"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力+20
+      破甲-7
+      Z-62専用
+      '''
+  }
+  {
+    id: 12352
+    name: TMP外骨格
+    equip_ids: "379"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力-3
+      回避+42
+      TMP専用
+      '''
+  }
+  {
+    id: 12353
+    name: 高速演算チップ
+    equip_ids: "377"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力+18 射速+25
+      会心ダメージ-50%
+      L85A1専用
+      '''
+  }
+  {
     id: 12401
     name: キャンディポケット
     item_ids: 7001-1
@@ -26842,6 +27136,24 @@
     name: prize-10012450
     item_ids: 7050-1
     content: prize-20012450
+  }
+  {
+    id: 12451
+    name: prize-10012451
+    item_ids: 7051-1
+    content: prize-20012451
+  }
+  {
+    id: 12452
+    name: prize-10012452
+    item_ids: 7052-1
+    content: prize-20012452
+  }
+  {
+    id: 12453
+    name: prize-10012453
+    item_ids: 7053-1
+    content: prize-20012453
   }
   {
     id: 12501
@@ -32723,6 +33035,158 @@
     content: prize-20017434
   }
   {
+    id: 17436
+    name: 餌やり禁止-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17437
+    name: 二重保険-任務報酬
+    gift: 200001-50
+  }
+  {
+    id: 17438
+    name: 同一チャンネル干渉-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 17439
+    name: 相互変調干渉-任務報酬
+    gift: 200001-30
+  }
+  {
+    id: 17440
+    name: 隣接チャンネル干渉-任務報酬
+    item_ids: 46-30
+  }
+  {
+    id: 17441
+    name: ワープ距離-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 17442
+    name: ワープ速度-任務報酬
+    gift: 200001-30
+  }
+  {
+    id: 17443
+    name: ワープ禁止エリア-任務報酬
+    item_ids: 46-30
+  }
+  {
+    id: 17444
+    name: 双線振動-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 17445
+    name: 餌やり禁止-任務報酬
+    gift: 200001-30
+  }
+  {
+    id: 17446
+    name: 客体互換-任務報酬
+    item_ids: 46-30
+  }
+  {
+    id: 17447
+    name: 主体互換-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 17448
+    name: 終盤パズル-任務報酬
+    item_ids: 44-50
+  }
+  {
+    id: 17449
+    name: 意識次元-任務報酬
+    item_ids: 45-20
+  }
+  {
+    id: 17450
+    name: 完全プロモーション-任務報酬
+    core: 5
+  }
+  {
+    id: 17451
+    name: 同一チャンネル干渉-EX-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17452
+    name: 相互変調干渉-EX-任務報酬
+    gift: 200001-60
+  }
+  {
+    id: 17453
+    name: 隣接チャンネル干渉-EX-任務報酬
+    item_ids: 46-60
+  }
+  {
+    id: 17454
+    name: ワープ距離-EX-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17455
+    name: ワープ速度-EX-任務報酬
+    gift: 200001-60
+  }
+  {
+    id: 17456
+    name: ワープ禁止エリア-EX-任務報酬
+    item_ids: 46-60
+  }
+  {
+    id: 17457
+    name: 双線振動-EX-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17458
+    name: 餌やり禁止-EX-任務報酬
+    gift: 200001-60
+  }
+  {
+    id: 17459
+    name: 客体互換-EX-任務報酬
+    item_ids: 46-60
+  }
+  {
+    id: 17460
+    name: 主体互換-EX-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
     id: 20001
     name: 友情ポイント商品1
     mp: 2000
@@ -33919,7 +34383,7 @@
   {
     id: 30203
     name: 8ライン報酬
-    gift: 5508-1
+    gift: 8908-1
     icon: Bumdle_bline
   }
   {
@@ -43084,6 +43548,62 @@
     commander_uniform: "5552"
   }
   {
+    id: 95711
+    name: prize-10095711
+    content: prize-20095711
+    send_limit: 1
+    commander_uniform: "5711"
+  }
+  {
+    id: 95712
+    name: prize-10095712
+    content: prize-20095712
+    send_limit: 1
+    commander_uniform: "5712"
+  }
+  {
+    id: 95720
+    name: prize-10095720
+    content: prize-20095720
+    send_limit: 1
+    commander_uniform: "5720"
+  }
+  {
+    id: 95731
+    name: prize-10095731
+    content: prize-20095731
+    send_limit: 1
+    commander_uniform: "5731"
+  }
+  {
+    id: 95732
+    name: prize-10095732
+    content: prize-20095732
+    send_limit: 1
+    commander_uniform: "5732"
+  }
+  {
+    id: 95740
+    name: prize-10095740
+    content: prize-20095740
+    send_limit: 1
+    commander_uniform: "5740"
+  }
+  {
+    id: 95751
+    name: prize-10095751
+    content: prize-20095751
+    send_limit: 1
+    commander_uniform: "5751"
+  }
+  {
+    id: 95752
+    name: prize-10095752
+    content: prize-20095752
+    send_limit: 1
+    commander_uniform: "5752"
+  }
+  {
     id: 99999
     name: 初チャージ特典
     mp: 1000
@@ -44367,6 +44887,32 @@
     content: prize-20120101
   }
   {
+    id: 120102
+    name: prize-10120102
+    item_ids: 41-30,1500113-1
+    content: prize-20120102
+  }
+  {
+    id: 120103
+    name: prize-10120103
+    item_ids: 41-30
+    gift: 30015-1
+    content: prize-20120103
+  }
+  {
+    id: 120104
+    name: prize-10120104
+    item_ids: 41-30,1500114-1
+    content: prize-20120104
+  }
+  {
+    id: 120105
+    name: prize-10120105
+    gem: 680
+    item_ids: 1500115-1
+    content: prize-20120105
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -44437,6 +44983,18 @@
     name: prize-10121014
     furniture: "20021"
     content: prize-20121014
+  }
+  {
+    id: 121015
+    name: prize-10121015
+    furniture: "7244"
+    content: prize-20121015
+  }
+  {
+    id: 121016
+    name: prize-10121016
+    furniture: "7245"
+    content: prize-20121016
   }
   {
     id: 130001
@@ -44707,6 +45265,24 @@
     name: prize-10130045
     item_ids: 10606-300,200036-1,2406-1
     content: prize-20130045
+  }
+  {
+    id: 130046
+    name: prize-10130046
+    item_ids: 1500116-1
+    content: prize-20130046
+  }
+  {
+    id: 130047
+    name: prize-10130047
+    item_ids: 602-1,1500115-1,1500114-1,505-680
+    content: prize-20130047
+  }
+  {
+    id: 130048
+    name: prize-10130048
+    item_ids: 10606-300,200039-1,2442-1
+    content: prize-20130048
   }
   {
     id: 140001
@@ -45559,6 +46135,54 @@
     name: prize-10140140
     gun_id: "125"
     content: prize-20140140
+  }
+  {
+    id: 140141
+    name: prize-10140141
+    gun_id: "338"
+    content: prize-20140141
+  }
+  {
+    id: 140142
+    name: prize-10140142
+    gun_id: "337"
+    content: prize-20140142
+  }
+  {
+    id: 140143
+    name: prize-10140143
+    gun_id: "114"
+    content: prize-20140143
+  }
+  {
+    id: 140144
+    name: prize-10140144
+    gun_id: "238"
+    content: prize-20140144
+  }
+  {
+    id: 140145
+    name: prize-10140145
+    gun_id: "126"
+    content: prize-20140145
+  }
+  {
+    id: 140146
+    name: prize-10140146
+    gun_id: "365"
+    content: prize-20140146
+  }
+  {
+    id: 140147
+    name: prize-10140147
+    gun_id: "196"
+    content: prize-20140147
+  }
+  {
+    id: 140148
+    name: prize-10140148
+    gun_id: "128"
+    content: prize-20140148
   }
   {
     id: 150001
@@ -49968,5 +50592,25 @@
     item_ids: 506-100
     coins: 1-500,3-500
     content: prize-20330566
+  }
+  {
+    id: 330567
+    name: prize-10330567
+    gun_id: "356,366,367,375,376"
+    content: prize-20330567
+  }
+  {
+    id: 330568
+    name: prize-10330568
+    item_ids: 9500008-1
+    content: prize-20330568
+  }
+  {
+    id: 330569
+    name: prize-10330569
+    item_ids: 7-2
+    gift: 100003-5
+    content: prize-20330569
+    icon: Bumdle_dragon02
   }
 ]
