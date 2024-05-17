@@ -6655,6 +6655,68 @@
     class_id: 75
   }
   {
+    id: 7201
+    name: 朝日のようなステップ
+    fit_gun: 312
+    voice: 4
+    substitute_voice: VSK_0
+    dialog: フレー！フレー！ファイトオン！ふぅ……子供たちのために考えたチアダンスの振り付けですが、どうでしたか？燃え上る感じになりましたでしょうか？
+    gift_position: "-144.2,-5.6"
+    order: 87
+    class_id: 76
+  }
+  {
+    id: 7202
+    name: 杪春の夢の鳶
+    fit_gun: 129
+    voice: 4
+    substitute_voice: 95type_0
+    dialog: 指揮官指揮官！昨日ね、凧になって空を飛んだ夢を見ましたよ！……へへっ、全然怖くなかったよ、だって指揮官がずっと糸を引いてくれてましたから！
+    illustrator_cv: 鳩山井鶴,大門香実,
+    order: 87
+    class_id: 76
+  }
+  {
+    id: 7203
+    name: 冬眠の夢の守護者
+    fit_gun: 233
+    voice: 4
+    substitute_voice: Px4Storm_0
+    dialog: ちょっと、ここはわたしの縄張りなの！子分たちは今冬眠してるから、部外者は立ち入り禁止！……うぅ、そんなに入って遊びたいんなら――入場料を払え！
+    order: 87
+    class_id: 76
+  }
+  {
+    id: 7204
+    name: ペットトレーナーの日常
+    fit_gun: 305
+    voice: 4
+    substitute_voice: Tabuk_0
+    dialog: ま、待って！紐を噛んじゃダメ！それを返して……あっ、同じ側に行かないで！左右非対称になっちゃうから！ううぅ、指揮官、助けてください……！
+    order: 87
+    class_id: 76
+  }
+  {
+    id: 7205
+    name: 未来の構想家
+    fit_gun: 88
+    voice: 4
+    substitute_voice: MG3_0
+    dialog: 指揮官！これがあたいが設計したマルチ機能台車なんだ！どう？これに荷物とかを載せれば、両手が自由になるぜ！ちょっと使い方を教えてやるよ……って、あれ？なんで煙が！？
+    order: 87
+    class_id: 76
+  }
+  {
+    id: 7206
+    name: クマミミの仕立て屋
+    fit_gun: 49
+    voice: 4
+    substitute_voice: 56typeR_0
+    dialog: こうして、パンダの耳を作って、頭に被せれば、パンダとお友達になれますよ！はい、指揮官にも一個作ってあげましたよ……
+    order: 87
+    class_id: 76
+  }
+  {
     id: 7301
     name: 海辺の救助員
     fit_gun: 324
