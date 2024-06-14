@@ -2303,7 +2303,7 @@
     part: 10
     item_ids: 8-1
     title: 訓練開始
-    content: スキル訓練を初めて行う
+    content: 人形スキルを合計1回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2320,7 +2320,7 @@
     part: 20
     item_ids: 8-1
     title: 歩き出そう
-    content: スキル訓練を10回行う。
+    content: 人形スキルを合計10回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2337,7 +2337,7 @@
     part: 30
     item_ids: 8-2
     title: 習うより慣れろ
-    content: スキル訓練を50回行う。
+    content: 人形スキルを合計50回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2354,7 +2354,7 @@
     part: 60
     item_ids: 8-2
     title: 勤倹力行
-    content: スキル訓練を100回行う。
+    content: 人形スキルを合計100回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2371,7 +2371,7 @@
     part: 200
     item_ids: 8-3
     title: 慣れた仕事
-    content: スキル訓練を500回行う。
+    content: 人形スキルを合計500回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2388,7 +2388,7 @@
     part: 300
     item_ids: 8-3
     title: 最後の授業
-    content: スキル訓練を1000回行う。
+    content: 人形スキルを合計1000回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2405,7 +2405,7 @@
     part: 600
     item_ids: 8-5
     title: 鉄はこうして鍛えられた
-    content: スキル訓練を2000回行う。
+    content: 人形スキルを合計2000回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4620,7 +4620,7 @@
     part: 1000
     item_ids: 8-6
     title: キャッチ=5000
-    content: スキル訓練を累計5000回行う
+    content: 人形スキルを合計5000回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4636,7 +4636,7 @@
     part: 1300
     item_ids: 8-8
     title: コマンドー
-    content: スキル訓練を累計10000回行う
+    content: 人形スキルを合計10000回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4652,7 +4652,7 @@
     part: 1600
     item_ids: 8-10
     title: PEACE THROUGH TYRANNY
-    content: スキル訓練を累計20000回行う
+    content: 人形スキルを合計20000回以上強化する。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -8895,7 +8895,7 @@
     part: 10
     item_ids: 8-1
     title: 森の妖精
-    content: 妖精のスキルを初めてレベルアップする
+    content: 妖精スキルを合計1回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8912,7 +8912,7 @@
     part: 20
     item_ids: 8-2
     title: 谷の妖精
-    content: 妖精のスキルを10回レベルアップする
+    content: 妖精スキルを合計10回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8929,7 +8929,7 @@
     part: 30
     item_ids: 8-3
     title: 洞穴ゴブリン
-    content: 妖精のスキルを20回レベルアップする
+    content: 妖精スキルを合計20回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8946,7 +8946,7 @@
     part: 60
     item_ids: 8-4
     title: ウンディーネの泉
-    content: 妖精のスキルを50回レベルアップする
+    content: 妖精スキルを合計50回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8963,7 +8963,7 @@
     part: 200
     item_ids: 8-5
     title: 岩礁の上のセイレーン
-    content: 妖精のスキルを100回レベルアップする
+    content: 妖精スキルを合計100回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8980,7 +8980,7 @@
     part: 300
     item_ids: 8-6
     title: バンシー
-    content: 妖精のスキルを200回レベルアップする
+    content: 妖精スキルを合計200回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8997,7 +8997,7 @@
     part: 600
     item_ids: 8-7
     title: ゴルゴン三姉妹
-    content: 妖精のスキルを500回レベルアップする
+    content: 妖精スキルを合計500回以上強化する。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -9390,135 +9390,6 @@
     icon_code: 漫画
   }
   {
-    identity: 611
-    type: squad_get_secret_data
-    count: 1
-    user_exp: 30
-    item_ids: 15-10
-    title: 殺人許可証
-    content: 中枢データを初めて手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-  }
-  {
-    identity: 612
-    type: squad_get_secret_data
-    count: 10
-    user_exp: 60
-    item_ids: 15-20
-    title: ジョーカーゲーム
-    content: 中枢データを累計10個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 613
-    type: squad_get_secret_data
-    count: 20
-    user_exp: 100
-    item_ids: 15-40
-    title: ティンカー、テイラー、ドール、スパイ
-    content: 中枢データを累計20個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 614
-    type: squad_get_secret_data
-    count: 50
-    user_exp: 200
-    item_ids: 15-60
-    title: ケンブリッジ・フォー
-    content: 中枢データを累計50個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 615
-    type: squad_get_secret_data
-    count: 100
-    user_exp: 500
-    item_ids: 15-80
-    title: パンドラ・イエスタデイ
-    content: 中枢データを累計100個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 616
-    type: squad_get_secret_data
-    count: 200
-    user_exp: 1000
-    item_ids: 15-100
-    title: カオス・セオリー
-    content: 中枢データを累計200個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 617
-    type: squad_get_secret_data
-    count: 500
-    user_exp: 2000
-    item_ids: 15-150
-    title: ガンズ・オブ・ザ・グリフィン
-    content: 中枢データを累計500個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 618
-    type: squad_get_secret_data
-    count: 1000
-    user_exp: 3000
-    item_ids: 15-200
-    title: メカドッグイーター
-    content: 中枢データを累計1000個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 619
-    type: squad_get_secret_data
-    count: 2000
-    user_exp: 4000
-    item_ids: 15-250
-    title: ドーター・オブ・リバティ
-    content: 中枢データを累計2000個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 620
-    type: squad_get_secret_data
-    count: 5000
-    user_exp: 5000
-    item_ids: 15-300
-    title: 黒の旅
-    content: 中枢データを累計5000個手に入れる
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
     identity: 621
     type: squad_get_type1_unit
     count: 1
@@ -9575,272 +9446,12 @@
     unlock_function: 15
   }
   {
-    identity: 625
-    type: squad_get_chip
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: モノリス
-    content: データチップを初めて手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 626
-    type: squad_get_chip
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: ペルシカカリキュレイター
-    content: データチップを累計10個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 627
-    type: squad_get_chip
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: バベッジ階差機関
-    content: データチップを累計100個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 628
-    type: squad_get_chip
-    count: 500
-    user_exp: 200
-    item_ids: 14-60
-    title: ジャカード織機
-    content: データチップを累計500個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 629
-    type: squad_get_chip
-    count: 1000
-    user_exp: 500
-    item_ids: 14-80
-    title: ホレリスタビュレーティングマシン
-    content: データチップを累計1000個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 630
-    type: squad_get_chip
-    count: 2000
-    user_exp: 1000
-    item_ids: 14-100
-    title: ノルデン爆撃照準器
-    content: データチップを累計2000個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 631
-    type: squad_get_chip
-    count: 5000
-    user_exp: 2000
-    item_ids: 14-150
-    title: ツーゼプログラム装置
-    content: データチップを累計5000個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 632
-    type: squad_get_chip
-    count: 10000
-    user_exp: 3000
-    item_ids: 14-200
-    title: ファインマンの鉛筆
-    content: データチップを累計10000個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 633
-    type: squad_get_chip
-    count: 20000
-    user_exp: 4000
-    item_ids: 14-250
-    title: フェルミの計算尺
-    content: データチップを累計20000個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 634
-    type: squad_get_chip
-    count: 30000
-    user_exp: 5000
-    item_ids: 14-300
-    title: ノイマンの脳
-    content: データチップを累計30000個手に入れる
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 635
-    type: squad_change_data_times
-    count: 1
-    user_exp: 30
-    item_ids: 15-10
-    title: 結縄
-    content: 初めてデータ再構築を行う
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 636
-    type: squad_change_data_times
-    count: 10
-    user_exp: 60
-    item_ids: 15-20
-    title: 宿題写し
-    content: データ再構築で累計10個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 637
-    type: squad_change_data_times
-    count: 20
-    user_exp: 100
-    item_ids: 15-40
-    title: ゴーストライター
-    content: データ再構築で累計20個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 638
-    type: squad_change_data_times
-    count: 50
-    user_exp: 200
-    item_ids: 15-60
-    title: 写本修道士
-    content: データ再構築で累計50個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 639
-    type: squad_change_data_times
-    count: 100
-    user_exp: 500
-    item_ids: 15-80
-    title: 伝典聖僧
-    content: データ再構築で累計100個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 640
-    type: squad_change_data_times
-    count: 200
-    user_exp: 1000
-    item_ids: 15-100
-    title: パンチカード
-    content: データ再構築で累計200個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 641
-    type: squad_change_data_times
-    count: 500
-    user_exp: 2000
-    item_ids: 15-150
-    title: レコーディングテープ
-    content: データ再構築で累計500個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 642
-    type: squad_change_data_times
-    count: 1000
-    user_exp: 3000
-    item_ids: 15-200
-    title: フロッピーディスク
-    content: データ再構築で累計1000個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 643
-    type: squad_change_data_times
-    count: 2000
-    user_exp: 4000
-    item_ids: 15-250
-    title: 光ディスク
-    content: データ再構築で累計2000個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 644
-    type: squad_change_data_times
-    count: 5000
-    user_exp: 5000
-    item_ids: 15-300
-    title: メンタルモデル
-    content: データ再構築で累計5000個データパッチを手に入れる
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
     identity: 645
     type: squad_base_data_analyse
     count: 1
-    item_ids: 301-5
+    item_ids: 14-10
     title: プロメテウスの火
-    content: 初めて原始サンプルを使って情報解析を行う
+    content: 原始サンプルを合計1以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9849,12 +9460,12 @@
   {
     identity: 646
     type: squad_base_data_analyse
-    count: 10
+    count: 200
     user_exp: 60
     gem: 10
     item_ids: 14-20
     title: アルキメデスの浴槽
-    content: 原始サンプルを使って累計10回情報解析を行う
+    content: 原始サンプルを合計200以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9863,12 +9474,12 @@
   {
     identity: 647
     type: squad_base_data_analyse
-    count: 100
+    count: 2000
     user_exp: 100
     gem: 20
     item_ids: 14-40
     title: ピタゴラスの学派
-    content: 原始サンプルを使って累計100回情報解析を行う
+    content: 原始サンプルを合計2000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9877,12 +9488,12 @@
   {
     identity: 648
     type: squad_base_data_analyse
-    count: 200
+    count: 4000
     user_exp: 200
     gem: 30
     item_ids: 14-60
     title: エウクレイデスの幾何学
-    content: 原始サンプルを使って累計200回情報解析を行う
+    content: 原始サンプルを合計4000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9891,12 +9502,12 @@
   {
     identity: 649
     type: squad_base_data_analyse
-    count: 500
+    count: 10000
     user_exp: 500
     gem: 50
     item_ids: 14-80
     title: プトレマイオスの占星術
-    content: 原始サンプルを使って累計500回情報解析を行う
+    content: 原始サンプルを合計10000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9905,12 +9516,12 @@
   {
     identity: 650
     type: squad_base_data_analyse
-    count: 1000
+    count: 20000
     user_exp: 1000
     gem: 70
     item_ids: 14-100
     title: デカルトの座標
-    content: 原始サンプルを使って累計1000回情報解析を行う
+    content: 原始サンプルを合計20000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9919,12 +9530,12 @@
   {
     identity: 651
     type: squad_base_data_analyse
-    count: 2000
+    count: 40000
     user_exp: 2000
     gem: 90
     item_ids: 14-150
     title: ライプニッツの記法
-    content: 原始サンプルを使って累計2000回情報解析を行う
+    content: 原始サンプルを合計40000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9933,12 +9544,12 @@
   {
     identity: 652
     type: squad_base_data_analyse
-    count: 5000
+    count: 100000
     user_exp: 3000
     gem: 120
     item_ids: 14-200
     title: ニュートンのリンゴ
-    content: 原始サンプルを使って累計5000回情報解析を行う
+    content: 原始サンプルを合計100000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9947,12 +9558,12 @@
   {
     identity: 653
     type: squad_base_data_analyse
-    count: 10000
+    count: 200000
     user_exp: 4000
     gem: 160
     item_ids: 14-250
     title: ラグランジュの月
-    content: 原始サンプルを使って累計10000回情報解析を行う
+    content: 原始サンプルを合計200000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9961,12 +9572,12 @@
   {
     identity: 654
     type: squad_base_data_analyse
-    count: 20000
+    count: 400000
     user_exp: 5000
     gem: 200
     item_ids: 14-300
     title: ラプラスの悪魔
-    content: 原始サンプルを使って累計20000回情報解析を行う
+    content: 原始サンプルを合計400000以上消費する。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9979,7 +9590,7 @@
     user_exp: 30
     gem: 5
     title: ガウスの関数
-    content: 初めて純正サンプルを使って情報解析を行う
+    content: 純正サンプルを合計1以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -9988,12 +9599,12 @@
   {
     identity: 656
     type: squad_senior_data_analyse
-    count: 10
+    count: 200
     user_exp: 60
     gem: 10
     item_ids: 15-20
     title: 祖沖之の円周率
-    content: 純正サンプルを使って累計10回情報解析を行う
+    content: 純正サンプルを合計200以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10002,12 +9613,12 @@
   {
     identity: 657
     type: squad_senior_data_analyse
-    count: 50
+    count: 1000
     user_exp: 100
     gem: 20
     item_ids: 15-40
     title: パレートの効率性
-    content: 純正サンプルを使って累計50回情報解析を行う
+    content: 純正サンプルを合計1000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10016,12 +9627,12 @@
   {
     identity: 658
     type: squad_senior_data_analyse
-    count: 100
+    count: 2000
     user_exp: 200
     gem: 30
     item_ids: 15-60
     title: リーマンのゼータ関数
-    content: 純正サンプルを使って累計100回情報解析を行う
+    content: 純正サンプルを合計2000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10030,12 +9641,12 @@
   {
     identity: 659
     type: squad_senior_data_analyse
-    count: 200
+    count: 4000
     user_exp: 500
     gem: 50
     item_ids: 15-80
     title: ケプラーの予想
-    content: 純正サンプルを使って累計200回情報解析を行う
+    content: 純正サンプルを合計4000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10044,12 +9655,12 @@
   {
     identity: 660
     type: squad_senior_data_analyse
-    count: 500
+    count: 10000
     user_exp: 1000
     gem: 70
     item_ids: 15-100
     title: ブールの代数
-    content: 純正サンプルを使って累計500回情報解析を行う
+    content: 純正サンプルを合計10000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10058,12 +9669,12 @@
   {
     identity: 661
     type: squad_senior_data_analyse
-    count: 1000
+    count: 20000
     user_exp: 2000
     gem: 90
     item_ids: 15-150
     title: アーベルの方程式
-    content: 純正サンプルを使って累計1000回情報解析を行う
+    content: 純正サンプルを合計20000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10072,12 +9683,12 @@
   {
     identity: 662
     type: squad_senior_data_analyse
-    count: 2000
+    count: 40000
     user_exp: 3000
     gem: 120
     item_ids: 15-200
     title: シャノンの暗号
-    content: 純正サンプルを使って累計2000回情報解析を行う
+    content: 純正サンプルを合計40000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10086,12 +9697,12 @@
   {
     identity: 663
     type: squad_senior_data_analyse
-    count: 5000
+    count: 100000
     user_exp: 4000
     gem: 160
     item_ids: 15-250
     title: チューリングの論理
-    content: 純正サンプルを使って累計5000回情報解析を行う
+    content: 純正サンプルを合計100000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10100,12 +9711,12 @@
   {
     identity: 664
     type: squad_senior_data_analyse
-    count: 10000
+    count: 200000
     user_exp: 5000
     gem: 200
     item_ids: 15-300
     title: ナッシュの均衡
-    content: 純正サンプルを使って累計10000回情報解析を行う
+    content: 純正サンプルを合計200000以上消費する。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10118,7 +9729,7 @@
     user_exp: 30
     item_ids: 14-20,15-20
     title: 星は友情の魔法
-    content: 初めて重装部隊をランクアップ
+    content: 火力支援小隊を合計1回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10131,7 +9742,7 @@
     user_exp: 60
     item_ids: 14-40,15-40
     title: 星は素晴らしい祝福
-    content: 重装部隊のランクアップを累計5回行う
+    content: 火力支援小隊を合計5回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10144,7 +9755,7 @@
     user_exp: 100
     item_ids: 14-60,15-60
     title: 星は終わりなき冒険
-    content: 重装部隊のランクアップを累計10回行う
+    content: 火力支援小隊を合計10回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10157,7 +9768,7 @@
     user_exp: 200
     item_ids: 14-80,15-80
     title: 星は神秘の世界
-    content: 重装部隊のランクアップを累計20回行う
+    content: 火力支援小隊を合計20回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10170,7 +9781,7 @@
     user_exp: 500
     item_ids: 14-100,15-100
     title: 星は純愛の詩
-    content: 重装部隊のランクアップを累計50回行う
+    content: 火力支援小隊を合計50回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10183,7 +9794,7 @@
     user_exp: 1000
     item_ids: 14-150,15-150
     title: 星は進撃の人形
-    content: 重装部隊のランクアップを累計100回行う
+    content: 火力支援小隊を合計100回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10196,7 +9807,7 @@
     user_exp: 2000
     item_ids: 14-200,15-200
     title: 星は地獄の讃歌
-    content: 重装部隊のランクアップを累計150回行う
+    content: 火力支援小隊を合計150回以上ランクアップする。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10207,9 +9818,9 @@
     type: squad_rank_max
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: グリフィン・ハート勲章
-    content: 初めて重装部隊を最高ランクにランクアップ
+    content: 火力支援小隊を合計1部隊以上、上限までランクアップする。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10220,9 +9831,9 @@
     type: squad_rank_max
     count: 3
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: グリフィン栄誉表彰
-    content: 3個の重装部隊を最高ランクにランクアップ
+    content: 火力支援小隊を合計3部隊以上、上限までランクアップする。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10233,9 +9844,9 @@
     type: squad_rank_max
     count: 5
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: グリフィン十字紋章
-    content: 5個の重装部隊を最高ランクにランクアップ
+    content: 火力支援小隊を合計5部隊以上、上限までランクアップする。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10246,9 +9857,9 @@
     type: squad_rank_max
     count: 10
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: グリフィン英雄賞
-    content: 10個の重装部隊を最高ランクにランクアップ
+    content: 火力支援小隊を合計10部隊以上、上限までランクアップする。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10259,9 +9870,9 @@
     type: squad_rank_max
     count: 20
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: グリフィン名人殿堂
-    content: 20個の重装部隊を最高ランクにランクアップ
+    content: 火力支援小隊を合計20部隊以上、上限までランクアップする。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10272,9 +9883,9 @@
     type: squad_rank_max
     count: 30
     user_exp: 1000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: グリフィンヴァルハラ
-    content: 30個の重装部隊を最高ランクにランクアップ
+    content: 火力支援小隊を合計30部隊以上、上限までランクアップする。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10285,9 +9896,9 @@
     type: squad_level_max
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: タンクハンター
-    content: 初めて重装部隊を最高レベルに上昇させる
+    content: 火力支援小隊を合計1部隊以上、上限までレベルを上げる。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10298,9 +9909,9 @@
     type: squad_level_max
     count: 3
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 装甲殺し
-    content: 3個の重装部隊を最高レベルに上昇させる
+    content: 火力支援小隊を合計3部隊以上、上限までレベルを上げる。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10311,9 +9922,9 @@
     type: squad_level_max
     count: 5
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 鉄血清掃人
-    content: 5個の重装部隊を最高レベルに上昇させる
+    content: 火力支援小隊を合計5部隊以上、上限までレベルを上げる。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10324,9 +9935,9 @@
     type: squad_level_max
     count: 10
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 戦地の草刈り機
-    content: 10個の重装部隊を最高レベルに上昇させる
+    content: 火力支援小隊を合計10部隊以上、上限までレベルを上げる。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10337,9 +9948,9 @@
     type: squad_level_max
     count: 20
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 自走式災害
-    content: 20個の重装部隊を最高レベルに上昇させる
+    content: 火力支援小隊を合計20部隊以上、上限までレベルを上げる。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10350,142 +9961,12 @@
     type: squad_level_max
     count: 30
     user_exp: 1000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 大量破壊兵器
-    content: 30個の重装部隊を最高レベルに上昇させる
+    content: 火力支援小隊を合計30部隊以上、上限までレベルを上げる。
     type_sort: 14
     sort: 265
     icon_code: 升级
-    unlock_function: 15
-  }
-  {
-    identity: 684
-    type: squad_train_time
-    count: 1
-    user_exp: 30
-    item_ids: 46-10
-    title: 努力は必ず報われる
-    content: 初めて重装部隊の経験訓練を行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 685
-    type: squad_train_time
-    count: 10
-    user_exp: 60
-    item_ids: 46-20
-    title: good good study、day day up
-    content: 重装部隊の経験訓練を累計10時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 686
-    type: squad_train_time
-    count: 100
-    user_exp: 100
-    item_ids: 46-30
-    title: 「貴様らはウジ虫を卒業する！」
-    content: 重装部隊の経験訓練を累計100時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 687
-    type: squad_train_time
-    count: 200
-    user_exp: 200
-    item_ids: 46-50
-    title: 血を流すより汗を流す方がマシ
-    content: 重装部隊の経験訓練を累計200時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 688
-    type: squad_train_time
-    count: 500
-    user_exp: 500
-    item_ids: 46-80
-    title: 合理的訓練
-    content: 重装部隊の経験訓練を累計500時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 689
-    type: squad_train_time
-    count: 1000
-    user_exp: 1000
-    item_ids: 46-100
-    title: 不条理な体罰
-    content: 重装部隊の経験訓練を累計1000時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 690
-    type: squad_train_time
-    count: 2000
-    user_exp: 2000
-    item_ids: 46-150
-    title: 楽なのは昨日まで
-    content: 重装部隊の経験訓練を累計2000時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 691
-    type: squad_train_time
-    count: 5000
-    user_exp: 3000
-    item_ids: 46-200
-    title: 勝兵は先ず勝ちてしかる後に戦いを求め
-    content: 重装部隊の経験訓練を累計5000時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 692
-    type: squad_train_time
-    count: 10000
-    user_exp: 4000
-    item_ids: 46-250
-    title: 平和は一時の休憩
-    content: 重装部隊の経験訓練を累計10000時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 693
-    type: squad_train_time
-    count: 20000
-    user_exp: 5000
-    item_ids: 46-300
-    title: そして強くなっていた
-    content: 重装部隊の経験訓練を累計20000時間行う
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
     unlock_function: 15
   }
   {
@@ -10494,7 +9975,7 @@
     count: 1
     user_exp: 30
     title: 精密射撃訓練
-    content: 初めて重装部隊のスキル訓練を行う
+    content: 火力支援小隊のスキルを合計1回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10507,7 +9988,7 @@
     count: 10
     user_exp: 60
     title: 火力制圧訓練
-    content: 重装部隊のスキル訓練を累計10回行う
+    content: 火力支援小隊のスキルを合計10回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10520,7 +10001,7 @@
     count: 20
     user_exp: 100
     title: 陣地移動訓練
-    content: 重装部隊のスキル訓練を累計20回行う
+    content: 火力支援小隊のスキルを合計20回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10533,7 +10014,7 @@
     count: 50
     user_exp: 200
     title: ラピッドファイヤー訓練
-    content: 重装部隊のスキル訓練を累計50回行う
+    content: 火力支援小隊のスキルを合計50回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10546,7 +10027,7 @@
     count: 100
     user_exp: 500
     title: 偽装隠蔽訓練
-    content: 重装部隊のスキル訓練を累計100回行う
+    content: 火力支援小隊のスキルを合計100回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10559,7 +10040,7 @@
     count: 200
     user_exp: 1000
     title: 目標選択訓練
-    content: 重装部隊のスキル訓練を累計200回行う
+    content: 火力支援小隊のスキルを合計200回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10572,7 +10053,7 @@
     count: 500
     user_exp: 2000
     title: 地図修復訓練
-    content: 重装部隊のスキル訓練を累計500回行う
+    content: 火力支援小隊のスキルを合計500回以上強化する。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10584,9 +10065,9 @@
     type: squad_up_advanced_times
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: はじめての一声
-    content: 初めて重装部隊をバージョンアップを行う
+    content: 火力支援小隊を合計1回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10597,9 +10078,9 @@
     type: squad_up_advanced_times
     count: 5
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 戦地の轟
-    content: 重装部隊のバージョンアップを累計5回行う
+    content: 火力支援小隊を合計5回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10610,9 +10091,9 @@
     type: squad_up_advanced_times
     count: 10
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 鐘の音
-    content: 重装部隊のバージョンアップを累計10回行う
+    content: 火力支援小隊を合計10回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10623,9 +10104,9 @@
     type: squad_up_advanced_times
     count: 20
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 移動弾幕射撃
-    content: 重装部隊のバージョンアップを累計20回行う
+    content: 火力支援小隊を合計20回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10636,9 +10117,9 @@
     type: squad_up_advanced_times
     count: 50
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: クロスファイア
-    content: 重装部隊のバージョンアップを累計50回行う
+    content: 火力支援小隊を合計50回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10649,9 +10130,9 @@
     type: squad_up_advanced_times
     count: 100
     user_exp: 1000
-    item_ids: 17-15
+    item_ids: 14-1800,15-750
     title: キルゾーン
-    content: 重装部隊のバージョンアップを累計100回行う
+    content: 火力支援小隊を合計100回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10662,9 +10143,9 @@
     type: squad_up_advanced_times
     count: 200
     user_exp: 2000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: ミサイルオーケストラ
-    content: 重装部隊のバージョンアップを累計200回行う
+    content: 火力支援小隊を合計200回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10675,259 +10156,12 @@
     type: squad_up_advanced_times
     count: 300
     user_exp: 3000
-    item_ids: 17-30
+    item_ids: 14-3600,15-1500
     title: キャノンワルツ
-    content: 重装部隊のバージョンアップを累計300回行う
+    content: 火力支援小隊を合計300回以上バージョンアップする。
     type_sort: 14
     sort: 268
     icon_code: 强化
-    unlock_function: 15
-  }
-  {
-    identity: 709
-    type: squad_chip_retire_times
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: チップ分解
-    content: 初めてチップ分解を行う
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 710
-    type: squad_chip_retire_times
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: キーボードクラッシャー
-    content: データチップを累計10個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 711
-    type: squad_chip_retire_times
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: グラボディスマントラー
-    content: データチップを累計100個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 712
-    type: squad_chip_retire_times
-    count: 200
-    user_exp: 200
-    item_ids: 14-60
-    title: マザボスレイヤー
-    content: データチップを累計200個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 713
-    type: squad_chip_retire_times
-    count: 500
-    user_exp: 500
-    item_ids: 14-80
-    title: CPUキッカー
-    content: データチップを累計500個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 714
-    type: squad_chip_retire_times
-    count: 1000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 電源アルソニスト
-    content: データチップを累計1000個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 715
-    type: squad_chip_retire_times
-    count: 2000
-    user_exp: 2000
-    item_ids: 14-150
-    title: ハードディスクウォッシャー
-    content: データチップを累計2000個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 716
-    type: squad_chip_retire_times
-    count: 5000
-    user_exp: 3000
-    item_ids: 14-200
-    title: メモリークライヤー
-    content: データチップを累計5000個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 717
-    type: squad_chip_retire_times
-    count: 10000
-    user_exp: 4000
-    item_ids: 14-250
-    title: モニターソウルブレイカー
-    content: データチップを累計10000個分解する
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 718
-    type: squad_eat_chip_num
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: データチップ強化
-    content: 初めてデータチップ強化を行う
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 719
-    type: squad_eat_chip_num
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: オーバークロック初心者
-    content: データチップ強化で累計10個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 720
-    type: squad_eat_chip_num
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: オーバークロック練習者
-    content: データチップ強化で累計100個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 721
-    type: squad_eat_chip_num
-    count: 200
-    user_exp: 200
-    item_ids: 14-60
-    title: オーバークロック修行者
-    content: データチップ強化で累計200個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 722
-    type: squad_eat_chip_num
-    count: 500
-    user_exp: 500
-    item_ids: 14-80
-    title: オーバークロック挑戦者
-    content: データチップ強化で累計500個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 723
-    type: squad_eat_chip_num
-    count: 1000
-    user_exp: 1000
-    item_ids: 14-100
-    title: オーバークロック名人
-    content: データチップ強化で累計1000個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 724
-    type: squad_eat_chip_num
-    count: 2000
-    user_exp: 2000
-    item_ids: 14-150
-    title: オーバークロック達人
-    content: データチップ強化で累計2000個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 725
-    type: squad_eat_chip_num
-    count: 5000
-    user_exp: 3000
-    item_ids: 14-200
-    title: オーバークロック師範
-    content: データチップ強化で累計5000個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 726
-    type: squad_eat_chip_num
-    count: 10000
-    user_exp: 4000
-    item_ids: 14-250
-    title: オーバークロック皇帝
-    content: データチップ強化で累計10000個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 727
-    type: squad_eat_chip_num
-    count: 20000
-    user_exp: 5000
-    item_ids: 14-300
-    title: オーバークロック宇宙人
-    content: データチップ強化で累計20000個チップを消費する
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
     unlock_function: 15
   }
   {
@@ -13508,7 +12742,7 @@
     user_exp: 30
     item_ids: 515-100,516-80
     title: 初見の要領
-    content: 初めて融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計1回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13521,7 +12755,7 @@
     user_exp: 60
     item_ids: 515-150,516-100
     title: 勤勉な鍛錬
-    content: 累計10回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計10回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13534,7 +12768,7 @@
     user_exp: 100
     item_ids: 515-200,516-150
     title: それなりの成果
-    content: 累計50回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計50回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13547,7 +12781,7 @@
     user_exp: 200
     item_ids: 515-220,516-180
     title: 百戦錬磨
-    content: 累計100回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計100回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13560,7 +12794,7 @@
     user_exp: 500
     item_ids: 515-260,516-220
     title: 理論構築
-    content: 累計500回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計500回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13573,7 +12807,7 @@
     user_exp: 1000
     item_ids: 515-300,516-250
     title: テクニックの指針
-    content: 累計1000回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計1000回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13586,7 +12820,7 @@
     user_exp: 2000
     item_ids: 515-350,516-300
     title: ルールの天秤
-    content: 累計2000回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計2000回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13599,7 +12833,7 @@
     user_exp: 3000
     item_ids: 515-400,516-350
     title: スウェットの賜物
-    content: 累計5000回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計5000回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13612,7 +12846,7 @@
     user_exp: 4000
     item_ids: 515-450,516-400
     title: 戦いをもって道を示す
-    content: 累計10000回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計10000回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13625,7 +12859,7 @@
     user_exp: 5000
     item_ids: 515-500,516-450
     title: 帰真反璞
-    content: 累計20000回融合勢力ユニットのスキル訓練を行う。
+    content: 融合勢力のスキルを合計20000回以上強化する。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -15882,5 +15116,2292 @@
     sort: 308
     icon_code: 谷底回声
     condition: "11418"
+  }
+  {
+    identity: 1074
+    type: squad_get_chip
+    count: 1
+    user_exp: 30
+    item_ids: 14-10
+    title: 黒い石碑
+    content: チップを合計1個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1075
+    type: squad_get_chip
+    count: 10
+    user_exp: 60
+    item_ids: 14-20
+    title: パスカルの計算機
+    content: チップを合計10個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1076
+    type: squad_get_chip
+    count: 20
+    user_exp: 100
+    item_ids: 14-40
+    title: バベッジの階差機関
+    content: チップを合計20個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1077
+    type: squad_get_chip
+    count: 30
+    user_exp: 200
+    item_ids: 14-60
+    title: ジャカード織機
+    content: チップを合30個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1078
+    type: squad_get_chip
+    count: 50
+    user_exp: 500
+    item_ids: 14-80
+    title: ホレリスのカード穿孔機
+    content: チップを合計50個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1079
+    type: squad_get_chip
+    count: 70
+    user_exp: 1000
+    item_ids: 14-100
+    title: ノルデン爆撃照準器
+    content: チップを合計70個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1080
+    type: squad_get_chip
+    count: 100
+    user_exp: 2000
+    item_ids: 14-150
+    title: ツーゼの機械式計算機
+    content: チップを合計100個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1081
+    type: squad_get_chip
+    count: 150
+    user_exp: 3000
+    item_ids: 14-200
+    title: ファイマンの鉛筆
+    content: チップを合計150個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1082
+    type: squad_get_chip
+    count: 200
+    user_exp: 4000
+    item_ids: 14-250
+    title: フェルミの計算尺
+    content: チップを合計200個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1083
+    type: squad_get_chip
+    count: 300
+    user_exp: 5000
+    item_ids: 14-300
+    title: ノイマンの脳
+    content: チップを合計300個以上開放する。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1084
+    type: squad_eat_chip_num
+    count: 1
+    user_exp: 30
+    item_ids: 14-10
+    title: チップ強化
+    content: チップを合計1個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1085
+    type: squad_eat_chip_num
+    count: 10
+    user_exp: 60
+    item_ids: 14-20
+    title: OC入門者
+    content: チップを合計10個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1086
+    type: squad_eat_chip_num
+    count: 20
+    user_exp: 100
+    item_ids: 14-40
+    title: OC練習者
+    content: チップを合計20個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1087
+    type: squad_eat_chip_num
+    count: 30
+    user_exp: 200
+    item_ids: 14-60
+    title: OC修行者
+    content: チップを合計30個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1088
+    type: squad_eat_chip_num
+    count: 50
+    user_exp: 500
+    item_ids: 14-80
+    title: OC挑戦者
+    content: チップを合計50個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1089
+    type: squad_eat_chip_num
+    count: 70
+    user_exp: 1000
+    item_ids: 14-100
+    title: OC幻想家
+    content: チップを合計70個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1090
+    type: squad_eat_chip_num
+    count: 100
+    user_exp: 2000
+    item_ids: 14-150
+    title: OCを悟る者
+    content: チップを合計100個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1091
+    type: squad_eat_chip_num
+    count: 150
+    user_exp: 3000
+    item_ids: 14-200
+    title: OCを超える者
+    content: チップを合計150個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1092
+    type: squad_eat_chip_num
+    count: 200
+    user_exp: 4000
+    item_ids: 14-250
+    title: OCを君臨する者
+    content: チップを合計200個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1093
+    type: squad_eat_chip_num
+    count: 300
+    user_exp: 5000
+    item_ids: 14-300
+    title: 宇宙OCプレイヤー
+    content: チップを合計300個以上、上限まで強化する。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1094
+    type: different_vehicle
+    count: 1
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 57-1000,1800005-1
+    title: トリトン
+    content: 機動装甲の図鑑を合計1個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1095
+    type: different_vehicle
+    count: 2
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: オースティン
+    content: 機動装甲の図鑑を合計2個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1096
+    type: different_vehicle
+    count: 3
+    user_exp: 1500
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+    title: クリスティ
+    content: 機動装甲の図鑑を合計3個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1097
+    type: different_vehicle
+    count: 4
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: ギンツブルク
+    content: 機動装甲の図鑑を合計4個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1098
+    type: different_vehicle
+    count: 5
+    user_exp: 2500
+    mp: 2500
+    ammo: 2500
+    mre: 2500
+    part: 2500
+    title: コーシュキン
+    content: 機動装甲の図鑑を合計5個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1099
+    type: different_vehicle
+    count: 6
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: バレンタイン
+    content: 機動装甲の図鑑を合計6個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1100
+    type: different_vehicle
+    count: 7
+    user_exp: 3500
+    mp: 3500
+    ammo: 3500
+    mre: 3500
+    part: 3500
+    title: シャーマン
+    content: 機動装甲の図鑑を合計7個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1101
+    type: different_vehicle
+    count: 8
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 「ブチ」
+    content: 機動装甲の図鑑を合計8個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1102
+    type: different_vehicle
+    count: 9
+    user_exp: 4500
+    mp: 4500
+    ammo: 4500
+    mre: 4500
+    part: 4500
+    title: コーチン
+    content: 機動装甲の図鑑を合計9個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1103
+    type: different_vehicle
+    count: 10
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: カルツェフ
+    content: 機動装甲の図鑑を合計10個以上開放する。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1104
+    type: get_vehicle_component_rank5
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: レアモジュール入門
+    content: 星5の機動装甲モジュールを合計1個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1105
+    type: get_vehicle_component_rank5
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: レアモジュール学徒
+    content: 星5の機動装甲モジュールを合計5個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1106
+    type: get_vehicle_component_rank5
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: レアモジュール職人
+    content: 星5の機動装甲モジュールを合計10個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1107
+    type: get_vehicle_component_rank5
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: レアモジュール精通者
+    content: 星5の機動装甲モジュールを合計50個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1108
+    type: get_vehicle_component_rank5
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: レアモジュール専門家
+    content: 星5の機動装甲モジュールを合計100個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1109
+    type: get_vehicle_component_rank5
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133032-1,133033-1,133035-1,133036-1,133064-1,133065-1
+    title: レアモジュールマスター
+    content: 星5の機動装甲モジュールを合計500個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1110
+    type: get_vehicle_component_rank5
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: レアモジュールの達人
+    content: 星5の機動装甲モジュールを合計1000個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1111
+    type: get_vehicle_component_rank5
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: レアモジュール工場長
+    content: 星5の機動装甲モジュールを合計2000個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1112
+    type: get_vehicle_component_rank5
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: レアモジュール界の顔役
+    content: 星5の機動装甲モジュールを合計5000個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1113
+    type: get_vehicle_component_rank5
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: レアモジュールを制する者
+    content: 星5の機動装甲モジュールを合計10000個以上獲得する。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1114
+    type: get_vehicle_component_type0
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 汎用モジュール入門
+    content: 機動装甲の汎用モジュールを合計1個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1115
+    type: get_vehicle_component_type0
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 汎用モジュール学徒
+    content: 機動装甲の汎用モジュールを合計5個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1116
+    type: get_vehicle_component_type0
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 汎用モジュール職人
+    content: 機動装甲の汎用モジュールを合計10個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1117
+    type: get_vehicle_component_type0
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 汎用モジュール精通者
+    content: 機動装甲の汎用モジュールを合計50個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1118
+    type: get_vehicle_component_type0
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 汎用モジュール専門家
+    content: 機動装甲の汎用モジュールを合計100個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1119
+    type: get_vehicle_component_type0
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 汎用モジュールマスター
+    content: 機動装甲の汎用モジュールを合計500個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1120
+    type: get_vehicle_component_type0
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 汎用モジュールの達人
+    content: 機動装甲の汎用モジュールを合計1000個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1121
+    type: get_vehicle_component_type0
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 汎用モジュール工場長
+    content: 機動装甲の汎用モジュールを合計2000個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1122
+    type: get_vehicle_component_type0
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 汎用モジュール界の顔役
+    content: 機動装甲の汎用モジュールを合計5000個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1123
+    type: get_vehicle_component_type0
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 汎用モジュールを制する者
+    content: 機動装甲の汎用モジュールを合計10000個以上獲得する。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1124
+    type: get_vehicle_component_type1
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 重火器入門
+    content: 重火器モジュールを合計1個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1125
+    type: get_vehicle_component_type1
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 重火器学徒
+    content: 重火器モジュールを合計5個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1126
+    type: get_vehicle_component_type1
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 重火器職人
+    content: 重火器モジュールを合計10個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1127
+    type: get_vehicle_component_type1
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 重火器精通者
+    content: 重火器モジュールを合計50個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1128
+    type: get_vehicle_component_type1
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 重火器専門家
+    content: 重火器モジュールを合計100個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1129
+    type: get_vehicle_component_type1
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 重火器マスター
+    content: 重火器モジュールを合計500個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1130
+    type: get_vehicle_component_type1
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 重火器の達人
+    content: 重火器モジュールを合計1000個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1131
+    type: get_vehicle_component_type1
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 重火器工場長
+    content: 重火器モジュールを合計2000個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1132
+    type: get_vehicle_component_type1
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 重火器界の顔役
+    content: 重火器モジュールを合計5000個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1133
+    type: get_vehicle_component_type1
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 重火器を制する者
+    content: 重火器モジュールを合計10000個以上獲得する。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1134
+    type: get_vehicle_component_type2
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 軽火器入門
+    content: 軽火器モジュールを合計1個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1135
+    type: get_vehicle_component_type2
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 軽火器学徒
+    content: 軽火器モジュールを合計5個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1136
+    type: get_vehicle_component_type2
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 軽火器職人
+    content: 軽火器モジュールを合計10個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1137
+    type: get_vehicle_component_type2
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 軽火器精通者
+    content: 軽火器モジュールを合計50個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1138
+    type: get_vehicle_component_type2
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 軽火器専門家
+    content: 軽火器モジュールを合計100個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1139
+    type: get_vehicle_component_type2
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 軽火器マスター
+    content: 軽火器モジュールを合計500個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1140
+    type: get_vehicle_component_type2
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 軽火器の達人
+    content: 軽火器モジュールを合計1000個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1141
+    type: get_vehicle_component_type2
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 軽火器工場長
+    content: 軽火器モジュールを合計2000個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1142
+    type: get_vehicle_component_type2
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 軽火器界の顔役
+    content: 軽火器モジュールを合計5000個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1143
+    type: get_vehicle_component_type2
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 軽火器を制する者
+    content: 軽火器モジュールを合計10000個以上獲得する。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1144
+    type: get_vehicle_component_type3
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 機能モジュール入門
+    content: 機動装甲の機能モジュールを合計1個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1145
+    type: get_vehicle_component_type3
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 機能モジュール学徒
+    content: 機動装甲の機能モジュールを合計5個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1146
+    type: get_vehicle_component_type3
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 機能モジュール職人
+    content: 機動装甲の機能モジュールを合計10個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1147
+    type: get_vehicle_component_type3
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 機能モジュール精通者
+    content: 機動装甲の機能モジュールを合計50個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1148
+    type: get_vehicle_component_type3
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 機能モジュール専門家
+    content: 機動装甲の機能モジュールを合計100個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1149
+    type: get_vehicle_component_type3
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 機能モジュールマスター
+    content: 機動装甲の機能モジュールを合計500個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1150
+    type: get_vehicle_component_type3
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 機能モジュールの達人
+    content: 機動装甲の機能モジュールを合計1000個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1151
+    type: get_vehicle_component_type3
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 機能モジュール工場長
+    content: 機動装甲の機能モジュールを合計2000個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1152
+    type: get_vehicle_component_type3
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 機能モジュール界の顔役
+    content: 機動装甲の機能モジュールを合計5000個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1153
+    type: get_vehicle_component_type3
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 機能モジュールを制する者
+    content: 機動装甲の機能モジュールを合計10000個以上獲得する。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1154
+    type: get_vehicle_component_type4
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 防護モジュール入門
+    content: 機動装甲の防護モジュールを合計1個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1155
+    type: get_vehicle_component_type4
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 防護モジュール学徒
+    content: 機動装甲の防護モジュールを合計5個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1156
+    type: get_vehicle_component_type4
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 防護モジュール職人
+    content: 機動装甲の防護モジュールを合計10個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1157
+    type: get_vehicle_component_type4
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 防護モジュール精通者
+    content: 機動装甲の防護モジュールを合計50個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1158
+    type: get_vehicle_component_type4
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 防護モジュール専門家
+    content: 機動装甲の防護モジュールを合計100個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1159
+    type: get_vehicle_component_type4
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 防護モジュールマスター
+    content: 機動装甲の防護モジュールを合計500個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1160
+    type: get_vehicle_component_type4
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 防護モジュールの達人
+    content: 機動装甲の防護モジュールを合計1000個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1161
+    type: get_vehicle_component_type4
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 防護モジュール工場長
+    content: 機動装甲の防護モジュールを合計2000個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1162
+    type: get_vehicle_component_type4
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 防護モジュール界の顔役
+    content: 機動装甲の防護モジュールを合計5000個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1163
+    type: get_vehicle_component_type4
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 防護モジュールを制する者
+    content: 機動装甲の防護モジュールを合計10000個以上獲得する。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1164
+    type: vehicle_progress
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: "-0.53,53.20"
+    content: テクノロジーツリーを合計1個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1165
+    type: vehicle_progress
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: "30.30,59.90"
+    content: テクノロジーツリーを合計5個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1166
+    type: vehicle_progress
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: "7.00,51.50"
+    content: テクノロジーツリーを合計10個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1167
+    type: vehicle_progress
+    count: 15
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133037-1,133038-1,133039-1,133040-1,133041-1,133066-1,133067-1
+    title: "9.20,48.8"
+    content: テクノロジーツリーを合計15個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1168
+    type: vehicle_progress
+    count: 30
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: "36.22,49.98"
+    content: テクノロジーツリーを合計30個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1169
+    type: vehicle_progress
+    count: 45
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: "60.00,57.98"
+    content: テクノロジーツリーを合計45個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1170
+    type: vehicle_progress
+    count: 60
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: "-83.03,42.34"
+    content: テクノロジーツリーを合計60個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1171
+    type: vehicle_progress
+    count: 90
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: "-0.13,51.50"
+    content: テクノロジーツリーを合計90個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1172
+    type: vehicle_progress
+    count: 120
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: "44.45,48.70"
+    content: テクノロジーツリーを合計120個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1173
+    type: vehicle_progress
+    count: 150
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: "116.40,39.91"
+    content: テクノロジーツリーを合計150個以上開放する。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1174
+    type: vehicle_skin
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 1674 5R4.4/14
+    content: 機動装甲の設計図を合計1枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1175
+    type: vehicle_skin
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 1092 6.3YR7/9.6
+    content: 機動装甲の設計図を合計5枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1176
+    type: vehicle_skin
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: FS 13591
+    content: 機動装甲の設計図を合計10枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1177
+    type: vehicle_skin
+    count: 20
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: FS 14193
+    content: 機動装甲の設計図を合計20枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1178
+    type: vehicle_skin
+    count: 50
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: S 1560-R90B
+    content: 機動装甲の設計図を合計50枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1179
+    type: vehicle_skin
+    count: 100
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: S 3560-R90B
+    content: 機動装甲の設計図を合計100枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1180
+    type: vehicle_skin
+    count: 200
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: Ral 4007
+    content: 機動装甲の設計図を合計200枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1181
+    type: vehicle_skin
+    count: 500
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: Ral 9011
+    content: 機動装甲の設計図を合計500枚以上獲得する。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1182
+    type: vehicle_kill
+    count: 50
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: オデュッセウス
+    content: 機動装甲で戦闘に勝利し、敵を累計50体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1183
+    type: vehicle_kill
+    count: 100
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: ダイナーゲートの耐えられない重さ
+    content: 機動装甲で戦闘に勝利し、敵を累計100体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1184
+    type: vehicle_kill
+    count: 200
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 罪と罰
+    content: 機動装甲で戦闘に勝利し、敵を累計200体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1185
+    type: vehicle_kill
+    count: 500
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133056-1
+    title: カチューシャ
+    content: 機動装甲で戦闘に勝利し、敵を累計500体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1186
+    type: vehicle_kill
+    count: 1000
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 133042-1,133043-1,133044-1,133045-1,133046-1,133068-1
+    title: 野原よ、草原よ
+    content: 機動装甲で戦闘に勝利し、敵を累計1000体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1187
+    type: vehicle_kill
+    count: 2000
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: さらば恋人よ
+    content: 機動装甲で戦闘に勝利し、敵を累計2000体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1188
+    type: vehicle_kill
+    count: 5000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 老兵は死なず
+    content: 機動装甲で戦闘に勝利し、敵を累計5000体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1189
+    type: vehicle_kill
+    count: 10000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 戦争と平和
+    content: 機動装甲で戦闘に勝利し、敵を累計10000体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1190
+    type: vehicle_kill
+    count: 20000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 静かなドン
+    content: 機動装甲で戦闘に勝利し、敵を累計20000体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1191
+    type: vehicle_kill
+    count: 50000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 夜明けは静かだ
+    content: 機動装甲で戦闘に勝利し、敵を累計50000体以上倒す。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1192
+    type: vehicle_consume
+    count: 100
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 操縦初心者
+    content: 機動装甲エネルギーを合計100以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1193
+    type: vehicle_consume
+    count: 200
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 操縦入門
+    content: 機動装甲エネルギーを合計200以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1194
+    type: vehicle_consume
+    count: 500
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 操縦修行
+    content: 機動装甲エネルギーを合計500以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1195
+    type: vehicle_consume
+    count: 1000
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 操縦挑戦
+    content: 機動装甲エネルギーを合計1000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1196
+    type: vehicle_consume
+    count: 2000
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 熟練操縦
+    content: 機動装甲エネルギーを合計2000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1197
+    type: vehicle_consume
+    count: 5000
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 操縦を悟る者
+    content: 機動装甲エネルギーを合計5000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1198
+    type: vehicle_consume
+    count: 10000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 操縦のプロ
+    content: 機動装甲エネルギーを合計10000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1199
+    type: vehicle_consume
+    count: 20000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 自在操縦
+    content: 機動装甲エネルギーを合計20000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1200
+    type: vehicle_consume
+    count: 50000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 操縦マスター
+    content: 機動装甲エネルギーを合計50000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1201
+    type: vehicle_consume
+    count: 100000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 神がかりの操縦
+    content: 機動装甲エネルギーを合計100000以上消費する。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1202
+    type: vehicle_defeat_challenge_1
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: バトルカントリー：Lv1
+    content: 装甲突撃-主力戦車の第1層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1203
+    type: vehicle_defeat_challenge_1
+    count: 3
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    item_ids: 133031-1
+    title: バトルカントリー：Lv3
+    content: 装甲突撃-主力戦車の第3層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1204
+    type: vehicle_defeat_challenge_1
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: バトルカントリー：Lv5
+    content: 装甲突撃-主力戦車の第5層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1205
+    type: vehicle_defeat_challenge_1
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: バトルカントリー：Lv10
+    content: 装甲突撃-主力戦車の第10層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1206
+    type: vehicle_defeat_challenge_1
+    count: 15
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: バトルカントリー：Lv15
+    content: 装甲突撃-主力戦車の第15層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1207
+    type: vehicle_defeat_challenge_1
+    count: 20
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: バトルカントリー：Lv20
+    content: 装甲突撃-主力戦車の第20層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1208
+    type: vehicle_defeat_challenge_1
+    count: 25
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: バトルカントリー：Lv25
+    content: 装甲突撃-主力戦車の第25層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1209
+    type: vehicle_defeat_challenge_1
+    count: 30
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: バトルカントリー：Lv30
+    content: 装甲突撃-主力戦車の第30層を突破する。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1210
+    type: vehicle_defeat_challenge_2
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 灰域突撃：G
+    content: 装甲突撃-人型戦術機甲の第1層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1211
+    type: vehicle_defeat_challenge_2
+    count: 3
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 灰域突撃：S
+    content: 装甲突撃-人型戦術機甲の第3層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1212
+    type: vehicle_defeat_challenge_2
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    item_ids: 133055-1
+    title: 新・灰域突撃
+    content: 装甲突撃-人型戦術機甲の第5層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1213
+    type: vehicle_defeat_challenge_2
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133047-1,133048-1,133049-1,133050-1,133069-1
+    title: 灰域突撃：F
+    content: 装甲突撃-人型戦術機甲の第10層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1214
+    type: vehicle_defeat_challenge_2
+    count: 15
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 灰域突撃：64
+    content: 装甲突撃-人型戦術機甲の第15層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1215
+    type: vehicle_defeat_challenge_2
+    count: 20
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133051-1,133052-1,133053-1,133054-1,133070-1
+    title: 灰域突撃：EX
+    content: 装甲突撃-人型戦術機甲の第20層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1216
+    type: vehicle_defeat_challenge_2
+    count: 25
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 灰域突撃：α
+    content: 装甲突撃-人型戦術機甲の第25層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1217
+    type: vehicle_defeat_challenge_2
+    count: 30
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 灰域突撃：OG
+    content: 装甲突撃-人型戦術機甲の第30層を突破する。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1219
+    type: c_mission_win_no_battle
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 慈悲の展望
+    content: 鏡扉の永遠-突破：戦闘を行わずに勝利する。
+    type_sort: 100
+    sort: 323
+    icon_code: 慈悲的远望
+    condition: "11498,11509"
+  }
+  {
+    identity: 1220
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 第六の目
+    content: 鏡扉の永遠-夢盗み：偽装偵察を使わずに勝利する。
+    type_sort: 100
+    sort: 324
+    icon_code: 第六只眼
+    condition: 11506:640101,11517:640101
   }
 ]

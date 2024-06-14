@@ -32,7 +32,7 @@
     type: 1
     sub_type: 4
     title: 作戦能力
-    sub_title: 重装部隊
+    sub_title: 火力支援小隊
     function_control_id: 15
   }
   {
@@ -75,5 +75,13 @@
     sub_type: 4
     title: 指揮官キャリア
     sub_title: 拠点建設
+  }
+  {
+    id: 12
+    type: 1
+    sub_type: 6
+    title: 作戦能力
+    sub_title: 機動装甲
+    function_control_id: 30
   }
 ]

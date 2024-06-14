@@ -144,7 +144,7 @@
     type: squad_eat_chip_num
     count: 10
     title: チップ強化
-    describe: チップを10個デイリー強化に使う
+    describe: 自律作戦を10回行う
     function_control_id: 15
     prize_id: 30026
     activity_bonus: 20
@@ -152,10 +152,9 @@
   {
     id: 17
     type: complete_squad_daily
-    count: 3
+    count: 10
     title: 情報収集
-    describe: 情報任務を3回完了する
-    function_control_id: 15
+    describe: 人形、或いは融合勢力に10回ギフトを贈る。
     prize_id: 30027
     activity_bonus: 20
   }
@@ -164,7 +163,7 @@
     type: squad_data_analyse
     count: 10
     title: 情報解析
-    describe: 情報解析を10回行う
+    describe: ステージで火力支援小隊を10回使用する
     function_control_id: 15
     prize_id: 30028
     activity_bonus: 20

@@ -465,6 +465,27 @@
     detail_introduction: 改造&進化にて妖精に進化経験値を与えることができます。
   }
   {
+    id: 57
+    type: 1
+    arg: "1"
+    code: Energy
+    item_name: エネルギー
+    introduction: I.O.Pは傘下のエネルギー供給規格を統一したため、I.O.P制式のエネルギー供給システム一つで、すべての機動装甲にエネルギーを供給することができる。
+    rank: 1
+  }
+  {
+    id: 60
+    type: 1
+    arg: "1"
+    code: Component_EXP_Item
+    item_name: モジュール加工キット
+    introduction: 機動装甲の戦闘効率を上げるために、I.O.Pは特別なモジュール加工サービスを提供している。そしてさらなる作業効率化を図るために、I.O.Pはモジュール加工キットを提供し、各自でモジュールを改造アップグレードすることが可能となった。
+    rank: 1
+    sort: 115
+    item_access: "7"
+    detail_introduction: モジュールの開発値を100提供できる。
+  }
+  {
     id: 100
     type: 3
     arg: "1"
@@ -472,7 +493,6 @@
     item_name: グリフィン・エリート勲章
     introduction: 指揮官とその麾下の戦術人形による優れた功績を表彰する勲章。
     rank: 1
-    detail_introduction: item-30000100
   }
   {
     id: 101
@@ -706,6 +726,15 @@
     code: Medal_TheaterJPAdd2nd_rank
     item_name: 離島局地戦区征服者勲章
     introduction: 離島局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「どんな荒波にも畏れずに立ち向かえ！」
+    rank: 1
+  }
+  {
+    id: 131
+    type: 3
+    arg: "32"
+    code: Medal_SAC2045
+    item_name: 再帰者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「鏡扉の永遠」にて称えられる功績を残したことを表彰する。「水面下で逆巻く激しい暗流、それを見通したのは、あなたの目だった」
     rank: 1
   }
   {
@@ -1107,10 +1136,9 @@
     type: 1
     arg: "527"
     code: Grenade
-    item_name: item-10000527
-    introduction: item-20000527
+    item_name: 心拍数アイテム
+    introduction: 「心臓が破裂しそうだね。とりあえず鉄筋で固定しよう」（外用）
     rank: 1
-    detail_introduction: item-30000527
     is_hide_info: 1
   }
   {
@@ -1118,10 +1146,9 @@
     type: 1
     arg: "528"
     code: Grenade
-    item_name: item-10000528
-    introduction: item-20000528
+    item_name: 心拍数アイテム
+    introduction: 「心臓が破裂しそうだね。とりあえず鉄筋で固定しよう」
     rank: 1
-    detail_introduction: item-30000528
     is_hide_info: 1
   }
   {
@@ -1129,10 +1156,9 @@
     type: 1
     arg: "529"
     code: Flashbang
-    item_name: item-10000529
-    introduction: item-20000529
+    item_name: 信号アイテム
+    introduction: 「信号位相差16分42秒」（外用）
     rank: 1
-    detail_introduction: item-30000529
     is_hide_info: 1
   }
   {
@@ -1140,11 +1166,19 @@
     type: 1
     arg: "530"
     code: Flashbang
-    item_name: item-10000530
-    introduction: item-20000530
+    item_name: 信号アイテム
+    introduction: 「信号位相差16分42秒」
     rank: 1
-    detail_introduction: item-30000530
     is_hide_info: 1
+  }
+  {
+    id: 535
+    type: 1
+    arg: "1"
+    code: gun_material1_coin1
+    item_name: 模擬作戦基礎AP
+    introduction: 基礎APを消費することで、一部の模擬作戦に参加することができます。模擬作戦では、人形や妖精の強化に必要な素材を手に入れることができます。
+    rank: 1
   }
   {
     id: 601
@@ -13092,6 +13126,33 @@
     rank: 1
   }
   {
+    id: 2357
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_1
+    item_name: 思いを留めて · コードX：コロナループ
+    introduction: 思いを留めて · コードX：コロナループ
+    rank: 1
+  }
+  {
+    id: 2358
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_2
+    item_name: 願いを繋いで · コードX：コロナループ
+    introduction: 願いを繋いで · コードX：コロナループ
+    rank: 1
+  }
+  {
+    id: 2359
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_3
+    item_name: 誓いを一つに · コードX：コロナループ
+    introduction: 誓いを一つに · コードX：コロナループ
+    rank: 1
+  }
+  {
     id: 2360
     type: 5
     arg: "1"
@@ -13224,6 +13285,24 @@
     code: profilePic_BattlePass_M327
     item_name: キューティトレーナー
     introduction: キューティトレーナー
+    rank: 1
+  }
+  {
+    id: 2382
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_MLEMK1
+    item_name: リー・エンフィールドアイコン
+    introduction: リー・エンフィールドアイコン
+    rank: 1
+  }
+  {
+    id: 2383
+    type: 5
+    arg: "1"
+    code: card_friendmall_MLEMK1
+    item_name: IDカード背景：赤い杉の謝礼
+    introduction: IDカード背景：赤い杉の謝礼
     rank: 1
   }
   {
@@ -13389,6 +13468,105 @@
     rank: 1
   }
   {
+    id: 2417
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_01
+    item_name: アイコン：憂愁な凝望
+    introduction: アイコン：憂愁な凝望
+    rank: 1
+  }
+  {
+    id: 2418
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_02
+    item_name: アイコン：ピンク色の渦巻
+    introduction: アイコン：ピンク色の渦巻
+    rank: 1
+  }
+  {
+    id: 2419
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_03
+    item_name: アイコン：リンクする絆
+    introduction: アイコン：リンクする絆
+    rank: 1
+  }
+  {
+    id: 2420
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_04
+    item_name: アイコン：騎士のラストスパート
+    introduction: アイコン：騎士のラストスパート
+    rank: 1
+  }
+  {
+    id: 2421
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_05
+    item_name: アイコン：黄昏を眺めて
+    introduction: アイコン：黄昏を眺めて
+    rank: 1
+  }
+  {
+    id: 2422
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_06
+    item_name: アイコン：夜桜と酒
+    introduction: アイコン：夜桜と酒
+    rank: 1
+  }
+  {
+    id: 2423
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_01
+    item_name: IDカード背景：長い夜
+    introduction: IDカード背景：長い夜
+    rank: 1
+  }
+  {
+    id: 2424
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_02
+    item_name: IDカード背景：刺々しい真実
+    introduction: IDカード背景：刺々しい真実
+    rank: 1
+  }
+  {
+    id: 2425
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_03
+    item_name: IDカード背景：世界の果て
+    introduction: IDカード背景：世界の果て
+    rank: 1
+  }
+  {
+    id: 2426
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_04
+    item_name: IDカード背景：冷たき理想郷
+    introduction: IDカード背景：冷たき理想郷
+    rank: 1
+  }
+  {
+    id: 2427
+    type: 5
+    arg: "1"
+    code: cg_Ghost2024
+    item_name: 基地背景：タチコマの日常
+    introduction: 基地背景：タチコマの日常
+    rank: 1
+  }
+  {
     id: 2442
     type: 5
     arg: "1"
@@ -13404,6 +13582,51 @@
     code: profilePic_BattlePass_95type
     item_name: 煙雨青綺
     introduction: 煙雨青綺
+    rank: 1
+  }
+  {
+    id: 2449
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Motoko
+    item_name: ゴーストの囁き
+    introduction: ゴーストの囁き
+    rank: 1
+  }
+  {
+    id: 2450
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Ezaki
+    item_name: ゴーストハッカー
+    introduction: ゴーストハッカー
+    rank: 1
+  }
+  {
+    id: 2451
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Mizukinn
+    item_name: 夢中のレクイエム
+    introduction: 夢中のレクイエム
+    rank: 1
+  }
+  {
+    id: 2454
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M16A1
+    item_name: IDカード背景：銃声の後
+    introduction: IDカード背景：銃声の後
+    rank: 1
+  }
+  {
+    id: 2455
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M16A1
+    item_name: エージェントに休みはない
+    introduction: エージェントに休みはない
     rank: 1
   }
   {
@@ -14604,6 +14827,15 @@
     id: 10707
     type: 18
     arg: "10707"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10708
+    type: 18
+    arg: "10708"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -16083,6 +16315,62 @@
     rank: 1
   }
   {
+    id: 100204
+    type: 9
+    arg: "100204"
+    code: Coin_SAC2045
+    item_name: 砕鏡の誉
+    introduction: 砕鏡の誉
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100205
+    type: 4
+    arg: "100205"
+    code: Nova_medal_black
+    item_name: 新星勲章・鏡扉の永遠
+    introduction: 新星勲章・鏡扉の永遠
+    rank: 1
+  }
+  {
+    id: 100206
+    type: 4
+    arg: "100206"
+    code: Platinum_medal_black
+    item_name: 白金勲章・鏡扉の永遠
+    introduction: 白金勲章・鏡扉の永遠
+    rank: 1
+  }
+  {
+    id: 100207
+    type: 9
+    arg: "100207"
+    code: Scar2022
+    item_name: 半影コイン
+    introduction: 半影コイン
+    rank: 1
+    daily_limit: "120"
+  }
+  {
+    id: 100208
+    type: 4
+    arg: "100208"
+    code: Nova_medal
+    item_name: 新星勲章・エクリプス・サロス
+    introduction: 新星勲章・エクリプス・サロス
+    rank: 1
+  }
+  {
+    id: 100209
+    type: 4
+    arg: "100209"
+    code: Platinum_medal
+    item_name: 白金勲章・エクリプス・サロス
+    introduction: 白金勲章・エクリプス・サロス
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -16994,6 +17282,987 @@
     rank: 1
   }
   {
+    id: 133007
+    type: 13
+    arg: "7"
+    code: TankM1_1001_icon
+    item_name: 砂漠迷彩-主力戦車設計図
+    introduction: この黄砂色の迷彩さえあれば、砂漠の中で敵に発見される心配がなくなる。
+    rank: 5
+  }
+  {
+    id: 133008
+    type: 13
+    arg: "8"
+    code: MG_Single_1001_icon
+    item_name: 砂漠迷彩-汎用機銃MK-I
+    introduction: 普通の機銃。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133009
+    type: 13
+    arg: "9"
+    code: RF_AntiTank_1001_icon
+    item_name: 砂漠迷彩-対装甲ライフル
+    introduction: 対装甲ライフル。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133011
+    type: 13
+    arg: "10"
+    code: MG_Multi_Barrel_1001_icon
+    item_name: 砂漠迷彩-連装機銃
+    introduction: 密集射撃で支援を行う。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133012
+    type: 13
+    arg: "11"
+    code: Searchlight_1001_icon
+    item_name: 砂漠迷彩-車載暗視装置
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133013
+    type: 13
+    arg: "12"
+    code: Flame_Ejector_1001_icon
+    item_name: 砂漠迷彩-火炎放射器
+    introduction: 近距離戦用の火炎放射器。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133014
+    type: 13
+    arg: "13"
+    code: MG_Cannon_1001_icon
+    item_name: 砂漠迷彩-機関砲
+    introduction: 小口径の砲弾を使用する。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133015
+    type: 13
+    arg: "14"
+    code: GrenadeComponent_1001_icon
+    item_name: 砂漠迷彩-グレネードランチャー
+    introduction: 多機能な発射装置。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133016
+    type: 13
+    arg: "15"
+    code: Laser_Weapon_1001_icon
+    item_name: 砂漠迷彩-ビーム砲
+    introduction: 対複数用ビーム砲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133017
+    type: 13
+    arg: "16"
+    code: Cannon_1001_icon
+    item_name: 砂漠迷彩-キャノン砲
+    introduction: 殺傷力に優れた火砲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133018
+    type: 13
+    arg: "17"
+    code: Flak_Cannon_1001_icon
+    item_name: 砂漠迷彩-高射キャノン砲
+    introduction: 射程に特化したキャノン砲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133019
+    type: 13
+    arg: "18"
+    code: Pulse_Cannon_1001_icon
+    item_name: 砂漠迷彩-パルスキャノン砲
+    introduction: 近距離で連続ダメージを与えるキャノン砲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133020
+    type: 13
+    arg: "19"
+    code: Armor_Cannon_1001_icon
+    item_name: 砂漠迷彩-装甲キャノン砲
+    introduction: 装甲防護を厚くしたキャノン砲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133021
+    type: 13
+    arg: "20"
+    code: Interference_Gun_1001_icon
+    item_name: 砂漠迷彩-ジャミング機銃
+    introduction: 機械ユニットを干渉するジャミング弾を発射する。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133022
+    type: 13
+    arg: "21"
+    code: Jammer_1001_icon
+    item_name: 砂漠迷彩-ジャミング装置
+    introduction: 広範囲でジャミングを行う支援装備。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133023
+    type: 13
+    arg: "22"
+    code: Signal_Tower_1001_icon
+    item_name: 砂漠迷彩-信号塔
+    introduction: 味方を強化する支援装備。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133024
+    type: 13
+    arg: "23"
+    code: Smoke_Emitter_1001_icon
+    item_name: 砂漠迷彩-発煙弾発射機
+    introduction: 煙幕を作り出し、敵を攪乱することができる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133025
+    type: 13
+    arg: "24"
+    code: Small_Missile_Launcher_1001_icon
+    item_name: 砂漠迷彩-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133026
+    type: 13
+    arg: "25"
+    code: Medium_Missile_Launcher_1001_icon
+    item_name: 砂漠迷彩-ミサイルランチャーMK2
+    introduction: 友軍に火力支援を行うことができる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133027
+    type: 13
+    arg: "26"
+    code: Electromagnetic_Artillery_1001_icon
+    item_name: 砂漠迷彩-レールガン
+    introduction: 強力なメイン兵装。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133028
+    type: 13
+    arg: "27"
+    code: Protective_Generator_1001_icon
+    item_name: 砂漠迷彩-自動防衛システム
+    introduction: 複数の武器を自動で切り替えることができる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133029
+    type: 13
+    arg: "28"
+    code: Rotating_Turret_1001_icon
+    item_name: 砂漠迷彩-回転砲塔
+    introduction: ドローンを発進させることができる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133030
+    type: 13
+    arg: "29"
+    code: UAV_Compartment_1001_icon
+    item_name: 砂漠迷彩-ドローン格納庫
+    introduction: 機体の防御力を強化するシステム。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133031
+    type: 13
+    arg: "30"
+    code: TankM1_1002_icon
+    item_name: 都市迷彩-主力戦車設計図
+    introduction: コンクリートジャングルの、ハンターと獲物。
+    rank: 5
+  }
+  {
+    id: 133032
+    type: 13
+    arg: "31"
+    code: MG_Single_1002_icon
+    item_name: 都市迷彩-汎用機銃MK-I
+    introduction: 普通の機銃。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133033
+    type: 13
+    arg: "32"
+    code: RF_AntiTank_1002_icon
+    item_name: 都市迷彩-対装甲ライフル
+    introduction: 対装甲ライフル。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133035
+    type: 13
+    arg: "33"
+    code: MG_Multi_Barrel_1002_icon
+    item_name: 都市迷彩-連装機銃
+    introduction: オプション式の多銃身機銃。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133036
+    type: 13
+    arg: "34"
+    code: Searchlight_1002_icon
+    item_name: 都市迷彩-車載暗視装置
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133037
+    type: 13
+    arg: "35"
+    code: Flame_Ejector_1002_icon
+    item_name: 都市迷彩-火炎放射器
+    introduction: 近距離戦用の火炎放射器。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133038
+    type: 13
+    arg: "36"
+    code: MG_Cannon_1002_icon
+    item_name: 都市迷彩-機関砲
+    introduction: 小口径の砲弾を使用する機関砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133039
+    type: 13
+    arg: "37"
+    code: GrenadeComponent_1002_icon
+    item_name: 都市迷彩-グレネードランチャー
+    introduction: 多機能な発射装置。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133040
+    type: 13
+    arg: "38"
+    code: Laser_Weapon_1002_icon
+    item_name: 都市迷彩-ビーム砲
+    introduction: 対複数用ビーム砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133041
+    type: 13
+    arg: "39"
+    code: Cannon_1002_icon
+    item_name: 都市迷彩-キャノン砲
+    introduction: 殺傷力に優れた火砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133042
+    type: 13
+    arg: "40"
+    code: Flak_Cannon_1002_icon
+    item_name: 都市迷彩-高射キャノン砲
+    introduction: 射程に特化したキャノン砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133043
+    type: 13
+    arg: "41"
+    code: Pulse_Cannon_1002_icon
+    item_name: 都市迷彩-パルスキャノン砲
+    introduction: 近距離で連続ダメージを与えるキャノン砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133044
+    type: 13
+    arg: "42"
+    code: Armor_Cannon_1002_icon
+    item_name: 都市迷彩-装甲キャノン砲
+    introduction: 装甲防護を厚くしたキャノン砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133045
+    type: 13
+    arg: "43"
+    code: Interference_Gun_1002_icon
+    item_name: 都市迷彩-ジャミング機銃
+    introduction: 機械ユニットを干渉するジャミング弾を発射する。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133046
+    type: 13
+    arg: "44"
+    code: Jammer_1002_icon
+    item_name: 都市迷彩-ジャミング装置
+    introduction: 広範囲でジャミングを行う支援装備。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133047
+    type: 13
+    arg: "45"
+    code: Signal_Tower_1002_icon
+    item_name: 都市迷彩-信号塔
+    introduction: 味方を強化する支援装備。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133048
+    type: 13
+    arg: "46"
+    code: Smoke_Emitter_1002_icon
+    item_name: 都市迷彩-発煙弾発射機
+    introduction: 煙幕を作り出し、敵を攪乱することができる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133049
+    type: 13
+    arg: "47"
+    code: Small_Missile_Launcher_1002_icon
+    item_name: 都市迷彩-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133050
+    type: 13
+    arg: "48"
+    code: Medium_Missile_Launcher_1002_icon
+    item_name: 都市迷彩-ミサイルランチャーMK2
+    introduction: 友軍に火力支援を行うことができる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133051
+    type: 13
+    arg: "49"
+    code: Electromagnetic_Artillery_1002_icon
+    item_name: 都市迷彩-レールガン
+    introduction: 強力なメイン兵装。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133052
+    type: 13
+    arg: "50"
+    code: Protective_Generator_1002_icon
+    item_name: 都市迷彩-自動防衛システム
+    introduction: 複数の武器を自動で切り替えることができる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133053
+    type: 13
+    arg: "51"
+    code: Rotating_Turret_1002_icon
+    item_name: 都市迷彩-回転砲塔
+    introduction: ドローンを発進させることができる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133054
+    type: 13
+    arg: "52"
+    code: UAV_Compartment_1002_icon
+    item_name: 都市迷彩-ドローン格納庫
+    introduction: 機体の防御力を強化するシステム。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133055
+    type: 13
+    arg: "53"
+    code: Warjack_1001_icon
+    item_name: 砂漠迷彩-人型戦術機甲設計図
+    introduction: この黄砂色の迷彩さえあれば、砂漠の中で敵に発見される心配がなくなる。
+    rank: 5
+  }
+  {
+    id: 133056
+    type: 13
+    arg: "54"
+    code: Warjack_1002_icon
+    item_name: 都市迷彩-人型戦術機甲設計図
+    introduction: コンクリートジャングルの、ハンターと獲物。
+    rank: 5
+  }
+  {
+    id: 133057
+    type: 13
+    arg: "46"
+    code: LMGCom_1001_icon
+    item_name: 砂漠迷彩-軽機関銃
+    introduction: 小口径の機銃。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133058
+    type: 13
+    arg: "47"
+    code: ElecGun_1001_icon
+    item_name: 砂漠迷彩-軽量化速射レールガン
+    introduction: 火力と引き換えに射速が向上したレールガン。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133059
+    type: 13
+    arg: "48"
+    code: AutoDef_1001_icon
+    item_name: 砂漠迷彩-シールドリアクター
+    introduction: 機体の防御力を強化するシステム。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133060
+    type: 13
+    arg: "49"
+    code: LaserSup_1001_icon
+    item_name: 砂漠迷彩-レーザー制圧装置
+    introduction: 敵の照準を攪乱する装置。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133061
+    type: 13
+    arg: "50"
+    code: HMGCom_1001_icon
+    item_name: 砂漠迷彩-重機関銃
+    introduction: 火力を重視した機銃。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133062
+    type: 13
+    arg: "51"
+    code: PAR_1001_icon
+    item_name: 砂漠迷彩-フェーズドアレイレーダー
+    introduction: 広範囲の探知レーダー。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133063
+    type: 13
+    arg: "52"
+    code: ERA_1001_icon
+    item_name: 砂漠迷彩-爆発反応装甲
+    introduction: 徹甲弾などの攻撃に対応できる。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133064
+    type: 13
+    arg: "46"
+    code: LMGCom_1002_icon
+    item_name: 都市迷彩-軽機関銃
+    introduction: 小口径の機銃。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133065
+    type: 13
+    arg: "47"
+    code: ElecGun_1002_icon
+    item_name: 都市迷彩-軽量化速射レールガン
+    introduction: 火力と引き換えに射速が向上したレールガン。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133066
+    type: 13
+    arg: "48"
+    code: AutoDef_1002_icon
+    item_name: 都市迷彩-シールドリアクター
+    introduction: 機体の防御力を強化するシステム。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133067
+    type: 13
+    arg: "49"
+    code: LaserSup_1002_icon
+    item_name: 都市迷彩-レーザー制圧装置
+    introduction: 敵の照準を攪乱する装置。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133068
+    type: 13
+    arg: "50"
+    code: HMGCom_1002_icon
+    item_name: 都市迷彩-重機関銃
+    introduction: 火力を重視した機銃。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133069
+    type: 13
+    arg: "51"
+    code: PAR_1002_icon
+    item_name: 都市迷彩-フェーズドアレイレーダー
+    introduction: 広範囲の探知レーダー。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133070
+    type: 13
+    arg: "52"
+    code: ERA_1002_icon
+    item_name: 都市迷彩-爆発反応装甲
+    introduction: 徹甲弾などの攻撃に対応できる。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133071
+    type: 13
+    arg: "49"
+    code: TankM1_1003_icon
+    item_name: KV-2（メガロドン）-主力戦車設計図
+    introduction: サメの塗装はこの鋼鉄の怪物に実に相応しい。
+    rank: 5
+  }
+  {
+    id: 133072
+    type: 13
+    arg: "50"
+    code: TankM1_1004_icon
+    item_name: KV-2（雪原迷彩）-主力戦車設計図
+    introduction: こいつと比べたら、雪崩も所詮そんなものよ。
+    rank: 5
+  }
+  {
+    id: 133073
+    type: 13
+    arg: "51"
+    code: TankM1_1005_icon
+    item_name: ヴァーディクト（フェルトグラウ）-主力戦車設計図
+    introduction: この滑らかなライフリングを見るがいい！こいつが初めて火を噴くところを見る幸運なやつはどいつになるんだ？
+    rank: 5
+  }
+  {
+    id: 133074
+    type: 13
+    arg: "52"
+    code: TankM1_1006_icon
+    item_name: ヴァーディクト（雪原迷彩）-主力戦車設計図
+    introduction: どんなに寒くても、こいつの主砲は火を噴くのを止めないぜ。
+    rank: 5
+  }
+  {
+    id: 133075
+    type: 13
+    arg: "53"
+    code: TankM1_1007_icon
+    item_name: ヴァーディクト（砂漠迷彩）-主力戦車設計図
+    introduction: エンジンを鳴らせ！この轟を砂漠中に響かせろ！
+    rank: 5
+  }
+  {
+    id: 133076
+    type: 13
+    arg: "54"
+    code: TankM1_1008_icon
+    item_name: ヴァーディクト（森林迷彩）-主力戦車設計図
+    introduction: 山よ！川よ！森よ！こいつの無限軌道はどこまでも突き進むぜ！
+    rank: 5
+  }
+  {
+    id: 133077
+    type: 13
+    arg: "55"
+    code: Warjack_1009_icon
+    item_name: TCW48-A3メタルクロー-人型戦術機甲設計図
+    introduction: 心をコントロールしろ。冷静こそ最強の武器だ。
+    rank: 5
+  }
+  {
+    id: 133078
+    type: 13
+    arg: "55"
+    code: Flame_Ejector_1009_icon
+    item_name: TCW48-A3メタルクロー-火炎放射器
+    introduction: メタルクロー用の火炎放射器。近接戦闘で敵を焼き払い尽くす。
+    rank: 5
+  }
+  {
+    id: 133079
+    type: 13
+    arg: "55"
+    code: MG_Multi_Barrel_1009_icon
+    item_name: TCW48-A3メタルクロー-ガトリングガン
+    introduction: メタルクロー用のガトリングガン。密集射撃で支援を行うことができる。
+    rank: 5
+  }
+  {
+    id: 133080
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1009_icon
+    item_name: TCW48-A3メタルクロー-機関砲
+    introduction: メタルクロー用の機関砲。小口径の砲弾を使用する。
+    rank: 5
+  }
+  {
+    id: 133081
+    type: 13
+    arg: "55"
+    code: Protective_Generator_1009_icon
+    item_name: TCW48-A3メタルクロー-シールドリアクター
+    introduction: メタルクロー用のシールドリアクター。機体の防御力を強化できる。
+    rank: 5
+  }
+  {
+    id: 133082
+    type: 13
+    arg: "55"
+    code: Jammer_1009_icon
+    item_name: TCW48-A3メタルクロー-ジャミング装置
+    introduction: メタルクロー用のジャミング装置。広範囲でジャミングを行うことができる。
+    rank: 5
+  }
+  {
+    id: 133083
+    type: 13
+    arg: "55"
+    code: TankM1_1010
+    item_name: ペガサス-主力戦車設計図
+    introduction: 重量と機動力の完璧なバランス！
+    rank: 5
+  }
+  {
+    id: 133084
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1010
+    item_name: ペガサス-発煙弾発射機
+    introduction: ペガサス用の発煙弾発射機。煙幕を作り出し、敵を攪乱することができる。
+    rank: 5
+  }
+  {
+    id: 133085
+    type: 13
+    arg: "55"
+    code: Medium_Missile_Launcher_1010
+    item_name: ペガサス-ミサイルランチャーMK2
+    introduction: ペガサス用の中型ミサイルランチャー。友軍に強力な火力支援を行うことができる。
+    rank: 5
+  }
+  {
+    id: 133086
+    type: 13
+    arg: "55"
+    code: ElecGun_1010
+    item_name: ペガサス-軽量化速射レールガン
+    introduction: ペガサス用の軽量化速射レールガン。速射性に優れている。
+    rank: 5
+  }
+  {
+    id: 133087
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1010
+    item_name: ペガサス-機関砲
+    introduction: ペガサス用の機関砲。小口径の砲弾を使用するが、範囲ダメージを与えることができる。
+    rank: 5
+  }
+  {
+    id: 133088
+    type: 13
+    arg: "55"
+    code: Jammer_1010
+    item_name: ペガサス-ジャミング装置
+    introduction: ペガサス用のジャミング装置。広範囲でジャミングを行うことができる。
+    rank: 5
+  }
+  {
+    id: 133089
+    type: 13
+    arg: "55"
+    code: MG_Single_1003_icon
+    item_name: KV-2（汎用塗装）-汎用機銃MK-I
+    introduction: 普通の機銃。KV-2のあらゆる塗装にマッチする。
+    rank: 5
+  }
+  {
+    id: 133090
+    type: 13
+    arg: "55"
+    code: Searchlight_1003_icon
+    item_name: KV-2（メガロドン）-車載暗視装置
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。メガロドン塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133091
+    type: 13
+    arg: "55"
+    code: Protective_Generator_1003_icon
+    item_name: KV-2（メガロドン）-自動防衛システム
+    introduction: 機体の防御力を強化するシステム。メガロドン塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133092
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1003_icon
+    item_name: KV-2（メガロドン）-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。メガロドン塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133093
+    type: 13
+    arg: "55"
+    code: Flame_Ejector_1003_icon
+    item_name: KV-2（メガロドン）-火炎放射器
+    introduction: 近距離戦用の火炎放射器。メガロドン塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133094
+    type: 13
+    arg: "55"
+    code: Searchlight_1004_icon
+    item_name: KV-2（雪原迷彩）-車載暗視装置
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133095
+    type: 13
+    arg: "55"
+    code: Protective_Generator_1004_icon
+    item_name: KV-2（雪原迷彩）-自動防衛システム
+    introduction: 機体の防御力を強化するシステム。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133096
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1004_icon
+    item_name: KV-2（雪原迷彩）-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133097
+    type: 13
+    arg: "55"
+    code: Flame_Ejector_1004_icon
+    item_name: KV-2（雪原迷彩）-火炎放射器
+    introduction: 近距離戦用の火炎放射器。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133098
+    type: 13
+    arg: "55"
+    code: Flak_Cannon_1005_icon
+    item_name: ヴァーディクト（フェルトグラウ）-高射キャノン砲
+    introduction: 射程に特化したキャノン砲。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133099
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1005_icon
+    item_name: ヴァーディクト（フェルトグラウ）-発煙弾発射機
+    introduction: 煙幕を作り出し、敵を攪乱することができる。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133100
+    type: 13
+    arg: "55"
+    code: Signal_Tower_1005_icon
+    item_name: ヴァーディクト（フェルトグラウ）-信号塔
+    introduction: 味方を強化する支援装備。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133101
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1005_icon
+    item_name: ヴァーディクト（フェルトグラウ）-機関砲
+    introduction: 小口径の砲弾を使用する機関砲。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133102
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1005_icon
+    item_name: ヴァーディクト（フェルトグラウ）-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133103
+    type: 13
+    arg: "55"
+    code: Flak_Cannon_1006_icon
+    item_name: ヴァーディクト（汎用塗装）-高射キャノン砲
+    introduction: 射程に特化したキャノン砲。ヴァーディクトのあらゆる塗装にマッチする。
+    rank: 5
+  }
+  {
+    id: 133104
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1006_icon
+    item_name: ヴァーディクト（雪原迷彩）-発煙弾発射機
+    introduction: 煙幕を作り出し、敵を攪乱することができる。雪原迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133105
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1006_icon
+    item_name: ヴァーディクト（雪原迷彩）-機関砲
+    introduction: 小口径の砲弾を使用する機関砲。雪原迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133106
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1006_icon
+    item_name: ヴァーディクト（雪原迷彩）-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。雪原迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133107
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1007_icon
+    item_name: ヴァーディクト（汎用塗装）-発煙弾発射機
+    introduction: 煙幕を作り出し、敵を攪乱することができる。ヴァーディクトのあらゆる塗装にマッチする。
+    rank: 5
+  }
+  {
+    id: 133108
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1007_icon
+    item_name: ヴァーディクト（砂漠迷彩）-機関砲
+    introduction: 小口径の砲弾を使用する機関砲。砂漠迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133109
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1007_icon
+    item_name: ヴァーディクト（砂漠迷彩）-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。砂漠迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133110
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1008_icon
+    item_name: ヴァーディクト（森林迷彩）-機関砲
+    introduction: 小口径の砲弾を使用する機関砲。森林迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133111
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1008_icon
+    item_name: ヴァーディクト（森林迷彩）-ミサイルランチャーMK1
+    introduction: ピンポイントなミサイル攻撃を行うことができる。森林迷彩塗装のヴァーディクトに沿った塗装をしている。
+    rank: 5
+  }
+  {
+    id: 133112
+    type: 13
+    arg: "55"
+    code: TankM1_1011
+    item_name: 麒麟-主力戦車設計図
+    introduction: 我らは敵を叩き伏せる獅子、我らは勝利をもたらす麒麟。
+    rank: 5
+  }
+  {
+    id: 133113
+    type: 13
+    arg: "55"
+    code: GrenadeComponent_1011
+    item_name: 麒麟-グレネードランチャー
+    introduction: 麒麟用のグレネードランチャー。様々な弾薬を発射することができる。
+    rank: 5
+  }
+  {
+    id: 133114
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1011
+    item_name: 麒麟-発煙弾発射機
+    introduction: 麒麟用の発煙弾発射機。煙幕を作り出し、敵を攪乱することができる。
+    rank: 5
+  }
+  {
+    id: 133115
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1011
+    item_name: 麒麟-レーザー制圧装置
+    introduction: 麒麟用のレーザー制圧装置。敵の照準を攪乱することができる。
+    rank: 5
+  }
+  {
+    id: 133116
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1011
+    item_name: 麒麟-ミサイルランチャーMK1
+    introduction: 麒麟用の小型ミサイルランチャー。ピンポイントなミサイル攻撃を行うことができる。
+    rank: 5
+  }
+  {
+    id: 133117
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1011
+    item_name: 麒麟-機関砲
+    introduction: 麒麟用の機関砲。小口径の砲弾を使用するが、範囲ダメージを与えることができる。
+    rank: 5
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -17304,10 +18573,48 @@
     detail_introduction: item-30140032
   }
   {
+    id: 140033
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140033
+    introduction: item-20140033
+    rank: 1
+    detail_introduction: item-30140033
+  }
+  {
+    id: 140034
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140034
+    introduction: item-20140034
+    rank: 1
+    detail_introduction: item-30140034
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
     code: PT
+    rank: 1
+  }
+  {
+    id: 161000
+    type: 1
+    arg: "1"
+    code: PT
+    item_name: タレウス-協力者の姿
+    introduction: タレウス-協力者の姿
+    rank: 1
+  }
+  {
+    id: 161001
+    type: 1
+    arg: "1"
+    code: PT
+    item_name: サナ-協力者の姿
+    introduction: サナ-協力者の姿
     rank: 1
   }
   {
@@ -17570,6 +18877,15 @@
     rank: 1
   }
   {
+    id: 200033
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_MLEMK1
+    item_name: アイコンフレーム：勇敢の殊勲
+    introduction: アイコンフレーム：勇敢の殊勲
+    rank: 1
+  }
+  {
     id: 200034
     type: 1
     arg: "1"
@@ -17597,6 +18913,15 @@
     rank: 1
   }
   {
+    id: 200042
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M16A1
+    item_name: アイコンフレーム：灯火の塵
+    introduction: アイコンフレーム：灯火の塵
+    rank: 1
+  }
+  {
     id: 900030
     type: 4
     arg: "900030"
@@ -17604,7 +18929,6 @@
     item_name: 新星勲章
     introduction: 新星勲章
     rank: 1
-    detail_introduction: item-30900030
   }
   {
     id: 900031
@@ -17614,7 +18938,6 @@
     item_name: 白金勲章
     introduction: 白金勲章
     rank: 1
-    detail_introduction: item-30900031
   }
   {
     id: 900032
@@ -17872,6 +19195,7 @@
     item_name: ハイスピード・ビューティ
     introduction: 火力号令によって自身とPzB39へ与える効果が、さらに10%上昇する。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100002
@@ -17881,6 +19205,7 @@
     item_name: ハイスピード・ビューティ
     introduction: グリズリーと同じ部隊にいる場合、照準にかかる時間が1秒に短縮され、1秒ごとに行うチャージの回数が2回に増加する。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100003
@@ -17890,6 +19215,7 @@
     item_name: 銀河の誓い
     introduction: FI M82と同じ部隊にいる場合、FI M82の通常攻撃によって自身正面の敵ユニットへ与えるダメージが10％上昇する。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100004
@@ -17899,6 +19225,7 @@
     item_name: 銀河の誓い
     introduction: 自身の正面をAK-Alfaの正面とも見なす。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100005
@@ -17912,6 +19239,7 @@
       Gr G36とスプリングフィールドが同じ部隊にいる時、Gr G36が隊の仲間にデザートを振る舞い、士気を上げる。また、火力集中の効果が味方ユニットに適用される(効果は15%まで低下する)――食べ過ぎには注意してくださいね。
       '''
     rank: 1
+    item_access: "27"
   }
   {
     id: 1100006
@@ -17925,6 +19253,7 @@
       Gr G36とスプリングフィールドが同じ部隊にいる時、スプリングフィールドが隊の仲間にコーヒーを振る舞い、士気を上げる。また、チャージ回数が1回増えるたび、5秒間、味方全体の射速を5%上昇させる(最大5重まで累積)――砂糖の入れ過ぎにはご注意を。
       '''
     rank: 1
+    item_access: "27"
   }
   {
     id: 1100007
@@ -17938,6 +19267,7 @@
       MPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。
       '''
     rank: 1
+    item_access: "28"
   }
   {
     id: 1100008
@@ -17951,26 +19281,27 @@
       MPKとMPLが隣り合わせの場合、スキル発動後、スキルの効果範囲が2マスになる。
       '''
     rank: 1
+    item_access: "29"
   }
   {
     id: 1100009
     type: 11
     arg: "10"
     code: fetter_skill
-    item_name: item-11100009
-    introduction: item-21100009
+    item_name: 同じ光輝
+    introduction: SCAR-LとSCAR-Hが同時に場にいる場合、自身は毎秒太陽エネルギーを5ポイントを獲得する。
     rank: 1
-    detail_introduction: item-31100009
+    item_access: "30"
   }
   {
     id: 1100010
     type: 11
     arg: "10"
     code: fetter_skill
-    item_name: item-11100010
-    introduction: item-21100010
+    item_name: 同じ光輝
+    introduction: SCAR-LとSCAR-Hが同時に場にいる場合、自身は毎秒月エネルギーを5ポイントを獲得する。
     rank: 1
-    detail_introduction: item-31100010
+    item_access: "31"
   }
   {
     id: 1500009
@@ -19013,6 +20344,46 @@
     sort: -1
   }
   {
+    id: 1500120
+    type: 15
+    arg: "1500120"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-ウィスキー・ストームで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500121
+    type: 15
+    arg: "1500121"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-ウィスキー・ストームで獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500122
+    type: 15
+    arg: "1500122"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-ウィスキー・ストームで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500123
+    type: 15
+    arg: "1500123"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-ウィスキー・ストームで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -19038,6 +20409,216 @@
     item_name: 幸運の手紙
     introduction: 幸運の手紙を願いのポストに入れると、抽選でグッズが当たる可能性があります！
     rank: 1
+  }
+  {
+    id: 1700001
+    type: 15
+    arg: "1700001"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700002
+    type: 15
+    arg: "1700002"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700003
+    type: 15
+    arg: "1700003"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800001
+    type: 15
+    arg: "1800001"
+    code: package_random
+    item_name: 軍用品質武器モジュールボックス
+    introduction: 必ず★5重火器/軽火器モジュールを獲得できる。
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800002
+    type: 15
+    arg: "1800002"
+    code: package_random
+    item_name: 軍用品質機能モジュールボックス
+    introduction: 必ず★5機能/防御/汎用モジュールを獲得できる。
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800003
+    type: 15
+    arg: "1800003"
+    code: package_random
+    item_name: 専門品質モジュールボックス
+    introduction: 中確率で★5モジュールを獲得できる。
+    rank: 4
+    sort: -1
+  }
+  {
+    id: 1800004
+    type: 15
+    arg: "1800004"
+    code: package_random
+    item_name: 工業品質モジュールボックス
+    introduction: 低確率で★5モジュールを獲得できる。
+    rank: 3
+    sort: -1
+  }
+  {
+    id: 1800005
+    type: 15
+    arg: "1800005"
+    code: package_random
+    item_name: 通常品質モジュールボックス
+    introduction: モジュールを獲得できる。
+    rank: 2
+    sort: -1
+  }
+  {
+    id: 1800006
+    type: 15
+    arg: "1800006"
+    code: package_random
+    item_name: 精密品質重火器モジュールボックス
+    introduction: 必ず★5重火器/汎用モジュールを獲得できる。
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800007
+    type: 15
+    arg: "1800007"
+    code: package_random
+    item_name: 精密品質軽火器モジュールボックス
+    introduction: 必ず★5軽火器/汎用モジュールを獲得できる。
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800008
+    type: 15
+    arg: "1800008"
+    code: package_random
+    item_name: 軍用品質武器モジュールボックス2.0
+    introduction: 必ず★5重火器/軽火器モジュールを獲得できる。
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800009
+    type: 15
+    arg: "1800009"
+    code: package_random
+    item_name: 軍用品質機能モジュールボックス2.0
+    introduction: 必ず★5機能/防御/汎用モジュールを獲得できる。
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800011
+    type: 15
+    arg: "1800011"
+    code: package_choose
+    item_name: ★5モジュール指定ビーコン
+    introduction: ★5モジュール指定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800012
+    type: 15
+    arg: "1800012"
+    code: package_choose
+    item_name: ★4モジュール指定ビーコン
+    introduction: ★4モジュール指定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800013
+    type: 15
+    arg: "1800013"
+    code: package_choose
+    item_name: ★3モジュール指定ビーコン
+    introduction: ★3モジュール指定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800021
+    type: 15
+    arg: "1800021"
+    code: package_choose
+    item_name: ★5モジュール複数指定ビーコン
+    introduction: ★5モジュール複数指定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800022
+    type: 15
+    arg: "1800022"
+    code: package_choose
+    item_name: ★4モジュール複数指定ビーコン
+    introduction: ★4モジュール複数指定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800023
+    type: 15
+    arg: "1800023"
+    code: package_choose
+    item_name: ★3モジュール複数指定ビーコン
+    introduction: ★3モジュール複数指定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800031
+    type: 15
+    arg: "1800031"
+    code: package_choose
+    item_name: ★5モジュール固定ビーコン
+    introduction: ★5モジュール固定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800032
+    type: 15
+    arg: "1800032"
+    code: package_choose
+    item_name: ★4モジュール固定ビーコン
+    introduction: ★4モジュール固定ビーコン
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1800033
+    type: 15
+    arg: "1800033"
+    code: package_choose
+    item_name: ★3モジュール固定ビーコン
+    introduction: ★3モジュール固定ビーコン
+    rank: 1
+    sort: -1
   }
   {
     id: 9500001

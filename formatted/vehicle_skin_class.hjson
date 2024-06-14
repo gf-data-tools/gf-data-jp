@@ -1,0 +1,72 @@
+[
+  {
+    id: 1
+    name: 汎用型-砂漠迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1001_set,2:Warjack_1001_set
+    desc: 機動装甲用の砂漠迷彩塗装設計図。様々な機体やモジュールにマッチする。
+  }
+  {
+    id: 2
+    name: 汎用型-都市迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1002_set,2:Warjack_1002_set
+    desc: 機動装甲用の都市迷彩塗装設計図。様々な機体やモジュールにマッチする。
+  }
+  {
+    id: 3
+    name: KV2-メガロドン
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1003_set
+    desc: 主力戦車KV2用のメガロドン塗装設計図。
+  }
+  {
+    id: 4
+    name: KV2-雪原迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1004_set
+    desc: 主力戦車KV2用の雪原迷彩塗装設計図。
+  }
+  {
+    id: 5
+    name: ヴァーディクト-フェルトグラウ
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1005_set
+    desc: 主力戦車ヴァーディクト用のフェルトグラウ塗装設計図。
+  }
+  {
+    id: 6
+    name: ヴァーディクト-雪原迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1006_set
+    desc: 主力戦車ヴァーディクト用の雪原迷彩塗装設計図。
+  }
+  {
+    id: 7
+    name: ヴァーディクト-砂漠迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1007_set
+    desc: 主力戦車ヴァーディクト用の砂漠迷彩塗装設計図。
+  }
+  {
+    id: 8
+    name: ヴァーディクト-森林迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1008_set
+    desc: 主力戦車ヴァーディクト用の森林迷彩塗装設計図。
+  }
+  {
+    id: 9
+    name: TCW48-A3メタルクロー
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1009_set
+    desc: 人型戦術機甲TCW48-A3メタルクローの設計図。コクピット内の埃問題をうまく解決したようだ。
+  }
+  {
+    id: 11
+    name: 麒麟
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1011_set
+    desc: 主力戦車麒麟の設計図。効率厨のイチオシ。
+  }
+]

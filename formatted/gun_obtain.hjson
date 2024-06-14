@@ -164,8 +164,13 @@
   }
   {
     obtain_id: 39
-    description: 妖精製造にて獲得
+    description: -妖精製造にて獲得
     goto_page_id: 380
+  }
+  {
+    obtain_id: 40
+    description: -装甲風格ショップにて購入可能
+    goto_page_id: 407
   }
   {
     obtain_id: 101
@@ -416,6 +421,18 @@
   {
     obtain_id: 259
     description: -期間限定イベント【慢性虚脱】物資箱で獲得
+  }
+  {
+    obtain_id: 260
+    description: -期間限定イベント【鏡扉の永遠】クリア報酬
+  }
+  {
+    obtain_id: 261
+    description: -期間限定イベント【鏡扉の永遠】人質救援で獲得
+  }
+  {
+    obtain_id: 262
+    description: -期間限定イベント【鏡扉の永遠】ショップ引換
   }
   {
     obtain_id: 301
@@ -1179,7 +1196,7 @@
   }
   {
     obtain_id: 3082
-    description: gun_obtain-10003082
+    description: -2024年6月ログイン報酬
   }
   {
     obtain_id: 3083
@@ -1245,6 +1262,10 @@
   {
     obtain_id: 3098
     description: 期間限定イベント＜思考域の迷路＞アイテム交換
+  }
+  {
+    obtain_id: 3113
+    description: 期間限定イベント<鏡扉の永遠>アイテム交換
   }
   {
     obtain_id: 20001

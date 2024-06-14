@@ -169,8 +169,8 @@
     type: 1
     mission_campaign: "-56"
     draw_event_id: "400,401,402,403,404"
-    start_time: 2023-03-10 13:00:00
-    end_time: 2023-03-31 13:00:00
+    start_time: 2024-05-31 13:00:00
+    end_time: 2024-06-14 13:00:00
     init_mission_id: "11243"
   }
   {
@@ -214,6 +214,27 @@
     start_time: 2024-04-26 00:00:00
     end_time: 2024-05-17 13:00:00
     init_mission_id: "11436"
+  }
+  {
+    id: 40
+    type: 2
+    mission_campaign: "-10006"
+    init_mission_id: "11484,11485"
+  }
+  {
+    id: 41
+    type: 2
+    mission_campaign: "-23"
+    init_mission_id: "10105"
+  }
+  {
+    id: 48
+    type: 1
+    mission_campaign: "-64"
+    draw_event_id: "400,401,402,403,404"
+    start_time: 2024-06-14 13:00:00
+    end_time: 2024-07-05 13:00:00
+    init_mission_id: "11499"
   }
   {
     id: 10001

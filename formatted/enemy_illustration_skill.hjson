@@ -1178,6 +1178,8 @@
   }
   {
     id: 221
+    name: プロトコルリセット
+    description: 敵を検知すると、ゴリアテを増援として製造し始める。
   }
   {
     id: 222
@@ -1187,31 +1189,42 @@
   {
     id: 223
     name: 手榴弾EX
-    description:
-      '''
-      目標のいる地点に手榴弾を投擲し、2.5ヤード内のユニットに1.8倍のダメージを与える。
-      この攻撃にはリンク保護は適用されない。
-      '''
+    description: 目標のエリアに向け手榴弾を投げる。範囲2.5ヤード内のユニットに対し、1.8倍のLink保護無視ダメージを与える。
   }
   {
     id: 224
-    name: 二丁拳銃射撃
-    description: メイン武器とサブ武器を使用し同時攻撃を行い、サブ武器によって50％の追加ダメージを与える。
+    name: 二丁持ち
+    description: メイン武器とサブ武器で同時に攻撃する。サブ武器は50%のダメージを与える。
   }
   {
     id: 225
-    name: カバー保護
-    description: 自身正面にカバーを設置し、敵を挑発する。カバーの後ろに隠れている単位は被ダメージが減少する。
+    name: 遮蔽物防御
+    description: 自身の前方に遮蔽物を生成し、敵を挑発する。遮蔽物の後方にいるユニットは、被ダメージが軽減される。
   }
   {
     id: 226
     name: 手榴弾戦術α
-    description: ランダムに敵に手榴弾を投擲し、敵に対しリンク保護無視ダメージを与え、めまい状態を付与する。
+    description: 敵がいるマスに向けてランダムに手榴弾を投げる。Link保護無視ダメージを与え、目まい状態にする。
   }
   {
     id: 227
     name: 手榴弾戦術β
-    description: HPの最も多い敵に手榴弾を投擲し，敵に対しリンク保護無視ダメージを与え、追加ダメージを与える。
+    description: HPがもっとも高いユニットに向け、手榴弾を投げる。Link保護無視ダメージを与えた後、さらに追加のダメージを与える。
+  }
+  {
+    id: 228
+    name: 二刀切り
+    description: もっとも近い目標に対し2回シールド無視のダメージを与える。
+  }
+  {
+    id: 229
+    name: エネルギー・アヴァランチ
+    description: もっとも近い目標に対し、エナジーボールを投げ、Link保護無視ダメージを与える。
+  }
+  {
+    id: 230
+    name: エネルギー・インパクト
+    description: HPがもっとも高いユニットに向けエナジーボールを発射する。自身のLink数が高いほど、与えるダメージが上昇する。
   }
   {
     id: 999
@@ -1320,38 +1333,38 @@
   }
   {
     id: 10052
-    name: enemy_illustration_skill-10010052
-    description: enemy_illustration_skill-20010052
+    name: 狂乱爆撃
+    description: ゴリアテをランダムに投げ、爆発ダメージを与え目標を拘束する。
   }
   {
     id: 10053
-    name: enemy_illustration_skill-10010053
-    description: enemy_illustration_skill-20010053
+    name: 調停
+    description: 拘束された目標を攻撃した時、シールドを獲得し、目標の拘束を解除する。
   }
   {
     id: 10054
-    name: enemy_illustration_skill-10010054
-    description: enemy_illustration_skill-20010054
+    name: 舞台裏
+    description: 都会に囚われし者を召喚する。
   }
   {
     id: 10055
-    name: enemy_illustration_skill-10010055
-    description: enemy_illustration_skill-20010055
+    name: 舞い降りる闇
+    description: 混乱マークをランダムに付与する。一定時間後、混乱マークを起爆し、一定の確率で目標を混乱させる。
   }
   {
     id: 10056
-    name: enemy_illustration_skill-10010056
-    description: enemy_illustration_skill-20010056
+    name: 火力全開
+    description: 自身の火力を大幅に上昇させる。
   }
   {
     id: 10057
-    name: enemy_illustration_skill-10010057
-    description: enemy_illustration_skill-20010057
+    name: ピンポイント攻撃
+    description: HPがもっとも低いユニットに対し射撃を行う。
   }
   {
     id: 10058
-    name: enemy_illustration_skill-10010058
-    description: enemy_illustration_skill-20010058
+    name: 負傷への恐怖
+    description: RPGモードに切り替わる。ユニットを撃破した時、シールドを獲得する。
   }
   {
     id: 10087

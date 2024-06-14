@@ -233,7 +233,7 @@
   {
     id: 720
     name: 鋼鉄の的
-    desc: 10秒ごとに、リンク5/各HP1000のターゲットドローンを1グループ召喚する。
+    desc: 10秒ごとに、Link5、HP1000のターゲットドローンを1組召喚する。
     if_display: 1
     code: fight_skill_hurt103
     skill_group: "990017"
@@ -573,6 +573,42 @@
     if_display: 1
     code: fight_skill_buff101
     skill_group: "756231"
+  }
+  {
+    id: 230901
+    name: 開幕凍結
+    desc:
+      '''
+      戦闘開始時、敵全体を5秒間めまい状態にする。
+      <color=#CF8000>この効果は1ターン持続する</color>
+      '''
+    if_display: 1
+    code: assess202309fightskill_1
+    skill_group: "759262"
+  }
+  {
+    id: 230902
+    name: 強襲の地
+    desc:
+      '''
+      戦闘開始時、敵全体に5秒間の被ダメージ20%増加を付与する。
+      <color=#CF8000>この効果は1ターン持続する</color>
+      '''
+    if_display: 1
+    code: assess202309fightskill_2
+    skill_group: "759263"
+  }
+  {
+    id: 230903
+    name: 範囲支援
+    desc:
+      '''
+      戦闘中、5秒おきに、敵全体に3000ダメージと1000破砕を与える。
+      <color=#CF8000>この効果は1ターン持続する</color>
+      '''
+    if_display: 1
+    code: assess202309fightskill_3
+    skill_group: "759264"
   }
   {
     id: 1133001
@@ -1473,7 +1509,7 @@
   {
     id: 12022801
     name: 陽動作戦
-    desc: 戦闘開始時、Link5の挑発ドローンを1組呼び出す。ドローン1LinkのHPは1000。
+    desc: 戦闘開始時、Link5、HP1000のターゲットドローンを1組召喚する。
     if_display: 1
     code: daily_game_28
     skill_group: "120228"

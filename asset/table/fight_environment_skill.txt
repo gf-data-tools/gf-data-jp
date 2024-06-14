@@ -53,7 +53,7 @@ fight_environment_skill-20000718,3秒ごとに味方の前衛人形の回避と�
 fight_environment_skill-10000719,徹底抗戦
 fight_environment_skill-20000719,15秒ごとに、敵のHP減少量の10%と同数のダメージを吸収するシールドを6秒間展開する。
 fight_environment_skill-10000720,鋼鉄の的
-fight_environment_skill-20000720,10秒ごとに、リンク5/各HP1000のターゲットドローンを1グループ召喚する。
+fight_environment_skill-20000720,10秒ごとに、Link5、HP1000のターゲットドローンを1組召喚する。
 fight_environment_skill-10000721,袋のネズミ
 fight_environment_skill-20000721,6秒ごとに、味方部隊前方に敵ユニットを1グループ呼び寄せる。
 fight_environment_skill-10000722,戦意向上
@@ -355,7 +355,7 @@ fight_environment_skill-32022601,戦闘中8秒ごとにHPが最も低い敵ユ�
 fight_environment_skill-22022701,シールド破壊
 fight_environment_skill-32022701,戦闘中、10秒ごとに敵のシールドをクリアする。
 fight_environment_skill-22022801,陽動作戦
-fight_environment_skill-32022801,戦闘開始時、Link5の挑発ドローンを1組呼び出す。ドローン1LinkのHPは1000。
+fight_environment_skill-32022801,戦闘開始時、Link5、HP1000のターゲットドローンを1組召喚する。
 fight_environment_skill-22022901,麻痺の花
 fight_environment_skill-32022901,戦闘開始時、敵を4秒間麻痺させる。
 fight_environment_skill-22023001,貫通力
@@ -370,9 +370,9 @@ fight_environment_skill-22023401,シールドアタック-1
 fight_environment_skill-32023401,味方のシールドを持つユニットの会心が100%上昇する-1。
 fight_environment_skill-22023501,シールドアタック-2
 fight_environment_skill-32023501,味方のシールドを持つユニットの会心が100%上昇する-2。
-fight_environment_skill-10230901,
-fight_environment_skill-20230901,
-fight_environment_skill-10230902,
-fight_environment_skill-20230902,
-fight_environment_skill-10230903,
-fight_environment_skill-20230903,
+fight_environment_skill-10230901,開幕凍結
+fight_environment_skill-20230901,戦闘開始時、敵全体を5秒間めまい状態にする。//n<color=#CF8000>この効果は1ターン持続する</color>
+fight_environment_skill-10230902,強襲の地
+fight_environment_skill-20230902,戦闘開始時、敵全体に5秒間の被ダメージ20%増加を付与する。//n<color=#CF8000>この効果は1ターン持続する</color>
+fight_environment_skill-10230903,範囲支援
+fight_environment_skill-20230903,戦闘中、5秒おきに、敵全体に3000ダメージと1000破砕を与える。//n<color=#CF8000>この効果は1ターン持続する</color>

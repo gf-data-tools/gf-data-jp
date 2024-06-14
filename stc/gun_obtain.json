@@ -240,6 +240,12 @@
         "goto_page_id": 380
     },
     {
+        "obtain_id": 40,
+        "description": "gun_obtain-10000040",
+        "detail": 0,
+        "goto_page_id": 407
+    },
+    {
         "obtain_id": 101,
         "description": "gun_obtain-10000101",
         "detail": 0,
@@ -614,6 +620,24 @@
     {
         "obtain_id": 259,
         "description": "gun_obtain-10000259",
+        "detail": 0,
+        "goto_page_id": 0
+    },
+    {
+        "obtain_id": 260,
+        "description": "gun_obtain-10000260",
+        "detail": 0,
+        "goto_page_id": 0
+    },
+    {
+        "obtain_id": 261,
+        "description": "gun_obtain-10000261",
+        "detail": 0,
+        "goto_page_id": 0
+    },
+    {
+        "obtain_id": 262,
+        "description": "gun_obtain-10000262",
         "detail": 0,
         "goto_page_id": 0
     },
@@ -1844,6 +1868,12 @@
     {
         "obtain_id": 3098,
         "description": "gun_obtain-10003098",
+        "detail": 0,
+        "goto_page_id": 0
+    },
+    {
+        "obtain_id": 3113,
+        "description": "gun_obtain-10003113",
         "detail": 0,
         "goto_page_id": 0
     },

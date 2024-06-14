@@ -293,6 +293,7 @@
     dialog: ちょっと！防護服と猫耳ヘッドフォンをつけてないやつは勝手に実験室の中を歩いちゃダメ――あら、指揮官だったの。まぁ、助手の服装にはちょっとしたこだわりがあるだけなんだけど、何か問題でも？
     gift_position: "-123.9,-43.8"
     class_id: 52
+    skin_source: 1
   }
   {
     id: 301
@@ -536,10 +537,10 @@
     name: ロードオブウォー
     fit_gun: 58
     voice: 4
-    is_hidden: 1
     dialog: BOSS！戦場で生き残りたけりゃ、あたしとお揃いのクールなタトゥーを入れようぜ！
     illustrator_cv: skin-40000501
     order: 5
+    class_id: 99
   }
   {
     id: 503
@@ -1288,6 +1289,39 @@
     illustrator_cv: --,朝日奈丸佳,
     order: 79
     class_id: 99
+  }
+  {
+    id: 598
+    name: ゴーストハッカー
+    fit_gun: 1043
+    voice: 4
+    dialog: 恒例のセキュリティーチェックです！いくら隠そうとしても、わたしのスキャンからは逃れられませんよ！
+    gift_position: "-131.7,391.4"
+    order: 110
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 599
+    name: 夢中のレクイエム
+    fit_gun: 1044
+    voice: 4
+    dialog: 仮想世界に意識を委ね、現実世界の悩みを忘れた方が、楽に生きられるのでは？
+    gift_position: "-345.2,-23.4"
+    order: 110
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 600
+    name: ゴーストの囁き
+    fit_gun: 1042
+    voice: 4
+    dialog: しっ――ゴーストが囁いているわ……
+    gift_position: "-148.8,-37.1"
+    order: 110
+    class_id: 53
+    skin_source: 1
   }
   {
     id: 601
@@ -5488,6 +5522,7 @@
     dialog: 窓の月はいつものように、ただ一つの違いは梅あり。指揮官、新年の初日、もう少し司令室をデコレーションしよう！
     order: 102
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5502
@@ -5497,6 +5532,7 @@
     dialog: 指揮官！新年快楽ハッピーニューイヤー！それとお年玉はこっちな！ありがとう！
     order: 102
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5503
@@ -5507,6 +5543,7 @@
     gift_position: "-1.6,-144.7"
     order: 102
     class_id: 56
+    skin_source: 1
   }
   {
     id: 5504
@@ -5516,6 +5553,7 @@
     dialog: 新たな年には新たな挑戦が待っている。指揮官よ、汝はどこまでの未来を見据えている？
     order: 102
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5505
@@ -5525,6 +5563,7 @@
     dialog: あっ、指揮官さん……ごめんなさい、こっそり一杯だけ飲むつもりでしたが……
     order: 102
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5506
@@ -5536,6 +5575,7 @@
     illustrator_cv: 柱柱,田中美海,
     order: 102
     class_id: 56
+    skin_source: 1
   }
   {
     id: 5507
@@ -5545,6 +5585,7 @@
     dialog: 年に一度の春節ですから、もっと贅沢にいきましょう。指揮官さん、この衣装はどうですか？
     order: 102
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5508
@@ -5554,6 +5595,7 @@
     dialog: 新年開運、洪福斉天！指揮官、あけましておめでとうございます！
     order: 102
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5601
@@ -6664,6 +6706,7 @@
     gift_position: "-144.2,-5.6"
     order: 87
     class_id: 76
+    skin_source: 1
   }
   {
     id: 7202
@@ -6675,6 +6718,7 @@
     illustrator_cv: 鳩山井鶴,大門香実,
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7203
@@ -6685,6 +6729,7 @@
     dialog: ちょっと、ここはわたしの縄張りなの！子分たちは今冬眠してるから、部外者は立ち入り禁止！……うぅ、そんなに入って遊びたいんなら――入場料を払え！
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7204
@@ -6695,6 +6740,7 @@
     dialog: ま、待って！紐を噛んじゃダメ！それを返して……あっ、同じ側に行かないで！左右非対称になっちゃうから！ううぅ、指揮官、助けてください……！
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7205
@@ -6705,6 +6751,7 @@
     dialog: 指揮官！これがあたいが設計したマルチ機能台車なんだ！どう？これに荷物とかを載せれば、両手が自由になるぜ！ちょっと使い方を教えてやるよ……って、あれ？なんで煙が！？
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7206
@@ -6715,6 +6762,7 @@
     dialog: こうして、パンダの耳を作って、頭に被せれば、パンダとお友達になれますよ！はい、指揮官にも一個作ってあげましたよ……
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7301
@@ -7226,6 +7274,7 @@
     dialog: 湖畔での約束に従い、今宵わたしは人の身と化し、あなたと再会します……あら？どうしちゃったんでしょうか？本物のハクチョウじゃなくても、この気持ちに偽りはありませんよ？
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8102
@@ -7237,6 +7286,7 @@
     gift_position: "-194.3,62.6"
     order: 103
     class_id: 86
+    skin_source: 1
   }
   {
     id: 8103
@@ -7247,6 +7297,7 @@
     dialog: 色んな所を探して、美品のチェロはこれ一つしかありませんでした……指揮官さん、呪われた王子を演じて、この旋律の中で、私と共に一曲踊りませんか？
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8105
@@ -7257,6 +7308,7 @@
     dialog: 呪いの期限が来れば、フジ蔓延る王宮の扉は、唯一たる運命の人に開く……この物語の規律性はとても好きです。本日、指揮官様は時間ピッタリに来てくれたように。
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8106
@@ -7267,6 +7319,7 @@
     dialog: 指揮官、そろそろ、この間予約しました「ファンタジー樹洞旅行」の出発時間ですわよ。フフッ、安心してください、日程が繰り上げられたわけではありません、ただ、旅費を節約するために、今から目的地まで歩いていく必要があるだけですわ。
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8107
@@ -7288,6 +7341,7 @@
     dialog: 春の妖精たち、こっちに来て！この一番美しい石で、あなたたちの作った一番新しい衣装と交換するわ――そうすれば、指揮官の視線を私に釘付けにすることができるの！
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8201
@@ -7424,6 +7478,7 @@
     gift_position: "-41,-121"
     order: 109
     class_id: 90
+    skin_source: 1
   }
   {
     id: 8601
@@ -7550,6 +7605,7 @@
     gift_position: "-96.4,14.32"
     order: 105
     class_id: 92
+    skin_source: 1
   }
   {
     id: 8703
@@ -7596,6 +7652,7 @@
     illustrator_cv: --,戸松遥,
     order: 107
     class_id: 94
+    skin_source: 2
   }
   {
     id: 8902
@@ -7606,6 +7663,7 @@
     illustrator_cv: --,田村ゆかり,
     order: 107
     class_id: 94
+    skin_source: 2
   }
   {
     id: 8903
@@ -7616,6 +7674,7 @@
     illustrator_cv: --,加藤英美里,
     order: 107
     class_id: 94
+    skin_source: 2
   }
   {
     id: 8904
@@ -7626,6 +7685,7 @@
     illustrator_cv: --,山根希美,
     order: 107
     class_id: 94
+    skin_source: 2
   }
   {
     id: 8905
@@ -7636,6 +7696,7 @@
     illustrator_cv: --,福原綾香,
     order: 107
     class_id: 94
+    skin_source: 2
   }
   {
     id: 8906
@@ -7646,6 +7707,7 @@
     gift_position: "73.1,-5.3"
     order: 107
     class_id: 94
+    skin_source: 1
   }
   {
     id: 8908
@@ -7666,6 +7728,7 @@
     illustrator_cv: RIRE,中恵光城,
     order: 100
     class_id: 96
+    skin_source: 1
   }
   {
     id: 10002
@@ -7676,6 +7739,7 @@
     gift_position: "-86,84"
     order: 100
     class_id: 96
+    skin_source: 2
   }
   {
     id: 10004
@@ -7685,6 +7749,7 @@
     dialog: ……あら、指揮官様でしたの？こちらの物はすでに片付けておきました、今は休憩中です。……この子？かわいいでしょう？
     order: 100
     class_id: 96
+    skin_source: 1
   }
   {
     id: 10005
@@ -7694,6 +7759,7 @@
     dialog: マスター？……少々お待ちを。今は取り込み中で――はい、基地各所に、この花を飾ろうかと。そうすれば、皆も少し気分が良くなるだろう。
     order: 100
     class_id: 96
+    skin_source: 1
   }
   {
     id: 10006
@@ -7713,6 +7779,7 @@
     illustrator_cv: 巫目目,藤井彩加,
     order: 100
     class_id: 96
+    skin_source: 1
   }
   {
     id: 10008
@@ -7723,6 +7790,7 @@
     illustrator_cv: Alize,種田梨沙,
     order: 100
     class_id: 96
+    skin_source: 1
   }
   {
     id: 30001
@@ -7854,5 +7922,14 @@
     dialog: 「何處是歸程、長亭連短亭」……この曲に、哀怨はございません。なぜなら、待ち人は必ず来ると、私は信じておりますので。ね、指揮官？
     illustrator_cv: --,大門香実,
     order: 108
+  }
+  {
+    id: 30017
+    name: エージェントに休みはない
+    fit_gun: 54
+    voice: 4
+    dialog: やっぱりさっきのコートの方が似合ってるな、そっちに着替えた方がいいじゃないのか？ああ、でもそろそろ時間だ、行くぞ。……ん？休暇？そんなの私たちには関係ない話だろ？
+    illustrator_cv: 小枪,山根希美,
+    order: 111
   }
 ]

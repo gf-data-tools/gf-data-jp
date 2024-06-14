@@ -1,0 +1,1238 @@
+[
+  {
+    id: 10001
+    name: 汎用型-砂漠迷彩設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 1
+    code: TankM1_1001
+    item_id: 133007
+    obtain: "7"
+    introduction: この黄砂色の迷彩さえあれば、砂漠の中で敵に発見される心配がなくなる。
+    is_show: 1
+  }
+  {
+    id: 10002
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 101
+    class_id: 1
+    code: MG_Single_1001
+    item_id: 133008
+    obtain: "7"
+    introduction: 普通の機銃。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10003
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 102
+    class_id: 1
+    code: RF_AntiTank_1001
+    item_id: 133009
+    obtain: "7"
+    introduction: 対装甲ライフル。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10005
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 103
+    class_id: 1
+    code: MG_Multi_Barrel_1001
+    item_id: 133011
+    obtain: "7"
+    introduction: 密集射撃で支援を行う。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10006
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 105
+    class_id: 1
+    code: Searchlight_1001
+    item_id: 133012
+    obtain: "7"
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10007
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 106
+    class_id: 1
+    code: Flame_Ejector_1001
+    item_id: 133013
+    obtain: "7"
+    introduction: 近距離戦用の火炎放射器。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10008
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 107
+    class_id: 1
+    code: MG_Cannon_1001
+    item_id: 133014
+    obtain: "7"
+    introduction: 小口径の砲弾を使用する。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10009
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 108
+    class_id: 1
+    code: GrenadeComponent_1001
+    item_id: 133015
+    obtain: "7"
+    introduction: 多機能な発射装置。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10010
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 109
+    class_id: 1
+    code: Laser_Weapon_1001
+    item_id: 133016
+    obtain: "7"
+    introduction: 対複数用ビーム砲。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10011
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 110
+    class_id: 1
+    code: Cannon_1001
+    item_id: 133017
+    obtain: "7"
+    introduction: 殺傷力に優れた火砲。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10012
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 111
+    class_id: 1
+    code: Flak_Cannon_1001
+    item_id: 133018
+    obtain: "7"
+    introduction: 射程に特化したキャノン砲。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10013
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 112
+    class_id: 1
+    code: Pulse_Cannon_1001
+    item_id: 133019
+    obtain: "7"
+    introduction: 近距離で連続ダメージを与えるキャノン砲。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10014
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 113
+    class_id: 1
+    code: Armor_Cannon_1001
+    item_id: 133020
+    obtain: "7"
+    introduction: 装甲防護を厚くしたキャノン砲。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10015
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 114
+    class_id: 1
+    code: Interference_Gun_1001
+    item_id: 133021
+    obtain: "7"
+    introduction: 機械ユニットを干渉するジャミング弾を発射する。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10016
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 115
+    class_id: 1
+    code: Jammer_1001
+    item_id: 133022
+    obtain: "7"
+    introduction: 広範囲でジャミングを行う支援装備。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10017
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 116
+    class_id: 1
+    code: Signal_Tower_1001
+    item_id: 133023
+    obtain: "7"
+    introduction: 味方を強化する支援装備。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10018
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 117
+    class_id: 1
+    code: Smoke_Emitter_1001
+    item_id: 133024
+    obtain: "7"
+    introduction: 煙幕を作り出し、敵を攪乱することができる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10019
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 118
+    class_id: 1
+    code: Small_Missile_Launcher_1001
+    item_id: 133025
+    obtain: "7"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10020
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 119
+    class_id: 1
+    code: Medium_Missile_Launcher_1001
+    item_id: 133026
+    obtain: "7"
+    introduction: 友軍に火力支援を行うことができる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10021
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 120
+    class_id: 1
+    code: Electromagnetic_Artillery_1001
+    item_id: 133027
+    obtain: "7"
+    introduction: 強力なメイン兵装。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10022
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 141
+    class_id: 1
+    code: Protective_Generator_1001
+    item_id: 133028
+    obtain: "7"
+    introduction: 複数の武器を自動で切り替えることができる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10023
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 122
+    class_id: 1
+    code: Rotating_Turret_1001
+    item_id: 133029
+    obtain: "7"
+    introduction: ドローンを発進させることができる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10024
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 123
+    class_id: 1
+    code: UAV_Compartment_1001
+    item_id: 133030
+    obtain: "7"
+    introduction: 機体の防御力を強化するシステム。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10025
+    name: 汎用型-都市迷彩設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 2
+    code: TankM1_1002
+    item_id: 133031
+    obtain: "7"
+    introduction: コンクリートジャングルの、ハンターと獲物。
+    is_show: 1
+  }
+  {
+    id: 10026
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 101
+    class_id: 2
+    code: MG_Single_1002
+    item_id: 133032
+    obtain: "7"
+    introduction: 普通の機銃。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10027
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 102
+    class_id: 2
+    code: RF_AntiTank_1002
+    item_id: 133033
+    obtain: "7"
+    introduction: 対装甲ライフル。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10029
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 103
+    class_id: 2
+    code: MG_Multi_Barrel_1002
+    item_id: 133035
+    obtain: "7"
+    introduction: オプション式の多銃身機銃。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10030
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 105
+    class_id: 2
+    code: Searchlight_1002
+    item_id: 133036
+    obtain: "7"
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10031
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 106
+    class_id: 2
+    code: Flame_Ejector_1002
+    item_id: 133037
+    obtain: "7"
+    introduction: 近距離戦用の火炎放射器。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10032
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 107
+    class_id: 2
+    code: MG_Cannon_1002
+    item_id: 133038
+    obtain: "7"
+    introduction: 小口径の砲弾を使用する機関砲。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10033
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 108
+    class_id: 2
+    code: GrenadeComponent_1002
+    item_id: 133039
+    obtain: "7"
+    introduction: 多機能な発射装置。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10034
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 109
+    class_id: 2
+    code: Laser_Weapon_1002
+    item_id: 133040
+    obtain: "7"
+    introduction: 対複数用ビーム砲。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10035
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 110
+    class_id: 2
+    code: Cannon_1002
+    item_id: 133041
+    obtain: "7"
+    introduction: 殺傷力に優れた火砲。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10036
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 111
+    class_id: 2
+    code: Flak_Cannon_1002
+    item_id: 133042
+    obtain: "7"
+    introduction: 射程に特化したキャノン砲。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10037
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 112
+    class_id: 2
+    code: Pulse_Cannon_1002
+    item_id: 133043
+    obtain: "7"
+    introduction: 近距離で連続ダメージを与えるキャノン砲。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10038
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 113
+    class_id: 2
+    code: Armor_Cannon_1002
+    item_id: 133044
+    obtain: "7"
+    introduction: 装甲防護を厚くしたキャノン砲。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10039
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 114
+    class_id: 2
+    code: Interference_Gun_1002
+    item_id: 133045
+    obtain: "7"
+    introduction: 機械ユニットを干渉するジャミング弾を発射する。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10040
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 115
+    class_id: 2
+    code: Jammer_1002
+    item_id: 133046
+    obtain: "7"
+    introduction: 広範囲でジャミングを行う支援装備。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10041
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 116
+    class_id: 2
+    code: Signal_Tower_1002
+    item_id: 133047
+    obtain: "7"
+    introduction: 味方を強化する支援装備。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10042
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 117
+    class_id: 2
+    code: Smoke_Emitter_1002
+    item_id: 133048
+    obtain: "7"
+    introduction: 煙幕を作り出し、敵を攪乱することができる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10043
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 118
+    class_id: 2
+    code: Small_Missile_Launcher_1002
+    item_id: 133049
+    obtain: "7"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10044
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 119
+    class_id: 2
+    code: Medium_Missile_Launcher_1002
+    item_id: 133050
+    obtain: "7"
+    introduction: 友軍に火力支援を行うことができる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10045
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 120
+    class_id: 2
+    code: Electromagnetic_Artillery_1002
+    item_id: 133051
+    obtain: "7"
+    introduction: 強力なメイン兵装。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10046
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 141
+    class_id: 2
+    code: Protective_Generator_1002
+    item_id: 133052
+    obtain: "7"
+    introduction: 複数の武器を自動で切り替えることができる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10047
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 122
+    class_id: 2
+    code: Rotating_Turret_1002
+    item_id: 133053
+    obtain: "7"
+    introduction: ドローンを発進させることができる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10048
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 123
+    class_id: 2
+    code: UAV_Compartment_1002
+    item_id: 133054
+    obtain: "7"
+    introduction: 機体の防御力を強化するシステム。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10049
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 140
+    class_id: 1
+    code: LMGCom_1001
+    item_id: 133057
+    obtain: "7"
+    introduction: 小口径の機銃。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10050
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 142
+    class_id: 1
+    code: ElecGun_1001
+    item_id: 133058
+    obtain: "7"
+    introduction: 火力と引き換えに射速が向上したレールガン。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10051
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 124
+    class_id: 1
+    code: AutoDef_1001
+    item_id: 133059
+    obtain: "7"
+    introduction: 機体の防御力を強化するシステム。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10052
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 143
+    class_id: 1
+    code: LaserSup_1001
+    item_id: 133060
+    obtain: "7"
+    introduction: 敵の照準を攪乱する装置。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10053
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 104
+    class_id: 1
+    code: HMGCom_1001
+    item_id: 133061
+    obtain: "7"
+    introduction: 火力を重視した機銃。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10054
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 125
+    class_id: 1
+    code: PAR_1001
+    item_id: 133062
+    obtain: "7"
+    introduction: 広範囲の探知レーダー。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10055
+    name: 汎用型-砂漠迷彩
+    type: 2
+    group_id: 121
+    class_id: 1
+    code: ERA_1001
+    item_id: 133063
+    obtain: "7"
+    introduction: 徹甲弾などの攻撃に対応できる。砂漠迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10056
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 140
+    class_id: 2
+    code: LMGCom_1002
+    item_id: 133064
+    obtain: "7"
+    introduction: 小口径の機銃。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10057
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 142
+    class_id: 2
+    code: ElecGun_1002
+    item_id: 133065
+    obtain: "7"
+    introduction: 火力と引き換えに射速が向上したレールガン。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10058
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 124
+    class_id: 2
+    code: AutoDef_1002
+    item_id: 133066
+    obtain: "7"
+    introduction: 機体の防御力を強化するシステム。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10059
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 143
+    class_id: 2
+    code: LaserSup_1002
+    item_id: 133067
+    obtain: "7"
+    introduction: 敵の照準を攪乱する装置。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10060
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 104
+    class_id: 2
+    code: HMGCom_1002
+    item_id: 133068
+    obtain: "7"
+    introduction: 火力を重視した機銃。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10061
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 125
+    class_id: 2
+    code: PAR_1002
+    item_id: 133069
+    obtain: "7"
+    introduction: 広範囲の探知レーダー。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10062
+    name: 汎用型-都市迷彩
+    type: 2
+    group_id: 121
+    class_id: 2
+    code: ERA_1002
+    item_id: 133070
+    obtain: "7"
+    introduction: 徹甲弾などの攻撃に対応できる。都市迷彩の塗装が施されている。
+    is_show: 1
+  }
+  {
+    id: 10063
+    name: 汎用型-砂漠迷彩設計図
+    type: 1
+    vehicle_id: "2"
+    class_id: 1
+    code: Warjack_1001
+    item_id: 133055
+    obtain: "7"
+    introduction: この黄砂色の迷彩さえあれば、砂漠の中で敵に発見される心配がなくなる。
+    is_show: 1
+  }
+  {
+    id: 10064
+    name: 汎用型-都市迷彩設計図
+    type: 1
+    vehicle_id: "2"
+    class_id: 2
+    code: Warjack_1002
+    item_id: 133056
+    obtain: "7"
+    introduction: コンクリートジャングルの、ハンターと獲物。
+    is_show: 1
+  }
+  {
+    id: 10065
+    name: KV2-メガロドン設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 3
+    code: TankM1_1003
+    item_id: 133071
+    obtain: "40"
+    introduction: サメの塗装はこの鋼鉄の怪物に実に相応しい。
+    is_show: 1
+  }
+  {
+    id: 10066
+    name: KV2-雪原迷彩設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 4
+    code: TankM1_1004
+    item_id: 133072
+    obtain: "40"
+    introduction: こいつと比べたら、雪崩も所詮そんなものよ。
+    is_show: 1
+  }
+  {
+    id: 10067
+    name: ヴァーディクト-フェルトグラウ設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 5
+    code: TankM1_1005
+    item_id: 133073
+    obtain: "40"
+    introduction: この滑らかなライフリングを見るがいい！こいつが初めて火を噴くところを見る幸運なやつはどいつになるんだ？
+    is_show: 1
+  }
+  {
+    id: 10068
+    name: ヴァーディクト-雪原迷彩設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 6
+    code: TankM1_1006
+    item_id: 133074
+    obtain: "40"
+    introduction: どんなに寒くても、こいつの主砲は火を噴くのを止めないぜ。
+    is_show: 1
+  }
+  {
+    id: 10069
+    name: ヴァーディクト-砂漠迷彩設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 7
+    code: TankM1_1007
+    item_id: 133075
+    obtain: "40"
+    introduction: エンジンを鳴らせ！この轟を砂漠中に響かせろ！
+    is_show: 1
+  }
+  {
+    id: 10070
+    name: ヴァーディクト-森林迷彩設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 8
+    code: TankM1_1008
+    item_id: 133076
+    obtain: "40"
+    introduction: 山よ！川よ！森よ！こいつの無限軌道はどこまでも突き進むぜ！
+    is_show: 1
+  }
+  {
+    id: 10071
+    name: TCW48-A3メタルクロー設計図
+    type: 1
+    vehicle_id: "2"
+    class_id: 9
+    code: Warjack_1009
+    item_id: 133077
+    obtain: "40"
+    introduction: 心をコントロールしろ。冷静こそ最強の武器だ。
+    is_show: 1
+  }
+  {
+    id: 10072
+    name: TCW48-A3メタルクロー
+    type: 2
+    group_id: 106
+    class_id: 9
+    code: Flame_Ejector_1009
+    item_id: 133078
+    obtain: "40"
+    introduction: メタルクロー用の火炎放射器。近接戦闘で敵を焼き払い尽くす。
+    is_show: 1
+  }
+  {
+    id: 10073
+    name: TCW48-A3メタルクロー
+    type: 2
+    group_id: 103
+    class_id: 9
+    code: MG_Multi_Barrel_1009
+    item_id: 133079
+    obtain: "40"
+    introduction: メタルクロー用のガトリングガン。密集射撃で支援を行うことができる。
+    is_show: 1
+  }
+  {
+    id: 10074
+    name: TCW48-A3メタルクロー
+    type: 2
+    group_id: 107
+    class_id: 9
+    code: MG_Cannon_1009
+    item_id: 133080
+    obtain: "40"
+    introduction: メタルクロー用の機関砲。小口径の砲弾を使用する。
+    is_show: 1
+  }
+  {
+    id: 10075
+    name: TCW48-A3メタルクロー
+    type: 2
+    group_id: 124
+    class_id: 9
+    code: AutoDef_1009
+    item_id: 133081
+    obtain: "40"
+    introduction: メタルクロー用のシールドリアクター。機体の防御力を強化できる。
+    is_show: 1
+  }
+  {
+    id: 10076
+    name: TCW48-A3メタルクロー
+    type: 2
+    group_id: 115
+    class_id: 9
+    code: Jammer_1009
+    item_id: 133082
+    obtain: "40"
+    introduction: メタルクロー用のジャミング装置。広範囲でジャミングを行うことができる。
+    is_show: 1
+  }
+  {
+    id: 10083
+    name: KV-2-汎用塗装
+    type: 2
+    group_id: 101
+    class_id: 3
+    code: MG_Single_1003
+    item_id: 133089
+    obtain: "40"
+    introduction: 普通の機銃。KV-2のあらゆる塗装にマッチする。
+    is_show: 1
+  }
+  {
+    id: 10084
+    name: KV-2-メガロドン
+    type: 2
+    group_id: 105
+    class_id: 3
+    code: Searchlight_1003
+    item_id: 133090
+    obtain: "40"
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。メガロドン塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10085
+    name: KV-2-メガロドン
+    type: 2
+    group_id: 141
+    class_id: 3
+    code: Protective_Generator_1003
+    item_id: 133091
+    obtain: "40"
+    introduction: 機体の防御力を強化するシステム。メガロドン塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10086
+    name: KV-2-メガロドン
+    type: 2
+    group_id: 118
+    class_id: 3
+    code: Small_Missile_Launcher_1003
+    item_id: 133092
+    obtain: "40"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。メガロドン塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10087
+    name: KV-2-メガロドン
+    type: 2
+    group_id: 106
+    class_id: 3
+    code: Flame_Ejector_1003
+    item_id: 133093
+    obtain: "40"
+    introduction: 近距離戦用の火炎放射器。メガロドン塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10088
+    name: KV-2-雪原迷彩
+    type: 2
+    group_id: 105
+    class_id: 4
+    code: Searchlight_1004
+    item_id: 133094
+    obtain: "40"
+    introduction: 夜間でも周囲の環境をはっきりと確認できる。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10089
+    name: KV-2-雪原迷彩
+    type: 2
+    group_id: 141
+    class_id: 4
+    code: Protective_Generator_1004
+    item_id: 133095
+    obtain: "40"
+    introduction: 機体の防御力を強化するシステム。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10090
+    name: KV-2-雪原迷彩
+    type: 2
+    group_id: 118
+    class_id: 4
+    code: Small_Missile_Launcher_1004
+    item_id: 133096
+    obtain: "40"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10091
+    name: KV-2-雪原迷彩
+    type: 2
+    group_id: 106
+    class_id: 4
+    code: Flame_Ejector_1004
+    item_id: 133097
+    obtain: "40"
+    introduction: 近距離戦用の火炎放射器。雪原迷彩塗装のKV-2に沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10092
+    name: ヴァーディクト-フェルトグラウ
+    type: 2
+    group_id: 111
+    class_id: 5
+    code: Flak_Cannon_1005
+    item_id: 133098
+    obtain: "40"
+    introduction: 射程に特化したキャノン砲。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10093
+    name: ヴァーディクト-フェルトグラウ
+    type: 2
+    group_id: 117
+    class_id: 5
+    code: Smoke_Emitter_1005
+    item_id: 133099
+    obtain: "40"
+    introduction: 煙幕を作り出し、敵を攪乱することができる。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10094
+    name: ヴァーディクト-汎用塗装
+    type: 2
+    group_id: 116
+    class_id: 5
+    code: Signal_Tower_1005
+    item_id: 133100
+    obtain: "40"
+    introduction: 射程に特化したキャノン砲。ヴァーディクトのあらゆる塗装にマッチする。
+    is_show: 1
+  }
+  {
+    id: 10095
+    name: ヴァーディクト-フェルトグラウ
+    type: 2
+    group_id: 107
+    class_id: 5
+    code: MG_Cannon_1005
+    item_id: 133101
+    obtain: "40"
+    introduction: 小口径の砲弾を使用する機関砲。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10096
+    name: ヴァーディクト-フェルトグラウ
+    type: 2
+    group_id: 118
+    class_id: 5
+    code: Small_Missile_Launcher_1005
+    item_id: 133102
+    obtain: "40"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。フェルトグラウ塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10097
+    name: ヴァーディクト-汎用塗装
+    type: 2
+    group_id: 111
+    class_id: 6
+    code: Flak_Cannon_1006
+    item_id: 133103
+    obtain: "40"
+    introduction: 射程に特化したキャノン砲。ヴァーディクトのあらゆる塗装にマッチする。
+    is_show: 1
+  }
+  {
+    id: 10098
+    name: ヴァーディクト-雪原迷彩
+    type: 2
+    group_id: 117
+    class_id: 6
+    code: Smoke_Emitter_1006
+    item_id: 133104
+    obtain: "40"
+    introduction: 煙幕を作り出し、敵を攪乱することができる。雪原迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10099
+    name: ヴァーディクト-雪原迷彩
+    type: 2
+    group_id: 107
+    class_id: 6
+    code: MG_Cannon_1006
+    item_id: 133105
+    obtain: "40"
+    introduction: 小口径の砲弾を使用する機関砲。雪原迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10100
+    name: ヴァーディクト-雪原迷彩
+    type: 2
+    group_id: 118
+    class_id: 6
+    code: Small_Missile_Launcher_1006
+    item_id: 133106
+    obtain: "40"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。雪原迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10101
+    name: ヴァーディクト-汎用塗装
+    type: 2
+    group_id: 117
+    class_id: 7
+    code: Smoke_Emitter_1007
+    item_id: 133107
+    obtain: "40"
+    introduction: 煙幕を作り出し、敵を攪乱することができる。ヴァーディクトのあらゆる塗装にマッチする。
+    is_show: 1
+  }
+  {
+    id: 10102
+    name: ヴァーディクト-砂漠迷彩
+    type: 2
+    group_id: 107
+    class_id: 7
+    code: MG_Cannon_1007
+    item_id: 133108
+    obtain: "40"
+    introduction: 小口径の砲弾を使用する機関砲。砂漠迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10103
+    name: ヴァーディクト-砂漠迷彩
+    type: 2
+    group_id: 118
+    class_id: 7
+    code: Small_Missile_Launcher_1007
+    item_id: 133109
+    obtain: "40"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。砂漠迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10104
+    name: ヴァーディクト-森林迷彩
+    type: 2
+    group_id: 107
+    class_id: 8
+    code: MG_Cannon_1008
+    item_id: 133110
+    obtain: "40"
+    introduction: 小口径の砲弾を使用する機関砲。森林迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 10105
+    name: ヴァーディクト-森林迷彩
+    type: 2
+    group_id: 118
+    class_id: 8
+    code: Small_Missile_Launcher_1008
+    item_id: 133111
+    obtain: "40"
+    introduction: ピンポイントなミサイル攻撃を行うことができる。森林迷彩塗装のヴァーディクトに沿った塗装をしている。
+    is_show: 1
+  }
+  {
+    id: 11100
+    name: 麒麟設計図
+    type: 1
+    vehicle_id: "1"
+    class_id: 11
+    code: TankM1_1011
+    item_id: 133112
+    obtain: "40"
+    introduction: 我らは敵を叩き伏せる獅子、我らは勝利をもたらす麒麟。
+    is_show: 1
+  }
+  {
+    id: 11101
+    name: 麒麟
+    type: 2
+    group_id: 108
+    class_id: 11
+    code: GrenadeComponent_1011
+    item_id: 133113
+    obtain: "40"
+    introduction: 麒麟用のグレネードランチャー。様々な弾薬を発射することができる。
+    is_show: 1
+  }
+  {
+    id: 11102
+    name: 麒麟
+    type: 2
+    group_id: 117
+    class_id: 11
+    code: Smoke_Emitter_1011
+    item_id: 133114
+    obtain: "40"
+    introduction: 麒麟用の発煙弾発射機。煙幕を作り出し、敵を攪乱することができる。
+    is_show: 1
+  }
+  {
+    id: 11103
+    name: 麒麟
+    type: 2
+    group_id: 143
+    class_id: 11
+    code: LaserSup_1011
+    item_id: 133115
+    obtain: "40"
+    introduction: 麒麟用のレーザー制圧装置。敵の照準を攪乱することができる。
+    is_show: 1
+  }
+  {
+    id: 11104
+    name: 麒麟
+    type: 2
+    group_id: 118
+    class_id: 11
+    code: Small_Missile_Launcher_1011
+    item_id: 133116
+    obtain: "40"
+    introduction: 麒麟用の小型ミサイルランチャー。ピンポイントなミサイル攻撃を行うことができる。
+    is_show: 1
+  }
+  {
+    id: 11105
+    name: 麒麟
+    type: 2
+    group_id: 107
+    class_id: 11
+    code: MG_Cannon_1011
+    item_id: 133117
+    obtain: "40"
+    introduction: 麒麟用の機関砲。小口径の砲弾を使用するが、範囲ダメージを与えることができる。
+    is_show: 1
+  }
+]

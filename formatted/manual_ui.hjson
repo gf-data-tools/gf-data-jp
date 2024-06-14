@@ -3124,6 +3124,35 @@
     code_b: Console_Icon
   }
   {
+    id: 640104
+    code_a: Rouge_591004
+    description_c: 開く
+    code_b: Console_Icon
+  }
+  {
+    id: 680301
+    code_a: 202404book
+    description_a: 味方部隊
+    description_c: 拾う
+    code_b: Console_Icon
+  }
+  {
+    id: 680521
+    code_a: Door_Left
+    description_a: ゲートコンソール
+    description_b: 防御ゲート
+    description_c: 開く
+    code_b: Console_Icon
+  }
+  {
+    id: 680531
+    code_a: Door_Left
+    description_a: ゲートコンソール
+    description_b: 防御ゲート
+    description_c: 【目標を閉鎖する】
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 味方部隊
@@ -4825,6 +4854,20 @@
     code_b: Console_Icon
   }
   {
+    id: 6400000
+    code_a: SAC2045_CamouflageSkill
+    description_a: 味方部隊
+    description_c: 開く
+    code_b: Console_Icon
+  }
+  {
+    id: 6400003
+    code_a: SAC2045_CamouflageSkill
+    description_a: 味方部隊
+    description_c: 【目標を閉鎖する】
+    code_b: Console_Icon
+  }
+  {
     id: 6410101
     code_a: Boomer
     description_a: 味方部隊
@@ -6357,6 +6400,126 @@
     description_b: 中枢制御パネル
     description_c: 閉じる
     code_b: Console_Icon
+  }
+  {
+    id: 6620001
+    code_a: Boomer
+    description_a: 味方部隊
+    description_b: ゴリアテ
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620002
+    code_a: Build_PortableEMP
+    description_a: 味方部隊
+    description_b: EMP
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620003
+    code_a: portalskill
+    description_a: 味方部隊
+    description_b: 無人ポイント
+    description_c: 転送
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620004
+    code_a: Griffin
+    description_a: 味方部隊
+    description_b: 開幕凍結
+    description_c: 獲得
+    code_b: Console_Icon
+  }
+  {
+    id: 6620005
+    code_a: Griffin
+    description_a: 味方部隊
+    description_b: 強襲の地
+    description_c: 獲得
+    code_b: Console_Icon
+  }
+  {
+    id: 6620006
+    code_a: Griffin
+    description_a: 味方部隊
+    description_b: 範囲支援
+    description_c: 獲得
+    code_b: Console_Icon
+  }
+  {
+    id: 6620007
+    code_a: Build_PortableEMP
+    description_a: 味方部隊
+    description_b: EMP
+    description_c: 拾う
+    code_b: Console_Icon
+  }
+  {
+    id: 6620008
+    code_a: Console
+    description_a: 味方部隊
+    description_b: 防御ゲート
+    description_c: 開ける
+    code_b: Console_Icon
+  }
+  {
+    id: 6630001
+    code_a: Boomer
+    description_a: 味方部隊
+    description_b: ゴリアテ（施設）
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630002
+    code_a: Boomer
+    description_a: 味方部隊
+    description_b: ゴリアテ（敵）
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630003
+    code_a: Griffin
+    description_a: 味方部隊
+    description_b: 視界ボーナス
+    description_c: 開く
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630004
+    code_a: Boomer
+    description_a: 味方部隊
+    description_b: ゴリアテ
+    description_c: 捨てる
+    code_b: Console_Icon
+  }
+  {
+    id: 6650001
+    code_a: Griffin
+    description_a: 味方部隊
+    description_b: 行動力
+    description_c: 獲得
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6650002
+    code_a: Griffin
+    description_a: 味方部隊
+    description_b: ゴリアテ
+    description_c: 獲得
+    code_b: Console_Icon
+    is_manual_target: 2
   }
   {
     id: 8120301

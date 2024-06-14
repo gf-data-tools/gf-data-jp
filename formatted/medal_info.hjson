@@ -321,4 +321,17 @@
     is_date: "2"
     decorate_code: Logo_Events
   }
+  {
+    id: "32"
+    name: 再帰者勲章
+    order: "68"
+    evo_step: "1"
+    appearance_id: "196"
+    item_id: "131"
+    medal_obtain: 限定イベント「鏡扉の永遠」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

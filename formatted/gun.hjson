@@ -2,7 +2,7 @@
   {
     id: 1
     name: コルトSAA
-    en_name: SAA
+    en_name: M1873
     code: M1873
     introduce:
       '''
@@ -420,7 +420,7 @@
   {
     id: 6
     name: トカレフ
-    en_name: Tokarev
+    en_name: TT33
     code: TT33
     introduce:
       '''
@@ -509,7 +509,7 @@
   {
     id: 7
     name: スチェッキン
-    en_name: Stechkin
+    en_name: APS
     code: APS
     introduce:
       '''
@@ -526,7 +526,7 @@
       供弹方式        20发弹匣
       瞄准具型式      金属瞄具
       '''
-    dialogue: 军用冲锋手枪，Stechkin，为您服务。今后好好相处吧，我亲爱的长官。
+    dialogue: 军用冲锋手枪，斯捷奇金APS，为您服务。今后好好相处吧，我亲爱的长官。
     extra: 鳗鱼子,喜多村英梨,
     en_introduce:
       '''
@@ -600,7 +600,7 @@
   {
     id: 8
     name: マカロフ
-    en_name: Makarov
+    en_name: PM
     code: PM
     introduce:
       '''
@@ -902,7 +902,7 @@
       供弹方式        8发弹匣、32发弹鼓
       瞄准具型式      机械瞄具
       '''
-    dialogue: P08手枪,虽然不是很耀眼,但是今后,承蒙您的关照了。
+    dialogue: 鲁格P8手枪,虽然不是很耀眼,但是今后,承蒙您的关照了。
     extra: 防弹乳牛,小泉喬生,
     en_introduce:
       '''
@@ -1087,7 +1087,7 @@
   {
     id: 13
     name: 92式
-    en_name: Type92
+    en_name: Type 92
     code: 92type
     introduce:
       '''
@@ -1106,7 +1106,7 @@
       供弹方式        10／15发弹匣
       瞄准具型式      固定准星，缺口式照门
       '''
-    dialogue: Type92,报到！那么,我该去哪里？
+    dialogue: 92式,报到！那么,我该去哪里？
     extra: 莲子,三森すずこ,
     en_introduce:
       '''
@@ -1190,7 +1190,7 @@
   {
     id: 14
     name: アストラ
-    en_name: Astra
+    en_name: "357"
     code: "357"
     introduce:
       '''
@@ -1272,7 +1272,7 @@
   {
     id: 15
     name: G17
-    en_name: G17
+    en_name: Glock 17
     code: Glock17
     introduce:
       '''
@@ -1290,7 +1290,7 @@
                       100发C-Mag弹鼓
       瞄准具型式      机械瞄具：前方准星及后方缺口式照门（两者皆可更换）
       '''
-    dialogue: G17，报到。BOSS，看您的嘴角，明明应该更开心一点吧？
+    dialogue: 格洛克17式，报到。BOSS，看您的嘴角，明明应该更开心一点吧？
     extra: Rain Lan,徳井青空,
     en_introduce:
       '''
@@ -1358,7 +1358,7 @@
   {
     id: 16
     name: トンプソン
-    en_name: Thompson
+    en_name: M1928A1
     code: M1928A1
     introduce:
       '''
@@ -1540,7 +1540,7 @@
   {
     id: 18
     name: イングラム
-    en_name: Ingram
+    en_name: MAC-10
     code: MAC10
     introduce:
       '''
@@ -2070,7 +2070,7 @@
       瞄准具型式      机械瞄具：折叠式金属缺口式照门和柱状准星
                       LP-92激光瞄准器（横贯式安装在照门座和准星座的中空凹槽）
       '''
-    dialogue: PP-90，为您效劳。指挥官，期待您给我的第一个命令哦。
+    dialogue: PP-9，为您效劳。指挥官，期待您给我的第一个命令哦。
     extra: NIXOO,青木志貴,
     en_introduce:
       '''
@@ -2165,7 +2165,7 @@
       瞄准具型式      机械瞄具：固定缺口式照门和准星
                      机匣顶部的MIL-STD-1913战术导轨上安装光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜或热成像仪（可拆卸）
       '''
-    dialogue: PP-2000冲锋枪,今后请让我紧随您的脚步。
+    dialogue: PP-2冲锋枪,今后请让我紧随您的脚步。
     extra: NoriZC,ひなたたまり,
     en_introduce:
       '''
@@ -2341,7 +2341,7 @@
   {
     id: 26
     name: Gr MP5
-    en_name: Gr MP5
+    en_name: MP5
     code: MP5
     introduce:
       '''
@@ -2449,7 +2449,7 @@
   {
     id: 27
     name: スコーピオン
-    en_name: Skorpion
+    en_name: Vz. 61
     code: VZ61
     introduce:
       '''
@@ -2628,7 +2628,7 @@
   {
     id: 29
     name: ステンMK-II
-    en_name: STEN MkⅡ
+    en_name: Sten Mk Ⅱ
     code: StenMK2
     introduce:
       '''
@@ -2718,7 +2718,7 @@
   {
     id: 31
     name: M38
-    en_name: M38
+    en_name: MAB 38
     code: MAB38
     introduce:
       '''
@@ -2733,7 +2733,7 @@
       有效射程        250米
       供弹方式        10,20,30,40发弹夹
       '''
-    dialogue: M38冲锋枪,指挥官,今后让我们好好相处吧。
+    dialogue: 伯莱塔38型冲锋枪,指挥官,今后让我们好好相处吧。
     extra: ALLENES,高橋春香,
     en_introduce:
       '''
@@ -3010,7 +3010,7 @@
   {
     id: 34
     name: M1ガーランド
-    en_name: M1 Garand
+    en_name: M1
     code: M1
     introduce:
       '''
@@ -3025,7 +3025,7 @@
       供弹方式        8发en bloc漏夹、内置弹仓
       瞄准具型式      机械照门
       '''
-    dialogue: M1,指挥官,从今以后,请让我陪伴在您左右吧。
+    dialogue: M1加兰德,指挥官,从今以后,请让我陪伴在您左右吧。
     extra: 哈路卡,種田梨沙,
     en_introduce:
       '''
@@ -3109,7 +3109,7 @@
   {
     id: 35
     name: M1A1
-    en_name: "M1A1 "
+    en_name: M1A1
     code: M1A1
     introduce:
       '''
@@ -3196,7 +3196,7 @@
   {
     id: 36
     name: スプリングフィールド
-    en_name: Springfield
+    en_name: M1903
     code: M1903
     introduce:
       '''
@@ -3213,7 +3213,7 @@
       供弹方式        5发弹夹，内置弹仓
       瞄准具型式      片状准星；带"U"形缺口折叠式框形表尺
       '''
-    dialogue: 指挥官,Springfield能为您做什么,请随时吩咐。
+    dialogue: 指挥官,春田能为您做什么,请随时吩咐。
     extra: 多元菌,堀江由衣,
     en_introduce:
       '''
@@ -3486,7 +3486,7 @@
   {
     id: 39
     name: モシン・ナガン
-    en_name: Mosin-Nagant
+    en_name: M1891
     code: M1891
     introduce:
       '''
@@ -3578,7 +3578,7 @@
   {
     id: 40
     name: SVT-38
-    en_name: "SVT-38 "
+    en_name: SVT-38
     code: SVT38
     introduce:
       '''
@@ -4057,7 +4057,7 @@
       供弹方式        5发弹夹
       瞄准具型式      机械瞄具,加装瞄准镜
       '''
-    dialogue: Kar98k,为您效劳。让我来为您扫除前方的障碍吧。
+    dialogue: 毛瑟98K,为您效劳。让我来为您扫除前方的障碍吧。
     extra: 芙芙酱,中恵光城,
     en_introduce:
       '''
@@ -4231,7 +4231,7 @@
       供弹方式        6 发，可分离式弹匣
       瞄准具型式      Schmidt & Bender 2.5-10 x 56毫米瞄准镜
       '''
-    dialogue: WA2000。指挥官,你就乖乖看着吧,别当我的绊脚石就行了。
+    dialogue: WA2。指挥官,你就乖乖看着吧,别当我的绊脚石就行了。
     extra: 多元菌,戸松遥,
     en_introduce:
       '''
@@ -4396,7 +4396,7 @@
   {
     id: 50
     name: リー・エンフィールド
-    en_name: Lee Enfield
+    en_name: MLE Mk I
     code: MLEMK1
     introduce:
       '''
@@ -4411,7 +4411,7 @@
       有效射程        914米
       供弹方式        10发内置弹仓（两个5发弹夹）
       '''
-    dialogue: 从今天起我就是您的部下了,Lee Enfield,将永远跟随您的指挥。
+    dialogue: 从今天起我就是您的部下了,李·恩菲尔德,将永远跟随您的指挥。
     extra: rei,戸松遥,
     en_introduce:
       '''
@@ -4490,7 +4490,7 @@
   {
     id: 51
     name: FF FN49
-    en_name: FF FN49
+    en_name: FN-49
     code: FN49
     introduce:
       '''
@@ -4586,7 +4586,7 @@
   {
     id: 52
     name: It BM59
-    en_name: It BM59
+    en_name: BM59
     code: BM59
     introduce:
       '''
@@ -4600,7 +4600,7 @@
       供弹方式        14、20、25发弹匣
       瞄准具型式      机械瞄具
       '''
-    dialogue: VM59，加入。指挥官，经过重新改进的我，不会令您失望的。
+    dialogue: BM59，加入。指挥官，经过重新改进的我，不会令您失望的。
     extra: 原子Dan,中条智世,
     en_introduce:
       '''
@@ -4684,7 +4684,7 @@
       有效射程        1,300 米
       供弹方式        3 发弹匣
       '''
-    dialogue: NTW-20狙击步枪,就算是钢铁,我也会贯穿给你看！
+    dialogue: NTW-2狙击步枪,就算是钢铁,我也会贯穿给你看！
     extra: RAN,松嵜 麗,
     en_introduce:
       '''
@@ -5570,7 +5570,7 @@
   {
     id: 62
     name: Gr G41
-    en_name: Gr G41
+    en_name: G41
     code: G41
     introduce:
       '''
@@ -5589,7 +5589,7 @@
       瞄准具型式      机械瞄具：可旋转式调节的旋转屈光式鼓状后照门和冠顶状前准星
                      专用连接装置和适配器以加装光学瞄准镜
       '''
-    dialogue: Gr G41。您就是我的主人吗？请带我回家吧，我会好好做的！
+    dialogue: G41。您就是我的主人吗？请带我回家吧，我会好好做的！
     extra: NS,釘宮理恵,
     en_introduce:
       '''
@@ -5661,7 +5661,7 @@
   {
     id: 63
     name: Gr G3
-    en_name: Gr G3
+    en_name: G3
     code: G3
     introduce:
       '''
@@ -5676,7 +5676,7 @@
       有效射程        500米
       供弹方式        5、10、20发弹匣、50发弹鼓、C-Mag弹鼓
       '''
-    dialogue: 您好,指挥官。从今天起,请用Gr G3这个名字……称呼我吧。
+    dialogue: 您好,指挥官。从今天起,请用G3这个名字……称呼我吧。
     extra: PHI,吉岡香織,
     en_introduce:
       '''
@@ -5771,7 +5771,7 @@
   {
     id: 64
     name: Gr G36
-    en_name: Gr G36
+    en_name: G36
     code: G36
     introduce:
       '''
@@ -5788,7 +5788,7 @@
       供弹方式        30发弹匣、C-Mag弹鼓
       瞄准具型式      3倍光学瞄准镜、红点瞄准镜
       '''
-    dialogue: GutenTag，我的长官。感谢您的赏识，Gr G36从今天起，正式为您服务。
+    dialogue: GutenTag，我的长官。感谢您的赏识，G36从今天起，正式为您服务。
     extra: 薯子Imoko,小清水亜美,
     en_introduce:
       '''
@@ -5862,7 +5862,7 @@
   {
     id: 65
     name: "416"
-    en_name: "416"
+    en_name: HK416
     code: HK416
     introduce:
       '''
@@ -5888,7 +5888,7 @@
       瞄准具型式      机械瞄具：鼓状照门及柱状准星
                      可透过机匣上的Mil-Std-1913战术导轨装上瞄准镜
       '''
-    dialogue: 您就是指挥官吗？416……请记住这个名字吧,这个……与众不同的名字。
+    dialogue: 您就是指挥官吗？HK416……请记住这个名字吧,这个……与众不同的名字。
     extra: NIXOO,野中藍,
     en_introduce:
       '''
@@ -5981,7 +5981,7 @@
   {
     id: 66
     name: 56-1式
-    en_name: Type56-1
+    en_name: Type 56-1 A
     code: 56-1type
     introduce:
       '''
@@ -5998,7 +5998,7 @@
       有效射程        400米
       供弹方式        30发弹匣
       '''
-    dialogue: Type56-1冲锋枪,前来报到！我会坚决消灭每一个敌人！
+    dialogue: 56-1式冲锋枪,前来报到！我会坚决消灭每一个敌人！
     extra: CanceR,雨宮天,
     en_introduce:
       '''
@@ -6200,7 +6200,7 @@
   {
     id: 69
     name: Fr FAMAS
-    en_name: Fr FAMAS
+    en_name: FAMAS
     code: FAMAS
     introduce:
       '''
@@ -6321,7 +6321,7 @@
   {
     id: 70
     name: FF FNC
-    en_name: FF FNC
+    en_name: FNC
     code: FNFNC
     introduce:
       '''
@@ -6431,7 +6431,7 @@
   {
     id: 71
     name: ガリル
-    en_name: "Galil "
+    en_name: AR
     code: AR
     introduce:
       '''
@@ -6785,7 +6785,7 @@
       供弹方式        20、30发弹匣
       瞄准具型式      100至600米，可调式照门
       '''
-    dialogue: 您好,SIG-510突击步枪。我会紧跟您的步伐,请令我成为优秀的战力吧。
+    dialogue: 您好,SIG-51突击步枪。我会紧跟您的步伐,请令我成为优秀的战力吧。
     extra: spirtie,天野未来,
     en_introduce:
       '''
@@ -6873,7 +6873,7 @@
       有效射程        548米
       供弹方式        20发弹匣
       '''
-    dialogue: 我是M1918。指挥官,原来您在这里,可别吓我啊。
+    dialogue: 我是勃朗宁M1918。指挥官,原来您在这里,可别吓我啊。
     extra: 水乌龟,悠木碧,
     en_introduce:
       '''
@@ -6958,7 +6958,7 @@
   {
     id: 77
     name: M2HB
-    en_name: "M2HB "
+    en_name: M2HB
     code: M2HB
     introduce:
       '''
@@ -7068,7 +7068,7 @@
       瞄准具型式      可调式标尺型照门、固定式凖星、
                      后期型可通过导轨加装各种瞄准具
       '''
-    dialogue: 我是M60,请您下达作战指示。
+    dialogue: 我是M6,请您下达作战指示。
     extra: ミカピカゾ,伊藤あすか,
     en_introduce:
       '''
@@ -7143,7 +7143,7 @@
   {
     id: 79
     name: FF M249SAW
-    en_name: FF M249SAW
+    en_name: M249 SAW
     code: M249SAW
     introduce:
       '''
@@ -7160,7 +7160,7 @@
       瞄准具型式      机械瞄具：折叠式照门及准星
                       机匣上的战术导轨装上瞄准镜
       '''
-    dialogue: 指挥官是吗？FF M239SAW，要征用我也可以，不过，别太抱期待哦。
+    dialogue: 指挥官是吗？M249，要征用我也可以，不过，别太抱期待哦。
     extra: 雪樱樱,南條愛乃,
     en_introduce:
       '''
@@ -8047,7 +8047,7 @@
   {
     id: 89
     name: ブレン
-    en_name: Bren
+    en_name: Bren MK I
     code: BrenMK
     introduce:
       '''
@@ -8064,7 +8064,7 @@
       有效射程        550米
       供弹方式        30发弹匣,100发弹盘
       '''
-    dialogue: Bren轻机枪,请将您最艰巨的任务交给我吧。
+    dialogue: 布伦轻机枪,请将您最艰巨的任务交给我吧。
     extra: 废人,雨宮天,
     en_introduce:
       '''
@@ -8150,7 +8150,7 @@
   {
     id: 90
     name: FF FNP9
-    en_name: FF FNP9
+    en_name: FNP-9
     code: FNP9
     introduce:
       '''
@@ -8328,7 +8328,7 @@
       供弹方式        30发、50发弹匣
       瞄准具型式      金属机械瞄具
       '''
-    dialogue: 高速作战武器,Spectre M4,正式加入！指挥官,作为欢迎会……是不是简单了点？
+    dialogue: 高速作战武器,幽灵M4,正式加入！指挥官,作为欢迎会……是不是简单了点？
     extra: MKiiiiii,上間江望,
     en_introduce:
       '''
@@ -8493,7 +8493,7 @@
   {
     id: 94
     name: 64式
-    en_name: Type64
+    en_name: Type 64
     code: 64type
     introduce:
       '''
@@ -8512,7 +8512,7 @@
       供弹方式        20、30发可拆卸式弹匣
       瞄准具型式      机械瞄具：消声器上的照门及准星
       '''
-    dialogue: Type64,报到。长官,很荣幸向您学习。
+    dialogue: 64式,报到。长官,很荣幸向您学习。
     extra: 小迪,堀籠沙耶,
     en_introduce:
       '''
@@ -8587,7 +8587,7 @@
   {
     id: 95
     name: 漢陽88式
-    en_name: Type88
+    en_name: Type 88
     code: 88type
     introduce:
       '''
@@ -8602,7 +8602,7 @@
       供弹方式        5发弹匣，内置弹仓
       瞄准具型式      直立式表尺
       '''
-    dialogue: 欢迎光临！Type88,为您服务！
+    dialogue: 欢迎光临！汉阳造88式,为您服务！
     extra: 团子,相坂優歌,
     en_introduce:
       '''
@@ -8704,7 +8704,7 @@
       瞄准具型式      可调节或拆卸的缺口式照门
                       固定的片状准星
       '''
-    dialogue: 你好啊，长官。Grizzly，今后就跟着您一起啦。
+    dialogue: 你好啊，长官。L.A.R灰熊.5，今后就跟着您一起啦。
     extra: REALMBW,板谷彩香,
     en_introduce:
       '''
@@ -8803,7 +8803,7 @@
       瞄准具型式      机械瞄具：开放式照门（可调节）
                       特制接口导轨以安装光学瞄准镜或夜视镜（可拆卸）
       '''
-    dialogue: M950A。指挥官，现在答应你，今后就要永远服从你了，是吗？
+    dialogue: M95A。指挥官，现在答应你，今后就要永远服从你了，是吗？
     extra: 音符,古賀葵,
     en_introduce:
       '''
@@ -8963,7 +8963,7 @@
   {
     id: 99
     name: Gr Mk23
-    en_name: Gr Mk23
+    en_name: Mk23
     code: Mk23
     introduce:
       '''
@@ -9249,7 +9249,7 @@
       瞄准具型式      机械瞄具：柱型准星和觇孔式照门
                       战术导轨上装上瞄准镜
       '''
-    dialogue: UMP40，登场了！指挥官，那些过时的家伙，就让我为您一一取代掉吧！
+    dialogue: UMP4，登场了！指挥官，那些过时的家伙，就让我为您一一取代掉吧！
     extra: Renatus.Z,上間江望,
     en_introduce:
       '''
@@ -9400,7 +9400,7 @@
   {
     id: 104
     name: Gr G36c
-    en_name: Gr G36c
+    en_name: G36C
     code: G36C
     introduce:
       '''
@@ -9704,7 +9704,7 @@
   {
     id: 107
     name: FF F2000
-    en_name: FF F2000
+    en_name: F2000
     code: F2000
     introduce:
       '''
@@ -9720,7 +9720,7 @@
       供弹方式        30发STANAG弹匣
       瞄准具型式      1.6倍光学瞄具、专用火控系统、后备机械照门
       '''
-    dialogue: 全新的突击武器，F2000。指挥官，不用客气，让我们好好相处吧！
+    dialogue: 全新的突击武器，F2。指挥官，不用客气，让我们好好相处吧！
     extra: hanasa,徳井青空,
     en_introduce:
       '''
@@ -9811,7 +9811,7 @@
       瞄准具型式      机械瞄具
                       可从Mil-Std-1913导轨上装上瞄准镜
       '''
-    dialogue: 呦吼！崭新出众的CZ805A1，今天起为您效劳，指挥官，要期待我的表现哦。
+    dialogue: 呦吼！崭新出众的CZ85A1，今天起为您效劳，指挥官，要期待我的表现哦。
     extra: 木子翔,内田真礼,
     en_introduce:
       '''
@@ -9880,7 +9880,7 @@
   {
     id: 109
     name: Gr MG5
-    en_name: Gr MG5
+    en_name: MG5
     code: MG5
     introduce:
       '''
@@ -9897,7 +9897,7 @@
       供弹方式        50 发鼓状弹链,120 发M13可散式弹链
       瞄准具型式      机械瞄具：高度与风偏可调节式照门及折叠式准星（可折叠）
       '''
-    dialogue: （冷笑）感到意外吗，我的长官？MchG5，今后听命于你的安排，以上。
+    dialogue: （冷笑）感到意外吗，我的长官？MG5，今后听命于你的安排，以上。
     extra: 音符,小清水亜美,
     en_introduce:
       '''
@@ -10171,7 +10171,7 @@
   {
     id: 112
     name: ネゲヴ
-    en_name: Negev
+    en_name: NEGEV
     code: NEGEV
     introduce:
       '''
@@ -10187,7 +10187,7 @@
       有效射程        1000米
       供弹方式        Galil的35/50发弹匣、弹链
       '''
-    dialogue: 我是“Negev”哦，作为战斗专家，今天将在指挥部就职了，准备重用我吧。
+    dialogue: 我是“内格夫”哦，作为战斗专家，今天将在指挥部就职了，准备重用我吧。
     extra: 十月十日奏,諏訪彩花,
     en_introduce:
       '''
@@ -10356,7 +10356,7 @@
   {
     id: 114
     name: ウェルロッドMkⅡ
-    en_name: Welrod MkⅡ
+    en_name: Welrod Mk Ⅱ
     code: Welrod
     introduce:
       '''
@@ -10372,7 +10372,7 @@
       供弹方式        18发弹匣
       瞄准具型式      缺口式照门
       '''
-    dialogue: Welrod MkⅡ，就任。欢迎仪式就免了，寄身于黑暗的我，没有接受礼花的必要……
+    dialogue: 维尔德MarkⅡ型，就任。欢迎仪式就免了，寄身于黑暗的我，没有接受礼花的必要……
     extra: 工口牛,今井麻美,
     en_introduce:
       '''
@@ -10440,7 +10440,7 @@
   {
     id: 115
     name: スオミ
-    en_name: Suomi
+    en_name: "KP/-31 "
     code: KP31
     introduce:
       '''
@@ -10618,7 +10618,7 @@
   {
     id: 117
     name: Gr PSG-1
-    en_name: Gr PSG-1
+    en_name: PSG-1
     code: PSG1
     introduce:
       '''
@@ -10942,7 +10942,7 @@
                       75、100发RPK可拆卸式弹鼓
       瞄准具型式      机匣顶部的MIL-STD-1913战术导轨上安装后备机械瞄具、日间／夜间光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜和／或热成像仪（可拆卸）
       '''
-    dialogue: Ciao……我是ARX-160，新世纪的新星哦……嗯，不像吗？差不多就可以了哦。
+    dialogue: Ciao……我是ARX-16，新世纪的新星哦……嗯，不像吗？差不多就可以了哦。
     extra: 死盖,萩原あみ,
     en_introduce:
       '''
@@ -11123,7 +11123,7 @@
   {
     id: 122
     name: Gr G11
-    en_name: Gr G11
+    en_name: G11
     code: G11
     introduce:
       '''
@@ -11403,7 +11403,7 @@
   {
     id: 125
     name: Gr MG4
-    en_name: Gr MG4
+    en_name: MG4
     code: MG4
     introduce:
       '''
@@ -11580,27 +11580,16 @@
     introduce:
       '''
       类型            冲锋枪
-
       总重            1.75公斤
-
       全长            枪托打开：740毫米
-
                       枪托折叠：470毫米
-
       枪管长度        250毫米
-
       弹药            7.62×25mm托卡列夫手枪弹
-
       枪机种类        气动式、转拴式枪机、闭锁式枪机
-
       发射速率        1000发/分钟（理论射速）
-
       枪口初速        515米/秒
-
       有效射程        200米
-
       供弹方式        20发弹匣
-
       瞄准具型式      金属机械瞄具
       '''
     dialogue: 长官，79式，正式报到，请下命令！
@@ -11762,7 +11751,7 @@
   {
     id: 129
     name: 95式
-    en_name: Type95
+    en_name: Type 95
     code: 95type
     introduce:
       '''
@@ -11853,7 +11842,7 @@
   {
     id: 130
     name: 97式
-    en_name: Type97
+    en_name: Type 97
     code: 97type
     introduce:
       '''
@@ -12030,7 +12019,7 @@
   {
     id: 132
     name: 59式
-    en_name: Type59
+    en_name: Type 59
     code: 59type
     introduce:
       '''
@@ -12115,7 +12104,7 @@
   {
     id: 133
     name: 63式
-    en_name: Type63
+    en_name: Type 63
     code: 63type
     introduce:
       '''
@@ -12134,7 +12123,7 @@
                       30 发56式冲锋枪弹匣
       瞄准具型式      机械瞄具：金属Ｕ状缺口式照门及准星（照门可前后滑动调节，准星以金属圈包覆）
       '''
-    dialogue: Type63，报到！长官，感谢您的提拔，请让我重新发挥作用吧！
+    dialogue: 63式，报到！长官，感谢您的提拔，请让我重新发挥作用吧！
     extra: TOMATO,堀籠沙耶,
     en_introduce:
       '''
@@ -12210,42 +12199,25 @@
     introduce:
       '''
       类型            突击步枪
-
       总重            4.07公斤
-
       全长            998毫米
-
       枪管长度        450毫米
-
       弹药            5.56×45毫米M193
-
                       5.56×45毫米NATO
-
       枪机种类        长行程导气式活塞
-
                       转拴式枪机
-
                       闭锁式枪机
-
       发射速率        670±70 发／分钟
-
       枪口初速        950 米／秒
-
       有效射程        500 米
-
       供弹方式        5、10、20、30、40发可拆卸式STANAG弹匣
-
                       100发可拆卸式C-Mag弹鼓
-
       瞄准具型式      机械瞄具：金属觇孔式照门及准星
-
                       提把式瞄准具：提把上的金属缺口式照门及准星（三点式，近战专用）
-
                       枪榴弹瞄准具
-
                       移除上方的提把后安装的各种光学瞄准镜
       '''
-    dialogue: 初次见面，尊敬的指挥官，AR70向您致以问候。我将真诚地期待与您相处的时光，一定会十分愉快呢。
+    dialogue: 初次见面，尊敬的指挥官，AR7向您致以问候。我将真诚地期待与您相处的时光，一定会十分愉快呢。
     extra: NoriZC,山本希望,
     en_introduce:
       '''
@@ -12847,7 +12819,7 @@
   {
     id: 141
     name: Gr USPコンパクト
-    en_name: Gr USPCompact
+    en_name: USP Compact
     code: USPCompact
     introduce:
       '''
@@ -13426,7 +13398,7 @@
       供弹方式        5发可拆卸式弹匣
       瞄准具型式      10倍光学瞄准镜
       '''
-    dialogue: IWS 2000报到，指挥官，让我成为您最可靠的力量吧。
+    dialogue: IWS 2报到，指挥官，让我成为您最可靠的力量吧。
     extra: 十月十日奏,瀬戸麻沙美,
     en_introduce:
       '''
@@ -13894,7 +13866,7 @@
       瞄准具型式      机械瞄具
                       可选择于枪管（悬臂式）或机匣上（一条式）装上韦弗式导轨或MIL-STD-1913战术导轨座以安装日间／夜间光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜或热成像仪（可拆卸）
       '''
-    dialogue: Hello，指挥官！莫斯伯格500型霰弹武器，很高兴见到您！快来命令我吧！
+    dialogue: Hello，指挥官！莫斯伯格5型霰弹武器，很高兴见到您！快来命令我吧！
     extra: Ki桑,青木瑠璃子,
     en_introduce:
       '''
@@ -13977,7 +13949,7 @@
       瞄准具型式      机械瞄具
                       可选择于枪管（悬臂式）或机匣上（一条式）装上韦弗式导轨或MIL-STD-1913战术导轨座以安装日间／夜间光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜或热成像仪（可拆卸）
       '''
-    dialogue: 指挥官，您好。莫斯伯格590型霰弹武器，很荣幸加入您的梯队，请随时下达您的命令！
+    dialogue: 指挥官，您好。莫斯伯格59型霰弹武器，很荣幸加入您的梯队，请随时下达您的命令！
     extra: 防弹乳牛,青木瑠璃子,
     en_introduce:
       '''
@@ -14122,7 +14094,7 @@
   {
     id: 157
     name: Am KSG
-    en_name: Am KSG
+    en_name: KSG
     code: KSG
     introduce:
       '''
@@ -14435,7 +14407,7 @@
   {
     id: 161
     name: 97式散
-    en_name: Type97S
+    en_name: Type 97 S
     code: 97typeS
     introduce:
       '''
@@ -15313,7 +15285,7 @@
   {
     id: 172
     name: Am RFB
-    en_name: Am RFB
+    en_name: RFB
     code: RFB
     introduce:
       '''
@@ -15405,7 +15377,7 @@
   {
     id: 173
     name: PKP
-    en_name: PKP
+    en_name: Pecheneg
     code: PKP
     introduce:
       '''
@@ -15488,7 +15460,7 @@
   {
     id: 174
     name: 81式カービン
-    en_name: Type81R
+    en_name: type 81 R
     code: 81typeR
     introduce:
       '''
@@ -15886,7 +15858,7 @@
       供弹方式        3、5发可拆式弹匣
       瞄准具型式      机匣顶部经过改良的MIL-STD-1913战术导轨上安装日间／夜间光学狙击镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜和／或热成像仪（可拆卸）
       '''
-    dialogue: DSR-50，指挥官……相信您做梦都会念着这个名字的，哼哼……
+    dialogue: DSR-5，指挥官……相信您做梦都会念着这个名字的，哼哼……
     extra: liduke,斉藤佑圭,
     en_introduce:
       '''
@@ -16278,7 +16250,7 @@
                       .338 Lapua Magnum：5发可拆卸式弹匣
       瞄准具型式       机匣顶部的MIL-STD-1913战术导轨上安装日间／夜间望远式狙击镜、光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视仪、热成像仪和／或后备机械瞄具（可拆卸）
       '''
-    dialogue: 指挥官您好，我是T-5000……抱歉，要是给您留下了太强烈的印象，还请您尽快忘记吧。
+    dialogue: 指挥官您好，我是T-5……抱歉，要是给您留下了太强烈的印象，还请您尽快忘记吧。
     extra: 92M,藤井ゆきよ,
     en_introduce:
       '''
@@ -16757,7 +16729,7 @@
       瞄准具型式      提把式瞄准具：鬼环式照门及刀片式准星（可调节）
                       瞄准基线：120 毫米
       '''
-    dialogue: 指挥官您好！我是Neostead2000！……还满意吗？这是我特意练习了200次发音的问候哦~
+    dialogue: 指挥官您好！我是Neostead2！……还满意吗？这是我特意练习了2次发音的问候哦~
     extra: HIKARI,奈波果林,
     en_introduce:
       '''
@@ -17477,7 +17449,7 @@
       瞄准具型式      机械瞄具：金属矩型缺口式照门和柱状准星（可调节）
                       机匣上安装光学瞄准镜或夜视镜
       '''
-    dialogue: 啊……那个啥，你就是长官吧？我是80式，只要别把我核心拆了，其他的你就看着办吧。
+    dialogue: 啊……那个啥，你就是长官吧？我是8式，只要别把我核心拆了，其他的你就看着办吧。
     extra: 兔爷,田澤利依子,
     en_introduce:
       '''
@@ -18156,7 +18128,7 @@
       供弹方式        30发透明塑料弹匣和75发容量的弹鼓
       瞄准具型式      柱形准星和带觇孔照门的机械滑动弧形表尺
       '''
-    dialogue: CZ2000报到！指挥官，今后就把同伴的后背交给我吧！……哼哼~这样的台词早就想说一次了！
+    dialogue: CZ2报到！指挥官，今后就把同伴的后背交给我吧！……哼哼~这样的台词早就想说一次了！
     extra: NoriZC,蘓和治美,
     en_introduce:
       '''
@@ -19738,7 +19710,7 @@
   {
     id: 228
     name: 一〇〇式
-    en_name: 100Shiki
+    en_name: Sakura
     code: Type100
     introduce:
       '''
@@ -25118,6 +25090,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10403
+    related_story_id: 100302
     gun_tag_ids: "117"
     atk_speed_max: 60
     ratio_rec: 112
@@ -25413,13 +25386,13 @@
     ratio_range: 100
     skill1: 115901
     normal_attack: 115902
-    passive_skill: "115904,115905,300202,702035"
+    passive_skill: "115904,115905,300202,759071"
     dynamic_passive_skill: "115903"
     effect_grid_center: 18
     effect_guntype: "6"
     effect_grid_pos: "18,23,24"
     effect_grid_effect: "2,15;8,15"
-    type_equip1: 2;5,17
+    type_equip1: 2;5,17,19
     type_equip2: 1;1,2,3,16
     type_equip3: 3;14,21
     ai: 238
@@ -25721,6 +25694,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10402
+    related_story_id: 100312
     gun_tag_ids: "108"
     atk_speed_max: 135
     ratio_rec: 100
@@ -25897,6 +25871,7 @@
     obtain_ids: "236"
     rank_display: 5
     org_id: 10303
+    related_story_id: 100315
     gun_tag_ids: "125"
     atk_speed_max: 150
     ratio_rec: 105
@@ -25959,6 +25934,7 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10203
+    related_story_id: 100316
     gun_tag_ids: "126,125,143"
     atk_speed_max: 125
     ratio_rec: 90
@@ -26021,6 +25997,7 @@
     obtain_ids: "234"
     rank_display: 4
     org_id: 10202
+    related_story_id: 100317
     gun_tag_ids: "10101,112"
     atk_speed_max: 120
     ratio_rec: 95
@@ -26083,6 +26060,7 @@
     obtain_ids: "235"
     rank_display: 5
     org_id: 10403
+    related_story_id: 100318
     gun_tag_ids: "108"
     atk_speed_max: 135
     ratio_rec: 105
@@ -26145,6 +26123,7 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10402
+    related_story_id: 100319
     gun_tag_ids: "108,160"
     atk_speed_max: 1000
     ratio_rec: 115
@@ -26322,6 +26301,7 @@
     rank_display: 3
     gun_detail_bg: nation_China
     org_id: 10705
+    related_story_id: 100322
     gun_tag_ids: "117,114"
     atk_speed_max: 120
     ratio_rec: 105
@@ -26876,6 +26856,7 @@
     obtain_ids: "240"
     rank_display: 5
     org_id: 10401
+    related_story_id: 100331
     gun_tag_ids: "10101"
     atk_speed_max: 130
     ratio_rec: 110
@@ -26933,6 +26914,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10704
+    related_story_id: 100332
     gun_tag_ids: "118"
     atk_speed_max: 120
     ratio_rec: 105
@@ -26992,6 +26974,7 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10201
+    related_story_id: 100333
     gun_tag_ids: "125,10101"
     atk_speed_max: 150
     ratio_rec: 105
@@ -27060,6 +27043,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10302
+    related_story_id: 100334
     gun_tag_ids: "108"
     atk_speed_max: 125
     ratio_rec: 110
@@ -27121,6 +27105,7 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10202
+    related_story_id: 100335
     gun_tag_ids: "108,131"
     atk_speed_max: 120
     ratio_rec: 100
@@ -27192,7 +27177,7 @@
   {
     id: 337
     name: デ・リーズル
-    en_name: De Lisle
+    en_name: Delisle
     code: Delisle
     extra: Unagi,佐倉綾音,
     en_introduce:
@@ -27309,6 +27294,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10802
+    related_story_id: 100338
     gun_tag_ids: "117,110"
     atk_speed_max: 135
     ratio_rec: 105
@@ -27493,6 +27479,7 @@
     obtain_ids: "247"
     rank_display: 5
     org_id: 10202
+    related_story_id: 100341
     gun_tag_ids: "131,113,10102"
     atk_speed_max: 135
     ratio_rec: 125
@@ -27556,6 +27543,7 @@
     obtain_ids: "245"
     rank_display: 5
     org_id: 10201
+    related_story_id: 100342
     gun_tag_ids: "126"
     atk_speed_max: 135
     ratio_rec: 120
@@ -27617,6 +27605,7 @@
     obtain_ids: "246"
     rank_display: 4
     org_id: 10402
+    related_story_id: 100343
     gun_tag_ids: "10101"
     atk_speed_max: 120
     ratio_rec: 102
@@ -27680,6 +27669,7 @@
     obtain_ids: "245"
     rank_display: 4
     org_id: 10403
+    related_story_id: 100344
     gun_tag_ids: "10101"
     atk_speed_max: 120
     ratio_rec: 100
@@ -27740,6 +27730,7 @@
     obtain_ids: "246"
     rank_display: 5
     org_id: 10202
+    related_story_id: 100345
     gun_tag_ids: "108,165"
     atk_speed_max: 1000
     ratio_rec: 105
@@ -28118,6 +28109,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10705
+    related_story_id: 100351
     gun_tag_ids: "121,162"
     atk_speed_max: 60
     ratio_rec: 120
@@ -28425,6 +28417,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10202
+    related_story_id: 100356
     gun_tag_ids: "108,112,124"
     atk_speed_max: 135
     ratio_rec: 100
@@ -28486,6 +28479,7 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10203
+    related_story_id: 100357
     gun_tag_ids: "118,124"
     atk_speed_max: 130
     ratio_rec: 100
@@ -28549,6 +28543,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10202
+    related_story_id: 100358
     gun_tag_ids: "103"
     atk_speed_max: 120
     ratio_rec: 105
@@ -28611,6 +28606,7 @@
     obtain_ids: "248"
     rank_display: 5
     org_id: 10402
+    related_story_id: 100359
     gun_tag_ids: "121,105,133,10101"
     atk_speed_max: 135
     ratio_rec: 112
@@ -28669,6 +28665,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
+    related_story_id: 100360
     gun_tag_ids: "108,111,10102,147"
     atk_speed_max: 120
     ratio_rec: 102
@@ -28730,6 +28727,7 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10402
+    related_story_id: 100361
     gun_tag_ids: "109,121,156"
     atk_speed_max: 135
     ratio_rec: 110
@@ -28793,6 +28791,7 @@
     obtain_ids: "248"
     rank_display: 4
     org_id: 10403
+    related_story_id: 100362
     gun_tag_ids: "103,160"
     atk_speed_max: 1000
     ratio_rec: 100
@@ -29353,6 +29352,7 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100371
     show_damage_skin: ",0,"
     gun_tag_ids: "108,10101"
     atk_speed_max: 120
@@ -29418,6 +29418,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100372
     show_damage_skin: ",0,"
     gun_tag_ids: "148,107,10101"
     atk_speed_max: 135
@@ -29476,6 +29477,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
+    related_story_id: 100373
     show_damage_skin: ",0,"
     gun_tag_ids: "121,153"
     atk_speed_max: 120
@@ -29607,6 +29609,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10701
+    related_story_id: 100375
     gun_tag_ids: "103,113,124"
     atk_speed_max: 120
     ratio_rec: 90
@@ -29673,6 +29676,7 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10703
+    related_story_id: 100376
     gun_tag_ids: "131,103"
     atk_speed_max: 135
     ratio_rec: 150
@@ -29748,6 +29752,7 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10402
+    related_story_id: 100377
     gun_tag_ids: "103,108,134"
     atk_speed_max: 125
     ratio_rec: 96
@@ -29823,6 +29828,7 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10201
+    related_story_id: 100378
     gun_tag_ids: "118,103,134"
     atk_speed_max: 135
     ratio_rec: 100
@@ -31072,7 +31078,6 @@
     obtain_ids: "221"
     rank_display: 7
     gun_detail_bg: collab
-    related_story_id: 42
     gun_tag_ids: "103,124"
     atk_speed_max: 120
     ratio_rec: 120
@@ -31120,7 +31125,6 @@
     obtain_ids: "222"
     rank_display: 7
     gun_detail_bg: collab
-    related_story_id: 42
     gun_tag_ids: "10102,113"
     atk_speed_max: 120
     ratio_rec: 128
@@ -31169,7 +31173,6 @@
     obtain_ids: "223"
     rank_display: 7
     gun_detail_bg: collab
-    related_story_id: 42
     gun_tag_ids: "125"
     atk_speed_max: 135
     ratio_rec: 100
@@ -31218,7 +31221,6 @@
     obtain_ids: "222"
     rank_display: 7
     gun_detail_bg: collab
-    related_story_id: 42
     gun_tag_ids: "108"
     atk_speed_max: 125
     ratio_rec: 102
@@ -31269,7 +31271,6 @@
     obtain_ids: "223"
     rank_display: 7
     gun_detail_bg: collab
-    related_story_id: 42
     gun_tag_ids: "126"
     atk_speed_max: 1000
     ratio_rec: 118
@@ -31321,7 +31322,6 @@
     obtain_ids: "220"
     rank_display: 7
     gun_detail_bg: collab
-    related_story_id: 42
     gun_tag_ids: "117,121"
     atk_speed_max: 60
     ratio_rec: 122
@@ -31576,30 +31576,6 @@
     name: エージェントVector
     en_name: Vector
     code: VectorAgent
-    introduce:
-      '''
-      类型            冲锋枪
-      总重            空枪：2.72公斤
-      全长            枪托折叠：406.4毫米
-                      枪托伸展：617.22毫米
-      枪管长度        139.7毫米
-      弹药            9×19毫米鲁格弹
-                      .45 ACP（.45自动手枪子弹）
-      枪机种类        向量延迟反冲作用/闭锁式枪机
-      发射速率        1,100—1,200发／分钟
-      枪口初速        270 米／秒
-      有效射程        100米
-      供弹方式        9×19毫米鲁格弹：
-                         10、17、19、31、33发原厂弹匣
-                         100发C-Mag弹鼓
-                      .45 ACP：
-                         10、13发格洛克21可拆卸式弹匣
-                         可选用25发“MagEx 25+”延长型可拆卸式弹匣（需装上加长弹匣附件）
-                         28发可选用“MagEx G28”弹匣（需装上加长弹匣附件，已停产）
-                         30发可选用“MagEx G30”弹匣（需装上加长弹匣附件，已停产）
-      瞄准具型式       机匣顶部的MIL-STD-1913战术导轨上安装的机械瞄具、光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜和／或热成像仪（可拆卸）
-      '''
-    dialogue: 哦？新的长官吗？嗯……总之,好好相处吧。
     extra: RIRE,,
     en_introduce:
       '''
@@ -31689,31 +31665,6 @@
     name: エージェント416
     en_name: HK416
     code: HK416Agent
-    introduce:
-      '''
-      类型            突击步枪
-      总重            11吋枪管：3.12公斤
-                      14.5吋枪管：3.49公斤
-                      16.5吋枪管：3.56公斤
-                      20吋枪管：3.85公斤
-      全长            11寸枪管、缩起／展开枪托：709／805毫米
-                      14.5寸枪管、缩起／展开枪托：797／893毫米
-                      16.5寸枪管、缩起／展开枪托：848／944毫米
-                      20寸枪管、缩起／展开枪托：934／1,030毫米
-      枪管长度        279毫米
-                      368毫米
-                      419毫米
-                      505毫米
-      弹药            5.56×45毫米
-      枪机种类        短行程导气式活塞、转拴式枪机
-      发射速率        700—900发／分钟
-      枪口初速        因不同的枪管长度和使用弹种而定
-      有效射程        150—250米
-      供弹方式        30发STANAG弹匣
-      瞄准具型式      机械瞄具：鼓状照门及柱状准星
-                     可透过机匣上的Mil-Std-1913战术导轨装上瞄准镜
-      '''
-    dialogue: 您就是指挥官吗？HK416……请记住这个名字吧,这个……与众不同的名字。
     extra: NIXOO,,
     en_introduce:
       '''
@@ -32380,6 +32331,155 @@
     recommended_team_ids: "9"
   }
   {
+    id: 1042
+    name: 草薙素子
+    en_name: Motoko
+    code: Motoko
+    extra: 小枪,田中敦子,
+    type: 1
+    rank: 5
+    develop_duration: 3600
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 105
+    ratio_pow: 95
+    ratio_rate: 112
+    ratio_speed: 100
+    ratio_hit: 122
+    ratio_dodge: 138
+    armor_piercing: 15
+    crit: 20
+    special: 1
+    eat_ratio: 130
+    ratio_range: 100
+    skill1: 750900
+    normal_attack: 750905
+    passive_skill: "750901"
+    dynamic_passive_skill: "750906,750904,750903"
+    effect_grid_center: 13
+    effect_grid_pos: "8,12,14,7,9,18"
+    effect_grid_effect: "1,15;5,10"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6
+    type_equip3: 3;10,20
+    ai: 1035
+    is_additional: 1
+    launch_time: 2024-06-03 00:00:00
+    obtain_ids: "260"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,600,"
+    gun_tag_ids: "103,124"
+    atk_speed_max: 120
+    ratio_rec: 105
+    recommended_team_ids: "2,3,4,8"
+  }
+  {
+    id: 1043
+    name: 江崎プリン
+    en_name: Ezaki
+    code: Ezaki
+    extra: 二花,潘めぐみ,
+    type: 4
+    rank: 5
+    develop_duration: 14100
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 100
+    ratio_pow: 108
+    ratio_rate: 108
+    ratio_speed: 100
+    ratio_hit: 98
+    ratio_dodge: 105
+    armor_piercing: 15
+    crit: 30
+    eat_ratio: 145
+    ratio_range: 100
+    skill1: 750907
+    normal_attack: 750909
+    passive_skill: "750908,750910"
+    dynamic_passive_skill: "750911,750912"
+    effect_grid_center: 13
+    effect_guntype: "2,4"
+    effect_grid_pos: "12,17,18,14,19"
+    effect_grid_effect: "1,10;3,20"
+    type_equip1: 1;1,2,3,4,13
+    type_equip2: 2;8
+    type_equip3: 3;9,10,20
+    ai: 1007
+    is_additional: 1
+    launch_time: 2024-06-03 00:00:00
+    obtain_ids: "262"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,598,"
+    gun_tag_ids: "108,117,121"
+    atk_speed_max: 135
+    ratio_rec: 100
+    recommended_team_ids: "1"
+  }
+  {
+    id: 1044
+    name: ミズカネスズカ
+    en_name: Mizukinn
+    code: Mizukinn
+    extra: 陆银,庄司宇芽香,
+    type: 5
+    rank: 5
+    develop_duration: 23760
+    baseammo: 40
+    basemre: 30
+    ammo_add_withnumber: 25
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 5
+    retiremre: 2
+    retirepart: 5
+    ratio_life: 96
+    ratio_pow: 128
+    ratio_rate: 128
+    ratio_speed: 100
+    ratio_hit: 110
+    ratio_dodge: 120
+    armor_piercing: 15
+    crit: 5
+    special: 9
+    eat_ratio: 118
+    ratio_range: 100
+    skill1: 750913
+    normal_attack: 750915
+    passive_skill: "750917,750918,750919,750920,750921"
+    dynamic_passive_skill: "750914,750916"
+    effect_grid_center: 18
+    effect_guntype: "6"
+    effect_grid_pos: "23,24"
+    effect_grid_effect: "1,15;8,15"
+    type_equip1: 2;5,17
+    type_equip2: 1;1,2,3,16,18
+    type_equip3: 3;14,21
+    ai: 1026
+    is_additional: 1
+    launch_time: 2024-06-03 00:00:00
+    obtain_ids: "261"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,599,"
+    gun_tag_ids: "125,143"
+    atk_speed_max: 1000
+    ratio_rec: 95
+    recommended_team_ids: "3,5"
+  }
+  {
     id: 9001
     name: キュクロープスA
     en_name: Cyclops
@@ -32781,25 +32881,15 @@
     introduce:
       '''
       类型            突击步枪
-
       总重            空枪：2.88公斤
-
       全长            缩起枪托：757毫米
-
                       展开枪托：838毫米
-
       枪管长度        368.3毫米
-
       弹药            5.56 × 45毫米NATO
-
       枪机种类        直接导气式，转拴式枪机
-
       发射速率        700—950发／分钟
-
       枪口初速        905米／秒
-
       有效射程        500米
-
       供弹方式        20、30发STANAG弹匣
       '''
     dialogue: 您就是指挥官吗,接下来的事,就拜托您了。
@@ -32879,28 +32969,18 @@
     introduce:
       '''
       类型            冲锋手枪
-
       总重            空枪：1.02公斤
-
       全长            355毫米
-
       枪管长度        152.4毫米
-
       弹药            9×19毫米鲁格弹
-
       枪机种类        滚轮延迟反冲式
-
       枪口初速        393.18 米／秒
-
       有效射程        大约60 米
-
       供弹方式        50、100发可拆卸式弹筒
-
       瞄准具型式      机械瞄具：开放式照门（可调节）
-
                       特制接口导轨以安装光学瞄准镜或夜视镜（可拆卸）
       '''
-    dialogue: M950A。指挥官，现在答应你，今后就要永远服从你了，是吗？
+    dialogue: M95A。指挥官，现在答应你，今后就要永远服从你了，是吗？
     en_introduce:
       '''
       Type                       Machine pistol
@@ -33523,28 +33603,18 @@
     introduce:
       '''
       类型            冲锋手枪
-
       总重            空枪：1.02公斤
-
       全长            355毫米
-
       枪管长度        152.4毫米
-
       弹药            9×19毫米鲁格弹
-
       枪机种类        滚轮延迟反冲式
-
       枪口初速        393.18 米／秒
-
       有效射程        大约60 米
-
       供弹方式        50、100发可拆卸式弹筒
-
       瞄准具型式      机械瞄具：开放式照门（可调节）
-
                       特制接口导轨以安装光学瞄准镜或夜视镜（可拆卸）
       '''
-    dialogue: M950A。指挥官，现在答应你，今后就要永远服从你了，是吗？
+    dialogue: M95A。指挥官，现在答应你，今后就要永远服从你了，是吗？
     en_introduce:
       '''
       Type                       Machine pistol
@@ -33820,28 +33890,18 @@
     introduce:
       '''
       类型            冲锋手枪
-
       总重            空枪：1.02公斤
-
       全长            355毫米
-
       枪管长度        152.4毫米
-
       弹药            9×19毫米鲁格弹
-
       枪机种类        滚轮延迟反冲式
-
       枪口初速        393.18 米／秒
-
       有效射程        大约60 米
-
       供弹方式        50、100发可拆卸式弹筒
-
       瞄准具型式      机械瞄具：开放式照门（可调节）
-
                       特制接口导轨以安装光学瞄准镜或夜视镜（可拆卸）
       '''
-    dialogue: M950A。指挥官，现在答应你，今后就要永远服从你了，是吗？
+    dialogue: M95A。指挥官，现在答应你，今后就要永远服从你了，是吗？
     en_introduce:
       '''
       Type                       Machine pistol
@@ -34115,28 +34175,18 @@
     introduce:
       '''
       类型            冲锋手枪
-
       总重            空枪：1.02公斤
-
       全长            355毫米
-
       枪管长度        152.4毫米
-
       弹药            9×19毫米鲁格弹
-
       枪机种类        滚轮延迟反冲式
-
       枪口初速        393.18 米／秒
-
       有效射程        大约60 米
-
       供弹方式        50、100发可拆卸式弹筒
-
       瞄准具型式      机械瞄具：开放式照门（可调节）
-
                       特制接口导轨以安装光学瞄准镜或夜视镜（可拆卸）
       '''
-    dialogue: M950A。指挥官，现在答应你，今后就要永远服从你了，是吗？
+    dialogue: M95A。指挥官，现在答应你，今后就要永远服从你了，是吗？
     en_introduce:
       '''
       Type                       Machine pistol
@@ -34501,25 +34551,15 @@
     introduce:
       '''
       类型            突击步枪
-
       总重            空枪：2.88公斤
-
       全长            缩起枪托：757毫米
-
                       展开枪托：838毫米
-
       枪管长度        368.3毫米
-
       弹药            5.56 × 45毫米NATO
-
       枪机种类        直接导气式，转拴式枪机
-
       发射速率        700—950发／分钟
-
       枪口初速        905米／秒
-
       有效射程        500米
-
       供弹方式        20、30发STANAG弹匣
       '''
     dialogue: 您就是指挥官吗,接下来的事,就拜托您了。
@@ -34603,23 +34643,14 @@
     introduce:
       '''
       类型            半自动步枪
-
       总重            2.27公斤 - 3.9公斤
-
       全长            991毫米
-
       枪管长度        508毫米，406毫米,368毫米
-
       弹药            .223 Remington、5.56×45毫米NATO
-
       枪机种类        直接导气式，转拴式枪机
-
       发射速率        800发/分
-
       枪口初速        975米/秒
-
       有效射程        550米
-
       供弹方式        10、20、30发STANAG弹匣、其他
       '''
     dialogue: ST AR-15,正式加入,请注视着我,好好认清我的价值吧。
@@ -40300,7 +40331,7 @@
       有效射程        1,300 米
       供弹方式        3 发弹匣
       '''
-    dialogue: NTW-20狙击步枪,就算是钢铁,我也会贯穿给你看！
+    dialogue: NTW-2狙击步枪,就算是钢铁,我也会贯穿给你看！
     extra: RAN,松嵜 麗,
     en_introduce:
       '''
@@ -41082,7 +41113,7 @@
   {
     id: 20065
     name: "416"
-    en_name: "416"
+    en_name: HK416
     code: HK416Mod
     introduce:
       '''
@@ -42318,7 +42349,7 @@
       瞄准具型式      机械瞄具：开放式照门（可调节）
                       特制接口导轨以安装光学瞄准镜或夜视镜（可拆卸）
       '''
-    dialogue: M950A。指挥官，现在答应你，今后就要永远服从你了，是吗？
+    dialogue: M95A。指挥官，现在答应你，今后就要永远服从你了，是吗？
     extra: 八号地球,古賀葵,
     en_introduce:
       '''
@@ -42456,14 +42487,14 @@
     skill1: 802801
     skill2: 802802
     normal_attack: 300102
-    passive_skill: "202003"
+    passive_skill: "202003,756233,759076,759079"
     dynamic_passive_skill: "802803"
     effect_grid_center: 13
     effect_guntype: "4"
     effect_grid_pos: "7,8,9"
     effect_grid_effect: "2,15;3,30"
     type_equip1: 3;9,10,20
-    type_equip2: 2;6
+    type_equip2: 2;6,19
     type_equip3: 1;1,2,3,4,13,18
     ai: 101
     launch_time: 2016-05-20 00:00:00
@@ -42547,13 +42578,14 @@
     skill1: 801801
     skill2: 801804
     normal_attack: 801803
-    passive_skill: "200420,900156,202002,702019,702024,756001"
+    passive_skill: "200420,900156,202002,702019,702024,756001,756233,759075,759078"
+    dynamic_passive_skill: "759095"
     effect_grid_center: 13
     effect_guntype: "4"
     effect_grid_pos: "7,8,9"
     effect_grid_effect: "1,20;5,30"
     type_equip1: 3;9,10,20
-    type_equip2: 2;6
+    type_equip2: 2;6,19
     type_equip3: 1;1,2,3,4,13,18
     ai: 103
     launch_time: 2020-05-19 00:00:00
@@ -43408,7 +43440,7 @@
       瞄准具型式      机械瞄具
                       可选择于枪管（悬臂式）或机匣上（一条式）装上韦弗式导轨或MIL-STD-1913战术导轨座以安装日间／夜间光学瞄准镜、红点镜／反射式瞄准镜、全息瞄准镜、夜视镜或热成像仪（可拆卸）
       '''
-    dialogue: Hello，指挥官！莫斯伯格500型霰弹武器，很高兴见到您！快来命令我吧！
+    dialogue: Hello，指挥官！莫斯伯格5型霰弹武器，很高兴见到您！快来命令我吧！
     extra: Ki桑,青木瑠璃子,
     en_introduce:
       '''
@@ -43802,7 +43834,7 @@
       瞄准具型式      机械瞄具：金属矩型缺口式照门和柱状准星（可调节）
                       机匣上安装光学瞄准镜或夜视镜
       '''
-    dialogue: 啊……那个啥，你就是长官吧？我是80式，只要别把我核心拆了，其他的你就看着办吧。
+    dialogue: 啊……那个啥，你就是长官吧？我是8式，只要别把我核心拆了，其他的你就看着办吧。
     extra: 兔爷,田澤利依子,
     en_introduce:
       '''

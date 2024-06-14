@@ -499,7 +499,6 @@
   {
     id: 150
     type: friend_apply
-    unlock_label: mission:7
     count: 1
     prize_id: 758
     title: 戦友：戦友申請
@@ -511,7 +510,6 @@
   {
     id: 151
     type: friend_card_change
-    unlock_label: mission:7
     count: 1
     prize_id: 759
     title: 戦友：IDカード背景変更
@@ -523,7 +521,6 @@
   {
     id: 152
     type: friend_headpic_change
-    unlock_label: mission:7
     count: 1
     prize_id: 760
     title: 戦友：アイコン変更
@@ -737,10 +734,10 @@
   {
     id: 172
     type: squad_base_data_analyse
-    count: 1
+    count: 20
     prize_id: 780
-    title: 重装部隊：原始サンプル
-    content: 「情報センター-記録装置」で原始サンプルを使いサンプリング分析を1回行う
+    title: 火力支援小隊：原始サンプル
+    content: 原始サンプルを累計20個以上を消費する
     new_type: 1
     grade_id: 29
     sort: 206
@@ -748,43 +745,21 @@
   {
     id: 173
     type: squad_senior_data_analyse
-    count: 1
+    count: 20
     prize_id: 781
-    title: 重装部隊：純正サンプル
-    content: 「情報センター-記録装置」で純正サンプルを使いサンプリング分析を1回行う
+    title: 火力支援小隊：純正サンプル
+    content: 純正サンプルを累計20個以上を消費する
     new_type: 1
     grade_id: 29
     sort: 207
-  }
-  {
-    id: 174
-    type: squad_get_chip
-    count: 1
-    prize_id: 782
-    title: 重装部隊：チップ
-    content: データチップを初めて手に入れる
-    new_type: 1
-    grade_id: 29
-    sort: 208
-  }
-  {
-    id: 175
-    type: squad_get_secret_data
-    count: 1
-    prize_id: 783
-    title: 重装部隊：中枢データ
-    content: 中枢データを初めて手に入れる
-    new_type: 1
-    grade_id: 29
-    sort: 209
   }
   {
     id: 176
     type: squad_get_type1_unit
     count: 1
     prize_id: 784
-    title: 重装部隊：開放
-    content: 重装部隊を初めて手に入れる
+    title: 火力支援小隊：開放
+    content: 重装部隊-火力支援小隊を初めて手に入れる
     new_type: 1
     grade_id: 29
     sort: 210
@@ -794,8 +769,8 @@
     type: squad_up_rank
     count: 1
     prize_id: 785
-    title: 重装部隊：ランクアップ
-    content: 重装部隊を初めてランクアップさせる
+    title: 火力支援小隊：ランクアップ
+    content: 火力支援小隊を初めてランクアップさせる
     new_type: 1
     grade_id: 30
     sort: 222
@@ -805,30 +780,19 @@
     type: squad_rank_max
     count: 1
     prize_id: 786
-    title: 重装部隊：ランクアップ
-    content: 重装部隊を★5にランクアップさせる
+    title: 火力支援小隊：ランクアップ
+    content: 火力支援小隊を★5にランクアップさせる
     new_type: 1
     grade_id: 33
     sort: 264
-  }
-  {
-    id: 179
-    type: squad_train_time
-    count: 1
-    prize_id: 787
-    title: 重装部隊：経験訓練
-    content: 「格納庫-訓練場」で重層部隊の経験訓練を1回行う
-    new_type: 1
-    grade_id: 29
-    sort: 211
   }
   {
     id: 180
     type: squad_level_max
     count: 1
     prize_id: 788
-    title: 重装部隊：レベル訓練
-    content: 1つの重装部隊をLv.100にする
+    title: 火力支援小隊：レベル訓練
+    content: 1つの火力支援小隊をLv.100にする
     new_type: 1
     grade_id: 33
     sort: 265
@@ -838,8 +802,8 @@
     type: squad_up_skill_times
     count: 1
     prize_id: 789
-    title: 重装部隊：スキル訓練
-    content: 「格納庫-訓練場」で重装部隊のスキル訓練を1回行う
+    title: 火力支援小隊：スキル訓練
+    content: 火力支援小隊のスキル訓練を1回行う
     new_type: 1
     grade_id: 30
     sort: 223
@@ -849,33 +813,11 @@
     type: squad_up_advanced_times
     count: 1
     prize_id: 790
-    title: 重装部隊：バージョンアップ
-    content: 重装部隊を初めてバージョンアップさせる
+    title: 火力支援小隊：バージョンアップ
+    content: 火力支援小隊を初めてバージョンアップさせる
     new_type: 1
     grade_id: 33
     sort: 266
-  }
-  {
-    id: 184
-    type: squad_chip_retire_times
-    count: 1
-    prize_id: 792
-    title: 重装部隊：チップ分解
-    content: 「格納庫-チップ倉庫」でチップを1回分解する
-    new_type: 1
-    grade_id: 30
-    sort: 224
-  }
-  {
-    id: 185
-    type: squad_eat_chip_num
-    count: 1
-    prize_id: 793
-    title: 重装部隊：チップ強化
-    content: 「格納庫-チップ倉庫」でチップを1回強化する
-    new_type: 1
-    grade_id: 30
-    sort: 225
   }
   {
     id: 186
@@ -2760,10 +2702,10 @@
   {
     id: 355
     type: squad_base_data_analyse
-    count: 20
+    count: 400
     prize_id: 11163
-    title: 重装部隊：原始サンプル
-    content: 「情報センター-記録装置」で原始サンプルを使いサンプリング分析を20回行う
+    title: 火力支援小隊：原始サンプル
+    content: 原始サンプルを累計400個以上を消費する
     new_type: 1
     grade_id: 30
     sort: 226
@@ -2771,10 +2713,10 @@
   {
     id: 356
     type: squad_senior_data_analyse
-    count: 5
+    count: 100
     prize_id: 11164
-    title: 重装部隊：純正サンプル
-    content: 「情報センター-記録装置」で純正サンプルを使いサンプリング分析を5回行う
+    title: 火力支援小隊：純正サンプル
+    content: 純正サンプルを累計100個以上を消費する
     new_type: 1
     grade_id: 30
     sort: 227
@@ -2784,8 +2726,8 @@
     type: c_squad_rank
     count: 1
     prize_id: 11165
-    title: 重装部隊：ランクアップ
-    content: 1つの重装部隊を★3にする
+    title: 火力支援小隊：ランクアップ
+    content: 1つの火力支援小隊を★3にする
     new_type: 1
     grade_id: 31
     sort: 241
@@ -2796,8 +2738,8 @@
     type: c_squad_rank
     count: 1
     prize_id: 11166
-    title: 重装部隊：ランクアップ
-    content: 1つの重装部隊を★4にする
+    title: 火力支援小隊：ランクアップ
+    content: 1つの火力支援小隊を★4にする
     new_type: 1
     grade_id: 32
     sort: 253
@@ -2808,7 +2750,7 @@
     type: write_squad_report
     count: 1
     prize_id: 11167
-    title: 重装部隊：特殊作戦報告書
+    title: 火力支援小隊：特殊作戦報告書
     content: 「データルーム-デスク」で特殊作戦報告書を1回作成する
     new_type: 1
     grade_id: 29
@@ -2819,7 +2761,7 @@
     type: exchange_squad_report
     count: 1
     prize_id: 11168
-    title: 重装部隊：特殊作戦報告書
+    title: 火力支援小隊：特殊作戦報告書
     content: 「前線基地-ブラックマーケット」で特殊作戦報告書を1回交換する
     new_type: 1
     grade_id: 30
@@ -2830,8 +2772,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11169
-    title: 重装部隊：レベル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊をLv.30にする
+    title: 火力支援小隊：レベル訓練
+    content: 1つの火力支援小隊をLv.30にする
     new_type: 1
     grade_id: 30
     sort: 229
@@ -2842,8 +2784,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11170
-    title: 重装部隊：レベル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊をLv.50にする
+    title: 火力支援小隊：レベル訓練
+    content: 1つの火力支援小隊をLv.50にする
     new_type: 1
     grade_id: 31
     sort: 242
@@ -2854,8 +2796,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11171
-    title: 重装部隊：レベル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊をLv.70にする
+    title: 火力支援小隊：レベル訓練
+    content: 1つの火力支援小隊をLv.70にする
     new_type: 1
     grade_id: 32
     sort: 254
@@ -2866,8 +2808,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11172
-    title: 重装部隊：スキル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊のスキルレベルを合計で6にする
+    title: 火力支援小隊：スキル訓練
+    content: 「情報センター-訓練場」で1つの火力支援小隊のスキルレベルを合計で6にする
     new_type: 1
     grade_id: 30
     sort: 230
@@ -2878,8 +2820,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11173
-    title: 重装部隊：スキル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊のスキルレベルを合計で15にする
+    title: 火力支援小隊：スキル訓練
+    content: 「情報センター-訓練場」で1つの火力支援小隊のスキルレベルを合計で15にする
     new_type: 1
     grade_id: 31
     sort: 243
@@ -2890,8 +2832,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11174
-    title: 重装部隊：スキル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊のスキルレベルを合計で24にする
+    title: 火力支援小隊：スキル訓練
+    content: 「情報センター-訓練場」で1つの火力支援小隊のスキルレベルを合計で24にする
     new_type: 1
     grade_id: 32
     sort: 255
@@ -2902,151 +2844,20 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11175
-    title: 重装部隊：スキル訓練
-    content: 「格納庫-訓練場」で1つの重装部隊のスキルレベルを合計で30にする
+    title: 火力支援小隊：スキル訓練
+    content: 「情報センター-訓練場」で1つの火力支援小隊のスキルレベルを合計で30にする
     new_type: 1
     grade_id: 33
     sort: 267
     condition: "30"
   }
   {
-    id: 368
-    type: c_squad_chip_level
-    count: 1
-    prize_id: 11176
-    title: 重装部隊：チップ強化
-    content: 1つのチップをLv.5にする
-    new_type: 1
-    grade_id: 30
-    sort: 231
-    condition: "5"
-  }
-  {
-    id: 369
-    type: c_squad_chip_level
-    count: 3
-    prize_id: 11177
-    title: 重装部隊：チップ強化
-    content: 3つのチップをLv.5にする
-    new_type: 1
-    grade_id: 31
-    sort: 244
-    condition: "5"
-  }
-  {
-    id: 370
-    type: c_squad_chip_level
-    count: 6
-    prize_id: 11178
-    title: 重装部隊：チップ強化
-    content: 6つのチップをLv.10にする
-    new_type: 1
-    grade_id: 32
-    sort: 256
-    condition: "10"
-  }
-  {
-    id: 371
-    type: c_squad_chip_level
-    count: 6
-    prize_id: 11179
-    title: 重装部隊：チップ強化
-    content: 6つのチップをLv.20にする
-    new_type: 1
-    grade_id: 33
-    sort: 268
-    condition: "20"
-  }
-  {
-    id: 372
-    type: squad_get_chip
-    count: 20
-    prize_id: 11180
-    title: 重装部隊：チップ
-    content: チップを20個獲得する
-    new_type: 1
-    grade_id: 30
-    sort: 232
-  }
-  {
-    id: 373
-    type: c_establish_up
-    count: 1
-    prize_id: 11181
-    title: 重装部隊：保管庫
-    content: 「格納庫」で保管庫をLv.1にする
-    new_type: 1
-    grade_id: 29
-    sort: 213
-    condition: "601"
-  }
-  {
-    id: 374
-    type: c_establish_up
-    count: 3
-    prize_id: 11182
-    title: 重装部隊：保管庫
-    content: 「格納庫」で保管庫をLv.3にする
-    new_type: 1
-    grade_id: 30
-    sort: 233
-    condition: "601"
-  }
-  {
-    id: 375
-    type: c_establish_up
-    count: 6
-    prize_id: 11183
-    title: 重装部隊：保管庫
-    content: 「格納庫」で保管庫をLv.6にする
-    new_type: 1
-    grade_id: 32
-    sort: 245
-    condition: "601"
-  }
-  {
-    id: 376
-    type: c_establish_up
-    count: 10
-    prize_id: 11184
-    title: 重装部隊：保管庫
-    content: 「格納庫」で保管庫をLv.10にする
-    new_type: 1
-    grade_id: 33
-    sort: 257
-    condition: "601"
-  }
-  {
-    id: 377
-    type: c_establish_up
-    count: 1
-    prize_id: 11185
-    title: 重装部隊：メンテナンス装置
-    content: 「格納庫」でメンテナンス装置をLv.1にする
-    new_type: 1
-    grade_id: 29
-    sort: 214
-    condition: "602"
-  }
-  {
-    id: 378
-    type: c_establish_up
-    count: 2
-    prize_id: 11186
-    title: 重装部隊：メンテナンス装置
-    content: 「格納庫」でメンテナンス装置をLv.2にする
-    new_type: 1
-    grade_id: 30
-    sort: 234
-    condition: "602"
-  }
-  {
     id: 381
     type: c_establish_up
     count: 1
     prize_id: 11187
-    title: 重装部隊：訓練場
-    content: 「格納庫」で訓練場をLv.1にする
+    title: 火力支援小隊：訓練場
+    content: 「情报中心」で訓練場をLv.1にする
     new_type: 1
     grade_id: 29
     sort: 215
@@ -3057,8 +2868,8 @@
     type: c_establish_up
     count: 3
     prize_id: 11188
-    title: 重装部隊：訓練場
-    content: 「格納庫」で訓練場をLv.3にする
+    title: 火力支援小隊：訓練場
+    content: 「情报中心」で訓練場をLv.3にする
     new_type: 1
     grade_id: 30
     sort: 235
@@ -3069,8 +2880,8 @@
     type: c_establish_up
     count: 6
     prize_id: 11189
-    title: 重装部隊：訓練場
-    content: 「格納庫」で訓練場をLv.6にする
+    title: 火力支援小隊：訓練場
+    content: 「情报中心」で訓練場をLv.6にする
     new_type: 1
     grade_id: 32
     sort: 247
@@ -3081,67 +2892,19 @@
     type: c_establish_up
     count: 10
     prize_id: 11190
-    title: 重装部隊：訓練場
-    content: 「格納庫」で訓練場をLv.10にする
+    title: 火力支援小隊：訓練場
+    content: 「情报中心」で訓練場をLv.10にする
     new_type: 1
     grade_id: 33
     sort: 259
     condition: "603"
   }
   {
-    id: 385
-    type: c_establish_up
-    count: 1
-    prize_id: 11191
-    title: 重装部隊：ブリーフィングステーション
-    content: 「情報センター」でブリーフィングステーションをLv.1にする
-    new_type: 1
-    grade_id: 29
-    sort: 216
-    condition: "502"
-  }
-  {
-    id: 386
-    type: c_establish_up
-    count: 3
-    prize_id: 11192
-    title: 重装部隊：ブリーフィングステーション
-    content: 「情報センター」でブリーフィングステーションをLv.3にする
-    new_type: 1
-    grade_id: 30
-    sort: 236
-    condition: "502"
-  }
-  {
-    id: 387
-    type: c_establish_up
-    count: 6
-    prize_id: 11193
-    title: 重装部隊：ブリーフィングステーション
-    content: 「情報センター」でブリーフィングステーションをLv.6にする
-    new_type: 1
-    grade_id: 32
-    sort: 248
-    condition: "502"
-  }
-  {
-    id: 388
-    type: c_establish_up
-    count: 10
-    prize_id: 11194
-    title: 重装部隊：ブリーフィングステーション
-    content: 「情報センター」でブリーフィングステーションをLv.10にする
-    new_type: 1
-    grade_id: 33
-    sort: 260
-    condition: "502"
-  }
-  {
     id: 389
     type: c_establish_up
     count: 1
     prize_id: 11195
-    title: 重装部隊：傍受設備
+    title: 火力支援小隊：傍受設備
     content: 「情報センター」で傍受設備をLv.1にする
     new_type: 1
     grade_id: 29
@@ -3153,7 +2916,7 @@
     type: c_establish_up
     count: 3
     prize_id: 11196
-    title: 重装部隊：傍受設備
+    title: 火力支援小隊：傍受設備
     content: 「情報センター」で傍受設備をLv.3にする
     new_type: 1
     grade_id: 30
@@ -3165,7 +2928,7 @@
     type: c_establish_up
     count: 6
     prize_id: 11197
-    title: 重装部隊：傍受設備
+    title: 火力支援小隊：傍受設備
     content: 「情報センター」で傍受設備をLv.6にする
     new_type: 1
     grade_id: 32
@@ -3177,7 +2940,7 @@
     type: c_establish_up
     count: 10
     prize_id: 11198
-    title: 重装部隊：傍受設備
+    title: 火力支援小隊：傍受設備
     content: 「情報センター」で傍受設備をLv.10にする
     new_type: 1
     grade_id: 33
@@ -3189,7 +2952,7 @@
     type: c_establish_up
     count: 1
     prize_id: 11199
-    title: 重装部隊：記録装置
+    title: 火力支援小隊：記録装置
     content: 「情報センター」で記録装置をLv.1にする
     new_type: 1
     grade_id: 29
@@ -3201,7 +2964,7 @@
     type: c_establish_up
     count: 3
     prize_id: 11200
-    title: 重装部隊：記録装置
+    title: 火力支援小隊：記録装置
     content: 「情報センター」で記録装置をLv.3にする
     new_type: 1
     grade_id: 30
@@ -3213,7 +2976,7 @@
     type: c_establish_up
     count: 6
     prize_id: 11201
-    title: 重装部隊：記録装置
+    title: 火力支援小隊：記録装置
     content: 「情報センター」で記録装置をLv.6にする
     new_type: 1
     grade_id: 32
@@ -3225,60 +2988,12 @@
     type: c_establish_up
     count: 10
     prize_id: 11202
-    title: 重装部隊：記録装置
+    title: 火力支援小隊：記録装置
     content: 「情報センター」で記録装置をLv.10にする
     new_type: 1
     grade_id: 33
     sort: 262
     condition: "503"
-  }
-  {
-    id: 397
-    type: c_establish_up
-    count: 1
-    prize_id: 11203
-    title: 重装部隊：アナライザー
-    content: 「情報センター」でアナライザーをLv.1にする
-    new_type: 1
-    grade_id: 29
-    sort: 219
-    condition: "504"
-  }
-  {
-    id: 398
-    type: c_establish_up
-    count: 3
-    prize_id: 11204
-    title: 重装部隊：アナライザー
-    content: 「情報センター」でアナライザーをLv.3にする
-    new_type: 1
-    grade_id: 30
-    sort: 239
-    condition: "504"
-  }
-  {
-    id: 399
-    type: c_establish_up
-    count: 6
-    prize_id: 11205
-    title: 重装部隊：アナライザー
-    content: 「情報センター」でアナライザーをLv.6にする
-    new_type: 1
-    grade_id: 32
-    sort: 251
-    condition: "504"
-  }
-  {
-    id: 400
-    type: c_establish_up
-    count: 10
-    prize_id: 11206
-    title: 重装部隊：アナライザー
-    content: 「情報センター」でアナライザーをLv.10にする
-    new_type: 1
-    grade_id: 33
-    sort: 263
-    condition: "504"
   }
   {
     id: 401
@@ -4515,8 +4230,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11312
-    title: 重装部隊：初級考査
-    content: 進級ステージをクリアする。重装部隊を運用し、戦場にある施設を破壊せよ。
+    title: 火力支援小隊：初級考査
+    content: 進級ステージをクリアする。火力支援小隊を運用し、戦場にある施設を破壊せよ。
     new_type: 1
     grade_id: 29
     sort: 220
@@ -4528,8 +4243,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11313
-    title: 重装部隊：中級考査
-    content: 進級ステージをクリアする。重装部隊を運用し、偏向障壁を持つ敵を倒せ。
+    title: 火力支援小隊：中級考査
+    content: 進級ステージをクリアする。火力支援小隊を運用し、偏向障壁を持つ敵を倒せ。
     new_type: 1
     grade_id: 31
     sort: 252
@@ -4541,8 +4256,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11314
-    title: 重装部隊：最終考査
-    content: 進級ステージをクリアする。高いレベルの重装部隊を運用し、敵を打破せよ。
+    title: 火力支援小隊：最終考査
+    content: 進級ステージをクリアする。高いレベルの火力支援小隊を運用し、敵を打破せよ。
     new_type: 1
     grade_id: 33
     sort: 269
@@ -4554,8 +4269,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11315
-    title: 重装部隊：施設破壊
-    content: チュートリアルをクリアする。重装部隊で施設を破壊せよ。
+    title: 火力支援小隊：施設破壊
+    content: チュートリアルをクリアする。火力支援小隊で施設を破壊せよ。
     new_type: 1
     grade_id: 29
     sort: 221
@@ -4566,8 +4281,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11316
-    title: 重装部隊：偏向障壁破壊
-    content: チュートリアルをクリアする。重装部隊で偏向障壁を持つ敵を倒せ。
+    title: 火力支援小隊：偏向障壁破壊
+    content: チュートリアルをクリアする。火力支援小隊で偏向障壁を持つ敵を倒せ。
     new_type: 1
     grade_id: 30
     sort: 240
@@ -4929,5 +4644,451 @@
     grade_id: 45
     sort: 360
     condition: "10921"
+  }
+  {
+    id: 564
+    type: different_vehicle_1
+    count: 1
+    prize_id: 9220019
+    title: 機動装甲：第一の砲門
+    content: 主力戦車の図鑑を累計1個以上開放する
+    new_type: 1
+    grade_id: 65
+    sort: 361
+  }
+  {
+    id: 565
+    type: get_vehicle_component
+    count: 1
+    prize_id: 9220007
+    title: 機動装甲：モジュール調達
+    content: 機動装甲モジュールを累計1個以上入手する
+    new_type: 1
+    grade_id: 65
+    sort: 362
+  }
+  {
+    id: 566
+    type: vehicle_shooting_range
+    count: 1
+    prize_id: 220002
+    title: 機動装甲：実弾射撃
+    content: 機体訓練所で、機動装甲テストを1回クリアする
+    new_type: 1
+    grade_id: 65
+    sort: 363
+  }
+  {
+    id: 567
+    type: vehicle_progress
+    count: 1
+    prize_id: 9220008
+    title: 機動装甲：技術発展
+    content: 機動装甲のテクノロジーツリーを累計1個以上開放する
+    new_type: 1
+    grade_id: 65
+    sort: 364
+  }
+  {
+    id: 568
+    type: vehicle_kill
+    count: 1
+    prize_id: 220002
+    title: 機動装甲：初陣
+    content: 戦闘に勝利し、機動装甲で敵を累計1体以上撃破する
+    new_type: 1
+    grade_id: 65
+    sort: 365
+  }
+  {
+    id: 569
+    type: vehicle_component_level
+    count: 3
+    prize_id: 220002
+    title: 機動装甲：モジュール強化
+    content: モジュールのレベルを累計3回以上強化する
+    new_type: 1
+    grade_id: 65
+    sort: 366
+  }
+  {
+    id: 570
+    type: get_vehicle_component
+    count: 10
+    prize_id: 9220009
+    title: 機動装甲：モジュール調達
+    content: 機動装甲モジュールを累計10個以上入手する
+    new_type: 1
+    grade_id: 66
+    sort: 367
+  }
+  {
+    id: 571
+    type: vehicle_progress
+    count: 3
+    prize_id: 220002
+    title: 機動装甲：技術発展
+    content: 機動装甲のテクノロジーツリーを累計3個以上開放する
+    new_type: 1
+    grade_id: 66
+    sort: 368
+  }
+  {
+    id: 572
+    type: vehicle_kill
+    count: 5
+    prize_id: 220003
+    title: 機動装甲：頭角
+    content: 戦闘に勝利し、機動装甲で敵を累計5体以上撃破する
+    new_type: 1
+    grade_id: 66
+    sort: 369
+  }
+  {
+    id: 573
+    type: get_vehicle_component_rank5
+    count: 1
+    prize_id: 9220010
+    title: 機動装甲：レアモジュール
+    content: 星5の機動装甲モジュールを累計1個以上入手する
+    new_type: 1
+    grade_id: 66
+    sort: 370
+  }
+  {
+    id: 574
+    type: vehicle_skill_progress
+    count: 1
+    prize_id: 220002
+    title: 機動装甲：スキルアップ
+    content: スキルのテクノロジーツリーを累計1個以上開放する
+    new_type: 1
+    grade_id: 66
+    sort: 371
+  }
+  {
+    id: 575
+    type: vehicle_daily_game
+    count: 1
+    prize_id: 220003
+    title: 機動装甲：灰域探査
+    content: 灰域探査で「クリスタル地帯-地獄」のポイントを累計1個以上占領する
+    new_type: 1
+    grade_id: 66
+    sort: 372
+  }
+  {
+    id: 576
+    type: get_vehicle_component_rank5
+    count: 5
+    prize_id: 9220011
+    title: 機動装甲：レアモジュール
+    content: 星5の機動装甲モジュールを累計5個以上入手する
+    new_type: 1
+    grade_id: 67
+    sort: 373
+  }
+  {
+    id: 577
+    type: vehicle_unlock_slot1
+    count: 2
+    prize_id: 220003
+    title: 機動装甲：スロット開放
+    content: 主力戦車のモジュールスロットをすべて開放する
+    new_type: 1
+    grade_id: 68
+    sort: 374
+  }
+  {
+    id: 578
+    type: vehicle_defeat_challenge_1
+    count: 1
+    prize_id: 9220016
+    title: 機動装甲：突撃精進
+    content: 装甲突撃-主力戦車の第1層を突破する
+    new_type: 1
+    grade_id: 67
+    sort: 375
+  }
+  {
+    id: 579
+    type: vehicle_kill
+    count: 20
+    prize_id: 9220015
+    title: 機動装甲：百戦錬磨
+    content: 戦闘に勝利し、機動装甲で敵を累計20体以上撃破する
+    new_type: 1
+    grade_id: 67
+    sort: 376
+  }
+  {
+    id: 580
+    type: vehicle_skill_progress
+    count: 2
+    prize_id: 220004
+    title: 機動装甲：スキルアップ
+    content: スキルのテクノロジーツリーを累計2個以上開放する
+    new_type: 1
+    grade_id: 67
+    sort: 377
+  }
+  {
+    id: 581
+    type: vehicle_daily_game_boss
+    count: 3
+    prize_id: 9220017
+    title: 機動装甲：灰域探査
+    content: 灰域探査で「クリスタル地帯-地獄」のボスポイントを累計3個以上占領する
+    new_type: 1
+    grade_id: 68
+    sort: 378
+  }
+  {
+    id: 582
+    type: vehicle_daily_game
+    count: 60
+    prize_id: 220004
+    title: 機動装甲：灰域探査
+    content: 灰域探査で「クリスタル地帯-地獄」のポイントを累計60個以上占領する
+    new_type: 1
+    grade_id: 68
+    sort: 379
+  }
+  {
+    id: 583
+    type: vehicle_progress
+    count: 10
+    prize_id: 9220018
+    title: 機動装甲：技術発展
+    content: 機動装甲のテクノロジーツリーを累計10個以上開放する
+    new_type: 1
+    grade_id: 67
+    sort: 380
+  }
+  {
+    id: 584
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 220003
+    title: 機動装甲：最終考査
+    content: 主力戦車を運用し、テストをクリアせよ。
+    new_type: 1
+    grade_id: 69
+    sort: 381
+    condition: "11481"
+  }
+  {
+    id: 585
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 9220020
+    title: 機動装甲：最終考査
+    content: 人型戦術機甲を運用し、テストをクリアせよ。
+    new_type: 1
+    grade_id: 69
+    sort: 382
+    condition: "11480"
+  }
+  {
+    id: 586
+    type: vehicle_defeat_challenge_1
+    count: 10
+    prize_id: 220005
+    title: 機動装甲：突撃精進
+    content: 装甲突撃-主力戦車の第10層を突破する
+    new_type: 1
+    grade_id: 68
+    sort: 383
+  }
+  {
+    id: 587
+    type: vehicle_skill_progress
+    count: 4
+    prize_id: 9220006
+    title: 機動装甲：スキルアップ
+    content: スキルのテクノロジーツリーを累計4個以上開放する
+    new_type: 1
+    grade_id: 68
+    sort: 384
+  }
+  {
+    id: 588
+    type: get_vehicle_component_rank5
+    count: 30
+    prize_id: 220005
+    title: 機動装甲：レアモジュール
+    content: 星5の機動装甲モジュールを累計30個以上入手する
+    new_type: 1
+    grade_id: 69
+    sort: 385
+  }
+  {
+    id: 589
+    type: vehicle_defeat_challenge_1
+    count: 30
+    prize_id: 9220006
+    title: 機動装甲：突撃精進
+    content: 装甲突撃-主力戦車の第30層を突破する
+    new_type: 1
+    grade_id: 69
+    sort: 386
+  }
+  {
+    id: 590
+    type: vehicle_component_level_type0
+    count: 10
+    prize_id: 220003
+    title: 機動装甲：モジュール強化
+    content: 任意の汎用モジュールを1個、レベル10以上に強化する。
+    new_type: 1
+    grade_id: 69
+    sort: 387
+  }
+  {
+    id: 591
+    type: vehicle_component_level_type1
+    count: 10
+    prize_id: 220003
+    title: 機動装甲：モジュール強化
+    content: 任意の重火器モジュールを1個、レベル10以上に強化する。
+    new_type: 1
+    grade_id: 69
+    sort: 388
+  }
+  {
+    id: 592
+    type: vehicle_component_level_type2
+    count: 10
+    prize_id: 220003
+    title: 機動装甲：モジュール強化
+    content: 任意の軽火器モジュールを1個、レベル10以上に強化する。
+    new_type: 1
+    grade_id: 69
+    sort: 389
+  }
+  {
+    id: 593
+    type: vehicle_component_level_type3
+    count: 10
+    prize_id: 220003
+    title: 機動装甲：モジュール強化
+    content: 任意の機能モジュールを1個、レベル10以上に強化する。
+    new_type: 1
+    grade_id: 69
+    sort: 390
+  }
+  {
+    id: 594
+    type: vehicle_component_level_type4
+    count: 10
+    prize_id: 220003
+    title: 機動装甲：モジュール強化
+    content: 任意の防護モジュールを1個、レベル10以上に強化する。
+    new_type: 1
+    grade_id: 69
+    sort: 391
+  }
+  {
+    id: 595
+    type: vehicle_progress
+    count: 15
+    prize_id: 9220006
+    title: 機動装甲：技術発展
+    content: 機動装甲のテクノロジーツリーを累計15個以上開放する
+    new_type: 1
+    grade_id: 68
+    sort: 392
+  }
+  {
+    id: 600
+    type: vehicle_progress
+    count: 30
+    prize_id: 220005
+    title: 機動装甲：技術発展
+    content: 機動装甲のテクノロジーツリーを累計30個以上開放する
+    new_type: 1
+    grade_id: 69
+    sort: 393
+  }
+  {
+    id: 1003
+    type: squad_get_chip
+    count: 1
+    prize_id: 782
+    title: 火力支援小隊：チップ
+    content: 火力支援小隊チップを装備する
+    new_type: 1
+    grade_id: 29
+    sort: 208
+  }
+  {
+    id: 1005
+    type: squad_eat_chip_num
+    count: 1
+    prize_id: 793
+    title: 火力支援小隊：チップ強化
+    content: 火力支援小隊のチップを累計1回以上強化する
+    new_type: 1
+    grade_id: 30
+    sort: 225
+  }
+  {
+    id: 1008
+    type: c_squad_chip_level
+    count: 1
+    prize_id: 11176
+    title: 火力支援小隊：チップ強化
+    content: 火力支援小隊のチップを1個、レベル5以上強化する
+    new_type: 1
+    grade_id: 30
+    sort: 231
+    condition: "5"
+  }
+  {
+    id: 1009
+    type: c_squad_chip_level
+    count: 3
+    prize_id: 11177
+    title: 火力支援小隊：チップ強化
+    content: 火力支援小隊のチップを3個、レベル5以上強化する
+    new_type: 1
+    grade_id: 31
+    sort: 244
+    condition: "5"
+  }
+  {
+    id: 1010
+    type: c_squad_chip_level
+    count: 6
+    prize_id: 11178
+    title: 火力支援小隊：チップ強化
+    content: 火力支援小隊のチップを6個、レベル10以上強化する
+    new_type: 1
+    grade_id: 32
+    sort: 256
+    condition: "10"
+  }
+  {
+    id: 1011
+    type: c_squad_chip_level
+    count: 6
+    prize_id: 11179
+    title: 火力支援小隊：チップ強化
+    content: 火力支援小隊のチップを6個、レベル20以上強化する
+    new_type: 1
+    grade_id: 33
+    sort: 268
+    condition: "20"
+  }
+  {
+    id: 1012
+    type: squad_get_chip
+    count: 20
+    prize_id: 11180
+    title: 火力支援小隊：チップ強化
+    content: チップを累計20個以上開放する
+    new_type: 1
+    grade_id: 30
+    sort: 232
   }
 ]

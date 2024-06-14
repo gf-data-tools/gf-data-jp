@@ -1,0 +1,69 @@
+[
+  {
+    id: 1
+    description: 指揮官Lvが50になる。
+    task_type: commander_level
+    count: "50"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 2
+    description: 金、銀、銅勲章を累計120獲得する
+    task_type: mission_medal_all
+    count: "120"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 3
+    description: Lv.100の人形または鉄血ユニットを、10体以上保有する
+    task_type: i_gun_level
+    count: "10"
+    condition: "100"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 4
+    description: 機体訓練所で、主力戦車のチュートリアルをクリアする
+    task_type: c_guide_complete
+    condition: "11487"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 5
+    description: AA-02 アレスを1体撃破する（通常戦役13-6推奨）
+    task_type: i_kill_enemy_all
+    count: "1"
+    condition: "80"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 6
+    description: 金勲章を累計50個獲得する
+    task_type: mission_bestrank5
+    count: "50"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 7
+    description: Lv.100の火力支援小隊を2個保有する
+    task_type: i_squad_level
+    count: "2"
+    condition: "100"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 8
+    description: 機体訓練所で、人型戦術機甲のチュートリアルをクリアする
+    task_type: c_guide_complete
+    condition: "11486"
+    vehicle_id: 2
+    group_type: 1
+  }
+]

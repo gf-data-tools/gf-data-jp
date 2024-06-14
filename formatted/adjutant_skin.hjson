@@ -1,0 +1,41 @@
+[
+  {
+    id: 1001
+    type: 2:1022
+    name: 偽装形態
+    code: NPC-Tareus/0
+    obtain_txt: 「縦軸歪曲-光の声」クリア後開放
+    item_id: 161000
+  }
+  {
+    id: 1003
+    type: 2:1024
+    name: 準備形態
+    code: NPC-Tareus/3
+    obtain_txt: タレウス獲得後開放
+    pos_info: 1.2;-99,-191
+  }
+  {
+    id: 1004
+    type: 2:1025
+    name: 戦闘形態
+    code: NPC-Tareus/4
+    obtain_txt: タレウス獲得後開放
+    pos_info: 1.2;-99,-191
+  }
+  {
+    id: 1010
+    type: 2:1031
+    name: 普段着
+    code: NPC-Sana/5
+    obtain_txt: 「慢性虚脱-F20 日没」クリア後開放
+    item_id: 161001
+  }
+  {
+    id: 1012
+    type: 2:1033
+    name: 戦闘着
+    code: NPC-Sana/7
+    obtain_txt: サナ獲得後開放
+  }
+]

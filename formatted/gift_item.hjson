@@ -1698,6 +1698,48 @@
     normal_description: プレゼントすると好感度を獲得します
   }
   {
+    id: 598
+    name: ゴーストハッカー
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1043
+    skin: 598
+    poster: 30598
+    code: gift_bundle_Ghost2024_Ezaki
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 599
+    name: 夢中のレクイエム
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1044
+    skin: 599
+    poster: 30599
+    code: gift_bundle_Ghost2024_Mizukinn
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 600
+    name: ゴーストの囁き
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1042
+    skin: 600
+    poster: 30600
+    code: gift_bundle_Ghost2024_Motoko
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
     id: 601
     name: 二人の旅路
     type: 2
@@ -6104,6 +6146,7 @@
     poster: 35308
     code: gift_bundle_Christmas2020_88type
     bonus_description: 人形換装開放
+    description: 伝説のバーバ・ヤーガ。鉛筆で三人殺したところを見たことある。
     normal_description: プレゼントすると好感度を獲得します
   }
   {
@@ -6524,7 +6567,6 @@
     code: gift_bundle_Detective2021_EM2
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
-    detail_introduction: gift_item-40005706
     normal_description: プレゼントすると好感度を獲得します
   }
   {
@@ -9608,6 +9650,20 @@
     normal_description: プレゼントすると好感度を獲得します
   }
   {
+    id: 30017
+    name: エージェントに休みはない
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 54
+    skin: 30017
+    poster: 330017
+    code: gift_bundle_BattlePass_M16A1
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
     id: 100001
     name: ロリポップ
     type: 1
@@ -9879,6 +9935,20 @@
     item_access: "2"
     detail_introduction: 応援することに、言葉は要らない。ペンライトを振りかざすだけで、君の気持ちは確かに届く。
     sort: -1015
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 100022
+    name: プチプリン
+    type: 1
+    rank: 5
+    favor: 30000
+    code: gift_item_GhostPudding
+    bonus_description: どこにでも売られているプチプリン。ちょっとだけ苦い味がする。
+    description: 宿舎にて対応する人形にプレゼントすることで、好感度を3ポイント上げることができます。
+    item_access: "2"
+    detail_introduction: どこにでも売られているプチプリン。ちょっとだけ苦い味がする。
+    sort: -1017
     normal_description: プレゼントすると好感度を獲得します
   }
   {
@@ -10154,6 +10224,20 @@
     item_access: "2"
     detail_introduction: アイドルになることに、近道はない。多くの練習を積み重ねてから初めて、観客は君のステージに振り向く。
     sort: -1016
+    normal_description: 人形や妖精が経験値を獲得します
+  }
+  {
+    id: 200022
+    name: データの欠片
+    type: 3
+    rank: 5
+    code: gift_item_GhostPiece
+    bonus_description: 2Z64エリアで入手したデータの欠片。解析すると、経験値を得ることができる。
+    description: 対応する人形にプレゼントすると、10000経験値を獲得します
+    exp: 10000
+    item_access: "2"
+    detail_introduction: 2Z64エリアで入手したデータの欠片。解析すると、経験値を得ることができる。
+    sort: -1017
     normal_description: 人形や妖精が経験値を獲得します
   }
   {

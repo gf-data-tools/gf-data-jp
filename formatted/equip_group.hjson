@@ -4,7 +4,7 @@
     name: SHDカスタマイズ「V」
     des: SHDの特殊装備をフルセット装備したエージェントVectorは強力な部隊サポート能力を得る。部隊全体の生存力を上昇させる。
     code: EgroupVec
-    equip_unit: "199,200,201"
+    equip_unit: "201,200,199"
     group_skill: 2:992050,3:992051
     fit_gun: "1028"
     is_addition: 1
@@ -25,7 +25,7 @@
     des: フルセット装備のモシン・ナガンは、自身の実力を最大限発揮できるようになった。全部、問題ない。
     code: EgroupM1891
     equip_unit: "337,111,86"
-    group_skill: 2:778217,3:759100
+    group_skill: 3:759100
     fit_gun: "20039"
   }
   {
@@ -34,7 +34,7 @@
     des: 16Lab特製の装備を一式揃えたAR-15は、作戦においてより実力を発揮できるようになった。サブウェポンの扱いもより上手くなった。
     code: EgroupAR15
     equip_unit: "100,338,60"
-    group_skill: 2:778217,3:759094
+    group_skill: 3:759094
     fit_gun: "20057"
   }
   {
@@ -42,8 +42,8 @@
     name: APSカーニバル
     des: I.O.P特製の装備を一式揃えたスチェッキンは、より部隊の支援を行えるようになった。
     code: EgroupAPS
-    equip_unit: "133,171,342"
-    group_skill: 2:778217,3:759134
+    equip_unit: "133,342,171"
+    group_skill: 3:759134
     fit_gun: "20007"
   }
   {
@@ -51,8 +51,8 @@
     name: ジャングル冒険
     des: 迷彩装備を一式揃えた64式は、ジャングルの環境に融け込むことができ、敵に不意打ちを仕掛けることができる。
     code: Egroup64type
-    equip_unit: "103,218,343"
-    group_skill: 2:778217,3:759143
+    equip_unit: "218,343,103"
+    group_skill: 3:759143
     fit_gun: "20094"
   }
   {
@@ -60,8 +60,8 @@
     name: 小さな配達員
     des: 完全装備したMP5は、作戦時より機敏に動けるようになった。それにより、部隊間の情報伝達や物資輸送も、より一層効率的になった。
     code: EgroupMP5
-    equip_unit: "62,157,348"
-    group_skill: 2:778217,3:759187
+    equip_unit: "62,348,157"
+    group_skill: 3:759187
     fit_gun: "20026"
   }
   {
@@ -69,8 +69,8 @@
     name: 沈黙者
     des: 完全装備したMG4は、混乱を極めた戦場の中でも、目標を見つけ出して撃破することができる。
     code: EgroupMG4
-    equip_unit: "132,239,349"
-    group_skill: 2:778217,3:759192
+    equip_unit: "239,132,349"
+    group_skill: 3:759192
     fit_gun: "20125"
   }
   {
@@ -79,7 +79,7 @@
     des: 完全装備したマカロフは、戦場でより正確に作戦を指揮できる。
     code: EgroupPM
     equip_unit: "180,238,351"
-    group_skill: 2:778217,3:759219
+    group_skill: 3:759219
     fit_gun: "20008"
   }
   {
@@ -88,7 +88,7 @@
     des: 完全装備したPPSh-41は、より他の人形たちと連携がとりやすくなった。
     code: EgroupPPSh41
     equip_unit: "352,272,219"
-    group_skill: 2:778217,3:759224
+    group_skill: 3:759224
     fit_gun: "20021"
   }
   {
@@ -97,7 +97,7 @@
     des: 完全装備したPPKは、敵に際限なき苦痛を与えるだろう。
     code: EgroupPPK
     equip_unit: "155,284,355"
-    group_skill: 2:778217,3:759242
+    group_skill: 3:759242
     fit_gun: "20010"
   }
   {
@@ -106,7 +106,25 @@
     des: 404小隊がオーダーメイドした416専用セット。416の作戦能力を大幅に引き上げることができる。
     code: EgroupHK416KMod
     equip_unit: "106,356,159"
-    group_skill: 2:778217,3:759236
+    group_skill: 3:759236
     fit_gun: "20065"
+  }
+  {
+    id: 13
+    name: 404カスタマイズUMP45
+    des: 404小隊がオーダーメイドしたUMP45専用セット。UMP45の作戦能力を大幅に引き上げることができる。
+    code: EgroupUMP45
+    equip_unit: "92,358,125"
+    group_skill: 3:759092
+    fit_gun: "20103"
+  }
+  {
+    id: 14
+    name: 404カスタマイズUMP9
+    des: 404小隊がオーダーメイドしたUMP9専用セット。UMP9の作戦能力を大幅に引き上げることができる。
+    code: EgroupUMP9
+    equip_unit: "92,359,156"
+    group_skill: 3:759093
+    fit_gun: "20101"
   }
 ]

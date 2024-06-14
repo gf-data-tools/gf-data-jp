@@ -2064,7 +2064,7 @@
     speed_rank: 3
     range_rank: 1
     counter: 危険！部隊の火力が当該ユニットを殲滅するに足るかを慎重に見極めてください。
-    character: "309,321"
+    character: "1003,1005,334,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
@@ -2224,6 +2224,7 @@
     character: "1001,329,330"
     enemy_skill: "108,109,110"
     launch_time: 2016-5-20 00:00:00
+    extra: ",菅沼千紗,"
   }
   {
     id: 110
@@ -4134,6 +4135,7 @@
     character: "1001,216"
     enemy_skill: "211,212,213,214,215,216"
     launch_time: 2016-5-20 00:00:00
+    extra: ",天海由梨奈,"
     spine_scale: "70,70,1"
   }
   {
@@ -4286,6 +4288,7 @@
     character: "1001,216"
     enemy_skill: "211,212,213,214,215,216"
     launch_time: 2035-5-20 00:00:00
+    extra: ",天海由梨奈,"
     spine_scale: "70,70,1"
     org_id: 10604
   }
@@ -4308,6 +4311,7 @@
     character: "1001,329,330"
     enemy_skill: "108,109,110"
     launch_time: 2035-5-20 00:00:00
+    extra: ",菅沼千紗,"
     org_id: 10603
   }
   {
@@ -5191,6 +5195,153 @@
     counter: グレーツリーのキーボディスト。ライブの時だけ現れ、それ以外では全く姿を見せない。バンドの仕事以外にも、何か謎の任務をこなしているようだ。
     character: "100"
     enemy_skill: "10051"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100052
+    name: 都会に囚われし者
+    type: 3
+    code: FacelessMenA
+    introduce: 繰り返す仕事の中で表情を失い、終わりなき残業の中で心をなくした、怒りに満ちた傀儡。
+    pow_rank: 1
+    life_rank: 4
+    hit_rank: 1
+    dodge_rank: 5
+    rate_rank: 4
+    speed_rank: 1
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "303"
+    enemy_skill: "40"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100053
+    name: 都会に囚われし者
+    type: 3
+    code: FacelessMenB
+    introduce: 繰り返す仕事の中で表情を失い、終わりなき残業の中で心をなくした、怒りに満ちた傀儡。
+    pow_rank: 1
+    life_rank: 4
+    hit_rank: 1
+    dodge_rank: 5
+    rate_rank: 4
+    speed_rank: 1
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "303"
+    enemy_skill: "40"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100054
+    name: SPSのダミー
+    type: 3
+    code: SPS_NPC
+    introduce: このセルジュコフは敬語を使わない。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100055
+    name: KSVKのダミー
+    type: 3
+    code: KSVK_NPC
+    introduce: このKSVKは中二病ではない。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100056
+    name: A-545のダミー
+    type: 3
+    code: A545_NPC
+    introduce: このA-545はウォッカを飲まない。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100057
+    name: 江崎プリン
+    type: 1
+    code: EzakiBoss
+    introduce: 怒りに満ちた江崎プリン。こいつに捕まえられたらおしまいだ。それと、このプリンはプリンを食べない。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1001"
+    enemy_skill: "10052,10053"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100058
+    name: シマムラタカシ
+    type: 1
+    code: TakashiBoss
+    introduce: いつも黒衣を身に纏っている寡黙な少年。夜に隠れて暗躍する。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1001"
+    enemy_skill: "10054,10055"
+    launch_time: 2035-12-31 00:00:00
+  }
+  {
+    id: 100059
+    name: ミズカネスズカ
+    type: 1
+    code: MizukinnBoss
+    introduce: その恐ろしさはRPGやマシンガンにあると思われがちだが、真の恐怖は、彼女が武器を下して初めて知ることになる。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1001"
+    enemy_skill: "10056,10057,10058"
     launch_time: 2035-12-31 00:00:00
   }
   {

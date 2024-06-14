@@ -822,8 +822,9 @@
     name: チップ
     content:
       '''
-      *SMG、ARのみが装備可能
-      人形の<color=#FFB400FF>火力</color>と<color=#FFB400FF>射速</color>を向上させる、<color=#FFB400FF>会心ダメージ</color>が低下する
+      *AR/SMG人形に装備可能。効果は以下の数種類あります：
+      1. 人形の<color=#FFB400FF>火力</color>と<color=#FFB400FF>射速</color>が上昇するが、<color=#FFB400FF>会心ダメージ</color>が低下する。
+      2. 人形の<color=#FFB400FF>火力</color>と<color=#FFB400FF>会心ダメージ</color>が上昇するが、<color=#FFB400FF>射速</color>が低下する。
       '''
     background: equip_bg
     mp: 170

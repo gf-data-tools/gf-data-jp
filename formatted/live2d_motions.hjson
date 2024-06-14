@@ -31074,7 +31074,7 @@
     text: GUN|HK433|SKILL3
     name: Interaction 3
     camera: 1
-    delay: 6000
+    delay: 6330
     voice_code: SKILL3
   }
   {
@@ -31099,7 +31099,6 @@
     text: GUN|HK433|LOADING
     name: Interaction 5
     camera: 1
-    delay: 5000
     voice_code: LOADING
   }
   {
@@ -31132,7 +31131,6 @@
     probability: 1
     name: Shaking
     camera: 1
-    delay: 6000
   }
   {
     id: 850212
@@ -31143,7 +31141,7 @@
     text: GUN|HK433|GAIN
     name: Login
     camera: 1
-    delay: 1000
+    delay: 9000
     voice_code: GAIN
   }
   {
@@ -31165,6 +31163,7 @@
     name: Interaction 1
     camera: 1
     is_hurt: 1
+    delay: 10000
     voice_code: BREAK
   }
   {
@@ -31178,6 +31177,7 @@
     name: Interaction 2
     camera: 1
     is_hurt: 1
+    delay: 230
     voice_code: SKILL2
   }
   {
@@ -31204,6 +31204,7 @@
     name: Interaction 4
     camera: 1
     is_hurt: 1
+    delay: 530
     voice_code: SKILL3
   }
   {
@@ -31217,6 +31218,7 @@
     name: Interaction 5
     camera: 1
     is_hurt: 1
+    delay: 2660
     voice_code: RETREAT
   }
   {
@@ -31229,6 +31231,7 @@
     name: Login
     camera: 1
     is_hurt: 1
+    delay: 6330
     voice_code: PHRASE
   }
   {
@@ -33179,5 +33182,245 @@
     name: Shaking
     camera: 1
     is_hurt: 1
+  }
+  {
+    id: 1030201
+    type: 101
+    motion_name: motions/daiji_idle_01.mtn
+    probability: 1
+    name: live2d_motions-11030201
+  }
+  {
+    id: 1030202
+    type: 102
+    motion_name: motions/wait_1.mtn
+    hold_time: "13,15"
+    probability: 0.5
+    name: live2d_motions-11030202
+    camera: 1
+  }
+  {
+    id: 1030203
+    type: 200
+    motion_name: motions/wait_2.mtn
+    hold_time: "23,25"
+    probability: 0.5
+    name: live2d_motions-11030203
+    camera: 1
+  }
+  {
+    id: 1030204
+    type: 200
+    motion_name: motions/touch_1.mtn
+    touch_area: body2
+    probability: 1
+    voice: GUN|ColtWalker|DIALOGUE3
+    text: GUN|ColtWalker|DIALOGUE3
+    name: live2d_motions-11030204
+    camera: 1
+    voice_code: DIALOGUE3
+  }
+  {
+    id: 1030205
+    type: 200
+    motion_name: motions/touch_2.mtn
+    touch_area: head1
+    probability: 1
+    voice: GUN|ColtWalker|GAIN
+    text: GUN|ColtWalker|GAIN
+    name: live2d_motions-11030205
+    camera: 1
+    voice_code: GAIN
+  }
+  {
+    id: 1030206
+    type: 200
+    motion_name: motions/touch_3.mtn
+    touch_area: body1
+    probability: 1
+    voice: GUN|ColtWalker|BLACKACTION
+    text: GUN|ColtWalker|BLACKACTION
+    name: live2d_motions-11030206
+    camera: 1
+    delay: 2000
+    voice_code: BLACKACTION
+  }
+  {
+    id: 1030207
+    type: 200
+    motion_name: motions/touch_4.mtn
+    touch_area: body1
+    probability: 1
+    voice: GUN|ColtWalker|SKILL3
+    text: GUN|ColtWalker|SKILL3
+    name: live2d_motions-11030207
+    camera: 1
+    delay: 2000
+    voice_code: SKILL3
+  }
+  {
+    id: 1030208
+    type: 200
+    motion_name: motions/touch_5.mtn
+    touch_area: body2
+    probability: 1
+    voice: GUN|ColtWalker|LOADING
+    text: GUN|ColtWalker|LOADING
+    name: live2d_motions-11030208
+    camera: 1
+    delay: 2000
+    voice_code: LOADING
+  }
+  {
+    id: 1030209
+    type: 200
+    motion_name: motions/wedding_touch.mtn
+    touch_area: head2
+    probability: 1
+    voice: GUN|ColtWalker|DIALOGUEWEDDING
+    text: GUN|ColtWalker|DIALOGUEWEDDING
+    name: live2d_motions-11030209
+    camera: 1
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 1030210
+    type: 1000
+    motion_name: motions/login.mtn
+    probability: 1
+    voice: GUN|ColtWalker|HELLO
+    text: GUN|ColtWalker|HELLO
+    name: live2d_motions-11030210
+    camera: 1
+    delay: 7000
+    voice_code: HELLO
+  }
+  {
+    id: 1030211
+    type: 300
+    motion_name: motions/shake.mtn
+    probability: 1
+    name: live2d_motions-11030211
+    camera: 1
+  }
+  {
+    id: 1030212
+    type: 500
+    motion_name: motions/wedding.mtn
+    probability: 1
+    voice: GUN|ColtWalker|SOULCONTRACT
+    text: GUN|ColtWalker|SOULCONTRACT
+    name: live2d_motions-11030212
+    camera: 1
+    voice_code: SOULCONTRACT
+  }
+  {
+    id: 1030213
+    type: 200
+    motion_name: motions/shake_2.mtn
+    touch_area: leg
+    probability: 1
+    name: live2d_motions-11030213
+    camera: 1
+  }
+  {
+    id: 1030214
+    type: 401
+    motion_name: motions/daiji_idle_01.mtn
+    probability: 1
+    name: live2d_motions-11030214
+    is_hurt: 1
+  }
+  {
+    id: 1030215
+    type: 402
+    motion_name: motions/broken_1.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|ColtWalker|BREAK
+    text: GUN|ColtWalker|BREAK
+    name: live2d_motions-11030215
+    camera: 1
+    is_hurt: 1
+    delay: 670
+    voice_code: BREAK
+  }
+  {
+    id: 1030216
+    type: 402
+    motion_name: motions/broken_2.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|ColtWalker|SKILL3
+    text: GUN|ColtWalker|SKILL3
+    name: live2d_motions-11030216
+    camera: 1
+    is_hurt: 1
+    delay: 670
+    voice_code: SKILL3
+  }
+  {
+    id: 1030217
+    type: 402
+    motion_name: motions/broken_3.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|ColtWalker|FIX
+    text: GUN|ColtWalker|FIX
+    name: live2d_motions-11030217
+    camera: 1
+    is_hurt: 1
+    delay: 1770
+    voice_code: FIX
+  }
+  {
+    id: 1030218
+    type: 402
+    motion_name: motions/broken_4.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|ColtWalker|BLACKACTION
+    text: GUN|ColtWalker|BLACKACTION
+    name: live2d_motions-11030218
+    camera: 1
+    is_hurt: 1
+    voice_code: BLACKACTION
+  }
+  {
+    id: 1030219
+    type: 402
+    motion_name: motions/broken_5.mtn
+    touch_area: leg
+    probability: 1
+    voice: GUN|ColtWalker|ACCEPT
+    name: live2d_motions-11030219
+    camera: 1
+    is_hurt: 1
+    voice_code: ACCEPT
+  }
+  {
+    id: 1030220
+    type: 1001
+    motion_name: motions/login.mtn
+    probability: 1
+    voice: GUN|ColtWalker|GAIN
+    text: GUN|ColtWalker|GAIN
+    name: live2d_motions-11030220
+    camera: 1
+    is_hurt: 1
+    delay: 4000
+    voice_code: GAIN
+  }
+  {
+    id: 1030221
+    type: 301
+    motion_name: motions/shake.mtn
+    probability: 1
+    voice: GUN|ColtWalker|MOOD2
+    name: live2d_motions-11030221
+    camera: 1
+    is_hurt: 1
+    delay: 400
+    voice_code: MOOD2
   }
 ]

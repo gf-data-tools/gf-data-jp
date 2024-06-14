@@ -10826,6 +10826,7 @@
     id: 1079
     mission_id: "11243"
     description: 「13年の眠りは、まるで嘘のようだった。アウロラの光は、消えていなかった」
+    scripts: -56-1-A
     campaign: -56
     title: 長周期摂動
     start: -56-1-A
@@ -10834,6 +10835,7 @@
     id: 1080
     mission_id: "11244"
     description: 「おめでとう、これでようやく最初の一歩を踏み出せた」
+    scripts: -56-1-B
     campaign: -56
     title: 短周期摂動
     start: -56-1-B
@@ -10842,6 +10844,7 @@
     id: 1081
     mission_id: "11245"
     description: 「過去が君に追い付いた時、逃げるだけでは何も解決できないと知るだろう」
+    scripts: -56-2-0
     campaign: -56
     title: 白道傾角
     start: -56-2-0
@@ -10850,6 +10853,7 @@
     id: 1082
     mission_id: "11246"
     description: 「昼と夜、朝と夕暮れ、太陽と月」
+    scripts: -56-4-0
     campaign: -56
     title: カタストロフィー
     start: -56-4-0
@@ -10858,6 +10862,7 @@
     id: 1083
     mission_id: "11247"
     description: 「銃を誰かに向けた時、あらゆる可能性を予想するべきだ」
+    scripts: -56-5-A
     campaign: -56
     title: 第1接触
     start: -56-5-A
@@ -10866,6 +10871,7 @@
     id: 1084
     mission_id: "11248"
     description: 「月は借り物の光で道を照らし、旅人のために霧を晴らす」
+    scripts: -56-5-B
     campaign: -56
     title: 第4接触
     start: -56-5-B
@@ -10874,6 +10880,7 @@
     id: 1085
     mission_id: "11249"
     description: 「目標コードネーム『死罪』、登録された氏名は、ラプラス」
+    scripts: -56-6-0
     campaign: -56
     title: 同源
     start: -56-6-0
@@ -10882,6 +10889,7 @@
     id: 1086
     mission_id: "11250"
     description: 「過去の人、そして明日の街を懐かしむ」
+    scripts: -56-8-0
     campaign: -56
     title: 捕獲
     start: -56-8-0
@@ -10890,6 +10898,7 @@
     id: 1087
     mission_id: "11251"
     description: 「人形のコミュニケーションは、任務だけじゃないんですよ？もっとこう、気持ち的なものが……」
+    scripts: -56-9-A
     campaign: -56
     title: 擬本影
     start: -56-9-A
@@ -10898,6 +10907,7 @@
     id: 1088
     mission_id: "11252"
     description: 「今のあんたはあたしの人形、あたしの個人財産なの！あたしの許可がなければ誰も、あんたをどうこうすることはできないわ！」
+    scripts: -56-9-B
     campaign: -56
     title: 本影
     start: -56-9-B
@@ -10906,6 +10916,7 @@
     id: 1089
     mission_id: "11253"
     description: 「あなたはもうあたしの新作のヒロインなの！ヒロインが簡単に負けるわけない！」
+    scripts: -56-10-0
     campaign: -56
     title: 金環
     start: -56-10-0
@@ -10914,6 +10925,7 @@
     id: 1090
     mission_id: "11254"
     description: 「写真には9人が映っていた。そしてユーラは、サモの隣に立っていた」
+    scripts: -56-12-0
     campaign: -56
     title: 星環
     start: -56-12-0
@@ -10922,6 +10934,7 @@
     id: 1091
     mission_id: "11255"
     description: 「隊員のいない隊長なんて、寂しいじゃないですか？」
+    scripts: -56-13-A
     campaign: -56
     title: 危海
     start: -56-13-A
@@ -10930,6 +10943,7 @@
     id: 1092
     mission_id: "11256"
     description: 「わたしの名前は――アマリス」
+    scripts: -56-13-B
     campaign: -56
     title: 静海
     start: -56-13-B
@@ -10938,6 +10952,7 @@
     id: 1093
     mission_id: "11257"
     description: 「タグとは、特殊部隊の墓標だ。その意味を、エリアナもアマリスも、よく知っている」
+    scripts: -56-14-0
     campaign: -56
     title: 月の交点
     start: -56-14-0
@@ -10946,6 +10961,7 @@
     id: 1094
     mission_id: "11258"
     description: 「……静かな夜だ」
+    scripts: -56-16-0
     campaign: -56
     title: 復円
     start: -56-16-0
@@ -10954,6 +10970,7 @@
     id: 1095
     mission_id: "11259"
     description: 「新しい日は必ずやって来る。太陽は、いつも通り昇る」
+    scripts: -56-17-A
     campaign: -56
     title: 外ラグランジュ点
     start: -56-17-A
@@ -10962,6 +10979,7 @@
     id: 1096
     mission_id: "11260"
     description: 「月明りは変わらず、優しく行く先を照らしてくれる」
+    scripts: -56-17-B
     campaign: -56
     title: 内ラグランジュ点
     start: -56-17-B
@@ -12096,5 +12114,157 @@
     scripts: -61-3-3
     campaign: -61
     start: -61-3-3
+  }
+  {
+    id: 1252
+    mission_id: "11499"
+    description: story_util-10001252
+    campaign: -64
+    title: story_util-20001252
+    start: -64-1-0
+  }
+  {
+    id: 1253
+    mission_id: "11500"
+    description: story_util-10001253
+    campaign: -64
+    title: story_util-20001253
+    start: -64-2-0
+  }
+  {
+    id: 1254
+    mission_id: "11502"
+    description: story_util-10001254
+    campaign: -64
+    title: story_util-20001254
+    start: -64-3-0
+  }
+  {
+    id: 1255
+    mission_id: "11504"
+    description: story_util-10001255
+    campaign: -64
+    title: story_util-20001255
+    start: -64-3-1
+  }
+  {
+    id: 1256
+    mission_id: "11508"
+    description: story_util-10001256
+    campaign: -64
+    title: story_util-20001256
+    start: -64-3-2
+  }
+  {
+    id: 1258
+    mission_id: "11510"
+    description: story_util-10001258
+    campaign: -64
+    title: story_util-20001258
+    start: -64-3-3
+  }
+  {
+    id: 1259
+    mission_id: "11511"
+    description: story_util-10001259
+    campaign: -64
+    title: story_util-20001259
+    start: -64-3-4
+  }
+  {
+    id: 1260
+    mission_id: "11513"
+    description: story_util-10001260
+    campaign: -64
+    title: story_util-20001260
+    start: -64-4-0
+  }
+  {
+    id: 1261
+    mission_id: "11515"
+    description: story_util-10001261
+    campaign: -64
+    title: story_util-20001261
+    start: -64-5-1
+  }
+  {
+    id: 1262
+    mission_id: "11519"
+    description: story_util-10001262
+    campaign: -64
+    title: story_util-20001262
+    start: -64-5-2
+  }
+  {
+    id: 1263
+    mission_id: "11520"
+    description: story_util-10001263
+    campaign: -64
+    title: story_util-20001263
+    start: -64-6-0
+  }
+  {
+    id: 1264
+    mission_id: "11521"
+    description: story_util-10001264
+    campaign: -64
+    title: story_util-20001264
+    start: -64-6-1
+  }
+  {
+    id: 1265
+    mission_id: "11522"
+    description: story_util-10001265
+    campaign: -64
+    title: story_util-20001265
+    start: -64-7-1
+  }
+  {
+    id: 1266
+    mission_id: "11523"
+    description: story_util-10001266
+    campaign: -64
+    title: story_util-20001266
+    start: -64-7-2
+  }
+  {
+    id: 1267
+    mission_id: "11524"
+    description: story_util-10001267
+    campaign: -64
+    title: story_util-20001267
+    start: -64-8-1
+  }
+  {
+    id: 1268
+    mission_id: "11525"
+    description: story_util-10001268
+    campaign: -64
+    title: story_util-20001268
+    start: -64-8-2
+  }
+  {
+    id: 1269
+    mission_id: "11526"
+    description: story_util-10001269
+    campaign: -64
+    title: story_util-20001269
+    start: -64-9-1
+  }
+  {
+    id: 1270
+    mission_id: "11527"
+    description: story_util-10001270
+    campaign: -64
+    title: story_util-20001270
+    start: -64-9-2
+  }
+  {
+    id: 1271
+    mission_id: "11528"
+    description: story_util-10001271
+    campaign: -64
+    title: story_util-20001271
+    start: -64-10-0
   }
 ]
