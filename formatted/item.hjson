@@ -12991,6 +12991,60 @@
     rank: 1
   }
   {
+    id: 2335
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_Lusa
+    item_name: ビーチ・パイオニア
+    introduction: ビーチ・パイオニア
+    rank: 1
+  }
+  {
+    id: 2336
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_HK433
+    item_name: 青の邂逅
+    introduction: 青の邂逅
+    rank: 1
+  }
+  {
+    id: 2337
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_VP1915
+    item_name: 弦歌と青空の塔
+    introduction: 弦歌と青空の塔
+    rank: 1
+  }
+  {
+    id: 2338
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_AR18
+    item_name: ルアーと餌
+    introduction: ルアーと餌
+    rank: 1
+  }
+  {
+    id: 2339
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_LAMG
+    item_name: シュロの揺らぐ影
+    introduction: シュロの揺らぐ影
+    rank: 1
+  }
+  {
+    id: 2340
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_SuperShorty
+    item_name: 波乗りツバメ
+    introduction: 波乗りツバメ
+    rank: 1
+  }
+  {
     id: 2341
     type: 5
     arg: "1"
@@ -13384,6 +13438,22 @@
     code: profilePic_BattlePass_HK433
     item_name: ハート・スティール・キッチン
     introduction: ハート・スティール・キッチン
+    rank: 1
+  }
+  {
+    id: 2397
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_NTW20
+    item_name: NTW-20アイコン
+    rank: 1
+  }
+  {
+    id: 2398
+    type: 5
+    arg: "1"
+    code: card_friendmall_NTW20
+    item_name: IDカード背景：巻狩りの宴
     rank: 1
   }
   {
@@ -14836,6 +14906,15 @@
     id: 10708
     type: 18
     arg: "10708"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10709
+    type: 18
+    arg: "10709"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -18263,6 +18342,60 @@
     rank: 5
   }
   {
+    id: 133124
+    type: 13
+    arg: "55"
+    code: Warjack_1013
+    item_name: AA-02M マルス設計図
+    introduction: 群狼よ、出撃だ！
+    rank: 5
+  }
+  {
+    id: 133125
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1013
+    item_name: AA-02M マルス-ミサイルランチャーMK1
+    introduction: AA-02M マルス用の小型ミサイルランチャー。ピンポイントなミサイル攻撃を行うことができる。
+    rank: 5
+  }
+  {
+    id: 133126
+    type: 13
+    arg: "55"
+    code: MG_Single_1013
+    item_name: AA-02M マルス-汎用機銃MK-I
+    introduction: AA-02M マルス用の普通の機銃。
+    rank: 5
+  }
+  {
+    id: 133127
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1013
+    item_name: AA-02M マルス-機関砲
+    introduction: AA-02M マルス用の機関砲。小口径の砲弾を使用するが、範囲ダメージを与えることができる。
+    rank: 5
+  }
+  {
+    id: 133128
+    type: 13
+    arg: "55"
+    code: AutoDef_1013
+    item_name: AA-02M マルス-シールドリアクター
+    introduction: AA-02M マルス用のシールドリアクター。機体の防御力を強化できる。
+    rank: 5
+  }
+  {
+    id: 133129
+    type: 13
+    arg: "55"
+    code: Signal_Tower_1013
+    item_name: AA-02M マルス-信号塔
+    introduction: AA-02M マルス用の信号塔。味方を強化することができる。
+    rank: 5
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -18892,6 +19025,15 @@
     code: profileFrame_BattlePass_HK433
     item_name: アイコンフレーム：調理手記
     introduction: アイコンフレーム：調理手記
+    rank: 1
+  }
+  {
+    id: 200035
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_NTW20
+    item_name: アイコンフレーム：夕暮れの謝礼
+    introduction: アイコンフレーム：夕暮れの謝礼
     rank: 1
   }
   {
@@ -20434,6 +20576,36 @@
     id: 1700003
     type: 15
     arg: "1700003"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700004
+    type: 15
+    arg: "1700004"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700005
+    type: 15
+    arg: "1700005"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700006
+    type: 15
+    arg: "1700006"
     code: package_choose
     item_name: 高ランク専用装備指定ビーコン
     introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。

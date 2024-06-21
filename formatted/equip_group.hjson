@@ -127,4 +127,22 @@
     group_skill: 3:759093
     fit_gun: "20101"
   }
+  {
+    id: 15
+    name: 未来を狙え！
+    des: 完全装備した漢陽88式は、現代の作戦理論は完全に覆してくれる。
+    code: Egroup88type
+    equip_unit: "221,158,365"
+    group_skill: 3:759276
+    fit_gun: "20095"
+  }
+  {
+    id: 16
+    name: キャンディー缶
+    des: 完全装備したM1919A4は、未だかつてないほど強大な力を発揮するだろう。
+    code: EgroupM1919A4
+    equip_unit: "366,220,333"
+    group_skill: 3:759271
+    fit_gun: "20080"
+  }
 ]

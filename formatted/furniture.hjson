@@ -26977,6 +26977,197 @@
     rotate: "2"
   }
   {
+    id: 11101
+    name: 君との花火-こだまする道
+    classes: 111
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 一番美しいのは花火ではなく、その光に照らされた君の笑顔。
+    code: SummerFes2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11102
+    name: 君との花火-真夏の花火
+    classes: 111
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: この道に、果てがないことを願うばかり。
+    code: SummerFes2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11103
+    name: 君との花火-千百の色
+    classes: 111
+    type: 201
+    position: "26,0"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 傘を広げた君の目は、まるで雲に隠れる月のようだ。
+    code: SummerFes2023_deco_01,SummerFes2023_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.240,0.514"
+    rotate: "2,2"
+  }
+  {
+    id: 11104
+    name: 君との花火-かすかな光でも
+    classes: 111
+    type: 201
+    position: "3,0"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 君こそが、この世を照らす光だ。
+    code: SummerFes2023_deco_03,SummerFes2023_deco_04
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.246,0.511"
+    rotate: "2,2"
+  }
+  {
+    id: 11105
+    name: 君との花火-華やかなやぐら
+    classes: 111
+    type: 201
+    position: "11,0"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1400
+    decompose_gift: 100003
+    description: やぐらの上から見下ろすも、思うことは、君ばかり。
+    code: SummerFes2023_deco_05,SummerFes2023_deco_06,SummerFes2023_deco_07,SummerFes2023_deco_08,SummerFes2023_deco_09,SummerSwim2023_lights
+    texture_type: "1,1,1,1,1,2"
+    sorting: "10,10,10,10,0,20"
+    offset: "0.000,0.000,0.000|4.609,0.000,0.000|0.000,4.489,1.037|0.000,0.023,0.000|0.000,0.000,0.000|0.238,1.925,0.143"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *0.088,5.805,1.081
+  }
+  {
+    id: 11106
+    name: 君との花火-ドンドン
+    classes: 111
+    type: 201
+    position: "7,5"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 太鼓の音、ドンドン、ドンドン。お祭りの鼓動。
+    code: SummerFes2023_deco_10
+    texture_type: "1"
+    offset: "-0.097,0.000,-0.131"
+    rotate: "2"
+  }
+  {
+    id: 11107
+    name: 君との花火-カッカッ
+    classes: 111
+    type: 201
+    position: "23,4"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 太鼓が止み、世界は一瞬だけ、静寂に戻る。
+    code: SummerFes2023_deco_11
+    texture_type: "1"
+    offset: "-0.115,0.000,-0.160"
+    rotate: "2"
+  }
+  {
+    id: 11108
+    name: 君との花火-屋台の味
+    classes: 111
+    type: 201
+    position: "27,6"
+    space: "6,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 楽しさとは簡単なものだ。例えば、たこ焼き1個でも。
+    code: SummerFes2023_deco_12,SummerFes2023_deco_13
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "-0.344,0.000,0.000|-0.344,0.000,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11109
+    name: 君との花火-金魚すくいのテクニック
+    classes: 111
+    type: 201
+    position: "10,10"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 金魚すくいというのは、実は色んなことに通ずる。何せ、チャンスは基本的に一回しかないからだ。
+    code: SummerFes2023_deco_14
+    texture_type: "1"
+    offset: "-0.209,0.000,-0.834"
+    rotate: "2"
+  }
+  {
+    id: 11110
+    name: 君との花火-冷たい甘さ
+    classes: 111
+    type: 201
+    position: "1,10"
+    space: "6,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 口の中でとけるかき氷。甘くて、冷たい。
+    code: SummerFes2023_deco_15,SummerFes2023_deco_16
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.152,0.000,0.000|0.152,0.000,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11111
+    name: 君との花火-二つの試練
+    classes: 111
+    type: 201
+    position: "16,9"
+    space: "7,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: これは、グリフィン人形たちの射撃の腕を試しているのか？それとも、屋台の店主の資金力を試しているのか？分からない、分からないのだ……
+    code: SummerFes2023_deco_17,SummerFes2023_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.147,0.000,-0.314|2.157,0.000,-0.314"
+    rotate: "2,2"
+  }
+  {
+    id: 11112
+    name: 君との花火-一時の安らぎ
+    classes: 111
+    type: 201
+    position: "25,11"
+    space: "7,3,1,1,1,1"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: ここに座って、夜風に当たって、消えゆく花火を見て、過ぎ去る笑い声を聞いて……これが、君の祭りであり、君が戦う理由である。
+    code: SummerFes2023_deco_19,SummerFes2023_deco_20
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,-0.803|2.304,0.000,-0.803"
+    rotate: "2,2"
+    interact_point: "12,14"
+    interact_point_offset: *-2.538,2.106,-1.679|*2.975,1.252,-1.821
+  }
+  {
     id: 11201
     name: 六有茶屋-雪花柄の菱形タイル
     classes: 112
@@ -38228,6 +38419,96 @@
     decompose_gift: 100003
     description: M1911のポスター。
     code: poster_Children2023_M1911
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38501
+    name: ビーチ・パイオニア
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Lusaのポスター。
+    code: poster_Swimsuit2023_Lusa
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38502
+    name: 青の邂逅
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 433のポスター。
+    code: poster_Swimsuit2023_HK433
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38503
+    name: 弦歌と青空の塔
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VP1915のポスター。
+    code: poster_Swimsuit2023_VP1915
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38504
+    name: ルアーと餌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AR-18のポスター。
+    code: poster_Swimsuit2023_AR18
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38505
+    name: シュロの揺らぐ影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LAMGのポスター。
+    code: poster_Swimsuit2023_LAMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38506
+    name: 波乗りツバメ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Super Shortyのポスター。
+    code: poster_Swimsuit2023_SuperShorty
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

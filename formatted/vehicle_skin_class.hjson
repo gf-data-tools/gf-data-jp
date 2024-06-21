@@ -69,4 +69,11 @@
     pic_code: 1:TankM1_1011_set
     desc: 主力戦車麒麟の設計図。効率厨のイチオシ。
   }
+  {
+    id: 13
+    name: AA-02M マルス
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1013_set
+    desc: 鹵獲したAA-02 アレスを元に再設計した人型戦術機甲の設計図。様々な改良が施されている。
+  }
 ]

@@ -21413,6 +21413,13 @@
     item_ids: 2259-1
   }
   {
+    id: 7519
+    name: prize-10007519
+    gem: 90
+    equip_ids: "332"
+    content: prize-20007519
+  }
+  {
     id: 7520
     name: prize-10007520
     item_ids: 41-100,605-5
@@ -21609,109 +21616,109 @@
   {
     id: 7775
     name: prize-10007775
-    item_ids: 10708-30
+    item_ids: 10709-30
     content: prize-20007775
   }
   {
     id: 7776
     name: prize-10007776
-    item_ids: 10708-45
+    item_ids: 10709-45
     content: prize-20007776
   }
   {
     id: 7777
     name: prize-10007777
-    item_ids: 10708-60
+    item_ids: 10709-60
     content: prize-20007777
   }
   {
     id: 7778
     name: prize-10007778
-    item_ids: 10708-45
+    item_ids: 10709-45
     content: prize-20007778
   }
   {
     id: 7779
     name: prize-10007779
-    item_ids: 10708-68
+    item_ids: 10709-68
     content: prize-20007779
   }
   {
     id: 7780
     name: prize-10007780
-    item_ids: 10708-90
+    item_ids: 10709-90
     content: prize-20007780
   }
   {
     id: 7781
     name: prize-10007781
-    item_ids: 10708-90
+    item_ids: 10709-90
     content: prize-20007781
   }
   {
     id: 7782
     name: prize-10007782
-    item_ids: 10708-120
+    item_ids: 10709-120
     content: prize-20007782
   }
   {
     id: 7783
     name: prize-10007783
-    item_ids: 10708-75
+    item_ids: 10709-75
     content: prize-20007783
   }
   {
     id: 7784
     name: prize-10007784
-    item_ids: 10708-150
+    item_ids: 10709-150
     content: prize-20007784
   }
   {
     id: 7785
     name: prize-10007785
-    item_ids: 10708-60
+    item_ids: 10709-60
     content: prize-20007785
   }
   {
     id: 7786
     name: prize-10007786
-    item_ids: 10708-135
+    item_ids: 10709-135
     content: prize-20007786
   }
   {
     id: 7787
     name: prize-10007787
-    item_ids: 10708-180
+    item_ids: 10709-180
     content: prize-20007787
   }
   {
     id: 7788
     name: prize-10007788
-    item_ids: 10708-180
+    item_ids: 10709-180
     content: prize-20007788
   }
   {
     id: 7789
     name: prize-10007789
-    item_ids: 10708-270
+    item_ids: 10709-270
     content: prize-20007789
   }
   {
     id: 7790
     name: prize-10007790
-    item_ids: 10708-360
+    item_ids: 10709-360
     content: prize-20007790
   }
   {
     id: 7791
     name: prize-10007791
-    item_ids: 10708-112
+    item_ids: 10709-112
     content: prize-20007791
   }
   {
     id: 7792
     name: prize-10007792
-    item_ids: 10708-90
+    item_ids: 10709-90
     content: prize-20007792
   }
   {
@@ -22696,84 +22703,84 @@
     id: 10086
     name: イベント報酬
     mp: 100
-    item_ids: 110028-10
+    item_ids: 110029-10
   }
   {
     id: 10087
     name: イベント報酬
     mp: 100
-    item_ids: 110028-20
+    item_ids: 110029-20
   }
   {
     id: 10088
     name: イベント報酬
     ammo: 200
-    item_ids: 110028-20
+    item_ids: 110029-20
   }
   {
     id: 10089
     name: イベント報酬
     ammo: 200
-    item_ids: 110028-30
+    item_ids: 110029-30
   }
   {
     id: 10090
     name: イベント報酬
     mre: 200
-    item_ids: 110028-20
+    item_ids: 110029-20
   }
   {
     id: 10091
     name: イベント報酬
     mre: 200
-    item_ids: 110028-30
+    item_ids: 110029-30
   }
   {
     id: 10092
     name: イベント報酬
     mre: 200
-    item_ids: 110028-50
+    item_ids: 110029-50
   }
   {
     id: 10093
     name: イベント報酬
     part: 100
-    item_ids: 110028-30
+    item_ids: 110029-30
   }
   {
     id: 10094
     name: イベント報酬
     part: 100
-    item_ids: 110028-50
+    item_ids: 110029-50
   }
   {
     id: 10095
     name: イベント報酬
     part: 100
-    item_ids: 110028-100
+    item_ids: 110029-100
   }
   {
     id: 10096
     name: イベント報酬
     part: 200
-    item_ids: 110028-50
+    item_ids: 110029-50
   }
   {
     id: 10097
     name: イベント報酬
     part: 200
-    item_ids: 110028-100
+    item_ids: 110029-100
   }
   {
     id: 10098
     name: イベント報酬
     part: 300
-    item_ids: 110028-150
+    item_ids: 110029-150
   }
   {
     id: 10099
     name: イベント報酬
-    item_ids: 110028-200,45-200
+    item_ids: 110029-200,45-200
   }
   {
     id: 10100
@@ -22811,7 +22818,8 @@
   {
     id: 10105
     name: 活躍報酬
-    gift: 8107-1,100003-10
+    gun_id: "399"
+    gift: 100003-10
     icon: Bumdle_bline
   }
   {
@@ -22850,12 +22858,12 @@
     id: 10111
     name: イベント報酬
     mre: 200
-    item_ids: 110028-40
+    item_ids: 110029-40
   }
   {
     id: 10112
     name: イベント報酬
-    item_ids: 110028-50,45-200
+    item_ids: 110029-50,45-200
   }
   {
     id: 10113
@@ -22869,19 +22877,19 @@
     id: 10114
     name: イベント報酬
     ammo: 200
-    item_ids: 110028-50
+    item_ids: 110029-50
   }
   {
     id: 10115
     name: イベント報酬
     ammo: 300
-    item_ids: 110028-50
+    item_ids: 110029-50
   }
   {
     id: 10116
     name: prize-10010116
     mre: 300
-    item_ids: 110028-50
+    item_ids: 110029-50
     content: prize-20010116
   }
   {
@@ -47122,7 +47130,7 @@
   {
     id: 150015
     name: prize-10150015
-    item_ids: 16-40
+    item_ids: 3-40
     content: prize-20150015
   }
   {
@@ -47272,7 +47280,7 @@
   {
     id: 150040
     name: prize-10150040
-    item_ids: 1700001-1
+    item_ids: 1700004-1
     content: prize-20150040
   }
   {
@@ -47332,7 +47340,7 @@
   {
     id: 150050
     name: prize-10150050
-    item_ids: 1700002-1
+    item_ids: 1700005-1
     content: prize-20150050
   }
   {
@@ -47392,7 +47400,7 @@
   {
     id: 150060
     name: prize-10150060
-    item_ids: 1700003-1
+    item_ids: 1700006-1
     content: prize-20150060
   }
   {
@@ -47502,6 +47510,24 @@
     name: prize-10150091
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283"
     content: prize-20150091
+  }
+  {
+    id: 150092
+    name: prize-10150092
+    equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150092
+  }
+  {
+    id: 150093
+    name: prize-10150093
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366"
+    content: prize-20150093
+  }
+  {
+    id: 150094
+    name: prize-10150094
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292"
+    content: prize-20150094
   }
   {
     id: 200001

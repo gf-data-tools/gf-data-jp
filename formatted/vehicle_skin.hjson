@@ -1235,4 +1235,76 @@
     introduction: 麒麟用の機関砲。小口径の砲弾を使用するが、範囲ダメージを与えることができる。
     is_show: 1
   }
+  {
+    id: 11300
+    name: AA-02M マルス設計図
+    type: 1
+    vehicle_id: "2"
+    class_id: 13
+    code: Warjack_1013
+    item_id: 133124
+    obtain: "40"
+    introduction: 群狼よ、出撃だ！
+    is_show: 1
+  }
+  {
+    id: 11301
+    name: AA-02M マルス
+    type: 2
+    group_id: 118
+    class_id: 13
+    code: Small_Missile_Launcher_1013
+    item_id: 133125
+    obtain: "40"
+    introduction: AA-02M マルス用の小型ミサイルランチャー。ピンポイントなミサイル攻撃を行うことができる。
+    is_show: 1
+  }
+  {
+    id: 11302
+    name: AA-02M マルス
+    type: 2
+    group_id: 101
+    class_id: 13
+    code: MG_Single_1013
+    item_id: 133126
+    obtain: "40"
+    introduction: AA-02M マルス用の普通の機銃。
+    is_show: 1
+  }
+  {
+    id: 11303
+    name: AA-02M マルス
+    type: 2
+    group_id: 107
+    class_id: 13
+    code: MG_Cannon_1013
+    item_id: 133127
+    obtain: "40"
+    introduction: AA-02M マルス用の機関砲。小口径の砲弾を使用するが、範囲ダメージを与えることができる。
+    is_show: 1
+  }
+  {
+    id: 11304
+    name: AA-02M マルス
+    type: 2
+    group_id: 124
+    class_id: 13
+    code: AutoDef_1013
+    item_id: 133128
+    obtain: "40"
+    introduction: AA-02M マルス用のシールドリアクター。機体の防御力を強化できる。
+    is_show: 1
+  }
+  {
+    id: 11305
+    name: AA-02M マルス
+    type: 2
+    group_id: 116
+    class_id: 13
+    code: Signal_Tower_1013
+    item_id: 133129
+    obtain: "40"
+    introduction: AA-02M マルス用の信号塔。味方を強化することができる。
+    is_show: 1
+  }
 ]
