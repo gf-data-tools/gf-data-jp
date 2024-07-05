@@ -5116,13 +5116,13 @@
   {
     id: 786
     name: キャリア任務報酬86
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     content: 重装部隊を初めて上限にランクアップ
   }
   {
     id: 787
     name: キャリア任務報酬87
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     content: 初の重装部隊経験訓練
   }
   {
@@ -5140,7 +5140,7 @@
   {
     id: 790
     name: キャリア任務報酬90
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     content: 初の重装部隊バージョンアップ
   }
   {
@@ -12203,7 +12203,7 @@
   {
     id: 3053
     name: prize-10003053
-    item_ids: 1553-1
+    item_ids: 1553-1,200003-1
     equip_ids: "170"
     skin: 5030
     content: prize-20003053
@@ -12267,7 +12267,7 @@
   {
     id: 3065
     name: prize-10003065
-    item_ids: 1494-1
+    item_ids: 1494-1,200003-1
     equip_ids: "159"
     skin: 5024
     content: prize-20003065
@@ -12363,7 +12363,7 @@
   {
     id: 3097
     name: prize-10003097
-    item_ids: 1616-1
+    item_ids: 1616-1,200003-1
     equip_ids: "179"
     skin: 5031
     content: prize-20003097
@@ -12395,7 +12395,7 @@
   {
     id: 3114
     name: prize-10003114
-    item_ids: 1802-1
+    item_ids: 1802-1,200003-1
     equip_ids: "213"
     skin: 5043
     content: prize-20003114
@@ -12411,7 +12411,7 @@
   {
     id: 3122
     name: prize-10003122
-    item_ids: 1707-1
+    item_ids: 1707-1,200003-1
     equip_ids: "190"
     skin: 5035
     content: prize-20003122
@@ -12427,7 +12427,7 @@
   {
     id: 3125
     name: prize-10003125
-    item_ids: 1862-1
+    item_ids: 1862-1,200003-1
     equip_ids: "239"
     skin: 5047
     content: prize-20003125
@@ -12443,7 +12443,7 @@
   {
     id: 3143
     name: prize-10003143
-    item_ids: 1709-1
+    item_ids: 1709-1,200003-1
     equip_ids: "192"
     skin: 5037
     content: prize-20003143
@@ -13596,25 +13596,25 @@
   {
     id: 5004
     name: カフェマンガ報酬-四コマVol.1
-    item_ids: 1228-1
+    item_ids: 1228-1,200009-1
     content: 報酬受領
   }
   {
     id: 5005
     name: カフェマンガ報酬-四コマVol.2
-    item_ids: 1229-1
+    item_ids: 1229-1,200009-1
     content: 報酬受領
   }
   {
     id: 5006
     name: カフェマンガ報酬-四コマVol.3
-    item_ids: 1230-1
+    item_ids: 1230-1,200009-1
     content: 報酬受領
   }
   {
     id: 5007
     name: カフェマンガ報酬-四コマVol.4
-    item_ids: 1248-1
+    item_ids: 1248-1,200009-1
     content: 報酬受領
   }
   {
@@ -13626,7 +13626,7 @@
   {
     id: 5009
     name: カフェマンガ報酬-四コマVol.5
-    item_ids: 1287-1
+    item_ids: 1287-1,200009-1
     content: 報酬受領
   }
   {
@@ -13637,17 +13637,17 @@
   }
   {
     id: 5011
-    item_ids: 1389-1
+    item_ids: 1389-1,200009-1
     content: 報酬受領
   }
   {
     id: 5012
-    item_ids: 1403-1
+    item_ids: 1403-1,200009-1
     content: 報酬受領
   }
   {
     id: 5013
-    item_ids: 1419-1
+    item_ids: 1419-1,200009-1
     content: 報酬受領
   }
   {
@@ -13663,7 +13663,7 @@
   }
   {
     id: 5016
-    item_ids: 1430-1
+    item_ids: 1430-1,200009-1
     content: 報酬受領
   }
   {
@@ -22024,7 +22024,7 @@
   {
     id: 8204
     name: 重装部隊パック
-    item_ids: 519-30,46-600,506-1000
+    item_ids: 15-1500,14-3600,46-600,506-1000
     coins: 1-1800,2-1800,3-1800
   }
   {
@@ -24805,19 +24805,19 @@
   {
     id: 11169
     name: 生涯任務報酬361
-    item_ids: 46-100,519-10,9-50
+    item_ids: 46-250,14-1200,15-500
     content: 報酬受領
   }
   {
     id: 11170
     name: 生涯任務報酬362
-    item_ids: 46-150,519-20,9-100
+    item_ids: 46-450,14-2400,15-1000
     content: 報酬受領
   }
   {
     id: 11171
     name: 生涯任務報酬363
-    item_ids: 46-200,9-150
+    item_ids: 46-650
     content: 報酬受領
   }
   {
@@ -33940,7 +33940,7 @@
   {
     id: 21015
     name: 訓練資料3種 x200
-    item_ids: 31-200,32-200,33-200
+    coins: 1-200,2-200,3-200
   }
   {
     id: 21031
@@ -34246,7 +34246,7 @@
   {
     id: 22026
     name: prize-10022026
-    item_ids: 32-100
+    coins: 2-100
     content: prize-20022026
   }
   {
@@ -34292,7 +34292,7 @@
   {
     id: 22047
     name: prize-10022047
-    item_ids: 33-100
+    coins: 3-100
     content: prize-20022047
   }
   {

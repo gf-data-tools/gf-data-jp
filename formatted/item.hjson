@@ -194,7 +194,7 @@
     rank: 1
     sort: 95
     item_access: "8,5"
-    detail_introduction: 「情報センター」で解析を行うことができ、重装部隊の中枢データやチップを獲得することができる。
+    detail_introduction: 火力支援小隊チップの開放と強化に使用できる。
   }
   {
     id: 15
@@ -206,7 +206,7 @@
     rank: 1
     sort: 100
     item_access: "8,5"
-    detail_introduction: 「情報センター」で解析を行うことができる。原始サンプルよりも重装部隊の中枢データや高レア度のチップが入手しやすい。
+    detail_introduction: 火力支援小隊の開放、ランクアップとバージョンアップに使用できる。また、火力支援小隊チップの強化にも使用できる。
   }
   {
     id: 16
@@ -218,7 +218,7 @@
     rank: 1
     sort: 105
     item_access: "1,5,2"
-    detail_introduction: 「情報センター」で進行中の情報解析を即完了させることができる。
+    detail_introduction: 火力支援小隊のランクアップを即完了できる。
   }
   {
     id: 17
@@ -228,7 +228,6 @@
     item_name: データパッチ
     introduction: レベルを上限まで上げた重装部隊を解体することによって入手でき、重装部隊のランクアップの際に使用される。『「三人行えば、必ず我が師有り」。だから……「さようなら、先生」。』
     rank: 1
-    sort: 110
     item_access: "9,10"
     detail_introduction: ランクが上限に達した重装部隊のバージョンアップに使用できる。
   }
@@ -371,7 +370,7 @@
     rank: 1
     sort: 115
     item_access: "24,16,6"
-    detail_introduction: 「格納庫」で重装部隊の経験値訓練に使用できる。
+    detail_introduction: 「情報センター」で火力支援小隊の経験値訓練に使用できる。
   }
   {
     id: 47
