@@ -258,7 +258,7 @@
     id: 24
     campaign_id: -34
     tag: C.E.|2020
-    order: 100
+    order: 101
     name: 季節イベントⅡ
     chapter_name: 怪夜狂騒劇
     bg_code: active_19Halloween
@@ -298,5 +298,16 @@
     bg_code: active_Bikini2020
     bg_config: "#000000C7,#3D415166,#2975fd,#FFFFFFFF"
     desc: イベント期間：2020.07.24-08.14
+  }
+  {
+    id: 28
+    campaign_id: -47
+    tag: C.E.|2021
+    order: 102
+    name: 季節イベントⅢ
+    chapter_name: ウェイブ・ラングラー
+    bg_code: active_Bikini2021
+    bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
+    desc: ベント期間：2021.07.30-08.20
   }
 ]

@@ -728,6 +728,24 @@
     rank: 1
   }
   {
+    id: 128
+    type: 3
+    arg: "29"
+    code: Medal_Theater11th
+    item_name: 第十一戦区開拓者勲章
+    introduction: 第十一期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「戦争の始まりを決めるのは敵だが、戦争の終わりを決めるのはあなただ」
+    rank: 1
+  }
+  {
+    id: 129
+    type: 3
+    arg: "30"
+    code: Medal_Theater11th_rank
+    item_name: 第十一戦区征服者勲章
+    introduction: 第十一期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「その征服が行きつくところが、すべて平和である」
+    rank: 1
+  }
+  {
     id: 131
     type: 3
     arg: "32"
@@ -820,6 +838,15 @@
     code: CentreDataMK47
     item_name: 中枢データ：Mk 47
     introduction: 重装部隊Mk 47のデータの欠片。-「火力掃射サービス、準備完了です。今回もいつも通り――」-「待って、敵の数が予想を上回っているわ……旦那、あとで追加料金ね」
+    rank: 1
+  }
+  {
+    id: 310
+    type: 1
+    arg: "1"
+    code: CentreDataRPG29
+    item_name: 中枢データ:RPG-29
+    introduction: 重装部隊RPG-29のデータの欠片。-「冬の夜でそんな全身緑の迷彩を使うやつなんているかよ？零点だ！」「姉さん、これはクリスマスツリーなんだ」
     rank: 1
   }
   {
@@ -13699,6 +13726,24 @@
     rank: 1
   }
   {
+    id: 2467
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HS50
+    item_name: IDカード背景：折桂の歓歌
+    introduction: IDカード背景：折桂の歓歌
+    rank: 1
+  }
+  {
+    id: 2468
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HS50
+    item_name: プロゲーマー育成記
+    introduction: プロゲーマー育成記
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14914,6 +14959,15 @@
     id: 10709
     type: 18
     arg: "10709"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10710
+    type: 18
+    arg: "10710"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -18725,6 +18779,26 @@
     detail_introduction: item-30140034
   }
   {
+    id: 140035
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140035
+    introduction: item-20140035
+    rank: 1
+    detail_introduction: item-30140035
+  }
+  {
+    id: 140036
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140036
+    introduction: item-20140036
+    rank: 1
+    detail_introduction: item-30140036
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19054,12 +19128,30 @@
     rank: 1
   }
   {
+    id: 200040
+    type: 1
+    arg: "1"
+    code: profileFrame_bonus_snack
+    item_name: アイコンフレーム：長恩祭歳
+    introduction: アイコンフレーム：長恩祭歳
+    rank: 1
+  }
+  {
     id: 200042
     type: 1
     arg: "1"
     code: profileFrame_BattlePass_M16A1
     item_name: アイコンフレーム：灯火の塵
     introduction: アイコンフレーム：灯火の塵
+    rank: 1
+  }
+  {
+    id: 200043
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HS50
+    item_name: アイコンフレーム：愛・機械と電波
+    introduction: アイコンフレーム：愛・機械と電波
     rank: 1
   }
   {
@@ -20525,6 +20617,46 @@
     sort: -1
   }
   {
+    id: 1500124
+    type: 15
+    arg: "1500124"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-クラウド・スローンで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500125
+    type: 15
+    arg: "1500125"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-クラウド・スローンで獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500126
+    type: 15
+    arg: "1500126"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-クラウド・スローンで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500127
+    type: 15
+    arg: "1500127"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-クラウド・スローンで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -20605,6 +20737,36 @@
     id: 1700006
     type: 15
     arg: "1700006"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700007
+    type: 15
+    arg: "1700007"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700008
+    type: 15
+    arg: "1700008"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700009
+    type: 15
+    arg: "1700009"
     code: package_choose
     item_name: 高ランク専用装備指定ビーコン
     introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
