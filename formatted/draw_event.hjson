@@ -3819,6 +3819,20 @@
     clear_cycle: 1
   }
   {
+    id: 563
+    item_id: 100139
+    type: 1
+    start_time: 2024-08-01 00:00:00
+    end_time: 2024-08-14 23:59:59
+    drop_ids: 69:894,70:895,71:896
+    title_res: 943fb7346ee6a74e_draw_240724114521.png
+    amount_coordinate: "397,-195"
+    bg_res: e1eb0906baac7bc8_draw_240724114520.jpg
+    is_show: 1
+    prize_skip: 330573:71,330574:71,330575:71,330576:71,330577:71
+    can_ten_draws: 1
+  }
+  {
     id: 565
     type: 1
     start_time: 2022-07-01 00:00:00
@@ -4444,6 +4458,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 6:1018
     clear_cycle: 1
   }
   {
@@ -4451,6 +4466,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 6:1019
     clear_cycle: 1
   }
   {
@@ -4458,6 +4474,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 6:1020
     clear_cycle: 1
   }
   {
@@ -4465,6 +4482,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 6:1021
     clear_cycle: 1
   }
   {
@@ -4472,6 +4490,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 6:1022
     clear_cycle: 1
   }
   {
@@ -4479,6 +4498,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 4:1023
     clear_cycle: 1
   }
   {
@@ -4486,6 +4506,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 4:1024
     clear_cycle: 1
   }
   {
@@ -4493,6 +4514,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 4:1025
     clear_cycle: 1
   }
   {
@@ -4500,6 +4522,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 4:1026
     clear_cycle: 1
   }
   {
@@ -4507,6 +4530,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 4:1027
     clear_cycle: 1
   }
   {
@@ -4514,6 +4538,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 1000:1028
     clear_cycle: 1
   }
   {
@@ -4521,6 +4546,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 1000:1029
     clear_cycle: 1
   }
   {
@@ -4528,6 +4554,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 1000:1030
     clear_cycle: 1
   }
   {
@@ -4535,6 +4562,7 @@
     type: 1
     start_time: 2024-05-31 00:00:00
     end_time: 2024-06-14 13:00:00
+    drop_ids: 1000:1031
     clear_cycle: 1
   }
   {
@@ -5265,6 +5293,146 @@
     start_time: 2024-04-26 00:00:00
     end_time: 2024-05-17 13:00:00
     drop_ids: 6:2025
+    clear_cycle: 1
+  }
+  {
+    id: 924
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 925
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 926
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 927
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 928
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 929
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 930
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 931
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 932
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 933
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 934
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 935
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 936
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 937
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 938
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 939
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 940
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 941
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 942
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 943
+    type: 1
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
     clear_cycle: 1
   }
   {
@@ -6541,5 +6709,19 @@
     is_show: 1
     prize_skip: 330568:101
     can_ten_draws: 1
+  }
+  {
+    id: 6105
+    item_id: 100140
+    type: 2
+    start_time: 2024-07-26 13:00:00
+    end_time: 2024-08-23 23:59:59
+    drop_ids: 100:20112
+    title_res: 965cd803d1af948f_draw_240724114523.png
+    amount_coordinate: "-568,-120"
+    bg_res: 233a6f0ff59a81d7_draw_240724114523.jpg
+    is_show: 1
+    use_animation: 1
+    goto_to_mall: 1
   }
 ]

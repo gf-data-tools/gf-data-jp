@@ -3572,4 +3572,18 @@
     color_4: Commander_5752_4
     color_icon_id: "942,943,944,945,946,947"
   }
+  {
+    id: 5940
+    name: ロックンロールの潮流
+    description: この日の、一夜限りのリズムを奏でよう。硝煙まみれの戦場を遠ざけ、このロックンロールの夜を思うがままに楽しもう。
+    code: BodyAcco
+    icon: commander_5940_icon
+    type: 4
+    uniform_class: "59"
+    color_normal: Commander_5940_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.172,0.008"
+    color_icon_id: "958"
+  }
 ]

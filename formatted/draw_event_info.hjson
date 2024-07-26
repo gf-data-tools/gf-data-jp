@@ -3441,6 +3441,20 @@
     type: "1"
   }
   {
+    id: "563"
+    item_id: "100139"
+    start_time: 2024-08-01 00:00:00
+    end_time: 2024-08-14 23:59:59
+    drop_ids: 69:894,70:895,71:896
+    title_res: 943fb7346ee6a74e_draw_240724114521.png
+    amount_coordinate: "397,-195"
+    bg_res: e1eb0906baac7bc8_draw_240724114520.jpg
+    is_show: "1"
+    prize_skip: 330573:71,330574:71,330575:71,330576:71,330577:71
+    can_ten_draws: "1"
+    type: "1"
+  }
+  {
     id: "565"
     start_time: 2022-07-01 00:00:00
     end_time: 2022-07-15 13:00:00
@@ -4748,6 +4762,146 @@
     type: "1"
   }
   {
+    id: "924"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "925"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "926"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "927"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "928"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "929"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "930"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "931"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "932"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "933"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "934"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "935"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "936"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "937"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "938"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "939"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "940"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "941"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "942"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "943"
+    start_time: 2024-07-26 00:00:00
+    end_time: 2024-08-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
     id: "950"
     item_id: "100199"
     start_time: 2023-12-30 00:00:00
@@ -5945,5 +6099,19 @@
     prize_skip: 330568:101
     can_ten_draws: "1"
     type: "1"
+  }
+  {
+    id: "6105"
+    item_id: "100140"
+    start_time: 2024-07-26 13:00:00
+    end_time: 2024-08-23 23:59:59
+    drop_ids: 100:20112
+    title_res: 965cd803d1af948f_draw_240724114523.png
+    amount_coordinate: "-568,-120"
+    bg_res: 233a6f0ff59a81d7_draw_240724114523.jpg
+    is_show: "1"
+    use_animation: "1"
+    goto_to_mall: "1"
+    type: "2"
   }
 ]

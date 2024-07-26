@@ -13,7 +13,7 @@
     rank: 1
     sort: 10
     item_access: "1,4,5,3"
-    detail_introduction: 「工廠-人形製造」でI.O.Pに人形の製造を依頼できる。
+    detail_introduction: 「工廠-人形製造」でI.O.P.に人形の製造を依頼できる。
   }
   {
     id: 2
@@ -469,7 +469,7 @@
     arg: "1"
     code: Energy
     item_name: エネルギー
-    introduction: I.O.Pは傘下のエネルギー供給規格を統一したため、I.O.P制式のエネルギー供給システム一つで、すべての機動装甲にエネルギーを供給することができる。
+    introduction: I.O.P.は傘下のエネルギー供給規格を統一したため、I.O.P.制式のエネルギー供給システム一つで、すべての機動装甲にエネルギーを供給することができる。
     rank: 1
   }
   {
@@ -478,7 +478,7 @@
     arg: "1"
     code: Component_EXP_Item
     item_name: モジュール加工キット
-    introduction: 機動装甲の戦闘効率を上げるために、I.O.Pは特別なモジュール加工サービスを提供している。そしてさらなる作業効率化を図るために、I.O.Pはモジュール加工キットを提供し、各自でモジュールを改造アップグレードすることが可能となった。
+    introduction: 機動装甲の戦闘効率を上げるために、I.O.P.は特別なモジュール加工サービスを提供している。そしてさらなる作業効率化を図るために、I.O.P.はモジュール加工キットを提供し、各自でモジュールを改造アップグレードすることが可能となった。
     rank: 1
     sort: 115
     item_access: "7"
@@ -1058,7 +1058,7 @@
     rank: 1
     sort: -200
     item_access: "2"
-    detail_introduction: 「工廠-装備製造」でI.O.P特殊オーダーを注文できる。
+    detail_introduction: 「工廠-装備製造」でI.O.P.特殊オーダーを注文できる。
   }
   {
     id: 518
@@ -1155,7 +1155,7 @@
     introduction: 製造する装備の種類を指定できる大型製造契約。契約1個につき、指定した種類の装備を1個製造できます。test
     rank: 1
     sort: -40
-    detail_introduction: 「工廠-装備製造」にて大型製造のI.O.P特殊オーダーを注文できます。Testtest
+    detail_introduction: 「工廠-装備製造」にて大型製造のI.O.P.特殊オーダーを注文できます。Testtest
   }
   {
     id: 527
@@ -1194,6 +1194,38 @@
     code: Flashbang
     item_name: 信号アイテム
     introduction: 「信号位相差16分42秒」
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 531
+    type: 1
+    arg: "531"
+    code: assess202309_item1
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 532
+    type: 1
+    arg: "532"
+    code: assess202309_item2
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 533
+    type: 1
+    arg: "533"
+    code: assess202309_item3
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 534
+    type: 1
+    arg: "534"
+    code: assess202309_item3
     rank: 1
     is_hide_info: 1
   }
@@ -11070,6 +11102,15 @@
     rank: 1
   }
   {
+    id: 2090
+    type: 5
+    arg: "1"
+    code: profilePic_mask_6years
+    item_name: 真核の仮面アイコン：六周年
+    introduction: 真核の仮面アイコン：六周年
+    rank: 1
+  }
+  {
     id: 2091
     type: 5
     arg: "1"
@@ -12846,6 +12887,96 @@
     rank: 1
   }
   {
+    id: 2303
+    type: 5
+    arg: "1"
+    code: profilePic_7years_A
+    item_name: アイコン：薄酔のやさしさ
+    introduction: アイコン：薄酔のやさしさ
+    rank: 1
+  }
+  {
+    id: 2304
+    type: 5
+    arg: "1"
+    code: card_7years_A
+    item_name: IDカード背景：古き時の城の証
+    introduction: IDカード背景：古き時の城の証
+    rank: 1
+  }
+  {
+    id: 2306
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_98K
+    item_name: 踊り場のフォックストロット
+    introduction: 踊り場のフォックストロット
+    rank: 1
+  }
+  {
+    id: 2307
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_DesertEagle
+    item_name: 薔薇の歌声
+    introduction: 薔薇の歌声
+    rank: 1
+  }
+  {
+    id: 2308
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_HS50
+    item_name: ほろ酔いの雪結晶
+    introduction: ほろ酔いの雪結晶
+    rank: 1
+  }
+  {
+    id: 2309
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_9A91
+    item_name: 密かな視線
+    introduction: 密かな視線
+    rank: 1
+  }
+  {
+    id: 2310
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_MG36
+    item_name: 葛根の騎士
+    introduction: 葛根の騎士
+    rank: 1
+  }
+  {
+    id: 2311
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_Mk48
+    item_name: 夜宴のハンター
+    introduction: 夜宴のハンター
+    rank: 1
+  }
+  {
+    id: 2312
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_SR2
+    item_name: 泡の終結者
+    introduction: 泡の終結者
+    rank: 1
+  }
+  {
+    id: 2313
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_M1
+    item_name: 溺れる星の光
+    introduction: 溺れる星の光
+    rank: 1
+  }
+  {
     id: 2314
     type: 5
     arg: "1"
@@ -13197,6 +13328,15 @@
     rank: 1
   }
   {
+    id: 2355
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_LWMMG
+    item_name: 新米経理
+    introduction: 新米経理
+    rank: 1
+  }
+  {
     id: 2356
     type: 5
     arg: "1"
@@ -13501,6 +13641,24 @@
     rank: 1
   }
   {
+    id: 2408
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_A545
+    item_name: A-545アイコン
+    introduction: A-545アイコン
+    rank: 1
+  }
+  {
+    id: 2409
+    type: 5
+    arg: "1"
+    code: card_friendmall_A545
+    item_name: IDカード背景：火酒酔狂
+    introduction: IDカード背景：火酒酔狂
+    rank: 1
+  }
+  {
     id: 2410
     type: 5
     arg: "1"
@@ -13663,6 +13821,42 @@
     rank: 1
   }
   {
+    id: 2428
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_EVO3Mod
+    item_name: EVO 3メンタルアップグレードアイコン
+    introduction: EVO 3メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2429
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_Px4StormMod
+    item_name: Px4 ストームメンタルアップグレードアイコン
+    introduction: Px4 ストームメンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2430
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_FalconMod
+    item_name: ファルコンメンタルアップグレードアイコン
+    introduction: ファルコンメンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2431
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_EM2Mod
+    item_name: EM-2メンタルアップグレードアイコン
+    introduction: EM-2メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
     id: 2442
     type: 5
     arg: "1"
@@ -13741,6 +13935,24 @@
     code: profilePic_BattlePass_HS50
     item_name: プロゲーマー育成記
     introduction: プロゲーマー育成記
+    rank: 1
+  }
+  {
+    id: 2498
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_88type
+    item_name: 星々へ
+    introduction: 星々へ
+    rank: 1
+  }
+  {
+    id: 2499
+    type: 5
+    arg: "1"
+    code: cg_Anniversary2024
+    item_name: 基地背景：全機、戦闘配置！
+    introduction: 全機、直ちに戦闘配置！敵に最後のレクイエムを贈れ！
     rank: 1
   }
   {
@@ -16043,6 +16255,33 @@
     daily_limit: "60"
   }
   {
+    id: 100138
+    type: 4
+    arg: "100138"
+    code: core_mask_6year
+    item_name: 真核の仮面：六周年
+    introduction: 真核の仮面：六周年
+    rank: 1
+  }
+  {
+    id: 100139
+    type: 4
+    arg: "100139"
+    code: Bumdle_20226year
+    item_name: 六周年特別物資箱
+    introduction: 六周年特別物資箱
+    rank: 1
+  }
+  {
+    id: 100140
+    type: 4
+    arg: "100140"
+    code: Bumdle_6year
+    item_name: 六周年スキン抽選券
+    introduction: 六周年スキン抽選券
+    rank: 1
+  }
+  {
     id: 100141
     type: 4
     arg: "100141"
@@ -16434,6 +16673,34 @@
     code: Mind_Coin
     item_name: 思考コイン
     introduction: 思考コイン
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100194
+    type: 4
+    arg: "100194"
+    code: Nova_medal
+    item_name: 新星勲章・確認! Reloading...
+    introduction: 新星勲章・確認! Reloading...
+    rank: 1
+  }
+  {
+    id: 100195
+    type: 4
+    arg: "100195"
+    code: Platinum_medal
+    item_name: 白金勲章・確認! Reloading...
+    introduction: 白金勲章・確認! Reloading...
+    rank: 1
+  }
+  {
+    id: 100196
+    type: 9
+    arg: "100196"
+    code: Loading_Coin
+    item_name: ロードコイン
+    introduction: ロードコイン
     rank: 1
     daily_limit: "60"
   }
@@ -18449,6 +18716,60 @@
     rank: 5
   }
   {
+    id: 133130
+    type: 13
+    arg: "55"
+    code: Warjack_1012
+    item_name: 64年式-銀河-人型戦術機甲設計図
+    introduction: グリフィン64年式汎用人型戦術機甲。あらゆる闇を引き裂く。
+    rank: 5
+  }
+  {
+    id: 133131
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1012
+    item_name: 64年式-銀河-ミサイルランチャーMK1
+    introduction: 64年式-銀河用の小型ミサイルランチャー。ピンポイントなミサイル攻撃を行うことができる。
+    rank: 5
+  }
+  {
+    id: 133132
+    type: 13
+    arg: "55"
+    code: ElecGun_1012
+    item_name: 64年式-銀河-軽量化速射レールガン
+    introduction: 64年式-銀河用の軽量化速射レールガン。速射性に優れている。
+    rank: 5
+  }
+  {
+    id: 133133
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1012
+    item_name: 64年式-銀河-機関砲
+    introduction: 64年式-銀河用の機関砲。小口径の砲弾を使用する。
+    rank: 5
+  }
+  {
+    id: 133134
+    type: 13
+    arg: "55"
+    code: AutoDef_1012
+    item_name: 64年式-銀河-シールドリアクター
+    introduction: 64年式-銀河用のシールドリアクター。機体の防御力を強化できる。
+    rank: 5
+  }
+  {
+    id: 133135
+    type: 13
+    arg: "55"
+    code: LaserSup_1012
+    item_name: 64年式-銀河-レーザー制圧装置
+    introduction: 64年式-銀河用のレーザー制圧装置。敵の照準を攪乱することができる。
+    rank: 5
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -19116,6 +19437,15 @@
     code: profileFrame_BattlePass_M950A
     item_name: アイコンフレーム：スルッと――
     introduction: アイコンフレーム：スルッと――
+    rank: 1
+  }
+  {
+    id: 200037
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_A545
+    item_name: アイコンフレーム：ボヤ
+    introduction: アイコンフレーム：ボヤ
     rank: 1
   }
   {
@@ -21030,6 +21360,56 @@
     code: Bumdle_invocation_3
     item_name: GW限定人形支援要請書
     introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500009
+    type: 15
+    arg: "9500009"
+    code: Bumdle_1year_Coupons
+    item_name: 一周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500010
+    type: 15
+    arg: "9500010"
+    code: Bumdle_2year_Coupons
+    item_name: 二周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500011
+    type: 15
+    arg: "9500011"
+    code: Bumdle_3year_Coupons
+    item_name: 三周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500012
+    type: 15
+    arg: "9500012"
+    code: Bumdle_4year_Coupons
+    item_name: 四周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 9500013
+    type: 15
+    arg: "9500013"
+    code: Bumdle_5year_Coupons
+    item_name: 五周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
     rank: 1
     sort: -1
   }

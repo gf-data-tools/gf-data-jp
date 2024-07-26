@@ -5625,6 +5625,36 @@
     note: オリジナルスキン
   }
   {
+    id: 5070
+    name: EVO 3-オリジナルスキン
+    fit_gun: 20131
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    illustrator_cv: AS109,吉田幸代,
+  }
+  {
+    id: 5071
+    name: Px4ストーム-オリジナルスキン
+    fit_gun: 20233
+    voice: 4
+    is_hidden: 2
+  }
+  {
+    id: 5072
+    name: ファルコン-オリジナルスキン
+    fit_gun: 20256
+    voice: 4
+    is_hidden: 2
+  }
+  {
+    id: 5073
+    name: EM-2-オリジナルスキン
+    fit_gun: 20262
+    voice: 4
+    is_hidden: 2
+  }
+  {
     id: 5101
     name: 枝垂れ夢見る狐の影
     fit_gun: 316
@@ -6710,6 +6740,7 @@
     id: 6601
     name: シフゾウ宣言
     fit_gun: 290
+    ai: 46601
     voice: 19
     dialog: プレゼントを配るのって絶対にサンタさんと一緒じゃないといけないんですか？わたしの発明したプレゼントランチャーを使えば、効率には全く影響なしですよ！
     order: 59
@@ -7983,6 +8014,90 @@
     skin_source: 3
   }
   {
+    id: 8301
+    name: 踊り場のフォックストロット
+    fit_gun: 46
+    voice: 4
+    dialog: この場所が嫌いというわけではありません。ただいつまでも宴に興じるよりも、ほどほどに切り上げた方がいいかと……でも、もしダンスのお誘いでしたら、もうしばらくこの場にいても構わないわよ。
+    illustrator_cv: RIRE,中恵光城,
+    order: 114
+    class_id: 88
+    skin_source: 2
+  }
+  {
+    id: 8302
+    name: 薔薇の歌声
+    fit_gun: 272
+    voice: 4
+    dialog: まさかこのような重要な舞台に立つことができるなんて……指揮官、ありがとうございます。どうか今は観客の一人として、わたくしの歌を聴いてください……
+    gift_position: "-131.5,93.7"
+    order: 114
+    class_id: 88
+    skin_source: 1
+  }
+  {
+    id: 8303
+    name: ほろ酔いの雪結晶
+    fit_gun: 348
+    voice: 4
+    dialog: どういうこと？さっき何かを飲んだら、頭がフラフラになって……えっと？新しく入ってきた同僚の方でしょうか？指揮官と同じ優しい方ですね……お友達になってくれると嬉しいです。
+    gift_position: "-123.5,-25.6"
+    order: 114
+    class_id: 88
+    skin_source: 1
+  }
+  {
+    id: 8304
+    name: 密かな視線
+    fit_gun: 118
+    voice: 4
+    dialog: いつも私のことを気にかけていなければ、私がずっと指揮官のことを見ているって気づきませんよね？とにかく、これでおあいこ……よかったら、一つ乾杯しましょうか？
+    order: 114
+    class_id: 88
+    skin_source: 2
+  }
+  {
+    id: 8305
+    name: 葛根の騎士
+    fit_gun: 263
+    voice: 4
+    dialog: 賑やかな宴は、外宇宙の来訪者を呼び寄せると言われています……ですが、ご心配なさらずに。この葛根茶さえあれば、私はいつでも指揮官の護衛に集中できます。
+    order: 114
+    class_id: 88
+    skin_source: 2
+  }
+  {
+    id: 8306
+    name: 夜宴のハンター
+    fit_gun: 121
+    voice: 4
+    dialog: あら、指揮官、あんたは何に誘き寄せられてここまで来たのかしら？フクロウの視線、レコーダーの旋律、それとも……私の魅力？フフフ……
+    illustrator_cv: YoYo,立花理香,
+    order: 114
+    class_id: 88
+    skin_source: 2
+  }
+  {
+    id: 8307
+    name: 泡の終結者
+    fit_gun: 347
+    voice: 4
+    dialog: テンション上げてこうよ、指揮官！銃弾の嵐を潜ってきたんだ、この程度どうってことないだろ？
+    order: 114
+    class_id: 88
+    skin_source: 2
+  }
+  {
+    id: 8309
+    name: 溺れる星の光
+    fit_gun: 34
+    voice: 4
+    dialog: 指揮官、私が飾ったこれ、どうでしょうか？グリフィンの一番大事な日なので、指揮官の司令室もちゃんと模様替えしないとね。さて、お仕事も一旦おいて、ゆっくりリラックスしててください！
+    illustrator_cv: Alize,種田梨沙,
+    order: 114
+    class_id: 88
+  }
+  {
     id: 8401
     name: もふもふカート
     fit_gun: 122
@@ -7990,6 +8105,7 @@
     voice: 4
     substitute_voice: G11_0
     dialog: もふもふ、フワフワで……わぁ～……さっき夢で見た汚い地下室よりずっと気持ちいい～……
+    illustrator_cv: 脆皮炸虾球,福原綾香,
     order: 97
     class_id: 89
     skin_source: 3
@@ -8236,6 +8352,16 @@
     order: 94
     class_id: 91
     skin_source: 3
+  }
+  {
+    id: 8611
+    name: 新米経理
+    fit_gun: 81
+    voice: 4
+    dialog: 実にいいオフィスです、今年も財務諸表もとてもいい感じで……そういえば、そろそろ私の給料も上げてもらえないでしょうか？
+    gift_position: "-138.6,-154.4"
+    order: 114
+    class_id: 91
   }
   {
     id: 8612
@@ -8546,7 +8672,7 @@
     fit_gun: 5
     voice: 4
     dialog: こうしてトランペットを吹けば、カモメたちが沈没船の周りに集まり、宝を探してくれるのじゃ！ふふん、これで、わしを連れてきたことが正解だと信じてくれたかのう？
-    illustrator_cv: yoyo,金元寿子,
+    illustrator_cv: skin-40030010
     order: 97
   }
   {
@@ -8606,6 +8732,17 @@
     fit_gun: 348
     voice: 4
     dialog: 新作のAIシューティングゲーム、ランキング1位の報酬は……指揮官と一緒に晩餐！？こ、これは頑張らないと！
-    order: 128
+    order: 113
+  }
+  {
+    id: 50001
+    name: 星々へ
+    fit_gun: 95
+    voice: 4
+    dialog: 私はあくまでも、遍く星々の一つにすぎません。小さな光ではありますが、それでも皆さんと一緒ならば、きっと夜で最も輝く銀河になるのでしょう！
+    gift_position: "-231.9,39.7"
+    order: 132
+    class_id: 99
+    skin_source: 1
   }
 ]

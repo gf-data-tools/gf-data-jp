@@ -1440,8 +1440,22 @@
     years: 2023
   }
   {
+    id: 110
+    name: 六年のきらめき
+    rank: 5
+    bonus_picture: "3105"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 16
+    description: 六周年記念パーティーがテーマの家具セット。「万物には光と影、命には愛と憎しみ」
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: Anniversary2023_deco_06_icon
+    is_showed: 1
+    placement: 1
+    years: 2024
+  }
+  {
     id: 111
-    name: 君と花火
+    name: 君との花火
     rank: 5
     bonus_picture: "3106"
     k_bonus: 6:2000,9:5000,12:8000

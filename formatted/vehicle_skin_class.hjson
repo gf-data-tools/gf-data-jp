@@ -63,11 +63,25 @@
     desc: 人型戦術機甲TCW48-A3メタルクローの設計図。コクピット内の埃問題をうまく解決したようだ。
   }
   {
+    id: 10
+    name: ペガサス
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1010_set
+    desc: 主力戦車ペガサスの設計図。まずは、キャタピラーを外すところからだ。
+  }
+  {
     id: 11
     name: 麒麟
     vehicle_ids: "1,2"
     pic_code: 1:TankM1_1011_set
     desc: 主力戦車麒麟の設計図。効率厨のイチオシ。
+  }
+  {
+    id: 12
+    name: 64年式-銀河
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1012_set
+    desc: 64年式-銀河の設計図。あらゆる闇を引き裂く。
   }
   {
     id: 13

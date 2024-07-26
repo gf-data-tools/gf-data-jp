@@ -25328,7 +25328,7 @@
     space: "2,2,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: I.O.Pの人気スタッフ「リス」さんは、もともと来場して試合を応援する予定でしたが、会場に向かう途中、氷漬けになった魚に惹かれてしまい、舌が氷にくっついて離れなくなったため、応援バナーとして登場するしかありませんでした。
+    description: I.O.P.の人気スタッフ「リス」さんは、もともと来場して試合を応援する予定でしたが、会場に向かう途中、氷漬けになった魚に惹かれてしまい、舌が氷にくっついて離れなくなったため、応援バナーとして登場するしかありませんでした。
     code: WhiteV2022_deco_11,WhiteV2022_deco_12,WhiteV2022_deco_13
     texture_type: "1,1,1"
     sorting: "0,0,0"
@@ -25345,7 +25345,7 @@
     space: "2,2,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: I.O.Pの人気スタッフ「ニコ」さんは、もともと来場して試合を応援する予定でしたが、会場に向かう途中、氷漬けになった魚に惹かれてしまい、舌が氷にくっついて離れなくなったため、応援バナーとして登場するしかありませんでした。
+    description: I.O.P.の人気スタッフ「ニコ」さんは、もともと来場して試合を応援する予定でしたが、会場に向かう途中、氷漬けになった魚に惹かれてしまい、舌が氷にくっついて離れなくなったため、応援バナーとして登場するしかありませんでした。
     code: WhiteV2022_deco_14,WhiteV2022_deco_15,WhiteV2022_deco_16
     texture_type: "1,1,1"
     sorting: "0,0,0"
@@ -26977,6 +26977,268 @@
     rotate: "2"
   }
   {
+    id: 11001
+    name: 六年のきらめき-天然木模様のフロア
+    classes: 110
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 経費の問題で、これは床に天然木模様のシートを貼っただけだ。そしてグリフィンの総務部は、すべて目撃者の記憶を消した。
+    code: Anniversary2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11002
+    name: 六年のきらめき-星屑のカーテン
+    classes: 110
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 「あの星々はきっと、大きな宝石が砕かれた後の欠片なんだ。そしてたとえ砕かれたとしても、宝石たちは相変わらず美しく輝いている」「それはそうだけど、割ってしまった食器はちゃんと弁償しなさいよ」
+    code: Anniversary2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11003
+    name: 六年のきらめき-ロウソクの温かな想い
+    classes: 110
+    type: 201
+    position: "2,9"
+    space: "8,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: この温かなロウソクの光は、スイーツをよりおいしそうに映す。そしてそっと、スイーツの種類の少なさを隠してくれる。
+    code: Anniversary2023_deco_01
+    texture_type: "1"
+    offset: "0,-0.291956,0.490069"
+    rotate: "2"
+    touch_area: "8,4,0"
+  }
+  {
+    id: 11004
+    name: 六年のきらめき-菱形の飾り
+    classes: 110
+    type: 201
+    position: "17,8"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 簡素な菱形の飾り。窓の外の夜景と合わせて、いい感じの雰囲気を醸し出してくれる。酔っ払いにとっては、もう一つの月のように見えるらしいが……
+    code: Anniversary2023_deco_02
+    texture_type: "1"
+    offset: "0,3.1281,0"
+    rotate: "2"
+    touch_area: "3,5,0,0,10,0"
+  }
+  {
+    id: 11005
+    name: 六年のきらめき-第六夜の楽章
+    classes: 110
+    type: 201
+    position: "24,3"
+    space: "8,4,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 演奏者なすでにいなく、ただ沈んだ楽曲が、ホールの中を幽々と漂う。
+    code: Anniversary2023_deco_03,Anniversary2023_deco_05
+    texture_type: "1,1"
+    sorting: "0,10"
+    offset: "-0.1334656,-0.1188678,0|-0.12511763953,0.531777,0"
+    rotate: "2,2"
+    interact_point: "14"
+    interact_point_offset: *-1.05,2.049,0
+    touch_area: "8,5,0"
+  }
+  {
+    id: 11006
+    name: 六年のきらめき-一つ一つの思い出
+    classes: 110
+    type: 302
+    position: "6,6"
+    space: "4,9,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 世界初の長期保存可能の写真は、1873年に誕生した。そして今になっても、人間はこのような古い技術で、様々な瞬間を記録している。その原因は、もはや言うまでもないだろう。
+    code: Anniversary2023_walldeco_A
+    texture_type: "1"
+    offset: "0,0.250248,0"
+    rotate: "3"
+    touch_area: "4,9,0"
+  }
+  {
+    id: 11007
+    name: 六年のきらめき-アルコールの渦
+    classes: 110
+    type: 201
+    position: "23,0"
+    space: "6,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 酒の棚を軽々しく開けるな。もう一度言う、酒の棚を軽々しく開けるな！それは地獄への扉だ！
+    code: Anniversary2023_deco_04
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 11008
+    name: 六年のきらめき-私たちの六年
+    classes: 110
+    type: 201
+    position: "13,0"
+    space: "9,7,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 私たちの六年：六は完璧な数字。神は六日で世界を創り、私たちは六年で、私たちだけのグリフィンを作った。
+    code: Anniversary2023_deco_06,Anniversary2023_balloon
+    texture_type: "1,2"
+    sorting: "10,0"
+    offset: "-0.271102,-0.855014,0.750744|-0.20854,1.543196,1.324229"
+    rotate: "2,2"
+    touch_area: "9,7,0"
+  }
+  {
+    id: 11009
+    name: 六年のきらめき-悠揚な階段
+    classes: 110
+    type: 201
+    position: "32,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 美しい音楽に通ずる階段。非常に登りにくいが、これも音楽の道はそれだけ大変だということだ。
+    code: Anniversary2023_deco_07
+    texture_type: "1"
+    offset: "0.125124,-0.281529,0.20854"
+    rotate: "2"
+  }
+  {
+    id: 11010
+    name: 六年のきらめき-明るい階段
+    classes: 110
+    type: 201
+    position: "0,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 明るい光に通ずる階段。非常に登りにくいが、それだけ光というのは貴重だということだ。
+    code: Anniversary2023_deco_08,Anniversary2023_deco_09
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0,0,0|0.0041708,4.4888235,1.0364438"
+    rotate: "2,2"
+  }
+  {
+    id: 11011
+    name: 六年のきらめき-フクロウ型のタイマー
+    classes: 110
+    type: 201
+    position: "6,2"
+    space: "2,2,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 手紙を送ることができないし、当然魔法も使えない。
+    code: Anniversary2023_owl_deco
+    texture_type: "2"
+    offset: "0,0.198113,0"
+    rotate: "2"
+    interact_point: "48"
+    interact_point_offset: *-1.5167,0,0
+    touch_area: "3,6,0"
+  }
+  {
+    id: 11012
+    name: 六年のきらめき-カリーナの視線
+    classes: 110
+    type: 201
+    position: "0,12"
+    space: "2,2,1,1,1,1"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 直接この場に来ることはできなかったが、それでも最新のテクノロジーを駆使して、このパーティーにおけるなくてはならない存在となった――なに！？新商品発売、だと！？
+    code: Anniversary2023_deco_10
+    texture_type: "1"
+    offset: "0,-0.31281,0"
+    rotate: "2"
+  }
+  {
+    id: 11013
+    name: 六年のきらめき-今この時
+    classes: 110
+    type: 302
+    position: "8,2"
+    space: "2,3,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 4時45分だと思ったか？まさにその通りだ。
+    code: Anniversary2023_walldeco_02
+    texture_type: "1"
+    offset: "0,0.20854,0"
+    rotate: "3"
+    touch_area: "2,3,0"
+  }
+  {
+    id: 11014
+    name: 六年のきらめき-静かなチェロ
+    classes: 110
+    type: 201
+    position: "30,7"
+    space: "4,7,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 演奏者が酔っ払ってしまったため、このチェロも沈黙にならざるを得なかった。なにせ、チェロは酒を飲めないからだ。
+    code: Anniversary2023_deco_11,Anniversary2023_deco_12
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0,0,0|-0.1928995,0.500496,0"
+    rotate: "2,2"
+    interact_point: "14"
+    interact_point_offset: *-0.525,2.789,0
+  }
+  {
+    id: 11015
+    name: 六年のきらめき-鹿の頭の剥製の模造品
+    classes: 110
+    type: 302
+    position: "25,3"
+    space: "3,6,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 模造したのは剥製だけではない、あの鹿の群れに溢れていた時代もだ。
+    code: Anniversary2023_walldeco_03
+    texture_type: "1"
+    offset: "0,0.604766,0"
+    rotate: "3"
+    touch_area: "3,6,0"
+  }
+  {
+    id: 11016
+    name: 六年のきらめき-平和の地
+    classes: 110
+    type: 201
+    position: "20,11"
+    space: "8,3,1,1,1,1"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: キングやクイーンを守ることに疲れ、ルークやビショップに取られることに飽きたポーンたちは、ようやく自分たちだけのゲームを迎えることができた。戦争もなければ、権力争いもない、ただのんびりと、時間を潰していくだけ。
+    code: Anniversary2023_deco_13,Anniversary2023_deco_14,Anniversary2023_deco_15
+    texture_type: "1,1,1"
+    sorting: "0,20,0"
+    offset: "-0.9061063,-0.198113,0|0.021896762562,-0.198113,0|0.9290457,-0.198113,0"
+    rotate: "2,2,2"
+    interact_point: "12,14"
+    interact_point_offset: *-2.2167,1.0528,0|*2.2167,1.0528,0
+    touch_area: "8,4,0"
+  }
+  {
     id: 11101
     name: 君との花火-こだまする道
     classes: 111
@@ -27984,7 +28246,7 @@
     space: "6,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: 「アエネアス作戦」に参加した人形たちを表彰するため、I.O.Pは彼女たちを元にしたフィギュアシリーズをリリースした。グリフィン基地内部ではとても好評のようだ。
+    description: 「アエネアス作戦」に参加した人形たちを表彰するため、I.O.P.は彼女たちを元にしたフィギュアシリーズをリリースした。グリフィン基地内部ではとても好評のようだ。
     code: 2022WinterActivity_ToyCabinet
     texture_type: "1"
     offset: "0,0,0"
@@ -28764,6 +29026,24 @@
     rotate: "3"
   }
   {
+    id: 20102
+    name: オーケストラピット
+    classes: 81
+    type: 201
+    space: "8,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: ダンスホールの準備はできた。音楽隊のリハもバッチリだ。あとはリーダーさえ帰ってくれば、7周年のパーティーはいつでも――待て、楽譜を落としたのは誰だ？早く拾ってこい！
+    code: 2023Anniversay_deco_A,2023Anniversay_deco_B,2023Anniversay_deco_C,2023Anniversay_deco_D,2023Anniversay_deco_E
+    texture_type: "1,1,1,1,1"
+    sorting: "0,5,25,25,10"
+    offset: "0,-0.10427,0|0,-0.10427,0|0,-0.10427,0|0,-0.10427,0|0,-0.10427,0"
+    rotate: "2,2,2,2,2"
+    interact_point: "16,16"
+    interact_point_offset: *-1.983,2.959,0.142|*0.146,2.333,0
+    touch_area: "8,4,4"
+  }
+  {
     id: 20105
     name: 「全部欲しい」ミキサー
     classes: 81
@@ -28779,6 +29059,48 @@
     interact_point: "64"
     interact_point_offset: *3.996,0.000,0.000
     touch_area: "3,3,0"
+  }
+  {
+    id: 20107
+    name: DIY特別供給所
+    classes: 81
+    type: 302
+    space: "4,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 作戦報告書が、カリーナが1ページ1ページ丁寧に作成したのと同じように、今このプリンターから吐き出されているテスト用紙も、人形たちに1問1問丁寧に解いてもらうのだ――「これが手作業の大変さです！」
+    code: 2023SepActivity_deco_A
+    texture_type: "1"
+    offset: "0.000,0.699,0.000"
+    rotate: "3"
+  }
+  {
+    id: 20108
+    name: 勝気のブラックホール
+    classes: 81
+    type: 201
+    space: "5,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 偶然発見された昔のシューティングゲーム。その絶妙な難易度とランダム性が合わさって、戦術人形たちは意外にもハマってしまった――「なっ！？この私がクリアできないなんてありえない！もう一回！」
+    code: 2023SepActivity_deco_B
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20109
+    name: 一夜漬け
+    classes: 81
+    type: 201
+    space: "6,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「民間軍事会社グリフィン&クルーガーは……えっと……いつ成立したんだっけ？……あっ、そうだ、2051年だ！」（パラパラ……）「――ちがーう！2053年だよバカバカバカ！！！」
+    code: 2023SepActivity_deco_C
+    texture_type: "1"
+    offset: "0.000,-0.209,-0.052"
+    rotate: "2"
   }
   {
     id: 20110
@@ -28913,6 +29235,23 @@
     sorting: "5"
     offset: "0,0.05,0"
     rotate: "3"
+  }
+  {
+    id: 20143
+    name: そうめんの永久機関
+    classes: 81
+    type: 201
+    space: "8,7,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 麺圧、板切り、こより、小引きして熟成……水に流されて、最高ののど越しが箸に止まる！この夏、89式よりおすすめの一品です！――「カリーナチョイスチャンネル」より
+    code: Anniversary2024jp_nagashisomen
+    texture_type: "2"
+    offset: "-0.063,0.229,0.000"
+    rotate: "2"
+    interact_point: "820143"
+    interact_point_offset: *1.196,0.825,0.000
+    touch_area: "4,5,4"
   }
   {
     id: 30001
@@ -30304,21 +30643,6 @@
     decompose_gift: 100003
     description: M4 SOPMOD IIのポスター
     code: poster_AprilFool2022_M4 SOPMOD II
-    texture_type: "1"
-    sorting: "5"
-    offset: "0,0,0"
-    rotate: "3"
-  }
-  {
-    id: 30575
-    name: インクフィズ
-    classes: 300
-    type: 303
-    space: "3,6,1,1,1,0"
-    deco_rate: 750
-    decompose_gift: 100003
-    description: QBZ-191のポスター。
-    code: poster_Carnival2022_QBZ191
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -38335,6 +38659,126 @@
     rotate: "3"
   }
   {
+    id: 38301
+    name: 踊り場のフォックストロット
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kar98Kのポスター。
+    code: poster_Anniversary2023_98K
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38302
+    name: 薔薇の歌声
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: デザートイーグルのポスター。
+    code: poster_Anniversary2023_DesertEagle
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38303
+    name: ほろ酔いの雪結晶
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HS.50のポスター。
+    code: poster_Anniversary2023_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38304
+    name: 密かな視線
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 9A-91のポスター。
+    code: poster_Anniversary2023_9A91
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38305
+    name: 葛根の騎士
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr MG36のポスター。
+    code: poster_Anniversary2023_MG36
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38306
+    name: 夜宴のハンター
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Mk48のポスター。
+    code: poster_Anniversary2023_Mk48
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38307
+    name: 泡の終結者
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SR2のポスター。
+    code: poster_Anniversary2023_SR2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38309
+    name: 溺れる星の光
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1ガーランドのポスター。
+    code: poster_Anniversary2023_M1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38401
     name: もふもふカート
     classes: 300
@@ -38674,6 +39118,21 @@
     decompose_gift: 100003
     description: 6P62のポスター。
     code: poster_OfficeLady2023_6P62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38611
+    name: 新米経理
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LWMMGのポスター。
+    code: poster_OfficeLady2023_LWMMG
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -43221,6 +43680,21 @@
     decompose_gift: 100003
     description: HS.50のポスター。
     code: poster_BattlePass_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 350001
+    name: 星々へ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 漢陽88式のポスター。
+    code: poster_Anniversary2024_88type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
