@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>m_19christmas_theme</BGM>:ファルコンが気持ちをCZ2000とスコーピオンに気持ちを打ち明けた数日後、//n三人の絆はより一層固まった。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>m_19christmas_theme</BGM>:ファルコンがCZ2000とスコーピオンに気持ちを打ち明けた数日後、//n三人の絆はより一層固まった。
 ()||<黑屏1>:
 CZ2000(0)<Speaker>CZ2000</Speaker>||<黑屏2><BIN>99</BIN><SE2>Gunfight</SE2><SE1>AVG_tele_connect</SE1>:ファルコン、支援お願いします！
 Falcon(0)<Speaker>ファルコン</Speaker><通讯框>||:<color=#00CCFF>了解！</color>
@@ -10,7 +10,7 @@ VZ61(0)<Speaker>スコーピオン</Speaker>||<SE1>RunStep</SE1>:<size=50>今だ
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:仲間として、よりお互いを信頼し合い、より逞しく戦えるようになった。
 ()||<黑屏1>:
-VZ61(0)<Speaker>スコーピオン</Speaker>||<黑屏2><BIN>73</BIN>:どう？　今日の模擬戦はあたしの方が敵を多く倒したんでしょ！
+VZ61(0)<Speaker>スコーピオン</Speaker>||<黑屏2><BIN>73</BIN>:どう？　今日の模擬戦はあたしの方が敵を多く倒したでしょ！
 CZ2000(0)<Speaker>CZ2000</Speaker>||:冗談じゃない、ボクの方が多く倒しました！　ファルコンも見ましたでしょ！
 Falcon(0)<Speaker>ファルコン</Speaker>||:えっと……
 VZ61(0)<Speaker>スコーピオン</Speaker>||:ふん、訊いても無駄よ！　ファルコンはあたしの味方だから！
@@ -24,8 +24,8 @@ Falcon(0)<Speaker>ファルコン</Speaker><Shake>0.1</Shake>||<controll_shake>%
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:……
 EVO3(0)<Speaker></Speaker>||:準備はいい？+それでは、本日の主役に登場してもらおう！
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>82</BIN><SE1>AVG_Heart_boom</SE1>:（パッ！）
-()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:クラッカーの音と共に、部屋中にリボンが舞い散った。+そして拍手の音に迎えられながら、メンタルアップグレードを//n受けたファルコンが、恥ずかしそうに部屋に入ってきた。
+()<Speaker></Speaker>||<BIN>82</BIN><SE1>AVG_Heart_boom</SE1>:（パンッ！）
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:クラッカーの音と共に、部屋中にリボンが舞い散った。+拍手の音に迎えられながら、メンタルアップグレードを//n受けたファルコンが、恥ずかしそうに部屋に入ってきた。
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:へへっ、みんなありがとう！
 VZ61(0)<Speaker>スコーピオン</Speaker>||:いい！　ファルコン！　とってもいいよ！+あたしらしくカッコよくなったね！
 CZ2000(0)<Speaker>CZ2000</Speaker>||:あんたには関係ないでしょ！+まぁ、カッコよくなったのは確かなんだけど、//nボクと比べたらまだまだですね！
@@ -36,22 +36,22 @@ NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:�
 VZ61(0)<Speaker>スコーピオン</Speaker>||:そういえばそんなこともあったね！
 CZ2000(0)<Speaker>CZ2000</Speaker>||:忘れるところでした。
 EVO3(0)<Speaker>EVO 3</Speaker>||:ついこの間まで歌に入れてもらいたかったくせに……+急にどうしたの？
-VZ61(0)<Speaker>スコーピオン</Speaker>||:ふふん、それはもちろん、今は歌よりも大事なものを手に入れたからね！
+VZ61(0)<Speaker>スコーピオン</Speaker>||:ふふん、それはもちろん、今は歌より大事なものを手に入れたからね！
 CZ2000(0)<Speaker>CZ2000</Speaker>||:そうそう、歌よりも、仲間との絆の方が大事なんですよ！+ね、ファルコン？
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:うんうん！
-EVO3(0)<Speaker>EVO 3</Speaker>||:まぁでもせっかく創ったのだから、みんなに聞かせてみては？
+EVO3(0)<Speaker>EVO 3</Speaker>||:まぁでもせっかく作ったのだから、みんなに聞かせてみては？
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:今ここで？
 CZ2000(0)<Speaker>CZ2000</Speaker>||:そういうお祝いも悪くないんじゃない？
 VZ61(0)<Speaker>スコーピオン</Speaker>||:聞かせてよ、ファルコン！
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:それじゃ……
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ファルコンは自分のギターを手に取る。
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ファルコンはギターを手に取る。
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||<BGM>BGM_Empty</BGM>:どうぞお聞きください！
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:ファルコンがギターの弦を弾くと、美しいメロディーが奏でられ始める。
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||<BGM>m_19christmas_avg</BGM>:「何年経っても私たちは覚えている、あの時肩を並べて共に戦った時のこと」+「CZ2000の背中、スコーピオンの姿」
 CZ2000(0)<Speaker>CZ2000</Speaker>||:なんだよ、結局ボクたちのことを歌にしてるじゃないですか！
-VZ61(0)<Speaker>スコーピオン</Speaker>||:いいじゃないいいじゃない！　だって一緒に戦った仲間なんだから！
-()<Speaker></Speaker>||:そして二人は自慢げな顔をしながら、歌の続きを聞く……
+VZ61(0)<Speaker>スコーピオン</Speaker>||:いいじゃない、いいじゃない！　だって一緒に戦った仲間なんだから！
+()<Speaker></Speaker>||:二人は自慢げな顔で、歌の続きを聞く……
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:「そしてもう一人、朝日のように私たちを導いた」+「炎のような赤い髪、まるで太陽の光のように輝いている」
 ()<Speaker>CZ2000&スコーピオン</Speaker>||<BIN>82</BIN>:うん？？？
 ()<Speaker></Speaker>||:歌詞の内容が、どこかおかしい。+二人は一斉に首を傾げるが、ファルコンはそのまま歌い続けた――
@@ -60,9 +60,9 @@ VZ61(0)<Speaker>スコーピオン</Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1><
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||<BGM>BGM_Empty</BGM>:え？　どうしたの？
 EVO3(0)<Speaker>EVO 3</Speaker>||<BGM>m_wv_title</BGM>:なによ？　今ちょうどサビなのに？
 CZ2000(0)<Speaker>CZ2000</Speaker>||:そうじゃなくて！　なんで全部EVO 3褒めてる歌詞になっているのよ！
-EVO3(0)<Speaker>EVO 3</Speaker>||:仲間のことを歌うのは当然じゃない？//nあなたたちのことだって歌詞入ってるでしょ？
-VZ61(0)<Speaker>スコーピオン</Speaker>||:割合がどう考えてもおかしいよ！+絶対ファルコンになにか変なことを吹き込んだんでしょ！
-EVO3(0)<Speaker>EVO 3</Speaker>||:私は、ファルコンにちょっとしたアドバイスをしただけよ。
+EVO3(0)<Speaker>EVO 3</Speaker>||:仲間のことを歌うのは当然じゃない？//nあなたたちのことだって歌詞に入ってるでしょ？
+VZ61(0)<Speaker>スコーピオン</Speaker>||:割合がどう考えてもおかしいよ！+絶対ファルコンに何か変なことを吹き込んだんでしょ！
+EVO3(0)<Speaker>EVO 3</Speaker>||:私は、ファルコンにちょっとアドバイスをしただけよ。
 CZ2000(0)<Speaker>CZ2000</Speaker>||:あんたってやつは！　ボクたちに反省しろとか言っておきながら、//n自分も同じことしてたなんて！
 EVO3(0)<Speaker>EVO 3</Speaker>||:そういう言いがかりはやめて欲しいわ。//n私はファルコンに客観的にアドバイスをしただけだし。+ね、ファルコン？
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:あ、え……
@@ -72,7 +72,7 @@ CZ2000(0)<Speaker>CZ2000</Speaker>||:歌詞の書き直しを要請します！
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:その方がいいなら、それで……
 EVO3(0)<Speaker>EVO 3</Speaker>||:あら、すでに完成した歌の歌詞を書き直させるなんてひどいわね。+別にこのままでいいんじゃない？
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:ま、まぁ……CZ2000とスコーピオンの言ってることも一理あるし……
-EVO3(0)<Speaker>EVO 3</Speaker>||:いいえ、そもそもこういう細かいことにとやかく//n言い続けること自体がみっともないわ。
+EVO3(0)<Speaker>EVO 3</Speaker>||:いいえ、そもそもこういう細かいことをとやかく//n言い続けること自体がみっともないわ。
 CZ2000(0)<Speaker>CZ2000</Speaker>||<震屏3>:<size=50>みっともないのはそっちでしょ！</size>
 VZ61(0)<Speaker>スコーピオン</Speaker>||:そうだそうだ！　あたしたちのことを差し置いてこんなズルしやがって！
 EVO3(0)<Speaker>EVO 3</Speaker>||:あなたたち、私は隊長よ？
@@ -81,7 +81,7 @@ CZ2000(0)<Speaker>CZ2000</Speaker>||:隊長だからなんですか！//nこん�
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:二人も負けじと立ち上がり、戦う姿勢を見せた。
 VZ61(0)<Speaker>スコーピオン</Speaker>||:こうなったら勝負よ！
 NPC-Falcon(0)<Speaker>ファルコン</Speaker><Position>110,150</Position>||:……あ、今日は三人でやるんだね。
-()<Speaker></Speaker>||:ファルコンはいつものことのように、ギターを抱えて部屋の隅に座り、//nCZ2000とスコーピオンとEVO 3の三つ巴の戦いを見届けるのであった。
+()<Speaker></Speaker>||:ファルコンはいつものように、ギターを抱えて部屋の隅に座り、//nCZ2000とスコーピオンとEVO 3の三つ巴の戦いを見届けるのであった。
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:こうして、ファルコンのメンタルアップグレードを祝う会は、//n乱闘の中で幕を閉じた。+そして歌詞は結局どうなったのか、それは永遠の謎となったのだ……
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:こうして、ファルコンのメンタルアップグレードを祝う会は、//n乱闘の中で幕を閉じた。+歌詞は結局どうなったのか、それは永遠の謎だ……
 ()||<黑点1>:

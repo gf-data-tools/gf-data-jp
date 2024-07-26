@@ -1,14 +1,14 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 Falcon(0)<Speaker>ファルコン</Speaker>||<BGM>Campaion-34</BGM><黑屏2><BIN>80</BIN>:……
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:カフェの外で、ファルコンは一人そわそわと歩き回りながら、//n時々店内の様子を覗いた。
-()<Speaker></Speaker>||:今、店内の方で、CZ2000とスコーピオンは//n駆けつけて来たEVO 3に詰められている。
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:カフェの外で、ファルコンは一人そわそわと歩き回りながら、//n時々店内の様子を覗いていた。
+()<Speaker></Speaker>||:店の中では、CZ2000とスコーピオンが//n駆けつけて来たEVO 3に詰められている。
 EVO3(0)<Speaker>EVO 3</Speaker>||:勝手に訓練場を使って、その後カフェで食い逃げ……+それも全部、ファルコンのに歌に入れてもらうため？
 CZ2000(0)<Speaker>CZ2000</Speaker>||:……
 VZ61(0)<Speaker>スコーピオン</Speaker>||:……
 EVO3(0)<Speaker>EVO 3</Speaker>||<震屏3><SE1>AVG_Punch</SE1>:<size=50>おこがましい！　まるでふざけているわ！</size>+これがあなたたちの反省の結果なの！？
 ()<Speaker></Speaker>||:EVO 3は大きくため息を吐いて頭を横に振った。
 EVO3(0)<Speaker>EVO 3</Speaker>||:代金はとりあえず私が立て替えてあげる。//nあなたたちはこの後、各自反省文を書いてきなさい。いいわね？
-()<Speaker></Speaker>||:そう言い残して、EVO 3はもう一度ため息をついて、カフェから出て行った。+続いてEVO 3に詰められた二人も、//nようやく解放されてよろよろと店から出てくる。
+()<Speaker></Speaker>||:そう言い残すと、EVO 3はため息をついて、カフェから出て行った。+続いてEVO 3に詰められた二人も、//nようやく解放され、よろよろと店から出てくる。
 Falcon(0)<Speaker>ファルコン</Speaker>||:VZ61ちゃん、CZ2000。
 VZ61(0)<Speaker>スコーピオン</Speaker>||:え？
 CZ2000(0)<Speaker>CZ2000</Speaker>||:ファルコン！？+あ、えー……なんか色々あったねハハハハハ……
@@ -36,7 +36,7 @@ Falcon(0)<Speaker>ファルコン</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty
 Falcon(0)<Speaker>ファルコン</Speaker>||:は、はい！
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ファルコンは慌てて無線を繋ぎ、CZ2000のホログラム映像が浮かぶ。
 CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>目標が現れました。座標も送りました。</color>+<color=#00CCFF>そっちから確認できます？</color>
-()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:少し離れた位置にいるCZ2000の姿を確認した後、ファルコンはスコープの倍率を調整し、送られてきた座標の方向に向けてピントを合わせた。そして、とある巨大な機甲の姿を捉えた。
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:少し離れた位置にいるCZ2000の姿を確認した後、ファルコンは//nスコープの倍率を調整し、送られてきた座標の方向に向けて//nピントを合わせた。そして、とある巨大な機甲の姿を捉えた。
 Falcon(0)<Speaker>ファルコン</Speaker>||:み、見えてる……！
 CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>よし、ファルコン、ここは腕の見せ所です！</color>
 Falcon(0)<Speaker>ファルコン</Speaker>||:はい……
@@ -54,25 +54,25 @@ VZ61(0)<Speaker>スコーピオン</Speaker><通讯框>||:<color=#00CCFF>あれ�
 VZ61(0)<Speaker>スコーピオン</Speaker>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>てかこれ気づかれちゃうよ！　ファルコン、早く隠れて！</color>
 Falcon(0)<Speaker>ファルコン</Speaker>||:まずい……
 ()<Speaker></Speaker>||:（銃声）
-()<Speaker></Speaker>||:切羽詰まった状況で、ファルコン再び射撃をした。
+()<Speaker></Speaker>||:切羽詰まった状況で、ファルコンが再び射撃した。
 CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>ファルコン、ストップ！　そんなことしたら狙われてしまいますよ！</color>
 Falcon(0)<Speaker>ファルコン</Speaker>||:……！！
-()<Speaker></Speaker>||:そしてCZ2000の言ったように、敵機甲はすでにファルコンに砲口を向けていた。
+()<Speaker></Speaker>||:CZ2000の言うように、敵機甲はすでにファルコンに砲口を向けていた。
 Falcon(0)<Speaker>ファルコン</Speaker>||:ヤ、ヤバい……！
 ()<Speaker></Speaker>||:すぐに移動しなきゃ、という考えが脳裏に浮かんだ瞬間、//n一発の榴弾がファルコンの近くに落ちた――
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:（ドーン！）
 ()<Speaker></Speaker>||:激しい爆風に吹き飛ばされ、ファルコンは一瞬意識を失った。
-()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:次にファルコンが目を開いた時、//n敵の機甲はもうすでに目の前に迫ってきていた。+狼に狩られる子羊のように、ファルコンは無力に震える……
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:次にファルコンが目を開いた時には、//nすでに敵の機甲は目の前に迫ってきていた。+狼に狩られる子羊のように、ファルコンは無力に震える……
 ()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:（ボン！）
 Falcon(0)<Speaker>ファルコン</Speaker><Shake>0.1</Shake>||:え！？
 ()||<黑屏1>:
-()<Speaker></Speaker>||<睁眼><common_effect>%%code=AVG_chuxian_yan%%</common_effect>:この絶体絶命の時、突然、周りが煙幕に覆われた。
+()<Speaker></Speaker>||<睁眼><common_effect>%%code=AVG_chuxian_yan%%</common_effect>:絶体絶命のこの時、突然、周りが煙幕に覆われた。
 CZ2000(0)<Speaker>CZ2000</Speaker>||:しっ――信号を閉じて！
 VZ61(0)<Speaker>スコーピオン</Speaker>||:こっち！
 ()<Speaker></Speaker>||:スコーピオンとCZ2000は煙幕の中を潜って、//nファルコンを担いで少し離れたところにある廃墟に逃げ込んだ。
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>469</BIN>:……
-()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM>:目標を見失った敵の機甲は、再び索敵をし始める。//nその隙に、CZ2000とスコーピオンはファルコンに簡単な手当てを施した。
+()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM>:目標を見失った敵の機甲は、再び索敵を始める。//nその隙に、CZ2000とスコーピオンはファルコンに簡単な手当てを施した。
 CZ2000(0)<Speaker>CZ2000</Speaker>||:……大丈夫、傷はそんなひどくないですよ。
 Falcon(0)<Speaker>ファルコン</Speaker>||:ご、ごめんなさい。失敗しちゃって……
 VZ61(0)<Speaker>スコーピオン</Speaker>||:そんなこと言わないでよ！　そもそも敵が強いんだから。
@@ -91,38 +91,38 @@ VZ61(0)<Speaker>スコーピオン</Speaker>||:そうだよ、1発ぐらい外�
 Falcon(0)<Speaker>ファルコン</Speaker>||:仲間……
 Falcon(0)<Speaker>ファルコン</Speaker>||<BGM>BGM_Empty</BGM>:……
 ()<Speaker></Speaker>||:暫くの沈黙の後、ファルコンは頷いて、決意した。
-Falcon(0)<Speaker>ファルコン</Speaker>||:や、やってる！+でも……もしまた当たらなかったら……
+Falcon(0)<Speaker>ファルコン</Speaker>||:や、やってみる！+でも……もしまた当たらなかったら……
 ()<Speaker></Speaker>||:心配するファルコンに対し、CZ2000とスコーピオンはニッコリ笑った。
 ()||<黑屏1>:
 ()<Speaker>CZ2000&スコーピオン</Speaker>||<黑屏2><BIN>9</BIN><BGM>10301</BGM>:その時は任せて！
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>207</BIN>:廃墟の外、敵の機甲は未だに三人を捜しまわている。//nそのレーダーの索敵範囲に入るなリ、機甲はすぐに反応を見せた。
+()<Speaker></Speaker>||<黑屏2><BIN>207</BIN>:廃墟の外、敵の機甲は未だ三人を捜し回っていた。//nそのレーダーの索敵範囲に入ると、機甲はすぐに反応を見せた。
 VZ61(0)<Speaker>スコーピオン</Speaker>||:ちっ、もう発見されちゃった！
 CZ2000(0)<Speaker>CZ2000</Speaker>||:面倒なやつですね。
 VZ61(0)<Speaker>スコーピオン</Speaker>||:ほら！　かかってこいよ！　今すぐスクラップにしてやる！
-()<Speaker></Speaker>||:その挑発が効いたのか、機甲は二人を追い始めた。+それに対し、二人は機甲と無理に戦おうとせず、射撃しながら後退し、//n機甲を徐々に離れた場所に誘い込んでいく。
+()<Speaker></Speaker>||:その挑発が効いたのか、機甲は二人を追い始めた。+それに対し二人は機甲と無理に戦おうとせず、射撃しながら後退し、//n機甲を徐々に離れた場所に誘い込んでいく。
 CZ2000(0)<Speaker>CZ2000</Speaker>||:ファルコン、目標をうまく引き離しましたよ！
 Falcon(0)<Speaker>ファルコン</Speaker>||:分かった！
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>468</BIN><SE1>RunStep</SE1>:ファルコンはすぐ、射撃に適した高所に登った。
-()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:半壊した壁の後ろに隠れ、レティクルを敵に合わせる。//n敵は移動をし続けているが、偏向射撃をすれば問題はないはず。
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:半壊した壁の後ろに隠れ、レティクルを敵に合わせる。//n敵は移動し続けているが、偏向射撃をすれば問題はないはず。
 Falcon(0)<Speaker>ファルコン</Speaker>||:……
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:（銃声）+……
 VZ61(0)<Speaker>スコーピオン</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>ファルコン！　当たってないよ！</color>
 Falcon(0)<Speaker>ファルコン</Speaker>||:ご、ごめん！　もう一度……あっ！
 ()<Speaker></Speaker>||:前回と同じ、ファルコンの狙撃は敵の注意を惹き付けてしまった。//nやはりスナイパーの方が危険だと判断したからなのか、//n敵の機甲は遮蔽物に隠れながら、またファルコンのところに近づいて来る。
 Falcon(0)<Speaker>ファルコン</Speaker>||:しまった……！
-()<Speaker></Speaker>||:遮蔽物に隠れながらの移動で、ファルコンはますます敵を捉えにくくなった。+そして先ほど敵を前にした時の恐怖が湧き出て、また思わず手が震えはじめた。
+()<Speaker></Speaker>||:遮蔽物に隠れながらの移動で、ファルコンはますます敵が捉えにくくなった。+そして、先ほど敵を前にした時の恐怖が思い返され、思わず手が震えはじめた。
 ()<Speaker>ファルコン</Speaker>||:やっぱり……だめなの……？
 ()<Speaker></Speaker>||:……
 ()<Speaker>？？？</Speaker>||:近づけさせないよ！！！
 Falcon(0)<Speaker>ファルコン</Speaker>||:え？
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>10256</BGM>:連続した銃声が、100メートルほど離れたところで響き続けた。よく見たら、//nCZ2000とスコーピオンの二人が、なんとか敵機甲の進行を食い止めていた。
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>10256</BGM>:連続した銃声が、100メートルほど離れたところで響いた。//nCZ2000とスコーピオンの二人が、なんとか敵機甲の進行を食い止めていた。
 ()||<黑点1>:
 Falcon(0)<Speaker>ファルコン</Speaker>||<黑点2><BIN>207</BIN>:CZ2000！？　スコーピオン！？
 VZ61(0)<Speaker>スコーピオン</Speaker>||:サブマシンガンの力を見せてやる！
 CZ2000(0)<Speaker>CZ2000</Speaker>||:ファルコンにカッコいいところを見せないとね！
-()<Speaker></Speaker>||:さすがの敵でも二人ことは無視できず、ファルコンに近づくことよりも、//n先に二人の排除に方針を切り替えたようだ。+そして、砲弾の嵐が、そんな二人に襲い掛かる。
+()<Speaker></Speaker>||:さすがの敵でも二人のことは無視できず、ファルコンに近づくより先に//n二人を排除する方針に切り替えたようだ。+そして、砲弾の嵐が、二人に襲い掛かる。
 ()||<黑点1>:
 Falcon(0)<Speaker>ファルコン</Speaker>||<黑点2><BIN>468</BIN>:……
 ()||<黑屏1>:
@@ -135,9 +135,9 @@ Falcon(0)<Speaker>ファルコン</Speaker>||:私に任せて。
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>m_avg_casual</BGM>:その後で初めて、私は敵を倒したんだよ。+ふふふっ、今思い返してみたらまるで昨日のことみたい！
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>m_avg_casual</BGM>:その後で、初めて私は敵を倒したんだよ。+ふふふっ、今思い返してもまるで昨日のことみたい！
 VZ61(0)<Speaker>スコーピオン</Speaker>||:言われてみれば、そんなこともあったよね……//nあの時のあたしはカッコよかった！
-CZ2000(0)<Speaker>CZ2000</Speaker>||:お、覚えてくれたのですね、ボクたちの活躍！
+CZ2000(0)<Speaker>CZ2000</Speaker>||:お、覚えててくれたのですね、ボクたちの活躍！
 Falcon(0)<Speaker>ファルコン</Speaker>||:もちろんだよ！
 Falcon(0)<Speaker>ファルコン</Speaker>||:二人のおかげで私は戦えるようになったし、//n二人のおかげで私は敵を倒せたんだよ。
 VZ61(0)<Speaker>スコーピオン</Speaker>||:そんな……
@@ -150,10 +150,10 @@ VZ61(0)<Speaker>スコーピオン</Speaker>||:……は、恥ずかしいのは
 Falcon(0)<Speaker>ファルコン</Speaker>||:え！？
 CZ2000(0)<Speaker>CZ2000</Speaker>||<BGM>GF_Memorial</BGM>:まさか……ボクたちのことをそんな風に思っていたなんて……//nボクたちは……うぅ……！！！
 Falcon(0)<Speaker>ファルコン</Speaker>||:な、泣くことはないんじゃないかな……？
-CZ2000(0)<Speaker>CZ2000</Speaker>||:その……懐の広さに泣いているんですよ！//nずっとボクたちを思ってくれているのに……//n僕たちは歌のことなんかを気にして……！+これからは、ずっと一緒に成長しましょう！
+CZ2000(0)<Speaker>CZ2000</Speaker>||:その……懐の広さに泣いているんですよ！//nずっとボクたちを思ってくれているのに……//n僕たちは歌のことなんか気にして……！+これからは、ずっと一緒に成長しましょう！
 VZ61(0)<Speaker>スコーピオン</Speaker>||:うんうん！
 Falcon(0)<Speaker>ファルコン</Speaker>||:CZ2000……スコーピオン……+うん、私も思いを打ち明けられてよかったって思ってる！+これからも、仲間としてお互い助け合おう！
-()<Speaker></Speaker>||:感激のあまり、三人はお互いに抱き合う。そして一緒に手を高く掲げて――
+()<Speaker></Speaker>||:感激のあまり、三人は抱き合った。そして一緒に手を高く掲げて――
 ()||<黑屏1>:
 ()<Speaker>三人</Speaker>||<黑屏2><BIN>9</BIN>:頑張ろう――！！！
 ()||<黑点1>:
