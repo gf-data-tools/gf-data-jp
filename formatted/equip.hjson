@@ -5065,8 +5065,10 @@
     powerup_part: 0.3
     exclusive_rate: 3
     bonus_type: armor_piercing:500,pow:1000
+    passive_skill: "759293"
     max_level: 10
     auto_select_id: 19012
+    group_id: "19"
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000170
@@ -5855,8 +5857,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: armor:400
+    passive_skill: "759298"
     max_level: 10
     auto_select_id: 20028
+    group_id: "20"
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000193
@@ -11552,6 +11556,75 @@
     group_id: "18"
     is_show: 1
     obtain_ids: "3096"
+  }
+  {
+    id: 371
+    name: 密林迷彩マント
+    description:
+      '''
+      会心ダメージ+<critical_harm_rate><%>
+      開幕CT-80%$NTW-20 MOD専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    critical_harm_rate: "10,15"
+    skill_effect: 300
+    retire_mp: 4
+    retire_mre: 5
+    code: TDoll_SP_NTW20Mod
+    develop_duration: 3360
+    company: IOP
+    fit_guns: "20053"
+    equip_introduction: 密林での任務に最適な装備。バイク運転のことも考慮して、軽量化も施されている。
+    powerup_mp: 0.55
+    powerup_ammo: 0.16
+    powerup_mre: 0.6
+    powerup_part: 0.16
+    exclusive_rate: 3
+    bonus_type: critical_harm_rate:1000
+    passive_skill: "759059,759294"
+    max_level: 10
+    auto_select_id: 20072
+    group_id: "19"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 開幕CT‐80%
+  }
+  {
+    id: 372
+    name: 18.4mmゴム弾
+    description:
+      '''
+      命中+<hit>
+      被ダメージ-3$97式散 MOD専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "10,15"
+    retire_mp: 1
+    retire_ammo: 4
+    retire_mre: 1
+    retire_part: 3
+    code: Magazine_SP_97typeSMod
+    develop_duration: 3420
+    company: IOP
+    fit_guns: "20161"
+    equip_introduction: 97式散がよく使う弾薬の一種。主に暴徒鎮圧に使われている。
+    powerup_mp: 0.08
+    powerup_ammo: 0.39
+    powerup_mre: 0.08
+    powerup_part: 0.48
+    exclusive_rate: 3
+    bonus_type: hit:1000
+    passive_skill: "300902,759299"
+    max_level: 10
+    auto_select_id: 19070
+    group_id: "20"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 被ダメージ-3
   }
   {
     id: 377

@@ -21861,109 +21861,109 @@
   {
     id: 7775
     name: prize-10007775
-    item_ids: 10710-30
+    item_ids: 10711-30
     content: prize-20007775
   }
   {
     id: 7776
     name: prize-10007776
-    item_ids: 10710-45
+    item_ids: 10711-45
     content: prize-20007776
   }
   {
     id: 7777
     name: prize-10007777
-    item_ids: 10710-60
+    item_ids: 10711-60
     content: prize-20007777
   }
   {
     id: 7778
     name: prize-10007778
-    item_ids: 10710-45
+    item_ids: 10711-45
     content: prize-20007778
   }
   {
     id: 7779
     name: prize-10007779
-    item_ids: 10710-68
+    item_ids: 10711-68
     content: prize-20007779
   }
   {
     id: 7780
     name: prize-10007780
-    item_ids: 10710-90
+    item_ids: 10711-90
     content: prize-20007780
   }
   {
     id: 7781
     name: prize-10007781
-    item_ids: 10710-90
+    item_ids: 10711-90
     content: prize-20007781
   }
   {
     id: 7782
     name: prize-10007782
-    item_ids: 10710-120
+    item_ids: 10711-120
     content: prize-20007782
   }
   {
     id: 7783
     name: prize-10007783
-    item_ids: 10710-75
+    item_ids: 10711-75
     content: prize-20007783
   }
   {
     id: 7784
     name: prize-10007784
-    item_ids: 10710-150
+    item_ids: 10711-150
     content: prize-20007784
   }
   {
     id: 7785
     name: prize-10007785
-    item_ids: 10710-60
+    item_ids: 10711-60
     content: prize-20007785
   }
   {
     id: 7786
     name: prize-10007786
-    item_ids: 10710-135
+    item_ids: 10711-135
     content: prize-20007786
   }
   {
     id: 7787
     name: prize-10007787
-    item_ids: 10710-180
+    item_ids: 10711-180
     content: prize-20007787
   }
   {
     id: 7788
     name: prize-10007788
-    item_ids: 10710-180
+    item_ids: 10711-180
     content: prize-20007788
   }
   {
     id: 7789
     name: prize-10007789
-    item_ids: 10710-270
+    item_ids: 10711-270
     content: prize-20007789
   }
   {
     id: 7790
     name: prize-10007790
-    item_ids: 10710-360
+    item_ids: 10711-360
     content: prize-20007790
   }
   {
     id: 7791
     name: prize-10007791
-    item_ids: 10710-112
+    item_ids: 10711-112
     content: prize-20007791
   }
   {
     id: 7792
     name: prize-10007792
-    item_ids: 10710-90
+    item_ids: 10711-90
     content: prize-20007792
   }
   {
@@ -41428,6 +41428,99 @@
     icon: Bumdle_yellow
   }
   {
+    id: 40601
+    name: 階段報酬I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40602
+    name: 階段報酬II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40603
+    name: 階段報酬III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40604
+    name: 階段報酬IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "93"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40605
+    name: 階段報酬V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40606
+    name: 階段報酬VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+  }
+  {
+    id: 40607
+    name: 階段報酬VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40608
+    name: 階段報酬VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 18-0
+  }
+  {
     id: 44001
     mp: 500
     ammo: 500
@@ -46246,6 +46339,18 @@
     content: prize-20121016
   }
   {
+    id: 121027
+    name: prize-10121027
+    furniture: "20057"
+    content: prize-20121027
+  }
+  {
+    id: 121028
+    name: prize-10121028
+    furniture: "20076"
+    content: prize-20121028
+  }
+  {
     id: 130001
     name: prize-10130001
     item_ids: 1500014-1
@@ -47802,7 +47907,7 @@
   {
     id: 150040
     name: prize-10150040
-    item_ids: 1700007-1
+    item_ids: 1700010-1
     content: prize-20150040
   }
   {
@@ -47862,7 +47967,7 @@
   {
     id: 150050
     name: prize-10150050
-    item_ids: 1700008-1
+    item_ids: 1700011-1
     content: prize-20150050
   }
   {
@@ -47922,7 +48027,7 @@
   {
     id: 150060
     name: prize-10150060
-    item_ids: 1700009-1
+    item_ids: 1700012-1
     content: prize-20150060
   }
   {
@@ -48068,6 +48173,24 @@
     name: prize-10150097
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294"
     content: prize-20150097
+  }
+  {
+    id: 150098
+    name: prize-10150098
+    equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150098
+  }
+  {
+    id: 150099
+    name: prize-10150099
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372"
+    content: prize-20150099
+  }
+  {
+    id: 150100
+    name: prize-10150100
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371"
+    content: prize-20150100
   }
   {
     id: 200001
