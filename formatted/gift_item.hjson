@@ -7102,6 +7102,21 @@
     normal_description: プレゼントすると好感度を獲得します
   }
   {
+    id: 6307
+    name: 迷子のティティナ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 284
+    skin: 6307
+    poster: 36307
+    code: gift_bundle_AprilFool2024_ZasM76
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
     id: 6401
     name: 純白、清漣に濯はれて
     type: 2
@@ -9885,6 +9900,21 @@
     code: gift_bundle_BattlePass_HS50
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    normal_description: プレゼントすると好感度を獲得します
+  }
+  {
+    id: 30019
+    name: 幕開けの踏歌
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 128
+    skin: 30019
+    poster: 330019
+    code: gift_bundle_BattlePass_M99
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
     normal_description: プレゼントすると好感度を獲得します
   }
   {

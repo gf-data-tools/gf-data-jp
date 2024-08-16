@@ -13526,6 +13526,33 @@
     rank: 1
   }
   {
+    id: 2384
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_1
+    item_name: 謀略と決断 · コードXI：闇隙
+    introduction: 謀略と決断 · コードXI：闇隙
+    rank: 1
+  }
+  {
+    id: 2385
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_2
+    item_name: 戦術と奇策 · コードXI：闇隙
+    introduction: 戦術と奇策 · コードXI：闇隙
+    rank: 1
+  }
+  {
+    id: 2386
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_3
+    item_name: 縦横無尽 · コードXI：闇隙
+    introduction: 縦横無尽 · コードXI：闇隙
+    rank: 1
+  }
+  {
     id: 2387
     type: 5
     arg: "1"
@@ -13920,6 +13947,15 @@
     rank: 1
   }
   {
+    id: 2465
+    type: 5
+    arg: "1"
+    code: profilePic_AprilFool2024_ZasM76
+    item_name: 迷子のティティナ
+    introduction: 迷子のティティナ
+    rank: 1
+  }
+  {
     id: 2467
     type: 5
     arg: "1"
@@ -13935,6 +13971,24 @@
     code: profilePic_BattlePass_HS50
     item_name: プロゲーマー育成記
     introduction: プロゲーマー育成記
+    rank: 1
+  }
+  {
+    id: 2486
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M99
+    item_name: IDカード背景：いたずら好きと小さなプリン
+    introduction: IDカード背景：いたずら好きと小さなプリン
+    rank: 1
+  }
+  {
+    id: 2487
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M99
+    item_name: 幕開けの踏歌
+    introduction: 幕開けの踏歌
     rank: 1
   }
   {
@@ -17483,6 +17537,15 @@
     rank: 1
   }
   {
+    id: 121003
+    type: 1
+    arg: "1"
+    code: FlightChessMap6_small
+    item_name: 秘宝眠る海湾
+    introduction: 挟み撃ちボードの背景-秘宝眠る海湾
+    rank: 1
+  }
+  {
     id: 130001
     type: 12
     arg: "130001"
@@ -19129,6 +19192,26 @@
     detail_introduction: item-30140036
   }
   {
+    id: 140037
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140037
+    introduction: item-20140037
+    rank: 1
+    detail_introduction: item-30140037
+  }
+  {
+    id: 140038
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140038
+    introduction: item-20140038
+    rank: 1
+    detail_introduction: item-30140038
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19491,6 +19574,15 @@
     code: profileFrame_BattlePass_HS50
     item_name: アイコンフレーム：愛・機械と電波
     introduction: アイコンフレーム：愛・機械と電波
+    rank: 1
+  }
+  {
+    id: 200044
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M99
+    item_name: アイコンフレーム：七色の楽
+    introduction: アイコンフレーム：七色の楽
     rank: 1
   }
   {
@@ -20992,6 +21084,46 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 前線協定-クラウド・スローンで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500131
+    type: 15
+    arg: "1500131"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-妙趣リハーサルで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500132
+    type: 15
+    arg: "1500132"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 前線協定-妙趣リハーサルで獲得。使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500133
+    type: 15
+    arg: "1500133"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-妙趣リハーサルで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500134
+    type: 15
+    arg: "1500134"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-妙趣リハーサルで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
   }

@@ -11521,6 +11521,12 @@
     commander_uniform: "5640,5643"
   }
   {
+    id: 1979
+    name: prize-10001979
+    item_ids: 121003-1
+    content: prize-20001979
+  }
+  {
     id: 2001
     name: 古城探検
     gift: 6-1
@@ -22731,6 +22737,30 @@
     content: prize-20008563
   }
   {
+    id: 8564
+    name: prize-10008564
+    item_ids: 140037-1
+    content: prize-20008564
+  }
+  {
+    id: 8565
+    name: prize-10008565
+    item_ids: 140038-1,10606-300,200044-1,2486-1
+    content: prize-20008565
+  }
+  {
+    id: 8566
+    name: prize-10008566
+    item_ids: 140038-1,10606-300,200044-1,2486-1
+    content: prize-20008566
+  }
+  {
+    id: 8567
+    name: prize-10008567
+    gift: 30007-1
+    content: prize-20008567
+  }
+  {
     id: 9101
     name: 2018年のクリスマスの思い出写真
     item_ids: 1212-1
@@ -23859,6 +23889,62 @@
     user_exp: 2000
     item_ids: 106-60,2359-1,200006-1
     content: おめでとうございます！「コードX：コロナループ」今シーズンにおいて、元帥の栄誉を獲得しました！報酬：ラフベリー勲章×60、指揮官経験値×2000、アイコン「誓いを一つに」
+    icon: Medal_Chess
+  }
+  {
+    id: 10785
+    name: 少佐の栄誉
+    user_exp: 30
+    item_ids: 106-5,2384-1,200008-1
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、少佐の栄誉を獲得しました！報酬：ラフベリー勲章×5、指揮官経験値×30、アイコン「謀略と決断」
+    icon: Medal_Chess
+  }
+  {
+    id: 10786
+    name: 中佐の栄誉
+    user_exp: 60
+    item_ids: 106-10
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、中佐の栄誉を獲得しました！報酬：ラフベリー勲章×10、指揮官経験値×60
+    icon: Medal_Chess
+  }
+  {
+    id: 10787
+    name: 大佐の栄誉
+    user_exp: 100
+    item_ids: 106-20
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、大佐の栄誉を獲得しました！報酬：ラフベリー勲章×20、指揮官経験値×100
+    icon: Medal_Chess
+  }
+  {
+    id: 10788
+    name: 少将の栄誉
+    user_exp: 200
+    item_ids: 106-30,2385-1,200007-1
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、少将の栄誉を獲得しました！報酬：ラフベリー勲章×30、指揮官経験値×200、アイコン「戦術と奇策」
+    icon: Medal_Chess
+  }
+  {
+    id: 10789
+    name: 中将の栄誉
+    user_exp: 500
+    item_ids: 106-40
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、中将の栄誉を獲得しました！報酬：ラフベリー勲章×40、指揮官経験値×500
+    icon: Medal_Chess
+  }
+  {
+    id: 10790
+    name: 大将の栄誉
+    user_exp: 1000
+    item_ids: 106-50
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、大将の栄誉を獲得しました！報酬：ラフベリー勲章×50、指揮官経験値×1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10791
+    name: 元帥の栄誉
+    user_exp: 2000
+    item_ids: 106-60,2386-1,200006-1
+    content: おめでとうございます！「コードXI：闇隙」今シーズンにおいて、元帥の栄誉を獲得しました！報酬：ラフベリー勲章×60、指揮官経験値×2000、アイコン「縦横無尽」
     icon: Medal_Chess
   }
   {
@@ -35480,7 +35566,7 @@
   {
     id: 30203
     name: 8ライン報酬
-    gift: 8908-1
+    gift: 6307-1
     icon: Bumdle_bline
   }
   {
@@ -46249,6 +46335,32 @@
     content: prize-20120113
   }
   {
+    id: 120114
+    name: prize-10120114
+    item_ids: 41-30,1500131-1
+    content: prize-20120114
+  }
+  {
+    id: 120115
+    name: prize-10120115
+    item_ids: 41-30
+    gift: 30019-1
+    content: prize-20120115
+  }
+  {
+    id: 120116
+    name: prize-10120116
+    item_ids: 41-30,1500132-1
+    content: prize-20120116
+  }
+  {
+    id: 120117
+    name: prize-10120117
+    gem: 680
+    item_ids: 1500133-1
+    content: prize-20120117
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -46673,6 +46785,24 @@
     name: prize-10130054
     item_ids: 10606-300,200043-1,2467-1
     content: prize-20130054
+  }
+  {
+    id: 130055
+    name: prize-10130055
+    item_ids: 1500134-1
+    content: prize-20130055
+  }
+  {
+    id: 130056
+    name: prize-10130056
+    item_ids: 602-1,1500131-1,1500132-1,505-680
+    content: prize-20130056
+  }
+  {
+    id: 130057
+    name: prize-10130057
+    item_ids: 10606-300,200044-1,2486-1
+    content: prize-20130057
   }
   {
     id: 140001
@@ -47669,6 +47799,54 @@
     name: prize-10140164
     gun_id: "293"
     content: prize-20140164
+  }
+  {
+    id: 140165
+    name: prize-10140165
+    gun_id: "378"
+    content: prize-20140165
+  }
+  {
+    id: 140166
+    name: prize-10140166
+    gun_id: "377"
+    content: prize-20140166
+  }
+  {
+    id: 140167
+    name: prize-10140167
+    gun_id: "130"
+    content: prize-20140167
+  }
+  {
+    id: 140168
+    name: prize-10140168
+    gun_id: "128"
+    content: prize-20140168
+  }
+  {
+    id: 140169
+    name: prize-10140169
+    gun_id: "125"
+    content: prize-20140169
+  }
+  {
+    id: 140170
+    name: prize-10140170
+    gun_id: "196"
+    content: prize-20140170
+  }
+  {
+    id: 140171
+    name: prize-10140171
+    gun_id: "337"
+    content: prize-20140171
+  }
+  {
+    id: 140172
+    name: prize-10140172
+    gun_id: "303"
+    content: prize-20140172
   }
   {
     id: 150001

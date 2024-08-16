@@ -36724,6 +36724,21 @@
     rotate: "3"
   }
   {
+    id: 36307
+    name: 迷子のティティナ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Zas M76のポスター。
+    code: poster_AprilFool2024_ZasM76
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 36401
     name: 純白、清漣に濯はれて
     classes: 300
@@ -43680,6 +43695,21 @@
     decompose_gift: 100003
     description: HS.50のポスター。
     code: poster_BattlePass_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330019
+    name: 幕開けの踏歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M99のポスター。
+    code: poster_BattlePass_M99
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
