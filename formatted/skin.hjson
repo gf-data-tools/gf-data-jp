@@ -5631,6 +5631,7 @@
     voice: 4
     is_hidden: 2
     dialog: オリジナルスキン
+    note: オリジナルスキン
     illustrator_cv: AS109,吉田幸代,
   }
   {
@@ -5639,6 +5640,8 @@
     fit_gun: 20233
     voice: 4
     is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
   }
   {
     id: 5072
@@ -5646,6 +5649,8 @@
     fit_gun: 20256
     voice: 4
     is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
   }
   {
     id: 5073
@@ -5653,6 +5658,17 @@
     fit_gun: 20262
     voice: 4
     is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+  }
+  {
+    id: 5074
+    name: 79式-オリジナルスキン
+    fit_gun: 20127
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
   }
   {
     id: 5101
@@ -8592,6 +8608,92 @@
     order: 100
     class_id: 96
     skin_source: 3
+  }
+  {
+    id: 10201
+    name: 月の下、天使の涙
+    fit_gun: 376
+    voice: 16
+    dialog: なぜ、絵の中の天使はいつも微笑んでいるの？毎日人々の苦悩を聞いて、悲しくなったりしないの？
+    gift_position: "-353.6,75.6"
+    order: 117
+    class_id: 98
+    skin_source: 1
+  }
+  {
+    id: 10301
+    name: ドキドキしないゲーム
+    fit_gun: 387
+    voice: 4
+    dialog: ゲームしようよ、指揮官。先に心拍数が上がった方が負け！フフッ、人形に心臓はないから、このゲームは私に負けはないけどね！
+    order: 117
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10302
+    name: マギーとの夜話の時間
+    fit_gun: 375
+    voice: 4
+    dialog: 投資の相談か？最近はちょうどいい商品が……ああ、すまない、キャラを間違ってた……コホン、指揮官、今日もカウンセリングか？悩みを聞こう。
+    order: 117
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10303
+    name: 自白剤濫用者
+    fit_gun: 161
+    voice: 4
+    dialog: 指揮官、なにジロジロ見てるんですか？話があるんなら率直に言ってください！じゃないと、自白剤を使いますよ！
+    illustrator_cv: 豆芽,大坪由佳,
+    order: 117
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10304
+    name: 恋愛脳製造家
+    fit_gun: 121
+    voice: 4
+    dialog: CT検査の結果だと、どうやら私への愛がまだまだ足りないみたいね。でも大丈夫、ここら辺の脳組織を摘除すれば、すぐに恋愛脳になるわ～
+    gift_position: "-241,87.5"
+    illustrator_cv: YoYo,立花理香,
+    order: 117
+    class_id: 100
+    skin_source: 1
+  }
+  {
+    id: 10305
+    name: ミント色の吐息
+    fit_gun: 335
+    voice: 4
+    dialog: 新しいリラックス方法を教えましょうか？まずは大きく息を吸って――吐いて――吸って――吐いて……どう？リラックスできました？悩みが全部、どこかへ飛んでいったような感じがしませんか？
+    order: 117
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10306
+    name: ランプと安眠曲
+    fit_gun: 23
+    voice: 4
+    dialog: なんの話？ソロリティとか、メイドとか……何か変な夢でも見たの？ほら、ちょっとこっちに来なさい、寝かせてあげるわ。
+    illustrator_cv: 多尔,青木志貴,
+    order: 117
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10307
+    name: カラスを駆る黒魔女
+    fit_gun: 210
+    voice: 4
+    dialog: 起してしまい申し訳ございません。昼時、カラスに汚されてしまった車に、指揮官がため息ついていたところを見て……何か、お役に立てたらと思いまして……
+    gift_position: "-106,104.7"
+    illustrator_cv: 小星,河上明日香,
+    order: 117
+    class_id: 100
   }
   {
     id: 30001

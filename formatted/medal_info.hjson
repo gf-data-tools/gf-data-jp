@@ -358,4 +358,17 @@
     decorate_code: Logo_Events
     if_elite_medal: "1"
   }
+  {
+    id: "33"
+    name: 時を取り戻す者勲章
+    order: "67"
+    evo_step: "1"
+    appearance_id: "197"
+    item_id: "132"
+    medal_obtain: 限定イベント「虚記憶の箱庭」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

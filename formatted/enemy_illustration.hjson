@@ -4426,6 +4426,189 @@
     spine_scale: "70,70,1"
   }
   {
+    id: 223
+    name: スレイヤー・異性体
+    type: 3
+    code: Nyto_Isomer_F
+    introduce: 忘れられた存在。ただその刃で、敵を切り裂くのみ。
+    forces: 3
+    pow_rank: 2
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "303"
+    enemy_skill: "228"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 224
+    name: カオス・異性体
+    type: 3
+    code: Nyto_Isomer_N
+    introduce: 忘れられた存在。ただ自分の前に立ちはだかるすべてを滅ぼすのみ。
+    forces: 3
+    pow_rank: 2
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "319"
+    enemy_skill: "229"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 225
+    name: ポーラースター・異性体
+    type: 3
+    code: Nyto_Isomer_S
+    introduce: 忘れられた存在。ただ目標をセンターに入れて、撃つ。
+    forces: 3
+    pow_rank: 2
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "307"
+    enemy_skill: "230"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    id: 226
+    name: Dr.48
+    type: 3
+    code: Mk48_10304_enemy
+    introduce: フォックス・ソロリティ医療部門所属の人形。主に恋愛脳の治療を担当している。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 227
+    name: Dr.フェドロフ
+    type: 3
+    code: Fedorov_10305_enemy
+    introduce: フォックス・ソロリティ医療部門所属の人形。主に鎮静剤の投与を担当している。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 228
+    name: Dr.90
+    type: 3
+    code: PP90_10306_enemy
+    introduce: フォックス・ソロリティ医療部門所属の人形。主に医師と患者のトラブル仲裁を担当している。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 229
+    name: Dr.TPS
+    type: 3
+    code: TPS_10301_enemy
+    introduce: フォックス・ソロリティ医療部門所属の人形。主に患者とゲームすることを担当している。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 230
+    name: ダミー・520
+    type: 3
+    code: Stevens520_enemy
+    introduce: とある時期のStevens520のデータをもとに製作されたダミー。使用者の評価によると、本体ほど優雅ではないらしい。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 231
+    name: ダミー・620
+    type: 3
+    code: Stevens620_enemy
+    introduce: とある時期のStevens620のデータをもとに製作されたダミー。使用者の評価によると、本体と同じぐらい嫌なやつらしい。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 232
+    name: ダミー・エルマ
+    type: 3
+    code: Erma_enemy
+    introduce: とある時期のエルマのデータをもとに製作されたダミー。使用者の評価によると、本体よりも強いらしい。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
     id: 100001
     name: ゲベンヌ
     type: 1
