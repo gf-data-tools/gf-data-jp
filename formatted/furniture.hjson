@@ -29401,6 +29401,36 @@
     rotate: "3"
   }
   {
+    id: 20135
+    name: 林間の風物詩
+    classes: 19
+    type: 201
+    space: "8,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: キャンプ愛好者なら必ず持っておきたいアウトドアセット。忙しい日々から一旦離れ、自然の豊かさをのんびり楽しもう――暖かいコーヒーが飲みたい？それは自分の手で何とかしないといけないな。まずはこのナタで薪を割って……
+    code: qjyd_20240530_camping_deco1,qjyd_20240530_camping_deco2,qjyd_20240530_camping_deco3,qjyd_20240530_camping_deco4
+    texture_type: "1,1,1,1"
+    sorting: "0,10,20,30"
+    offset: "0.156,-0.886,0.000|0.156,-0.886,0.000|0.156,-0.886,0.000|0.156,-0.886,0.000"
+    rotate: "2,2,2,2"
+  }
+  {
+    id: 20136
+    name: 山の趣
+    classes: 19
+    type: 201
+    space: "6,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: キャンプ愛好者なら必ず持っておきたい大型焚火台。これさえあれば、野外でも存分に料理の腕を振舞うことができる――野生動物が料理の匂いに引き寄せられてしまうこともあるが、それは要するに新鮮な食材が手に入れるというわけだ。
+    code: qjyd_20240530_bbq_deco1,qjyd_202405_bbq
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.177,-0.094,0.000|-0.542,0.344,0.000"
+    rotate: "2,2"
+  }
+  {
     id: 20143
     name: そうめんの永久機関
     classes: 81

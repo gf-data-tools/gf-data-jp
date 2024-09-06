@@ -27940,6 +27940,42 @@
       '''
   }
   {
+    id: 12354
+    name: HBアサルトパック
+    equip_ids: "400"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      会心率+25%
+      弾薬数+6
+      M2HB専用
+      '''
+  }
+  {
+    id: 12355
+    name: Modelチップ
+    equip_ids: "401"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      火力+18 射速+25
+      会心ダメージ-50%
+      Model L専用
+      '''
+  }
+  {
+    id: 12356
+    name: USP信号拳銃
+    equip_ids: "402"
+    content:
+      '''
+      <color=#ffb400>最大ステータス</color>
+      命中+20
+      部隊命中+10%
+      USP-C専用
+      '''
+  }
+  {
     id: 12401
     name: キャンディポケット
     item_ids: 7001-1
@@ -28255,6 +28291,24 @@
     name: prize-10012453
     item_ids: 7053-1
     content: prize-20012453
+  }
+  {
+    id: 12454
+    name: 象牙の塔
+    item_ids: 7054-1
+    content: 君の三角と僕の半円を積み上げれば、ほら、立派なお城が出来上がったじゃないか！ここには戦いも悲しみもなく、ただ未来への希望が満ち溢れている。
+  }
+  {
+    id: 12455
+    name: 虹の飴
+    item_ids: 7055-1
+    content: この飴一個で、世界は色鮮やかに変わる。この瞬間で生まれた夢は、きっといつか叶う。
+  }
+  {
+    id: 12456
+    name: 小さき世界
+    item_ids: 7056-1
+    content: 透き通ったシャボン玉の中には、無数の小さな世界が映っている。そこには、無数の物語も起きているのだろうか？
   }
   {
     id: 12501
@@ -46870,6 +46924,18 @@
     name: prize-10121016
     furniture: "7245"
     content: prize-20121016
+  }
+  {
+    id: 121017
+    name: prize-10121017
+    furniture: "20135"
+    content: prize-20121017
+  }
+  {
+    id: 121018
+    name: prize-10121018
+    furniture: "20136"
+    content: prize-20121018
   }
   {
     id: 121027

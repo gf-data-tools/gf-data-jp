@@ -12053,4 +12053,104 @@
     obtain_ids: "3016"
     description_skill: 1000910
   }
+  {
+    id: 400
+    name: HBアサルトパック
+    description:
+      '''
+      会心率+<critical_percent><%>
+      装弾数+<bullet_number_up>$M2HB専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    critical_percent: "12,15"
+    bullet_number_up: "3,4"
+    retire_mp: 1
+    retire_ammo: 1
+    retire_mre: 1
+    retire_part: 5
+    code: TDoll_SP_M2HB
+    develop_duration: 3420
+    company: IOP
+    fit_guns: "77"
+    equip_introduction: M2HBが一番好んで使っているアサルトパック。これであらゆる敵を蹴散らす。
+    powerup_mp: 0.1
+    powerup_ammo: 0.1
+    powerup_mre: 0.1
+    powerup_part: 0.55
+    exclusive_rate: 3
+    bonus_type: bullet_number_up:500,critical_percent:700
+    max_level: 10
+    auto_select_id: 20081
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 401
+    name: Modelチップ
+    description:
+      '''
+      火力+<pow> 射速+<rate>
+      会心ダメージ<critical_harm_rate><%>$Model L専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_Modell
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "223"
+    equip_introduction: Model L用にカスタマイズされたチップ。仕事や遊んでいる時の演算力サポートを行ってくれる。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,rate:600
+    max_level: 10
+    auto_select_id: 20082
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 402
+    name: USP信号拳銃
+    description:
+      '''
+      命中+<hit>
+      部隊命中+10%$USP-C専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_USPC
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "141"
+    equip_introduction: USP-Cに配備された信号拳銃。危険時はこれでみんなに救難信号を送ろう。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:1000
+    passive_skill: "300903"
+    max_level: 10
+    auto_select_id: 19079
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: 部隊命中+10%
+  }
 ]
