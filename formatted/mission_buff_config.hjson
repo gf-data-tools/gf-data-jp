@@ -8802,6 +8802,30 @@
     priority: 1
   }
   {
+    id: 9711501
+    name: mission_buff_config-19711501
+    description: mission_buff_config-29711501
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 9711501
+  }
+  {
+    id: 9713101
+    name: mission_buff_config-19713101
+    description: mission_buff_config-29713101
+    code: Racing_Fly
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    free_ap_move: 99
+    conflict_type: 9713101
+  }
+  {
     id: 10000021
     name: mission_buff_config-20000021
     description: mission_buff_config-30000021

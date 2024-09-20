@@ -5,7 +5,7 @@
     type: 1
     sub_rank: 1
     sub_rank_name: rank-30000001
-    refresh: month:1:0
+    "": month:1:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -18,7 +18,7 @@
     sub_type: "1"
     sub_rank: 2
     sub_rank_name: rank-30000002
-    refresh: week:7:0
+    "": week:7:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -31,7 +31,7 @@
     sub_type: "2"
     sub_rank: 3
     sub_rank_name: rank-30000003
-    refresh: week:7:0
+    "": week:7:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -44,7 +44,7 @@
     sub_type: "3"
     sub_rank: 1
     sub_rank_name: rank-30000004
-    refresh: week:7:0
+    "": week:7:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -55,7 +55,7 @@
     name: rank-20000005
     type: 3
     sub_rank_name: rank-30000005
-    refresh: week:7:0
+    "": week:7:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -66,7 +66,7 @@
     name: rank-20000006
     type: 4
     sub_rank_name: rank-30000006
-    refresh: month:1:0
+    "": month:1:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -77,7 +77,7 @@
     name: rank-20000007
     type: 5
     sub_rank_name: rank-30000007
-    refresh: month:1:0
+    "": month:1:0
     title: 毎日4時更新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -89,7 +89,7 @@
     type: 6
     sub_type: "11320"
     sub_rank_name: rank-30000008
-    refresh: end:2024-04-19 23:59:59
+    "": end:2024-04-19 23:59:59
     title: ＜終焉の花海+＞ポイントランキング(2024年4月12日報酬発給)
     top_rewards: 1:40514,2:40515,3:40516,4:40517,5:40518,6:40519,7:40520,8:40521,9:40522,10:40523,100:40524
     visable_rank: 100
@@ -106,7 +106,7 @@
     name: rank-20000101
     type: 101
     sub_rank_name: rank-30000101
-    refresh: test
+    "": test
     top_rewards: 1:411101,2:411102,3:411103,4:411104,5:411105,6:411106,7:411107,8:411108,9:411109,10:411110,100:411111
     percentage_rewards: 5:411112,10:411113,15:411114,20:411115,30:411116,40:411117,50:411118,100:411119
     visable_rank: 100
@@ -118,7 +118,7 @@
     name: rank-20000102
     type: 102
     sub_rank_name: rank-30000102
-    refresh: test
+    "": test
     visable_rank: 100
     ranking_onlist_number: 120
     visable_count: 300
@@ -128,7 +128,7 @@
     name: rank-20000112
     type: 112
     sub_rank_name: rank-30000112
-    refresh: test
+    "": test
     top_rewards: 1:411201,2:411202,3:411203,4:411204,5:411205,6:411206,7:411207,8:411208,9:411209,10:411210,100:411211
     percentage_rewards: 5:411212,10:411213,15:411214,20:411215,30:411216,40:411217,50:411218,100:411219
     visable_rank: 100
@@ -141,7 +141,7 @@
     type: 113
     sub_type: "1708"
     sub_rank_name: rank-30000132
-    refresh: test
+    "": test
     title: rank-10000132
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -153,7 +153,7 @@
     type: 113
     sub_type: "1709"
     sub_rank_name: rank-30000133
-    refresh: test
+    "": test
     title: rank-10000133
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -165,7 +165,7 @@
     type: 113
     sub_type: "1710"
     sub_rank_name: rank-30000134
-    refresh: test
+    "": test
     title: rank-10000134
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -177,7 +177,7 @@
     type: 114
     sub_type: "1708"
     sub_rank_name: rank-30000135
-    refresh: test
+    "": test
     title: rank-10000135
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -189,7 +189,7 @@
     type: 114
     sub_type: "1709"
     sub_rank_name: rank-30000136
-    refresh: test
+    "": test
     title: rank-10000136
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -201,7 +201,7 @@
     type: 114
     sub_type: "1710"
     sub_rank_name: rank-30000137
-    refresh: test
+    "": test
     title: rank-10000137
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -213,7 +213,7 @@
     type: 113
     sub_type: "1711"
     sub_rank_name: rank-30000138
-    refresh: test
+    "": test
     title: rank-10000138
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -225,7 +225,7 @@
     type: 113
     sub_type: "1712"
     sub_rank_name: rank-30000139
-    refresh: test
+    "": test
     title: rank-10000139
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -237,7 +237,7 @@
     type: 113
     sub_type: "1713"
     sub_rank_name: rank-30000140
-    refresh: test
+    "": test
     title: rank-10000140
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -249,7 +249,7 @@
     type: 114
     sub_type: "1711"
     sub_rank_name: rank-30000141
-    refresh: test
+    "": test
     title: rank-10000141
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -261,7 +261,7 @@
     type: 114
     sub_type: "1712"
     sub_rank_name: rank-30000142
-    refresh: test
+    "": test
     title: rank-10000142
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -273,7 +273,7 @@
     type: 114
     sub_type: "1713"
     sub_rank_name: rank-30000143
-    refresh: test
+    "": test
     title: rank-10000143
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -285,7 +285,7 @@
     type: 113
     sub_type: "1720"
     sub_rank_name: rank-30000154
-    refresh: test
+    "": test
     title: rank-10000154
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -297,7 +297,7 @@
     type: 113
     sub_type: "1721"
     sub_rank_name: rank-30000155
-    refresh: test
+    "": test
     title: rank-10000155
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -309,7 +309,7 @@
     type: 113
     sub_type: "1722"
     sub_rank_name: rank-30000156
-    refresh: test
+    "": test
     title: rank-10000156
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -321,7 +321,7 @@
     type: 114
     sub_type: "1720"
     sub_rank_name: rank-30000157
-    refresh: test
+    "": test
     title: rank-10000157
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -333,7 +333,7 @@
     type: 114
     sub_type: "1721"
     sub_rank_name: rank-30000158
-    refresh: test
+    "": test
     title: rank-10000158
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -345,7 +345,7 @@
     type: 114
     sub_type: "1722"
     sub_rank_name: rank-30000159
-    refresh: test
+    "": test
     title: rank-10000159
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -356,7 +356,7 @@
     name: rank-20000162
     type: 8
     sub_rank_name: rank-30000162
-    refresh: test
+    "": test
     title: rank-10000162
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -368,7 +368,7 @@
     type: 113
     sub_type: "1724"
     sub_rank_name: rank-30000163
-    refresh: test
+    "": test
     title: rank-10000163
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -380,7 +380,7 @@
     type: 113
     sub_type: "1725"
     sub_rank_name: rank-30000164
-    refresh: test
+    "": test
     title: rank-10000164
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -392,7 +392,7 @@
     type: 113
     sub_type: "1726"
     sub_rank_name: rank-30000165
-    refresh: test
+    "": test
     title: rank-10000165
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -404,7 +404,7 @@
     type: 114
     sub_type: "1724"
     sub_rank_name: rank-30000166
-    refresh: test
+    "": test
     title: rank-10000166
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -416,7 +416,7 @@
     type: 114
     sub_type: "1725"
     sub_rank_name: rank-30000167
-    refresh: test
+    "": test
     title: rank-10000167
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -428,7 +428,7 @@
     type: 114
     sub_type: "1726"
     sub_rank_name: rank-30000168
-    refresh: test
+    "": test
     title: rank-10000168
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -440,7 +440,7 @@
     type: 113
     sub_type: "1727"
     sub_rank_name: rank-30000169
-    refresh: test
+    "": test
     title: rank-10000169
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -452,7 +452,7 @@
     type: 113
     sub_type: "1728"
     sub_rank_name: rank-30000170
-    refresh: test
+    "": test
     title: rank-10000170
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -464,7 +464,7 @@
     type: 113
     sub_type: "1729"
     sub_rank_name: rank-30000171
-    refresh: test
+    "": test
     title: rank-10000171
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -476,7 +476,7 @@
     type: 114
     sub_type: "1727"
     sub_rank_name: rank-30000172
-    refresh: test
+    "": test
     title: rank-10000172
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -488,7 +488,7 @@
     type: 114
     sub_type: "1728"
     sub_rank_name: rank-30000173
-    refresh: test
+    "": test
     title: rank-10000173
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -500,7 +500,7 @@
     type: 114
     sub_type: "1729"
     sub_rank_name: rank-30000174
-    refresh: test
+    "": test
     title: rank-10000174
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -512,7 +512,7 @@
     type: 113
     sub_type: "1730"
     sub_rank_name: rank-30000175
-    refresh: test
+    "": test
     title: rank-10000175
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -524,7 +524,7 @@
     type: 114
     sub_type: "1730"
     sub_rank_name: rank-30000176
-    refresh: test
+    "": test
     title: rank-10000176
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -536,7 +536,7 @@
     type: 113
     sub_type: "1731"
     sub_rank_name: rank-30000178
-    refresh: test
+    "": test
     title: rank-10000178
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -548,7 +548,7 @@
     type: 113
     sub_type: "1732"
     sub_rank_name: rank-30000179
-    refresh: test
+    "": test
     title: rank-10000179
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -560,7 +560,7 @@
     type: 113
     sub_type: "1733"
     sub_rank_name: rank-30000180
-    refresh: test
+    "": test
     title: rank-10000180
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -572,7 +572,7 @@
     type: 114
     sub_type: "1731"
     sub_rank_name: rank-30000181
-    refresh: test
+    "": test
     title: rank-10000181
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -584,7 +584,7 @@
     type: 114
     sub_type: "1732"
     sub_rank_name: rank-30000182
-    refresh: test
+    "": test
     title: rank-10000182
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -596,7 +596,7 @@
     type: 114
     sub_type: "1733"
     sub_rank_name: rank-30000183
-    refresh: test
+    "": test
     title: rank-10000183
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -608,7 +608,7 @@
     type: 113
     sub_type: "1734"
     sub_rank_name: rank-30000184
-    refresh: test
+    "": test
     title: rank-10000184
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -620,7 +620,7 @@
     type: 113
     sub_type: "1735"
     sub_rank_name: rank-30000185
-    refresh: test
+    "": test
     title: rank-10000185
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -632,7 +632,7 @@
     type: 113
     sub_type: "1736"
     sub_rank_name: rank-30000186
-    refresh: test
+    "": test
     title: rank-10000186
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -644,7 +644,7 @@
     type: 114
     sub_type: "1734"
     sub_rank_name: rank-30000187
-    refresh: test
+    "": test
     title: rank-10000187
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -656,7 +656,7 @@
     type: 114
     sub_type: "1735"
     sub_rank_name: rank-30000188
-    refresh: test
+    "": test
     title: rank-10000188
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -668,7 +668,7 @@
     type: 114
     sub_type: "1736"
     sub_rank_name: rank-30000189
-    refresh: test
+    "": test
     title: rank-10000189
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -680,7 +680,7 @@
     type: 113
     sub_type: "1737"
     sub_rank_name: rank-30000190
-    refresh: test
+    "": test
     title: rank-10000190
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -692,7 +692,7 @@
     type: 113
     sub_type: "1738"
     sub_rank_name: rank-30000191
-    refresh: test
+    "": test
     title: rank-10000191
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -704,7 +704,7 @@
     type: 114
     sub_type: "1737"
     sub_rank_name: rank-30000192
-    refresh: test
+    "": test
     title: rank-10000192
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -716,7 +716,7 @@
     type: 114
     sub_type: "1738"
     sub_rank_name: rank-30000193
-    refresh: test
+    "": test
     title: rank-10000193
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -728,7 +728,7 @@
     type: 113
     sub_type: "1739"
     sub_rank_name: rank-30000194
-    refresh: test
+    "": test
     title: rank-10000194
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -740,7 +740,7 @@
     type: 113
     sub_type: "1740"
     sub_rank_name: rank-30000195
-    refresh: test
+    "": test
     title: rank-10000195
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -752,7 +752,7 @@
     type: 113
     sub_type: "1741"
     sub_rank_name: rank-30000196
-    refresh: test
+    "": test
     title: rank-10000196
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -764,7 +764,7 @@
     type: 113
     sub_type: "1742"
     sub_rank_name: rank-30000197
-    refresh: test
+    "": test
     title: rank-10000197
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -776,7 +776,7 @@
     type: 114
     sub_type: "1739"
     sub_rank_name: rank-30000198
-    refresh: test
+    "": test
     title: rank-10000198
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -788,7 +788,7 @@
     type: 114
     sub_type: "1740"
     sub_rank_name: rank-30000199
-    refresh: test
+    "": test
     title: rank-10000199
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -800,7 +800,7 @@
     type: 114
     sub_type: "1741"
     sub_rank_name: rank-30000200
-    refresh: test
+    "": test
     title: rank-10000200
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -812,7 +812,7 @@
     type: 114
     sub_type: "1742"
     sub_rank_name: rank-30000201
-    refresh: test
+    "": test
     title: rank-10000201
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -824,7 +824,7 @@
     type: 113
     sub_type: "1743"
     sub_rank_name: rank-30000202
-    refresh: test
+    "": test
     title: rank-10000202
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -836,7 +836,7 @@
     type: 113
     sub_type: "1744"
     sub_rank_name: rank-30000203
-    refresh: test
+    "": test
     title: rank-10000203
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -848,7 +848,7 @@
     type: 113
     sub_type: "1745"
     sub_rank_name: rank-30000204
-    refresh: test
+    "": test
     title: rank-10000204
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -860,7 +860,7 @@
     type: 114
     sub_type: "1743"
     sub_rank_name: rank-30000205
-    refresh: test
+    "": test
     title: rank-10000205
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -872,7 +872,7 @@
     type: 114
     sub_type: "1744"
     sub_rank_name: rank-30000206
-    refresh: test
+    "": test
     title: rank-10000206
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -884,7 +884,7 @@
     type: 114
     sub_type: "1745"
     sub_rank_name: rank-30000207
-    refresh: test
+    "": test
     title: rank-10000207
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -897,7 +897,7 @@
     sub_type: "10105"
     sub_rank: 1
     sub_rank_name: ポイント
-    refresh: test
+    "": test
     title: <ウサギの巣+>常設ランキング
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -910,7 +910,7 @@
     sub_type: "10158"
     sub_rank: 1
     sub_rank_name: ポイント
-    refresh: test
+    "": test
     title: <虚数迷宫+>常設ランキング
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -921,7 +921,7 @@
     name: 佐賀応援ランキング
     type: 1001
     sub_rank_name: rank-30001001
-    refresh: test
+    "": test
     title: 毎日4時に更新されます
     visable_rank: 10
     ranking_onlist_number: 160000
@@ -935,7 +935,7 @@
     type: 2000
     sub_type: "1"
     sub_rank_name: rank-30002001
-    refresh: test
+    "": test
     title: rank-10002001
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -947,7 +947,7 @@
     type: 2000
     sub_type: "2"
     sub_rank_name: rank-30002002
-    refresh: test
+    "": test
     title: rank-10002002
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -959,7 +959,7 @@
     type: 2000
     sub_type: "3"
     sub_rank_name: rank-30002003
-    refresh: test
+    "": test
     title: rank-10002003
     visable_rank: 100
     ranking_onlist_number: 160000

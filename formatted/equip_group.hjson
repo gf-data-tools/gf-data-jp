@@ -181,4 +181,22 @@
     group_skill: 2:759300
     fit_gun: "20161"
   }
+  {
+    id: 21
+    name: みんなのために
+    des: G3のみんなを助けたいという思いが込められた一式の装備。
+    code: EgroupG3
+    equip_unit: "124,0,374"
+    group_skill: 2:759308
+    fit_gun: "20063"
+  }
+  {
+    id: 22
+    name: Darling
+    des: M1911本人による強い要望で、こういう名前になってしまった。
+    code: EgroupM1911
+    equip_unit: "375,101,0"
+    group_skill: 2:759312
+    fit_gun: "20002"
+  }
 ]

@@ -1,7 +1,9 @@
 [
   {
+    sub_id: 1001
     id: 1
     name: 「ワーカー」型民間用ターゲットドローン
+    sub_name: 「ワーカー」型民間用ターゲットドローン
     type: 2
     code: Drone
     introduce: 標準のターゲットドローン。訓練と演習のみに用いられ、戦闘映像を自動記録できる（カメラが壊れていないことが前提）。
@@ -9,12 +11,13 @@
     counter: 訓練を頑張ろう！
     character: "1001,903"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000001
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 2001
     id: 2
     name: プラウラー
+    sub_name: プラウラー
     type: 2
     code: Prowler
     introduce: 鉄血の下級戦闘ユニット。火力と機動性は低めで、主な任務は味方戦線のパトロールと偵察。
@@ -30,12 +33,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000002
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 3001
     id: 3
     name: スカウト
+    sub_name: スカウト
     type: 2
     code: Scouts
     introduce: 鉄血の下級戦闘メカ。戦闘能力は低めだが、機動力とステルス性が高い。前線の偵察と情報収集によく用いられる。
@@ -51,12 +55,13 @@
     counter: 回避が高いため、命中力が足りているか注意しよう。
     character: "300"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000003
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 4001
     id: 4
     name: リッパー
+    sub_name: リッパー
     type: 3
     code: Ripper
     introduce: 鉄血の標準戦闘ダミー。短機関銃を装備し、機動性が比較的高い。戦場では先鋒や、偵察の役割を務める。
@@ -72,12 +77,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000004
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 5001
     id: 5
     name: スケアクロウ
+    sub_name: スケアクロウ
     type: 1
     code: Scarecrow
     introduce: 情報の収集と分析が得意で、正面きっての戦闘は苦手。鉄血人形の中での地位は低め。理性派で、無口かつ毒舌。職務を忠実に遂行し、感性というものを見下す。感情豊かで服従しか知らないグリフィン人形に優越感を抱いている。
@@ -100,8 +106,36 @@
     related_story_id: 200005
   }
   {
+    sub_id: 5002
+    id: 5
+    name: スケアクロウ
+    sub_name: スケアクロウ-灰域特化型
+    type: 1
+    code: Scarecrow
+    introduce: 情報の収集と分析が得意で、正面きっての戦闘は苦手。鉄血人形の中での地位は低め。理性派で、無口かつ毒舌。職務を忠実に遂行し、感性というものを見下す。感情豊かで服従しか知らないグリフィン人形に優越感を抱いている。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,306,307"
+    enemy_skill: "184,185,186"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",奥野香耶,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+    related_story_id: 200005
+  }
+  {
+    sub_id: 6001
     id: 6
     name: ダイナーゲート
+    sub_name: ダイナーゲート
     type: 2
     code: Dinergate
     introduce: 鉄血の下級戦闘メカ。戦闘能力は低めだが量産に適しており、通常は警備や捜索任務を担う。荒々しい突撃にも用いられ、大群になった時の戦闘力は侮れない。
@@ -116,12 +150,13 @@
     counter: 近接戦闘の攻撃力は極めて高いが、生存能力は低いため、範囲攻撃のスキルを持つ人形や、アサルトライフルの人形で素早く片付けるのが望ましい。
     character: "303"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000006
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 7001
     id: 7
     name: ヴェスピド
+    sub_name: ヴェスピド
     type: 3
     code: Vespid
     introduce: 鉄血の標準戦闘ダミー。突撃銃を装備し、火力は下級の軍用人形と同等で、小規模戦闘の主な戦力となる。
@@ -137,12 +172,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000007
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 8001
     id: 8
     name: エクスキューショナー
+    sub_name: エクスキューショナー
     type: 1
     code: Excutioner
     introduce: エリートの斥候に相当する。スケアクロウよりやや地位が高く、よくコンビを組んでいる。衝動的で大雑把な女傑。正々堂々とした戦いを好み、弱い者いじめを嫌う。
@@ -166,8 +202,10 @@
     related_story_id: 200008
   }
   {
+    sub_id: 9001
     id: 9
     name: イェーガー
+    sub_name: イェーガー
     type: 3
     code: Jaeger
     introduce: 鉄血の標準戦闘ダミー。狙撃銃を装備し、高い火力と照準を持つが、本体は脆弱である。通常の戦場でまず用心すべき相手。
@@ -183,12 +221,13 @@
     counter: 主に後列に位置し、射速は遅めで、命中は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
     character: "307"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000009
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 10001
     id: 10
     name: ガード
+    sub_name: ガード
     type: 3
     code: Guard
     introduce: 鉄血の上級戦闘ダミー。シールドと銃剣付き拳銃を装備し、外見から分かるとおり高防御の護衛として機能する。通常は防御の重要ユニットや、上級先鋒隊として部隊の出撃時に用いられる。
@@ -204,12 +243,13 @@
     counter: 近接戦闘ユニットであり、防御力が比較的高いが、攻撃力はそれほどでもない。しかし、ガードに守られた高火力ユニットが脅威となるため、適切な銃種を選択し、後列の敵を優先して処理しよう。
     character: "303"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000010
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 11001
     id: 11
     name: ハンター
+    sub_name: ハンター
     type: 1
     code: Hunter
     introduce: 機動性と知能は比較的高く、妨害と追撃作戦が得意。だがスケアクロウとエクスキューショナーの協力がなければ実力を最大限発揮できない。冷静沈着で、あらゆる手段を用いて敵を袋小路に追い込み生け捕りにする。グリフィンをかなり見下しているが、卑劣すぎる手段を取ることは潔しとしない。
@@ -233,8 +273,10 @@
     related_story_id: 200011
   }
   {
+    sub_id: 12001
     id: 12
     name: ドラグーン
+    sub_name: ドラグーン
     type: 3
     code: Dragoon
     introduce: 鉄血の上級戦闘ダミー。小型二足歩行兵器と連装機関銃を備え、火力、射程、機動性のいずれをとっても甘く見てはならない存在。鉄血の戦場において陣地攻撃の役割を果たしている。
@@ -250,12 +292,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "304"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000012
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 13001
     id: 13
     name: ジャガー
+    sub_name: ジャガー
     type: 2
     code: Jaguar
     introduce: 鉄血の標準作戦メカ。自走可能な高威力迫撃砲。機動性はやや劣るが、火力は現代の標準兵器に引けを取らない。
@@ -272,12 +315,13 @@
     character: "1003,325"
     enemy_skill: "8"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000013
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 14001
     id: 14
     name: ニーマム
+    sub_name: ニーマム
     type: 4
     code: Nemeum
     introduce: 軍部がオーダーした標準軍用メカ。出荷前に鉄血の侵略を受けて敵となった。現用の軍用火力システムを搭載する。エネルギーを蓄えることで殺傷力を高めることができるが、射速と防御力はいずれも低い。
@@ -293,12 +337,13 @@
     counter: 装甲を持ち、後列にいることが多い。射速は遅く、命中と火力は高め。前列の味方に大きなダメージを与えるため、優先して敵の後列を処理するユニットを投入しよう。
     character: "309"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000014
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 15001
     id: 15
     name: イージス
+    sub_name: イージス
     type: 5
     code: Aegis
     introduce: 軍部がオーダーした標準軍用人形。出荷前に鉄血に奪われて敵となった。現用の電撃武器やシールド、厚い装甲を搭載しており、近距離戦において抜群の性能を誇る。
@@ -314,12 +359,13 @@
     counter: 装甲を持つため、部隊の貫通性能に注意しよう。
     character: "303,309"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000015
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 16001
     id: 16
     name: マンティコア
+    sub_name: マンティコア
     type: 4
     code: Manticore
     introduce: 軍部がオーダーした標準軍用メカ。出荷前に鉄血に奪われて敵となった。現用の軍用機関砲と装甲を搭載し、驚くべき遠距離火力と抜群の防御力を持つ。
@@ -335,12 +381,13 @@
     counter: そこそこ厚い装甲を持ち、火力も高いため、部隊の作戦能力を高め、素早く片付けるとよい。
     character: "1003,302,309,301"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000016
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 17001
     id: 17
     name: イントゥルーダー
+    sub_name: イントゥルーダー
     type: 1
     code: Intruder
     introduce: 戦闘策略の提供を担当。また暗号解読と妨害任務も得意で、戦闘人形を直接指揮できる比較的優れた人材。ゲーガーへの直接管理権を持つ。上品で穏やかな言動の背後に、大きな虚無を感じさせる。人類の演劇が好きで、自分自身を投影しているようだ。
@@ -363,8 +410,36 @@
     related_story_id: 200017
   }
   {
+    sub_id: 17002
+    id: 17
+    name: イントゥルーダー
+    sub_name: イントゥルーダー-灰域特化型
+    type: 1
+    code: Intruder
+    introduce: 戦闘策略の提供を担当。また暗号解読と妨害任務も得意で、戦闘人形を直接指揮できる比較的優れた人材。ゲーガーへの直接管理権を持つ。上品で穏やかな言動の背後に、大きな虚無を感じさせる。人類の演劇が好きで、自分自身を投影しているようだ。
+    forces: 1
+    if_capture: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,306"
+    enemy_skill: "190,191,192"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",大坪由佳,"
+    spine_scale: "85,85,1"
+    org_id: 10602
+    related_story_id: 200017
+  }
+  {
+    sub_id: 18001
     id: 18
     name: デストロイヤー
+    sub_name: デストロイヤー
     type: 1
     code: Destroyer
     introduce: 爆破任務が得意で、爆弾処理も専門家レベル。戦闘能力も高く、アルケミストとコンビを組むことも。普段は高慢で毒舌だが実はツンデレ。少し子供っぽく、焦るとべそをかく。自分の身長をかなり気にしている。
@@ -379,7 +454,6 @@
     range_rank: 5
     counter: 一発当たりの火力は極めた高いが、射速は低めで、命中は普通。回避タイプの人形で食い止めるとよい。
     character: "1001,206"
-    enemy_skill: "64,99"
     launch_time: 2016-5-20 00:00:00
     extra: ",高田憂希,"
     spine_scale: "85,85,1"
@@ -387,8 +461,10 @@
     related_story_id: 200018
   }
   {
+    sub_id: 19001
     id: 19
     name: ハンターElite
+    sub_name: ハンターElite
     type: 1
     code: HunterElite
     introduce: 機動性と知性が高く、妨害と追撃作戦が得意な鉄血エリート人形。本来の規格と比べて、搭載されている演算ユニットが大幅にアップグレードされ、より冷酷になっている。あらゆる手段を用いて敵を袋小路に追い込み生け捕りにする。
@@ -408,8 +484,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 20001
     id: 20
     name: エクスキューショナーElite
+    sub_name: エクスキューショナーElite
     type: 1
     code: ExcutionerElite
     introduce: 策を弄するよりも、正面から戦うことを好む鉄血のエリート人形。太刀がさらに強化され、白兵戦の性能が向上している。正々堂々とした戦いを好み、弱い者いじめを嫌う。
@@ -429,8 +507,37 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 21001
     id: 21
     name: ウロボロス
+    sub_name: ウロボロス
+    type: 1
+    code: Weaver
+    introduce: 短距離の突破または防御作戦が得意で、知能と戦闘能力が高い。胡蝶事件の後に作られた人形だが、試験的な製造であるため、AIが極めて不安定で制御しにくい。表面的には物静かだが、内心は傲慢。強い武力と知性を兼ね備えるが、実戦経験が少ない。不可解な行動をとるため、敵も味方も動きが読めず、危険度は極めて高い。
+    forces: 1
+    if_capture: 1
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 攻撃予告を行った位置に中程度のダメージを与える。人形を指揮し適宜回避が必要。
+    character: "1001,210,309"
+    enemy_skill: "71"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",大久保瑠美,"
+    spine_scale: "80,80,1"
+    org_id: 10603
+    related_story_id: 200021
+  }
+  {
+    sub_id: 21002
+    id: 21
+    name: ウロボロス
+    sub_name: ウロボロス-強化型
     type: 1
     code: Weaver
     introduce: 短距離の突破または防御作戦が得意で、知能と戦闘能力が高い。胡蝶事件の後に作られた人形だが、試験的な製造であるため、AIが極めて不安定で制御しにくい。表面的には物静かだが、内心は傲慢。強い武力と知性を兼ね備えるが、実戦経験が少ない。不可解な行動をとるため、敵も味方も動きが読めず、危険度は極めて高い。
@@ -454,8 +561,10 @@
     related_story_id: 200021
   }
   {
+    sub_id: 22001
     id: 22
     name: ウロボロスElite
+    sub_name: ウロボロスElite
     type: 1
     code: WeaverElite
     introduce: あらゆる作戦と戦術演算に長けているハイスペックな鉄血エリート人形。全てのステータスが高い水準となっており、戦場ではオールラウンダーを担える存在。以前と比べて大量の戦術データを取り込んで強化されており、冷静な見た目とは裏腹に内心は非常に傲慢……しかし相変わらず実戦経験が少なく、敵も味方も予測できない不可解な行動をとるため、戦場へ投入するにはリスクが高い。
@@ -475,8 +584,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 23001
     id: 23
     name: アルケミスト
+    sub_name: アルケミスト
     type: 1
     code: Alchemist
     introduce: 各種戦術ニーズに対応するマルチアタッカーで、尋問と拷問が得意。鉄血の戦闘エリートで、デストロイヤーとコンビを組むことも。うぬぼれ屋で尊大かつ残忍、目的達成のためなら手段を選ばない。Ｓっ気があり、グリフィンを欲望を満たすためのおもちゃと考えている。しかし精神的には大人で、鉄血の仲間のために力を尽くしてくれる。
@@ -499,8 +610,36 @@
     related_story_id: 200023
   }
   {
+    sub_id: 24001
     id: 24
     name: ドリーマー
+    sub_name: ドリーマー
+    type: 1
+    code: Dreamer
+    introduce: 遠隔での戦闘能力に重点を置き、超遠距離から狙った場所を攻撃する能力を備える。エリザが直接指揮を執る。胡蝶事件の後で作られた人形。自身の能力により正面攻撃する必要がないため、普段は鉄血本部にいて、ジャッジをからかって遊んでいる。優雅な微笑みの中に、傲慢さと捉えどころのなさがうかがえる。精神状態は極めて不安定で、常に自己中心的。戦闘では狂気的かつ制御不能な一面を見せる。また、恐るべき破壊力を持ち、仲間の安否さえ考えない。通常は戦場に現れないのが幸いである。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 射程が長いため、部隊の移動速度に注意しないと大きな損害をもたらす。
+    character: "1001,209"
+    enemy_skill: "70"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",奥野香耶,"
+    spine_scale: "75,75,1"
+    org_id: 10604
+    related_story_id: 200024
+  }
+  {
+    sub_id: 24002
+    id: 24
+    name: ドリーマー
+    sub_name: ドリーマー-強化型
     type: 1
     code: Dreamer
     introduce: 遠隔での戦闘能力に重点を置き、超遠距離から狙った場所を攻撃する能力を備える。エリザが直接指揮を執る。胡蝶事件の後で作られた人形。自身の能力により正面攻撃する必要がないため、普段は鉄血本部にいて、ジャッジをからかって遊んでいる。優雅な微笑みの中に、傲慢さと捉えどころのなさがうかがえる。精神状態は極めて不安定で、常に自己中心的。戦闘では狂気的かつ制御不能な一面を見せる。また、恐るべき破壊力を持ち、仲間の安否さえ考えない。通常は戦場に現れないのが幸いである。
@@ -523,8 +662,10 @@
     related_story_id: 200024
   }
   {
+    sub_id: 25001
     id: 25
     name: ジュピター
+    sub_name: ジュピター
     type: 2
     code: Jupiter
     introduce: 鉄血が軍の技術を盗み出して開発した大型砲台。移動することはできないが、戦術人形を圧倒する火力と射程を有している。包囲してエネルギーの供給を断つと主砲は停止し、防衛用の機銃でしか反撃できなくなる。
@@ -539,12 +680,39 @@
     character: "1003,302,309,910"
     enemy_skill: "12"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000025
     spine_scale: "55,55,1"
   }
   {
+    sub_id: 26001
     id: 26
     name: ゲーガー
+    sub_name: ゲーガー
+    type: 1
+    code: BossGager
+    introduce: 主に指揮作戦と人員調整を担当。戦闘人形を直接指揮でき、またなかなかの戦闘能力も持つ。地位は比較的高く、エージェントに次ぐ高い指揮権限を有している。真面目で厳しく、妥協を許さない。言動から凜とした切れ者の気質がうかがえる。敵に対してもポリシーを持ち、礼節を欠かさない。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,207"
+    enemy_skill: "66,67"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",石川由依,"
+    spine_scale: "85,85,1"
+    org_id: 10602
+    related_story_id: 200026
+  }
+  {
+    sub_id: 26002
+    id: 26
+    name: ゲーガー
+    sub_name: ゲーガー-強化型
     type: 1
     code: BossGager
     introduce: 主に指揮作戦と人員調整を担当。戦闘人形を直接指揮でき、またなかなかの戦闘能力も持つ。地位は比較的高く、エージェントに次ぐ高い指揮権限を有している。真面目で厳しく、妥協を許さない。言動から凜とした切れ者の気質がうかがえる。敵に対してもポリシーを持ち、礼節を欠かさない。
@@ -567,8 +735,10 @@
     related_story_id: 200026
   }
   {
+    sub_id: 27001
     id: 27
     name: アーキテクト
+    sub_name: アーキテクト
     type: 1
     code: BossArchitect
     introduce: 遠距離破壊と火力支援に長け、戦闘能力は高い。通常は単独行動を好む。活発で明るく能天気な少女で、いつでもハイテンション。グリフィンに対しても特に敵対意識がない。鉄血の命令には最小限のみ従うが、爆破と破壊には異様に熱中するため、敵からはかなり危険視されている。
@@ -592,8 +762,36 @@
     related_story_id: 200027
   }
   {
+    sub_id: 27002
+    id: 27
+    name: アーキテクト
+    sub_name: アーキテクト-灰域特化型
+    type: 1
+    code: BossArchitect
+    introduce: 遠距離破壊と火力支援に長け、戦闘能力は高い。通常は単独行動を好む。活発で明るく能天気な少女で、いつでもハイテンション。グリフィンに対しても特に敵対意識がない。鉄血の命令には最小限のみ従うが、爆破と破壊には異様に熱中するため、敵からはかなり危険視されている。
+    forces: 1
+    if_capture: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,319"
+    enemy_skill: "187,188,189"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",大坪由佳,"
+    spine_scale: "85,85,1"
+    org_id: 10603
+    related_story_id: 200027
+  }
+  {
+    sub_id: 28001
     id: 28
     name: ブルート
+    sub_name: ブルート
     type: 3
     code: Brute
     introduce: 鉄血の新型近距離戦闘ユニット。目標に素早く接近し大ダメージを与える。しかし装甲は薄く非常に破壊されやすい。
@@ -609,12 +807,13 @@
     counter: 高めの破甲値を持っており、ショットガンの人形にとって危険な存在となるため、注意が必要。サブマシンガンや、ハンドガンなどの回避型の人形を前列に配置するとよい。
     character: "303"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000028
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 29001
     id: 29
     name: ストライカー
+    sub_name: ストライカー
     type: 3
     code: Striker
     introduce: 鉄血の標準戦闘ユニット。回転式機関銃を装備し、火力と射速が比較的高い。戦場では火力部隊として、敵の制圧に用いられる。
@@ -630,12 +829,13 @@
     counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "308"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000029
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 30001
     id: 30
     name: タランチュラ
+    sub_name: タランチュラ
     type: 4
     code: Tarantula
     introduce: 鉄血の「ダイナーゲート」の装甲強化バージョン。生存能力が大幅に強化され、目標に群がって大ダメージを与える。
@@ -651,12 +851,13 @@
     counter: 近接戦闘における攻撃力が極めて高いが、生存能力は低い。しかし装甲を持つため、味方の貫通が低いと処理に手間取る。範囲攻撃のスキルを持つ人形か、マシンガンの人形で素早く殲滅すべし。
     character: "303,309"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000030
     spine_scale: "150,150,1"
   }
   {
+    sub_id: 31001
     id: 31
     name: ゴリアテ
+    sub_name: ゴリアテ
     type: 2
     code: Golyat
     introduce: 鉄血の爆弾型戦闘ユニット。目標と接触すると自爆を行い、広範囲の大ダメージを与えるため、近づかれる前に倒すべし。
@@ -670,12 +871,13 @@
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000031
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 32001
     id: 32
     name: ゴリアテplus
+    sub_name: ゴリアテplus
     type: 2
     code: GolyatPlus
     introduce: 「ゴリアテ」の強化バージョン。現在の戦術人形の火力では短時間内に破壊することは不可能。こいつとの戦闘を避けた方が一番賢明なのかもしれない。
@@ -689,12 +891,13 @@
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000032
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 33001
     id: 33
     name: ケルベロス
+    sub_name: ケルベロス
     type: 1
     code: BossCerberus
     introduce: 鉄血の「ダイナーゲート」の超強化バージョン。体型も装甲も火力も大幅に強化されており、人形のメンタルさえも（不完全だが）収納することができる。しかしコスパがあまりよくなく、量産には向いていない。そして戦場における役割もそんなに明白ではない上に、開発の経緯も全くの謎。故に、出番は非常に少ない。
@@ -716,8 +919,10 @@
     org_id: 10603
   }
   {
+    sub_id: 34001
     id: 34
-    name: デストロイヤーPlus
+    name: デストロイヤー
+    sub_name: デストロイヤーPlus
     type: 1
     code: DestroyerPlus
     introduce: ドリーマーに素体を改造されたデストロイヤーの新しい姿。火力が大幅に強化され、破壊力が増している。しかし性格やメンタルに大きな変化はない。
@@ -736,8 +941,54 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 34002
+    id: 34
+    name: デストロイヤー
+    sub_name: デストロイヤーPlus-強化型
+    type: 1
+    code: DestroyerPlus
+    introduce: ドリーマーに素体を改造されたデストロイヤーの新しい姿。火力が大幅に強化され、破壊力が増している。しかし性格やメンタルに大きな変化はない。
+    forces: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 攻撃予告を行った位置に中程度のダメージを与える。人形を指揮し適宜回避が必要。
+    character: "1001,206"
+    enemy_skill: "64,65,99"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    sub_id: 34003
+    id: 34
+    name: デストロイヤー
+    sub_name: デストロイヤーPlus-灰域特化型
+    type: 1
+    code: DestroyerPlus
+    introduce: ドリーマーに素体を改造されたデストロイヤーの新しい姿。火力が大幅に強化され、破壊力が増している。しかし性格やメンタルに大きな変化はない。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,319"
+    enemy_skill: "193,194,195"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 35001
     id: 35
     name: ジャッジ
+    sub_name: ジャッジ
     type: 1
     code: Justice
     introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
@@ -761,8 +1012,64 @@
     related_story_id: 200035
   }
   {
+    sub_id: 35002
+    id: 35
+    name: ジャッジ
+    sub_name: ジャッジ-強化型
+    type: 1
+    code: Justice
+    introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 射速が高く、火力は普通。同時に複数を攻撃するため、十分な防御力を持つショットガンの人形で食い止めるとよい。また、地面に表示される紫の領域を避けないと、持続ダメージと弱化効果を受けるので注意しよう。
+    character: "1001,211,309"
+    enemy_skill: "73,74,75"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",豊崎愛生,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+    related_story_id: 200035
+  }
+  {
+    sub_id: 35003
+    id: 35
+    name: ジャッジ
+    sub_name: ジャッジ-灰域特化型
+    type: 1
+    code: Justice
+    introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 灰域で彷徨っている敵、注意して対処せよ！
+    character: "1001,309,307"
+    enemy_skill: "196,197,198"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",豊崎愛生,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+    related_story_id: 200035
+  }
+  {
+    sub_id: 36001
     id: 36
     name: ナイトメア
+    sub_name: ナイトメア
     type: 3
     code: unknown
     introduce: 電子空間にしか存在しないバーチャルの敵。目標にゆっくりと近づき噛みつく。通常、これらの意識体は電子戦モジュールがファイアウォールなどのプログラムを具現したものか、電子空間に潜むウイルスやマルウェアである。極稀に、常識では解釈できない何かである可能性もある。
@@ -776,12 +1083,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000036
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 37001
     id: 37
     name: キュクロープス_AR
+    sub_name: キュクロープス_AR
     type: 3
     code: Cyclops
     introduce: 軍の標準作戦人形。アサルトライフルとグレネードランチャーが搭載されている。装甲は他の型と比べて薄い。
@@ -797,12 +1105,13 @@
     character: "1001,319"
     enemy_skill: "16"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000037
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 38001
     id: 38
     name: キュクロープス_SG
+    sub_name: キュクロープス_SG
     type: 5
     code: Cyclops_SG
     introduce: 軍の標準作戦人形。ショットガンとシールドが搭載されている。性能は他の型と比べて大差ない。
@@ -819,12 +1128,13 @@
     character: "1001,309,314"
     enemy_skill: "17"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000038
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 39001
     id: 39
     name: ヒドラ
+    sub_name: ヒドラ
     type: 4
     code: Hydra
     introduce: 軍部がオーダーした標準軍用メカ。「マンティコア」をベースに強化と改造が行われている。軍用の遠距離射撃統制システムと強固な装甲が搭載されており、主砲で目標を壊滅させる。
@@ -840,12 +1150,13 @@
     character: "1003,309,301"
     enemy_skill: "18"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000039
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 40001
     id: 40
     name: イージス_GA
+    sub_name: イージス_GA
     type: 5
     code: Aegis_GA
     introduce: 軍部がオーダーした標準軍用人形。現用の電撃武器やシールド、厚い装甲を搭載しており、近距離戦において抜群の性能を誇る。
@@ -861,12 +1172,13 @@
     character: "303,309,310"
     enemy_skill: "9"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000040
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 41001
     id: 41
     name: ケリュネティス
+    sub_name: ケリュネティス
     type: 4
     code: Cerynitis
     introduce: 軍の標準作戦メカ。「ニーマム」をベースに強化と改造が行われている。軍用の遠距離射撃統制システムが搭載されており、より強固な装甲と高速連射能力を有している。
@@ -881,12 +1193,13 @@
     counter: 装甲を持ち、攻撃間隔は短め。火力が高めであるため、優先して処理するとよい。
     character: "1003,309"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000041
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 42001
     id: 42
     name: ダクティル
+    sub_name: ダクティル
     type: 4
     code: Dactyl
     introduce: 軍の小型自律地雷設置ドローン。高速で目標に接近していき地雷を設置する。脆弱な本体が破壊されても、設置した地雷は戦場を混乱に陥れる。
@@ -901,12 +1214,13 @@
     character: "1001,309,322"
     enemy_skill: "19"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000042
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 43001
     id: 43
     name: テュポーン
+    sub_name: テュポーン
     type: 4
     code: Typhon
     introduce: 軍部がオーダーした標準軍用戦車。強力なレールガンを搭載しており、一撃で複数の目標を貫通できる。弱点は主砲の俯角があまり取れないこと。速やかに接近すれば或いは撃破できるかもしれない。
@@ -922,12 +1236,37 @@
     character: "1001,1003,302,309,320"
     enemy_skill: "20"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000043
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 44001
     id: 44
     name: M16A1
+    sub_name: M16A1
+    type: 1
+    code: M16A1_Boss
+    introduce: 【傘】ウィルスに感染し鉄血と化した元AR小隊所属のグリフィン戦術人形M16A1。見た目も性格も大きく変わったが、その高い作戦能力だけは変わらなかった。味方としてはとても信頼できるが、敵としてこれ以上恐ろしい存在はない。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: このユニットは広範囲の爆撃攻撃を仕掛けてくる。早めに撃破しましょう。
+    character: "1001,215,309"
+    enemy_skill: "8101,8301"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 44002
+    id: 44
+    name: M16A1
+    sub_name: M16A1-弱体化型
     type: 1
     code: M16A1_Boss
     introduce: 【傘】ウィルスに感染し鉄血と化した元AR小隊所属のグリフィン戦術人形M16A1。見た目も性格も大きく変わったが、その高い作戦能力だけは変わらなかった。味方としてはとても信頼できるが、敵としてこれ以上恐ろしい存在はない。
@@ -942,14 +1281,88 @@
     range_rank: 6
     counter: ビーコンを付けた人形の銃種によって、M16A1にもたらされる効果は異なる。ビーコンを放たれた時は、どの銃種の人形で対応するかよく考えよう。
     character: "1001,215,309"
-    enemy_skill: "81,82,83"
+    enemy_skill: "81,82"
     launch_time: 2016-5-20 00:00:00
     extra: ",山根希美,"
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 44003
+    id: 44
+    name: M16A1
+    sub_name: M16A1-完全型
+    type: 1
+    code: M16A1_Boss
+    introduce: 【傘】ウィルスに感染し鉄血と化した元AR小隊所属のグリフィン戦術人形M16A1。見た目も性格も大きく変わったが、その高い作戦能力だけは変わらなかった。味方としてはとても信頼できるが、敵としてこれ以上恐ろしい存在はない。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: ビーコンを付けた人形の銃種によって、M16A1にもたらされる効果は異なる。ビーコンを放たれた時は、どの銃種の人形で対応するかよく考えよう。
+    character: "1001,215,309"
+    enemy_skill: "81,82,8301"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 44004
+    id: 44
+    name: M16A1
+    sub_name: M16A1-統率型
+    type: 1
+    code: M16A1_Boss
+    introduce: 【傘】ウィルスに感染し鉄血と化した元AR小隊所属のグリフィン戦術人形M16A1。見た目も性格も大きく変わったが、その高い作戦能力だけは変わらなかった。味方としてはとても信頼できるが、敵としてこれ以上恐ろしい存在はない。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: このユニットは、与ダメージがもっとも高いユニットを優先的攻撃する。注意して戦いましょう。
+    character: "1001,215,309"
+    enemy_skill: "83"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 44005
+    id: 44
+    name: M16A1
+    sub_name: M16A1-強化型
+    type: 1
+    code: M16A1_Boss
+    introduce: 【傘】ウィルスに感染し鉄血と化した元AR小隊所属のグリフィン戦術人形M16A1。見た目も性格も大きく変わったが、その高い作戦能力だけは変わらなかった。味方としてはとても信頼できるが、敵としてこれ以上恐ろしい存在はない。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: このユニットは、与ダメージがもっとも高いユニットを優先的攻撃し、広範囲の燃焼エリアを作ります。注意して戦いましょう。
+    character: "1001,215,309"
+    enemy_skill: "81,8201,83"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 45001
     id: 45
     name: エージェント
+    sub_name: エージェント
     type: 1
     code: Agent
     introduce: エリザと鉄血の連絡任務を担当。戦闘人形はその命令に直接従う。地位は極めて高く、戦闘も指揮も得意。すべての戦闘人形を指揮できる。冷静沈着で、決して羽目を外すことはない。敵にも味方にも敬語を使う。しかし実際は、主人には忠実であるが他人を見下しており、特にグリフィンのことをバカにしている。
@@ -972,8 +1385,36 @@
     related_story_id: 200045
   }
   {
+    sub_id: 45002
+    id: 45
+    name: エージェント
+    sub_name: エージェント-強化型
+    type: 1
+    code: Agent
+    introduce: エリザと鉄血の連絡任務を担当。戦闘人形はその命令に直接従う。地位は極めて高く、戦闘も指揮も得意。すべての戦闘人形を指揮できる。冷静沈着で、決して羽目を外すことはない。敵にも味方にも敬語を使う。しかし実際は、主人には忠実であるが他人を見下しており、特にグリフィンのことをバカにしている。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 2
+    rate_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 彼女がシールドを生成した際には、火力を集中させシールドを破ることでチャージを中断させ、高火力の攻撃を回避しよう。
+    character: "1001,212"
+    enemy_skill: "77,78,7801"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",生天目仁美,"
+    spine_scale: "80,80,1"
+    org_id: 10604
+    related_story_id: 200045
+  }
+  {
+    sub_id: 46001
     id: 46
     name: ストレリツィ
+    sub_name: ストレリツィ
     type: 3
     code: Strelet
     introduce: 基本的な歩兵人形。軍の人形の火力に匹敵するほどの武器システムが搭載されている。量産型の作戦ユニットではあるが、鉄血の標準戦闘ユニットよりも作戦能力が高い。
@@ -988,12 +1429,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "312"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000046
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 47001
     id: 47
     name: ロデレロ
+    sub_name: ロデレロ
     type: 3
     code: Rodelero
     introduce: 機動力の高い重火力人形。ジェットパックを装備しており、戦場の後方から一瞬で前へ飛びだすことができる。さらに複数の目標を貫通できるレールガンと、偏向障壁発生装置も搭載しており、攻守ともに隙がない。
@@ -1010,12 +1452,13 @@
     character: "309,312,320"
     enemy_skill: "27"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000047
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 48001
     id: 48
     name: ドッペルゾルドナー
+    sub_name: ドッペルゾルドナー
     type: 3
     code: Doppelsoldner
     introduce: 強力な重火力メカ。強固な装甲と偏向障壁発生装置を搭載している。攻撃手段は両腕にある機関銃の他、多連装グレネードランチャーも装備している。
@@ -1031,12 +1474,13 @@
     character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000048
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 49001
     id: 49
     name: ウーラン
+    sub_name: ウーラン
     type: 4
     code: Uhlan
     introduce: 強力な重戦車。強固な装甲と偏向障壁発生装置を搭載している。武装は機関砲一門のみだが、装甲と偏向障壁を盾に体当たりを仕掛け、敵の陣形を崩すことができる。
@@ -1052,12 +1496,13 @@
     character: "1001,302,309,312"
     enemy_skill: "31,32"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000049
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 50001
     id: 50
-    name: アデリン
+    name: 黒ネイト
+    sub_name: 黒ネイト
     type: 1
     code: Nyto_black
     introduce: 謎の勢力の上級ボス。黒いネイトは高威力のライフル型武器を使用し、他のネイトたちと協力して戦う。「ネイト」という共通の名を持っていること以外、彼女たちに関する情報は一切なく……「ネイト」と呼ばれる怪物も、まだまだ他に存在しているらしい。
@@ -1080,8 +1525,10 @@
     org_id: 10603
   }
   {
+    sub_id: 51001
     id: 51
-    name: アリーナ
+    name: 白ネイト
+    sub_name: 白ネイト
     type: 1
     code: Nyto_white
     introduce: 謎の勢力の上級ボス。白いネイトは指揮能力を持ち、鎌型の近接武器で戦場の全てを刈り取る。「ネイト」という共通の名を持っていること以外、彼女たちに関する情報は一切なく……「ネイト」と呼ばれる怪物も、まだまだ他に存在しているらしい。
@@ -1104,8 +1551,14 @@
     org_id: 10603
   }
   {
+    sub_id: 52001
     id: 52
     name:
+      '''
+      E.L.I.D.感染者
+      (武装)
+      '''
+    sub_name:
       '''
       E.L.I.D.感染者
       (武装)
@@ -1123,12 +1576,17 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000052
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 53001
     id: 53
     name:
+      '''
+      E.L.I.D.感染者
+      (徒手)
+      '''
+    sub_name:
       '''
       E.L.I.D.感染者
       (徒手)
@@ -1146,12 +1604,17 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "303"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000053
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 54001
     id: 54
     name:
+      '''
+      E.L.I.D.感染者
+      (ボス)
+      '''
+    sub_name:
       '''
       E.L.I.D.感染者
       (ボス)
@@ -1170,12 +1633,38 @@
     character: "1001,302,301"
     enemy_skill: "57,58"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000054
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 54002
+    id: 54
+    name:
+      '''
+      E.L.I.D.感染者
+      (ボス)
+      '''
+    sub_name: E.L.I.D.感染者(ボス)-サマー型
+    type: 1
+    code: Smasher
+    introduce: 重度のコーラップス放射の汚染を受け、体に異変が起きた軍の人間兵士。ELID感染者は感染の経過時間と放射の強さにより、内臓や皮膚が硬化する症状が起きるため、重度のELID感染者を傷つけるのは非常に難しい。性格も他の感染者よりさらに狂暴になり、破壊力もより増している。
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 3
+    range_rank: 5
+    counter: 能力は平均的。味方に軽度のダメージを持続的に与えてくるため、長時間の交戦は避けるべし。部隊全体の能力を上げて対処するとよい。
+    character: "1001,302,301"
+    enemy_skill: "57,58,5801,5802"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 55001
     id: 55
     name: プラウラーSWAP
+    sub_name: プラウラーSWAP
     type: 2
     code: Prowler_SWAP
     introduce: 「プラウラー」の強化バージョン。比較的弱かった火力と機動性が補われ、正面戦場の火力担当として戦闘に参加できる。
@@ -1191,12 +1680,13 @@
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "300"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000055
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 56001
     id: 56
     name: イェーガーSWAP
+    sub_name: イェーガーSWAP
     type: 3
     code: Jaeger_SWAP
     introduce: 「イェーガー」の強化バージョン。狙撃銃の火力と精度が強化され、脆弱な本体もより強固となり、以前よりも恐ろしい存在となった。
@@ -1213,12 +1703,13 @@
     character: "1003,307"
     enemy_skill: "5"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000056
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 57001
     id: 57
     name: ガードSWAP
+    sub_name: ガードSWAP
     type: 3
     code: Guard_SWAP
     introduce: 「ガード」の強化バージョン。シールドと銃剣付き拳銃が強化され、本来よりも高い防御力を得ている。
@@ -1235,12 +1726,13 @@
     character: "303,310"
     enemy_skill: "4"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000057
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 58001
     id: 58
     name: ドラグーンSWAP
+    sub_name: ドラグーンSWAP
     type: 3
     code: Dragoon_SWAP
     introduce: 「ドラグーン」の強化バージョン。小型二足歩行兵器と連装機関銃が強化され、総合的に見て最も性能が向上した鉄血ユニットである。注意して相手せよ。
@@ -1257,12 +1749,13 @@
     character: "1003,304"
     enemy_skill: "7"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000058
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 59001
     id: 59
     name: ストライカーSWAP
+    sub_name: ストライカーSWAP
     type: 3
     code: Striker_SWAP
     introduce: 「ストライカー」の強化バージョン。回転式機関銃の火力が強化され、装甲もより強固となった。その制圧力は以前よりもずっと恐ろしい。
@@ -1278,12 +1771,13 @@
     counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "308"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000059
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 60001
     id: 60
     name: イージスSWAP
+    sub_name: イージスSWAP
     type: 5
     code: Aegis_SWAP
     introduce: 鉄血に奪取された「イージス」型軍用人形の強化バージョン。軍用装甲とシールドが強化され、より高い近接戦闘能力を得た。
@@ -1300,12 +1794,13 @@
     character: "303,309,310"
     enemy_skill: "9"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000060
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 61001
     id: 61
     name: マーキュラス
+    sub_name: マーキュラス
     type: 1
     code: Nyto_Silver
     introduce: 謎の勢力の「ネイト」の一員、それ以外の情報は全て不明。ニモゲンに妹と呼ばれている。人間の詩が好きで、独特な趣味と感性を持っているようだ。
@@ -1325,8 +1820,33 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 61002
+    id: 61
+    name: マーキュラス
+    sub_name: マーキュラス-強化型
+    type: 1
+    code: Nyto_Silver
+    introduce: 謎の勢力の「ネイト」の一員、それ以外の情報は全て不明。ニモゲンに妹と呼ばれている。人間の詩が好きで、独特な趣味と感性を持っているようだ。
+    forces: 3
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 4
+    counter: 正体不明,慎重に対処を！
+    character: "1001,216,309,312"
+    enemy_skill: "42,43"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 62001
     id: 62
     name: ニモゲン
+    sub_name: ニモゲン
     type: 1
     code: Nyto_Gold
     introduce: 謎の勢力の「ネイト」の一員、マーキュラスに姉と呼ばれている。「お父様」を非常に尊敬している。それ以外の情報は全て不明。
@@ -1343,12 +1863,36 @@
     character: "1001,216,309"
     enemy_skill: "41"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000062
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 62002
+    id: 62
+    name: アンナ
+    sub_name: アンナ
+    type: 1
+    code: Nyto_Gold
+    introduce: 正体不明,慎重に対処を！
+    forces: 3
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1001,216,309"
+    enemy_skill: "41"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 63001
     id: 63
     name: グラディエータ
+    sub_name: グラディエータ
     type: 3
     code: Roarer
     introduce: タリンに残された廃棄メカ。近距離戦闘タイプの大型重装甲ユニット。謎の勢力と関係があるらしい。
@@ -1365,12 +1909,13 @@
     character: "309,302,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000063
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 64001
     id: 64
     name: パトローラ
+    sub_name: パトローラ
     type: 4
     code: Thunder
     introduce: タリンに残された廃棄メカ。機体の下に搭載された砲台で攻撃を行う。敵から攻撃を受けた時はジャンプして回避する。謎の勢力と関係があるらしい。
@@ -1387,12 +1932,13 @@
     character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000064
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 65001
     id: 65
     name: ガンナー
+    sub_name: ガンナー
     type: 3
     code: StreletPlus
     introduce: タリンに残された廃棄人形。「ストレリツィ」と似ている。より強力な武装を搭載しており、特殊な弾薬を使って敵の回避率を下げる。謎の勢力と関係があるらしい。
@@ -1408,12 +1954,13 @@
     character: "1003,312,316"
     enemy_skill: "39"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000065
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 66001
     id: 66
     name: 廃棄された異性体
+    sub_name: 廃棄された異性体
     type: 3
     code: Isomer
     introduce: タリンに残された廃棄人形。自身に攻撃能力はないが、周囲の敵を目まい状態にすることができる。謎の勢力と関係があるらしい。
@@ -1429,12 +1976,13 @@
     character: "303"
     enemy_skill: "40"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000066
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 67001
     id: 67
     name: ピクシス
+    sub_name: ピクシス
     type: 2
     code: Pyxis
     introduce: 厄介な軽火力砲台。軍の火力に近い高速射撃システムを搭載している量産型基本作戦ユニット。設置後移動させることはできない。制圧戦によく使われる。
@@ -1448,12 +1996,13 @@
     counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "309,308"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000067
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 68001
     id: 68
     name: 失格異性体
+    sub_name: 失格異性体
     type: 1
     code: Nyto_Isomer_White
     introduce: タリンに来たニモゲンのメンタルと融合し、その素体を奪った異性体。タリンの異性体全員を率いて、「離れる」ことを望んでいる。指揮官の部隊がタリンに来た後、M4こそが彼女たちをここから離れさせる「適合者」であると認定した。
@@ -1470,12 +2019,13 @@
     character: "1001,309,911"
     enemy_skill: "44"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000068
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 69001
     id: 69
     name: レッキセンター
+    sub_name: レッキセンター
     type: 2
     code: RecceCentre
     introduce: 「パスファインダー」を生産する軍の小型工場。自身の作戦能力は低く、機動性も低いが、大量の防衛部隊に守られていることが多い。
@@ -1486,12 +2036,13 @@
     character: "309,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000069
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 70001
     id: 70
     name: パスファインダー
+    sub_name: パスファインダー
     type: 2
     code: Pathfinder
     introduce: 「レッキセンター」が生産する球体のユニット。「レッキセンター」の機能によって役割が異なる。軽火力を搭載し脆いが、機動力が高く、量産に向いている。
@@ -1508,12 +2059,13 @@
     character: "303,309"
     enemy_skill: "22"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000070
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 71001
     id: 71
     name: ケンタウロス
+    sub_name: ケンタウロス
     type: 3
     code: Archer
     introduce: 軍の標準作戦人形。爆発する特殊な弓矢を武器として搭載している。非常に長い射程と高い命中率を有しているエリートユニット。
@@ -1529,12 +2081,13 @@
     character: "1003,325"
     enemy_skill: "23"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000071
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 72001
     id: 72
     name: オルトロス
+    sub_name: オルトロス
     type: 2
     code: Beast
     introduce: 軍の標準作戦メカ。偏向障壁を有する近距離戦闘ユニット。敵の火力を受け止めつつ陣形を攪乱する役割を持つ。ただし攻撃手段に乏しく、基本的に壁にしかならない。
@@ -1550,12 +2103,13 @@
     character: "310"
     enemy_skill: "24"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000072
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 73001
     id: 73
     name: ミノタウロス
+    sub_name: ミノタウロス
     type: 5
     code: TeslaTrooper
     introduce: 軍部がオーダーした上級軍用メカ。強固な装甲とミサイルランチャーが搭載されている。様々な場面で活躍できる。
@@ -1572,12 +2126,13 @@
     character: "302,303,309,313"
     enemy_skill: "26,33"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000073
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 74001
     id: 74
     name: アルゴノーツ-カライナ
+    sub_name: アルゴノーツ-カライナ
     type: 2
     code: GustafL_3
     introduce: 軍部がオーダーした上級軍用列車砲の前段。
@@ -1591,12 +2146,13 @@
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
     character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000074
     spine_scale: "-15,15,1"
   }
   {
+    sub_id: 75001
     id: 75
     name: アルゴノーツ-ヴィーラ
+    sub_name: アルゴノーツ-ヴィーラ
     type: 2
     code: GustafL_2
     introduce: 軍部がオーダーした上級軍用列車砲の中段。
@@ -1610,12 +2166,13 @@
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
     character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000075
     spine_scale: "-15,15,1"
   }
   {
+    sub_id: 76001
     id: 76
     name: アルゴノーツ-パピス
+    sub_name: アルゴノーツ-パピス
     type: 2
     code: GustafL_1
     introduce: 軍部がオーダーした上級軍用列車砲の後段。
@@ -1629,12 +2186,13 @@
     counter: 戦役マップ上で友軍に遠隔支援を行う。戦略面において大きな脅威と成りうるので、前中後段それぞれの支援範囲を確認したうえで、撃破の順番を慎重に考えよう。
     character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000076
     spine_scale: "-15,15,1"
   }
   {
+    sub_id: 77001
     id: 77
     name: クラトス
+    sub_name: クラトス
     type: 4
     code: Kratos
     introduce: 軍の特殊作戦人形。巨大なボディと強靭なパワーを備えている。敵を轢き殺すような突撃作戦が得意であり、部隊の先鋒としても盾としても非常に優秀である。
@@ -1651,12 +2209,13 @@
     character: "1001,302,303,309,310"
     enemy_skill: "48,49,50"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000077
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 78001
     id: 78
     name: アケロン
+    sub_name: アケロン
     type: 4
     code: Acheron
     introduce: 軍の特殊作戦装置。指定されたポイントに投下し設置することで、味方に偏向障壁を展開することができる。他のユニットと合わせて使う場合が多い。
@@ -1667,12 +2226,13 @@
     character: "1001,309,310"
     enemy_skill: "51"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000078
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 79001
     id: 79
     name: コイオス
+    sub_name: コイオス
     type: 4
     code: Coeus
     introduce: 軍の特殊作戦メカ。爆発的な瞬間火力と、ある程度の機動力を持ち合わせている。制圧作戦の切り札として使われることが多い。代替品が存在しないほどにずば抜けた性能を持つ。
@@ -1689,12 +2249,13 @@
     character: "1001,1003,302,309,317,316"
     enemy_skill: "52,53"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000079
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 80001
     id: 80
     name: AA-02 アレス
+    sub_name: AA-02 アレス
     type: 1
     code: Ares
     introduce: 軍のエリートメカであり、元はとある軍人の専用機であった。性能がずば抜けており、最高峰の主砲、ミサイル、シールドを搭載し、あらゆる方面において圧倒的な強さを誇る。「罪を背負いし者」という異名を持つ。
@@ -1711,15 +2272,39 @@
     character: "1001,302,309,326,316"
     enemy_skill: "93,94,95"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000080
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 80002
+    id: 80
+    name: AA-02 アレス
+    sub_name: AA-02 アレス-強化型
+    type: 1
+    code: Ares
+    introduce: 軍のエリートメカであり、元はとある軍人の専用機であった。性能がずば抜けており、最高峰の主砲、ミサイル、シールドを搭載し、あらゆる方面において圧倒的な強さを誇る。「罪を背負いし者」という異名を持つ。
+    forces: 2
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 7
+    counter: 強めの装甲を持つ。攻撃予告を行った位置に中程度のダメージを与えるため、人形を指揮し適宜回避が必要。シールドを持つ状態のアレスに貫通攻撃を行うと、一定時間硬直する。
+    character: "1001,302,309,326,316"
+    enemy_skill: "93,94,95"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "40,40,1"
+  }
+  {
+    sub_id: 81001
     id: 81
     name: エリザ
+    sub_name: エリザ
     type: 1
     code: Eliza_boss
-    introduce: リコが研究開発した上級人工知能。簡単な指令を出すだけで、ホストの「エリザ」が的確な作戦を演算してくれる。この上級ＡＩのホストには専属の戦術人形部隊がついており、ホストはネットワークシステムの遠隔操作によってこれらの人形に計画を実行させる。しかし実際のところ、「エリザ」はただのＡＩプログラムではない。リコの最終目標は、自己意識を備え、人類と同じ思考能力と知覚を備えたパーフェクトな人工知能を創り出すことだった。胡蝶事件後の「エリザ」は実体を手に入れ、すべての鉄血人形を管理下に置いた。そして「父」であるリコの敵討ちをするため、目に入るすべての人類と、鉄血以外の戦術人形を攻撃し始めた。そして「父」であるリコにとっての完璧なＡＩになる、つまり人類と同じ心を得ることを望み、父のデータから完全なＡＩサンプルを探し出そうとした。
+    introduce: "#VALUE!"
     forces: 1
     pow_rank: 7
     life_rank: 6
@@ -1731,12 +2316,34 @@
     character: "1001,900"
     enemy_skill: "85,86,87"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000081
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 81002
+    id: 81
+    name: エリザ
+    sub_name: エリザ-強化型
+    type: 1
+    code: Eliza_boss
+    introduce: "#VALUE!"
+    forces: 1
+    pow_rank: 7
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    range_rank: 5
+    counter: 逆コーラップスの影響により人形は戦闘能力を失うが、宙に浮かされる点を生かし、避けがたい攻撃を回避しよう！
+    character: "1001,900"
+    enemy_skill: "85,86,87"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "60,60,1"
+  }
+  {
+    sub_id: 82001
     id: 82
     name: ガトリングクラブ
+    sub_name: ガトリングクラブ
     type: 4
     code: Hydra_beach
     introduce: とある軍需企業が多額の資金を投じ造り上げた自律兵器。生体偽装の極致ともいえる設計を採用したとのふれこみだが、単に蟹をそのまま大きくしただけのようにも見える。メーカーもこれが企業を倒産に追い込んだ直接的な原因であると、否定的な見解を述べている模様。
@@ -1751,12 +2358,13 @@
     character: "309,301"
     enemy_skill: "10018"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000082
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 83001
     id: 83
     name: メカクラブ
+    sub_name: メカクラブ
     type: 4
     code: landmine_beach
     introduce: とある軍需企業が製造した旧式の自律兵器。生き物を模した兵器がコンセプトになっているようだが、出力の凶暴なまでの高さから「単なるバイオレンスシーフードマシン」と揶揄され、実戦投入を却下された経歴を持つ。
@@ -1770,12 +2378,13 @@
     character: "1001,309,322"
     enemy_skill: "10019"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000083
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 84001
     id: 84
     name: スイカ屋さん
+    sub_name: スイカ屋さん
     type: 2
     code: RecceCentre_beach
     introduce: とある軍需企業が製造した旧式の自律兵器。スイカモドキを生産するのに使われる施設だが、それを知らずに入ってくる観光客が、生産の妨げになってしまっているそうな。
@@ -1785,12 +2394,13 @@
     character: "309,321"
     enemy_skill: "10021"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40000084
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 85001
     id: 85
     name: スイカモドキ
+    sub_name: スイカモドキ
     type: 2
     code: Pathfinder_beach
     introduce: とある軍需企業が製造した旧式の自律兵器。美味しそうなものに偽装して敵を欺くことを目的に造られたが、検査員が本当に食べ物だと思って切ってしまう事故が起こっていたりする。
@@ -1809,8 +2419,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 86001
     id: 86
     name: リッパーSWAP
+    sub_name: リッパーSWAP
     type: 3
     code: Ripper_SWAP
     introduce: 火力と機動力が大幅に強化されたリッパー。過去の自分と完全に決別するため、なんと髪色と制服を一新したようだ。
@@ -1830,8 +2442,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 87001
     id: 87
     name: カクテル中毒者
+    sub_name: カクテル中毒者
     type: 3
     code: Cocktail
     introduce: 市街地に出現する危険分子。火炎瓶を投げ敵に持続ダメージを与える。
@@ -1848,8 +2462,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 88001
     id: 88
     name: 狂気のアタックマン
+    sub_name: 狂気のアタックマン
     type: 3
     code: Cottoncaper
     introduce: 前列に突撃をしてくる危険分子。驚嘆に値する勇気の持ち主。
@@ -1865,8 +2481,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 89001
     id: 89
     name: 雇ったライフルマン
+    sub_name: 雇ったライフルマン
     type: 3
     code: Hiresniper
     introduce: 経験豊富な雇われ兵士。距離を保ちつつ敵を狙撃することを得意とする。
@@ -1883,8 +2501,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 90001
     id: 90
     name: 恩返しのキラー
+    sub_name: 恩返しのキラー
     type: 3
     code: Swordsman
     introduce: 鋭利な短刀を振り回す。優れた身体能力の持ち主。
@@ -1900,8 +2520,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 91001
     id: 91
     name: カルカノ M91/38
+    sub_name: カルカノ M91/38
     type: 1
     code: CarcanoEnemy
     introduce: 予想外のエネミー
@@ -1919,8 +2541,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 92001
     id: 92
     name: ヘンリエッタ
+    sub_name: ヘンリエッタ
     type: 1
     code: HenEnemy
     introduce: 予想外のエネミー
@@ -1936,8 +2560,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 93001
     id: 93
     name: リコ
+    sub_name: リコ
     type: 1
     code: RicoEnemy
     introduce: 予想外のエネミー
@@ -1953,8 +2579,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 94001
     id: 94
     name: ヴェスピドSWAP
+    sub_name: ヴェスピドSWAP
     type: 3
     code: Vespid_SWAP
     introduce: 性能を大幅に強化したヴェスピド、味方の一定のダメージを与える。性能向上が見た目で分かるよう、ヘルメットと装甲を一新させた。
@@ -1974,8 +2602,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 95001
     id: 95
     name: ブルートSWAP
+    sub_name: ブルートSWAP
     type: 3
     code: Brute_SWAP
     introduce: 性能を大幅に強化したブルート。味方の装甲ユニットに対する大きな脅威となる。
@@ -1994,8 +2624,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 96001
     id: 96
     name: ニーマムSWAP
+    sub_name: ニーマムSWAP
     type: 4
     code: Nemeum_SWAP2
     introduce: 性能を大幅に強化したニーマム。精度の高さを活かした回避の難しい攻撃を行う。
@@ -2014,8 +2646,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 97001
     id: 97
     name: 彷徨う難民
+    sub_name: 彷徨う難民
     type: 3
     code: refugee_hg
     introduce: コーラップス放射線を浴びた人間の成れの果て。理性をある程度保っており、軽火器を用い敵と戦闘を行う。
@@ -2032,8 +2666,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 98001
     id: 98
     name: 暴走した難民
+    sub_name: 暴走した難民
     type: 3
     code: refugee_smg
     introduce: コーラップス放射線を浴びた人間の成れの果て。感染が深刻なため、性格が凶暴になっている。敵を滅ぼすまで止まることはない。
@@ -2050,8 +2686,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 99001
     id: 99
     name: ゴリアテ工場
+    sub_name: ゴリアテ工場
     type: 2
     code: Golyat_Factory
     introduce: 爆弾型ユニットを生産する鉄血の移動式工場。自爆能力を持つゴリアテを生産し続けることが出来る。戦場に残る時間が長いほど、大きな脅威になってくる。
@@ -2070,8 +2708,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 101001
     id: 101
     name: パンプキンリッパー
+    sub_name: パンプキンリッパー
     type: 3
     code: Ripper_Halloween
     introduce: お祭り仕様の鉄血のダミー。射程の短いSMGと何の役にも立たない頭部防具を装備している。機動性が高く、戦闘時はジャックオーランタンの彫刻師か、ジャックオーランタンを灯として持つ警備兵として登場する。
@@ -2088,8 +2728,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 102001
     id: 102
     name: ゴーストイェーガー
+    sub_name: ゴーストイェーガー
     type: 3
     code: Jaeger_Halloween
     introduce: お祭り仕様の鉄血のダミー。狙撃銃を装備し、高い火力と命中精度を持つ。入念に塗りたくった鱗粉により発光しているが、本体の脆さは据え置きとなっている。
@@ -2106,8 +2748,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 103001
     id: 103
     name: ウィッチドラグーン
+    sub_name: ウィッチドラグーン
     type: 3
     code: Dragon_Halloween
     introduce: お祭り仕様の鉄血の上級ダミー。試作段階の空中浮遊装置、反重力魔女帽子、そしてARを備えており、火力はもちろんのこと、射程、機動性のいずれをとっても甘く見てはならない存在。よくデストロイヤーをビックリさせては、木っ端みじんに爆破される。
@@ -2123,8 +2767,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 104001
     id: 104
     name: 悪霊黒騎士
+    sub_name: 悪霊黒騎士
     type: 5
     code: Aegis_Halloween
     introduce: 元は戦場を渡り歩く騎士であったが、悪魔にその身を侵食された後に悪魔騎士となった。その際に記憶の全てを失ってしまっているが、彼の中には、何かを守らねばならぬという想いが残されている。
@@ -2140,8 +2786,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 105001
     id: 105
     name: 悪霊の黒馬
+    sub_name: 悪霊の黒馬
     type: 4
     code: Nemeum_Halloween
     introduce: 元は勇猛果敢な軍馬であったが、襲撃を受け、悪魔の戦馬になり下がってしまった。その際に記憶の全てを失ってしまっているが、彼の中には、何かを守らねばならぬという想いが残されている。
@@ -2157,8 +2805,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 106001
     id: 106
     name: クリスマスダイナゲート
+    sub_name: クリスマスダイナゲート
     type: 2
     code: Dinergate_chm1
     introduce: 鉄血のクリスマス用低級機甲。運搬能力の低さはパートナーであるトナカイドッグが補っており、通常はクリスマスの雰囲気を盛り上げるために運用される。なお、既定のプレゼント輸送ルートに障害物がある場合、それらに突撃して進もうとするため、ドアの位置は変えないように。
@@ -2173,8 +2823,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 107001
     id: 107
     name: トナカイドッグ
+    sub_name: トナカイドッグ
     type: 2
     code: Dinergate_chm2
     introduce: 鉄血の低級運送用ユニット。通常、クリスマスの雰囲気を盛り上げるために運用される。なお、既定のプレゼント輸送ルートに障害物がある場合、それらに突撃して進もうとするため、ドアの位置は変えないように。
@@ -2189,8 +2841,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 108001
     id: 108
     name: ジンジャーブレッドガード
+    sub_name: ジンジャーブレッドガード
     type: 3
     code: Guard_chm
     introduce: ジンジャークッキーの盾とキャンディケインを装備した、鉄血のクリスマス用上級ダミー。見るだけで胸やけしそうな甘ったるい外見に違わず、基本、重要度の高いキッチンの守護を仰せつかっているが……デストロイヤーを装って飴を盗みに忍び込んでくるドリーマーの迎撃に駆り出されることも。
@@ -2207,12 +2861,15 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 109001
     id: 109
     name: ナルシス
+    sub_name: ナルシス
     type: 1
     code: Narciss
     introduce: パラデウスの「ネイト」の一体。とある失敗により、仲間を遥かに上回る戦闘能力を得るに至った。暴風雨のような攻撃を得意としており、目の前の敵全てを粉々に打ち砕く。破壊に快楽を見出している。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2227,8 +2884,10 @@
     extra: ",菅沼千紗,"
   }
   {
+    sub_id: 110001
     id: 110
     name: グレイ
+    sub_name: グレイ
     type: 1
     code: Mrsgray
     introduce: パラデウスの「ネイト」の一体。医学に精通しており、聡明かつ冷静。有利な要素全てを戦いに生かし、優勢に立つことに長ける。
@@ -2246,8 +2905,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 111001
     id: 111
     name: モリドー
+    sub_name: モリドー
     type: 1
     code: Morridow_nor
     introduce: パラデウスの「ネイト」の一体。狡猾かつ陰険で、変わり身が早い。
@@ -2259,8 +2920,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 112001
     id: 112
     name: モリドー
+    sub_name: モリドー
     type: 1
     code: Morridow
     introduce: パラデウスの「ネイト」の一体。狡猾かつ陰険で、変わり身が早い。蜘蛛のように罠を張り戦う、謎の代弁者。攻撃されるまで、彼女の影を捉えられるものはいない。
@@ -2278,8 +2941,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 113001
     id: 113
     name: エージェント
+    sub_name: エージェント
     type: 3
     code: Plaincloth
     introduce: とある任務でここに来たシュタージ構成員。追跡と生存が彼らの得意分野。生きてこそ価値を生み出せる、彼らはそれをよく分かっているのだろう。
@@ -2295,8 +2960,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 114001
     id: 114
     name: 暴徒
+    sub_name: 暴徒
     type: 3
     code: Mobster
     introduce: 旧市街区にて活動しているレジスタンスメンバー。闇の住人である彼らにとって法律はジョークとさして変わりなく、自身のルールに従って生きている。粗悪な手製の投擲物で、必中の信念を胸に最も近い目標に攻撃を行う。
@@ -2313,8 +2980,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 115001
     id: 115
     name: パニッシュ
+    sub_name: パニッシュ
     type: 3
     code: Punish
     introduce: 強固な盾、もしくはアタッカーを担う近接戦闘ユニット。分厚い盾と突撃武器を手に、戦場を暴れ回る。
@@ -2332,8 +3001,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 116001
     id: 116
     name: ケルビム
+    sub_name: ケルビム
     type: 2
     code: Cherub
     introduce: レーザーでHPの多いユニットに攻撃を行う特化型作戦ユニット。攻撃は単一的だが一点に向けて行われるため、自軍の陣形を貫通する致命的なダメージを与える。
@@ -2351,8 +3022,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 117001
     id: 117
     name: ヴィシュヌ
+    sub_name: ヴィシュヌ
     type: 2
     code: Visjnoe
     introduce: 戦場に設置された戦術マシン。人形を含む機会ユニットにのみ反応する。相手のバフを取り除くと同時に自軍のデバフも取り除く、非常に厄介な支援ユニット。
@@ -2370,8 +3043,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 118001
     id: 118
     name: グラディエータ
+    sub_name: グラディエータ
     type: 3
     code: Roarer_New
     introduce: 近接戦闘を大型の重装ユニット。謎の勢力と関連がある。
@@ -2391,8 +3066,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 119001
     id: 119
     name: パトローラ
+    sub_name: パトローラ
     type: 4
     code: Thunder_New
     introduce: 機体下部に搭載された砲台で攻撃を行う。攻撃を受けた際は跳躍をし回避を行う。謎の勢力と関連がある。
@@ -2412,8 +3089,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 120001
     id: 120
     name: ガンナー
+    sub_name: ガンナー
     type: 3
     code: Soldier_New
     introduce: ストレリツィと非常によく似ているが、より火力の高い武器が搭載されている。特殊な弾薬を用いて、自軍の回避を低下させる。謎の勢力と関連がある。
@@ -2432,8 +3111,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 121001
     id: 121
     name: 花嫁ゾンビ
+    sub_name: 花嫁ゾンビ
     type: 3
     code: Vespid_bride
     introduce: 静寂な洋館の中、華やかなベールに包まれた怨念は、未だに彷徨っている。その美しい外見に惑わされることなかれ、もし手の中の花束を投げつけてきたら、必ず避けるように。
@@ -2451,8 +3132,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 122001
     id: 122
     name: ブルート
+    sub_name: ブルート
     type: 3
     code: Brute_Ghost
     introduce: 静寂な洋館の中、未だに時折鳴き声が響き渡る。曲がり角を曲がる時は、突然の白い光に注意せねばならない――現れたのが幽霊本体だろうと、その刃だろうと、どちらにしろいいことはない。
@@ -2469,8 +3152,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 123001
     id: 123
     name: サメの楽園
+    sub_name: サメの楽園
     type: 2
     code: RecceCentreSwim
     introduce: 密輸の都合上、サメの楽園へとカムフラージュを施された違法兵器、サメバリボーの生産が主な機能。輸送中、その可愛らしいカムフラージュによって子供たちからの人気を博した。
@@ -2484,8 +3169,10 @@
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 124001
     id: 124
     name: サメバリボー
+    sub_name: サメバリボー
     type: 2
     code: PathfinderSwim
     introduce: 密輸の都合上、バレーボールへとカムフラージュを施された違法兵器。カムフラージュの効果があまりに絶大だったため、輸送中に「爆裂式スパイク」が打ち出されるという事故が起きた。
@@ -2504,8 +3191,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 125001
     id: 125
     name: 海上バーテンダー
+    sub_name: 海上バーテンダー
     type: 3
     code: CyclopsSwim
     introduce: 客船専用のサービス用人形。ウエーター、及び警備人形としての機能を兼ね備えており、視認した状況によってモードを変更する。必要に応じて手動での操作も可能。
@@ -2523,8 +3212,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 126001
     id: 126
     name: アーキテクト-NVW型
+    sub_name: アーキテクト-NVW型
     type: 1
     code: BossArchitect_Summer
     introduce: アーキテクトの沿海戦闘特化型、略称をNTW型という。鉄血が放棄したアイデアにIOPが改良を加え作り出された海上戦特化型素体であり、海辺でなくとも、貯蔵している素材を用いて周囲を海辺の環境に作り替え作戦を行う。最適な陣地を建築することも、アーキテクトの名を持つ彼女の任務なのだ。
@@ -2546,8 +3237,10 @@
     org_id: 10603
   }
   {
+    sub_id: 127001
     id: 127
     name: プロのボディガード
+    sub_name: プロのボディガード
     type: 3
     code: guard_katsura
     introduce: 雇い主を護衛する専門家。厳しい訓練を受けおり、決して雇い主を裏切らない。
@@ -2564,8 +3257,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 128001
     id: 128
     name: プロでベテランのボディガード
+    sub_name: プロでベテランのボディガード
     type: 3
     code: guard_bald
     introduce: 雇い主を護衛する専門家。厳しい訓練を受けおり、決して雇い主を裏切らない。プロのボディーガードの中でも特に経験豊富な者たちであり、見た目からでもその強さを伺える。
@@ -2582,8 +3277,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 129001
     id: 129
     name: アスクレピオスの杖
+    sub_name: アスクレピオスの杖
     type: 3
     code: Obelisk_partB
     introduce: マシンガンを使用する重火力型人形。エネルギーをチャージ後、プラズマビームを3回発射する。プラズマビームは一定の回避を無視し、ブラインド状態を付与する。【アケソの皿】と合体後、より強力になる。
@@ -2602,8 +3299,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 130001
     id: 130
     name: アケソの皿
+    sub_name: アケソの皿
     type: 2
     code: Obelisk_partA
     introduce: マシンガンを使用する特殊作戦ユニット。プラズマビームを発射することもできる。プラズマビームは一定の回避を無視し、ブラインド状態を付与する。【アスクレピオスの杖】と合体後、より強力になる。
@@ -2614,15 +3313,17 @@
     rate_rank: 5
     armor_rank: 2
     range_rank: 5
-    counter: 射速が高く、火力は一般的。防御の高いショットガン人形で対処することがおすすめ。
+    counter: 射速が高めで、火力は一般的。十分な防御力を持つショットガンの人形で食い止めるとよい。
     character: "1001,302,320"
     enemy_skill: "129"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 131001
     id: 131
     name: センチネル
+    sub_name: センチネル
     type: 3
     code: Riotguard
     introduce: 高い制圧力を持つ警備用ユニット。複数で行動し、盾と警棒型のスタンガンを使用して敵を制圧する。
@@ -2641,8 +3342,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 132001
     id: 132
     name: マカバイ
+    sub_name: マカバイ
     type: 5
     code: Metalmax
     introduce: 重装甲型近接戦ユニット。ハンマーで軽装ユニットに壊滅的な打撃を与える。
@@ -2661,8 +3364,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 133001
     id: 133
     name: ハンニバル
+    sub_name: ハンニバル
     type: 5
     code: Executioner
     introduce: パラデウスが製造した特殊重装甲型機甲。最新のテクノロジーを導入し、強力な装甲と近接戦武器を搭載している。撃破することが難しく、壊滅的な戦闘力を持つ。
@@ -2681,8 +3386,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 134001
     id: 134
     name: グレネーダー
+    sub_name: グレネーダー
     type: 3
     code: Grenadier
     introduce: 投擲武器を扱う軽装人形。手榴弾で範囲ダメージを与えてくる。
@@ -2701,8 +3408,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 135001
     id: 135
     name: コマンダー
+    sub_name: コマンダー
     type: 5
     code: Mastersergeant
     introduce: 強力な偵察モジュールを搭載した新型の指揮ユニット。部隊に対してより効率的に命令を下すことができるが、自身の戦闘力はそんなに高くない。
@@ -2722,8 +3431,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 136001
     id: 136
     name: マハリアン
+    sub_name: マハリアン
     type: 1
     code: Rogue_M
     introduce: ボーン村の少女。まるで生きているかのように、君の前に立っている。
@@ -2741,8 +3452,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 137001
     id: 137
     name: エレウシスの秘儀
+    sub_name: エレウシスの秘儀
     type: 1
     code: Obelisk
     introduce: 高火力なマシンガンユニット。二連装マシンガンシステムを搭載し、ブラインド状態を付与してくる。取り込んだイアソの箱をプラズマビームに変換し、複数の目標を攻撃することができる。さらに、攻撃の及ぼした範囲を汚染する。
@@ -2761,8 +3474,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 138001
     id: 138
     name: グリク
+    sub_name: グリク
     type: 1
     code: Teal
     introduce: パラデウスのエリートユニット。冷静かつ慎重で、強い判断力と感情を制御する力を持つ。頻繁にグレイと共同作戦をしており、彼女をとても信頼している。ロングソードを用いた潜伏からの暗殺が得意で、敵が油断した一瞬の隙に、目にも留まらぬスピードで致命的な一撃を与える。
@@ -2781,8 +3496,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 139001
     id: 139
     name: ブラメド
+    sub_name: ブラメド
     type: 1
     code: Bramede
     introduce: パラデウスのエリートユニット。極めて魅惑的で、容易く相手の警戒を解き、戦闘状態であってもそれを維持する。人間と人形のメンタルを惑わすのが得意で、電子戦能力が極めた高い。人形のメンタルに侵入すると同時に情報を盗み取り、フリーズさせられる。
@@ -2801,8 +3518,10 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 140001
     id: 140
     name: イントゥルーダー-終幕の魔女
+    sub_name: イントゥルーダー-終幕の魔女
     type: 1
     code: Intruder_Halloween
     introduce: イントゥルーダー-終幕の魔女は、I.O.P.がイントゥルーダーに対し大量のデータ分析と作戦実験を行った後、そのシミュレートデータをもとに作り出された遭遇戦特化型素体。また、感情モジュールにおいて新技術が導入され、より強大な指揮や支援能力を有する一方、少々歪なメンタルを持つようになった。その姿は小規模の戦場で際立つもので、敵軍に恐怖心を植え付け、相手の士気を下げる。
@@ -2823,8 +3542,10 @@
     org_id: 10602
   }
   {
+    sub_id: 141001
     id: 141
     name: CAWS
+    sub_name: CAWS
     type: 3
     code: HKCAWS_XmasEnemy
     introduce: 必要だったプレゼント、全部買ってきたよ。とりあえず119個分にかかったお金、払ってもらってもいいかな？……あとの一つはどうしたかって？それは……私があなたに渡す分だから。
@@ -2836,14 +3557,16 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 能力は非常に優秀。合理的な戦略を立てて活用しよう。
+    counter: 非常に優秀な能力を持つ。合理的な戦略を立てて対応しよう。
     character: "100,441"
     enemy_skill: "141"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 142001
     id: 142
     name: VSK-94
+    sub_name: VSK-94
     type: 3
     code: VSK_XmasEnemy
     introduce: 私はプレゼントを贈りに来ただけですので、言う通りにしてください。緊張する必要はありませんよ……って、余計に緊張しちゃいましたか？すみません、ボス、これは職業病ですね。
@@ -2855,14 +3578,16 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 能力は非常に優秀。合理的な戦略を立てて活用しよう。
+    counter: 非常に優秀な能力を持つ。合理的な戦略を立てて対応しよう。
     character: "100,442"
     enemy_skill: "142"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 143001
     id: 143
     name: P7
+    sub_name: P7
     type: 3
     code: P7_XmasEnemy
     introduce: おやおや、最終的に指揮官もわたしに落とされたね～
@@ -2880,8 +3605,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 144001
     id: 144
     name: FP-6
+    sub_name: FP-6
     type: 3
     code: FP6_XmasEnemy
     introduce: サンタクロースの任務がこんなに大変だとは思わなかったわ……あのおじいさんはあんなに太ってるのにどうやって入ってるのかしら？
@@ -2899,8 +3626,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 145001
     id: 145
     name: 一〇〇式
+    sub_name: 一〇〇式
     type: 3
     code: Type100_XmasEnemy
     introduce: よいしょ……ふぅ、ようやく掘り出せました……ん？これは……わぁ！やったー！最高のプレゼントです！
@@ -2918,11 +3647,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 146001
     id: 146
     name: Px4ストーム
+    sub_name: Px4ストーム
     type: 1
     code: Px4Storm_XmasBoss
-    introduce: クリスマスセールのためにクリスマスは存在してるって言っても過言ではないよね。だって、割引された値段だけがわたしの幸福を倍にしてくれるんだもの～
+    introduce: クリスマスセールこそクリスマスの存在意義である。割り引いた値段の分だけ、幸せになれるのさ！
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2937,8 +3668,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 147001
     id: 147
     name: デストロイヤー-浮掠麋影
+    sub_name: デストロイヤー-浮掠麋影
     type: 1
     code: Destroyer_Christmas
     introduce: デストロイヤー-浮掠麋影、雪原での作戦向けに開発された特化型。寒冷環境下においても、高速移動および精確な打撃を行うことができ、武器の火力や爆撃の威力も強化された。デストロイヤー本人の強い要望で、外見のデザインはトナカイを参照し、さらにクリスマスツリーのアクセサリーなどを弾薬の装飾に使った。これで敵に甘い死を届けることができるだろう。
@@ -2959,8 +3692,10 @@
     org_id: 10603
   }
   {
+    sub_id: 148001
     id: 148
     name: ネイト パトローラー
+    sub_name: ネイト パトローラー
     type: 3
     code: Nyto_Black_SMG
     introduce: アヴェルヌスで量産されたエリートネイト。サブマシンガンを両手に持ち、日常の巡回任務を満足できる高い機動力と火力を持っている。
@@ -2978,8 +3713,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 149001
     id: 149
     name: ネイト ハンマー
+    sub_name: ネイト ハンマー
     type: 5
     code: Nyto_Black_Hammer
     introduce: アヴェルヌスで量産されたエリートネイト。ハンマーを武器として使い、特殊な改造により、目まい効果を帯びる攻撃を仕掛けてくる。同時に、本体の防御力もさらに強化されている。
@@ -2998,8 +3735,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 150001
     id: 150
     name: ネイト ホークアイ
+    sub_name: ネイト ホークアイ
     type: 3
     code: Nyto_Black_RF
     introduce: アヴェルヌスで量産された狙撃特化型エリートネイト。スナイパーライフルを武器として使い、超遠距離から目標の弱点を狙い撃つ。
@@ -3017,8 +3756,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 151001
     id: 151
     name: ネイト アシスト
+    sub_name: ネイト アシスト
     type: 3
     code: Nyto_White_Commander
     introduce: アヴェルヌスで量産されたエリートネイト。戦術タブレットでサポートを行い、部隊全体の戦闘力を高めてくる。
@@ -3036,8 +3777,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 152001
     id: 152
     name: ガルム
+    sub_name: ガルム
     type: 2
     code: Cerberus_White
     introduce: アヴェルヌスで量産された最新型のロボット犬。高い機動力と鋭利な牙と爪を持っている。
@@ -3055,8 +3798,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 153001
     id: 153
     name: 北国のエリートエージェント
+    sub_name: 北国のエリートエージェント
     type: 3
     code: USSR_Agent
     introduce: 寒い北の地から来たエリートエージェント。万に一人の手練れであり、その豊富な実戦経験から凶悪な手口でも躊躇なく使う。
@@ -3073,8 +3818,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 154001
     id: 154
     name: モリドー
+    sub_name: モリドー
     type: 1
     code: morridow_boss
     introduce: パラデウスの精鋭。狡猾にして獰猛であり、いくつもの顔と身分を使い分ける。その実績のためか、貴重な改造のチャンスを与えられ、パラデウスの最新技術で造られた素体を手に入れた。戦闘力は大幅に上昇しており、トラップ制作のスキルも向上している。ただ、いつの間にか、そのバーチャルモデルに変化が起きていたようだ……
@@ -3092,8 +3839,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 155001
     id: 155
     name: ネムラン
+    sub_name: ネムラン
     type: 1
     code: Nimeylan
     introduce: パラデウスの精鋭。冷静沈着で冷酷無情。パラデウスの中では替えがきかない存在である。短距離ながらも飛行能力を有しており、電子戦にも長けている。その手にかかった敵は、果てしない苦痛の中で絶望し、無力に死んでいくしかない。
@@ -3111,8 +3860,31 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 155002
+    id: 155
+    name: ネムラン
+    sub_name: ネムラン-強化型
+    type: 1
+    code: Nimeylan
+    introduce: パラデウスの精鋭。冷静沈着で冷酷無情。パラデウスの中では替えがきかない存在である。短距離ながらも飛行能力を有しており、電子戦にも長けている。その手にかかった敵は、果てしない苦痛の中で絶望し、無力に死んでいくしかない。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: このユニットは光玉を生成し味方に大ダメージを与えてくる。注意せよ。
+    character: "1001"
+    enemy_skill: "161,162,163,164"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 156001
     id: 156
     name: RPK-16
+    sub_name: RPK-16
     type: 1
     code: RPK16_Nyto
     introduce: パラデウスの技術により、素体の改造を受けたRPK-16。まだ未完成の状態とはいえ、火力はすでに大幅に強化されている。パラデウスのスキルも一部使用できるようだが、メンタルに対する影響は未知数のようだ。
@@ -3131,8 +3903,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 157001
     id: 157
     name: ハンター-裳夜の蛾
+    sub_name: ハンター-裳夜の蛾
     type: 1
     code: Hunter_WhiteDay
     introduce: ハンター-裳夜の蛾、潜行暗殺に特化したタイプ。服装は鱗翅目昆虫の鱗粉を模倣し、反射する色を調整することで、環境に溶け込めるようになっている。普段はハンターの好みで、ヤグルマギクに近い青色に設定されている。この色にはある種の幻惑効果があるらしく、作戦中、急に青色の花びらが舞いおりる景色を目にしたのであれば、君はすでにハンターの罠にかかってしまったということだ。
@@ -3154,8 +3928,10 @@
     org_id: 10602
   }
   {
+    sub_id: 158001
     id: 158
     name: お菓子のダイナーゲート
+    sub_name: お菓子のダイナーゲート
     type: 2
     code: Dinergate_WhiteDay
     introduce: ペルシカに改造された生産ラインから生まれたお菓子のダイナーゲート。お菓子が主なエネルギー源となっており、甘いものなら何でも容赦なく奪おうとする――こいつ自身も相当甘いから、虫歯に気をつけろよ。
@@ -3171,8 +3947,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 159001
     id: 159
     name: 黒チョコのカロリー爆弾
+    sub_name: 黒チョコのカロリー爆弾
     type: 2
     code: Dinergate_WhiteDay1
     introduce: とてもいい香りがする巨大なチョコレートボール。ナッツと黒チョコの光沢が実に美味しそうに見える――でも爆発するから、食べてはいけない。
@@ -3188,8 +3966,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 160001
     id: 160
     name: 白チョコのカロリー爆弾
+    sub_name: 白チョコのカロリー爆弾
     type: 2
     code: Dinergate_WhiteDay2
     introduce: とてもいい香りがする巨大なチョコレートボール。ナッツと白チョコの光沢が実に美味しそうに見える――でも爆発するから、食べてはいけない。
@@ -3205,8 +3985,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 161001
     id: 161
     name: トリュフチョコのカロリー爆弾
+    sub_name: トリュフチョコのカロリー爆弾
     type: 2
     code: Dinergate_WhiteDay3
     introduce: とてもいい香りがする巨大なチョコレートボール。滑らかな表面にキャラメルがきれいな線を引き、口に入れる瞬間きっとありとあらゆる味蕾を征服するであろう――でも爆発するから、食べてはいけない。
@@ -3222,8 +4004,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 162001
     id: 162
     name: お菓子のケルベロス
+    sub_name: お菓子のケルベロス
     type: 1
     code: Cerberus_WhiteDay
     introduce: 過ちを犯し、再びかつての「悪夢」に陥ったデストロイヤー。かすれゆく意識の中で、「チョコレート」に対する執着だけが残っている――でも犬にチョコはダメだろ？
@@ -3242,8 +4026,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 163001
     id: 163
     name: 巡回する愚者
+    sub_name: 巡回する愚者
     type: 3
     code: Roarer_swimsuit
     introduce: 頭が回らないライカンの先住民。特に得意なことがないため、体を張って禁猟区を守る仕事をしている。
@@ -3262,8 +4048,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 164001
     id: 164
     name: 漁の預言者
+    sub_name: 漁の預言者
     type: 3
     code: Rodelero_swimsuit
     introduce: ライカンの先住民たちに「預言者」と崇められている謎の少女。水陸両用の水鉄砲が、彼女の頼れる狩りの道具らしい。
@@ -3282,8 +4070,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 165001
     id: 165
     name: ライカンの流離人
+    sub_name: ライカンの流離人
     type: 3
     code: StreletPlus_swimsuit
     introduce: いつもライカン禁猟区の海辺で彷徨っている。武器は改造されたサーフボードのようだ。
@@ -3301,8 +4091,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 166001
     id: 166
     name: アリーナ-海竜騎兵
+    sub_name: アリーナ-海竜騎兵
     type: 1
     code: Nyto_White_Summer
     introduce: アリーナ-海竜騎兵、海浜戦闘に特化したタイプ。水中戦に向かない金属義肢の代わりに、より軽くてパワフルな新型の義肢を取り入れた。服装も水中戦向きのものを選び、武器はアリーナ本人の要望で、白亜紀の水中生物をモチーフにした新型の鎌を使用している。純白な死神は海に潜り、あらゆる命の魂と肉体の繋がりを断ち切る。まるで、深海の海獣のごとく。
@@ -3324,8 +4116,10 @@
     org_id: 10603
   }
   {
+    sub_id: 167001
     id: 167
     name: ロシアン・マフィア
+    sub_name: ロシアン・マフィア
     type: 3
     code: RussianGangster_HG
     introduce: ボール・フ・ザコーネにしか従わない極悪非道な連中で構成されている。目的を達成するためには、いかなる残忍な手段も使う。
@@ -3342,8 +4136,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 168001
     id: 168
     name: リュカオン
+    sub_name: リュカオン
     type: 4
     code: AA02_Mini
     introduce: 歩兵用の軽量機甲。高性能な伝動装置が採用されており、複雑な地形にも対応できる。2基の大口径機銃が搭載されており、歩兵に対して高い殺傷力を持つ。
@@ -3362,8 +4158,10 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 169001
     id: 169
     name: アイギス
+    sub_name: アイギス
     type: 4
     code: Chariot_Military
     introduce: 対空対地両用の自走ミサイルランチャー。四連装のスティンガーミサイルが搭載されており、敵航空機及び車両に打撃を与えることができる。
@@ -3383,8 +4181,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 170001
     id: 170
     name: キュクロープス_MG
+    sub_name: キュクロープス_MG
     type: 3
     code: Cyclops_MG
     introduce: 軍の作戦支援人形。高射速のガトリングガンが搭載されており、強力な火力で敵を制圧できる。
@@ -3403,8 +4203,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 171001
     id: 171
     name: ケリュネティスSWAP
+    sub_name: ケリュネティスSWAP
     type: 4
     code: Cerynitis_SWAP
     introduce: 軍の標準作戦機甲「ケリュネティス」の改良型。最新の遠距離打撃システムが搭載されており、爆発反応装甲と連射性能も向上している。
@@ -3422,8 +4224,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 172001
     id: 172
     name: イージス_GA_SWAP
+    sub_name: イージス_GA_SWAP
     type: 5
     code: Aegis_GA_SWAP
     introduce: 軍の標準作戦機甲「イージス」の改良型。爆発反応装甲シールドが搭載されており、近接戦闘能力及び戦線突破能力が向上している。
@@ -3441,8 +4245,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 173001
     id: 173
     name: ミズ・イヴ
+    sub_name: ミズ・イヴ
     type: 1
     code: Nyto_mecha
     introduce: パラデウスのエリート。タレウス自身の能力は非常に平凡だが、機甲操縦においては比類なき才能を有している。自身に残った僅かな記憶を頼りに、自身と最も同調率が高い機甲に「ミズ・イヴ」という名を付けている。普段はあくまで一般人を装っているが、一度でもメンタル空間に入れば、「ミズ・イヴ」ですべてを破壊し尽くす……
@@ -3462,8 +4268,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 174001
     id: 174
     name: マザー・リューバ
+    sub_name: マザー・リューバ
     type: 1
     code: Oldlady_boss
     introduce: ロシアン・マフィアたちのボス。年を取っているにも関わらず、自ら戦うことが好き。高速車椅子を駆って機敏に動き回り、愛用の二丁ショットガンで敵の肉体と財布を精確に滅ぼす。
@@ -3480,8 +4288,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 175001
     id: 175
     name: エクスキューショナー-ブラッドハンター
+    sub_name: エクスキューショナー-ブラッドハンター
     type: 1
     code: Excutioner_Halloween
     introduce: 追撃戦特化型の素体に乗り換えたエクスキューショナー。本人の要望により、巨大な義手と可変式高温大鎌が搭載されている。戦闘中は稲を刈り取るように敵を薙ぎ倒し、極めて高い破壊力を持つ。ダークカラーの衣装も隠蔽に長け、背後から敵の命を狙う。かの夢に帰る者を見たか？夜に現れ、死に隠れる。そのすべては、悪夢に堕ちた狂気を刈り取るために。
@@ -3503,8 +4313,10 @@
     org_id: 10604
   }
   {
+    sub_id: 176001
     id: 176
     name: タレウス
+    sub_name: タレウス
     type: 1
     code: Nyto_tareus
     introduce: タレウス、機甲操縦特化型のネイト。機甲「ミズ・イヴ」と非常に高い同調率を有しており、その高い火力で敵に壊滅的な打撃を与える。記憶の洗浄と改変を繰り返し受けてきたため、メンタルは弱く、感情も不安定。たまに人間だった頃の記憶を思い出すも、プログラムによってすぐに消される。
@@ -3527,8 +4339,10 @@
     org_id: 10603
   }
   {
+    sub_id: 177001
     id: 177
     name: お化け掃除ロボ
+    sub_name: お化け掃除ロボ
     type: 4
     code: Pumpkin_Dactyl
     introduce: 本来はまともに動かない古い掃除ロボだったが、変なかぼちゃを被ったらあらゆる障害物を押し退ける力を得たようだ。
@@ -3539,15 +4353,17 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
-    counter: 一定の装甲を持ち、速い速度で移動する。戦闘開始後は地雷を設置し、味方が地雷と接触した場合は大ダメージを受ける。地雷を回避するか、早期決着を狙いたい。
+    counter: 少しの装甲を持ち、移動速度が速め。戦闘開始直後から地雷を設置し、味方の人形がそれに触れると大きなダメージを受ける。地雷を避けるか、早い段階で処理しよう。
     character: "1001,309,322"
     enemy_skill: "19"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 178001
     id: 178
     name: スーパー掃除マン
+    sub_name: スーパー掃除マン
     type: 5
     code: Mop_Aegis
     introduce: 自慢のパワーですべての汚れを綺麗に掃除するが、あまりにも動きが激しいため、部屋中に埃が飛び散るようになる……すまんが、これ以上の清掃は追加料金が必要だ。
@@ -3566,8 +4382,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 179001
     id: 179
     name: 鬼のコック
+    sub_name: 鬼のコック
     type: 3
     code: Chief_Cyclops
     introduce: 本日の料理は9割引きだ――調味料が全部ワサビであることさえ気にしなければ。
@@ -3586,8 +4404,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 180001
     id: 180
     name: エリアナ
+    sub_name: エリアナ
     type: 1
     code: spSCARL
     introduce: 元「曙光小隊」の隊長であり、「タグ」システムの執行役でもある。どの指揮官にとっても、彼女は最も信頼できる部下ではあるが、アマリス自身からして、自分はとっくにその名誉に相応しい存在ではなくなった。
@@ -3603,8 +4423,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 181001
     id: 181
     name: スケアクロウ-来る年のナイトメア
+    sub_name: スケアクロウ-来る年のナイトメア
     type: 1
     code: Scarecrow_SpringFes
     introduce: スケアクロウの火力強化型。新型の浮遊砲台により、本来のスケアクロウと比べて火力が格段に上がっている。指揮ポートも強化されており、以前よりも浮遊砲台を自由に制御できるようになった。服装のデザインは、一年の終わりに人々や村を襲う伝説の妖怪に由来している。その目は夜の闇を見通し、その爪はあらゆる障害を切り裂く……まさに、今のスケアクロウのようだ。
@@ -3626,8 +4448,10 @@
     org_id: 10604
   }
   {
+    sub_id: 182001
     id: 182
     name: クラスター従者
+    sub_name: クラスター従者
     type: 1
     code: Scarecrow
     introduce: 情報の収集と分析が得意で、正面きっての戦闘は苦手。鉄血人形の中での地位は低め。理性派で、無口かつ毒舌。職務を忠実に遂行し、感性というものを見下す。感情豊かで服従しか知らないグリフィン人形に優越感を抱いている。
@@ -3646,8 +4470,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 183001
     id: 183
     name: 加重騎士
+    sub_name: 加重騎士
     type: 1
     code: BossGager
     introduce: 主に指揮作戦と人員調整を担当。戦闘人形を直接指揮でき、またなかなかの戦闘能力も持つ。地位は比較的高く、エージェントに次ぐ高い指揮権限を有している。真面目で厳しく、妥協を許さない。言動から凜とした切れ者の気質がうかがえる。敵に対してもポリシーを持ち、礼節を欠かさない。
@@ -3666,8 +4492,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 184001
     id: 184
     name: 極値ぬいぐるみ
+    sub_name: 極値ぬいぐるみ
     type: 1
     code: BossArchitect
     introduce: 遠距離破壊と火力支援に長け、戦闘能力は高い。通常は単独行動を好む。活発で明るく能天気な少女で、いつでもハイテンション。グリフィンに対しても特に敵対意識がない。鉄血の命令には最小限のみ従うが、爆破と破壊には異様に熱中するため、敵からはかなり危険視されている。
@@ -3687,8 +4515,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 185001
     id: 185
     name: ガウス指揮
+    sub_name: ガウス指揮
     type: 1
     code: Agent
     introduce: エリザと鉄血の連絡任務を担当。戦闘人形はその命令に直接従う。地位は極めて高く、戦闘も指揮も得意。すべての戦闘人形を指揮できる。冷静沈着で、決して羽目を外すことはない。敵にも味方にも敬語を使う。しかし実際は、主人には忠実であるが他人を見下しており、特にグリフィンのことをバカにしている。
@@ -3707,8 +4537,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 186001
     id: 186
     name: 離散測量士
+    sub_name: 離散測量士
     type: 1
     code: Excutioner
     introduce: エリートの斥候に相当する。スケアクロウよりやや地位が高く、よくコンビを組んでいる。衝動的で大雑把な女傑。正々堂々とした戦いを好み、弱い者いじめを嫌う。
@@ -3728,8 +4560,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 187001
     id: 187
     name: 分散牧童
+    sub_name: 分散牧童
     type: 1
     code: Destroyer
     introduce: 爆破任務が得意で、爆弾処理も専門家レベル。戦闘能力も高く、アルケミストとコンビを組むことも。普段は高慢で毒舌だが実はツンデレ。少し子供っぽく、焦るとべそをかく。自分の身長をかなり気にしている。
@@ -3748,8 +4582,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 188001
     id: 188
     name: 尤度近衛
+    sub_name: 尤度近衛
     type: 1
     code: Weaver
     introduce: 短距離の突破または防御作戦が得意で、知能と戦闘能力が高い。胡蝶事件の後に作られた人形だが、試験的な製造であるため、AIが極めて不安定で制御しにくい。表面的には物静かだが、内心は傲慢。強い武力と知性を兼ね備えるが、実戦経験が少ない。不可解な行動をとるため、敵も味方も動きが読めず、危険度は極めて高い。
@@ -3769,8 +4605,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 189001
     id: 189
     name: カオスシンガー
+    sub_name: カオスシンガー
     type: 1
     code: Dreamer
     introduce: 遠隔での戦闘能力に重点を置き、超遠距離から狙った場所を攻撃する能力を備える。エリザが直接指揮を執る。胡蝶事件の後で作られた人形。自身の能力により正面攻撃する必要がないため、普段は鉄血本部にいて、ジャッジをからかって遊んでいる。優雅な微笑みの中に、傲慢さと捉えどころのなさがうかがえる。精神状態は極めて不安定で、常に自己中心的。戦闘では狂気的かつ制御不能な一面を見せる。また、恐るべき破壊力を持ち、仲間の安否さえ考えない。通常は戦場に現れないのが幸いである。
@@ -3789,8 +4627,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 190001
     id: 190
     name: 事後紡績工
+    sub_name: 事後紡績工
     type: 1
     code: Hunter
     introduce: 機動性と知能は比較的高く、妨害と追撃作戦が得意。だがスケアクロウとエクスキューショナーの協力がなければ実力を最大限発揮できない。冷静沈着で、あらゆる手段を用いて敵を袋小路に追い込み生け捕りにする。グリフィンをかなり見下しているが、卑劣すぎる手段を取ることは潔しとしない。
@@ -3810,8 +4650,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 191001
     id: 191
     name: シフト祭祀
+    sub_name: シフト祭祀
     type: 1
     code: Alchemist
     introduce: 各種戦術ニーズに対応するマルチアタッカーで、尋問と拷問が得意。鉄血の戦闘エリートで、デストロイヤーとコンビを組むことも。うぬぼれ屋で尊大かつ残忍、目的達成のためなら手段を選ばない。Ｓっ気があり、グリフィンを欲望を満たすためのおもちゃと考えている。しかし精神的には大人で、鉄血の仲間のために力を尽くしてくれる。
@@ -3830,8 +4672,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 192001
     id: 192
     name: 変動修道士
+    sub_name: 変動修道士
     type: 1
     code: Intruder
     introduce: 戦闘策略の提供を担当。また暗号解読と妨害任務も得意で、戦闘人形を直接指揮できる比較的優れた人材。ゲーガーへの直接管理権を持つ。上品で穏やかな言動の背後に、大きな虚無を感じさせる。人類の演劇が好きで、自分自身を投影しているようだ。
@@ -3850,8 +4694,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 193001
     id: 193
     name: 収斂愚者
+    sub_name: 収斂愚者
     type: 1
     code: Justice
     introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
@@ -3871,11 +4717,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 194001
     id: 194
     name: 来る年のナイトメア
+    sub_name: 来る年のナイトメア
     type: 1
     code: Scarecrow_SpringFes
-    introduce: スケアクロウの火力強化型。新型の浮遊砲台により、本来のスケアクロウと比べて火力が格段に上がっている。指揮ポートも強化されており、以前よりも浮遊砲台を自由に制御できるようになった。服装のデザインは、一年の終わりに人々や村を襲う伝説の妖怪に由来している。その目は夜の闇を見破り、その爪はあらゆる障害を切り裂く……まさに、今のスケアクロウのようだ。
+    introduce: スケアクロウの火力強化型。新型の浮遊砲台により、本来のスケアクロウと比べて火力が格段に上がっている。指揮ポートも強化されており、以前よりも浮遊砲台を自由に制御できるようになった。服装のデザインは、一年の終わりに人々や村を襲う伝説の妖怪に由来している。その目は夜の闇を見通し、その爪はあらゆる障害を切り裂く……まさに、今のスケアクロウのようだ。
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3891,109 +4739,10 @@
     spine_scale: "70,70,1"
   }
   {
-    id: 195
-    name: スケアクロウ
-    type: 1
-    code: Scarecrow
-    introduce: 情報の収集と分析が得意で、正面きっての戦闘は苦手。鉄血人形の中での地位は低め。理性派で、無口かつ毒舌。職務を忠実に遂行し、感性というものを見下す。感情豊かで服従しか知らないグリフィン人形に優越感を抱いている。
-    forces: 1
-    pow_rank: 5
-    life_rank: 4
-    hit_rank: 4
-    dodge_rank: 4
-    rate_rank: 4
-    speed_rank: 4
-    range_rank: 3
-    counter: 灰域で彷徨っている敵、注意して対処せよ！
-    character: "1001,306,307"
-    enemy_skill: "184,185,186"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "70,70,1"
-  }
-  {
-    id: 196
-    name: アーキテクト
-    type: 1
-    code: BossArchitect
-    introduce: 遠距離破壊と火力支援に長け、戦闘能力は高い。通常は単独行動を好む。活発で明るく能天気な少女で、いつでもハイテンション。グリフィンに対しても特に敵対意識がない。鉄血の命令には最小限のみ従うが、爆破と破壊には異様に熱中するため、敵からはかなり危険視されている。
-    forces: 1
-    pow_rank: 6
-    life_rank: 5
-    hit_rank: 4
-    dodge_rank: 3
-    rate_rank: 3
-    speed_rank: 3
-    range_rank: 5
-    counter: 灰域で彷徨っている敵、注意して対処せよ！
-    character: "1001,319"
-    enemy_skill: "187,188,189"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "85,85,1"
-  }
-  {
-    id: 197
-    name: イントゥルーダー
-    type: 1
-    code: Intruder
-    introduce: 戦闘策略の提供を担当。また暗号解読と妨害任務も得意で、戦闘人形を直接指揮できる比較的優れた人材。ゲーガーへの直接管理権を持つ。上品で穏やかな言動の背後に、大きな虚無を感じさせる。人類の演劇が好きで、自分自身を投影しているようだ。
-    forces: 1
-    pow_rank: 4
-    life_rank: 4
-    hit_rank: 3
-    dodge_rank: 4
-    rate_rank: 5
-    speed_rank: 3
-    range_rank: 3
-    counter: 灰域で彷徨っている敵、注意して対処せよ！
-    character: "1001,306"
-    enemy_skill: "190,191,192"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "85,85,1"
-  }
-  {
-    id: 198
-    name: デストロイヤー
-    type: 1
-    code: DestroyerPlus
-    introduce: 爆破任務が得意で、爆弾処理も専門家レベル。戦闘能力も高く、アルケミストとコンビを組むことも。普段は高慢で毒舌だが実はツンデレ。少し子供っぽく、焦るとべそをかく。自分の身長をかなり気にしている。
-    forces: 1
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 4
-    dodge_rank: 3
-    rate_rank: 3
-    speed_rank: 4
-    range_rank: 5
-    counter: 灰域で彷徨っている敵、注意して対処せよ！
-    character: "1001,319"
-    enemy_skill: "193,194,195"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "85,85,1"
-  }
-  {
-    id: 199
-    name: ジャッジ
-    type: 1
-    code: Justice
-    introduce: 指揮能力に偏り、鉄血本部の防護と安全システムを担当する。エリザの侍衛を務め、彼女の命令しか聞かない。胡蝶事件の後に作られた人形で、一日中ドリーマーといるのが苦痛。厳格で頑固、軍人の威厳と風格にあふれている。エリザに絶対的な忠誠を誓う。しかし背が低いため迫力に欠け、このことを指摘した者は敵味方関係なくひどい目に遭う。
-    forces: 1
-    pow_rank: 5
-    life_rank: 6
-    hit_rank: 4
-    dodge_rank: 4
-    rate_rank: 4
-    armor_rank: 3
-    speed_rank: 4
-    range_rank: 5
-    counter: 灰域で彷徨っている敵、注意して対処せよ！
-    character: "1001,309,307"
-    enemy_skill: "196,197,198"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "70,70,1"
-  }
-  {
+    sub_id: 200001
     id: 200
     name: アラクネ
+    sub_name: アラクネ
     type: 2
     code: MechanicalSpiderM
     introduce: 蜘蛛型の戦闘ロボの母機。高い安定性と機動性を有しており、同時に大量の小型戦闘ロボを搭載している。あらゆる戦闘において恐ろしい敵となる。
@@ -4006,16 +4755,18 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
+    tenacity_rank: 3
     counter: 重装甲ユニット。複製体を操って戦う。本体の防御力が高く、部隊全体の作戦能力を上げて対応しよう。
     character: "1001,1005,302,309,321"
     enemy_skill: "199,200,201"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
-    tenacity_rank: 3
   }
   {
+    sub_id: 201001
     id: 201
     name: アラクネ複製体
+    sub_name: アラクネ複製体
     type: 2
     code: MechanicalSpiderS
     introduce: 蜘蛛型の小型戦闘ロボ。機動性は非常に高く、攻撃力も高い。どんな相手に対しても有効にダメージを与えることができ、群れで行動するため、非常に厄介な相手である。
@@ -4035,8 +4786,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 202001
     id: 202
     name: トロイ
+    sub_name: トロイ
     type: 4
     code: Fortress
     introduce: 要塞級の超大型戦闘ロボ。陸上部隊を搭載することも可能。戦略兵器レベルの破壊力を有しており、戦局を左右できる戦闘ユニット。
@@ -4049,16 +4802,18 @@
     armor_rank: 6
     speed_rank: 3
     range_rank: 3
+    tenacity_rank: 5
     counter: 非常に高い防御力と範囲攻撃能力を有している。最優先で倒すことがおすすめ。
     character: "1001,1005,302,309,319,313"
     enemy_skill: "203,204,205"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
-    tenacity_rank: 5
   }
   {
+    sub_id: 203001
     id: 203
     name: エンジニア
+    sub_name: エンジニア
     type: 3
     code: Engineer
     introduce: 支援用工兵人形ユニット。自身の戦闘力は低いが、支援ユニットとしては非常に厄介な存在である。ドローンでいつも戦場の状況を俯瞰している。
@@ -4077,8 +4832,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 204001
     id: 204
     name: ラドン
+    sub_name: ラドン
     type: 4
     code: Mecha_N
     introduce: パラデウス製の最新の大型重機甲ユニット。あらゆる作戦に適しており、いかなる場合においても無類の破壊力を発揮する。非常に恐ろしい敵である。
@@ -4098,8 +4855,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 205001
     id: 205
     name: アーティレリィ
+    sub_name: アーティレリィ
     type: 3
     code: Artillery
     introduce: ガンナーの発展型ユニット。火力と装甲がさらに向上したが、代わりに移動速度が落ちている。
@@ -4118,12 +4877,15 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 206001
     id: 206
     name: サナ
+    sub_name: サナ
     type: 1
     code: Nyto_mecha2
     introduce: パラデウスのエリートユニット。見た目はただのか弱い少女だが、一度仮面を被り、専用機に搭乗すれば、瞬く間に恐ろしい相手と化す。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 6
     hit_rank: 5
@@ -4139,8 +4901,34 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 206002
+    id: 206
+    name: サナ
+    sub_name: サナ-強化型
+    type: 1
+    code: Nyto_mecha2
+    introduce: パラデウスのエリートユニット。見た目はただのか弱い少女だが、一度仮面を被り、専用機に搭乗すれば、瞬く間に恐ろしい相手と化す。
+    forces: 3
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 6
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 7
+    counter: 非常に強いジャミング能力を持っている。注意して対処せよ。
+    character: "1001,216"
+    enemy_skill: "211,212,213,214,215,216"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",天海由梨奈,"
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 207001
     id: 207
     name: ガングラティ
+    sub_name: ガングラティ
     type: 1
     code: Pamzan_Final
     introduce: パラデウス所属の謎の殺し屋。人間の肉体と機械の継ぎ接ぎで出来た不気味な存在。使用されている技術は、他のパラデウスとどこか違うようだ。
@@ -4153,16 +4941,18 @@
     armor_rank: 2
     speed_rank: 4
     range_rank: 3
+    tenacity_rank: 5
     counter: 一撃必殺の能力を有している。注意して対処せよ。
     character: "1001"
     enemy_skill: "217,218,219,220"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
-    tenacity_rank: 5
   }
   {
+    sub_id: 208001
     id: 208
     name: M4A1ダミー
+    sub_name: M4A1ダミー
     type: 3
     code: M4A1_enemy
     introduce: M4A1のダミー。本体のような優柔不断さはなく、完璧に命令に従う。
@@ -4179,8 +4969,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 209001
     id: 209
     name: AR-15ダミー
+    sub_name: AR-15ダミー
     type: 3
     code: AR15_enemy
     introduce: AR-15のダミー。嫌味を言わないところ以外、本体とほとんど同じ。
@@ -4197,8 +4989,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 210001
     id: 210
     name: SOPIIダミー
+    sub_name: SOPIIダミー
     type: 3
     code: M4 SOPMOD II_enemy
     introduce: SOPIIのダミー。本体とほぼ同じように行動する。敵はその笑い声を聞いただけで逃げ出す。
@@ -4215,8 +5009,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 211001
     id: 211
     name: M16A1
+    sub_name: M16A1
     type: 3
     code: M16A1Griffin
     introduce: 特別な使命と権限を与えられたM16A1。重要な分岐点に立つ度に、AR小隊を正しい道へと導いてくれる。
@@ -4233,8 +5029,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 212001
     id: 212
     name: 警備団の戦闘員
+    sub_name: 警備団の戦闘員
     type: 3
     code: USSR_Agent
     introduce: ベスラン警備団の武装戦闘員。狂信的な者たちで構成されており、戦闘訓練も受けている。銃などの武器を扱うことができ、警備団の武力の中枢を担っている。
@@ -4250,8 +5048,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 213001
     id: 213
     name: 弱ったアスクレピオスの杖
+    sub_name: 弱ったアスクレピオスの杖
     type: 3
     code: Obelisk_partB
     introduce: マシンガンを使用する重火力型人形。エネルギーをチャージ後、プラズマビームを3回発射する。プラズマビームは一定の回避を無視し、ブラインド状態を付与する。【アケソの皿】と合体後、より強力になる。今は弱っているため、火力が大幅に低下している。
@@ -4270,56 +5070,13 @@
     spine_scale: "100,100,1"
   }
   {
-    id: 214
-    name: サナ
-    type: 1
-    code: Nyto_mecha2
-    introduce: サナ、機甲操縦特化型人形。特別なカスタマイズを施され、負担なく重機甲を操ることができる。長時間の戦闘が可能な上に高い火力も合わさって、相手にとっては極めて脅威的な存在。他のパラデウスと違い、サナの記憶はすべて「サナ」という名の人間の少女から受け継いでいる。「サナ」として期待されていることに常に違和感を覚えている彼女は、もしかしたら、いつかはその仮面を外し、本当の自分になれる日を望んでいるかも知れない……
-    forces: 3
-    if_capture: 1
-    pow_rank: 5
-    life_rank: 6
-    hit_rank: 5
-    dodge_rank: 6
-    rate_rank: 4
-    speed_rank: 6
-    range_rank: 7
-    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
-    character: "1001,216"
-    enemy_skill: "211,212,213,214,215,216"
-    launch_time: 2035-5-20 00:00:00
-    extra: ",天海由梨奈,"
-    spine_scale: "70,70,1"
-    org_id: 10604
-  }
-  {
-    id: 215
-    name: ナルシス
-    type: 1
-    code: BossNarciss
-    introduce: ナルシス、戦闘特化型ネイト。複数枚のホバーブレードを駆使して、敵を徹底的に叩き潰すパラデウスの精鋭。戦闘能力を可能な限り引き上げるために、パラデウスはナルシスの精神的負担を度外視して、最強の素体と武器を装着させた。絶大な強さを誇る素体であるが故に圧しかかってくる精神的・肉体的ストレスは大きく、負荷に苛まれた彼女はやがて冷酷非情な殺戮マシンと化した。もし、彼女をただの武器としてではなく、普通の人形として扱うことができれば、いつかナルシスは心の平穏を取り戻せるかもしれない。
-    forces: 3
-    if_capture: 1
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: ナルシスには、近距離モードと遠距離モードの二つの戦闘パターンが存在する。7本のホバーブレードをすべて撃破すれば、ナルシスは遠距離モードから近距離モードに切り替わる。近距離モード中のナルシスは、Link数の低いユニットに大ダメージを与える。
-    character: "1001,329,330"
-    enemy_skill: "108,109,110"
-    launch_time: 2035-5-20 00:00:00
-    extra: ",菅沼千紗,"
-    org_id: 10603
-  }
-  {
+    sub_id: 217001
     id: 217
     name: ST AR-15
+    sub_name: ST AR-15
     type: 3
     code: AR15Mod_enemy
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4334,11 +5091,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 218001
     id: 218
     name: A-545
+    sub_name: A-545
     type: 3
     code: A545_NPC
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4353,11 +5112,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 219001
     id: 219
     name: PPSh-41
+    sub_name: PPSh-41
     type: 3
     code: PPsh41Enemy
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4372,11 +5133,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 220001
     id: 220
     name: AK-47
+    sub_name: AK-47
     type: 3
     code: AK47_enemy
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4390,11 +5153,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 221001
     id: 221
     name: スコーピオン
+    sub_name: スコーピオン
     type: 3
     code: VZ61Enemy
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4408,11 +5173,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 222001
     id: 222
     name: MAC-10
+    sub_name: MAC-10
     type: 3
     code: MAC10Enemy
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4426,8 +5193,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 223001
     id: 223
     name: スレイヤー・異性体
+    sub_name: スレイヤー・異性体
     type: 3
     code: Nyto_Isomer_F
     introduce: 忘れられた存在。ただその刃で、敵を切り裂くのみ。
@@ -4445,8 +5214,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 224001
     id: 224
     name: カオス・異性体
+    sub_name: カオス・異性体
     type: 3
     code: Nyto_Isomer_N
     introduce: 忘れられた存在。ただ自分の前に立ちはだかるすべてを滅ぼすのみ。
@@ -4464,8 +5235,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 225001
     id: 225
     name: ポーラースター・異性体
+    sub_name: ポーラースター・異性体
     type: 3
     code: Nyto_Isomer_S
     introduce: 忘れられた存在。ただ目標をセンターに入れて、撃つ。
@@ -4483,8 +5256,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 226001
     id: 226
     name: Dr.48
+    sub_name: Dr.48
     type: 3
     code: Mk48_10304_enemy
     introduce: フォックス・ソロリティ医療部門所属の人形。主に恋愛脳の治療を担当している。
@@ -4501,8 +5276,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 227001
     id: 227
     name: Dr.フェドロフ
+    sub_name: Dr.フェドロフ
     type: 3
     code: Fedorov_10305_enemy
     introduce: フォックス・ソロリティ医療部門所属の人形。主に鎮静剤の投与を担当している。
@@ -4519,8 +5296,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 228001
     id: 228
     name: Dr.90
+    sub_name: Dr.90
     type: 3
     code: PP90_10306_enemy
     introduce: フォックス・ソロリティ医療部門所属の人形。主に医師と患者のトラブル仲裁を担当している。
@@ -4537,8 +5316,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 229001
     id: 229
     name: Dr.TPS
+    sub_name: Dr.TPS
     type: 3
     code: TPS_10301_enemy
     introduce: フォックス・ソロリティ医療部門所属の人形。主に患者とゲームすることを担当している。
@@ -4555,8 +5336,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 230001
     id: 230
     name: ダミー・520
+    sub_name: ダミー・520
     type: 3
     code: Stevens520_enemy
     introduce: とある時期のStevens520のデータをもとに製作されたダミー。使用者の評価によると、本体ほど優雅ではないらしい。
@@ -4573,8 +5356,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 231001
     id: 231
     name: ダミー・620
+    sub_name: ダミー・620
     type: 3
     code: Stevens620_enemy
     introduce: とある時期のStevens620のデータをもとに製作されたダミー。使用者の評価によると、本体と同じぐらい嫌なやつらしい。
@@ -4591,8 +5376,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 232001
     id: 232
     name: ダミー・エルマ
+    sub_name: ダミー・エルマ
     type: 3
     code: Erma_enemy
     introduce: とある時期のエルマのデータをもとに製作されたダミー。使用者の評価によると、本体よりも強いらしい。
@@ -4609,8 +5396,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 100001001
     id: 100001
     name: ゲベンヌ
+    sub_name: ゲベンヌ
     type: 1
     code: Gebbennu
     introduce: 謎に包まれた超大型複合式戦闘ユニット。火力が極めて高いこと以外、すべてが謎。
@@ -4628,11 +5417,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100011001
     id: 100011
     name: シールド
+    sub_name: シールド
     type: 3
     code: DivMauler
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4646,8 +5437,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100012001
     id: 100012
     name: フミゲイター
+    sub_name: フミゲイター
     type: 3
     code: DivGrenadier
     introduce: 予想外のエネミー
@@ -4664,8 +5457,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100013001
     id: 100013
     name: スイーパー
+    sub_name: スイーパー
     type: 3
     code: DivSweeper
     introduce: 予想外のエネミー
@@ -4682,8 +5477,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100014001
     id: 100014
     name: ランナー
+    sub_name: ランナー
     type: 3
     code: DivRunner
     introduce: 予想外のエネミー
@@ -4700,8 +5497,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100015001
     id: 100015
     name: ガード
+    sub_name: ガード
     type: 3
     code: DivGuard
     introduce: 予想外のエネミー
@@ -4718,8 +5517,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100016001
     id: 100016
     name: エンフォーサー
+    sub_name: エンフォーサー
     type: 3
     code: DivExecutor
     introduce: 予想外のエネミー
@@ -4736,8 +5537,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100017001
     id: 100017
     name: ライフルマン
+    sub_name: ライフルマン
     type: 3
     code: DivRifleman
     introduce: 予想外のエネミー
@@ -4754,8 +5557,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100018001
     id: 100018
     name: スカウト
+    sub_name: スカウト
     type: 3
     code: DivScout
     introduce: 予想外のエネミー
@@ -4772,8 +5577,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100019001
     id: 100019
     name: エンジニア
+    sub_name: エンジニア
     type: 3
     code: DivEngineer
     introduce: 予想外のエネミー
@@ -4790,8 +5597,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100020001
     id: 100020
     name: ローグエージェント
+    sub_name: ローグエージェント
     type: 3
     code: DivTraitor
     introduce: 予想外のエネミー
@@ -4808,8 +5617,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100021001
     id: 100021
     name: エージェント47
+    sub_name: エージェント47
     type: 1
     code: AK47_enemy
     introduce: 予想外のエネミー
@@ -4826,8 +5637,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100022001
     id: 100022
     name: インシネレーター:ロバート
+    sub_name: インシネレーター:ロバート
     type: 1
     code: DivBurn
     introduce: 街中を彷徨うクリーナーズの構成員。汚染された物を全て焼き払うことで街を救えると信じている。一度目を付けた目標は決して逃さず、焼き尽くすまで追い続ける。
@@ -4844,8 +5657,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100023001
     id: 100023
     name: ファング
+    sub_name: ファング
     type: 1
     code: HK416Boss
     introduce: 416と同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。LMBを指揮できる能力を持っていること以外、すべてが謎だ。
@@ -4862,8 +5677,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100024001
     id: 100024
     name: ヘルファイア
+    sub_name: ヘルファイア
     type: 1
     code: VectorBoss
     introduce: Vectorと同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。クリーナーズを指揮できる能力を持っていること以外、すべてが謎だ。
@@ -4880,8 +5697,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100025001
     id: 100025
     name: ファング
+    sub_name: ファング
     type: 1
     code: HK416Boss
     introduce: 416と同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。LMBを指揮できる能力を持っていること以外、すべてが謎だ。
@@ -4898,8 +5717,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100026001
     id: 100026
     name: ヘルファイア
+    sub_name: ヘルファイア
     type: 1
     code: VectorBoss
     introduce: Vectorと同じ姿をしているが、どうやら『ディビジョン』の世界にしか存在しないAIらしい。クリーナーズを指揮できる能力を持っていること以外、すべてが謎だ。
@@ -4916,8 +5737,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100027001
     id: 100027
     name: Vector
+    sub_name: Vector
     type: 1
     code: Vector_enemy
     introduce: 予想外のエネミー
@@ -4934,11 +5757,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100028001
     id: 100028
     name: 魔導黒騎士
+    sub_name: 魔導黒騎士
     type: 3
     code: Dropkick_MeleeDevil
-    introduce: 予想外のエネミー。
+    introduce: 予想外のエネミー
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4952,8 +5777,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100029001
     id: 100029
     name: 魔導ビースト
+    sub_name: 魔導ビースト
     type: 3
     code: Dropkick_RemoteDevil
     introduce: 予想外のエネミー
@@ -4970,8 +5797,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100030001
     id: 100030
     name: 氷の精
+    sub_name: 氷の精
     type: 3
     code: Dropkick_IceGhost
     introduce: 予想外のエネミー
@@ -4988,8 +5817,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100031001
     id: 100031
     name: 単眼ちゃん
+    sub_name: 単眼ちゃん
     type: 3
     code: Dropkick_CyclopsChan
     introduce: 予想外のエネミー
@@ -5006,8 +5837,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100032001
     id: 100032
     name: 豆まきの鬼
+    sub_name: 豆まきの鬼
     type: 3
     code: Dropkick_BeansEmissary
     introduce: 予想外のエネミー
@@ -5024,8 +5857,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100033001
     id: 100033
     name: ベート
+    sub_name: ベート
     type: 3
     code: Dropkick_Beth
     introduce: 予想外のエネミー
@@ -5042,8 +5877,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100034001
     id: 100034
     name: 偽ゆりね
+    sub_name: 偽ゆりね
     type: 1
     code: Dropkick_YurineBoss
     introduce: 予想外のエネミー
@@ -5060,8 +5897,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100035001
     id: 100035
     name: 怒ったミノス
+    sub_name: 怒ったミノス
     type: 1
     code: Dropkick_MinosBoss
     introduce: 予想外のエネミー
@@ -5078,8 +5917,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100036001
     id: 100036
     name: 海辺のスイカ
+    sub_name: 海辺のスイカ
     type: 2
     code: Pathfinder_Small
     introduce: ただのスイカだ。
@@ -5096,8 +5937,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100037001
     id: 100037
     name: 浴場の刺客
+    sub_name: 浴場の刺客
     type: 3
     code: Bathhouse_guest_2
     introduce: 浴場に入り浸っている謎の連中。凶暴な性格ながら、なぜか手先が器用。他人が風呂に入っている時に突然にアーティスティックスイミングを披露するため、誰もこんな奴らと浴場で遭遇したくない。
@@ -5115,8 +5958,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100038001
     id: 100038
     name: 浴場の刺客
+    sub_name: 浴場の刺客
     type: 3
     code: Bathhouse_guest_1
     introduce: 浴場に入り浸っている謎の連中。凶暴な性格ながら、なぜか手先が器用。他人が風呂に入っている時に突然にアーティスティックスイミングを披露するため、誰もこんな奴らと浴場で遭遇したくない。
@@ -5134,8 +5979,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100039001
     id: 100039
     name: ワイルドホイール
+    sub_name: ワイルドホイール
     type: 4
     code: Tyre_enemy
     introduce: 自我を持つ謎の車輪。突然街に現れては暴れ散らかす……まさに生きる都市伝説だ。
@@ -5153,8 +6000,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100040001
     id: 100040
     name: バーサーカートラック
+    sub_name: バーサーカートラック
     type: 4
     code: Truck_enemy
     introduce: 謎の軽トラ。どこからどう見ても交通法違反だが、未だに各地を超スピードで走り回っている。しかも特に、静かな住民エリアを走るのが好きなようだ。
@@ -5172,8 +6021,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100041001
     id: 100041
     name: バブルマシーン
+    sub_name: バブルマシーン
     type: 4
     code: Bubble_machine
     introduce: 揺らめく泡沫を製造するための小型工場。移動速度が遅く、自身に戦闘能力は備わっていない。そのせいか、よく子供やその親に追い回されている。
@@ -5191,8 +6042,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100042001
     id: 100042
     name: 揺らめく泡沫
+    sub_name: 揺らめく泡沫
     type: 2
     code: Bubble
     introduce: 見た目は完全にシャボン玉。淡い石鹸の香りと、儚い光を放っている。浴場に潜伏する斥候でもあり、ひっそり敵に近づいてすぐパッと消える。
@@ -5210,8 +6063,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100043001
     id: 100043
     name: ロメロ
+    sub_name: ロメロ
     type: 2
     code: saga_dog_enemy
     introduce: 正体不明のゾンビィ犬。スルメイカが大好きで、いつも洋館とフランシュシュを守ってくれている。見た目はただの子犬だが、いざとなるとすべて薙ぎ倒す狂犬へと変身できる。
@@ -5229,8 +6084,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100044001
     id: 100044
     name: 灰のシンガー
+    sub_name: 灰のシンガー
     type: 3
     code: HK21_SagaEnemy
     introduce: ナイトカフェのメンバーの一人。いつも「お姉さま」と叫びながら走ってくる。もし正しい返事ができなかったら、多分彼女から何かの罰を受けることになる。
@@ -5248,8 +6105,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100045001
     id: 100045
     name: 緑のシンガー
+    sub_name: 緑のシンガー
     type: 3
     code: JS-127_SagaEnemy
     introduce: ナイトカフェのメンバーの一人。いつも「前髪の角度」と叫びながら走ってくる。もし正しい返事ができなかったら、多分彼女から何かの罰を受けることになる。
@@ -5267,8 +6126,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100046001
     id: 100046
     name: 赤のシンガー
+    sub_name: 赤のシンガー
     type: 3
     code: PM06_SagaEnemy
     introduce: ナイトカフェのメンバーの一人。いつも「赤！」と叫びながら走ってくる。もし正しい返事ができなかったら、多分彼女から何かの罰を受けることになる。
@@ -5286,8 +6147,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100047001
     id: 100047
     name: 自由のボーカル
+    sub_name: 自由のボーカル
     type: 3
     code: MG5_SagaEnemy
     introduce: グレーツリーのボーカル、バンドの中では一番厳つい見た目をしているが、実はとんでもない平和主義者。しょっちゅうバンドメンバーたちの起こした様々なトラブルを解決しに行っている。
@@ -5305,8 +6168,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100048001
     id: 100048
     name: 熱烈のギター
+    sub_name: 熱烈のギター
     type: 3
     code: M1887_SagaEnemy
     introduce: グレーツリーのギターリスト。いつも赤いヘアカラーと燃焼剤を持ち歩いている。炎のような色が好きで、テンションが上がってきたら自分で爆炎を作ることもある。
@@ -5324,8 +6189,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100049001
     id: 100049
     name: 影のドラム
+    sub_name: 影のドラム
     type: 3
     code: 80type_SagaEnemy
     introduce: グレーツリーのドラマー。目では追いきれないようなスピードで演奏する。ドローンを駆使して派手な演出効果を作るのも得意だが、時々ドローンを観客席に落とすこともある。
@@ -5343,8 +6210,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100050001
     id: 100050
     name: グラサンのベース
+    sub_name: グラサンのベース
     type: 3
     code: M1897_SagaEnemy
     introduce: グレーツリーのベーシスト。いつもサングラスをかけているせいで、果たして起きているのか、それとも寝ているのかも分からない。そして手に持っているのはベースなのか、それとも箒なのかも分からない。
@@ -5362,8 +6231,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100051001
     id: 100051
     name: 謎のキーボード
+    sub_name: 謎のキーボード
     type: 3
     code: G11_SagaEnemy
     introduce: グレーツリーのキーボディスト。ライブの時だけ現れ、それ以外では全く姿を見せない。バンドの仕事以外にも、何か謎の任務をこなしているようだ。
@@ -5381,8 +6252,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100052001
     id: 100052
     name: 都会に囚われし者
+    sub_name: 都会に囚われし者
     type: 3
     code: FacelessMenA
     introduce: 繰り返す仕事の中で表情を失い、終わりなき残業の中で心をなくした、怒りに満ちた傀儡。
@@ -5399,8 +6272,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100053001
     id: 100053
     name: 都会に囚われし者
+    sub_name: 都会に囚われし者
     type: 3
     code: FacelessMenB
     introduce: 繰り返す仕事の中で表情を失い、終わりなき残業の中で心をなくした、怒りに満ちた傀儡。
@@ -5417,8 +6292,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100054001
     id: 100054
     name: SPSのダミー
+    sub_name: SPSのダミー
     type: 3
     code: SPS_NPC
     introduce: このセルジュコフは敬語を使わない。
@@ -5435,8 +6312,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100055001
     id: 100055
     name: KSVKのダミー
+    sub_name: KSVKのダミー
     type: 3
     code: KSVK_NPC
     introduce: このKSVKは中二病ではない。
@@ -5453,8 +6332,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100056001
     id: 100056
     name: A-545のダミー
+    sub_name: A-545のダミー
     type: 3
     code: A545_NPC
     introduce: このA-545はウォッカを飲まない。
@@ -5471,8 +6352,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100057001
     id: 100057
     name: 江崎プリン
+    sub_name: 江崎プリン
     type: 1
     code: EzakiBoss
     introduce: 怒りに満ちた江崎プリン。こいつに捕まえられたらおしまいだ。それと、このプリンはプリンを食べない。
@@ -5490,8 +6373,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100058001
     id: 100058
     name: シマムラタカシ
+    sub_name: シマムラタカシ
     type: 1
     code: TakashiBoss
     introduce: いつも黒衣を身に纏っている寡黙な少年。夜に隠れて暗躍する。
@@ -5509,8 +6394,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100059001
     id: 100059
     name: ミズカネスズカ
+    sub_name: ミズカネスズカ
     type: 1
     code: MizukinnBoss
     introduce: その恐ろしさはRPGやマシンガンにあると思われがちだが、真の恐怖は、彼女が武器を下して初めて知ることになる。
@@ -5528,8 +6415,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100082001
     id: 100082
     name: ブルートSWAP
+    sub_name: ブルートSWAP
     type: 3
     code: Brute_SWAP
     introduce: 「ブルート」をベースに性能を大幅に向上した。戦闘でより一層の活躍を期待できる。
@@ -5545,11 +6434,12 @@
     character: "1003,303,315"
     enemy_skill: "54,55"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40100082
   }
   {
+    sub_id: 100083001
     id: 100083
     name: ニーマムSWAP
+    sub_name: ニーマムSWAP
     type: 4
     code: Nemeum_SWAP2
     introduce: 「ニーマム」をベースに性能を大幅に向上した。戦闘でより一層の活躍を期待できる。
@@ -5565,6 +6455,5 @@
     character: "1003,309,307"
     enemy_skill: "56"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40100083
   }
 ]
