@@ -265,6 +265,18 @@
     decorate_code: Logo_Events
   }
   {
+    id: 24
+    name: 迷宮の果て勲章
+    order: 76
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "133,134,135,136,137,138,139,140,141,142,143,144"
+    item_id: 123
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「偏極光」のランキングステージ「迷宮の守衛+」にて、全力を尽くしたことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
     id: 25
     name: 域外局地戦区開拓者勲章
     order: 75

@@ -39453,6 +39453,111 @@
     rotate: "3"
   }
   {
+    id: 38801
+    name: ネクロビューティ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: パイソンのポスター。
+    code: poster_Halloween2023_Python
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38802
+    name: 紅月のナイトウォーカー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: NZ75のポスター。
+    code: poster_Halloween2023_NZ75
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38803
+    name: 透視（自画像）
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: スターリングのポスター。
+    code: poster_Halloween2023_Sterling
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38804
+    name: お菓子いっぱい貰えたらいいな！
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 一〇〇式のポスター。
+    code: poster_Halloween2023_Type100
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38805
+    name: 魔女の薬好評発売中
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: スチェッキンのポスター。
+    code: poster_Halloween2023_APS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38806
+    name: 魔法使いがイメージする世界
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 四式のポスター。
+    code: poster_Halloween2023_4type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38807
+    name: カラスが泣く頃に
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Micro Uziのポスター。
+    code: poster_Halloween2023_MicroUZI
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38901
     name: レッキスのフルーツティー
     classes: 300
@@ -44024,6 +44129,21 @@
     decompose_gift: 100003
     description: M99のポスター。
     code: poster_BattlePass_M99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330020
+    name: お片付け円舞曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1897のポスター。
+    code: poster_BattlePass_M1897
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

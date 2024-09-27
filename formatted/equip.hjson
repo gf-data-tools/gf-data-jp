@@ -11023,6 +11023,41 @@
     obtain_ids: "3003"
   }
   {
+    id: 347
+    name: 改良型mk87アサルトシールド
+    description:
+      '''
+      移動速度+<speed>
+      防御+<armor>スキル強化$M1887専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "1,1"
+    armor: "3,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: 人形_特殊_M1887
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "151"
+    equip_introduction: M1887のシールドを元に、I.O.P.が様々な新技術を使用して改良を施したアサルトシールド。防弾性能を引き上げたと同時に、軽量化にも成功した。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:700
+    passive_skill: "759155"
+    max_level: 10
+    auto_select_id: 20058
+    is_show: 1
+    obtain_ids: "3086"
+    description_skill: 759155
+  }
+  {
     id: 348
     name: 特製10mmオート弾
     description:

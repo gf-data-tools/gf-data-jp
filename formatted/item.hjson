@@ -720,6 +720,15 @@
     rank: 1
   }
   {
+    id: 123
+    type: 3
+    arg: "24"
+    code: Medal_2020winter_re_rank
+    item_name: 迷宮の果て勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「偏極光」のランキングステージ「迷宮の守衛+」にて、全力を尽くしたことを表彰する。「たとえ絶望がすべてを呑み込んだとしても、あなたならきっと、その中で希望を見いだせる」
+    rank: 1
+  }
+  {
     id: 124
     type: 3
     arg: "25"
@@ -12702,6 +12711,8 @@
     type: 5
     arg: "1"
     code: profilePic_rank4_M1919A4Mod
+    item_name: M1919A4メンタルアップグレードアイコン
+    introduction: M1919A4メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -12709,6 +12720,8 @@
     type: 5
     arg: "1"
     code: profilePic_rank5_K5Mod
+    item_name: K5メンタルアップグレードアイコン
+    introduction: K5メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -12725,6 +12738,8 @@
     type: 5
     arg: "1"
     code: profilePic_rank6_DP12Mod
+    item_name: DP-12メンタルアップグレードアイコン
+    introduction: DP-12メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -13574,6 +13589,69 @@
     rank: 1
   }
   {
+    id: 2375
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_Python
+    item_name: ネクロビューティ
+    introduction: ネクロビューティ
+    rank: 1
+  }
+  {
+    id: 2376
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_NZ75
+    item_name: 紅月のナイトウォーカー
+    introduction: 紅月のナイトウォーカー
+    rank: 1
+  }
+  {
+    id: 2377
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_Sterling
+    item_name: 透視（自画像）
+    introduction: 透視（自画像）
+    rank: 1
+  }
+  {
+    id: 2378
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_Type100
+    item_name: お菓子いっぱい貰えたらいいな！
+    introduction: お菓子いっぱい貰えたらいいな！
+    rank: 1
+  }
+  {
+    id: 2379
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_APS
+    item_name: 魔女の薬好評発売中
+    introduction: 魔女の薬好評発売中
+    rank: 1
+  }
+  {
+    id: 2380
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_4type
+    item_name: 魔法使いがイメージする世界
+    introduction: 魔法使いがイメージする世界
+    rank: 1
+  }
+  {
+    id: 2381
+    type: 5
+    arg: "1"
+    code: profilePic_Halloween2023_MicroUZI
+    item_name: カラスが泣く頃に
+    introduction: カラスが泣く頃に
+    rank: 1
+  }
+  {
     id: 2382
     type: 5
     arg: "1"
@@ -13705,6 +13783,7 @@
     arg: "1"
     code: profilePic_friendmall_NTW20
     item_name: NTW-20アイコン
+    introduction: NTW-20アイコン
     rank: 1
   }
   {
@@ -13713,6 +13792,7 @@
     arg: "1"
     code: card_friendmall_NTW20
     item_name: IDカード背景：巻狩りの宴
+    introduction: IDカード背景：巻狩りの宴
     rank: 1
   }
   {
@@ -14013,6 +14093,24 @@
     rank: 1
   }
   {
+    id: 2452
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_M110
+    item_name: M110アイコン
+    introduction: M110アイコン
+    rank: 1
+  }
+  {
+    id: 2453
+    type: 5
+    arg: "1"
+    code: card_friendmall_M110
+    item_name: IDカード背景：ドリームベイカー
+    introduction: IDカード背景：ドリームベイカー
+    rank: 1
+  }
+  {
     id: 2454
     type: 5
     arg: "1"
@@ -14235,6 +14333,24 @@
     code: cg_Anniversary2024
     item_name: 基地背景：全機、戦闘配置！
     introduction: 全機、直ちに戦闘配置！敵に最後のレクイエムを贈れ！
+    rank: 1
+  }
+  {
+    id: 2520
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1897
+    item_name: お片付け円舞曲
+    introduction: お片付け円舞曲
+    rank: 1
+  }
+  {
+    id: 2521
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1897
+    item_name: IDカード背景：迷乱の間奏
+    introduction: IDカード背景：迷乱の間奏
     rank: 1
   }
   {
@@ -19526,6 +19642,26 @@
     detail_introduction: item-30140038
   }
   {
+    id: 140039
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140039
+    introduction: item-20140039
+    rank: 1
+    detail_introduction: item-30140039
+  }
+  {
+    id: 140040
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140040
+    introduction: item-20140040
+    rank: 1
+    detail_introduction: item-30140040
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19681,6 +19817,8 @@
     type: 5
     arg: "1"
     code: profileFrame_2023NewYear_JP
+    item_name: アイコンフレーム：松とみかんと福
+    introduction: アイコンフレーム：松とみかんと福
     rank: 1
   }
   {
@@ -19882,6 +20020,15 @@
     rank: 1
   }
   {
+    id: 200041
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_M110
+    item_name: アイコンフレーム：甘餅の童話
+    introduction: アイコンフレーム：甘餅の童話
+    rank: 1
+  }
+  {
     id: 200042
     type: 1
     arg: "1"
@@ -19906,6 +20053,15 @@
     code: profileFrame_BattlePass_M99
     item_name: アイコンフレーム：七色の楽
     introduction: アイコンフレーム：七色の楽
+    rank: 1
+  }
+  {
+    id: 200045
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1897
+    item_name: アイコンフレーム：無疵な交響
+    introduction: アイコンフレーム：無疵な交響
     rank: 1
   }
   {
@@ -21597,6 +21753,50 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 前線協定-妙趣リハーサルで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500138
+    type: 15
+    arg: "1500138"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-夢の季節のメロディーで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500139
+    type: 15
+    arg: "1500139"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-夢の季節のメロディーで獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500140
+    type: 15
+    arg: "1500140"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-夢の季節のメロディーで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500141
+    type: 15
+    arg: "1500141"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-夢の季節のメロディーで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
     type_sort: 1
