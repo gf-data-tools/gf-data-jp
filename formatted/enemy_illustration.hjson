@@ -5070,6 +5070,30 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 216001
+    id: 216
+    name: ドリーマー-霧月の翼手
+    sub_name: ドリーマー-霧月の翼手
+    type: 1
+    code: Dreamer_Halloween
+    introduce: ドリーマー-霧月の翼手、夜戦環境に特化したモデル。ビームガンの長距離射撃改造を施しより遠い位置からでも敵を狙えるようになった。またドリーマー本人の好みでカスタマイズした悪魔の角は、戦闘時に強力なジャミング信号を発することができ、敵はまるで混沌とした霧の中に迷い込んだように混乱する。とにかく、夜に彼女と出くわさないようにしておくことだ――夜というホームグランドの中で、彼女の手から逃れられる獲物など一匹もいない。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
+    character: "1001,209"
+    enemy_skill: "70,97"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",奥野香耶,"
+    org_id: 10604
+  }
+  {
     sub_id: 217001
     id: 217
     name: ST AR-15

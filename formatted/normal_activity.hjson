@@ -332,4 +332,16 @@
     event_prize_level: 10003
     rank_id: "303"
   }
+  {
+    id: 30
+    campaign_id: -42
+    tag: C.E.|2021
+    order: 101
+    name: 季節イベントⅡ
+    chapter_name: 繭中の蝶
+    bg_code: active_Halloween2020
+    bg_config: "#000000C7,#3D415166,#E64801FF,#FFFFFFFF"
+    desc: ベント期間：2021.10.8-10.29
+    scene_name: Halloween2020logo
+  }
 ]
