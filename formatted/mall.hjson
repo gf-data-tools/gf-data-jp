@@ -10384,6 +10384,138 @@
     classification_id: 1007
   }
   {
+    id: 11824
+    type: 9
+    item_ids: 1238-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: IDカード背景：脅迫
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11825
+    type: 9
+    item_ids: 1260-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: IDカード背景：イースターの警告
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11826
+    type: 9
+    item_ids: 1304-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: IDカード背景：ピッパの歌
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11827
+    type: 9
+    item_ids: 1357-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: アイコン：兵蟻くれないといたずらしちゃうぞ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11828
+    type: 9
+    item_ids: 1385-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: アイコン：キャンディケーン
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11829
+    type: 9
+    item_ids: 1386-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: アイコン：戦術トナカイ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11830
+    type: 9
+    item_ids: 10604-1
+    gemprice: 2000
+    quota: 2001
+    giftbag_name: 超伝導パルス
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11831
+    type: 9
+    gift: 100003-1
+    gemprice: 150
+    quota: 2003
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11832
+    type: 9
+    gift: 100002-1
+    gemprice: 60
+    quota: 2003
+    giftbag_name: アイスクリーム
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11833
+    type: 9
+    gift: 100001-1
+    gemprice: 30
+    quota: 2003
+    giftbag_name: ロリポップ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
     id: 11835
     type: 8
     gift: 10307-1
@@ -10705,6 +10837,294 @@
     prize_id: 1573
     pay_type: 1
     itemprice: 100215-1
+    classification_id: 1006
+  }
+  {
+    id: 12000
+    type: 8
+    gift: 10507-1
+    quota: 2001
+    giftbag_name: M1895-生きる怪盗の歴史
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-150
+    classification_id: 1007
+  }
+  {
+    id: 12001
+    type: 8
+    quota: 2001
+    giftbag_name: Gd DSR-50専用：夜のマント
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2432
+    pay_type: 1
+    itemprice: 100224-60
+    classification_id: 1007
+  }
+  {
+    id: 12002
+    type: 8
+    item_ids: 2510-1
+    quota: 2001
+    giftbag_name: アイコン：覚醒の鍵
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-20
+    classification_id: 1007
+  }
+  {
+    id: 12003
+    type: 8
+    item_ids: 2511-1
+    quota: 2001
+    giftbag_name: アイコン：孤鴻掠影
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-20
+    classification_id: 1007
+  }
+  {
+    id: 12004
+    type: 8
+    item_ids: 2512-1
+    quota: 2001
+    giftbag_name: アイコン：群梟の首
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-20
+    classification_id: 1007
+  }
+  {
+    id: 12005
+    type: 8
+    item_ids: 2513-1
+    quota: 2001
+    giftbag_name: IDカード背景：ロストルート
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-40
+    classification_id: 1007
+  }
+  {
+    id: 12006
+    type: 8
+    item_ids: 2514-1
+    quota: 2001
+    giftbag_name: IDカード背景：倒錯する時
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-40
+    classification_id: 1007
+  }
+  {
+    id: 12007
+    type: 8
+    item_ids: 2515-1
+    quota: 2001
+    giftbag_name: IDカード背景：異端の時計塔
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-40
+    classification_id: 1007
+  }
+  {
+    id: 12008
+    type: 8
+    quota: 2001
+    giftbag_name: 家具：予言が導く場所
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2433
+    pay_type: 1
+    itemprice: 100224-50
+    classification_id: 1007
+  }
+  {
+    id: 12009
+    type: 8
+    item_ids: 41-1
+    quota: 2100
+    giftbag_name: コイン
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-3
+    classification_id: 1007
+  }
+  {
+    id: 12010
+    type: 8
+    gift: 200001-1
+    quota: 2050
+    giftbag_name: 作戦報告書
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-2
+    classification_id: 1007
+  }
+  {
+    id: 12011
+    type: 8
+    item_ids: 46-1
+    quota: 2050
+    giftbag_name: 特種作戦報告書
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-2
+    classification_id: 1007
+  }
+  {
+    id: 12012
+    type: 8
+    gift: 100003-1
+    quota: 2050
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100224-2
+    classification_id: 1007
+  }
+  {
+    id: 12013
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：Gd DSR-50
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 40079
+    pay_type: 1
+    itemprice: 100223-500
+    classification_id: 1008
+  }
+  {
+    id: 12014
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：P2000
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2434
+    pay_type: 1
+    itemprice: 100223-500
+    classification_id: 1008
+  }
+  {
+    id: 12015
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：Saiga 308
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 1547
+    pay_type: 1
+    itemprice: 100222-400
+    classification_id: 1008
+  }
+  {
+    id: 12016
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：CMR-30
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 1546
+    pay_type: 1
+    itemprice: 100222-400
+    classification_id: 1008
+  }
+  {
+    id: 12017
+    type: 8
+    gift: 100003-1
+    quota: 2200
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100222-5
+    classification_id: 1008
+  }
+  {
+    id: 12018
+    type: 8
+    gift: 100003-1
+    quota: 2200
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100223-5
+    classification_id: 1008
+  }
+  {
+    id: 12019
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：M16A1
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2435
+    pay_type: 1
+    itemprice: 100225-1
+    classification_id: 1006
+  }
+  {
+    id: 12020
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：M4A1
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2436
+    pay_type: 1
+    itemprice: 100225-1
+    classification_id: 1006
+  }
+  {
+    id: 12021
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：M4 SOPMOD II
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2437
+    pay_type: 1
+    itemprice: 100225-1
+    classification_id: 1006
+  }
+  {
+    id: 12022
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：ST AR-15
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2438
+    pay_type: 1
+    itemprice: 100225-1
+    classification_id: 1006
+  }
+  {
+    id: 12023
+    type: 8
+    quota: 2001
+    giftbag_name: 戦術人形：RO635
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2439
+    pay_type: 1
+    itemprice: 100225-1
     classification_id: 1006
   }
   {
@@ -39122,6 +39542,173 @@
     giftbag_name: 融合勢力専用補給パック
     event_code: dailyGiftbag
     icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32151
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 10503-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(SIG MCX)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin08
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 32152
+    type: 8
+    item_ids: 1-10,3-10
+    mp: 10000
+    ammo: 10000
+    mre: 10000
+    part: 10000
+    gemprice: 330
+    quota: 2010
+    giftbag_name: 資源お買い得補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_black
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32153
+    type: 8
+    gemprice: 398
+    quota: 2001
+    giftbag_name: メンタルアップグレードお買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_update
+    daily_quota: 5
+    discount: 1
+    prize_id: 330135
+    classification_id: 3002
+  }
+  {
+    id: 32154
+    type: 8
+    item_ids: 51-2,506-1000
+    gemprice: 398
+    quota: 2001
+    giftbag_name: メンタル強化補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_muromets03
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32155
+    type: 8
+    item_ids: 9500014-1
+    gemprice: 600
+    quota: 2002
+    giftbag_name: 星4人形支援要請書
+    event_code: dailyGiftbag
+    icon: Bumdle_invocation_3
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32156
+    type: 8
+    item_ids: 9500015-1
+    gemprice: 1560
+    quota: 2002
+    giftbag_name: 星5人形支援要請書
+    event_code: dailyGiftbag
+    icon: Bumdle_invocation_2
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32157
+    type: 8
+    item_ids: 605-10,1500154-1,506-1000
+    gift: 100003-100
+    gemprice: 2800
+    quota: 2001
+    giftbag_name: 22のジレンマ融合勢力補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_cash2
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32158
+    type: 8
+    item_ids: 50-300,1500155-1,44-150
+    gemprice: 300
+    quota: 2010
+    giftbag_name: 22のジレンマ装備育成補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_cashwhite
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32159
+    type: 8
+    gemprice: 800
+    quota: 2010
+    giftbag_name: 22のジレンマ統合強化補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_cashblue
+    discount: 1
+    prize_id: 2591
+    classification_id: 3002
+  }
+  {
+    id: 32160
+    type: 8
+    item_ids: 8-5,514-750,515-2600,516-1500
+    gift: 400001-1100,100003-100
+    gemprice: 700
+    quota: 2003
+    giftbag_name: 22のジレンマ協定統合補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_cashgold
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32161
+    type: 8
+    gemprice: 950
+    quota: 2002
+    giftbag_name: 22のジレンマメンタル強化補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_cashblack
+    discount: 1
+    prize_id: 2592
+    classification_id: 3002
+  }
+  {
+    id: 32162
+    type: 8
+    item_ids: 8-1,41-100,506-1000
+    gift: 100003-10
+    gemprice: 580
+    quota: 2002
+    giftbag_name: 11月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_aki2
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32163
+    type: 8
+    item_ids: 506-100,516-200,605-1
+    gemprice: 158
+    quota: 2001
+    giftbag_name: 11月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_purple
+    daily_quota: 1
     discount: 1
     classification_id: 3002
   }

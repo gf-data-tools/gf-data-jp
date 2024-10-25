@@ -6099,146 +6099,151 @@
     id: 1165901
     type: 1407
     arguments: 690101:1
-    extra_language: mission_win_type_config-11165901
+    extra_language: スケアクロウ本体を撃破する
   }
   {
     id: 1166201
     type: 1407
     arguments: 690311:3
-    extra_language: mission_win_type_config-11166201
+    extra_language:
+      '''
+      同じターンの中で、暗号化制御パネルを3つハッキングする。
+      注意：ハッキングされた制御パネルは1ターン後再び暗号化される。
+      '''
   }
   {
     id: 1166301
     type: 1303
     arguments: 690501:1
-    extra_language: mission_win_type_config-11166301
   }
   {
     id: 1166302
     type: 1407
     arguments: 690511:1
-    extra_language: mission_win_type_config-11166302
+    extra_language: AR小隊と人形小隊を合流させる。
   }
   {
     id: 1166401
     type: 1303
     arguments: 690601:1
-    extra_language: mission_win_type_config-11166401
   }
   {
     id: 1166501
     type: 1402
     arguments: "5"
-    extra_language: mission_win_type_config-11166501
+    extra_language:
+      '''
+      5ターン目まで持ちこたえる。
+      注意：本ステージにおけるエリザは極めて強力で、毎ターンの移動回数が+1されています。交戦をできる限り避けましょう。
+      '''
   }
   {
     id: 1166502
     type: 1406
     arguments: 690711:0
-    extra_language: mission_win_type_config-11166502
+    extra_language: 作戦中、手分けして行動しない。
   }
   {
     id: 1166503
     type: 1407
     arguments: 690792:1
-    extra_language: mission_win_type_config-11166503
+    extra_language: AR小隊が撃破された場合、任務は失敗。
   }
   {
     id: 1166601
     type: 1303
     arguments: 690801:1
-    extra_language: mission_win_type_config-11166601
+    extra_language:
+      '''
+      ラプラスの悪魔を撃破する。
+      注意：ラプラスの悪魔はシールドを有しており、交戦する部隊にEMP効果を与えます。シールドは累計3回EMP攻撃を受けると消えます。
+      '''
   }
   {
     id: 1166701
     type: 1303
     arguments: 690901:1
-    extra_language: mission_win_type_config-11166701
+    extra_language:
+      '''
+      ラプラスの悪魔を撃破する。
+      注意：ラプラスの悪魔はシールドを有しており、交戦する部隊にEMP効果を与えます。シールドは累計4回EMP攻撃を受けると消えます。
+      '''
   }
   {
     id: 1166801
     type: 1301
     arguments: "5"
-    extra_language: mission_win_type_config-11166801
   }
   {
     id: 1166901
     type: 1301
     arguments: "5"
-    extra_language: mission_win_type_config-11166901
   }
   {
     id: 1170001
     type: 1407
     arguments: 1170002:1
-    extra_language: mission_win_type_config-11170001
   }
   {
     id: 1170002
     type: 1407
     arguments: 1170003:1
-    extra_language: mission_win_type_config-11170002
   }
   {
     id: 1170003
     type: 1306
     arguments: 9700301:1
-    extra_language: mission_win_type_config-11170003
   }
   {
     id: 1170101
     type: 1407
     arguments: 1170101:2
-    extra_language: mission_win_type_config-11170101
   }
   {
     id: 1170201
     type: 1407
     arguments: 1170202:1
-    extra_language: mission_win_type_config-11170201
   }
   {
     id: 1170301
     type: 1303
     arguments: 9701201:1
-    extra_language: mission_win_type_config-11170301
   }
   {
     id: 1170401
     type: 1303
     arguments: 9701501:1
-    extra_language: mission_win_type_config-11170401
   }
   {
     id: 1170501
     type: 1402
     arguments: "2"
-    extra_language: mission_win_type_config-11170501
   }
   {
     id: 1170601
     type: 1306
     arguments: 9701901:1
-    extra_language: mission_win_type_config-11170601
     is_hidden: 1
   }
   {
     id: 1170901
     type: 1303
     arguments: 9702201:1
-    extra_language: mission_win_type_config-11170901
   }
   {
     id: 1171001
     type: 1303
     arguments: 9702301:1
-    extra_language: mission_win_type_config-11171001
   }
   {
     id: 1666101
     type: 1407
     arguments: 690311:2
-    extra_language: mission_win_type_config-11666101
+    extra_language:
+      '''
+      同じターンの中で、暗号化制御パネルを2つハッキングする。
+      注意：ハッキングされた制御パネルは1ターン後再び暗号化される。
+      '''
   }
   {
     id: 3610301
@@ -7069,27 +7074,23 @@
     id: 9711501
     type: 1102
     arguments: "1"
-    extra_language: mission_win_type_config-19711501
     is_hidden: 1
   }
   {
     id: 9711502
     type: 1407
     arguments: 1040100:1
-    extra_language: mission_win_type_config-19711502
     is_hidden: 2
   }
   {
     id: 9711503
     type: 1301
     arguments: "1"
-    extra_language: mission_win_type_config-19711503
   }
   {
     id: 9711901
     type: 1402
     arguments: "3"
-    extra_language: mission_win_type_config-19711901
   }
   {
     id: 58000101

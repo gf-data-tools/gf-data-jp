@@ -5671,6 +5671,13 @@
     note: オリジナルスキン
   }
   {
+    id: 5075
+    name: Rex-0-1-オリジナル
+    fit_gun: 20310
+    voice: 4
+    is_hidden: 2
+  }
+  {
     id: 5101
     name: 枝垂れ夢見る狐の影
     fit_gun: 316
@@ -8766,6 +8773,80 @@
     illustrator_cv: 小星,河上明日香,
     order: 117
     class_id: 100
+  }
+  {
+    id: 10501
+    name: ベルベットの影
+    fit_gun: 179
+    voice: 4
+    dialog: 指揮官、防具の品質チェック、してみる？やさしくしてあげるから……ふふっ、別の方法でやってもいいわよ？
+    illustrator_cv: 小枪,斉藤佑圭,
+    order: 119
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10502
+    name: スイートハート・ハンター
+    fit_gun: 399
+    voice: 4
+    dialog: ハート型の排気ガスと共に、ルビーはトップスピードでゴールへ向かっていく――そして勝利！
+    order: 119
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10503
+    name: 闇の封印
+    fit_gun: 338
+    voice: 4
+    dialog: これは闇に生まれし者を封印するために――えっ、ちょっと待って指揮官！鎖を引っ張らないで！せっかく4時間もかけて作った服なんだから！
+    gift_position: "-154.4,-60.9"
+    order: 119
+    class_id: 102
+    skin_source: 1
+  }
+  {
+    id: 10504
+    name: 月下のマジシャン
+    fit_gun: 337
+    voice: 4
+    dialog: 今日はマジシャンとして、ノイキャンイヤホンをつけるわ。拍手でもブーイングでも、聞こえないようにすれば緊張することもないんだから。
+    illustrator_cv: 鳗鱼,佐倉綾音,
+    order: 119
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10505
+    name: 聖少女の祈り
+    fit_gun: 273
+    voice: 4
+    dialog: 指揮官、何かお悩み事ですか？もしよろしければ、私にお聞かせください。指揮官のお力になれると幸いです。
+    illustrator_cv: 小星,大和田仁美,
+    order: 119
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10506
+    name: ドキドキの夜
+    fit_gun: 354
+    voice: 4
+    dialog: 怪盗になって、綱渡りしてって？そんなのお安い御用よ！……えっ、なんか風が強い！マスクが落ちちゃう！……指揮官、助けて！
+    order: 119
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10507
+    name: 生きる怪盗の歴史
+    fit_gun: 5
+    voice: 4
+    dialog: 怪盗とは古くから存在する優雅な職業じゃ、今からその歴史について――なっ、頭を撫でるでない！これは立派なレクチャーじゃ！子供にする昔話ではないのじゃ！
+    gift_position: "-113.9,239.6"
+    order: 119
+    class_id: 102
   }
   {
     id: 30001

@@ -4698,8 +4698,7 @@
   }
   {
     id: 690001
-    name: mission_buff_config-10690001
-    description: mission_buff_config-20690001
+    name: 【标记】角色初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4710,8 +4709,8 @@
   }
   {
     id: 690022
-    name: mission_buff_config-10690022
-    description: mission_buff_config-20690022
+    name: ワンド
+    description: 施加EMP影响
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -4725,8 +4724,8 @@
   }
   {
     id: 690032
-    name: mission_buff_config-10690032
-    description: mission_buff_config-20690032
+    name: ソード
+    description: 次の1回の戦闘でダメージが大幅に上昇,ただし、戦闘後このターンは移動禁止
     code: powBuff
     type: 1
     duration_type: "1"
@@ -4742,8 +4741,8 @@
   }
   {
     id: 690042
-    name: mission_buff_config-10690042
-    description: mission_buff_config-20690042
+    name: カップ
+    description: 1ターンの間、戦闘中シールドの耐久値は持続的に回復する。
     code: shield
     type: 1
     duration_type: "1"
@@ -4756,8 +4755,8 @@
   }
   {
     id: 690052
-    name: mission_buff_config-10690052
-    description: mission_buff_config-20690052
+    name: 定身
+    description: 疲労困憊
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -4770,8 +4769,7 @@
   }
   {
     id: 690502
-    name: mission_buff_config-10690502
-    description: mission_buff_config-20690502
+    name: 【标记】AR初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4782,8 +4780,7 @@
   }
   {
     id: 690503
-    name: mission_buff_config-10690503
-    description: mission_buff_config-20690503
+    name: 【标记】人形初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4794,8 +4791,7 @@
   }
   {
     id: 690504
-    name: mission_buff_config-10690504
-    description: mission_buff_config-20690504
+    name: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4807,8 +4803,7 @@
   }
   {
     id: 690701
-    name: mission_buff_config-10690701
-    description: mission_buff_config-20690701
+    name: 【标记】AR初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4820,8 +4815,7 @@
   }
   {
     id: 690702
-    name: mission_buff_config-10690702
-    description: mission_buff_config-20690702
+    name: 【标记】BOSS2动
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -4836,8 +4830,7 @@
   }
   {
     id: 690703
-    name: mission_buff_config-10690703
-    description: mission_buff_config-20690703
+    name: 【标记】BOSS3动
     code: ExtraMove2
     type: 1
     duration_type: "1"
@@ -4852,8 +4845,7 @@
   }
   {
     id: 690704
-    name: mission_buff_config-10690704
-    description: mission_buff_config-20690704
+    name: 【标记】BOSS4动
     code: ExtraMove3
     type: 1
     duration_type: "1"
@@ -4868,8 +4860,7 @@
   }
   {
     id: 690705
-    name: mission_buff_config-10690705
-    description: mission_buff_config-20690705
+    name: 【标记】BOSS5动
     code: 561mod
     type: 1
     duration_type: "1"
@@ -4881,8 +4872,7 @@
   }
   {
     id: 690800
-    name: mission_buff_config-10690800
-    description: mission_buff_config-20690800
+    name: 【标记】EMP计数
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4892,8 +4882,7 @@
   }
   {
     id: 690801
-    name: mission_buff_config-10690801
-    description: mission_buff_config-20690801
+    name: 【标记】BOSS强化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4905,8 +4894,7 @@
   }
   {
     id: 690804
-    name: mission_buff_config-10690804
-    description: mission_buff_config-20690804
+    name: EMP携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4918,8 +4906,7 @@
   }
   {
     id: 690813
-    name: mission_buff_config-10690813
-    description: mission_buff_config-20690813
+    name: 無力化
     code: Theresa_Back
     type: 1
     duration_type: "1"

@@ -801,6 +801,15 @@
     rank: 1
   }
   {
+    id: 136
+    type: 3
+    arg: "37"
+    code: Medal_202406Activity
+    item_name: 輪廻の選択者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「22のジレンマ」にて称えられる功績を残したことを表彰する。「あなたのためなら、何度でも」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14336,6 +14345,168 @@
     rank: 1
   }
   {
+    id: 2502
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_RexZero1Mod
+    item_name: Rex-0-1メンタルアップグレードアイコン
+    introduction: Rex-0-1メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 2503
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_DSR50
+    item_name: ベルベットの影
+    introduction: ベルベットの影
+    rank: 1
+  }
+  {
+    id: 2504
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_P2000
+    item_name: スイートハート・ハンター
+    introduction: スイートハート・ハンター
+    rank: 1
+  }
+  {
+    id: 2505
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_SIGMCX
+    item_name: 闇の封印
+    introduction: 闇の封印
+    rank: 1
+  }
+  {
+    id: 2506
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_Delisle
+    item_name: 月下の魔術師
+    introduction: 月下の魔術師
+    rank: 1
+  }
+  {
+    id: 2507
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_SSG3000
+    item_name: 聖少女の祈り
+    introduction: 聖少女の祈り
+    rank: 1
+  }
+  {
+    id: 2508
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_ZIP22
+    item_name: ドキドキの夜
+    introduction: ドキドキの夜
+    rank: 1
+  }
+  {
+    id: 2509
+    type: 5
+    arg: "1"
+    code: profilePic_Masque2024_M1895
+    item_name: 生きる怪盗の歴史
+    introduction: 生きる怪盗の歴史
+    rank: 1
+  }
+  {
+    id: 2510
+    type: 5
+    arg: "1"
+    code: profilePic_202406Activity_01
+    item_name: アイコン：覚醒の鍵
+    introduction: アイコン：覚醒の鍵
+    rank: 1
+  }
+  {
+    id: 2511
+    type: 5
+    arg: "1"
+    code: profilePic_202406Activity_02
+    item_name: アイコン：孤鴻掠影
+    introduction: アイコン：孤鴻掠影
+    rank: 1
+  }
+  {
+    id: 2512
+    type: 5
+    arg: "1"
+    code: profilePic_202406Activity_03
+    item_name: アイコン：群梟の首
+    introduction: アイコン：群梟の首
+    rank: 1
+  }
+  {
+    id: 2513
+    type: 5
+    arg: "1"
+    code: card_202406Activity_01
+    item_name: IDカード背景：ロストルート
+    introduction: IDカード背景：ロストルート
+    rank: 1
+  }
+  {
+    id: 2514
+    type: 5
+    arg: "1"
+    code: card_202406Activity_02
+    item_name: IDカード背景：倒錯する時
+    introduction: IDカード背景：倒錯する時
+    rank: 1
+  }
+  {
+    id: 2515
+    type: 5
+    arg: "1"
+    code: card_202406Activity_03
+    item_name: IDカード背景：異端の時計塔
+    introduction: IDカード背景：異端の時計塔
+    rank: 1
+  }
+  {
+    id: 2516
+    type: 5
+    arg: "1"
+    code: card_202406Activity_04
+    item_name: IDカード背景：蝶の羽と囚人
+    introduction: IDカード背景：蝶の羽と囚人
+    rank: 1
+  }
+  {
+    id: 2517
+    type: 5
+    arg: "1"
+    code: cg_202406Activity_01
+    item_name: 基地背景：分かれ道の迷宮
+    introduction: 基地背景：分かれ道の迷宮
+    rank: 1
+  }
+  {
+    id: 2518
+    type: 5
+    arg: "1"
+    code: cg_202406Activity_02
+    item_name: 基地背景：渦の上、深淵の下
+    introduction: 基地背景：渦の上、深淵の下
+    rank: 1
+  }
+  {
+    id: 2519
+    type: 5
+    arg: "1"
+    code: cg_202406Activity_03
+    item_name: 基地背景：解体される虚空
+    introduction: 基地背景：解体される虚空
+    rank: 1
+  }
+  {
     id: 2520
     type: 5
     arg: "1"
@@ -15474,7 +15645,48 @@
     arg: "9043"
     code: mind_PT
     item_name: 思考域の迷路PT
+    introduction: 思考域の迷路PT
     rank: 1
+  }
+  {
+    id: 9044
+    type: 1
+    arg: "9044"
+    code: ActivityTarot2
+    item_name: エース・オブ・コイン
+    introduction: 現在選択している部隊を周囲2マス内の無人ポイントに転送する。
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9045
+    type: 1
+    arg: "9045"
+    code: ActivityTarot4
+    item_name: エース・オブ・ワンド
+    introduction: 現在ポイントの周囲1マス内の敵部隊を1つ選択し、EMP攻撃を仕掛ける。そしてステータスデバフを与えて、1ターンの間移動禁止にする。
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9046
+    type: 1
+    arg: "9046"
+    code: ActivityTarot1
+    item_name: エース・オブ・ソード
+    introduction: 現在選択している部隊に行動ポイントを2ポイント付与し、次の戦闘でのステータスを強化する。その代わりに、選択した部隊は戦闘後移動できなくなる。
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9047
+    type: 1
+    arg: "9047"
+    code: ActivityTarot3
+    item_name: エース・オブ・カップ
+    introduction: 1ターンの間、戦闘中シールドの耐久値は持続的に回復する。
+    rank: 1
+    is_hide_info: 1
   }
   {
     id: 10603
@@ -17259,6 +17471,43 @@
     arg: "100215"
     code: coremask2_202404
     item_name: 蝕心の仮面・虚記憶の箱庭
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100222
+    type: 4
+    arg: "100222"
+    code: Nova_medal_black
+    item_name: 新星勲章・22のジレンマ
+    introduction: 新星勲章・22のジレンマ
+    rank: 1
+  }
+  {
+    id: 100223
+    type: 4
+    arg: "100223"
+    code: Platinum_medal_black
+    item_name: 白金勲章・22のジレンマ
+    introduction: 白金勲章・22のジレンマ
+    rank: 1
+  }
+  {
+    id: 100224
+    type: 9
+    arg: "100224"
+    code: Coin_202406CartesianTheatre
+    item_name: 運命のサイコロ
+    introduction: 正4面体サイコロの答えは、その底にある。すべての間違った答えを知って初めて、運命の導きを知ることになる。
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100225
+    type: 4
+    arg: "100225"
+    code: coremask2_202406
+    item_name: 蝕心の仮面・22のジレンマ
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
   }
@@ -21758,6 +22007,39 @@
     type_sort: 1
   }
   {
+    id: 1500135
+    type: 15
+    arg: "1500135"
+    code: Bumdle_cartesiantheatre01
+    item_name: 22のジレンマ限定スキン抽選券・一
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500136
+    type: 15
+    arg: "1500136"
+    code: Bumdle_cartesiantheatre02
+    item_name: 22のジレンマ限定スキン抽選券・二
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500137
+    type: 15
+    arg: "1500137"
+    code: Bumdle_cartesiantheatre03
+    item_name: 22のジレンマ限定スキン抽選券・三
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1500138
     type: 15
     arg: "1500138"
@@ -21797,6 +22079,32 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 前線協定-夢の季節のメロディーで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500154
+    type: 15
+    arg: "1500154"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500155
+    type: 15
+    arg: "1500155"
+    code: Bumdle_equipment
+    item_name: ★5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
     type_sort: 1
@@ -22330,6 +22638,28 @@
     code: Bumdle_5year_Coupons
     item_name: 五周年至高のスキン抽選券
     introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500014
+    type: 15
+    arg: "9500006"
+    code: Bumdle_invocation_3
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500015
+    type: 15
+    arg: "9500007"
+    code: Bumdle_invocation_2
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
     type_sort: 1

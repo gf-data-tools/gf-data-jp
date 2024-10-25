@@ -7154,7 +7154,7 @@
     rate: 32
     def: 99999
     level: 30100
-    character: グリフィン,持盾
+    character: グリフィン
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1
@@ -7180,7 +7180,7 @@
     rate: 26
     def: 99999
     level: 30100
-    character: グリフィン,徴用
+    character: グリフィン
     normal_attack: 755153
     passive_skill: "755154,200304"
     effect_ratio: 0.7
@@ -7205,7 +7205,7 @@
     rate: 50
     def: 99999
     level: 30100
-    character: グリフィン,援護号令
+    character: グリフィン
     normal_attack: 755151
     passive_skill: "755152,200304"
     effect_ratio: 1.4
@@ -7257,7 +7257,7 @@
     rate: 24
     def: 500
     level: 30100
-    character: 近接
+    character: 範囲ダメージ
     normal_attack: 759410
     passive_skill: "200304,770042"
     effect_ratio: 0.8
@@ -7282,7 +7282,7 @@
     rate: 24
     def: 500
     level: 30100
-    character: 近接
+    character: 精確
     normal_attack: 759411
     passive_skill: "200304,770042"
     effect_ratio: 0.8
@@ -7308,7 +7308,7 @@
     rate: 36
     def: 99999
     level: 30100
-    character: グリフィン,持盾
+    character: グリフィン
     normal_attack: 300322
     passive_skill: "200304"
     effect_ratio: 1
@@ -7333,7 +7333,7 @@
     rate: 36
     def: 99999
     level: 30100
-    character: グリフィン,鉄壁
+    character: グリフィン
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 0.82
@@ -7358,7 +7358,7 @@
     rate: 60
     def: 99999
     level: 30100
-    character: グリフィン,徴用
+    character: グリフィン
     normal_attack: 755155
     passive_skill: "200304"
     effect_ratio: 0.7
@@ -7383,7 +7383,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: グリフィン,徴用
+    character: グリフィン
     normal_attack: 755146
     passive_skill: "200304"
     effect_ratio: 0.7
@@ -7408,7 +7408,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: グリフィン,援護号令
+    character: グリフィン
     normal_attack: 755146
     passive_skill: "200304"
     effect_ratio: 1.4
@@ -7433,7 +7433,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: グリフィン,援護号令
+    character: グリフィン
     normal_attack: 755146
     passive_skill: "200304"
     effect_ratio: 1.4
@@ -7458,7 +7458,7 @@
     rate: 60
     def: 99999
     level: 30100
-    character: グリフィン,援護号令
+    character: グリフィン
     normal_attack: 755155
     passive_skill: "200304"
     effect_ratio: 1.4
@@ -7469,7 +7469,7 @@
   {
     id: 13301
     type: 4
-    name: enemy_character_type-20013301
+    name: オト
     enemy_info: 欧特
     code: Cerynitis_Deutsch
     maxlife: 680
@@ -7483,12 +7483,11 @@
     rate: 30
     def: 99999
     level: 100
-    character: enemy_character_type-10013301
+    character: 脅威,装甲
     normal_attack: 300301
     passive_skill: "200303,200304,119019,770043"
     effect_ratio: 0.87
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013301
     enemy_illustration_id: 237
     danger: 50
     enemy_illustration_sub_id: 237001
@@ -7496,7 +7495,7 @@
   {
     id: 13302
     type: 4
-    name: enemy_character_type-20013302
+    name: アンドヴァリ
     enemy_info: 安德瓦利
     code: Hydra_Deutsch
     maxlife: 9000
@@ -7510,12 +7509,11 @@
     rate: 42
     def: 99999
     level: 100
-    character: enemy_character_type-10013302
+    character: 脅威,装甲,危険
     normal_attack: 402601
     passive_skill: "200303,200304,402602,119020,770043"
     effect_ratio: 1.17
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013302
     enemy_illustration_id: 238
     danger: 60
     enemy_illustration_sub_id: 238001
@@ -7523,7 +7521,7 @@
   {
     id: 13303
     type: 4
-    name: enemy_character_type-20013303
+    name: ロキ
     enemy_info: 洛基
     code: Coeus_Deutsch
     maxlife: 16000
@@ -7538,12 +7536,11 @@
     rate: 35
     def: 99999
     level: 100
-    character: enemy_character_type-10013303
+    character: エリート,脅威,大型,装甲,制圧,弱化
     normal_attack: 900107
     passive_skill: "900478,900479,900480,119019,755000,740089,770043"
     effect_ratio: 1.11
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013303
     enemy_illustration_id: 239
     danger: 50
     enemy_illustration_sub_id: 239001
@@ -7551,7 +7548,7 @@
   {
     id: 13304
     type: 3
-    name: enemy_character_type-20013304
+    name: 防衛軍-AR
     enemy_info: 卫戍军-AR
     code: Soldier_Deutsch_AR
     maxlife: 1140
@@ -7565,12 +7562,11 @@
     rate: 28
     def: 99999
     level: 30100
-    character: enemy_character_type-10013304
+    character: エリート
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013304
     enemy_illustration_id: 240
     danger: 20
     enemy_illustration_sub_id: 240001
@@ -7578,7 +7574,7 @@
   {
     id: 13305
     type: 5
-    name: enemy_character_type-20013305
+    name: 防衛軍-SG
     enemy_info: 卫戍军-SG
     code: Soldier_Deutsch_SG
     maxlife: 1320
@@ -7593,12 +7589,11 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013305
+    character: エリート,装甲,散射
     normal_attack: 301106
     passive_skill: "770043"
     effect_ratio: 1.17
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013305
     enemy_illustration_id: 241
     danger: 20
     enemy_illustration_sub_id: 241001
@@ -7606,7 +7601,7 @@
   {
     id: 13306
     type: 3
-    name: enemy_character_type-20013306
+    name: 防衛軍-RF
     enemy_info: 卫戍军-RF
     code: Soldier_Deutsch_RF
     maxlife: 600
@@ -7621,12 +7616,11 @@
     rate: 18
     def: 99999
     level: 30100
-    character: enemy_character_type-10013306
+    character: エリート,精確
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013306
     enemy_illustration_id: 242
     danger: 20
     enemy_illustration_sub_id: 242001
@@ -7634,7 +7628,7 @@
   {
     id: 13307
     type: 3
-    name: enemy_character_type-20013307
+    name: 防衛軍-MG
     enemy_info: 卫戍军-MG
     code: Soldier_Deutsch_MG
     maxlife: 650
@@ -7649,12 +7643,11 @@
     rate: 100
     def: 99999
     level: 100
-    character: enemy_character_type-10013307
+    character: エリート,連射,破甲
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013307
     enemy_illustration_id: 243
     danger: 20
     enemy_illustration_sub_id: 243001
@@ -7662,7 +7655,7 @@
   {
     id: 13308
     type: 4
-    name: enemy_character_type-20013308
+    name: ファフニール
     enemy_info: 法夫纳
     code: AA02_Mini_Deutsch
     maxlife: 16000
@@ -7678,14 +7671,13 @@
     rate: 30
     def: 99999
     level: 100
-    character: enemy_character_type-10013308
+    character: 脅威,大型,複数攻撃,範囲ダメージ
     normal_attack: 755226
     passive_skill: "755218,200304,119019,740089,770043"
     effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013308
     enemy_illustration_id: 244
     danger: 50
     enemy_illustration_sub_id: 244001
@@ -7693,7 +7685,7 @@
   {
     id: 13309
     type: 4
-    name: enemy_character_type-20013309
+    name: フレイドマル
     enemy_info: 赫瑞德玛
     code: Chariot_Military_Deutsch
     maxlife: 46000
@@ -7708,14 +7700,13 @@
     rate: 20
     def: 99999
     level: 100
-    character: enemy_character_type-10013309
+    character: エリート,脅威,大型
     normal_attack: 755229
     passive_skill: "755219,755220,755227,755228,755230,119020,740089,770043"
     effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013309
     enemy_illustration_id: 245
     danger: 60
     enemy_illustration_sub_id: 245001
@@ -7723,7 +7714,7 @@
   {
     id: 13310
     type: 5
-    name: enemy_character_type-20013310
+    name: レギン
     enemy_info: 雷金
     code: Aegis_GA_Deutsch
     maxlife: 2850
@@ -7737,12 +7728,11 @@
     rate: 40
     def: 99999
     level: 100
-    character: enemy_character_type-10013310
+    character: 近接,装甲,シールド
     normal_attack: 310202
     passive_skill: "200304,310201,755244,770043"
     effect_ratio: 1.17
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013310
     enemy_illustration_id: 246
     danger: 30
     enemy_illustration_sub_id: 246001
@@ -10449,7 +10439,7 @@
     rate: 40
     def: 99999
     level: 100
-    character: エリート,M16A1,装甲
+    character: グリフィン
     normal_attack: 900556
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,755000,770044"
     effect_ratio: 0.43
@@ -16203,7 +16193,7 @@
     boss_hp: 39000
     def: 99999
     level: 100
-    character: エリート,M16A1,装甲
+    character: グリフィン
     normal_attack: 900556
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,119029,770044"
     effect_ratio: 0.41
@@ -16233,7 +16223,7 @@
     boss_hp: 230000
     def: 99999
     level: 100
-    character: エリート,M16A1,装甲
+    character: グリフィン
     normal_attack: 900556
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,119029,770044"
     effect_ratio: 0.43
@@ -20776,7 +20766,7 @@
     boss_hp: 10500
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20804,7 +20794,7 @@
     boss_hp: 85000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20832,7 +20822,7 @@
     boss_hp: 200000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20860,7 +20850,7 @@
     boss_hp: 10000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20888,7 +20878,7 @@
     boss_hp: 70000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20916,7 +20906,7 @@
     boss_hp: 180000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20944,7 +20934,7 @@
     boss_hp: 12500
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -20972,7 +20962,7 @@
     boss_hp: 95000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21000,7 +20990,7 @@
     boss_hp: 220000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21028,7 +21018,7 @@
     boss_hp: 10500
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21056,7 +21046,7 @@
     boss_hp: 80000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21084,7 +21074,7 @@
     boss_hp: 200000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21112,7 +21102,7 @@
     boss_hp: 11000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -21141,7 +21131,7 @@
     boss_hp: 90000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -21170,7 +21160,7 @@
     boss_hp: 190000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -21199,7 +21189,7 @@
     boss_hp: 10000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -21228,7 +21218,7 @@
     boss_hp: 75000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -21257,7 +21247,7 @@
     boss_hp: 160000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -21287,7 +21277,7 @@
     boss_hp: 14000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21315,7 +21305,7 @@
     boss_hp: 100000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21343,7 +21333,7 @@
     boss_hp: 240000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21371,7 +21361,7 @@
     boss_hp: 12000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21399,7 +21389,7 @@
     boss_hp: 90000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21427,7 +21417,7 @@
     boss_hp: 200000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21455,7 +21445,7 @@
     boss_hp: 15000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精准
+    character: エリート,装甲,精准
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21484,7 +21474,7 @@
     boss_hp: 120000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精准
+    character: エリート,装甲,精准
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21513,7 +21503,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精准
+    character: エリート,装甲,精准
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21542,7 +21532,7 @@
     boss_hp: 12000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精准
+    character: エリート,装甲,精准
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21571,7 +21561,7 @@
     boss_hp: 100000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精准
+    character: エリート,装甲,精准
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21600,7 +21590,7 @@
     boss_hp: 220000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精准
+    character: エリート,装甲,精准
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -22975,7 +22965,7 @@
     boss_hp: 320000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精確
+    character: エリート,機敏,精確
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -23003,7 +22993,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -23031,7 +23021,7 @@
     boss_hp: 320000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -23059,7 +23049,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -23087,7 +23077,7 @@
     boss_hp: 280000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -23116,7 +23106,7 @@
     boss_hp: 230000
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏
+    character: エリート,機敏
     special_attack: 7
     normal_attack: 300314
     passive_skill: "120607,120608,120609,120610,119029,770044"
@@ -23146,7 +23136,7 @@
     boss_hp: 340000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -23174,7 +23164,7 @@
     boss_hp: 280000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -23202,7 +23192,7 @@
     boss_hp: 360000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精確
+    character: エリート,装甲,精確
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23231,7 +23221,7 @@
     boss_hp: 300000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精確
+    character: エリート,装甲,精確
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23260,7 +23250,7 @@
     boss_hp: 120000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精確
+    character: エリート,装甲,精確
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23289,7 +23279,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: エリート,遠距離,装甲,精確
+    character: エリート,装甲,精確
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23471,7 +23461,7 @@
     boss_hp: 12500
     def: 99999
     level: 100
-    character: エリート,遠距離,機敏,精准
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -23650,7 +23640,7 @@
     boss_hp: 320000
     def: 99999
     level: 100
-    character: エリート,遠距離,範囲ダメージ
+    character: エリート,範囲ダメージ
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -23706,7 +23696,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: 江崎プリン
+    character: エリート
     normal_attack: 121901
     passive_skill: "121902,121903,121904,121905,121906,121907,121908,121909,121910,121911,121912,121913,121914,121915,121916,119029"
     effect_ratio: 1.1
@@ -23734,7 +23724,7 @@
     boss_hp: 280000
     def: 99999
     level: 100
-    character: シマムラタカシ
+    character: エリート
     normal_attack: 122001
     passive_skill: "122002,122003,122004,119029"
     effect_ratio: 1.1
@@ -23762,7 +23752,7 @@
     boss_hp: 240000
     def: 99999
     level: 100
-    character: ミズカネスズカ
+    character: エリート
     normal_attack: 755318
     passive_skill: "755314,755315,755316,755317,755319,755320,755325,755326,119029"
     effect_ratio: 1.1
@@ -23790,7 +23780,7 @@
     boss_hp: 26000
     def: 99999
     level: 100
-    character: 江崎プリン
+    character: エリート
     normal_attack: 121901
     passive_skill: "121902,121903,121904,121905,121906,121907,121908,121909,121910,121911,121912,121913,121914,121915,121916,119029"
     effect_ratio: 1.1
@@ -23818,7 +23808,7 @@
     boss_hp: 32000
     def: 99999
     level: 100
-    character: シマムラタカシ
+    character: エリート
     normal_attack: 122001
     passive_skill: "122002,122003,122004,119029"
     effect_ratio: 1.1
@@ -23846,7 +23836,7 @@
     boss_hp: 28000
     def: 99999
     level: 100
-    character: ミズカネスズカ
+    character: エリート
     normal_attack: 755318
     passive_skill: "755314,755315,755316,755317,755319,755320,755325,755326,119029"
     effect_ratio: 1.1
@@ -23917,7 +23907,7 @@
   {
     id: 900703
     type: 1
-    name: enemy_character_type-20900703
+    name: ラプラスの悪魔
     enemy_info: 拉普拉斯妖70级
     code: LaplaceBoss
     maxlife: 85000
@@ -23934,14 +23924,13 @@
     boss_hp: 85000
     def: 6000
     level: 100
-    character: enemy_character_type-10900703
+    character: エリート,？？？,EMP耐性
     normal_attack: 450001
     passive_skill: "450002,450003,450004,450005,450006,450007,450011,450012,450013,450014,450015,450016,450017,450018,450019,450020,450021,450022,450023,450024,450025,119029,450026,450027,450028,450029,450030,450031,450032,450033"
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900703
     enemy_illustration_id: 233
     danger: 1000
     enemy_illustration_sub_id: 233001
@@ -23949,7 +23938,7 @@
   {
     id: 900704
     type: 1
-    name: enemy_character_type-20900704
+    name: ラプラスの悪魔
     enemy_info: 拉普拉斯妖120级
     code: LaplaceBoss
     maxlife: 239999
@@ -23966,14 +23955,13 @@
     boss_hp: 240000
     def: 6000
     level: 100
-    character: enemy_character_type-10900704
+    character: エリート,？？？,EMP耐性
     normal_attack: 450001
     passive_skill: "450002,450003,450004,450005,450006,450007,450011,450012,450013,450014,450015,450016,450017,450018,450019,450020,450021,450022,450023,450024,450025,119029,450026,450027,450028,450029,450030,450031,450032,450033"
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900704
     enemy_illustration_id: 233
     danger: 1000
     enemy_illustration_sub_id: 233001
@@ -23981,7 +23969,7 @@
   {
     id: 900705
     type: 1
-    name: enemy_character_type-20900705
+    name: エリザ
     enemy_info: 伊莱莎-50级半血撤退
     code: Eliza_boss_Free
     maxlife: 15000
@@ -23997,13 +23985,12 @@
     boss_hp: 15000
     def: 99999
     level: 100
-    character: enemy_character_type-10900705
+    character: エリート,？？？？
     normal_attack: 406225
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029,770044,755187"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900705
     enemy_illustration_id: 234
     danger: 1000
     enemy_illustration_sub_id: 234001
@@ -24011,7 +23998,7 @@
   {
     id: 900706
     type: 1
-    name: enemy_character_type-20900706
+    name: エリザ
     enemy_info: 伊莱莎-110半血撤退
     code: Eliza_boss_Free
     maxlife: 140000
@@ -24027,13 +24014,12 @@
     boss_hp: 140000
     def: 99999
     level: 100
-    character: enemy_character_type-10900706
+    character: エリート,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029,770044,755187"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900706
     enemy_illustration_id: 234
     danger: 1000
     enemy_illustration_sub_id: 234001
@@ -24041,7 +24027,7 @@
   {
     id: 900707
     type: 1
-    name: enemy_character_type-20900707
+    name: エリザ
     enemy_info: 伊莱莎-强强强
     code: Eliza_boss_Free
     maxlife: 9900000
@@ -24057,13 +24043,12 @@
     boss_hp: 9900000
     def: 99999
     level: 100
-    character: enemy_character_type-10900707
+    character: エリート,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029,770044"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900707
     enemy_illustration_id: 234
     danger: 1000
     enemy_illustration_sub_id: 234001
@@ -24071,7 +24056,7 @@
   {
     id: 900708
     type: 1
-    name: enemy_character_type-20900708
+    name: スケアクロウ
     enemy_info: 稻草人-30级
     code: Scarecrow
     maxlife: 8000
@@ -24086,13 +24071,12 @@
     boss_hp: 8000
     def: 99999
     level: 100
-    character: enemy_character_type-10900708
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900708
     enemy_illustration_id: 5
     danger: 1000
     enemy_illustration_sub_id: 5002
@@ -24100,7 +24084,7 @@
   {
     id: 900709
     type: 1
-    name: enemy_character_type-20900709
+    name: スケアクロウ
     enemy_info: 稻草人-90级
     code: Scarecrow
     maxlife: 85000
@@ -24115,13 +24099,12 @@
     boss_hp: 85000
     def: 99999
     level: 100
-    character: enemy_character_type-10900709
+    character: エリート,機敏,精准
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900709
     enemy_illustration_id: 5
     danger: 1000
     enemy_illustration_sub_id: 5002
@@ -24129,7 +24112,7 @@
   {
     id: 900710
     type: 1
-    name: enemy_character_type-20900710
+    name: エンブラ
     enemy_info: RPK16-零电荷（80昼）
     code: RPK16Reborn
     maxlife: 65000
@@ -24145,14 +24128,13 @@
     boss_hp: 65000
     def: 1500
     level: 100
-    character: enemy_character_type-10900710
+    character: エリート,指揮,召喚者
     normal_attack: 450049
     passive_skill: "450034,450035,450036,450037,450038,450040,450041,450042,450043,450044,450045,450046,450047,770042,119029"
     effect_ratio: 0.4
     unable_buff_type: "221"
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900710
     enemy_illustration_id: 235
     danger: 1000
     enemy_illustration_sub_id: 235001
@@ -24160,7 +24142,7 @@
   {
     id: 900711
     type: 1
-    name: enemy_character_type-20900711
+    name: エンブラ
     enemy_info: RPK16-零电荷（100昼）
     code: RPK16Reborn
     maxlife: 180000
@@ -24176,14 +24158,13 @@
     boss_hp: 180000
     def: 3000
     level: 100
-    character: enemy_character_type-10900711
+    character: エリート,指揮,召喚者
     normal_attack: 450049
     passive_skill: "450034,450035,450036,450037,450038,450040,450041,450042,450043,450044,450045,450046,450047,770042,119029"
     effect_ratio: 0.4
     unable_buff_type: "221"
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900711
     enemy_illustration_id: 235
     danger: 1000
     enemy_illustration_sub_id: 235001
@@ -24191,7 +24172,7 @@
   {
     id: 900712
     type: 1
-    name: enemy_character_type-20900712
+    name: エンブラ
     enemy_info: RPK16-零电荷（120昼）
     code: RPK16Reborn
     maxlife: 320000
@@ -24207,14 +24188,13 @@
     boss_hp: 320000
     def: 6000
     level: 100
-    character: enemy_character_type-10900712
+    character: エリート,指揮,召喚者
     normal_attack: 450049
     passive_skill: "450034,450035,450036,450037,450038,450040,450041,450042,450043,450044,450045,450046,450047,770042,119029"
     effect_ratio: 0.4
     unable_buff_type: "221"
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900712
     enemy_illustration_id: 235
     danger: 1000
     enemy_illustration_sub_id: 235001
@@ -24281,7 +24261,7 @@
   {
     id: 900803
     type: 1
-    name: enemy_character_type-20900803
+    name: ゲーガー-VWV型
     enemy_info: 捕获Boss
     code: GagerSwimwear
     maxlife: 60000
@@ -24296,13 +24276,12 @@
     boss_hp: 60000
     def: 99999
     level: 100
-    character: enemy_character_type-10900803
+    character: エリート,ゲーガー
     normal_attack: 300301
     passive_skill: "770044"
     effect_ratio: 1.06
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900803
     enemy_illustration_id: 236
     danger: 1000
     enemy_illustration_sub_id: 236001
@@ -24310,7 +24289,7 @@
   {
     id: 900811
     type: 1
-    name: enemy_character_type-20900811
+    name: ネムラン
     enemy_info: 尼梅兰【8月活动100】50%撤退
     code: Nimeylan
     maxlife: 220000
@@ -24326,13 +24305,12 @@
     boss_hp: 220000
     def: 3000
     level: 100
-    character: enemy_character_type-10900811
+    character: エリート
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755187,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900811
     enemy_illustration_id: 155
     danger: 1000
     enemy_illustration_sub_id: 155001
@@ -24340,7 +24318,7 @@
   {
     id: 900812
     type: 1
-    name: enemy_character_type-20900812
+    name: ネムラン
     enemy_info: 尼梅兰【8月活动130】50%撤退
     code: Nimeylan
     maxlife: 320000
@@ -24356,13 +24334,12 @@
     boss_hp: 320000
     def: 4000
     level: 100
-    character: enemy_character_type-10900812
+    character: エリート
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755187,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900812
     enemy_illustration_id: 155
     danger: 1000
     enemy_illustration_sub_id: 155001
@@ -24370,7 +24347,7 @@
   {
     id: 900813
     type: 1
-    name: enemy_character_type-20900813
+    name: ネムラン
     enemy_info: 尼梅兰【8月活动75】50%撤退
     code: Nimeylan
     maxlife: 62000
@@ -24386,13 +24363,12 @@
     boss_hp: 62000
     def: 800
     level: 100
-    character: enemy_character_type-10900813
+    character: エリート
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755187,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900813
     enemy_illustration_id: 155
     danger: 1000
     enemy_illustration_sub_id: 155001

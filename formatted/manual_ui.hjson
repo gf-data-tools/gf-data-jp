@@ -8033,51 +8033,66 @@
   {
     id: 9700301
     code_a: LiftBlue
+    description_a: 味方部隊
+    description_b: 階層間エレベーター
+    description_c: 転移
     code_b: Squad_Icon
   }
   {
     id: 9700601
     code_a: Console
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    description_c: 解読
     code_b: Squad_Icon
   }
   {
     id: 9700607
     code_a: Boomer
+    description_a: 味方部隊
+    description_b: 爆破する
+    description_c: 配置
     code_b: Squad_Icon
   }
   {
     id: 9701201
     code_a: Console
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    description_c: ブレーカーを引く
     code_b: Squad_Icon
   }
   {
     id: 9701206
     code_a: Boomer
+    description_a: 味方部隊
+    description_b: 爆破する
+    description_c: 拾う
     code_b: Squad_Icon
   }
   {
     id: 9711502
     code_a: Console
-    description_a: manual_ui-19711502
-    description_b: manual_ui-29711502
-    description_c: manual_ui-39711502
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    description_c: 空挺
     code_b: Squad_Icon
     is_manual_target: 1
   }
   {
     id: 9711503
     code_a: Console
-    description_a: manual_ui-19711503
-    description_b: manual_ui-29711503
-    description_c: manual_ui-39711503
+    description_a: 味方部隊
+    description_b: ゲートコンソール
+    description_c: 変換
     code_b: Squad_Icon
   }
   {
     id: 9713101
     code_a: Sundries
-    description_a: manual_ui-19713101
-    description_b: manual_ui-29713101
-    description_c: manual_ui-39713101
+    description_a: 味方部隊
+    description_b: ガラクタ
+    description_c: ひっくり返す
     code_b: Console_Icon
   }
   {

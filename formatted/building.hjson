@@ -49861,6 +49861,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -49874,6 +49875,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700302
@@ -49884,6 +49887,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -49897,6 +49901,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 支援範囲内の同じ勢力が占領する飛行場に航空管制を行い、影響下にある飛行場から出現する増援の能力を上昇させる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700303
@@ -49907,6 +49913,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -49920,6 +49927,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700304
@@ -49930,6 +49939,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -49943,6 +49953,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700305
@@ -49962,6 +49974,8 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 支援範囲内の同じ勢力が占領する飛行場に航空管制を行い、影響下にある飛行場から出現する増援の能力を上昇させる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,9700302,9700306,0"
   }
   {
@@ -49982,6 +49996,8 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700307
@@ -50000,6 +50016,8 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 支援範囲内の同じ勢力が占領する飛行場に航空管制を行い、影響下にある飛行場から出現する増援の能力を上昇させる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700601
@@ -50010,6 +50028,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50021,6 +50040,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700602
@@ -50031,6 +50052,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50042,6 +50064,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700603
@@ -50052,6 +50076,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
+    name: 防御ゲートI
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -50064,6 +50089,8 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700604
@@ -50074,6 +50101,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: Don't translate
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -50084,6 +50112,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
   }
   {
     id: 9700901
@@ -50103,6 +50132,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
   }
   {
     id: 9701201
@@ -50113,6 +50143,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50124,6 +50155,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701202
@@ -50134,6 +50167,7 @@
     mission_skill: 9701209;9701209;9701209;9701209
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ガラクタ
     code: Sundries
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -50145,6 +50179,8 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701203
@@ -50183,6 +50219,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
   }
   {
     id: 9701501
@@ -50193,6 +50230,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50204,6 +50242,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701502
@@ -50214,6 +50254,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50225,6 +50266,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701503
@@ -50310,6 +50353,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -50323,6 +50367,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 支援範囲内の同じ勢力が占領する飛行場に航空管制を行い、影響下にある飛行場から出現する増援の能力を上昇させる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701902
@@ -50333,6 +50379,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -50346,6 +50393,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701903
@@ -50356,6 +50405,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -50369,6 +50419,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701904
@@ -50379,6 +50431,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -50392,6 +50445,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701905
@@ -50402,6 +50457,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -50415,6 +50471,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 支援範囲内の同じ勢力が占領する飛行場に航空管制を行い、影響下にある飛行場から出現する増援の能力を上昇させる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701906
@@ -50425,6 +50483,7 @@
     mission_skill: 0;0;0;2000022
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 階層間エレベーター
     code: LiftBlue
     shifting_spot: "5,0"
     shifting_team: "-5,0"
@@ -50438,6 +50497,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
     initial_state: -1
+    des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701907
@@ -50448,6 +50509,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50459,6 +50521,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701908
@@ -50478,6 +50542,8 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,9701902,9700306,0"
   }
   {
@@ -50498,6 +50564,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9710601
@@ -50508,7 +50575,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19710601
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50520,9 +50587,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49710601
-    des: building-29710601
-    confront_des: building-39710601
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9710602
@@ -50533,7 +50599,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19710602
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -50546,9 +50612,8 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49710602
-    des: building-29710602
-    confront_des: building-39710602
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9710603
@@ -50559,7 +50624,6 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19710603
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -50569,9 +50633,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49710603
-    des: building-29710603
-    confront_des: building-39710603
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9710604
@@ -50582,7 +50644,6 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19710604
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -50592,9 +50653,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49710604
-    des: building-29710604
-    confront_des: building-39710604
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9710605
@@ -50605,7 +50664,6 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19710605
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -50615,9 +50673,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49710605
-    des: building-29710605
-    confront_des: building-39710605
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9711501
@@ -50628,7 +50684,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19711501
+    name: 制御パネル①
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50640,9 +50696,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49711501
-    des: building-29711501
-    confront_des: building-39711501
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,9711501,9711502,0;1,9711502,9711502,0"
   }
   {
@@ -50654,7 +50709,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19711502
+    name: 制御パネル②
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50666,9 +50721,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49711502
-    des: building-29711502
-    confront_des: building-39711502
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9711503
@@ -50679,7 +50733,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19711503
+    name: 制御パネル③
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50691,9 +50745,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49711503
-    des: building-29711503
-    confront_des: building-39711503
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9711504
@@ -50704,7 +50757,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19711504
+    name: 制御パネル④
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50716,9 +50769,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49711504
-    des: building-29711504
-    confront_des: building-39711504
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9711505
@@ -50729,7 +50781,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19711505
+    name: 制御パネル⑤
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50741,9 +50793,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49711505
-    des: building-29711505
-    confront_des: building-39711505
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9712901
@@ -50754,7 +50805,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712901
+    name: 制御パネル①
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50766,9 +50817,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712901
-    des: building-29712901
-    confront_des: building-39712901
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
     missionskill_on_death: "1,9712901,9711502,0;1,9712902,9711502,0"
   }
   {
@@ -50780,7 +50830,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712902
+    name: 制御パネル②
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50792,9 +50842,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712902
-    des: building-29712902
-    confront_des: building-39712902
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9712903
@@ -50805,7 +50854,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712903
+    name: 制御パネル③
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50817,9 +50866,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712903
-    des: building-29712903
-    confront_des: building-39712903
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9712904
@@ -50830,7 +50878,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712904
+    name: 制御パネル④
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50842,9 +50890,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712904
-    des: building-29712904
-    confront_des: building-39712904
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9712905
@@ -50855,7 +50902,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712905
+    name: 制御パネル⑤
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50867,9 +50914,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712905
-    des: building-29712905
-    confront_des: building-39712905
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9712906
@@ -50880,7 +50926,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712906
+    name: 制御パネル⑥
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50892,9 +50938,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712906
-    des: building-29712906
-    confront_des: building-39712906
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9712907
@@ -50905,7 +50950,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19712907
+    name: 制御パネル⑦
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50917,9 +50962,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49712907
-    des: building-29712907
-    confront_des: building-39712907
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713001
@@ -50930,7 +50974,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19713001
+    name: ゲートコンソール
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -50942,10 +50986,9 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49713001
     initial_state: -1
-    des: building-29713001
-    confront_des: building-39713001
+    des: 関連の施設にコマンドを送ることができます。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713002
@@ -50956,7 +50999,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19713002
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -50969,10 +51012,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49713002
     initial_state: -1
-    des: building-29713002
-    confront_des: building-39713002
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713003
@@ -50983,7 +51025,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19713003
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -50996,10 +51038,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49713003
     initial_state: -1
-    des: building-29713003
-    confront_des: building-39713003
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713004
@@ -51010,7 +51051,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19713004
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -51023,10 +51064,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49713004
     initial_state: -1
-    des: building-29713004
-    confront_des: building-39713004
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713005
@@ -51037,7 +51077,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19713005
+    name: 防御ゲート
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -51050,10 +51090,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49713005
     initial_state: -1
-    des: building-29713005
-    confront_des: building-39713005
+    des: 閉鎖時通行不可。ゲート上にユニットがいる状況下で閉鎖した場合、そのユニットは一定のダメージを受ける。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713101
@@ -51064,7 +51103,7 @@
     mission_skill: 9701209;9701209;9701209;9701209
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19713101
+    name: ガラクタ
     code: Sundries
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -51076,9 +51115,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49713101
-    des: building-29713101
-    confront_des: building-39713101
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713102
@@ -51089,7 +51126,7 @@
     mission_skill: 9701209;9701209;9701209;9701209
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19713102
+    name: ガラクタ
     code: Sundries
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -51101,9 +51138,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49713102
-    des: building-29713102
-    confront_des: building-39713102
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9713103
@@ -51114,7 +51149,7 @@
     mission_skill: 9701209;9701209;9701209;9701209
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19713103
+    name: ガラクタ
     code: Sundries
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -51126,9 +51161,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49713103
-    des: building-29713103
-    confront_des: building-39713103
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 43130001
