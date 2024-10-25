@@ -435,6 +435,7 @@ patch3060=
 "3060/UIBattleMainView",
 "3060/MallKalinaFavorController",
 "3060/BreakoutTeamPrepareController",
+"3060/BattleTarkovUIGunItem"
 }
 -- va11
 print("load Va11");
