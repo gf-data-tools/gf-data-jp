@@ -1015,6 +1015,38 @@
     present_info: present-11500141
   }
   {
+    item_id: 1500145
+    type: 1
+    prize_id: 140001
+    due_time: 2024/12/15 23:59:59
+    due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500146
+    type: 1
+    prize_id: 140004
+    due_time: 2024/12/15 23:59:59
+    due_prize_id: 140016
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1500147
+    type: 2
+    drop_package_id: 2422
+    due_time: 2024/12/15 23:59:59
+    due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
+  }
+  {
+    item_id: 1500148
+    type: 2
+    drop_package_id: 945
+    due_time: 2024/12/15 23:59:59
+    due_prize_id: 140016
+    present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
+  }
+  {
     item_id: 1500154
     type: 1
     poster: PackageImage_Sangvis
@@ -1160,6 +1192,30 @@
     type: 1
     prize_id: 150103
     due_time: 2024/11/30  23:59:59
+    due_prize_id: 140075
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1700016
+    type: 1
+    prize_id: 150104
+    due_time: 2025/01/05  23:59:59
+    due_prize_id: 140073
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1700017
+    type: 1
+    prize_id: 150105
+    due_time: 2025/01/05  23:59:59
+    due_prize_id: 140074
+    present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1700018
+    type: 1
+    prize_id: 150106
+    due_time: 2025/01/05  23:59:59
     due_prize_id: 140075
     present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
   }

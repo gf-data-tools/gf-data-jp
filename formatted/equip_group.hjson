@@ -199,4 +199,22 @@
     group_skill: 2:759312
     fit_gun: "20002"
   }
+  {
+    id: 23
+    name: 身軽な出陣
+    des: LWMMGにピッタリな装備一式。どれもコスパのいいもので、無駄がない。
+    code: EgroupLWMMG
+    equip_unit: "0,131,385"
+    group_skill: 2:1000103
+    fit_gun: "20081"
+  }
+  {
+    id: 24
+    name: あなたと共に
+    des: M950Aにピッタリな装備一式。友人との絆、そしてみんなと一緒に進みたいという願いが込められている。
+    code: EgroupM950A
+    equip_unit: "179,0,384"
+    group_skill: 2:1000203
+    fit_gun: "20097"
+  }
 ]
