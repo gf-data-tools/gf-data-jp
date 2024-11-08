@@ -1922,6 +1922,22 @@
     type_sort: 6
   }
   {
+    id: 597
+    name: 盤上の輝く星
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 86
+    skin: 597
+    poster: 30597
+    code: gift_bundle_ChessBonus_MG42
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 598
     name: ゴーストハッカー
     type: 2

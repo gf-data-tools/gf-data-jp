@@ -801,6 +801,24 @@
     rank: 1
   }
   {
+    id: 134
+    type: 3
+    arg: "35"
+    code: Medal_Theater12th
+    item_name: 第十二戦区開拓者勲章
+    introduction: 第十二期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「この終わりなき戦いを終わらせ、この子たちの笑顔を取り戻す」
+    rank: 1
+  }
+  {
+    id: 135
+    type: 3
+    arg: "36"
+    code: Medal_Theater12th_rank
+    item_name: 第十二戦区征服者勲章
+    introduction: 第十二期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「あなたとあなたの仲間たちがいなければ、平和などただの幻想なのでしょう」
+    rank: 1
+  }
+  {
     id: 136
     type: 3
     arg: "37"
@@ -14072,6 +14090,42 @@
     code: profilePic_BattlePass_95type
     item_name: 煙雨青綺
     introduction: 煙雨青綺
+    rank: 1
+  }
+  {
+    id: 2444
+    type: 5
+    arg: "1"
+    code: profilePic_ChessBonus_MG42
+    item_name: 盤上の輝く星
+    introduction: 盤上の輝く星
+    rank: 1
+  }
+  {
+    id: 2445
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_1
+    item_name: 原初の時計・コードXII：光円錐
+    introduction: 原初の時計・コードXII：光円錐
+    rank: 1
+  }
+  {
+    id: 2446
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_2
+    item_name: 恒星スケール・コードXII：光円錐
+    introduction: 恒星スケール・コードXII：光円錐
+    rank: 1
+  }
+  {
+    id: 2447
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_3
+    item_name: 縮退紀元・コードXII：光円錐
+    introduction: 縮退紀元・コードXII：光円錐
     rank: 1
   }
   {
