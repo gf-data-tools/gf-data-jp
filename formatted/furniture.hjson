@@ -29477,6 +29477,21 @@
     rotate: "3"
   }
   {
+    id: 20142
+    name: ポスター-2024「22のジレンマ」
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024年限定イベント-22のジレンマの限定ポスター
+    code: pv_202406activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 20143
     name: そうめんの永久機関
     classes: 81
