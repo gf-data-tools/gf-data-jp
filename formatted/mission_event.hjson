@@ -267,6 +267,12 @@
     init_mission_id: "11631"
   }
   {
+    id: 50
+    type: 2
+    mission_campaign: "-45"
+    init_mission_id: "10766"
+  }
+  {
     id: 52
     type: 1
     mission_campaign: "-69"
@@ -313,14 +319,5 @@
     type: 2
     mission_campaign: "-48"
     init_mission_id: "10799"
-  }
-  {
-    id: 10007
-    type: 1
-    mission_campaign: "-45"
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2023-07-14 13:00:00
-    end_time: 2023-07-28 13:00:00
-    init_mission_id: "10766"
   }
 ]
