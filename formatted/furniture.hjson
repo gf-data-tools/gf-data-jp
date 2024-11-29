@@ -29507,6 +29507,35 @@
     rotate: "3"
   }
   {
+    id: 20140
+    name: 普通の一日
+    classes: 19
+    type: 201
+    space: "9,7,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「普通の任務、普通の会話、普通の日々……彼女たちはそうやって、一緒に過ごした」「それからは？」「それからは、彼女の届かない夢になってしまった」
+    code: 202407Activity_SnowGlobe_deco1,202407Activity_SnowGlobe,202407Activity_SnowGlobe_deco2
+    texture_type: "1,2,1"
+    sorting: "0,10,20"
+    offset: "0.000,-0.438,0.000|0.000,0.438,0.000|0.000,-0.438,0.000"
+    rotate: "2,2,2"
+  }
+  {
+    id: 20141
+    name: 見届ける眼勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「零電荷」にて称えられる功績を残したことを表彰する。「大雪で跡を隠そう。お互いの目で、狼の群の結末を見届けよう」
+    code: 202407Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 20142
     name: ポスター-2024「22のジレンマ」
     classes: 20

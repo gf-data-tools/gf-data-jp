@@ -8713,8 +8713,8 @@
   }
   {
     id: 9700307
-    name: mission_buff_config-19700307
-    description: mission_buff_config-29700307
+    name: 加速
+    description: 行动力提升
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -8726,8 +8726,8 @@
   }
   {
     id: 9700308
-    name: mission_buff_config-19700308
-    description: mission_buff_config-29700308
+    name: 禁足
+    description: 无法移动
     code: Theresa_Back
     type: 2
     duration_type: "1"
@@ -8739,8 +8739,8 @@
   }
   {
     id: 9701203
-    name: mission_buff_config-19701203
-    description: mission_buff_config-29701203
+    name: 强化
+    description: 处于强化状态中，战斗中将难以被击败。
     code: Invincible
     type: 1
     duration_type: "1"
@@ -8752,8 +8752,8 @@
   }
   {
     id: 9701204
-    name: mission_buff_config-19701204
-    description: mission_buff_config-29701204
+    name: 【标记】携带歌利亚buff
+    description: ゴリアテ携帯中
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -8764,8 +8764,8 @@
   }
   {
     id: 9701205
-    name: mission_buff_config-19701205
-    description: mission_buff_config-29701205
+    name: 加速
+    description: 行动力提升
     code: ExtraMove2
     type: 1
     duration_type: "1"
@@ -8777,8 +8777,8 @@
   }
   {
     id: 9701512
-    name: mission_buff_config-19701512
-    description: mission_buff_config-29701512
+    name: 加速
+    description: 行动力提升
     code: ExtraMove3
     type: 1
     duration_type: "1"
@@ -8790,8 +8790,12 @@
   }
   {
     id: 9711501
-    name: mission_buff_config-19711501
-    description: mission_buff_config-29711501
+    name: 特殊机制
+    description:
+      '''
+      ·禁止移动
+      ·可在控制台上远程操作变更雷达点的链接状态
+      '''
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -8802,8 +8806,8 @@
   }
   {
     id: 9713101
-    name: mission_buff_config-19713101
-    description: mission_buff_config-29713101
+    name: 移动强化·Extra
+    description: 梯队移动时不消耗行动点。
     code: Racing_Fly
     type: 1
     duration_type: "1"

@@ -11268,6 +11268,39 @@
     obtain_ids: "3098"
   }
   {
+    id: 354
+    name: 正義の制服
+    description:
+      '''
+      会心ダメージ+<critical_harm_rate><%>
+      命中+<hit>スキル強化$VSK-94専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    hit: "3,5"
+    critical_harm_rate: "16,20"
+    retire_mp: 4
+    retire_mre: 5
+    code: 人形_特殊_VSK94
+    develop_duration: 3360
+    company: IOP
+    fit_guns: "312"
+    equip_introduction: VSK-94が警察署で働いていた時の制服。何年経っても凛々しく見える。
+    powerup_mp: 0.55
+    powerup_ammo: 0.16
+    powerup_mre: 0.6
+    powerup_part: 0.16
+    exclusive_rate: 3
+    bonus_type: critical_harm_rate:1000,hit:1000
+    passive_skill: "759232"
+    max_level: 10
+    auto_select_id: 20064
+    is_show: 1
+    obtain_ids: "3088"
+    description_skill: 759232
+  }
+  {
     id: 355
     name: 多機能バッスル
     description:
@@ -12437,5 +12470,38 @@
     is_show: 1
     obtain_ids: "3115"
     sp_description: 開幕CT-80%
+  }
+  {
+    id: 411
+    name: 1PN64ナイトスコープ
+    description:
+      '''
+      暗視性能+<night_view_percent><%>
+      会心率+<critical_percent><%>$OTs-14専用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_percent: "15,20"
+    night_view_percent: "100,100"
+    skill_effect: 150
+    retire_mp: 3
+    retire_mre: 4
+    retire_part: 2
+    code: Accessories_SP_OTs14
+    develop_duration: 2940
+    company: IOP
+    fit_guns: "119"
+    equip_introduction: NSP3ナイトスコープをベースに軽量化改造を行ったもの。最新のセンサーも搭載されており、解像度が大幅に上がっている。
+    powerup_mp: 0.33
+    powerup_ammo: 0.22
+    powerup_mre: 0.5
+    powerup_part: 0.18
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000
+    max_level: 10
+    auto_select_id: 18120
+    is_show: 1
+    obtain_ids: "3116"
   }
 ]

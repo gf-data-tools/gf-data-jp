@@ -828,6 +828,15 @@
     rank: 1
   }
   {
+    id: 138
+    type: 3
+    arg: "39"
+    code: Medal_202407Activity
+    item_name: 見届ける眼勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「零電荷」にて称えられる功績を残したことを表彰する。「大雪で跡を隠そう。お互いの目で、狼の群の結末を見届けよう」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14588,6 +14597,69 @@
     rank: 1
   }
   {
+    id: 2525
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_01
+    item_name: アイコン：反逆のアイエテス
+    introduction: アイコン：反逆のアイエテス
+    rank: 1
+  }
+  {
+    id: 2526
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_02
+    item_name: アイコン：ペルセウスの使命
+    introduction: アイコン：ペルセウスの使命
+    rank: 1
+  }
+  {
+    id: 2527
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_03
+    item_name: アイコン：メフィストの光
+    introduction: アイコン：メフィストの光
+    rank: 1
+  }
+  {
+    id: 2528
+    type: 5
+    arg: "1"
+    code: card_202407Activity_01
+    item_name: IDカード背景：鉄の橋
+    introduction: IDカード背景：鉄の橋
+    rank: 1
+  }
+  {
+    id: 2529
+    type: 5
+    arg: "1"
+    code: card_202407Activity_02
+    item_name: IDカード背景：マイン川の夜
+    introduction: IDカード背景：マイン川の夜
+    rank: 1
+  }
+  {
+    id: 2531
+    type: 5
+    arg: "1"
+    code: cg_202407Activity_01
+    item_name: 基地背景：文明のシェルター
+    introduction: 基地背景：文明のシェルター
+    rank: 1
+  }
+  {
+    id: 2532
+    type: 5
+    arg: "1"
+    code: cg_202407Activity_02
+    item_name: 基地背景：旧オペラ座
+    introduction: 基地背景：旧オペラ座
+    rank: 1
+  }
+  {
     id: 2533
     type: 5
     arg: "1"
@@ -17661,6 +17733,43 @@
     arg: "100225"
     code: coremask2_202406
     item_name: 蝕心の仮面・22のジレンマ
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100229
+    type: 4
+    arg: "100229"
+    code: Nova_medal_black
+    item_name: 新星勲章・零電荷
+    introduction: 新星勲章・零電荷
+    rank: 1
+  }
+  {
+    id: 100230
+    type: 4
+    arg: "100230"
+    code: Platinum_medal_black
+    item_name: 白金勲章・零電荷
+    introduction: 白金勲章・零電荷
+    rank: 1
+  }
+  {
+    id: 100231
+    type: 9
+    arg: "100231"
+    code: Coin_202407ZeroCharge
+    item_name: 「パンドラ」コイン
+    introduction: 予想外のオペラ公演はフランクフルトを震わせた。このコインには、かつての苦痛と喜び、そしてある願いが込められている。
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100232
+    type: 4
+    arg: "100232"
+    code: coremask2_202407ZeroCharge
+    item_name: 蝕心の仮面・零電荷
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
   }
@@ -22266,6 +22375,39 @@
     type_sort: 1
   }
   {
+    id: 1500142
+    type: 15
+    arg: "1500142"
+    code: Bumdle_zerocharge01
+    item_name: 零電荷限定スキン抽選券・一
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500143
+    type: 15
+    arg: "1500143"
+    code: Bumdle_zerocharge02
+    item_name: 零電荷限定スキン抽選券・二
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500144
+    type: 15
+    arg: "1500144"
+    code: Bumdle_zerocharge03
+    item_name: 零電荷限定スキン抽選券・反逆小隊限定
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1500145
     type: 15
     arg: "1500145"
@@ -22904,7 +23046,7 @@
   {
     id: 9500014
     type: 15
-    arg: "9500006"
+    arg: "9500014"
     code: Bumdle_invocation_3
     item_name: 星4人形支援要請書
     introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
@@ -22915,10 +23057,58 @@
   {
     id: 9500015
     type: 15
-    arg: "9500007"
+    arg: "9500015"
     code: Bumdle_invocation_2
     item_name: 星5人形支援要請書
     introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500016
+    type: 15
+    arg: "9500016"
+    code: Bumdle_invocation_3
+    item_name: 零電荷星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500017
+    type: 15
+    arg: "9500017"
+    code: Bumdle_invocation_2
+    item_name: 零電荷星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500018
+    type: 15
+    arg: "9500018"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500019
+    type: 15
+    arg: "9500019"
+    code: Bumdle_equipment
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
     type_sort: 1

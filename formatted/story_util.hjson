@@ -10054,6 +10054,7 @@
   {
     id: 989
     mission_id: "11098"
+    description: 「遠くにぼんやりと見えたものの姿が、ようやくはっきりしてきた――なぜか人形たちが、いがみ合いながら、取っ組み合いのケンカをしていた」
     campaign: -52
     title: 序章・ライカン狩り
     start: -52-0-1
@@ -10061,6 +10062,7 @@
   {
     id: 990
     mission_id: "11112"
+    description: 「そして最後に、カリーナの前にある赤い投票箱に目を止めた」
     campaign: -52
     title: 混沌のインターバル
     start: -52-8-1
@@ -10068,6 +10070,7 @@
   {
     id: 991
     mission_id: "11115"
+    description: 「月明かりの中、狩人のお話会が始まる……」
     campaign: -52
     title: 巡回する狩人
     start: -52-1-1
@@ -10075,6 +10078,7 @@
   {
     id: 992
     mission_id: "11101,11102"
+    description: 「40回くじを引いてもアタリが出ない……その原因は――」
     campaign: -52
     title: 射的の罠
     start: -52-2-1
@@ -10082,6 +10086,7 @@
   {
     id: 993
     mission_id: "11107"
+    description: 「なにジロジロ見てんの？もう何回も言ったでしょ――ノーコメント！」
     campaign: -52
     title: 薄暮の迷宮
     start: -52-3-1
@@ -10089,6 +10094,7 @@
   {
     id: 994
     mission_id: "11103,11104"
+    description: 「ゲームの醍醐味を壊して、ゲームを成り立たせようとした」
     campaign: -52
     title: 魔女のキャンプ
     start: -52-4-1
@@ -10096,6 +10102,7 @@
   {
     id: 995
     mission_id: "11105,11106"
+    description: 「平然で嘘をつけないようじゃ、『ライカン禁猟区』が上手にならないわ」
     campaign: -52
     title: 心魔の沼
     start: -52-5-1
@@ -10103,6 +10110,7 @@
   {
     id: 996
     mission_id: "11099,11100"
+    description: 「私は、呪いなんて信じないけどね」
     campaign: -52
     title: 反撃の狼煙
     start: -52-6-1
@@ -11446,6 +11454,7 @@
   {
     id: 1160
     mission_id: "11333"
+    description: 「キミの一生は、まだ始まったばかりだ」
     scripts: -58-start
     campaign: -58
     title: 黒いイリス
@@ -12078,6 +12087,7 @@
     id: 1234
     mission_id: "11435"
     campaign: -60
+    title: 迷宮の守衛+
     start: -60-tips
   }
   {
@@ -12639,5 +12649,158 @@
     campaign: -69
     title: 円環の運命
     start: -69-E-1
+  }
+  {
+    id: 1308
+    mission_id: "11712"
+    description: 誰もいないエルモ号、突然の異動命令、再公演される『ファウスト』……すべての道が、やがて一人に収束していく。
+    scripts: -70-A-2
+    campaign: -70
+    title: とある冬の童話
+    start: -70-A-2
+  }
+  {
+    id: 1309
+    mission_id: "11713"
+    description: 私の名前は、エンブラ・ペトロフスカヤです。
+    scripts: -70-A-4
+    campaign: -70
+    title: 二つの影法師
+    start: -70-A-4
+  }
+  {
+    id: 1310
+    mission_id: "11714"
+    description: フランクフルトの夜、人々はもがき、傷つき合い、暴虐の限りを尽くすタンゴを紡いでいく。
+    scripts: -70-A-6
+    campaign: -70
+    title: 暴虐のタンゴ
+    start: -70-A-6
+  }
+  {
+    id: 1311
+    mission_id: "11715"
+    description: かの憎き姿を追い、AK-15はパラデウスの臨時拠点に乗り込んだ。
+    scripts: -70-A-8
+    campaign: -70
+    title: 闇蝕
+    start: -70-A-8
+  }
+  {
+    id: 1312
+    mission_id: "11716"
+    description: そして彼女を待っていたのは、別の陰謀だった。
+    scripts: -70-A-10
+    campaign: -70
+    title: 彷徨う魂
+    start: -70-A-10
+  }
+  {
+    id: 1313
+    mission_id: "11717"
+    description: 人類文明の最後の砦、世界で最も清潔な場所で、また嵐が吹き荒れる。
+    scripts: -70-A-12
+    campaign: -70
+    title: その時、狐はすでに狩人になった
+    start: -70-A-12
+  }
+  {
+    id: 1314
+    mission_id: "11718"
+    description: 突拍子もなく湧き上がった敬虔の念で、AK-12は蝋燭に火をつけた。
+    scripts: -70-A-14
+    campaign: -70
+    title: ガラス玉ゲーム
+    start: -70-A-14
+  }
+  {
+    id: 1315
+    mission_id: "11719"
+    description: もしどんな願いでも叶うのなら、あなたは悪魔に魂を売り渡すか？
+    scripts: -70-A-16
+    campaign: -70
+    title: 最後の恩賜
+    start: -70-A-16
+  }
+  {
+    id: 1316
+    mission_id: "11720"
+    description: 私がまだこの世にいる理由は、あなたを殺すこと。
+    scripts: -70-A-18
+    campaign: -70
+    title: 蒼白な声部
+    start: -70-A-18
+  }
+  {
+    id: 1317
+    mission_id: "11721"
+    description: 己を闇に捧げ、我が名を唱え、我を彼女に導け。
+    scripts: -70-A-20
+    campaign: -70
+    title: 霧角
+    start: -70-A-20
+  }
+  {
+    id: 1318
+    mission_id: "11722"
+    description: そして死者たちは芽生え、花咲く。
+    scripts: -70-A-22
+    campaign: -70
+    title: 時間の目
+    start: -70-A-22
+  }
+  {
+    id: 1319
+    mission_id: "11723"
+    description: 神へ通ずる道は、我々を後ろへではなく、前へ導いている。我々を罪に導き、我々に試練を与える。
+    scripts: -70-E-1
+    campaign: -70
+    title: 荒野の狼
+    start: -70-E-1
+  }
+  {
+    id: 1320
+    mission_id: "11724"
+    description: これは私たちの約束だった。飛行機と、世界と。
+    scripts: -70-S-1
+    campaign: -70
+    title: パイロットの死I
+    start: -70-S-1
+  }
+  {
+    id: 1321
+    mission_id: "11725"
+    description: あのエカテリーナにも引けを取らないほどの勇敢さだ！
+    scripts: -70-S-2
+    campaign: -70
+    title: パイロットの死II
+    start: -70-S-2
+  }
+  {
+    id: 1322
+    mission_id: "11726"
+    description: 私は全世界に証明してみせる、遺跡の技術などまったく必要ないということを。
+    scripts: -70-S-3
+    campaign: -70
+    title: パイロットの死III
+    start: -70-S-3
+  }
+  {
+    id: 1323
+    mission_id: "11727"
+    description: 「SS」が彼女のコードネームだった。
+    scripts: -70-S-4
+    campaign: -70
+    title: パイロットの死IV
+    start: -70-S-4
+  }
+  {
+    id: 1324
+    mission_id: "11728"
+    description: RPK-16……私の……最後の希望……
+    scripts: -70-S-5
+    campaign: -70
+    title: パイロットの死V
+    start: -70-S-5
   }
 ]

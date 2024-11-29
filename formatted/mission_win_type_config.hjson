@@ -6183,26 +6183,43 @@
     id: 1170001
     type: 1407
     arguments: 1170002:1
+    extra_language:
+      '''
+      追いつく？？？。
+      <color=#CF8000>·橋のたもとへ移動</color>
+      '''
   }
   {
     id: 1170002
     type: 1407
     arguments: 1170003:1
+    extra_language:
+      '''
+      エージェントは警戒した。
+      ·エージェントとの戦闘が発生
+      '''
   }
   {
     id: 1170003
     type: 1306
     arguments: 9700301:1
+    extra_language: ？？？
   }
   {
     id: 1170101
     type: 1407
     arguments: 1170101:2
+    extra_language:
+      '''
+      2カ所のレーダーポイントに到達し、爆弾を設置する。
+      ·爆弾を拾ったり運んだりする必要はない。
+      '''
   }
   {
     id: 1170201
     type: 1407
     arguments: 1170202:1
+    extra_language: レーダーポイントに到達する。
   }
   {
     id: 1170301
@@ -6223,6 +6240,7 @@
     id: 1170601
     type: 1306
     arguments: 9701901:1
+    extra_language: ？？？
     is_hidden: 1
   }
   {
@@ -7074,12 +7092,14 @@
     id: 9711501
     type: 1102
     arguments: "1"
+    extra_language: ？？？
     is_hidden: 1
   }
   {
     id: 9711502
     type: 1407
     arguments: 1040100:1
+    extra_language: ？？？
     is_hidden: 2
   }
   {
