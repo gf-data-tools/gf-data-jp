@@ -1115,6 +1115,38 @@
       '''
   }
   {
+    item_id: 1500156
+    type: 1
+    prize_id: 140001
+    due_time: 2025/01/19 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500156
+  }
+  {
+    item_id: 1500157
+    type: 1
+    prize_id: 140002
+    due_time: 2025/01/19 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500157
+  }
+  {
+    item_id: 1500158
+    type: 2
+    drop_package_id: 2446
+    due_time: 2025/01/19 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500158
+  }
+  {
+    item_id: 1500159
+    type: 2
+    drop_package_id: 945
+    due_time: 2025/01/19 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500159
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -1257,6 +1289,30 @@
     due_time: 2025/01/05  23:59:59
     due_prize_id: 140075
     present_info: 座標指定投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つ選んで入手できます。
+  }
+  {
+    item_id: 1700019
+    type: 1
+    prize_id: 150107
+    due_time: 2025/02/09  23:59:59
+    due_prize_id: 140073
+    present_info: present-11700019
+  }
+  {
+    item_id: 1700020
+    type: 1
+    prize_id: 150108
+    due_time: 2025/02/09  23:59:59
+    due_prize_id: 140074
+    present_info: present-11700020
+  }
+  {
+    item_id: 1700021
+    type: 1
+    prize_id: 150109
+    due_time: 2025/02/09  23:59:59
+    due_prize_id: 140075
+    present_info: present-11700021
   }
   {
     item_id: 1800001

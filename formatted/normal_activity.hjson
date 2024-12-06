@@ -355,4 +355,16 @@
     event_prize_level: 10004
     rank_id: "304"
   }
+  {
+    id: 37
+    campaign_id: -51
+    tag: EP.|13.8
+    order: 12
+    name: 静止点
+    chapter_name: 静止点
+    bg_code: active_FixedPoint
+    bg_config: "#000000C7,#3D415166,#A3BD13,#FFFFFFFF"
+    desc: ベント期間：2023.05.26~06.23
+    scene_name: FixedPointlogo
+  }
 ]

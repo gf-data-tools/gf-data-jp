@@ -3739,8 +3739,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: critical_percent:1000,hit:1000
+    passive_skill: "1000401"
     max_level: 10
     auto_select_id: 18024
+    group_id: "25"
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000130
@@ -5831,8 +5833,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:800
+    passive_skill: "1000501"
     max_level: 10
     auto_select_id: 20027
+    group_id: "26"
     is_show: 1
     obtain_ids: "3016"
     sp_description: equip-40000192
@@ -12237,6 +12241,76 @@
     obtain_ids: "3113"
   }
   {
+    id: 390
+    name: Maid専用チップ
+    description:
+      '''
+      火力+<pow> 命中+<hit>
+      回避+<dodge>$G36 Mod専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,15"
+    hit: "3,5"
+    dodge: "8,10"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_G36
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20064"
+    equip_introduction: G36用にカスタマイズされた高性能チップ。どんなに忙しい中でも、めったにバグが起こらない。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:700,hit:1000,dodge:1000
+    passive_skill: "1000402"
+    max_level: 10
+    auto_select_id: 20079
+    group_id: "25"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 391
+    name: MK5式信号拳銃
+    description:
+      '''
+      命中+<hit>
+      部隊命中+20%$RO635 Mod専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "12,15"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_RO635
+    develop_duration: 3600
+    company: 16Lab
+    fit_guns: "20143"
+    equip_introduction: RO635がよく任務で使う信号拳銃。幾度ものピンチの中で役に立っていたため、RO635はなかなか新しいものに換えようとしない。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:700
+    passive_skill: "759034,1000502"
+    max_level: 10
+    auto_select_id: 19074
+    group_id: "26"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 部隊命中+20%
+  }
+  {
     id: 395
     name: FMG防護骨格
     description:
@@ -12503,5 +12577,40 @@
     auto_select_id: 18120
     is_show: 1
     obtain_ids: "3116"
+  }
+  {
+    id: 412
+    name: 冬霜VI
+    description:
+      '''
+      火力+<pow> 射速<rate>
+      会心ダメージ+<critical_harm_rate><%>スキル強化$AK-12専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    rate: "-10,-5"
+    critical_harm_rate: "15,20"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_AK12
+    develop_duration: 3060
+    company: ZNT
+    fit_guns: "206,20206"
+    equip_introduction: アヴェルヌスから撤退した時、AK-12が持ち帰った、パラデウス開発の第六世代戦術マント。これを使用すると、AK-12はステルス状態に入ることができる。使用していない時は、半透明の軽いベールみたいな見た目になっている。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:1000,critical_harm_rate:750
+    passive_skill: "992500"
+    max_level: 10
+    auto_select_id: 20088
+    is_show: 1
+    obtain_ids: "3016"
+    description_skill: 992500
   }
 ]

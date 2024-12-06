@@ -11842,6 +11842,22 @@
     type_sort: 6
   }
   {
+    id: 30022
+    name: やさしい音色
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 81
+    skin: 30022
+    poster: 330022
+    code: gift_bundle_BattlePass_LWMMG
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 50001
     name: 星々へ
     type: 2
