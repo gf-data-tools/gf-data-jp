@@ -8714,7 +8714,7 @@
   {
     id: 9700307
     name: 加速
-    description: 行动力提升
+    description: 移動力上昇
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -8726,8 +8726,8 @@
   }
   {
     id: 9700308
-    name: 禁足
-    description: 无法移动
+    name: 定身
+    description: 移動禁止
     code: Theresa_Back
     type: 2
     duration_type: "1"
@@ -8739,8 +8739,8 @@
   }
   {
     id: 9701203
-    name: 强化
-    description: 处于强化状态中，战斗中将难以被击败。
+    name: 強化
+    description: 強化状態になっている場合、戦闘で撃破されるのは難しい。
     code: Invincible
     type: 1
     duration_type: "1"
@@ -8765,7 +8765,7 @@
   {
     id: 9701205
     name: 加速
-    description: 行动力提升
+    description: 移動力上昇
     code: ExtraMove2
     type: 1
     duration_type: "1"
@@ -8778,7 +8778,7 @@
   {
     id: 9701512
     name: 加速
-    description: 行动力提升
+    description: 移動力上昇
     code: ExtraMove3
     type: 1
     duration_type: "1"
