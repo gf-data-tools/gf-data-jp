@@ -337,7 +337,7 @@
     campaign_id: -42
     tag: C.E.|2021
     order: 101
-    name: 季節イベントⅡ
+    name: 季節イベントⅢ
     chapter_name: 繭中の蝶
     bg_code: active_Halloween2020
     bg_config: "#000000C7,#3D415166,#E64801FF,#FFFFFFFF"
@@ -366,5 +366,17 @@
     bg_config: "#000000C7,#3D415166,#A3BD13,#FFFFFFFF"
     desc: ベント期間：2023.05.26~06.23
     scene_name: FixedPointlogo
+  }
+  {
+    id: 55
+    campaign_id: -49
+    tag: C.E.|2021
+    order: 102
+    name: 季節イベントⅢ
+    chapter_name: 一枚の重み
+    bg_code: active_Xmas2021
+    bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
+    desc: ベント期間：2021.12.24~2022.01.14
+    scene_name: active_Xmas2021logo
   }
 ]

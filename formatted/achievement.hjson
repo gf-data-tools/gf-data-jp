@@ -17472,4 +17472,21 @@
     icon_code: 击杀boss
     condition: 11706:1170601,11700:1170003
   }
+  {
+    identity: 1224
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 過ぎ去る雪、花の如く
+    content: 零電荷のエンディングテーマを最後まで鑑賞する。
+    type_sort: 100
+    sort: 328
+    icon_code: 就是这个人
+    condition: "11722"
+  }
 ]

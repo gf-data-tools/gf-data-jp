@@ -29568,6 +29568,21 @@
     touch_area: "4,5,4"
   }
   {
+    id: 20149
+    name: ポスター-2024「零電荷」
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024年限定イベント-零電荷の限定ポスター
+    code: pv_202407activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: かぼちゃクマさん
     classes: 300
@@ -39792,6 +39807,96 @@
     decompose_gift: 100003
     description: ファルコンのポスター。
     code: poster_Dining2023_Falcon
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39001
+    name: 星に願いを向けて
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M26-MASSのポスター。
+    code: poster_Christmas2023_M26MASS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39003
+    name: 真っ白パーティー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15のポスター。
+    code: poster_Christmas2023_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39004
+    name: リンゴ・スケッチ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: TKB-408のポスター
+    code: poster_Christmas2023_TKB408
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39005
+    name: レッドベルベットケーキ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr Mk23のポスター。
+    code: poster_Christmas2023_Mk23
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39006
+    name: 朝のスズメ
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr MP5のポスター。
+    code: poster_Christmas2023_MP5
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39007
+    name: トナカイの逸話
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Zas M76のポスター
+    code: poster_Christmas2023_ZasM76
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
