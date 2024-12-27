@@ -1482,6 +1482,31 @@
     years: 2024
   }
   {
+    id: 113
+    rank: 5
+    bonus_picture: "3109"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    code: WhiteV2024_deco_07_icon
+    is_showed: 1
+    placement: 1
+    years: 2023
+  }
+  {
+    id: 114
+    name: 春のお花見
+    rank: 5
+    bonus_picture: "3110"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 15
+    description: 春のお花見をテーマにした家具セット。この時のそれぞれの思いは、舞い散る桜の花のみぞ知る……毎年毎年、咲いては散る。
+    bonus_description: 揃えると宿舍内で思いもよらぬ現象が起こる。
+    code: NewYear2025_wall_icon
+    is_showed: 1
+    placement: 1
+    years: 2025
+  }
+  {
     id: 299
     name: ペット
     rank: 5

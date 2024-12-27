@@ -5485,6 +5485,29 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 236001
+    id: 236
+    name: ゲーガー-VWV型
+    sub_name: ゲーガー-VWV型
+    type: 1
+    code: GagerSwimwear
+    introduce: ゲーガーの臨海戦闘特化型、通称VWV型。本来のゲーガーをベースに、水上、海辺での戦闘に重きを置いたチューンが施されている。仮に戦場が海辺ではなくても、戦場を無理やり海辺に変える装備も備え付けられている。錨型の武器は荒ぶる嵐の如く、波と風を呼び寄せる。
+    forces: 1
+    if_capture: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 臨海戦闘用の素体に乗り換えたゲーガー。火力はもちろん、陣地作成能力と指揮能力も大幅に強化されている。
+    character: "1001,207"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+    org_id: 10602
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: ゲベンヌ

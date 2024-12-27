@@ -27640,6 +27640,231 @@
     rotate: "3,3,3"
   }
   {
+    id: 11401
+    name: 春のお花見-舞い落ちる花びら
+    classes: 114
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 足を伸ばした瞬間、風が通り、桜の花びらが舞い落ち、地面に残された足跡をそっと隠す。
+    code: NewYear2025_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11402
+    name: 春のお花見-澄み渡る空
+    classes: 114
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 澄み渡る空と同じ、透き通る君の瞳。
+    code: NewYear2025_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11403
+    name: 春のお花見-満開の桜
+    classes: 114
+    type: 201
+    position: "0,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 桜の花びらが落ちる速度は、秒速5センチメートルだって。
+    code: NewYear2025_deco_01_A,NewYear2025_deco_01_B,NewYear2025_deco_01_C,NewYear2025_deco_01_D,NewYear2025_deco_A
+    texture_type: "1,1,1,1,2"
+    sorting: "10,10,10,10,0"
+    offset: "0,-0.146,-0.031|0,4.338,1.001|4.608,4.338,1.001|4.608,-0.146,-0.031|0,2.398,0.553"
+    rotate: "2,2,2,2,2"
+  }
+  {
+    id: 11404
+    name: 春のお花見-和菓子の屋台
+    classes: 114
+    type: 201
+    position: "24,7"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 三色団子はいかがですか？ピンクは春の桜、白は冬の雪、緑は……これから君と一緒に過ごしたい夏の日。
+    code: NewYear2025_deco_02
+    texture_type: "1"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "17"
+    interact_point_offset: *-0.350,0.285,-0.285
+  }
+  {
+    id: 11405
+    name: 春のお花見-七年目の思い出
+    classes: 114
+    type: 201
+    position: "7,13"
+    space: "4,1,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 「もう七年目か……」七年間の写真を眺めながら、君は思いに耽る。
+    code: NewYear2025_deco_03
+    texture_type: "1"
+    offset: "0,-0.104,0"
+    rotate: "2"
+  }
+  {
+    id: 11406
+    name: 春のお花見-花びらの池
+    classes: 114
+    type: 201
+    position: "27,11"
+    space: "6,3,0,0,0,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 舞い落ちた花びらは、水面で小さなさざ波を起す。
+    code: NewYear2025_deco_04
+    texture_type: "1"
+    sorting: "10"
+    offset: "0,-0.104,0"
+    rotate: "2"
+  }
+  {
+    id: 11407
+    name: 春のお花見-舞い散る桜
+    classes: 114
+    type: 201
+    position: "32,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 桜の花びらが落ちる速度は、秒速5センチメートルだって。
+    code: NewYear2025_deco_05_A,NewYear2025_deco_05_B,NewYear2025_deco_05_C,NewYear2025_deco_05_D,NewYear2025_deco_A
+    texture_type: "1,1,1,1,2"
+    sorting: "10,10,10,10,0"
+    offset: "-0.886,-0.156,-0.031|-0.886,4.327,1.001|3.721,4.327,1.001|3.721,-0.156,-0.031|-0.886,2.387,0.553"
+    rotate: "2,2,2,2,2"
+  }
+  {
+    id: 11408
+    name: 春のお花見-春を愉しむ
+    classes: 114
+    type: 201
+    position: "12,5"
+    space: "8,7,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: シート1枚、暖かいお茶1本、友人と共に、1日のお花見――こんな日は、あと何回やって来るのだろうか？
+    code: NewYear2025_deco_06_A,NewYear2025_deco_06_B,NewYear2025_deco_06_C
+    texture_type: "1,1,1"
+    sorting: "0,10,10"
+    offset: "-0.146,-0.156,0|-1.157,0.083,0|0.980,0.083,0"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *2.508,0.996,-0.285|*-3.063,0.996,-0.285
+  }
+  {
+    id: 11409
+    name: 春のお花見-賞味の時
+    classes: 114
+    type: 201
+    position: "1,3"
+    space: "8,7,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 一緒に花を見て、一緒にお茶を飲んで、気持ちを語り合える人がいるのは……本当に素敵なこと。
+    code: NewYear2025_deco_07
+    texture_type: "1"
+    offset: "0,-0.313,0"
+    rotate: "2"
+    interact_point: "20"
+    interact_point_offset: *-1.167,0.000,-0.285
+  }
+  {
+    id: 11410
+    name: 春のお花見-花提灯夢の如く
+    classes: 114
+    type: 201
+    position: "32,9"
+    space: "1,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 灯と花と、それらを映す池の水、夢幻の如く。
+    code: NewYear2025_deco_C
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 11411
+    name: 春のお花見-花見椿
+    classes: 114
+    type: 201
+    position: "9,2"
+    space: "3,2,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: お花見ののぼり旗。こんなものを置かなくても、花の香りは春を告げてくれる。
+    code: NewYear2025_deco_08,NewYear2025_deco_08
+    texture_type: "1,1"
+    sorting: "0,10"
+    offset: "-0.521,0,0|0.104,0,0"
+    rotate: "2,2"
+  }
+  {
+    id: 11412
+    name: 春のお花見-再会へのバス
+    classes: 114
+    type: 201
+    position: "3,0"
+    space: "14,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 車のガラス越しに、遠くにある駅で手を振っている君を見た瞬間、僕は、この旅の意味を理解した。
+    code: NewYear2025_deco_09_A,NewYear2025_deco_09_B,NewYear2025_deco_B
+    texture_type: "1,1,2"
+    sorting: "0,0,10"
+    offset: "-0.085,-0.157,0|4.513,-0.157,0|0.886,1.376,0.349"
+    rotate: "2,2,2"
+  }
+  {
+    id: 11413
+    name: 春のお花見-お祭り景品の屋台
+    classes: 114
+    type: 201
+    position: "22,1"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: この風鈴を貰っていくといい。その音は風の便り、具現化された思いなのだから。
+    code: NewYear2025_deco_10,NewYear2025_deco_D
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0,-0.417,0|-0.782,1.001,0.315"
+    rotate: "2,2"
+  }
+  {
+    id: 11414
+    name: 春のお花見-スペシャル花見ドリンク
+    classes: 114
+    type: 201
+    position: "1,12"
+    space: "5,2,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: ピンク色の炭酸水が置いてある自動販売機。何やらスペシャルなサクラ味らしいが……それってどんな味だ？
+    code: NewYear2025_deco_11
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
     id: 20004
     name: 四度目の輝けるステージ
     classes: 31
@@ -44324,6 +44549,96 @@
     decompose_gift: 100003
     description: Gr Mk23のポスター
     code: poster_Detective2024_Mk23
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311201
+    name: 椒花の彩典
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15のポスター。
+    code: poster_NewYear2025_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311202
+    name: 斬、鶴羽の舞
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: パイソンのポスター。
+    code: poster_NewYear2025_Python
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311203
+    name: 春霞紀行
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Model 99のポスター。
+    code: poster_NewYear2025_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311204
+    name: 曦狐にひれ伏すがよい
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M37のポスター。
+    code: poster_NewYear2025_Ithaca37
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311205
+    name: 朧夜香
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZiP .22のポスター。
+    code: poster_NewYear2025_ZIP22
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311206
+    name: 紅梅と可憐なる君
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: アストラのポスター。
+    code: poster_NewYear2025_357
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

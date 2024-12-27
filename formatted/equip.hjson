@@ -11374,6 +11374,39 @@
     sp_description: 部隊ダメージ+5%
   }
   {
+    id: 357
+    name: TC高性能外骨格
+    description:
+      '''
+      回避+<dodge>
+      スキル強化$コンテンダー専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "12,18"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_竞争者
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "183"
+    equip_introduction: コンテンダー用に設計された外骨格。射撃時の安定性と、戦闘時の運動性能を引き上げてくれる。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "759246"
+    max_level: 10
+    auto_select_id: 20066
+    is_show: 1
+    obtain_ids: "3089"
+    description_skill: 759246
+  }
+  {
     id: 358
     name: .45UMPホローポイント弾
     description:

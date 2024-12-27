@@ -837,6 +837,24 @@
     rank: 1
   }
   {
+    id: 140
+    type: 3
+    arg: "41"
+    code: Medal_Theater13th
+    item_name: 第十三戦区開拓者勲章
+    introduction: 第十三期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「その戦う姿は、人々にとっての希望だ」
+    rank: 1
+  }
+  {
+    id: 141
+    type: 3
+    arg: "42"
+    code: Medal_Theater13th_rank
+    item_name: 第十三戦区征服者勲章
+    introduction: 第十三期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「あなたを中心に、人形たちは集い、新たなる力となる」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -929,6 +947,15 @@
     code: CentreDataRPG29
     item_name: 中枢データ:RPG-29
     introduction: 重装部隊RPG-29のデータの欠片。-「冬の夜でそんな全身緑の迷彩を使うやつなんているかよ？零点だ！」「姉さん、これはクリスマスツリーなんだ」
+    rank: 1
+  }
+  {
+    id: 311
+    type: 1
+    arg: "1"
+    code: CentreDataL9A1
+    item_name: 中枢データ:L9A1
+    introduction: 火力支援小隊L9A1のデータの欠片――「この依頼終わったら休もう？」「え、いいの？次の依頼は時間限定報酬2倍だよ？」
     rank: 1
   }
   {
@@ -14822,6 +14849,78 @@
     rank: 1
   }
   {
+    id: 2624
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025JP_coremask
+    item_name: 真核の仮面アイコン：巳年贈物
+    introduction: 真核の仮面アイコン：巳年贈物
+    rank: 1
+  }
+  {
+    id: 2631
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_SPAS15
+    item_name: 椒花の彩典
+    introduction: 椒花の彩典
+    rank: 1
+  }
+  {
+    id: 2632
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Python
+    item_name: 斬、鶴羽の舞
+    introduction: 斬、鶴羽の舞
+    rank: 1
+  }
+  {
+    id: 2633
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Savage99
+    item_name: 春霞紀行
+    introduction: 春霞紀行
+    rank: 1
+  }
+  {
+    id: 2634
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Ithaca37
+    item_name: 曦狐にひれ伏すがよい
+    introduction: 曦狐にひれ伏すがよい
+    rank: 1
+  }
+  {
+    id: 2635
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_ZIP22
+    item_name: 朧夜香
+    introduction: 朧夜香
+    rank: 1
+  }
+  {
+    id: 2636
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_357
+    item_name: 紅梅と可憐なる君
+    introduction: 紅梅と可憐なる君
+    rank: 1
+  }
+  {
+    id: 2637
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Type100_JP
+    item_name: アイコン：福運の大吉
+    introduction: アイコン：福運の大吉
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17861,6 +17960,15 @@
     code: coremask2_202407ZeroCharge
     item_name: 蝕心の仮面・零電荷
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100253
+    type: 4
+    arg: "100253"
+    code: core_mask_NewYear2025_JP
+    item_name: 真核の仮面・巳年贈物
+    introduction: 真核の仮面・巳年贈物
     rank: 1
   }
   {
@@ -23305,6 +23413,76 @@
     code: Bumdle_equipment
     item_name: 星5装備指定交換券
     introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500020
+    type: 15
+    arg: "9500020"
+    code: Bumdle_invocation_1
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500021
+    type: 15
+    arg: "9500021"
+    code: Bumdle_invocation_2
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500022
+    type: 15
+    arg: "9500022"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500023
+    type: 15
+    arg: "9500023"
+    code: Bumdle_Coupons3
+    item_name: 秘蔵スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500024
+    type: 15
+    arg: "9500024"
+    code: Bumdle_Coupons2
+    item_name: プレミアムスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500025
+    type: 15
+    arg: "9500025"
+    code: Bumdle_Coupons1
+    item_name: 至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
     type_sort: 1
