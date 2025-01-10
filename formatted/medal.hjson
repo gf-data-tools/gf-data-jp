@@ -349,6 +349,18 @@
     decorate_code: Logo_Events
   }
   {
+    id: 31
+    name: 闇の駆逐者勲章
+    order: 69
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "184,185,186,187,188,189,190,191,192,193,194,195"
+    item_id: 130
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「双連乱数」のランキングステージ「秘密の渦中+」で、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
     id: 32
     name: 再帰者勲章
     order: 68

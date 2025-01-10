@@ -235,4 +235,22 @@
     group_skill: 2:1000503
     fit_gun: "20143"
   }
+  {
+    id: 27
+    name: 一つの極み
+    des: ブレンにピッタリな装備一式。目標となる頂点を目指すためには欠かせない。
+    code: EgroupBrenMKMod
+    equip_unit: "393,123,0"
+    group_skill: 2:1001103
+    fit_gun: "20089"
+  }
+  {
+    id: 28
+    name: 飴玉砲弾
+    des: AA-12にピッタリな装備一式。より効率的に問題を解決できるようになった。
+    code: EgroupAA12
+    equip_unit: "394,174,0"
+    group_skill: 2:1001203
+    fit_gun: "163"
+  }
 ]
