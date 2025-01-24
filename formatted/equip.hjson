@@ -11608,6 +11608,41 @@
     obtain_ids: "3003"
   }
   {
+    id: 364
+    name: パトロール用ヘルメット
+    description:
+      '''
+      移動速度+<speed>
+      防御+<armor>$M870専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "3,3"
+    armor: "4,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: 人形_特殊_M870
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "229"
+    equip_introduction: 以前高速道路でパトロールしていた時に着用していたヘルメット、とM870が自称している。意外と、取り締まり時に相手を委縮させる効果があったらしい。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:500
+    passive_skill: "759267"
+    max_level: 10
+    auto_select_id: 20069
+    is_show: 1
+    obtain_ids: "3090"
+    description_skill: 759267
+  }
+  {
     id: 365
     name: 戦術髪飾り
     description:
@@ -12717,5 +12752,73 @@
     is_show: 1
     obtain_ids: "3016"
     description_skill: 992500
+  }
+  {
+    id: 416
+    name: GH防弾シールド
+    description:
+      '''
+      移動速度<speed> 防御+<armor>
+      被ダメージ-1$SPAS-12専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "-3,-3"
+    armor: "3,7"
+    skill_effect: 150
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: TDoll_SP_SPAS12
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "162,20162"
+    equip_introduction: SPAS-12専用の防弾シールド。非常に分厚く作られており、安心感がある。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:600
+    passive_skill: "740091"
+    max_level: 10
+    auto_select_id: 20091
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 被ダメージ-1
+  }
+  {
+    id: 417
+    name: アングル外骨格
+    description:
+      '''
+      火力<pow>
+      回避+<dodge>$HS2000専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-6,-3"
+    dodge: "16,21"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_HS2000
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "250"
+    equip_introduction: 医療人形用の特別装備、救急時には非常に役に立つ。HS2000はこれをとても気に入っている。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    max_level: 10
+    auto_select_id: 20092
+    is_show: 1
+    obtain_ids: "3117"
   }
 ]

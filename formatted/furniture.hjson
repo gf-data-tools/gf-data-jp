@@ -29793,6 +29793,35 @@
     touch_area: "4,5,4"
   }
   {
+    id: 20147
+    name: 終盤の召喚
+    classes: 19
+    type: 201
+    space: "9,7,1,1,0,1"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「白のポーンはクイーンにプロモーション！これで全員倒す！」新人のダイナーゲートはそう叫んだ。「いやいや、ここはまずキングを助けるのだ……」しかしベテランのダイナーゲートはそうアドバイスした。
+    code: 202408Activity_Chess_deco,202408Activity_Chess
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.000,-0.178,0.000|0.021,0.344,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 20148
+    name: 破局者勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「銀染現像」にて称えられる功績を残したことを表彰する。「天は自ら助くる者を助く。多くの困難を乗り越えた後、無限の未来が広がる」
+    code: 202408Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 20149
     name: ポスター-2024「零電荷」
     classes: 20
@@ -44225,6 +44254,21 @@
     rotate: "3"
   }
   {
+    id: 310107
+    name: 吉慶有余
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ブレン・テンのポスター。
+    code: poster_SpringFes2024_BrenTen
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 310201
     name: 月の下、天使の涙
     classes: 300
@@ -44549,6 +44593,111 @@
     decompose_gift: 100003
     description: Gr Mk23のポスター
     code: poster_Detective2024_Mk23
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310701
+    name: 緋色のキング
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUGのポスター。
+    code: poster_Chess2024_AUG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310702
+    name: 逆さのルーク
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ライノのポスター
+    code: poster_Chess2024_Rhino
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310703
+    name: ルール無用のクイーン
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: トンプソンのポスター。
+    code: poster_Chess2024_M1928A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310704
+    name: 躍動のナイト
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556のポスター。
+    code: poster_Chess2024_APC556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310705
+    name: 神託の守護者
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P7のポスター。
+    code: poster_Chess2024_P7
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310706
+    name: クラッシュポーン
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP41のポスター。
+    code: poster_Chess2024_MP41
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310707
+    name: にゃんこハンマー
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: IDWのポスター。
+    code: poster_Chess2024_IDW
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

@@ -1086,6 +1086,51 @@
     present_info: 区域間投下のビーコンを購入し使用した場合、投下リストの中からアイテムを1つランダムで入手できます。
   }
   {
+    item_id: 1500149
+    type: 2
+    poster: PackageImage_Angulargyrus_1
+    drop_package_id: 2443
+    due_time: 2025/02/24  23:59:59
+    due_prize_id: 330610
+    present_info: present-11500149
+  }
+  {
+    item_id: 1500150
+    type: 2
+    poster: PackageImage_Angulargyrus_2
+    drop_package_id: 2444
+    due_time: 2025/02/24  23:59:59
+    due_prize_id: 330611
+    present_info: present-11500150
+  }
+  {
+    item_id: 1500151
+    type: 2
+    poster: PackageImage_Angulargyrus_3
+    drop_package_id: 2445
+    due_time: 2025/02/24  23:59:59
+    due_prize_id: 330612
+    present_info: present-11500151
+  }
+  {
+    item_id: 1500152
+    type: 1
+    poster: PackageImage_rank4
+    prize_id: 2594
+    due_time: 2025/06/24  23:59:59
+    due_prize_id: 1993
+    present_info: present-11500152
+  }
+  {
+    item_id: 1500153
+    type: 1
+    poster: PackageImage_rank5
+    prize_id: 2595
+    due_time: 2025/06/24  23:59:59
+    due_prize_id: 1994
+    present_info: present-11500153
+  }
+  {
     item_id: 1500154
     type: 1
     poster: PackageImage_Sangvis
@@ -1880,5 +1925,23 @@
       【クリスマス】：愉快な冬月、スノーフェアリー、騒がしいクリスマス小屋、霜夜の旋律、雪降り遊弋中、銀色のフェアリーテイル、暖炉の夢
       【その他】：朝顔と夕夢、王子前線、見習いメイドの日、スーパーケモミミ学院、幻影暴走花、烽烟戦歌、浮世奇譚絵巻、オペレーション・トワイライト、初歩的なこと、ビーストタウン・ラプソディ、少女と鋼の詩、情熱輝く瞬間、奇妙なデートガイド、碧き波の黒い帆、彼方への旅人、侠女風雲録、赴任初日
       '''
+  }
+  {
+    item_id: 9500026
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 331209
+    due_time: 2025/06/24  23:59:59
+    due_prize_id: 2598
+    present_info: present-19500026
+  }
+  {
+    item_id: 9500027
+    type: 1
+    poster: PackageImage_Equip
+    prize_id: 2597
+    due_time: 2025/06/24  23:59:59
+    due_prize_id: 2599
+    present_info: present-19500027
   }
 ]

@@ -846,6 +846,15 @@
     rank: 1
   }
   {
+    id: 139
+    type: 3
+    arg: "40"
+    code: Medal_202408Activity
+    item_name: 破局者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「銀染現像」にて称えられる功績を残したことを表彰する。「天は自ら助くる者を助く。多くの困難を乗り越えた後、無限の未来が広がる」
+    rank: 1
+  }
+  {
     id: 140
     type: 3
     arg: "41"
@@ -14183,6 +14192,15 @@
     rank: 1
   }
   {
+    id: 2440
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_BrenTen
+    item_name: 吉慶有余
+    introduction: 吉慶有余
+    rank: 1
+  }
+  {
     id: 2442
     type: 5
     arg: "1"
@@ -14867,6 +14885,141 @@
     rank: 1
   }
   {
+    id: 2542
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_AUG
+    item_name: 緋色のキング
+    introduction: 緋色のキング
+    rank: 1
+  }
+  {
+    id: 2543
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_Rhino
+    item_name: 逆さのルーク
+    introduction: 逆さのルーク
+    rank: 1
+  }
+  {
+    id: 2544
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_M1928A1
+    item_name: ルール無用のクイーン
+    introduction: ルール無用のクイーン
+    rank: 1
+  }
+  {
+    id: 2545
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_APC556
+    item_name: 躍動のナイト
+    introduction: 躍動のナイト
+    rank: 1
+  }
+  {
+    id: 2546
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_P7
+    item_name: 神託の守護者
+    introduction: 神託の守護者
+    rank: 1
+  }
+  {
+    id: 2547
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_MP41
+    item_name: クラッシュポーン
+    introduction: クラッシュポーン
+    rank: 1
+  }
+  {
+    id: 2548
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_IDW
+    item_name: にゃんこハンマー
+    introduction: にゃんこハンマー
+    rank: 1
+  }
+  {
+    id: 2549
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_01
+    item_name: アイコン：初めての懐かしい人
+    introduction: アイコン：初めての懐かしい人
+    rank: 1
+  }
+  {
+    id: 2550
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_02
+    item_name: アイコン：言わずもかな
+    introduction: アイコン：言わずもかな
+    rank: 1
+  }
+  {
+    id: 2551
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_03
+    item_name: アイコン：心磨き
+    introduction: アイコン：心磨き
+    rank: 1
+  }
+  {
+    id: 2552
+    type: 5
+    arg: "1"
+    code: card_202408Activity_01
+    item_name: IDカード背景：届かないもの
+    introduction: IDカード背景：届かないもの
+    rank: 1
+  }
+  {
+    id: 2553
+    type: 5
+    arg: "1"
+    code: card_202408Activity_02
+    item_name: IDカード背景：遥かなる空
+    introduction: IDカード背景：遥かなる空
+    rank: 1
+  }
+  {
+    id: 2554
+    type: 5
+    arg: "1"
+    code: cg_202408Activity_01
+    item_name: 基地背景：夕暮れの残響
+    introduction: 基地背景：夕暮れの残響
+    rank: 1
+  }
+  {
+    id: 2555
+    type: 5
+    arg: "1"
+    code: cg_202408Activity_02
+    item_name: 基地背景：無垢なグレイス
+    introduction: 基地背景：無垢なグレイス
+    rank: 1
+  }
+  {
+    id: 2556
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_GagerSwimwear
+    item_name: ゲーガー-VWV型アイコン
+    introduction: ゲーガー-VWV型アイコン
+    rank: 1
+  }
+  {
     id: 2557
     type: 5
     arg: "1"
@@ -14972,6 +15125,15 @@
     code: profilePic_NewYear2025_Type100_JP
     item_name: アイコン：福運の大吉
     introduction: アイコン：福運の大吉
+    rank: 1
+  }
+  {
+    id: 3501
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_SPAS12Mod
+    item_name: SPAS-12メンタルアップグレードアイコン
+    introduction: SPAS-12メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -18026,6 +18188,43 @@
     rank: 1
   }
   {
+    id: 100233
+    type: 4
+    arg: "100233"
+    code: Nova_medal
+    item_name: 新星勲章・銀染現像
+    introduction: 新星勲章・銀染現像
+    rank: 1
+  }
+  {
+    id: 100234
+    type: 4
+    arg: "100234"
+    code: Platinum_medal
+    item_name: 白金勲章・銀染現像
+    introduction: 白金勲章・銀染現像
+    rank: 1
+  }
+  {
+    id: 100235
+    type: 9
+    arg: "100235"
+    code: Coin_202408AngularGyrus
+    item_name: 勝利への駒
+    introduction: 盤上の勝負において、駒に後退の権利はない。
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100236
+    type: 4
+    arg: "100236"
+    code: coremask2_202408AngularGyrus
+    item_name: 蝕心の仮面・銀染現像
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
     id: 100253
     type: 4
     arg: "100253"
@@ -18960,6 +19159,15 @@
     code: Y_Z_zhihuiguan_Restaurant
     item_name: デンジャラスゲーム
     introduction: ルールは簡単だ：このナイフがリンゴに当たったら、今日はお前が皿を洗え。当たらなかったら、まぁ、私がやるしかないな。
+    rank: 1
+  }
+  {
+    id: 130024
+    type: 12
+    arg: "130024"
+    code: Y_Z_zhihuiguan_baozhu
+    item_name: 結彩雷動
+    introduction: 爆竹で新年を祝うのは確かに一つの醍醐味ではあるが、基地の中で爆竹をつけたやつには、センサーで起動した自動防衛機銃の相手をしてもらうより他はない。
     rank: 1
   }
   {
@@ -22779,6 +22987,61 @@
     type_sort: 1
   }
   {
+    id: 1500149
+    type: 15
+    arg: "1500149"
+    code: Bumdle_Angulargyrus01
+    item_name: 銀染現像限定スキン抽選券・一
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500150
+    type: 15
+    arg: "1500150"
+    code: Bumdle_Angulargyrus02
+    item_name: 銀染現像限定スキン抽選券・二
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500151
+    type: 15
+    arg: "1500151"
+    code: Bumdle_Angulargyrus03
+    item_name: 銀染現像限定スキン抽選券・三
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500152
+    type: 15
+    arg: "1500152"
+    code: Bumdle_invocation_3
+    item_name: ★4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500153
+    type: 15
+    arg: "1500153"
+    code: Bumdle_invocation_2
+    item_name: ★5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1500154
     type: 15
     arg: "1500154"
@@ -23660,6 +23923,32 @@
     code: Bumdle_Coupons1
     item_name: 至高のスキン抽選券
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500026
+    type: 15
+    arg: "9500026"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500027
+    type: 15
+    arg: "9500027"
+    code: Bumdle_equipment
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
     type_sort: 1

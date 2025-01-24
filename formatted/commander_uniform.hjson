@@ -3573,6 +3573,106 @@
     color_icon_id: "942,943,944,945,946,947"
   }
   {
+    id: 5811
+    name: 饗宴屠蘇
+    description: 何も言う必要はない。これこそ最も伝統的で洗練された飲みにふさわしい髪型だ！指揮官、せっかくの新年だ、酔いに酔おうではないか！――飲んだくれのデザイナーより
+    code: Head1
+    icon: commander_5811_icon
+    type: 1
+    gender: 1
+    uniform_class: "58"
+    color_normal: Commander_5811_N
+    color_icon_id: "950"
+  }
+  {
+    id: 5812
+    name: 映雪繁花
+    description: 大金を払ってこれを買ってきたんだ！何でも春一番で咲く花らしい。貴重なものだが、とりあえずつけてみてくれ！――金遣いが荒いデザイナーより
+    code: Head2
+    icon: commander_5812_icon
+    type: 1
+    gender: 2
+    uniform_class: "58"
+    color_normal: Commander_5812_N
+    color_icon_id: "951"
+  }
+  {
+    id: 5820
+    name: 禧賀百家
+    description: 新春の際、誰もが君に祝いの言葉を贈りに来る。そしてポチ袋で、君の財布の中身を持ち帰っていく――まぁ、後でクルーガーさんのところに挨拶しに行こうか？
+    code: HeadAcco
+    icon: commander_5820_icon
+    type: 2
+    uniform_class: "58"
+    color_normal: Commander_5820_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.611,0.575"
+    color_icon_id: "952"
+  }
+  {
+    id: 5831
+    name: 鴻彩満福
+    description: やっぱり、指揮官にはとびっきりの「福」をあげないとね！だから「福」の絵をこの服につけた！もちろん、背中の方にも……――イタズラ好きのデザイナーより
+    code: Body1
+    icon: commander_5831_icon
+    type: 3
+    gender: 1
+    uniform_class: "58"
+    color_normal: Commander_5831_N
+    color_icon_id: "953"
+  }
+  {
+    id: 5832
+    name: 辞寒迎春
+    description: まだまだ寒い季節なので、冷えないようにもふもふの襟をつけておいたわ。これで、少しは春の暖かさを感じられるようになるでしょ？――やさしいデザイナーより
+    code: Body2
+    icon: commander_5832_icon
+    type: 3
+    gender: 2
+    uniform_class: "58"
+    color_normal: Commander_5832_N
+    color_icon_id: "954"
+  }
+  {
+    id: 5840
+    name: 盛坊灯華
+    description: 提灯が好きなのは知ってるから、たくさん用意してやったぜ。ただ、これはあくまでも照明用の工芸品だから、絶対に振り回したりするなよ！――提灯は流星錘じゃねぇからな！
+    code: BodyAcco
+    icon: commander_5840_icon
+    type: 4
+    uniform_class: "58"
+    color_normal: Commander_5840_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.161,-0.137"
+    color_icon_id: "955"
+  }
+  {
+    id: 5851
+    name: 巡祭神荼
+    description: こういうのは信じるかどうかの話じゃなくて、願掛けだよ、願掛け！さささ、ここでお香を焚いて、お願いしてみよう！――民俗学に詳しいデザイナーより
+    code: Foot1
+    icon: commander_5851_icon
+    type: 5
+    gender: 1
+    uniform_class: "58"
+    color_normal: Commander_5851_N
+    color_icon_id: "956"
+  }
+  {
+    id: 5852
+    name: 点画桃符
+    description: くじの結果によれば、この服を着たら、指揮官は新年早々幸運に恵まれるでしょう！……ちょっと、なんでそんな顔するの？結構当たるよ、これ！――占い好きのデザイナーより
+    code: Foot2
+    icon: commander_5852_icon
+    type: 5
+    gender: 2
+    uniform_class: "58"
+    color_normal: Commander_5852_N
+    color_icon_id: "957"
+  }
+  {
     id: 5940
     name: ロックンロールの潮流
     description: この日の、一夜限りのリズムを奏でよう。硝煙まみれの戦場を遠ざけ、このロックンロールの夜を思うがままに楽しもう。

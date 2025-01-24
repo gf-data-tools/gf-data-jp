@@ -5698,6 +5698,15 @@
     note: オリジナルスキン
   }
   {
+    id: 5077
+    name: SPAS-12-オリジナルスキン
+    fit_gun: 20162
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+  }
+  {
     id: 5101
     name: 枝垂れ夢見る狐の影
     fit_gun: 316
@@ -8783,6 +8792,16 @@
     skin_source: 3
   }
   {
+    id: 10107
+    name: 吉慶有余
+    fit_gun: 139
+    voice: 15
+    dialog: 今年はお～きな提灯を作って、指揮官と一緒に飛んで月を眺めたいですね！
+    illustrator_cv: 小星,佐藤有世,
+    order: 126
+    class_id: 97
+  }
+  {
     id: 10201
     name: 月の下、天使の涙
     fit_gun: 376
@@ -9014,6 +9033,81 @@
     order: 121
     class_id: 103
     skin_source: 2
+  }
+  {
+    id: 10701
+    name: 緋色のキング
+    fit_gun: 73
+    voice: 4
+    dialog: 赤い宝石が輝くこの王冠は、まるで流れる鮮血のよう……私はそれを頂き、敵に永遠の眠りを捧げます。
+    illustrator_cv: RIRE,和氣あず未,
+    order: 126
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10702
+    name: 逆さのルーク
+    fit_gun: 357
+    voice: 4
+    dialog: 指揮官、今日は指示通りに、この銀色の礼服を用意しました……え？あれは冗談だった……？そ、それでも大丈夫です……着て指揮官に見せたかったので……
+    gift_position: "-152.2,-37.1"
+    order: 126
+    class_id: 104
+    skin_source: 1
+  }
+  {
+    id: 10703
+    name: ルール無用のクイーン
+    fit_gun: 16
+    voice: 4
+    dialog: ここで大人しくしてろって？ハハハ、そんなの知るか！下らねぇルールや秩序は、全部ぶっ壊す！
+    illustrator_cv: 小枪,種田梨沙,
+    order: 126
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10704
+    name: 躍動のナイト
+    fit_gun: 343
+    voice: 4
+    dialog: マスター、私の髪型が気になるのか？ジェルで髪を羽の形にしてみたのだ、3時間もかけてやったのだから、変に触らないでくれ……
+    order: 126
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10705
+    name: 神託の守護者
+    fit_gun: 100
+    voice: 4
+    dialog: この魔典には、あらゆる答えが秘められているよ！……おや、グリフィンで最も完璧な人形が知りたい、って？そんなの、もう目の前にいるじゃない？
+    illustrator_cv: 小星,黒沢ともよ,
+    order: 126
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10706
+    name: クラッシュポーン
+    fit_gun: 267
+    voice: 4
+    dialog: フフン、来た道を全部砕いてやったよ、ノロマたちにはこういう仕打ちが似合いますもんね！……え、帰る方法って？うん……指揮官様、それは確かに検討すべき問題ですね。
+    order: 126
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10707
+    name: にゃんこハンマー
+    fit_gun: 93
+    voice: 4
+    dialog: 気を付けるんだにゃ！私のハンマーは手加減なしにゃ！叩かれたやつはおやつを差し出すんだにゃ！
+    gift_position: "-275.9,340"
+    illustrator_cv: K箱,伊藤あすか,
+    order: 126
+    class_id: 104
   }
   {
     id: 11201
