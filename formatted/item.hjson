@@ -14192,12 +14192,75 @@
     rank: 1
   }
   {
+    id: 2434
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_QBZ191
+    item_name: 冷香染墨
+    introduction: 冷香染墨
+    rank: 1
+  }
+  {
+    id: 2435
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_SCR
+    item_name: 阮吟霜楓
+    introduction: 阮吟霜楓
+    rank: 1
+  }
+  {
+    id: 2436
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_SPAS12
+    item_name: 金福賀歳
+    introduction: 金福賀歳
+    rank: 1
+  }
+  {
+    id: 2437
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_PTRD
+    item_name: 更闌燭影
+    introduction: 更闌燭影
+    rank: 1
+  }
+  {
+    id: 2438
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_PP19
+    item_name: 流風回雪
+    introduction: 流風回雪
+    rank: 1
+  }
+  {
+    id: 2439
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_ASVAL
+    item_name: 蘭渓花雨
+    introduction: 蘭渓花雨
+    rank: 1
+  }
+  {
     id: 2440
     type: 5
     arg: "1"
     code: profilePic_SpringFes2024_BrenTen
     item_name: 吉慶有余
     introduction: 吉慶有余
+    rank: 1
+  }
+  {
+    id: 2441
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_QBU191
+    item_name: 漫尋芳菲
+    introduction: 漫尋芳菲
     rank: 1
   }
   {
@@ -15053,6 +15116,24 @@
     code: card_BattlePass_MartiniHenry
     item_name: IDカード背景：街中の暖かい一日
     introduction: IDカード背景：街中の暖かい一日
+    rank: 1
+  }
+  {
+    id: 2599
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_SAT8
+    item_name: 夕日の花と唄
+    introduction: 夕日の花と唄
+    rank: 1
+  }
+  {
+    id: 2600
+    type: 5
+    arg: "1"
+    code: card_BattlePass_SAT8
+    item_name: IDカード背景：夜空を流れる星
+    introduction: IDカード背景：夜空を流れる星
     rank: 1
   }
   {
@@ -16484,6 +16565,15 @@
     id: 10715
     type: 18
     arg: "10715"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10716
+    type: 18
+    arg: "10716"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -20710,6 +20800,26 @@
     detail_introduction: item-30140046
   }
   {
+    id: 140047
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140047
+    introduction: item-20140047
+    rank: 1
+    detail_introduction: item-30140047
+  }
+  {
+    id: 140048
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140048
+    introduction: item-20140048
+    rank: 1
+    detail_introduction: item-30140048
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21137,6 +21247,15 @@
     code: profileFrame_BattlePass_MartiniHenry
     item_name: アイコンフレーム：いちごムースにゃん
     introduction: アイコンフレーム：いちごムースにゃん
+    rank: 1
+  }
+  {
+    id: 200049
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_SAT8
+    item_name: アイコンフレーム：羊飼いの唄
+    introduction: アイコンフレーム：羊飼いの唄
     rank: 1
   }
   {
@@ -23156,6 +23275,50 @@
     type_sort: 1
   }
   {
+    id: 1500172
+    type: 15
+    arg: "1500172"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-羊飼いの村の物語で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500173
+    type: 15
+    arg: "1500173"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-羊飼いの村の物語で獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500174
+    type: 15
+    arg: "1500174"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-羊飼いの村の物語で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500175
+    type: 15
+    arg: "1500175"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-羊飼いの村の物語で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -23439,6 +23602,39 @@
     id: 1700024
     type: 15
     arg: "1700024"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700025
+    type: 15
+    arg: "1700025"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700026
+    type: 15
+    arg: "1700026"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700027
+    type: 15
+    arg: "1700027"
     code: package_choose
     item_name: 高ランク専用装備指定ビーコン
     introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。

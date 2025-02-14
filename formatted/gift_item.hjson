@@ -11266,6 +11266,102 @@
     type_sort: 6
   }
   {
+    id: 10101
+    name: 冷香染墨
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 361
+    skin: 10101
+    poster: 310101
+    code: gift_bundle_SpringFes2024_QBZ191
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10102
+    name: 阮吟霜楓
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 365
+    skin: 10102
+    poster: 310102
+    code: gift_bundle_SpringFes2024_SCR
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10103
+    name: 金福賀歳
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 162
+    skin: 10103
+    poster: 310103
+    code: gift_bundle_SpringFes2024_SPAS12
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10104
+    name: 更闌燭影
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 42
+    skin: 10104
+    poster: 310104
+    code: gift_bundle_SpringFes2024_PTRD
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10105
+    name: 流風回雪
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 136
+    skin: 10105
+    poster: 310105
+    code: gift_bundle_SpringFes2024_PP19
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10106
+    name: 蘭渓花雨
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 60
+    skin: 10106
+    poster: 310106
+    code: gift_bundle_SpringFes2024_ASVAL
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 10107
     name: 吉慶有余
     type: 2
@@ -11275,6 +11371,22 @@
     skin: 10107
     poster: 310107
     code: gift_bundle_SpringFes2024_BrenTen
+    normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10108
+    name: 漫尋芳菲
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 388
+    skin: 10108
+    poster: 310108
+    code: gift_bundle_SpringFes2024_QBU191
     normal_description: プレゼントすると好感度を獲得します
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
@@ -11755,7 +11867,7 @@
     skin: 11201
     poster: 311201
     code: gift_bundle_NewYear2025_SPAS15
-    normal_description: プレゼントすると好感度を獲得します
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -11771,7 +11883,7 @@
     skin: 11202
     poster: 311202
     code: gift_bundle_NewYear2025_Python
-    normal_description: プレゼントすると好感度を獲得します
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -11787,7 +11899,7 @@
     skin: 11203
     poster: 311203
     code: gift_bundle_NewYear2025_Savage99
-    normal_description: プレゼントすると好感度を獲得します
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -11803,7 +11915,7 @@
     skin: 11204
     poster: 311204
     code: gift_bundle_NewYear2025_Ithaca37
-    normal_description: プレゼントすると好感度を獲得します
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -11819,7 +11931,7 @@
     skin: 11205
     poster: 311205
     code: gift_bundle_NewYear2025_ZIP22
-    normal_description: プレゼントすると好感度を獲得します
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -11835,7 +11947,7 @@
     skin: 11206
     poster: 311206
     code: gift_bundle_NewYear2025_357
-    normal_description: プレゼントすると好感度を獲得します
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -12187,6 +12299,22 @@
     skin: 30023
     poster: 330023
     code: gift_bundle_BattlePass_MartiniHenry
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30024
+    name: 夕日の花と唄
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 188
+    skin: 30024
+    poster: 330024
+    code: gift_bundle_BattlePass_SAT8
     normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します

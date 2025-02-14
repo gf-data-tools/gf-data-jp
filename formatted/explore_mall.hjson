@@ -1595,6 +1595,14 @@
     cost: 4002-1500|4004-1500
   }
   {
+    id: 261
+    type: 53
+    prize_id: 12509
+    cost: 4001-18000
+    quota: 1
+    is_new: 1
+  }
+  {
     id: 262
     type: 1
     prize_id: 121019
@@ -1659,6 +1667,5 @@
     type: 1
     prize_id: 121059
     cost: 4001-8000
-    is_new: 1
   }
 ]

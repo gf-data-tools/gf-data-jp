@@ -42419,6 +42419,34 @@
     classification_id: "3003"
   }
   {
+    id: "32294"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 10108-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(QBU-191)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "32295"
+    type: "8"
+    item_ids: 7-1,41-50
+    gift: 10105-1
+    gemprice: "1888"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: スキンパック(PP-19)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
     id: "99001"
     type: "102"
     gemprice: "980"

@@ -253,4 +253,22 @@
     group_skill: 2:1001203
     fit_gun: "163"
   }
+  {
+    id: 29
+    name: オペレーション・クリップ
+    des: SV-98にピッタリな装備一式。これで地形の計測および計算がより効率的になった。
+    code: EgroupSV98
+    equip_unit: "398,0,115"
+    group_skill: 2:1001403
+    fit_gun: "20044"
+  }
+  {
+    id: 30
+    name: 完璧な作戦
+    des: PKPにピッタリな装備一式。たとえ数倍の敵を前にしても、負ける気がしない。
+    code: EgroupPKP
+    equip_unit: "399,316,0"
+    group_skill: 2:1001503
+    fit_gun: "173"
+  }
 ]

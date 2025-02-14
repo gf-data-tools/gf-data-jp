@@ -15322,6 +15322,12 @@
     content: prize-20005032
   }
   {
+    id: 5033
+    name: prize-10005033
+    furniture: "20153"
+    content: prize-20005033
+  }
+  {
     id: 6001
     name: 七階謎題-任務報酬
     equip_ids: "49"
@@ -24196,6 +24202,36 @@
     content: prize-20008584
   }
   {
+    id: 8585
+    name: prize-10008585
+    item_ids: 140047-1
+    content: prize-20008585
+  }
+  {
+    id: 8586
+    name: prize-10008586
+    item_ids: 140048-1,10606-300,200049-1,2600-1
+    content: prize-20008586
+  }
+  {
+    id: 8587
+    name: prize-10008587
+    item_ids: 140048-1,10606-300,200049-1,2600-1
+    content: prize-20008587
+  }
+  {
+    id: 8588
+    name: prize-10008588
+    gift: 30012-1
+    content: prize-20008588
+  }
+  {
+    id: 8589
+    name: prize-10008589
+    gift: 578-1
+    content: prize-20008589
+  }
+  {
     id: 9101
     name: 2018年のクリスマスの思い出写真
     item_ids: 1212-1
@@ -29666,6 +29702,12 @@
     content: 指揮者は常に片目を残しておく必要がある、尽きることのない黒い夜がいつ降臨しても対応できるように。
     send_limit: 1
     commander_uniform: "2920"
+  }
+  {
+    id: 12509
+    name: prize-10012509
+    gift: 210-1
+    content: prize-20012509
   }
   {
     id: 12601
@@ -49895,6 +49937,32 @@
     content: prize-20120133
   }
   {
+    id: 120134
+    name: prize-10120134
+    item_ids: 41-30,1500172-1
+    content: prize-20120134
+  }
+  {
+    id: 120135
+    name: prize-10120135
+    item_ids: 41-30
+    gift: 30024-1
+    content: prize-20120135
+  }
+  {
+    id: 120136
+    name: prize-10120136
+    item_ids: 41-30,1500173-1
+    content: prize-20120136
+  }
+  {
+    id: 120137
+    name: prize-10120137
+    gem: 680
+    item_ids: 1500174-1
+    content: prize-20120137
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -50481,6 +50549,24 @@
     name: prize-10130069
     item_ids: 10606-300,200048-1,2567-1
     content: prize-20130069
+  }
+  {
+    id: 130070
+    name: prize-10130070
+    item_ids: 1500175-1
+    content: prize-20130070
+  }
+  {
+    id: 130071
+    name: prize-10130071
+    item_ids: 602-1,1500172-1,1500173-1,1500174-1,505-680
+    content: prize-20130071
+  }
+  {
+    id: 130072
+    name: prize-10130072
+    item_ids: 10606-300,200049-1,2600-1
+    content: prize-20130072
   }
   {
     id: 140001
@@ -51719,6 +51805,54 @@
     content: prize-20140204
   }
   {
+    id: 140205
+    name: prize-10140205
+    gun_id: "130"
+    content: prize-20140205
+  }
+  {
+    id: 140206
+    name: prize-10140206
+    gun_id: "205"
+    content: prize-20140206
+  }
+  {
+    id: 140207
+    name: prize-10140207
+    gun_id: "135"
+    content: prize-20140207
+  }
+  {
+    id: 140208
+    name: prize-10140208
+    gun_id: "339"
+    content: prize-20140208
+  }
+  {
+    id: 140209
+    name: prize-10140209
+    gun_id: "388"
+    content: prize-20140209
+  }
+  {
+    id: 140210
+    name: prize-10140210
+    gun_id: "285"
+    content: prize-20140210
+  }
+  {
+    id: 140211
+    name: prize-10140211
+    gun_id: "329"
+    content: prize-20140211
+  }
+  {
+    id: 140212
+    name: prize-10140212
+    gun_id: "312"
+    content: prize-20140212
+  }
+  {
     id: 150001
     name: prize-10150001
     gift: 200001-300
@@ -51955,7 +52089,7 @@
   {
     id: 150040
     name: prize-10150040
-    item_ids: 1700022-1
+    item_ids: 1700025-1
     content: prize-20150040
   }
   {
@@ -52015,7 +52149,7 @@
   {
     id: 150050
     name: prize-10150050
-    item_ids: 1700023-1
+    item_ids: 1700026-1
     content: prize-20150050
   }
   {
@@ -52075,7 +52209,7 @@
   {
     id: 150060
     name: prize-10150060
-    item_ids: 1700024-1
+    item_ids: 1700027-1
     content: prize-20150060
   }
   {
@@ -52311,6 +52445,24 @@
     name: prize-10150112
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394"
     content: prize-20150112
+  }
+  {
+    id: 150113
+    name: prize-10150113
+    equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150113
+  }
+  {
+    id: 150114
+    name: prize-10150114
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398"
+    content: prize-20150114
+  }
+  {
+    id: 150115
+    name: prize-10150115
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399"
+    content: prize-20150115
   }
   {
     id: 200001
