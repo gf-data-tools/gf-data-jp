@@ -345,6 +345,18 @@
     scene_name: Halloween2020logo
   }
   {
+    id: 31
+    campaign_id: -50
+    tag: C.E.|2023
+    order: 103
+    name: 季節イベントⅣ
+    chapter_name: 愛を焙炒
+    bg_code: active_WhiteDay2022
+    bg_config: "#000000C7,#3D415166,#D00001FF,#FFFFFFFF"
+    desc: ベント期間：2023.02.10-03.03
+    scene_name: active_WhiteDay2022logo
+  }
+  {
     id: 32
     campaign_id: -45
     tag: EP.|10.75
