@@ -10055,6 +10055,7 @@
     id: 989
     mission_id: "11098"
     description: 「遠くにぼんやりと見えたものの姿が、ようやくはっきりしてきた――なぜか人形たちが、いがみ合いながら、取っ組み合いのケンカをしていた」
+    scripts: -52-0-1
     campaign: -52
     title: 序章・ライカン狩り
     start: -52-0-1
@@ -10063,6 +10064,7 @@
     id: 990
     mission_id: "11112"
     description: 「そして最後に、カリーナの前にある赤い投票箱に目を止めた」
+    scripts: -52-7-1,-52-8-1
     campaign: -52
     title: 混沌のインターバル
     start: -52-8-1
@@ -10071,6 +10073,7 @@
     id: 991
     mission_id: "11115"
     description: 「月明かりの中、狩人のお話会が始まる……」
+    scripts: -52-1-1
     campaign: -52
     title: 巡回する狩人
     start: -52-1-1
@@ -10079,6 +10082,7 @@
     id: 992
     mission_id: "11101,11102"
     description: 「40回くじを引いてもアタリが出ない……その原因は――」
+    scripts: -52-2-1
     campaign: -52
     title: 射的の罠
     start: -52-2-1
@@ -10087,6 +10091,7 @@
     id: 993
     mission_id: "11107"
     description: 「なにジロジロ見てんの？もう何回も言ったでしょ――ノーコメント！」
+    scripts: -52-3-1
     campaign: -52
     title: 薄暮の迷宮
     start: -52-3-1
@@ -10095,6 +10100,7 @@
     id: 994
     mission_id: "11103,11104"
     description: 「ゲームの醍醐味を壊して、ゲームを成り立たせようとした」
+    scripts: -52-4-1
     campaign: -52
     title: 魔女のキャンプ
     start: -52-4-1
@@ -10103,6 +10109,7 @@
     id: 995
     mission_id: "11105,11106"
     description: 「平然で嘘をつけないようじゃ、『ライカン禁猟区』が上手にならないわ」
+    scripts: -52-5-1
     campaign: -52
     title: 心魔の沼
     start: -52-5-1
@@ -10111,6 +10118,7 @@
     id: 996
     mission_id: "11099,11100"
     description: 「私は、呪いなんて信じないけどね」
+    scripts: -52-6-1
     campaign: -52
     title: 反撃の狼煙
     start: -52-6-1
@@ -12811,6 +12819,33 @@
     start: -70-S-5
   }
   {
+    id: 1325
+    mission_id: "11691"
+    description: 「観客もまた、劇の登場人物」
+    scripts: -52-e-1
+    campaign: -52
+    title: 毒と薬の歌
+    start: -52-e-1
+  }
+  {
+    id: 1326
+    mission_id: "11692"
+    description: 「運命は無常、されどそれはゲームの魅力でもある」
+    scripts: -52-e-2
+    campaign: -52
+    title: 長い夜にて待つ
+    start: -52-e-2
+  }
+  {
+    id: 1327
+    mission_id: "11693"
+    description: 「乾杯しよう、今宵は存分に楽しもう」
+    scripts: -52-e-3
+    campaign: -52
+    title: 甘い宴会
+    start: -52-e-3
+  }
+  {
     id: 1328
     mission_id: "11730"
     description: 人形によるテロ事件に対応するため、フランクフルトでは『人形安全臨時条例』が適用された。それが、予想外の混乱を引き起こしてしまった。
@@ -12989,5 +13024,23 @@
     campaign: -71
     title: 破裂
     start: -71-A-30
+  }
+  {
+    id: 1388
+    mission_id: "11881"
+    description: story_util-10001388
+    scripts: -52-e-4
+    campaign: -52
+    title: story_util-20001388
+    start: -52-e-4
+  }
+  {
+    id: 1389
+    mission_id: "11882"
+    description: story_util-10001389
+    scripts: -52-e-5
+    campaign: -52
+    title: story_util-20001389
+    start: -52-e-5
   }
 ]

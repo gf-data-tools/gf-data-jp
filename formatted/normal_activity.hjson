@@ -319,7 +319,7 @@
     chapter_name: ウェイブ・ラングラー
     bg_code: active_Bikini2021
     bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
-    desc: ベント期間：2021.07.30-08.20
+    desc: イベント期間：2021.07.30-08.20
   }
   {
     id: 29
@@ -341,7 +341,7 @@
     chapter_name: 繭中の蝶
     bg_code: active_Halloween2020
     bg_config: "#000000C7,#3D415166,#E64801FF,#FFFFFFFF"
-    desc: ベント期間：2021.10.8-10.29
+    desc: イベント期間：2021.10.8-10.29
     scene_name: Halloween2020logo
   }
   {
@@ -353,7 +353,7 @@
     chapter_name: 愛を焙炒
     bg_code: active_WhiteDay2022
     bg_config: "#000000C7,#3D415166,#D00001FF,#FFFFFFFF"
-    desc: ベント期間：2023.02.10-03.03
+    desc: イベント期間：2023.02.10-03.03
     scene_name: active_WhiteDay2022logo
   }
   {
@@ -376,7 +376,7 @@
     chapter_name: パズルボックスの予想
     bg_code: active_2023Rouge
     bg_config: "#000000C7,#3D415166,#5065bdFF,#FFFFFFFF"
-    desc: ベント期間：2023.12.29-2024.01.19
+    desc: イベント期間：2023.12.29-2024.01.19
     scene_name: active_2023Rougelogo
   }
   {
@@ -388,8 +388,20 @@
     chapter_name: 静止点
     bg_code: active_FixedPoint
     bg_config: "#000000C7,#3D415166,#A3BD13,#FFFFFFFF"
-    desc: ベント期間：2023.05.26~06.23
+    desc: イベント期間：2023.05.26~06.23
     scene_name: FixedPointlogo
+  }
+  {
+    id: 38
+    campaign_id: -52
+    tag: C.E.|2023
+    order: 103
+    name: 季節イベントⅣ
+    chapter_name: ライカン禁猟区
+    bg_code: active_Bikini_2022
+    bg_config: "#000000C7,#3D415166,#c62424,#FFFFFFFF"
+    desc: イベント期間：2023.07.28-08.18
+    scene_name: Bikini_2022logo
   }
   {
     id: 55
@@ -400,7 +412,7 @@
     chapter_name: 一枚の重み
     bg_code: active_Xmas2021
     bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
-    desc: ベント期間：2021.12.24~2022.01.14
+    desc: イベント期間：2021.12.24~2022.01.14
     scene_name: active_Xmas2021logo
   }
 ]

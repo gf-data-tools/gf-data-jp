@@ -8889,6 +8889,82 @@
     skin_source: 1
   }
   {
+    id: 10202
+    name: ヘメラの窓に落ちる夜の色
+    fit_gun: 390
+    voice: 16
+    dialog: 黒い眼は闇を覗き、青い瞳は光を受け入れる。それでしたら、どのような目が、あなたの姿を追えるのでしょうか？
+    illustrator_cv: 豆芽,,
+    order: 129
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10203
+    name: 透明の青
+    fit_gun: 65
+    voice: 16
+    dialog: 願いの色は青。忠誠の色は青。遠い彼方にある理想の色も、青。私の色は青。そしてあなたの色も、青。
+    order: 129
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10204
+    name: 清音素心
+    fit_gun: 316
+    voice: 16
+    dialog: 鐘の音が鳴った瞬間、まるで数百年前にタイムリープしたような感じがしました。その頃の人々は、愛のために契約を結び、契約のために生涯を共にしました……
+    gift_position: "-177.1,197.4"
+    order: 129
+    class_id: 98
+    skin_source: 1
+  }
+  {
+    id: 10205
+    name: エイレネの囁き
+    fit_gun: 251
+    voice: 16
+    dialog: この白い花と羽を与えてくれて、本当にありがとうございます。これからは、あなたと苦楽を共にし、あなたにわたしのすべてを捧げます。
+    illustrator_cv: 多尔,植田佳奈,
+    order: 129
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10207
+    name: 花の下にて
+    fit_gun: 194
+    voice: 16
+    dialog: かわいい後輩たちが、こんなにも綺麗な会場を用意してくれたんだけど、一体なんのイベントをやるんだろう？……え？知らないのワタシだけ？なんか恥ずかしいよ……
+    order: 129
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10208
+    name: 水中の茜色の影
+    fit_gun: 160
+    voice: 16
+    dialog: 指揮官、温泉の周りを綺麗に掃除しました。これで美少女たちも来てくれるはず……あの、どうかしたんですか？もしかして、どこか汚れていますか？
+    gift_position: "-128.8,10.9"
+    illustrator_cv: YoYo,金元寿子,
+    order: 129
+    class_id: 98
+    skin_source: 1
+  }
+  {
+    id: 10209
+    name: 美しき暗い赤
+    fit_gun: 63
+    voice: 16
+    dialog: 指揮官さん、今日の私、どこか変わっているのでしょうか？……ええ、新しい髪型にしたせいで、いつも髪飾りが見えないようになって……それ、やっぱり変ですか？
+    illustrator_cv: 野生废硅,吉岡香織,
+    order: 129
+    class_id: 98
+    skin_source: 2
+  }
+  {
     id: 10301
     name: ドキドキしないゲーム
     fit_gun: 387

@@ -14390,6 +14390,78 @@
     rank: 1
   }
   {
+    id: 2457
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_HK433
+    item_name: ヘメラの窓に落ちる夜の色
+    introduction: ヘメラの窓に落ちる夜の色
+    rank: 1
+  }
+  {
+    id: 2458
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_HK416
+    item_name: 透明の青
+    introduction: 透明の青
+    rank: 1
+  }
+  {
+    id: 2459
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_GeneralLiu
+    item_name: 清音素心
+    introduction: 清音素心
+    rank: 1
+  }
+  {
+    id: 2460
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_X95
+    item_name: エイレネの囁き
+    introduction: エイレネの囁き
+    rank: 1
+  }
+  {
+    id: 2461
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_K2
+    item_name: 花の下にて
+    introduction: 花の下にて
+    rank: 1
+  }
+  {
+    id: 2462
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_Saiga12
+    item_name: 水中の茜色の影
+    introduction: 水中の茜色の影
+    rank: 1
+  }
+  {
+    id: 2463
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_G3
+    item_name: 美しき暗い赤
+    introduction: 美しき暗い赤
+    rank: 1
+  }
+  {
+    id: 2464
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_G43
+    item_name: 光と影の舞
+    introduction: 光と影の舞
+    rank: 1
+  }
+  {
     id: 2465
     type: 5
     arg: "1"
@@ -16382,6 +16454,15 @@
     is_hide_info: 1
   }
   {
+    id: 9048
+    type: 1
+    arg: "9048"
+    code: mind_PT
+    item_name: 思考域の迷路PT
+    introduction: 思考域の迷路PT
+    rank: 1
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -18239,6 +18320,34 @@
     item_name: 蝕心の仮面・22のジレンマ
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
+  }
+  {
+    id: 100226
+    type: 4
+    arg: "100226"
+    code: Nova_medal_black
+    item_name: 新星勲章・思考域の迷路
+    introduction: 新星勲章・思考域の迷路
+    rank: 1
+  }
+  {
+    id: 100227
+    type: 4
+    arg: "100227"
+    code: Platinum_medal_black
+    item_name: 白金勲章・思考域の迷路
+    introduction: 白金勲章・思考域の迷路
+    rank: 1
+  }
+  {
+    id: 100228
+    type: 9
+    arg: "100228"
+    code: Mind_Coin
+    item_name: 思考コイン
+    introduction: 思考コイン
+    rank: 1
+    daily_limit: "120"
   }
   {
     id: 100229
@@ -24145,6 +24254,39 @@
     code: Bumdle_equipment
     item_name: 星5装備指定交換券
     introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500028
+    type: 15
+    arg: "9500028"
+    code: Bumdle_WhiteValentineCoupons1
+    item_name: 秘蔵スキン抽選券・ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500029
+    type: 15
+    arg: "9500029"
+    code: Bumdle_WhiteValentineCoupons2
+    item_name: プレミアムスキン抽選券・ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500030
+    type: 15
+    arg: "9500030"
+    code: Bumdle_WhiteValentineCoupons3
+    item_name: 至高のスキン抽選券・ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
     type_sort: 1
