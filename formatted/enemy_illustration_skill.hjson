@@ -1310,6 +1310,40 @@
     description: エンブラはシールドを獲得し、敵の攻撃をすべて惹き付ける。一定時間内にシールドが破られた場合、味方全体がダウンし、被ダメージが大幅に上昇する。シールドが破られなかった場合、味方全体はシールドを獲得し、火力が大幅に上昇する。
   }
   {
+    id: 243
+  }
+  {
+    id: 244
+  }
+  {
+    id: 245
+  }
+  {
+    id: 246
+    name: enemy_illustration_skill-10000246
+    description: enemy_illustration_skill-20000246
+  }
+  {
+    id: 247
+    name: enemy_illustration_skill-10000247
+    description: enemy_illustration_skill-20000247
+  }
+  {
+    id: 248
+    name: enemy_illustration_skill-10000248
+    description: enemy_illustration_skill-20000248
+  }
+  {
+    id: 249
+    name: enemy_illustration_skill-10000249
+    description: enemy_illustration_skill-20000249
+  }
+  {
+    id: 250
+    name: enemy_illustration_skill-10000250
+    description: enemy_illustration_skill-20000250
+  }
+  {
     id: 999
     name: enemy_illustration_skill-10000999
     description: enemy_illustration_skill-20000999
@@ -1345,9 +1379,15 @@
     description: M16のHPが低くなった時、シールドを獲得し、敵エリアに十字型の燃焼エリアを作る。さらに12秒ごとに閃光手榴弾を投げ、敵全体を目まい状態にする。
   }
   {
+    id: 8103
+  }
+  {
     id: 8201
     name: フィールド制限
     description: 敵側のフィールドが燃焼状態になる。
+  }
+  {
+    id: 8202
   }
   {
     id: 8301
@@ -1488,6 +1528,39 @@
     id: 10058
     name: 負傷への恐怖
     description: RPGモードに切り替わる。ユニットを撃破した時、シールドを獲得する。
+  }
+  {
+    id: 10059
+  }
+  {
+    id: 10060
+  }
+  {
+    id: 10061
+  }
+  {
+    id: 10062
+  }
+  {
+    id: 10063
+  }
+  {
+    id: 10064
+  }
+  {
+    id: 10065
+  }
+  {
+    id: 10066
+  }
+  {
+    id: 10067
+  }
+  {
+    id: 10068
+  }
+  {
+    id: 10069
   }
   {
     id: 10087

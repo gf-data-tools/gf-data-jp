@@ -16661,6 +16661,52 @@
     rank: 1
   }
   {
+    id: 10717
+    type: 18
+    arg: "10717"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 30023
+    type: 1
+    arg: "30023"
+    code: gift_bundle_BattlePass_MartiniHenry
+    item_name: いちご色のドキドキ
+    introduction: 指揮官、いちごムースを買いに来たのでしょ？やっぱり、あたしの予測通りね！は～い、もう買ってあげたよ？お代は……指揮官のスマイルで！
+    rank: 1
+  }
+  {
+    id: 30024
+    type: 1
+    arg: "30024"
+    code: gift_bundle_BattlePass_SAT8
+    item_name: 夕日の花と唄
+    introduction: 一緒に草原で散歩して、一緒に夕日を観て、一緒にお花がいっぱいの台車に乗って、一緒に気持ちを分かち合えるなんて……指揮官、私は今が一番暖かくて、幸せだと思います！
+    rank: 1
+  }
+  {
+    id: 30025
+    type: 1
+    arg: "30025"
+    code: gift_bundle_BattlePass_PK
+    item_name: 雪の夜の哨戒班
+    introduction: 雪の夜になると、猛獣が出没して、旅する者を困らせるけど、私は違う……私は、猛獣を手なずける強者だから。
+    rank: 1
+  }
+  {
+    id: 30026
+    type: 1
+    arg: "30026"
+    code: gift_bundle_BattlePass_06TypeSMG
+    item_name: item-10030026
+    introduction: item-20030026
+    rank: 1
+    detail_introduction: item-30030026
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -20459,6 +20505,96 @@
     rank: 5
   }
   {
+    id: 133136
+    type: 13
+    arg: "46"
+    code: ShotgunVehicle_1001
+    item_name: 砂漠迷彩-車載ショットガン
+    introduction: 近距離戦闘に対応できるショットガン。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133137
+    type: 13
+    arg: "47"
+    code: MortarVehicle_1001
+    item_name: 砂漠迷彩-小型迫撃砲
+    introduction: 小範囲の爆撃が可能な迫撃砲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133138
+    type: 13
+    arg: "48"
+    code: LaserRangefinder_1001
+    item_name: 砂漠迷彩-レーザー距離計
+    introduction: 遠距離攻撃の精度を上げることができる支援装備。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133139
+    type: 13
+    arg: "49"
+    code: CamouflageNet_1001
+    item_name: 砂漠迷彩-迷彩ネット
+    introduction: 戦場で姿を隠すことができるカモフラージュモジュール。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133140
+    type: 13
+    arg: "50"
+    code: GrilleArmor_1001
+    item_name: 砂漠迷彩-天井スラットアーマー
+    introduction: 新しい戦闘の需要に対応した多機能防護装甲。砂漠迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133141
+    type: 13
+    arg: "51"
+    code: ShotgunVehicle_1002
+    item_name: 都市迷彩-車載ショットガン
+    introduction: 近距離戦闘に対応できるショットガン。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133142
+    type: 13
+    arg: "52"
+    code: MortarVehicle_1002
+    item_name: 都市迷彩-小型迫撃砲
+    introduction: 小範囲の爆撃が可能な迫撃砲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133143
+    type: 13
+    arg: "46"
+    code: LaserRangefinder_1002
+    item_name: 都市迷彩-レーザー距離計
+    introduction: 遠距離攻撃の精度を上げることができる支援装備。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133144
+    type: 13
+    arg: "47"
+    code: CamouflageNet_1002
+    item_name: 都市迷彩-迷彩ネット
+    introduction: 戦場で姿を隠すことができるカモフラージュモジュール。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
+    id: 133145
+    type: 13
+    arg: "48"
+    code: GrilleArmor_1002
+    item_name: 都市迷彩-天井スラットアーマー
+    introduction: 新しい戦闘の需要に対応した多機能防護装甲。都市迷彩の塗装が施されている。
+    rank: 5
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -21375,7 +21511,6 @@
     item_name: 新星勲章
     introduction: 新星勲章
     rank: 1
-    detail_introduction: item-30900030
   }
   {
     id: 900031
@@ -21385,7 +21520,6 @@
     item_name: 白金勲章
     introduction: 白金勲章
     rank: 1
-    detail_introduction: item-30900031
   }
   {
     id: 900032
@@ -23744,6 +23878,39 @@
     id: 1700027
     type: 15
     arg: "1700027"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700028
+    type: 15
+    arg: "1700028"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700029
+    type: 15
+    arg: "1700029"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700030
+    type: 15
+    arg: "1700030"
     code: package_choose
     item_name: 高ランク専用装備指定ビーコン
     introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。

@@ -60482,6 +60482,116 @@
     buff_sp_attributes: "1"
   }
   {
+    id: 9748
+    name: Mk48装备
+    conflict_type: 9748
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9749
+    name: Mk48专属提升暴击伤害
+    conflict_type: 9749
+    max_tier: 1
+    type: 112
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    critical_damage_number: "130"
+  }
+  {
+    id: 9750
+    name: MDR套装装备1
+    conflict_type: 9750
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9751
+    name: MDR套装装备2
+    conflict_type: 9751
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9752
+    name: MDR套装
+    conflict_type: 9752
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9753
+    name: M14套装装备1
+    conflict_type: 9753
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9754
+    name: M14套装装备2
+    conflict_type: 9754
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9755
+    name: M14套装
+    conflict_type: 9755
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9756
+    name: MDR套装沉默标记
+    conflict_type: 279
+    max_tier: 1
+    type: 305
+    duration_type: 1
+    duration: "150"
+    trigger_creation_id: "3801"
+  }
+  {
+    id: 9757
+    name: MDR套装未沉默标记
+    conflict_type: 9757
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "150"
+  }
+  {
+    id: 9758
+    name: MDR套装沉默判断
+    conflict_type: 9758
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "-1"
+    forced_skill: "1005206"
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101

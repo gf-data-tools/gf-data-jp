@@ -271,4 +271,22 @@
     group_skill: 2:1001503
     fit_gun: "173"
   }
+  {
+    id: 31
+    name: 闇夜の刃
+    des: ウェルロッドMkIIにピッタリな装備一式。闇に潜み、悪を葬る。
+    code: EgroupWelrod
+    equip_unit: "406,0,213"
+    group_skill: 2:1001703
+    fit_gun: "20114"
+  }
+  {
+    id: 32
+    name: 暴発の女王
+    des: ステンMkIIにピッタリな装備一式。自身の欠陥は素直に受け入れるべきだ、そこから初めて、一人前になる。
+    code: EgroupStenMK2
+    equip_unit: "407,0,128"
+    group_skill: 2:1001803
+    fit_gun: "20029"
+  }
 ]

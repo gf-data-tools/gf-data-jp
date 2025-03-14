@@ -19,15 +19,6 @@
   }
   {
     identity: 3
-    type: win_armor
-    count: 150
-    title: ウィークリー：作戦行動
-    content: 戦闘勝利時において、装甲の敵累計150体を倒す。
-    prize_id: 8309
-    exchange_prize_id: 8316
-  }
-  {
-    identity: 4
     type: sangvis_daily_retrieval
     count: 8
     title: ウィークリー：協定回帰
@@ -37,16 +28,7 @@
     exchange_prize_id: 8316
   }
   {
-    identity: 5
-    type: chess
-    count: 3
-    title: ウィークリー：盤上演習
-    content: ラフベリーチェスを3回遊ぶ。（シミュレーションを含まない）
-    prize_id: 8309
-    exchange_prize_id: 8316
-  }
-  {
-    identity: 6
+    identity: 4
     type: upgrade_skill
     count: 3
     title: ウィークリー：集中特訓
@@ -56,7 +38,7 @@
     exchange_prize_id: 8316
   }
   {
-    identity: 7
+    identity: 5
     type: sp_develop
     count: 4
     title: ウィークリー：軍備拡張
@@ -66,12 +48,30 @@
     exchange_prize_id: 8316
   }
   {
-    identity: 8
+    identity: 6
     type: map_capture
-    count: 20
+    count: 15
     title: ウィークリー：灰域探査
-    content: 灰域探査のポイントを累計20個以上占領する。
+    content: 灰域探査のポイントを累計15個以上占領する。
     function_control_id: 29
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 7
+    type: daily_complete
+    count: 15
+    title: ウィークリー：事務処理
+    content: グリフィンデイリーを15回完了する。
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 8
+    type: win_boss
+    count: 1
+    title: ウィークリー：エースキラー
+    content: 敵のボスを1体以上倒して勝利する。
     prize_id: 8309
     exchange_prize_id: 8316
   }

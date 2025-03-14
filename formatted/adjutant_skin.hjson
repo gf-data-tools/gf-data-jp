@@ -9,7 +9,7 @@
   }
   {
     id: 1003
-    type: 2:1024
+    type: 2:1022
     name: 準備形態
     code: NPC-Tareus/3
     obtain_txt: タレウス獲得後開放
@@ -17,7 +17,7 @@
   }
   {
     id: 1004
-    type: 2:1025
+    type: 2:1022
     name: 戦闘形態
     code: NPC-Tareus/4
     obtain_txt: タレウス獲得後開放
@@ -25,7 +25,7 @@
   }
   {
     id: 1010
-    type: 2:1031
+    type: 2:1024
     name: 普段着
     code: NPC-Sana/5
     obtain_txt: 「慢性虚脱-F20 日没」クリア後開放
@@ -33,7 +33,7 @@
   }
   {
     id: 1012
-    type: 2:1033
+    type: 2:1024
     name: 戦闘着
     code: NPC-Sana/7
     obtain_txt: サナ獲得後開放

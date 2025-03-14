@@ -3132,6 +3132,17 @@
     code_b: Console_Icon
   }
   {
+    id: 660080
+    code_a: datapatch
+    code_b: Console_Icon
+  }
+  {
+    id: 669910
+    code_a: Griffin
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
     id: 670104
     code_a: Dandelion_Gri
     description_a: ダンデライオン
@@ -3310,6 +3321,22 @@
     description_c: 投擲
     code_b: Console_Icon
     is_manual_target: 2
+  }
+  {
+    id: 730001
+    code_a: Boomer
+    code_b: Console_Icon
+  }
+  {
+    id: 730011
+    code_a: Golyat
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 730411
+    code_a: Griffin
+    code_b: Console_Icon
   }
   {
     id: 1000101
@@ -8094,6 +8121,42 @@
     description_b: ガラクタ
     description_c: ひっくり返す
     code_b: Console_Icon
+  }
+  {
+    id: 9720405
+    code_a: GunBox
+    description_a: 味方部隊
+    description_b: 物資
+    description_c: 拾う
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 9720406
+    code_a: GunBox
+    description_a: 味方部隊
+    description_b: 物資
+    description_c: 置く
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 9720407
+    code_a: Sundries
+    description_a: 味方部隊
+    description_b: ガラクタ
+    description_c: 拾う
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 9720408
+    code_a: Sundries
+    description_a: 味方部隊
+    description_b: ガラクタ
+    description_c: 置く
+    code_b: Console_Icon
+    is_manual_target: 2
   }
   {
     id: 44360002
