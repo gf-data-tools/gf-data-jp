@@ -6305,6 +6305,7 @@
     id: 1180901
     type: 1402
     arguments: "2"
+    extra_language: 2ターン目まで持ちこたえる
   }
   {
     id: 1666101
@@ -7164,11 +7165,17 @@
     id: 9711901
     type: 1402
     arguments: "3"
+    extra_language: 3ターン目まで持ちこたえる
   }
   {
     id: 9720401
     type: 1407
     arguments: 9720404:3
+    extra_language:
+      '''
+      物資を1個集める。
+      ·物資を拾ってレーダーポイントに運ぶ
+      '''
   }
   {
     id: 9720402
@@ -7191,11 +7198,17 @@
     id: 9720801
     type: 1402
     arguments: "4"
+    extra_language: 4ターン目まで持ちこたえる
   }
   {
     id: 9721101
     type: 1407
     arguments: 1170101:2
+    extra_language:
+      '''
+      任意の二箇所のレーダーポイントに到達し、爆弾を設置する。
+      ·爆弾を拾って運ぶ必要なし。
+      '''
   }
   {
     id: 9721401
@@ -7206,16 +7219,23 @@
     id: 9721601
     type: 1306
     arguments: 9721601:1
+    extra_language: モリドーを倒す。
   }
   {
     id: 9722501
     type: 1402
     arguments: "2"
+    extra_language: 2ターン目まで持ちこたえる
   }
   {
     id: 9722601
     type: 1407
     arguments: 9720404:3
+    extra_language:
+      '''
+      物資を3個集める。
+      ·物資を拾ってレーダーポイントに運ぶ
+      '''
   }
   {
     id: 9722602
@@ -7226,6 +7246,11 @@
     id: 9722801
     type: 1407
     arguments: 1170101:3
+    extra_language:
+      '''
+      三箇所のレーダーポイントに到達し、爆弾を設置する。
+      ·爆弾を拾って運ぶ必要なし。
+      '''
   }
   {
     id: 9722901
@@ -7236,6 +7261,7 @@
     id: 9723001
     type: 1306
     arguments: 9723001:1
+    extra_language: モリドーを倒す。
   }
   {
     id: 9740101

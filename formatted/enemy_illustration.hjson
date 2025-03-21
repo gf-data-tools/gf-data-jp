@@ -2892,6 +2892,7 @@
     code: Mrsgray
     introduce: パラデウスの「ネイト」の一体。医学に精通しており、聡明かつ冷静。有利な要素全てを戦いに生かし、優勢に立つことに長ける。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5723,6 +5724,29 @@
     character: "303,309,310"
     enemy_skill: "9,173"
     launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 247001
+    id: 247
+    name: ヘーベ
+    sub_name: ヘーベ
+    type: 1
+    code: HebeBoss
+    introduce: パラデウスの精鋭。幽霊の如く陰から獲物を観察し、貴婦人として振舞っている間に計画を立て、誰にも気づかれないまま目標を仕留める。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: このユニットは一撃必殺のスキルを有している。注意して対処せよ！
+    character: "1001,216,329"
+    enemy_skill: "243,244,245"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
   }
   {
     sub_id: 100001001

@@ -13000,4 +13000,71 @@
     is_show: 1
     obtain_ids: "3117"
   }
+  {
+    id: 424
+    name: Zasチップ
+    description:
+      '''
+      火力+<pow> 射速<rate>
+      会心ダメージ+<critical_harm_rate><%>スキル強化$Zas M21専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    rate: "-5,-1"
+    critical_harm_rate: "16,20"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_ZasM21
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "196,20196"
+    equip_introduction: Zas M21専用のチップ。カラーデザインはもちろん、性能もピカイチだ。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:1000,critical_harm_rate:500
+    passive_skill: "992518"
+    max_level: 10
+    auto_select_id: 20088
+    is_show: 1
+    obtain_ids: "3016"
+    description_skill: 992518
+  }
+  {
+    id: 425
+    name: HS強化弾
+    description:
+      '''
+      火力+<pow>
+      破甲+<armor_piercing>$HS.50専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "95,100"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_HS50
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "348"
+    equip_introduction: HS.50専用の強化型12.7mm弾薬。殺傷能力が向上している。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:1000,pow:600
+    max_level: 10
+    auto_select_id: 19086
+    is_show: 1
+    obtain_ids: "517"
+  }
 ]

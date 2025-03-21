@@ -3134,11 +3134,16 @@
   {
     id: 660080
     code_a: datapatch
+    description_a: グリフィン
+    description_b: データパッチ
+    description_c: 読み取る
     code_b: Console_Icon
   }
   {
     id: 669910
     code_a: Griffin
+    description_a: グリフィン
+    description_c: 起動
     code_b: Console_Icon
     is_manual_target: 2
   }
@@ -3325,17 +3330,23 @@
   {
     id: 730001
     code_a: Boomer
+    description_a: 味方部隊
+    description_c: 拾う
     code_b: Console_Icon
   }
   {
     id: 730011
     code_a: Golyat
+    description_a: 味方部隊
+    description_c: 投擲
     code_b: Console_Icon
     is_manual_target: 2
   }
   {
     id: 730411
     code_a: Griffin
+    description_a: 味方部隊
+    description_c: 移動
     code_b: Console_Icon
   }
   {

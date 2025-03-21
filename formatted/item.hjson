@@ -873,6 +873,15 @@
     rank: 1
   }
   {
+    id: 142
+    type: 3
+    arg: "43"
+    code: Medal_202410Activity
+    item_name: 孤立の森の守護者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「孤立の森」にて称えられる功績を残したことを表彰する。「夕方と死に向けて、木々は枯れていく。死にゆくことは、生者のみに許されたことだ」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15191,6 +15200,123 @@
     rank: 1
   }
   {
+    id: 2569
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_HS50
+    item_name: 深海の御使い
+    introduction: 深海の御使い
+    rank: 1
+  }
+  {
+    id: 2570
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_M1887
+    item_name: 血色の棘
+    introduction: 血色の棘
+    rank: 1
+  }
+  {
+    id: 2571
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_SPAS15
+    item_name: パーンの囁き
+    introduction: パーンの囁き
+    rank: 1
+  }
+  {
+    id: 2572
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_SR2
+    item_name: バイパーのキス
+    introduction: バイパーのキス
+    rank: 1
+  }
+  {
+    id: 2573
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_Welrod
+    item_name: 糸操り人形の唄
+    introduction: 糸操り人形の唄
+    rank: 1
+  }
+  {
+    id: 2574
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_AR15
+    item_name: 我、即ちカオス
+    introduction: 我、即ちカオス
+    rank: 1
+  }
+  {
+    id: 2575
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_C14
+    item_name: 幽冥曼珠
+    introduction: 幽冥曼珠
+    rank: 1
+  }
+  {
+    id: 2576
+    type: 5
+    arg: "1"
+    code: profilePic_202410Activity_01
+    item_name: アイコン：因果の果て
+    introduction: アイコン：因果の果て
+    rank: 1
+  }
+  {
+    id: 2577
+    type: 5
+    arg: "1"
+    code: profilePic_202410Activity_02
+    item_name: アイコン：復讐の医者
+    introduction: アイコン：復讐の医者
+    rank: 1
+  }
+  {
+    id: 2578
+    type: 5
+    arg: "1"
+    code: card_202410Activity_01
+    item_name: IDカード背景：塵のように軽く、千鈞のように重く
+    introduction: IDカード背景：塵のように軽く、千鈞のように重く
+    rank: 1
+  }
+  {
+    id: 2579
+    type: 5
+    arg: "1"
+    code: card_202410Activity_02
+    item_name: IDカード背景：マカロフと白衣の天使
+    introduction: IDカード背景：マカロフと白衣の天使
+    rank: 1
+  }
+  {
+    id: 2580
+    type: 5
+    arg: "1"
+    code: cg_202410Activity_01
+    item_name: 基地背景：朝の雪道の中
+    introduction: 基地背景：朝の雪道の中
+    rank: 1
+  }
+  {
+    id: 2581
+    type: 5
+    arg: "1"
+    code: cg_202410Activity_02
+    item_name: 基地背景：光と影が織りなす午後
+    introduction: 基地背景：光と影が織りなす午後
+    rank: 1
+  }
+  {
     id: 2599
     type: 5
     arg: "1"
@@ -15206,6 +15332,24 @@
     code: card_BattlePass_SAT8
     item_name: IDカード背景：夜空を流れる星
     introduction: IDカード背景：夜空を流れる星
+    rank: 1
+  }
+  {
+    id: 2608
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_PK
+    item_name: 雪の夜の哨戒班
+    introduction: 雪の夜の哨戒班
+    rank: 1
+  }
+  {
+    id: 2609
+    type: 5
+    arg: "1"
+    code: card_BattlePass_PK
+    item_name: IDカード背景：雪原の主
+    introduction: IDカード背景：雪原の主
     rank: 1
   }
   {
@@ -15287,6 +15431,15 @@
     code: profilePic_rank5_SPAS12Mod
     item_name: SPAS-12メンタルアップグレードアイコン
     introduction: SPAS-12メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 3502
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_ZastavaM21Mod
+    item_name: Zas M21メンタルアップグレードアイコン
+    introduction: Zas M21メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -18470,6 +18623,43 @@
     rank: 1
   }
   {
+    id: 100241
+    type: 4
+    arg: "100241"
+    code: Nova_medal
+    item_name: 新星勲章・孤立の森
+    introduction: 新星勲章・孤立の森
+    rank: 1
+  }
+  {
+    id: 100242
+    type: 4
+    arg: "100242"
+    code: Platinum_medal
+    item_name: 白金勲章・孤立の森
+    introduction: 白金勲章・孤立の森
+    rank: 1
+  }
+  {
+    id: 100243
+    type: 9
+    arg: "100243"
+    code: Coin_202410IsolationForest
+    item_name: 逆さの森
+    introduction: 夢の中、逆さのまま生えている木々はお互いに絡み合い、一つ一つの島を作り上げる。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100244
+    type: 4
+    arg: "100244"
+    code: coremask2_202410IsolationForest
+    item_name: 蝕心の仮面・孤立の森
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
     id: 100253
     type: 4
     arg: "100253"
@@ -21065,6 +21255,26 @@
     detail_introduction: item-30140048
   }
   {
+    id: 140049
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140049
+    introduction: item-20140049
+    rank: 1
+    detail_introduction: item-30140049
+  }
+  {
+    id: 140050
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140050
+    introduction: item-20140050
+    rank: 1
+    detail_introduction: item-30140050
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21501,6 +21711,15 @@
     code: profileFrame_BattlePass_SAT8
     item_name: アイコンフレーム：羊飼いの唄
     introduction: アイコンフレーム：羊飼いの唄
+    rank: 1
+  }
+  {
+    id: 200050
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_PK
+    item_name: アイコンフレーム：極寒の狩人
+    introduction: アイコンフレーム：極寒の狩人
     rank: 1
   }
   {
@@ -23518,6 +23737,87 @@
     type_sort: 1
   }
   {
+    id: 1500164
+    type: 15
+    arg: "1500164"
+    code: Bumdle_IsolationForest01
+    item_name: 孤立の森限定スキン抽選券・一
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500165
+    type: 15
+    arg: "1500165"
+    code: Bumdle_IsolationForest02
+    item_name: 孤立の森限定スキン抽選券・二
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500166
+    type: 15
+    arg: "1500166"
+    code: Bumdle_IsolationForest03
+    item_name: 孤立の森限定スキン抽選券・三
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500168
+    type: 15
+    arg: "1500168"
+    code: Bumdle_invocation_3
+    item_name: ★4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500169
+    type: 15
+    arg: "1500169"
+    code: Bumdle_invocation_2
+    item_name: ★5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500170
+    type: 15
+    arg: "1500170"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500171
+    type: 15
+    arg: "1500171"
+    code: Bumdle_equipment
+    item_name: ★5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1500172
     type: 15
     arg: "1500172"
@@ -23557,6 +23857,50 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 前線協定-羊飼いの村の物語で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500176
+    type: 15
+    arg: "1500176"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-雪原の来客で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500177
+    type: 15
+    arg: "1500177"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 前線協定-雪原の来客で獲得。使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500178
+    type: 15
+    arg: "1500178"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-雪原の来客で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500179
+    type: 15
+    arg: "1500179"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-雪原の来客で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
     type_sort: 1

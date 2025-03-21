@@ -13026,6 +13026,177 @@
     start: -71-A-30
   }
   {
+    id: 1348
+    mission_id: "11762"
+    description: 人形に対する規制は、波乱を呼び起こす一方。風雲渦巻くフランクフルトの中で、さらなる陰謀が……
+    scripts: -72-A-2
+    campaign: -72
+    title: 凋零の序曲
+    start: -72-A-2
+  }
+  {
+    id: 1349
+    mission_id: "11763"
+    description: シュタージにとって、混乱はむしろ出世のチャンス。
+    scripts: -72-A-4
+    campaign: -72
+    title: 髑髏のような秘密
+    start: -72-A-4
+  }
+  {
+    id: 1350
+    mission_id: "11764"
+    description: 盤上の戦いが激しくなっていくにつれ、駒もただ捨てられる運命を甘んじて受け入れようとしなくなった。
+    scripts: -72-A-6
+    campaign: -72
+    title: 忿怒の果実
+    start: -72-A-6
+  }
+  {
+    id: 1351
+    mission_id: "11766"
+    description: あなたたちは世界を変えに来たのであって、世界に変えられるべきではありません。
+    scripts: -72-A-8
+    campaign: -72
+    title: 紺碧の静寂
+    start: -72-A-8
+  }
+  {
+    id: 1352
+    mission_id: "11767"
+    description: 迷いも疑いも頂点に達した時、指揮官は賭けに出ることに決めた。
+    scripts: -72-A-10
+    campaign: -72
+    title: 時間の廃墟
+    start: -72-A-10
+  }
+  {
+    id: 1353
+    mission_id: "11768"
+    description: マインツ大学の実験室で、アマリスは新しい相棒に出会った。
+    scripts: -72-A-12
+    campaign: -72
+    title: 黒い部屋
+    start: -72-A-12
+  }
+  {
+    id: 1354
+    mission_id: "11770"
+    description: とある取引が密かに行われ、両方はそれぞれ欲しい物を手に入れた。
+    scripts: -72-A-14
+    campaign: -72
+    title: 夜の肉体は岐路にて座礁する
+    start: -72-A-14
+  }
+  {
+    id: 1355
+    mission_id: "11771"
+    description: ようやくエルモ号に戻ることができ、指揮官はとりあえず一安心する。しかし、これはあくまでも始まりに過ぎない。
+    scripts: -72-A-16
+    campaign: -72
+    title: 荒野は我の隣にて目覚める
+    start: -72-A-16
+  }
+  {
+    id: 1356
+    mission_id: "11773"
+    description: ルニシアは記憶の一部を取り戻し、闇に葬られた過去を思い出す。
+    scripts: -72-A-18
+    campaign: -72
+    title: 死の王国の火
+    start: -72-A-18
+  }
+  {
+    id: 1357
+    mission_id: "11774"
+    description: 復讐の使命を与えられ、彼女は死の王国から再び戻ってきた。
+    scripts: -72-A-20
+    campaign: -72
+    title: 蒼白に打たれて
+    start: -72-A-20
+  }
+  {
+    id: 1358
+    mission_id: "11776"
+    description: 地下通路の中で、モリドーはかつての仇敵たちと対峙する。
+    scripts: -72-A-22
+    campaign: -72
+    title: 迷路の中の血痕
+    start: -72-A-22
+  }
+  {
+    id: 1359
+    mission_id: "11778"
+    description: マカロフ拳銃から発射された弾丸は、長い時を経て、完璧に目標を撃ち抜いた。
+    scripts: -72-A-24
+    campaign: -72
+    title: 彼女は時間の果てにいる
+    start: -72-A-24
+  }
+  {
+    id: 1360
+    mission_id: "11779"
+    description: 幕は下ろされ、役者たちもそれぞれ舞台から降りた。
+    scripts: -72-A-26
+    campaign: -72
+    title: 生者は秘密を守る
+    start: -72-A-26
+  }
+  {
+    id: 1361
+    mission_id: "11780"
+    description: 静かな夜、空を駆けていく明るい光……
+    scripts: -72-A-28
+    campaign: -72
+    title: 世界は静かだった
+    start: -72-A-28
+  }
+  {
+    id: 1362
+    mission_id: "11781"
+    description: 「お母さんにはもうなにもないから、お母さんと一緒にいる」
+    scripts: -72-S-1
+    campaign: -72
+    title: 咲くことのない一生I
+    start: -72-S-1
+  }
+  {
+    id: 1363
+    mission_id: "11782"
+    description: サナにとって、アンナお姉ちゃんの家への道は、一番楽しい時間だ。
+    scripts: -72-S-2
+    campaign: -72
+    title: 咲くことのない一生II
+    start: -72-S-2
+  }
+  {
+    id: 1364
+    mission_id: "11783"
+    description: サナにとって、難しい本よりも、本物のピクニックの方が楽しい。
+    scripts: -72-S-3
+    campaign: -72
+    title: 咲くことのない一生III
+    start: -72-S-3
+  }
+  {
+    id: 1365
+    mission_id: "11784"
+    description: サナは両目を閉じて、ケーキに向けて願い事をした――
+    scripts: -72-S-4
+    campaign: -72
+    title: 咲くことのない一生IV
+    start: -72-S-4
+  }
+  {
+    id: 1366
+    mission_id: "11785"
+    description: あの災難の後、一つケーキが、冷蔵庫の中に忘れ去られた……
+    scripts: -72-S-5
+    campaign: -72
+    title: 咲くことのない一生V
+    start: -72-S-5
+  }
+  {
     id: 1388
     mission_id: "11881"
     description: story_util-10001388

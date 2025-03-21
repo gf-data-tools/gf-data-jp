@@ -30060,6 +30060,20 @@
     rotate: "3"
   }
   {
+    id: 20152
+    name: 孤立の森の守護者勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「孤立の森」にて称えられる功績を残したことを表彰する。「夕方と死に向けて、木々は枯れていく。死にゆくことは、生者のみに許されたことだ」
+    code: 202410Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 20153
     name: ポスター-2025「銀染現像」
     classes: 20
@@ -45152,6 +45166,111 @@
     rotate: "3"
   }
   {
+    id: 310901
+    name: 深海の御使い
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HS.50のポスター。
+    code: poster_Revenge2024_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310902
+    name: 血色の棘
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1887のポスター。
+    code: poster_Revenge2024_M1887
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310903
+    name: パーンの囁き
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15のポスター。
+    code: poster_Revenge2024_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310904
+    name: バイパーのキス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SR-2のポスター。
+    code: poster_Revenge2024_SR2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310905
+    name: 糸操り人形の唄
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ウェルロッドMkIIのポスター。
+    code: poster_Revenge2024_Welrod
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310906
+    name: 我、即ちカオス
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ST AR-15のポスター。
+    code: poster_Revenge2024_AR15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310907
+    name: 幽冥曼珠
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C14のポスター。
+    code: poster_Revenge2024_C14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 311201
     name: 椒花の彩典
     classes: 300
@@ -45581,6 +45700,21 @@
     decompose_gift: 100003
     description: S.A.T.8のポスター
     code: poster_BattlePass_SAT8
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330025
+    name: 雪の夜の哨戒班
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PKのポスター。
+    code: poster_BattlePass_PK
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
