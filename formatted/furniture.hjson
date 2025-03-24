@@ -44746,6 +44746,21 @@
     rotate: "3"
   }
   {
+    id: 310210
+    name: 光と影の舞
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43のポスター。
+    code: poster_WhiteV2024_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 310301
     name: ドキドキしないゲーム
     classes: 300
