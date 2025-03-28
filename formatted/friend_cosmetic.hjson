@@ -6802,6 +6802,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_christmas
+    event_id: 3663
   }
   {
     id: 541
@@ -6816,6 +6817,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_christmas
+    event_id: 3664
   }
   {
     id: 542
@@ -7117,6 +7119,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_20winter
+    event_id: 3665
   }
   {
     id: 567
@@ -7632,6 +7635,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3660
   }
   {
     id: 614
@@ -8156,6 +8160,7 @@
     order: 1
     rarity: 5
     filter_type: "1,2"
+    event_id: 3661
   }
   {
     id: 655
@@ -8168,6 +8173,7 @@
     order: 1
     rarity: 5
     filter_type: "1,2"
+    event_id: 3662
   }
   {
     id: 656
@@ -13992,6 +13998,9 @@
     id: 1143
     item_id: 2143
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_coremask
     order: 1
     rarity: 5
@@ -14002,6 +14011,9 @@
     id: 1144
     item_id: 2144
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_01
     order: 1
     rarity: 5
@@ -14012,6 +14024,9 @@
     id: 1145
     item_id: 2145
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_02
     order: 1
     rarity: 5
@@ -14022,6 +14037,9 @@
     id: 1146
     item_id: 2146
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_03
     order: 1
     rarity: 5
@@ -14032,6 +14050,9 @@
     id: 1147
     item_id: 2147
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_04
     order: 1
     rarity: 5
@@ -14042,6 +14063,9 @@
     id: 1148
     item_id: 2148
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_05
     order: 1
     rarity: 5
@@ -14052,6 +14076,9 @@
     id: 1149
     item_id: 2149
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_06
     order: 1
     rarity: 5
@@ -14062,6 +14089,9 @@
     id: 1150
     item_id: 2150
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Summer2022_07
     order: 1
     rarity: 5
@@ -14072,6 +14102,9 @@
     id: 1151
     item_id: 2151
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Summer2022_01
     order: 1
     rarity: 5
@@ -14081,6 +14114,9 @@
     id: 1152
     item_id: 2152
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Summer2022_02
     order: 1
     rarity: 5
@@ -14090,6 +14126,9 @@
     id: 1153
     item_id: 2153
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Summer2022_03
     order: 1
     rarity: 5
@@ -14099,6 +14138,9 @@
     id: 1154
     item_id: 2154
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Summer2022_04
     order: 1
     rarity: 5
@@ -14108,6 +14150,9 @@
     id: 1155
     item_id: 2155
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Summer2022_05
     order: 1
     rarity: 5
@@ -14117,6 +14162,9 @@
     id: 1156
     item_id: 2156
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_Summer2022_01
     order: 1
     rarity: 5
@@ -18014,6 +18062,39 @@
     rarity: 5
   }
   {
+    id: 1522
+    item_id: 2522
+    sub_type: 1
+    code: profilePic_ChessFlight_season16_1
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200008
+    logo_code: logo_flightchess_major
+  }
+  {
+    id: 1523
+    item_id: 2523
+    sub_type: 1
+    code: profilePic_ChessFlight_season16_2
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200007
+    logo_code: logo_flightchess_general
+  }
+  {
+    id: 1524
+    item_id: 2524
+    sub_type: 1
+    code: profilePic_ChessFlight_season16_3
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200006
+    logo_code: logo_flightchess_chief
+  }
+  {
     id: 1525
     item_id: 2525
     sub_type: 1
@@ -18491,7 +18572,6 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
-    onsale: 1
     code: profilePic_202410Activity_01
     order: 1
     rarity: 5
@@ -18514,7 +18594,6 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
-    onsale: 1
     code: card_202410Activity_01
     order: 1
     rarity: 5
@@ -18526,7 +18605,6 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
-    onsale: 1
     code: card_202410Activity_02
     order: 1
     rarity: 5
@@ -18547,7 +18625,6 @@
     sub_type: 3
     gem: 600
     item_ids: 508-15000
-    onsale: 1
     code: cg_202410Activity_02
     order: 1
     rarity: 5

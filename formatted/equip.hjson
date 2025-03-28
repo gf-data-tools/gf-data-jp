@@ -11817,6 +11817,39 @@
     obtain_ids: "3096"
   }
   {
+    id: 370
+    name: 自作スマート榴弾
+    description:
+      '''
+      火力+<pow>
+      スキル強化$K11専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "8,12"
+    retire_ammo: 5
+    retire_mre: 3
+    retire_part: 2
+    code: Magazine_SP_K11
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "236"
+    equip_introduction: K11が自分で改良した20mm榴弾。爆発するまでのタイムラグと精度の問題を改良し、よりスマートに目標を爆破できるようになった。
+    powerup_mp: 0.15
+    powerup_ammo: 0.6
+    powerup_mre: 0.38
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    passive_skill: "759291"
+    max_level: 10
+    auto_select_id: 19069
+    is_show: 1
+    obtain_ids: "3092"
+    description_skill: 759291
+  }
+  {
     id: 371
     name: 密林迷彩マント
     description:

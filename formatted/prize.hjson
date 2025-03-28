@@ -11566,6 +11566,13 @@
     item_ids: 121003-1
   }
   {
+    id: 1989
+    name: prize-10001989
+    gem: 90
+    equip_ids: "370"
+    content: prize-20001989
+  }
+  {
     id: 1993
     name: prize-10001993
     gem: 330
@@ -26049,6 +26056,62 @@
     user_exp: 2000
     item_ids: 106-60,2485-1,200006-1
     content: おめでとうございます！「コードXIII：時間領域」今シーズンにおいて、元帥の栄誉を獲得しました！報酬：ラフベリー勲章×60、指揮官経験値×2000、アイコン「エンドレスドメイン」
+    icon: Medal_Chess
+  }
+  {
+    id: 10806
+    name: 少佐の栄誉
+    user_exp: 30
+    item_ids: 106-5,2522-1,200008-1
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、少佐の栄誉を獲得しました！報酬：ラフベリー勲章×5、指揮官経験値×30、アイコン「奇策構築」
+    icon: Medal_Chess
+  }
+  {
+    id: 10807
+    name: 中佐の栄誉
+    user_exp: 60
+    item_ids: 106-10
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、中佐の栄誉を獲得しました！報酬：ラフベリー勲章×10、指揮官経験値×60
+    icon: Medal_Chess
+  }
+  {
+    id: 10808
+    name: 大佐の栄誉
+    user_exp: 100
+    item_ids: 106-20
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、大佐の栄誉を獲得しました！報酬：ラフベリー勲章×20、指揮官経験値×100
+    icon: Medal_Chess
+  }
+  {
+    id: 10809
+    name: 少将の栄誉
+    user_exp: 200
+    item_ids: 106-30,2523-1,200007-1
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、少将の栄誉を獲得しました！報酬：ラフベリー勲章×30、指揮官経験値×200、アイコン「謀略想定」
+    icon: Medal_Chess
+  }
+  {
+    id: 10810
+    name: 中将の栄誉
+    user_exp: 500
+    item_ids: 106-40
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、中将の栄誉を獲得しました！報酬：ラフベリー勲章×40、指揮官経験値×500
+    icon: Medal_Chess
+  }
+  {
+    id: 10811
+    name: 大将の栄誉
+    user_exp: 1000
+    item_ids: 106-50
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、大将の栄誉を獲得しました！報酬：ラフベリー勲章×50、指揮官経験値×1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10812
+    name: 元帥の栄誉
+    user_exp: 2000
+    item_ids: 106-60,2524-1,200006-1
+    content: おめでとうございます！「コードXIV：緩和時間」今シーズンにおいて、元帥の栄誉を獲得しました！報酬：ラフベリー勲章×60、指揮官経験値×2000、アイコン「戦略推論」
     icon: Medal_Chess
   }
   {
@@ -40860,6 +40923,765 @@
     core: 20
   }
   {
+    id: 37119
+    name: 3-α2 人間の土地-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037119
+  }
+  {
+    id: 37120
+    name: 5-α6 シャコンヌ-任務報酬
+    gift: 200001-100
+    content: prize-20037120
+  }
+  {
+    id: 37121
+    name: 5-α8 ストラディバリの魔法-任務報酬
+    content: prize-20037121
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37122
+    name: 26 ツァラトゥストラはこう語った-任務報酬
+    coins: 1-200
+    content: prize-20037122
+  }
+  {
+    id: 37123
+    name: 5-α6 シャコンヌ-EX-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037123
+  }
+  {
+    id: 37124
+    name: 5-α8 ストラディバリの魔法-EX-任務報酬
+    coins: 1-300
+    content: prize-20037124
+  }
+  {
+    id: 37125
+    name: 26 ツァラトゥストラはこう語った-EX-任務報酬
+    item_ids: 44-100
+    content: prize-20037125
+  }
+  {
+    id: 37126
+    name: 5-α6 シャコンヌ-UX-任務報酬
+    content: prize-20037126
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37127
+    name: 5-α8 ストラディバリの魔法-UX-任務報酬
+    item_ids: 44-150
+    content: prize-20037127
+  }
+  {
+    id: 37128
+    name: 26 ツァラトゥストラはこう語った-UX-任務報酬
+    core: 10
+    content: prize-20037128
+  }
+  {
+    id: 37129
+    name: 3-β2 交響曲第2番ハ長調|秘密通路|地面-任務報酬
+    item_ids: 51-2
+    content: prize-20037129
+  }
+  {
+    id: 37130
+    name: 5-β6 交響曲第9番-任務報酬
+    content: prize-20037130
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37131
+    name: 5-β8 火の鳥-任務報酬
+    coins: 2-200
+    content: prize-20037131
+  }
+  {
+    id: 37132
+    name: 13 ゴルトベルク変奏曲-任務報酬
+    core: 5
+    content: prize-20037132
+  }
+  {
+    id: 37133
+    name: 22 禿山の一夜-任務報酬
+    item_ids: 506-100
+    content: prize-20037133
+  }
+  {
+    id: 37134
+    name: 5-β6 交響曲第9番-EX-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037134
+  }
+  {
+    id: 37135
+    name: 5-β8 火の鳥-EX-任務報酬
+    content: prize-20037135
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37136
+    name: 13 ゴルトベルク変奏曲-EX-任務報酬
+    item_ids: 46-100
+    content: prize-20037136
+  }
+  {
+    id: 37137
+    name: 22 禿山の一夜-EX-任務報酬
+    coins: 2-300
+    content: prize-20037137
+  }
+  {
+    id: 37138
+    name: 5-β6 交響曲第9番-UX-任務報酬
+    core: 10
+    content: prize-20037138
+  }
+  {
+    id: 37139
+    name: 5-β8 火の鳥-UX-任務報酬
+    item_ids: 14-100
+    content: prize-20037139
+  }
+  {
+    id: 37140
+    name: 13 ゴルトベルク変奏曲-UX-任務報酬
+    item_ids: 51-2
+    content: prize-20037140
+  }
+  {
+    id: 37141
+    name: 22 禿山の一夜-UX-任務報酬
+    item_ids: 45-100
+    content: prize-20037141
+  }
+  {
+    id: 37142
+    name: 3-γ2 クーラント舞曲-任務報酬
+    item_ids: 51-2
+    content: prize-20037142
+  }
+  {
+    id: 37143
+    name: 5-γ6 苦痛の時-任務報酬
+    coins: 3-200
+    content: prize-20037143
+  }
+  {
+    id: 37144
+    name: 5-γ8 帰れソレントへ-任務報酬
+    content: prize-20037144
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37145
+    name: 9 幽霊-任務報酬
+    item_ids: 506-100
+    content: prize-20037145
+  }
+  {
+    id: 37146
+    name: 30 交響曲第6番|セカンダリレベルα区|セカンダリレベルβ区-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037146
+  }
+  {
+    id: 37147
+    name: 32 1812序曲-任務報酬
+    item_ids: 51-2
+    content: prize-20037147
+  }
+  {
+    id: 37148
+    name: 5-γ6 苦痛の時-EX-任務報酬
+    item_ids: 51-2
+    content: prize-20037148
+  }
+  {
+    id: 37149
+    name: 5-γ8 帰れソレントへ-EX-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037149
+  }
+  {
+    id: 37150
+    name: 9 幽霊-EX-任務報酬
+    item_ids: 44-150
+    content: prize-20037150
+  }
+  {
+    id: 37151
+    name: 30 交響曲第6番-EX|セカンダリレベルα区|セカンダリレベルβ区-任務報酬
+    item_ids: 9-50
+    content: prize-20037151
+  }
+  {
+    id: 37152
+    name: 32 1812序曲-EX-任務報酬
+    coins: 3-300
+    content: prize-20037152
+  }
+  {
+    id: 37153
+    name: 5-γ6 苦痛の時-UX-任務報酬
+    core: 10
+    content: prize-20037153
+  }
+  {
+    id: 37154
+    name: 5-γ8 帰れソレントへ-UX-任務報酬
+    item_ids: 15-100
+    content: prize-20037154
+  }
+  {
+    id: 37155
+    name: 9 幽霊-UX-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037155
+  }
+  {
+    id: 37156
+    name: 30 交響曲第6番-UX|セカンダリレベルα区|セカンダリレベルβ区-任務報酬
+    item_ids: 45-100
+    content: prize-20037156
+  }
+  {
+    id: 37157
+    name: 32 1812序曲-UX-任務報酬
+    core: 10
+    content: prize-20037157
+  }
+  {
+    id: 37158
+    name: 四重奏ロンド-Largo-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037158
+  }
+  {
+    id: 37159
+    name: 四重奏ロンド-Andante-任務報酬
+    gift: 200001-100
+    content: prize-20037159
+  }
+  {
+    id: 37160
+    name: 四重奏ロンド-Presto-任務報酬
+    item_ids: 525-10
+    content: prize-20037160
+  }
+  {
+    id: 37161
+    name: 五重奏ロンド-Largo-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037161
+  }
+  {
+    id: 37162
+    name: 五重奏ロンド-Andante-任務報酬
+    item_ids: 46-100
+    content: prize-20037162
+  }
+  {
+    id: 37163
+    name: 五重奏ロンド-Presto-任務報酬
+    item_ids: 525-30
+    content: prize-20037163
+  }
+  {
+    id: 37164
+    name: 超絶技巧練習曲-任務報酬
+    item_ids: 44-200
+    content: prize-20037164
+  }
+  {
+    id: 37165
+    name: 絵画的練習曲-任務報酬
+    item_ids: 45-300
+    content: prize-20037165
+  }
+  {
+    id: 37166
+    name: 1 列車時刻表-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037166
+  }
+  {
+    id: 37167
+    name: 3-α1 ワルツイ短調-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037167
+  }
+  {
+    id: 37168
+    name: 3-α3 雨-任務報酬
+    item_ids: 525-10
+    content: prize-20037168
+  }
+  {
+    id: 37169
+    name: 3-α4 小前奏曲ト短調-任務報酬
+    item_ids: 45-50
+    content: prize-20037169
+  }
+  {
+    id: 37170
+    name: 5-α5 月光ソナタ-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20037170
+  }
+  {
+    id: 37171
+    name: 5-α7 冬-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037171
+  }
+  {
+    id: 37172
+    name: 16 コンチェルト・グロッソイ長調-任務報酬
+    coins: 1-200
+    content: prize-20037172
+  }
+  {
+    id: 37173
+    name: 17 ブラームス：間奏曲-任務報酬
+    item_ids: 9-50
+    content: prize-20037173
+  }
+  {
+    id: 37174
+    name: 18 白鳥-任務報酬
+    coins: 1-100
+    content: prize-20037174
+  }
+  {
+    id: 37175
+    name: 25 ルスランとリュドミラ-任務報酬
+    coins: 2-200
+    content: prize-20037175
+  }
+  {
+    id: 37176
+    name: 27 ライド・オブ・ザ・ヴァルキリー-任務報酬
+    coins: 1-200
+    content: prize-20037176
+  }
+  {
+    id: 37177
+    name: 3-β1 ジンで一杯-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037177
+  }
+  {
+    id: 37178
+    name: 3-β3 交響曲第3番-任務報酬
+    item_ids: 525-10
+    content: prize-20037178
+  }
+  {
+    id: 37179
+    name: 5-β4 序奏とロンド・カプリチオーソ-任務報酬
+    item_ids: 45-50
+    content: prize-20037179
+  }
+  {
+    id: 37180
+    name: 5-β5 死の舞踏-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20037180
+  }
+  {
+    id: 37181
+    name: 5-β7 カヴァレリア・ルスティカーナ間奏曲-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037181
+  }
+  {
+    id: 37182
+    name: 12 グノシエンヌ第1番-任務報酬
+    item_ids: 9-50
+    content: prize-20037182
+  }
+  {
+    id: 37183
+    name: 14 バラード第1番ト短調-任務報酬
+    item_ids: 15-50
+    content: prize-20037183
+  }
+  {
+    id: 37184
+    name: 21 ラ・カンパネラ-任務報酬
+    item_ids: 14-50
+    content: prize-20037184
+  }
+  {
+    id: 37185
+    name: 23 コン・エスプレッシオーネ-任務報酬
+    coins: 2-100
+    content: prize-20037185
+  }
+  {
+    id: 37186
+    name: 3-γ1 タイスの瞑想曲-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037186
+  }
+  {
+    id: 37187
+    name: 3-γ3 ウラディミールのブルース-任務報酬
+    item_ids: 525-10
+    content: prize-20037187
+  }
+  {
+    id: 37188
+    name: 3-γ4 平均律クラヴィーア曲集-任務報酬
+    item_ids: 45-50
+    content: prize-20037188
+  }
+  {
+    id: 37189
+    name: 5-γ5 カナリア-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20037189
+  }
+  {
+    id: 37190
+    name: 5-γ7 合唱幻想曲-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037190
+  }
+  {
+    id: 37191
+    name: 8 パガニーニの主題による狂詩曲-任務報酬
+    coins: 1-200
+    content: prize-20037191
+  }
+  {
+    id: 37192
+    name: 10 調和の霊感-任務報酬
+    coins: 1-200
+    content: prize-20037192
+  }
+  {
+    id: 37193
+    name: 29 夏の協奏曲-任務報酬
+    item_ids: 15-50
+    content: prize-20037193
+  }
+  {
+    id: 37194
+    name: 31 ツィゴイネルワイゼン-任務報酬
+    coins: 1-200
+    content: prize-20037194
+  }
+  {
+    id: 37195
+    name: 33 G線上のアリア-任務報酬
+    coins: 2-200
+    content: prize-20037195
+  }
+  {
+    id: 37196
+    name: 2 放射線濃度警報機-任務報酬
+    coins: 2-200
+    content: prize-20037196
+  }
+  {
+    id: 37197
+    name: 3 バーカウンター-任務報酬
+    coins: 1-100
+    content: prize-20037197
+  }
+  {
+    id: 37198
+    name: 4 レコードプレーヤー-任務報酬
+    coins: 3-200
+    content: prize-20037198
+  }
+  {
+    id: 37199
+    name: 5 トイレ-任務報酬
+    item_ids: 506-200
+    content: prize-20037199
+  }
+  {
+    id: 37200
+    name: 6 タイムゾーン時計-任務報酬
+    coins: 3-200
+    content: prize-20037200
+  }
+  {
+    id: 37201
+    name: 7 特等車への扉-任務報酬
+    coins: 2-100
+    content: prize-20037201
+  }
+  {
+    id: 37202
+    name: 11 大型荷物棚-任務報酬
+    coins: 3-200
+    content: prize-20037202
+  }
+  {
+    id: 37203
+    name: 15 見晴らしのいい窓-任務報酬
+    item_ids: 14-50
+    content: prize-20037203
+  }
+  {
+    id: 37204
+    name: 19 テーブルの上品な花-任務報酬
+    coins: 3-200
+    content: prize-20037204
+  }
+  {
+    id: 37205
+    name: 20 車内販売ワゴン-任務報酬
+    coins: 3-100
+    content: prize-20037205
+  }
+  {
+    id: 37206
+    name: 24 車内の落書き-任務報酬
+    coins: 2-200
+    content: prize-20037206
+  }
+  {
+    id: 37207
+    name: 28 メンテナンスルーム-任務報酬
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    content: prize-20037207
+  }
+  {
+    id: 37208
+    name: 34 屋根上への出口-任務報酬
+    coins: 3-200
+    content: prize-20037208
+  }
+  {
+    id: 37209
+    name: 35 壁掛けのモニター-任務報酬
+    core: 20
+    content: prize-20037209
+  }
+  {
+    id: 37210
+    name: 36 光の声-任務報酬
+    item_ids: 45-100,161000-1
+    content: prize-20037210
+  }
+  {
+    id: 37211
+    name: 35-T1 練習曲第2番-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20037211
+  }
+  {
+    id: 37212
+    name: 35-T2 前奏曲第5番-任務報酬
+    coins: 1-200
+    content: prize-20037212
+  }
+  {
+    id: 37213
+    name: 35-T3 ロマンス-任務報酬
+    item_ids: 525-10
+    content: prize-20037213
+  }
+  {
+    id: 37214
+    name: 35-T4 楽興の時-任務報酬
+    item_ids: 45-100
+    content: prize-20037214
+  }
+  {
+    id: 37215
+    name: 35-W1 ソルヴェイグの歌-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037215
+  }
+  {
+    id: 37216
+    name: 35-W2 クラリネット協奏曲-任務報酬
+    coins: 1-200
+    content: prize-20037216
+  }
+  {
+    id: 37217
+    name: 35-W3 マントバの旅-任務報酬
+    item_ids: 525-10
+    content: prize-20037217
+  }
+  {
+    id: 37218
+    name: 35-W4 別れの曲-任務報酬
+    item_ids: 45-100
+    content: prize-20037218
+  }
+  {
+    id: 37219
+    name: 35-N1 幻想即興曲-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037219
+  }
+  {
+    id: 37220
+    name: 35-N2 スプリングソナタ-任務報酬
+    coins: 3-200
+    content: prize-20037220
+  }
+  {
+    id: 37221
+    name: 35-N3 メヌエット-任務報酬
+    item_ids: 45-100
+    content: prize-20037221
+  }
+  {
+    id: 37222
+    name: 35-C1 ジムノペディ-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037222
+  }
+  {
+    id: 37223
+    name: 35-C2 ムーン・リバー-任務報酬
+    coins: 3-200
+    content: prize-20037223
+  }
+  {
+    id: 37224
+    name: 35-C3 星降る夜に-任務報酬
+    coins: 2-200
+    content: prize-20037224
+  }
+  {
+    id: 37225
+    name: 35-C4 オー・ソレ・ミオ-任務報酬
+    item_ids: 45-100
+    content: prize-20037225
+  }
+  {
+    id: 37226
+    name: 35-R1 ツィガーヌ-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037226
+  }
+  {
+    id: 37227
+    name: 35-R2 夏の黄昏-任務報酬
+    item_ids: 46-100
+    content: prize-20037227
+  }
+  {
+    id: 37228
+    name: 35-R3 ピアノ五重奏曲ロ短調-任務報酬
+    item_ids: 525-10
+    content: prize-20037228
+  }
+  {
+    id: 37229
+    name: 35-R4 ピアノ協奏曲ヘ短調-任務報酬
+    item_ids: 45-100
+    content: prize-20037229
+  }
+  {
+    id: 37230
+    name: 35-P1 きらきら星変奏曲-任務報酬
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20037230
+  }
+  {
+    id: 37231
+    name: 35-P2 死神と少女-任務報酬
+    coins: 3-100
+    content: prize-20037231
+  }
+  {
+    id: 37232
+    name: 35-P3 愛の挨拶-任務報酬
+    item_ids: 45-100
+    content: prize-20037232
+  }
+  {
     id: 40001
     name: スキンパック(95式)
     gun_id: "16"
@@ -50963,6 +51785,66 @@
     name: prize-10121028
     furniture: "20076"
     content: prize-20121028
+  }
+  {
+    id: 121029
+    name: prize-10121029
+    furniture: "20063"
+    content: prize-20121029
+  }
+  {
+    id: 121030
+    name: prize-10121030
+    furniture: "20064"
+    content: prize-20121030
+  }
+  {
+    id: 121031
+    name: prize-10121031
+    furniture: "20065"
+    content: prize-20121031
+  }
+  {
+    id: 121032
+    name: prize-10121032
+    furniture: "20066"
+    content: prize-20121032
+  }
+  {
+    id: 121033
+    name: prize-10121033
+    furniture: "20067"
+    content: prize-20121033
+  }
+  {
+    id: 121034
+    name: prize-10121034
+    furniture: "20068"
+    content: prize-20121034
+  }
+  {
+    id: 121035
+    name: prize-10121035
+    furniture: "20069"
+    content: prize-20121035
+  }
+  {
+    id: 121036
+    name: prize-10121036
+    furniture: "20070"
+    content: prize-20121036
+  }
+  {
+    id: 121037
+    name: prize-10121037
+    furniture: "20071"
+    content: prize-20121037
+  }
+  {
+    id: 121038
+    name: prize-10121038
+    furniture: "20072"
+    content: prize-20121038
   }
   {
     id: 121059

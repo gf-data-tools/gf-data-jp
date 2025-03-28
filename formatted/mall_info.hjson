@@ -12270,6 +12270,138 @@
     classification_id: "1006"
   }
   {
+    id: "12115"
+    type: "9"
+    item_ids: 1613-1
+    gemprice: "4000"
+    original_price: "10000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: IDカード背景：光陰の果て
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12116"
+    type: "9"
+    item_ids: 1654-1
+    gemprice: "4000"
+    original_price: "10000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: IDカード背景：浮生一瞥
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12117"
+    type: "9"
+    item_ids: 1655-1
+    gemprice: "4000"
+    original_price: "10000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: IDカード背景：驚鴻若夢
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12118"
+    type: "9"
+    item_ids: 1540-1
+    gemprice: "2000"
+    original_price: "5000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: アイコン：メリークリスマスだワン！
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12119"
+    type: "9"
+    item_ids: 1541-1
+    gemprice: "2000"
+    original_price: "5000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: アイコン：抱っこして！
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12120"
+    type: "9"
+    item_ids: 1566-1
+    gemprice: "2000"
+    original_price: "5000"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: アイコン：思考の刹那
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12121"
+    type: "9"
+    item_ids: 10604-1
+    gemprice: "2000"
+    quota: "2001"
+    giftbag_name: 超伝導パルス
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12122"
+    type: "9"
+    gift: 100003-1
+    gemprice: "150"
+    quota: "2003"
+    giftbag_name: ショートケーキ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12123"
+    type: "9"
+    gift: 100002-1
+    gemprice: "60"
+    quota: "2003"
+    giftbag_name: アイスクリーム
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
+    id: "12124"
+    type: "9"
+    gift: 100001-1
+    gemprice: "30"
+    quota: "2003"
+    giftbag_name: ロリポップ
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    classification_id: "1007"
+  }
+  {
     id: "12162"
     type: "8"
     gift: 10907-1
@@ -43150,6 +43282,32 @@
     icon: Bumdle_cashblack
     discount: "1.00"
     prize_id: "2592"
+    classification_id: "3002"
+  }
+  {
+    id: "32321"
+    type: "8"
+    item_ids: 8-1,41-100,506-1000
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 4月月初お買い得パック
+    event_code: dailyGiftbag
+    icon: Bumdle_haru2
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "32322"
+    type: "8"
+    item_ids: 506-100,515-500,516-500
+    gemprice: "128"
+    quota: "2001"
+    giftbag_name: 4月補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_ruby
+    daily_quota: "1"
+    discount: "1.00"
     classification_id: "3002"
   }
   {
