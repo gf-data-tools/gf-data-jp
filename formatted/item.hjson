@@ -810,6 +810,15 @@
     rank: 1
   }
   {
+    id: 133
+    type: 3
+    arg: "34"
+    code: Medal_21winter_re_rank
+    item_name: 霧の果て勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「鏡像論」のランキングステージで、輝かしい成績を残したことを表彰する。「霧が晴れた時、太陽の光が我々の笑顔を照らす」
+    rank: 1
+  }
+  {
     id: 134
     type: 3
     arg: "35"
@@ -1388,6 +1397,16 @@
     item_name: 模擬作戦基礎AP
     introduction: 基礎APを消費することで、一部の模擬作戦に参加することができます。模擬作戦では、人形や妖精の強化に必要な素材を手に入れることができます。
     rank: 1
+  }
+  {
+    id: 542
+    type: 1
+    arg: "542"
+    code: 2020winter_rabbit_plus
+    item_name: 霧払い作戦+
+    introduction: 霧払い作戦+にて敵を撃破した証。制御パネルで様々な強化効果と交換することができる。10個/1回
+    rank: 1
+    is_hide_info: 1
   }
   {
     id: 601
@@ -15209,6 +15228,69 @@
     rank: 1
   }
   {
+    id: 2559
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_FM24
+    item_name: 金色の出会いを祝して
+    introduction: 金色の出会いを祝して
+    rank: 1
+  }
+  {
+    id: 2560
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_JS9mm
+    item_name: マティーニパフェ
+    introduction: マティーニパフェ
+    rank: 1
+  }
+  {
+    id: 2561
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_LTLX7000
+    item_name: ほろ酔いのマッカラン
+    introduction: ほろ酔いのマッカラン
+    rank: 1
+  }
+  {
+    id: 2562
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_SR3MP
+    item_name: 銃とバラの礼
+    introduction: 銃とバラの礼
+    rank: 1
+  }
+  {
+    id: 2563
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_56-1type
+    item_name: ちまきベイリーズ
+    introduction: ちまきベイリーズ
+    rank: 1
+  }
+  {
+    id: 2564
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_RMB93
+    item_name: ストロベリー酒の夜
+    introduction: ストロベリー酒の夜
+    rank: 1
+  }
+  {
+    id: 2565
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_MP40
+    item_name: スペードシャンパン
+    introduction: スペードシャンパン
+    rank: 1
+  }
+  {
     id: 2566
     type: 5
     arg: "1"
@@ -15341,6 +15423,15 @@
     code: cg_202410Activity_02
     item_name: 基地背景：光と影が織りなす午後
     introduction: 基地背景：光と影が織りなす午後
+    rank: 1
+  }
+  {
+    id: 2582
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Mrsgray
+    item_name: アイコン：グレイのアイコン
+    introduction: アイコン：グレイのアイコン
     rank: 1
   }
   {
@@ -16844,6 +16935,15 @@
     id: 10717
     type: 18
     arg: "10717"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10718
+    type: 18
+    arg: "10718"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -19334,6 +19434,79 @@
     item_name: イベントポイント
     introduction: イベントポイント
     rank: 1
+  }
+  {
+    id: 110069
+    type: 4
+    arg: "110069"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110070
+    type: 4
+    arg: "110070"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110071
+    type: 4
+    arg: "110071"
+    code: EventPT9
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110072
+    type: 4
+    arg: "110072"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110073
+    type: 4
+    arg: "110073"
+    code: EventPT2
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110074
+    type: 4
+    arg: "110074"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110075
+    type: 4
+    arg: "110075"
+    code: EventPT10
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110076
+    type: 4
+    arg: "110076"
+    code: PT
+    item_name: item-10110076
+    introduction: item-20110076
+    rank: 1
+    detail_introduction: item-30110076
   }
   {
     id: 120001
@@ -24282,6 +24455,39 @@
     id: 1700030
     type: 15
     arg: "1700030"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700031
+    type: 15
+    arg: "1700031"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700032
+    type: 15
+    arg: "1700032"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700033
+    type: 15
+    arg: "1700033"
     code: package_choose
     item_name: 高ランク専用装備指定ビーコン
     introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。

@@ -43310,6 +43310,62 @@
     classification_id: 3002
   }
   {
+    id: 32323
+    type: 8
+    item_ids: 509-100
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    gemprice: 98
+    quota: 2005
+    giftbag_name: 妖精指令補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_natsu
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 32324
+    type: 8
+    item_ids: 41-100,7-1
+    gift: 10805-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(SR-3MP)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin03
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 32325
+    type: 8
+    item_ids: 41-50,7-1
+    gift: 10806-1
+    gemprice: 1888
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(56-1式)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin03
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 32326
+    type: 8
+    item_ids: 605-10,515-1000
+    gemprice: 1120
+    quota: 2003
+    giftbag_name: 融合勢力専用補給パック
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980

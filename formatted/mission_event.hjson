@@ -121,12 +121,9 @@
   }
   {
     id: 22
-    type: 1
+    type: 2
     mission_campaign: "-53"
     event_name: 异构体
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2023-11-10 13:00:00
-    end_time: 2023-11-24 13:00:00
     init_mission_id: "11116"
   }
   {
@@ -304,6 +301,16 @@
     mission_campaign: "-45"
     event_name: 飓风营救+
     init_mission_id: "10766"
+  }
+  {
+    id: 51
+    type: 1
+    mission_campaign: "-65"
+    event_name: 驱雾行动+
+    draw_event_id: "400,401,402,403,404"
+    start_time: 2025-04-11 13:00:00
+    end_time: 2025-04-25 13:00:00
+    init_mission_id: "11549"
   }
   {
     id: 52

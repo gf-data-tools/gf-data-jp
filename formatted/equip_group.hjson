@@ -289,4 +289,22 @@
     group_skill: 2:1001803
     fit_gun: "20029"
   }
+  {
+    id: 33
+    name: チビストーム
+    des: SR-3MPにピッタリな装備一式。より機敏に動けるようになり、敵の裏をかくことができる。
+    code: EgroupSR3MP
+    equip_unit: "409,0,249"
+    group_skill: 2:1002003
+    fit_gun: "135"
+  }
+  {
+    id: 34
+    name: 使命のために
+    des: StG44にピッタリな装備一式。使命を全うするために、装備のアップグレードは必要不可欠だ。
+    code: EgroupStG44
+    equip_unit: "0,136,410"
+    group_skill: 2:1002103
+    fit_gun: "20061"
+  }
 ]

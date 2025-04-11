@@ -9281,6 +9281,79 @@
     class_id: 104
   }
   {
+    id: 10801
+    name: 金色の出会いを祝して
+    fit_gun: 395
+    voice: 4
+    dialog: 新作のブレンドだけど、一杯どうかしら？ふふっ、誤解しないで、いくらなんでもこれで社長からお金を取る気はないの……単純に一杯奢りたいだけよ。
+    order: 132
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10802
+    name: マティーニパフェ
+    fit_gun: 234
+    voice: 4
+    dialog: このヒール、やはりちょっと慣れませんね……指揮官、少し手を貸してくれませんか？うっかり転んでしまいそうで……
+    order: 132
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10803
+    name: ほろ酔いのマッカラン
+    fit_gun: 323
+    voice: 4
+    dialog: いいだろう、貴殿の勝ちだ。ルールに則り、ここの賞品はすべて貴殿の物になる……もちろん、私も含めて。
+    illustrator_cv: YoYo,田中理恵,
+    order: 132
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10805
+    name: 銃とバラの礼
+    fit_gun: 135
+    voice: 4
+    dialog: プレゼントの箱の中に隠れて、「ドーン」って飛び出して、そして「ワー」って飛びつけば、指揮官はきっと喜んでくれるよね？ニシシッ、楽しみ！
+    gift_position: "-244.7,417.4"
+    order: 132
+    class_id: 105
+    skin_source: 1
+  }
+  {
+    id: 10806
+    name: ちまきベイリーズ
+    fit_gun: 66
+    voice: 4
+    dialog: 指揮官、出来立てほやほやのちまきがあるよ！……この格好のこと？しょうがないじゃない、バニーガールだってお腹が空くのだから！
+    gift_position: "-74.7,31.8"
+    order: 132
+    class_id: 105
+    skin_source: 1
+  }
+  {
+    id: 10807
+    name: ストロベリー酒の夜
+    fit_gun: 159
+    voice: 4
+    dialog: 指揮官、ちょっと飲みすぎなんじゃない？……ふふっ、酔い覚ましにこのお茶をどうぞ。
+    order: 132
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10808
+    name: スペードシャンパン
+    fit_gun: 25
+    voice: 4
+    dialog: お待たせしました、ご注文のスペードシャンパンです……あっ、はい、もう一つグラスをお持ちしますので、少々お待ちください。
+    order: 132
+    class_id: 105
+    skin_source: 2
+  }
+  {
     id: 10901
     name: 深海の御使い
     fit_gun: 348

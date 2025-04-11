@@ -385,6 +385,18 @@
     decorate_code: Logo_Events
   }
   {
+    id: 34
+    name: 霧の果て勲章
+    order: 66
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "198,199,200,201,202,203,204,205,206,207,208,209"
+    item_id: 133
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「鏡像論」のランキングステージ「霧払い作戦+」で、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
     id: 35
     name: 第十二戦区開拓者勲章
     order: 65
