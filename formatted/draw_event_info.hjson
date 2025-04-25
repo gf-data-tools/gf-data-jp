@@ -6050,6 +6050,132 @@
     type: "1"
   }
   {
+    id: "1273"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1274"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1275"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1276"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1277"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1278"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1279"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1280"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1281"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1282"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1283"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1284"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1285"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1286"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1287"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1288"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1289"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1290"
+    start_time: 2025-04-25 13:00:00
+    end_time: 2025-05-16 13:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
     id: "6001"
     start_time: 2019-03-30 00:00:00
     end_time: 2019-04-07 13:00:00
@@ -6967,5 +7093,19 @@
     use_animation: "1"
     goto_to_mall: "1"
     type: "2"
+  }
+  {
+    id: "6106"
+    item_id: "900058"
+    start_time: 2025-04-29 00:00:00
+    end_time: 2025-05-13 23:59:59
+    drop_ids: 79:20119,80:20120,81:20121
+    title_res: 9eb607f70084867d_draw_250416173914.png
+    amount_coordinate: "388.5,-184"
+    bg_res: 4f7780009dccfd6b_draw_250416173914.jpg
+    is_show: "1"
+    prize_skip: 331254:81
+    can_ten_draws: "1"
+    type: "1"
   }
 ]

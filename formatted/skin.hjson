@@ -5717,6 +5717,12 @@
     note: オリジナルスキン
   }
   {
+    id: 5079
+    fit_gun: 20288
+    voice: 4
+    is_hidden: 2
+  }
+  {
     id: 5101
     name: 枝垂れ夢見る狐の影
     fit_gun: 316
@@ -9616,6 +9622,7 @@
     fit_gun: 97
     voice: 4
     dialog: よっ、指揮官、やっと来たか。よし、本番の前にジュースを奢ってやる。ちょうど小銭が余ったからな。
+    gift_position: "-74.4,181"
     illustrator_cv: 八号地球,古賀葵,
     order: 106
   }
@@ -9705,6 +9712,15 @@
     order: 131
   }
   {
+    id: 30026
+    name: 沸き立つ歳月
+    fit_gun: 295
+    voice: 4
+    dialog: 指揮官！やっと一緒に麻辣トルネード火鍋を食べてくれる友達を見つけたよ！あんまり喋らないけど、いい食べっぷりをするんだよね！会計？そんなの食べてからでいいよ～
+    order: 149
+    class_id: 111
+  }
+  {
     id: 50001
     name: 星々へ
     fit_gun: 95
@@ -9713,6 +9729,52 @@
     gift_position: "-231.9,39.7"
     order: 115
     class_id: 99
+    skin_source: 1
+  }
+  {
+    id: 50002
+    name: 複合呼吸
+    fit_gun: 1045
+    voice: 4
+    dialog: 大した怪我じゃないから、治療同意書はいらないわね。……なに？軍医が銃を持つのは普通のことよ、そんなに驚くようなことじゃないでしょ。これで麻酔を打つわけでもないし。
+    gift_position: "-12.8,63.7"
+    order: 142
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 50003
+    name: 危険なレンズ
+    fit_gun: 1046
+    voice: 4
+    dialog: 戦いとは、殺すか殺されるか。そして戦っていくうちに、物騒なあだ名の一つや二つはつくものだ。そのうち慣れればいいさ。
+    gift_position: "-67,71"
+    order: 142
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 50004
+    name: ファントムパイオニア
+    fit_gun: 245
+    voice: 4
+    dialog: 支援は任せてよ、相手を惑わすのが一番得意なんだから――もしかしたら、大軍を見てしまうかもしれないよ？そういう幻覚を見せるんだもんね。
+    gift_position: "-130.8,-38.7"
+    illustrator_cv: RIRE,諸星すみれ,
+    order: 142
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 50005
+    name: DDOS特戦隊
+    fit_gun: 215
+    voice: 4
+    dialog: ハッハッハッ！そう！まさしく！このMDRだ！どんな任務でも私に任せろ――え？P90と組んでる理由？フフッ、DDOS攻撃って聞いたことある？そう、私とP90なら、インターネットと現実の両方から、その攻撃を仕掛けることができるのだよ……！見たいんでしょう？相手がデータに呑み込まれていく姿を？
+    gift_position: "-127.5,-85.9"
+    illustrator_cv: 小枪,愛美,
+    order: 142
+    class_id: 53
     skin_source: 1
   }
 ]

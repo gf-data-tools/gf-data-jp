@@ -6262,22 +6262,30 @@
   {
     id: 1180100
     type: 1305
+    extra_language: 全ての敵を撃破
     is_show_count: "1"
   }
   {
     id: 1180101
     type: 1406
     arguments: 730111:0
+    extra_language: 民間人を驚かさない
   }
   {
     id: 1180201
     type: 1407
     arguments: 730211:1
+    extra_language:
+      '''
+      指揮官がレーダーポイントに到達する
+      注意：指揮官が敵に遭遇するとそのまま敗退します。注意して行動してください。
+      '''
   }
   {
     id: 1180202
     type: 1407
     arguments: 730221:1
+    extra_language: 指揮官が敗退した場合、任務が失敗する
     is_hidden: 2
   }
   {
@@ -6289,6 +6297,11 @@
     id: 1180501
     type: 1406
     arguments: 730111:1
+    extra_language:
+      '''
+      民間人を1人以上驚かさない
+      注意：民間人の周囲2マス以内で戦闘を行うと、民間人を驚かしてしまう
+      '''
   }
   {
     id: 1180502
@@ -7267,104 +7280,125 @@
     id: 9740101
     type: 1402
     arguments: "2"
-    extra_language: mission_win_type_config-19740101
+    extra_language: 2ターン目まで持ちこたえる
   }
   {
     id: 9740102
     type: 1407
     arguments: 9720404:1
-    extra_language: mission_win_type_config-19740102
+    extra_language:
+      '''
+      2ターン目開始までに物資を2つ収集し、レーダーポイントに置く。
+      <color=#CF8000>・ターン終了時に精算</color>
+      '''
   }
   {
     id: 9740103
     type: 1407
     arguments: 9740116:1
-    extra_language: mission_win_type_config-19740103
+    extra_language: 2つの物資を収集できず、2ターン目に入る
   }
   {
     id: 9740701
     type: 1303
     arguments: 9740701:1
-    extra_language: mission_win_type_config-19740701
   }
   {
     id: 9740702
     type: 1407
     arguments: 9740701:2
-    extra_language: mission_win_type_config-19740702
+    extra_language: 警戒中の強敵に1回以上発見される。
   }
   {
     id: 9741401
     type: 1406
     arguments: 6449974:1
-    extra_language: mission_win_type_config-19741401
+    extra_language:
+      '''
+      イアソの箱を3つ以上停止させる。
+      現在イアソの箱が{0}つ起動中。
+      '''
   }
   {
     id: 9741402
     type: 1303
     arguments: 9741406:1
-    extra_language: mission_win_type_config-19741402
   }
   {
     id: 9741403
     type: 1303
     arguments: 9743706:1
-    extra_language: mission_win_type_config-19741403
   }
   {
     id: 9741404
     type: 1303
     arguments: 9744206:1
-    extra_language: mission_win_type_config-19741404
   }
   {
     id: 9741405
     type: 1406
     arguments: 6449974:0
-    extra_language: mission_win_type_config-19741405
     is_hidden: 1
   }
   {
     id: 9741901
     type: 1406
     arguments: 9741902:0
-    extra_language: mission_win_type_config-19741901
+    extra_language:
+      '''
+      <color=#CF8000>物資</color>を拾って、破損した要路をすべて修復する。
+      ・現在残り<color=#CF8000>{0}</color>つの要路を修復する必要があります。
+      '''
   }
   {
     id: 9742401
     type: 1407
     arguments: 9742401:2
-    extra_language: mission_win_type_config-19742401
+    extra_language:
+      '''
+      ステュクスを探し出し、撃破する。
+      <color=#CF8000>・近づくとステュクスは正体を現す</color>
+      '''
   }
   {
     id: 9743601
     type: 1303
     arguments: 9743601:1
-    extra_language: mission_win_type_config-19743601
   }
   {
     id: 9743801
     type: 1406
     arguments: 9741902:0
-    extra_language: mission_win_type_config-19743801
+    extra_language:
+      '''
+      <color=#CF8000>物資</color>を拾って、破損した要路をすべて修復する。
+      ・現在残り<color=#CF8000>{0}</color>つの要路を修復する必要があります。
+      '''
   }
   {
     id: 9743901
     type: 1407
     arguments: 9742401:2
-    extra_language: mission_win_type_config-19743901
+    extra_language:
+      '''
+      ステュクスを探し出し、撃破する。
+      <color=#CF8000>・近づくとステュクスは正体を現す</color>
+      '''
   }
   {
     id: 9744101
     type: 1303
     arguments: 9744101:1
-    extra_language: mission_win_type_config-19744101
   }
   {
     id: 9744401
     type: 1407
     arguments: 9742401:2
-    extra_language: mission_win_type_config-19744401
+    extra_language:
+      '''
+      ステュクスを探し出し、撃破する。
+      <color=#CF8000>・近づくとステュクスは正体を現す</color>
+      '''
   }
   {
     id: 58000101

@@ -891,6 +891,15 @@
     rank: 1
   }
   {
+    id: 143
+    type: 3
+    arg: "44"
+    code: Medal_2024ArenaBreakout
+    item_name: 光を求める者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「胡蝶星雲」にて称えられる功績を残したことを表彰する。「Dark Zoneの霧は光を呑み込むはない。なぜなら、光は空より来るものだから」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15435,6 +15444,123 @@
     rank: 1
   }
   {
+    id: 2586
+    type: 5
+    arg: "1"
+    code: profilePic_ArenaBreakout_Evita
+    item_name: 複合呼吸
+    introduction: 複合呼吸
+    rank: 1
+  }
+  {
+    id: 2587
+    type: 5
+    arg: "1"
+    code: profilePic_ArenaBreakout_Hecate
+    item_name: 危険なレンズ
+    introduction: 危険なレンズ
+    rank: 1
+  }
+  {
+    id: 2588
+    type: 5
+    arg: "1"
+    code: profilePic_ArenaBreakout_P90
+    item_name: ファントムパイオニア
+    introduction: ファントムパイオニア
+    rank: 1
+  }
+  {
+    id: 2589
+    type: 5
+    arg: "1"
+    code: profilePic_ArenaBreakout_MDR
+    item_name: DDOS特戦隊
+    introduction: DDOS特戦隊
+    rank: 1
+  }
+  {
+    id: 2590
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_M16A1_Boss
+    item_name: ベルーガアイコン
+    introduction: ベルーガアイコン
+    rank: 1
+  }
+  {
+    id: 2591
+    type: 5
+    arg: "1"
+    code: profilePic_2024ArenaBreakout_01
+    item_name: アイコン：流離のナイフ
+    introduction: アイコン：流離のナイフ
+    rank: 1
+  }
+  {
+    id: 2592
+    type: 5
+    arg: "1"
+    code: profilePic_2024ArenaBreakout_02
+    item_name: アイコン：君と一緒に
+    introduction: アイコン：君と一緒に
+    rank: 1
+  }
+  {
+    id: 2593
+    type: 5
+    arg: "1"
+    code: profilePic_2024ArenaBreakout_03
+    item_name: アイコン：クライマー
+    introduction: アイコン：クライマー
+    rank: 1
+  }
+  {
+    id: 2594
+    type: 5
+    arg: "1"
+    code: profilePic_2024ArenaBreakout_04
+    item_name: アイコン：とある試練
+    introduction: アイコン：とある試練
+    rank: 1
+  }
+  {
+    id: 2595
+    type: 5
+    arg: "1"
+    code: profilePic_2024ArenaBreakout_05
+    item_name: アイコン：異郷の客人
+    introduction: アイコン：異郷の客人
+    rank: 1
+  }
+  {
+    id: 2596
+    type: 5
+    arg: "1"
+    code: card_2024ArenaBreakout_01
+    item_name: IDカード背景：銃弾の嵐
+    introduction: IDカード背景：銃弾の嵐
+    rank: 1
+  }
+  {
+    id: 2597
+    type: 5
+    arg: "1"
+    code: card_2024ArenaBreakout_02
+    item_name: IDカード背景：金の16番標識
+    introduction: IDカード背景：金の16番標識
+    rank: 1
+  }
+  {
+    id: 2598
+    type: 5
+    arg: "1"
+    code: cg_2024ArenaBreakout_01
+    item_name: 基地背景：銀月と船
+    introduction: 基地背景：銀月と船
+    rank: 1
+  }
+  {
     id: 2599
     type: 5
     arg: "1"
@@ -15543,6 +15669,22 @@
     rank: 1
   }
   {
+    id: 2649
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_06TypeSMG
+    item_name: 沸き立つ歳月
+    introduction: 沸き立つ歳月
+    rank: 1
+  }
+  {
+    id: 2650
+    type: 5
+    arg: "1"
+    code: card_BattlePass_CF05
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -15558,6 +15700,15 @@
     code: profilePic_rank6_ZastavaM21Mod
     item_name: Zas M21メンタルアップグレードアイコン
     introduction: Zas M21メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 3503
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_CR21Mod
+    item_name: CR-21メンタルアップグレードアイコン
+    introduction: CR-21メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -16734,6 +16885,157 @@
     rank: 1
   }
   {
+    id: 9301
+    type: 1
+    arg: "9301"
+    code: intelligence1
+    item_name: 綺麗に片付いているメディカルキット
+    introduction:
+      '''
+      >>>>綺麗に片付いているメディカルキット。
+      エビータのところで何回も見たことあるような気がする。
+      Dark Zoneに来たばかりの者の多くは、エビータからこういう物を買った経験がある。
+      救急キットや痛み止め、手術用手袋など……医療用品も銃と同じように、値段が高い方がいい。
+      そしてこのメディカルキットの中身は、とてもきれいに片付けられている。
+      これがいい医者のやることだ。
+      '''
+    rank: 1
+  }
+  {
+    id: 9302
+    type: 1
+    arg: "9302"
+    code: intelligence2
+    item_name: ノイズだらけの録音ファイル……
+    introduction:
+      '''
+      >>>>ノイズだらけの録音ファイル、辛うじて聞こえる部分から、地元の者が喋っているのが分かる。
+      「あの……（ノイズ）……騙された！全部終わりだ！」
+      「コロムもテヴィラも信用できない！」
+      「……他に信用できる者はいないの？」
+      「あの医者とか……」
+      「あいつか？はは……」
+      「気を付けろ、あの……（ノイズ）……エビータも……（ノイズ）……じゃないぞ……」
+      >>>>録音終了。
+      '''
+    rank: 1
+  }
+  {
+    id: 9303
+    type: 1
+    arg: "9303"
+    code: intelligence3
+    item_name: 古いコンパス
+    introduction:
+      '''
+      >>>>古びたコンパス。
+      軍用ではないため、精度はそんなに高くない。丁寧に保存されているようだが、それでも外殻の塗装が剝がれている。
+      もしこれがどこかの有名人の持ち物だったら、まだ高く売れたかもしれない。
+      しかしどう見ても、これは普通の古いコンパスだ。
+      こいつが誰の手を経て、どういう道を導いてきたかは、誰にも分からない。
+      '''
+    rank: 1
+  }
+  {
+    id: 9304
+    type: 1
+    arg: "9304"
+    code: intelligence4
+    item_name: 摩耗したコイン
+    introduction:
+      '''
+      >>>>摩耗したコイン。
+      ほとんどのコインは摩耗しにくい素材で作られているはずだが、このコインはなぜかひどく摩耗している。
+      コインに彫られている模様や文字はすでに見えなくなっており、輪郭も少し欠けている。
+      ドスはいつもこのコインを投げているようだが……
+      君はこのコインから何を感じている？
+      権力の誘惑？歴史の声？それとも――金になるとか？
+      '''
+    rank: 1
+  }
+  {
+    id: 9305
+    type: 1
+    arg: "9305"
+    code: intelligence5
+    item_name: 乾いたバラの花
+    introduction:
+      '''
+      >>>>乾いたバラの花。
+      渓谷の一帯は、昔花卉産業で栄えていたと言われている。
+      ドスの手下も昔、バラの花を売っていたらしい。
+      カモナには大きな花の需要があるから、アントニオ・ファミリーも花弁産業で勢力を広げることができたのだろう。
+      取引と人情で、渓谷を掌握するのは容易いことだ……
+      もし機会があれば、アントニオ・ファミリーの花畑を見てみたいことろだ。
+      '''
+    rank: 1
+  }
+  {
+    id: 9306
+    type: 1
+    arg: "9306"
+    code: intelligence6
+    item_name: 5.56×45ミリM955徹甲弾
+    introduction:
+      '''
+      >>>>5.56×45ミリM955徹甲弾。
+      Dark Zoneにおいて、武器と弾薬は必要不可欠だ。特に上質な弾薬なら、誰しも欲しいと思うのだろう。
+      貫通力、精度、そしてコスパも、すべてよく考えなければならない。
+      そしてこの弾薬はおそらく、誰かが自分の愛銃のためにわざわざ用意したものだろう。
+      それを自分の物にするか、それともちゃんと残しておくか、どっちでも構わない。
+      ただ、「指揮官」なら……
+      '''
+    rank: 1
+  }
+  {
+    id: 9307
+    type: 1
+    arg: "9307"
+    code: intelligence7
+    item_name: ピカピカのカラビナ
+    introduction:
+      '''
+      >>>>ピカピカのカラビナ。
+      ヘカテのことを知っている者なら、これが彼女の愛用の物だと分かるはずだ。
+      誰しも過去の秘密があるが、ヘカテはそれを隠す気は全くない。
+      登山とクライミングはヘカテの趣味であり、彼女だけの栄誉でもある。
+      チャンスを掴み、登り続ける――それが彼女だ。
+      '''
+    rank: 1
+  }
+  {
+    id: 9308
+    type: 1
+    arg: "9308"
+    code: intelligence8
+    item_name: 手描きのDark Zoneの地図
+    introduction:
+      '''
+      >>>>手描きのDark Zoneの地図。
+      内容はまだはっきりと読めるが、かなり古く、何度か描き替えられた痕跡もある。
+      カモナには、様々な勢力が根付いて争っている。
+      だからその勢力たちの縄張りも、常に変動し続けている。
+      どこが誰の縄張りになるのか、最後まで誰にも分からない……
+      '''
+    rank: 1
+  }
+  {
+    id: 9309
+    type: 1
+    arg: "9309"
+    code: intelligence9
+    item_name: 壊れたタグ
+    introduction:
+      '''
+      >>>>壊れたタグ。
+      このタグが銃弾に撃ち抜かれて、何が書いてあったのかを読み取ることはできない。
+      こんな小さな金属タグ一枚に、所有者のほとんどの情報が記されていると思うと、どこか切なくなる。
+      名前、血液型、所属と番号、そして故郷まで……
+      唯一無二の物であり、どこにでもある物でもある。
+      '''
+    rank: 1
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -16981,10 +17283,9 @@
     type: 1
     arg: "30026"
     code: gift_bundle_BattlePass_06TypeSMG
-    item_name: item-10030026
-    introduction: item-20030026
+    item_name: 沸き立つ歳月
+    introduction: 指揮官！やっと一緒に麻辣トルネード火鍋を食べてくれる友達を見つけたよ！あんまり喋らないけど、いい食べっぷりをするんだよね！会計？そんなの食べてからでいいよ～
     rank: 1
-    detail_introduction: item-30030026
   }
   {
     id: 100001
@@ -18785,6 +19086,34 @@
     item_name: 蝕心の仮面・孤立の森
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
+  }
+  {
+    id: 100245
+    type: 4
+    arg: "100245"
+    code: Nova_medal_black
+    item_name: 新星勲章・胡蝶星雲
+    introduction: 新星勲章・胡蝶星雲
+    rank: 1
+  }
+  {
+    id: 100246
+    type: 4
+    arg: "100246"
+    code: Platinum_medal_black
+    item_name: 白金勲章・胡蝶星雲
+    introduction: 白金勲章・胡蝶星雲
+    rank: 1
+  }
+  {
+    id: 100247
+    type: 9
+    arg: "100247"
+    code: Coin_202411LorenzButterfly
+    item_name: コーエン
+    introduction: Dark Zoneで流通している貨幣。表世界と裏世界の両方で使える。
+    rank: 1
+    daily_limit: 60;180
   }
   {
     id: 100253
@@ -21475,6 +21804,26 @@
     detail_introduction: item-30140050
   }
   {
+    id: 140051
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140051
+    introduction: item-20140051
+    rank: 1
+    detail_introduction: item-30140051
+  }
+  {
+    id: 140052
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140052
+    introduction: item-20140052
+    rank: 1
+    detail_introduction: item-30140052
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21923,6 +22272,16 @@
     rank: 1
   }
   {
+    id: 200051
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_06TypeSMG
+    item_name: item-10200051
+    introduction: item-20200051
+    rank: 1
+    detail_introduction: item-30200051
+  }
+  {
     id: 900030
     type: 4
     arg: "900030"
@@ -22186,6 +22545,15 @@
     code: Bumdle_October2
     item_name: GW物資箱
     introduction: GW物資箱
+    rank: 1
+  }
+  {
+    id: 900058
+    type: 4
+    arg: "900058"
+    code: Bumdle_GoldenWeekJP
+    item_name: おみくじ
+    introduction: おみくじ
     rank: 1
   }
   {
@@ -24106,6 +24474,54 @@
     type_sort: 1
   }
   {
+    id: 1500186
+    type: 15
+    arg: "1500186"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-麻辣の冬で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500186
+    type_sort: 1
+  }
+  {
+    id: 1500187
+    type: 15
+    arg: "1500187"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-麻辣の冬で獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500187
+    type_sort: 1
+  }
+  {
+    id: 1500188
+    type: 15
+    arg: "1500188"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-麻辣の冬で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500188
+    type_sort: 1
+  }
+  {
+    id: 1500189
+    type: 15
+    arg: "1500189"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-麻辣の冬で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500189
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -25031,6 +25447,17 @@
     code: Bumdle_WhiteValentineCoupons3
     item_name: 至高のスキン抽選券・ホワイトデー
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500031
+    type: 15
+    arg: "9500031"
+    code: Bumdle_invocation_3
+    item_name: GW限定人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
     type_sort: 1

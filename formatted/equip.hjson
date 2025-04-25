@@ -11923,6 +11923,41 @@
     sp_description: 被ダメージ-3
   }
   {
+    id: 373
+    name: 改良型GP11弾
+    description:
+      '''
+      破甲+<armor_piercing>
+      火力+<pow>スキル$K31専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "110,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_K31
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "247"
+    equip_introduction: GP11弾をベースに改良した、K31の愛用の弾薬。ラウンドノーズの弾頭が使用されており、発射後非常に長い間、音速以上のスピードを保つことができる。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:500,pow:1000
+    skill: 759303
+    passive_skill: "759304"
+    max_level: 10
+    auto_select_id: 19071
+    is_show: 1
+    obtain_ids: "3101"
+    description_skill: 759304
+  }
+  {
     id: 374
     name: 多機能髪飾り
     description:
@@ -13175,5 +13210,109 @@
     auto_select_id: 19086
     is_show: 1
     obtain_ids: "517"
+  }
+  {
+    id: 429
+    name: メディカルキット
+    description:
+      '''
+      火力<pow>
+      回避+<dodge>スキル強化$エビータ専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-3,-1"
+    dodge: "15,18"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_Evita
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "1045"
+    equip_introduction: エビータがよく使っているメディカルキット。普通の救急用品以外にも、何かが入っていると噂されている。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "1003511"
+    max_level: 10
+    auto_select_id: 20089
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3118"
+    description_skill: 1003511
+  }
+  {
+    id: 430
+    name: 登山用カラビナ
+    description:
+      '''
+      火力+<pow> 射速+<rate>
+      会心ダメージ<critical_harm_rate><%>スキル強化$ヘカテ専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_Hecate
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "1046"
+    equip_introduction: ヘカテがいつも持ち歩いている登山用の道具。特に摩耗している痕跡はないが、ヘカテはいつも丁寧に手入れをしている。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,rate:600
+    passive_skill: "1003618"
+    max_level: 10
+    auto_select_id: 20090
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3118"
+    description_skill: 1003618
+  }
+  {
+    id: 431
+    name: CRチップ
+    description:
+      '''
+      火力+<pow> 命中+<hit>
+      会心ダメージ+<critical_harm_rate><%>$CR-21専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,8"
+    hit: "3,5"
+    critical_harm_rate: "10,15"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_CR21
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "288,20288"
+    equip_introduction: 特定モジュールのアップデートに対応するチップ。CR-21のトレーニングに必要な機能を提供できる。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:900,hit:1000,critical_harm_rate:1000
+    max_level: 10
+    auto_select_id: 20092
+    is_show: 1
+    obtain_ids: "3016"
   }
 ]

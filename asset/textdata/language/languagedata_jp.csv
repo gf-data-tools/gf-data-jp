@@ -841,6 +841,15 @@ COMMON,1829,スクリーンショットが保存されました,,0
 COMMON,1830,手紙の内容は変更されていません,,0
 COMMON,1831,動画ファイルのダウンロードに失敗しました。もう一度試しますか？,,0
 COMMON,1832,特典エネミー,,0
+COMMON,1833,検索,,0
+COMMON,1834,カテゴリーを選んでください,,0
+COMMON,1835,すでに所持しているアイテムのため、交換することはできません,,0
+COMMON,1836,スクリーンショット,,0
+COMMON,1837,キャラ詳細を表示,,0
+COMMON,1838,スクリーンショットを{0}に保存,,0
+COMMON,1839,毎週初めてのスクリーンショットでダイヤ×{0}を獲得できます,,0
+COMMON,1840,スクリーンショット成功,,0
+COMMON,1841,基地UIを非表示にする,,0
 BATTLE,10000,撤退,,0
 BATTLE,10001,総員撤退,,0
 BATTLE,10002,WITHDRAW,,0
@@ -1230,7 +1239,7 @@ HOME,20168,新しいキャリア任務があります,,0
 HOME,20169,{0}{1},,0
 HOME,20170,未クリアのステージがあります,,0
 HOME,20171,//n現在まだ<color=#E4A821>{1}</color>を<color=#E4A821>{0}</color>個獲得できます,,0
-HOME,20172,まだ<color=#E4A821>{0}</color>が開放されていません,,0
+HOME,20172,未開封の<color=#E4A821>{0}</color>がまだ残っております,,0
 HOME,20173,ランキングステージ<color=#E4A821>{0}</color>ポイント<color=#E4A821>{1}</color>,,0
 HOME,20174,本日はあと<color=#E4A821>{0}</color>回戦区に挑戦できます,,0
 HOME,20175,本日はあと<color=#E4A821>{0}</color>回ビンゴ任務に挑戦できます,,0
@@ -1267,7 +1276,7 @@ HOME,20205,申請人数,,0
 HOME,20206,{0}/{1},,0
 HOME,20207,申請を取り消しました,,0
 HOME,20208,現在レベル{0}/{1}、フレンド申請機能はまだ開放されていません,,0
-HOME,20209,,,0
+HOME,20209,戦友申請リストが上限に達したため、一度整理してから操作してください,,0
 DEPLOYMENT,30000,配置,,0
 DEPLOYMENT,30001,移動,,0
 DEPLOYMENT,30002,位置交替,,0
@@ -2399,6 +2408,7 @@ DORM,31983,キャラ名検索,,0
 DORM,31984,お気に入りに設定,,0
 DORM,31985,お気に入りを解除,,0
 DORM,31986,お気に入りに設定しているキャラがいません,,0
+DORM,31987,所有済み,,0
 FACTORY,32000,開始,,0
 FACTORY,32001,製造完了,,0
 FACTORY,32002,人形製造,,0
@@ -4113,6 +4123,13 @@ SETTING,52153,※人形選択時のスローモーション機能,,0
 SETTING,52154,ダメージ表示簡易化,,0
 SETTING,52155,写真へのアクセスを許可しますか？許可しない場合、写真への保存はできません。,,0
 SETTING,52156,「設定」にて、写真へのアクセスを許可してください。,,0
+SETTING,52157,グラフィック設定,,0
+SETTING,52158,解像度,,0
+SETTING,52159,表示モード,,0
+SETTING,52160,バックグラウンド再生,,0
+SETTING,52161,ウィンドウ化,,0
+SETTING,52162,ノンフレームモード,,0
+SETTING,52163,フルスクリーン表示,,0
 STOREROOM,53000,人形,,0
 STOREROOM,53001,FIGURINE,,0
 STOREROOM,53002,装備,,0
@@ -5069,7 +5086,7 @@ SEPCIALOPS,60782,返信を確認する,,0
 SEPCIALOPS,60783,手紙を作成できます,,0
 SEPCIALOPS,60784,送信済み,,0
 SEPCIALOPS,60785,隊長LV{0},,0
-SEPCIALOPS,60786,Dark Zoneヘ,,0
+SEPCIALOPS,60786,Dark Zoneヘ,,0
 SEPCIALOPS,60787,エビータ,,0
 SEPCIALOPS,60788,情報,,0
 SEPCIALOPS,60789,回収,,0
@@ -5115,25 +5132,25 @@ SEPCIALOPS,60828,一部を捨てる,,0
 SEPCIALOPS,60829,※バッグの容量上限を超えた分のアイテムは持ち帰ることができません。,,0
 SEPCIALOPS,60830,合計値段,,0
 SEPCIALOPS,60831,購入できる物資がありません,,0
-SEPCIALOPS,60832,,,0
-SEPCIALOPS,60833,,,0
-SEPCIALOPS,60834,,,0
-SEPCIALOPS,60835,,,0
-SEPCIALOPS,60836,,,0
-SEPCIALOPS,60837,,,0
-SEPCIALOPS,60838,,,0
-SEPCIALOPS,60839,,,0
-SEPCIALOPS,60840,,,0
-SEPCIALOPS,60841,,,0
-SEPCIALOPS,60842,,,0
-SEPCIALOPS,60843,,,0
-SEPCIALOPS,60844,,,0
-SEPCIALOPS,60845,,,0
-SEPCIALOPS,60846,,,0
-SEPCIALOPS,60847,,,0
+SEPCIALOPS,60832,作戦中：{0},,0
+SEPCIALOPS,60833,指揮官、この任務にはあなたの力が必要よ……,,0
+SEPCIALOPS,60834,新しい依頼が来たわ。「地元の者」との付き合いは順調かしら？,,0
+SEPCIALOPS,60835,あなたと直接話したいという依頼が入ったわ。受ける？,,0
+SEPCIALOPS,60836,合計戦闘時間,,0
+SEPCIALOPS,60837,合計パーツ数,,0
+SEPCIALOPS,60838,売る,,0
+SEPCIALOPS,60839,閉じる,,0
+SEPCIALOPS,60840,後撤退する。陣地を堅守せよ。,,0
+SEPCIALOPS,60841,作戦リザルト,,0
+SEPCIALOPS,60842,作戦報告,,0
+SEPCIALOPS,60843,殲滅した敵,,0
+SEPCIALOPS,60844,損失したユニット,,0
+SEPCIALOPS,60845,作戦時間,,0
+SEPCIALOPS,60846,隊長能力,,0
+SEPCIALOPS,60847,もう一度挑戦,,0
 SEPCIALOPS,60848,純真な筆先,,0
 SEPCIALOPS,60849,夢取り網,,0
-SEPCIALOPS,60850,,,0
+SEPCIALOPS,60850,過去の手紙,,0
 GASHAPON,70000,家具倉庫の容量が足りません（,,0
 GASHAPON,70001,）、整理を行ってからガチャを引いて下さい！,,0
 GASHAPON,70002,コインが不足しています！//n,,0
@@ -8624,15 +8641,15 @@ MINIGAME,280573,プランモードに適したマスがありません,,0
 MINIGAME,280574,現在の資源では選択したマスに十分ではありません,,0
 MINIGAME,280575,— なし —,,0
 MINIGAME,280576,挑戦を一回完了する必要があります,,0
-MINIGAME,280577,Dark Zone配給が足りません,,0
+MINIGAME,280577,Dark Zone配給が足りません,,0
 MINIGAME,280578,隊長は解散できません,,0
 MINIGAME,280579,満員の状態で招集することはできません,,0
 MINIGAME,280580,編成が満員のため、招集するはできません,,0
-MINIGAME,280581,Dark Zoneパーツが足りません,,0
+MINIGAME,280581,Dark Zoneパーツが足りません,,0
 MINIGAME,280582,バッグの容量がいっぱいです,,0
 MINIGAME,280583,最初から挑戦しますか？（1-1から再挑戦）,,0
 MINIGAME,280584,今回の挑戦を中止しますか？,,0
-MINIGAME,280585,[{0}部隊コスト+{0}倉庫の空き],,0
+MINIGAME,280585,バッグ+倉庫値段,,0
 MINIGAME,280586,[{0}部隊のバッグ内アイテムの値段+{0}倉庫の空き],,0
 MINIGAME,280587,残りの目標数：,,0
 MINIGAME,280588,任務目標が達成されました。//n追加増援の残り敵数：,,0
@@ -8643,14 +8660,14 @@ MINIGAME,280592,戦役勝利,,0
 MINIGAME,280593,購入成功,,0
 MINIGAME,280594,売却成功,,0
 MINIGAME,280595,招集成功,,0
-MINIGAME,280596,Dark Zone配給,,0
-MINIGAME,280597,Dark Zoneパーツ,,0
+MINIGAME,280596,Dark Zone配給,,0
+MINIGAME,280597,Dark Zoneパーツ,,0
 MINIGAME,280598,解散成功,,0
 MINIGAME,280599,部隊には生存した隊長が必要です,,0
 MINIGAME,280600,バッグの整理を終了して、帰還して整備しますか？,,0
-MINIGAME,280601,,,0
-MINIGAME,280602,,,0
-MINIGAME,280603,,,0
+MINIGAME,280601,【{0}】を完了することで、情報が開放されます,,0
+MINIGAME,280602,累計撃破,,0
+MINIGAME,280603,累計損失,,0
 VEHICLE,290001,汎用//nモジュール,,0
 VEHICLE,290002,重火器,,0
 VEHICLE,290003,軽火器,,0

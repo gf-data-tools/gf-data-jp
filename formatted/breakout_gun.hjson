@@ -3,7 +3,7 @@
     id: -1
     code: CommanderSelf
     icon: CommanderSelf
-    name: 指挥官
+    name: 指揮官
     type: 1
     hp: "200"
     atk: "200"
@@ -15,7 +15,7 @@
     speed: "200"
     shield: "200"
     skills: "701,702,703,704"
-    skill_dec: 呀哈哈
+    skill_dec: あはは～
     deployment_cd: 60
     bt_tree: Tarkov/ItemSkill
   }
@@ -38,7 +38,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "100,101"
-    skill_dec: 战斗中会交替提高自身伤害及射速，每3秒替换一次
+    skill_dec: 戦闘中、自身の火力と射速を3秒ごとに交互に上昇させる。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MDR
   }
@@ -61,7 +61,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "100,102"
-    skill_dec: 发射榴弹对落点附近的敌人造成伤害，冷却时间6秒
+    skill_dec: 榴弾を発射し、範囲ダメージを与える。CT6秒。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_G3
   }
@@ -84,11 +84,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "103,104"
-    skill_dec:
-      '''
-      攻击时使目标减速，持续2秒，冷却时间6秒
-      普通攻击对被减速的目标造成的伤害提高
-      '''
+    skill_dec: 攻撃時、目標を2秒間減速させ、減速状態の目標に対する通常攻撃ダメージが上昇する。CT6秒。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_ACR
   }
@@ -111,7 +107,7 @@
     speed: "8,9,10"
     shield: "0,0,0"
     skills: "200,201"
-    skill_dec: 提升自身射速，持续时间3秒，冷却时间6秒
+    skill_dec: 自身の射速を3秒間上昇させる。CT6秒。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_wz.29
   }
@@ -119,7 +115,7 @@
     id: 5
     code: M1
     icon: M1
-    name: M1加兰德
+    name: M1ガーランド
     type: 3
     cost_deploy: 4
     cost_upgrade: "50,100"
@@ -134,7 +130,7 @@
     speed: "8,9,10"
     shield: "0,0,0"
     skills: "200,202"
-    skill_dec: 对射程内的随机目标发动一次狙击，冷却时间3秒，可跨行攻击
+    skill_dec: 射程内のランダムの目標に対し狙撃を行う。この攻撃はルートを跨いて攻撃することができる。CT3秒。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_M1
   }
@@ -157,7 +153,7 @@
     speed: "8,9,10"
     shield: "0,0,0"
     skills: "203"
-    skill_dec: 攻击时可以贯穿第1个目标，对射程内的第2个目标造成一半的伤害
+    skill_dec: 攻撃時、1つ目の目標を貫通し、射程内の2つ目の目標に対し半分のダメージを与える。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_Type4
   }
@@ -180,7 +176,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "301"
-    skill_dec: 自身攻击提高，但会攻击射程内的随机目标，可跨行
+    skill_dec: 自身の火力が上昇するかわりに、射程内の目標をランダムに攻撃するようになる。この攻撃はルートを跨いて攻撃することができる。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_RPD
   }
@@ -203,7 +199,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "302"
-    skill_dec: 每3次攻击后下一次攻击伤害提高
+    skill_dec: 3回攻撃するごとに、次の攻撃のダメージが上昇する。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MG5
   }
@@ -226,7 +222,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "303"
-    skill_dec: 每次攻击时提高自身伤害，换弹时清零
+    skill_dec: 攻撃する度に、自身の火力を上昇させる。リロード時、この効果がリセットされる。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MG338
   }
@@ -249,7 +245,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "400,401"
-    skill_dec: 在场时使同一行的所有敌人伤害小幅下降，不可叠加
+    skill_dec: 場にいる時、同じルートに存在するすべての敵の火力を少し低下させる。この効果は重複しない。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_AK74U
   }
@@ -257,7 +253,7 @@
     id: 11
     code: VZ61
     icon: VZ61
-    name: 蝎式
+    name: スコーピオン
     type: 2
     cost_deploy: 4
     cost_upgrade: "50,100"
@@ -272,7 +268,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "400,402"
-    skill_dec: 投掷燃烧瓶对落点附近的敌人造成伤害并将其点燃，持续时间5秒，冷却时间6秒
+    skill_dec: 火焔瓶を投げ、範囲を与えて5秒間燃焼状態にする。CT6秒。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_Vz.61
   }
@@ -295,7 +291,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "400,403"
-    skill_dec: 战斗中持续提高自身闪避，达到最大层数后清零
+    skill_dec: 戦闘中、自身の回避を上昇させ続ける。回避が上限値に達した後、上昇効果がリセットされる。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_P90
   }
@@ -318,7 +314,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "500,501"
-    skill_dec: 提升自身护甲，持续时间3秒，冷却时间6秒
+    skill_dec: 自身の防御を3秒間上昇させる。CT6秒。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_KSG
   }
@@ -326,7 +322,7 @@
     id: 14
     code: 97typeS
     icon: 97typeS
-    name: 97式霰
+    name: 97式散
     type: 6
     cost_deploy: 5
     cost_upgrade: "50,100"
@@ -341,7 +337,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "502"
-    skill_dec: 攻击时击退目标并将其减速，持续时间1秒
+    skill_dec: 攻撃時、目標をノックバックさせ、1秒間減速させる。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_Type97S
   }
@@ -364,7 +360,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "503"
-    skill_dec: 同时攻击最近的3个目标，但射程降低
+    skill_dec: 最も近い目標を3体同時に攻撃するかわりに、射程が低下する。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MK3A1
   }
@@ -372,7 +368,7 @@
     id: 16
     code: M1873
     icon: M1873
-    name: 柯尔特左轮
+    name: コルトSAA
     type: 1
     cost_deploy: 3
     cost_upgrade: "50,100"
@@ -387,7 +383,7 @@
     speed: "12,13,14"
     shield: "0,0,0"
     skills: "600,601"
-    skill_dec: 在场时使同一行的所有友军伤害小幅提升，不可叠加
+    skill_dec: 場にいる時、同じルートに存在するすべての味方の火力を少し上昇させる。この効果は重複しない。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_M1873
   }
@@ -395,7 +391,7 @@
     id: 17
     code: "357"
     icon: "357"
-    name: 阿斯特拉左轮
+    name: アストラ
     type: 1
     cost_deploy: 3
     cost_upgrade: "50,100"
@@ -410,7 +406,7 @@
     speed: "12,13,14"
     shield: "0,0,0"
     skills: "600,602"
-    skill_dec: 在场时使同一行的所有友军射速小幅提升，不可叠加
+    skill_dec: 場にいる時、同じルートに存在するすべての味方の射速を少し上昇させる。この効果は重複しない。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_357
   }
@@ -418,7 +414,7 @@
     id: 18
     code: TT33
     icon: TT33
-    name: 托卡列夫
+    name: トカレフ
     type: 1
     cost_deploy: 3
     cost_upgrade: "50,100"
@@ -433,7 +429,7 @@
     speed: "12,13,14"
     shield: "0,0,0"
     skills: "600,603"
-    skill_dec: 在场时使同一行的所有友军回避小幅提升，不可叠加
+    skill_dec: 場にいる時、同じルートに存在するすべての味方の回避を少し上昇させる。この効果は重複しない。
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_TT33
   }

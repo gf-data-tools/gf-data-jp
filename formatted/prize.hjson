@@ -1107,7 +1107,7 @@
   }
   {
     id: 191
-    name: S.A.T.8
+    name: MDR
     gun_id: "215"
     icon: profilePic_rank5_SAT8
   }
@@ -4036,6 +4036,12 @@
     name: prize-10000587
     gun_id: "1027"
     content: prize-20000587
+  }
+  {
+    id: 588
+    name: prize-10000588
+    gun_id: "207"
+    content: prize-20000588
   }
   {
     id: 591
@@ -11585,6 +11591,13 @@
     content: prize-20001994
   }
   {
+    id: 1999
+    name: prize-10001999
+    gem: 90
+    equip_ids: "373"
+    content: prize-20001999
+  }
+  {
     id: 2001
     name: 古城探検
     gift: 6-1
@@ -12280,6 +12293,31 @@
     name: prize-10002223
     gun_id: "398"
     content: prize-20002223
+  }
+  {
+    id: 2224
+    name: ダイヤ*5
+    gem: 5
+  }
+  {
+    id: 2225
+    name: ダイヤ*15
+    gem: 15
+  }
+  {
+    id: 2226
+    name: ダイヤ*25
+    gem: 25
+  }
+  {
+    id: 2227
+    name: ダイヤ*50
+    gem: 50
+  }
+  {
+    id: 2228
+    name: ダイヤ*88
+    gem: 88
   }
   {
     id: 2230
@@ -14010,6 +14048,184 @@
     furniture: "3118"
   }
   {
+    id: 2671
+    name: prize-10002671
+    item_ids: 100247-6,100245-1
+    content: prize-20002671
+  }
+  {
+    id: 2672
+    name: prize-10002672
+    item_ids: 100247-8,100245-1
+    content: prize-20002672
+  }
+  {
+    id: 2673
+    name: prize-10002673
+    item_ids: 100247-8,100245-2
+    content: prize-20002673
+  }
+  {
+    id: 2674
+    name: prize-10002674
+    item_ids: 100247-10,100246-1
+    content: prize-20002674
+  }
+  {
+    id: 2675
+    name: prize-10002675
+    item_ids: 100247-10,100245-1,100246-1
+    content: prize-20002675
+  }
+  {
+    id: 2676
+    name: prize-10002676
+    item_ids: 100247-12,100246-1
+    content: prize-20002676
+  }
+  {
+    id: 2677
+    name: prize-10002677
+    item_ids: 100247-12,100246-2
+    content: prize-20002677
+  }
+  {
+    id: 2678
+    name: prize-10002678
+    item_ids: 100247-15,100246-2
+    content: prize-20002678
+  }
+  {
+    id: 2679
+    name: prize-10002679
+    item_ids: 100247-15,100245-2,100246-2
+    content: prize-20002679
+  }
+  {
+    id: 2680
+    name: prize-10002680
+    item_ids: 100247-6
+    content: prize-20002680
+  }
+  {
+    id: 2681
+    name: prize-10002681
+    item_ids: 100247-8
+    content: prize-20002681
+  }
+  {
+    id: 2682
+    name: prize-10002682
+    item_ids: 100247-10
+    content: prize-20002682
+  }
+  {
+    id: 2683
+    name: prize-10002683
+    item_ids: 100247-12
+    content: prize-20002683
+  }
+  {
+    id: 2684
+    name: prize-10002684
+    item_ids: 100247-15
+    content: prize-20002684
+  }
+  {
+    id: 2685
+    name: prize-10002685
+    item_ids: 100245-1
+    content: prize-20002685
+  }
+  {
+    id: 2686
+    name: prize-10002686
+    item_ids: 100246-1
+    content: prize-20002686
+  }
+  {
+    id: 2687
+    name: prize-10002687
+    item_ids: 100245-2
+    content: prize-20002687
+  }
+  {
+    id: 2688
+    name: prize-10002688
+    item_ids: 100246-2
+    content: prize-20002688
+  }
+  {
+    id: 2689
+    name: prize-10002689
+    equip_ids: "429"
+    content: prize-20002689
+  }
+  {
+    id: 2690
+    name: prize-10002690
+    equip_ids: "430"
+    content: prize-20002690
+  }
+  {
+    id: 2691
+    name: prize-10002691
+    furniture: "3119"
+    content: prize-20002691
+  }
+  {
+    id: 2692
+    name: prize-10002692
+    furniture: "3120"
+    content: prize-20002692
+  }
+  {
+    id: 2693
+    name: prize-10002693
+    furniture: "3121"
+    content: prize-20002693
+  }
+  {
+    id: 2694
+    name: prize-10002694
+    furniture: "3122"
+    content: prize-20002694
+  }
+  {
+    id: 2695
+    name: prize-10002695
+    gift: 50002-1
+    content: prize-20002695
+    icon: Bumdle_ArenaBreakout_Evita
+  }
+  {
+    id: 2696
+    name: prize-10002696
+    gift: 50003-1
+    content: prize-20002696
+    icon: Bumdle_ArenaBreakout_Hecate
+  }
+  {
+    id: 2697
+    name: prize-10002697
+    gift: 50004-1
+    content: prize-20002697
+    icon: Bumdle_ArenaBreakout_P90
+  }
+  {
+    id: 2698
+    name: prize-10002698
+    gift: 50005-1
+    content: prize-20002698
+    icon: Bumdle_ArenaBreakout_MDR
+  }
+  {
+    id: 2699
+    name: prize-10002699
+    gun_id: "1046"
+    content: prize-20002699
+  }
+  {
     id: 3001
     name: コルトSAA
     item_ids: 1318-1
@@ -14624,6 +14840,14 @@
     equip_ids: "336"
     skin: 5069
     content: prize-20003282
+  }
+  {
+    id: 3288
+    name: prize-10003288
+    item_ids: 3503-1
+    equip_ids: "431"
+    skin: 5079
+    content: prize-20003288
   }
   {
     id: 3293
@@ -15637,6 +15861,18 @@
     name: prize-10004328
     item_ids: 2582-1
     content: prize-20004328
+  }
+  {
+    id: 4329
+    name: prize-10004329
+    sangvis: "1029"
+    content: prize-20004329
+  }
+  {
+    id: 4330
+    name: prize-10004330
+    item_ids: 2590-1
+    content: prize-20004330
   }
   {
     id: 5001
@@ -24770,6 +25006,36 @@
     name: prize-10008594
     gift: 30002-1
     content: prize-20008594
+  }
+  {
+    id: 8595
+    name: prize-10008595
+    item_ids: 140051-1
+    content: prize-20008595
+  }
+  {
+    id: 8596
+    name: prize-10008596
+    item_ids: 140052-1,10606-300,200051-1,2650-1
+    content: prize-20008596
+  }
+  {
+    id: 8597
+    name: prize-10008597
+    item_ids: 140052-1,10606-300,200051-1,2650-1
+    content: prize-20008597
+  }
+  {
+    id: 8598
+    name: prize-10008598
+    gift: 30014-1
+    content: prize-20008598
+  }
+  {
+    id: 8599
+    name: prize-10008599
+    gift: 30003-1
+    content: prize-20008599
   }
   {
     id: 9101
@@ -37607,6 +37873,207 @@
     ammo: 500
     mre: 500
     part: 500
+  }
+  {
+    id: 17801
+    name: 3-最初の弾丸-任務報酬
+    coins: 1-300
+  }
+  {
+    id: 17802
+    name: 7-渦の中へ-任務報酬
+    coins: 2-300
+  }
+  {
+    id: 17803
+    name: 11-散りゆく薔薇へ-任務報酬
+    coins: 3-300
+  }
+  {
+    id: 17804
+    name: 14-追い詰められたギャンブラー-任務報酬
+    gun_id: "1045"
+  }
+  {
+    id: 17805
+    name: 3-最初の弾丸EX-任務報酬
+    item_ids: 9-50
+  }
+  {
+    id: 17806
+    name: 7-渦の中へEX-任務報酬
+    item_ids: 506-100
+  }
+  {
+    id: 17807
+    name: 11-散りゆく薔薇へEX-任務報酬
+    gift: 200001-100
+  }
+  {
+    id: 17808
+    name: 14-追い詰められたギャンブラーEX-任務報酬
+    item_ids: 45-100
+  }
+  {
+    id: 17809
+    name: 特別派遣-任務報酬
+    core: 10
+  }
+  {
+    id: 17810
+    name: 特別派遣EX-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17811
+    name: 1-光のない区域-任務報酬
+    core: 5
+  }
+  {
+    id: 17812
+    name: 2-無知を演じて-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17813
+    name: 4-不協和音-任務報酬
+    core: 5
+  }
+  {
+    id: 17814
+    name: 5-どこからの風-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17815
+    name: 6-協奏-任務報酬
+    item_ids: 46-50
+  }
+  {
+    id: 17816
+    name: 8-四つ目の石-任務報酬
+    core: 5
+  }
+  {
+    id: 17817
+    name: 9-おなじみのナイフ-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17818
+    name: 10-月光の中のラクダの鐘-任務報酬
+    item_ids: 9-50
+  }
+  {
+    id: 17819
+    name: 12-二回目の変奏-任務報酬
+    sangvis: "1029"
+  }
+  {
+    id: 17820
+    name: 13-最後の道-任務報酬
+    furniture: "3126"
+  }
+  {
+    id: 17821
+    name: 15-蜘蛛の糸-任務報酬
+    furniture: "3127"
+  }
+  {
+    id: 17822
+    name: 16-羽ばたく蝶の翼-任務報酬
+    item_ids: 143-1
+    furniture: "20154"
+  }
+  {
+    id: 17823
+    name: E-1 予想外の容疑者-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17824
+    name: E-2 色褪せない白衣-任務報酬
+    item_ids: 506-100
+  }
+  {
+    id: 17825
+    name: E-3 きらめく灰塵-任務報酬
+    furniture: "3123"
+  }
+  {
+    id: 17826
+    name: D-1 金喰いネズミ-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17827
+    name: D-2 執行官-任務報酬
+    gift: 200001-50
+  }
+  {
+    id: 17828
+    name: D-3 捕られるのは-任務報酬
+    furniture: "3124"
+  }
+  {
+    id: 17829
+    name: H-1 秘密処刑-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17830
+    name: H-2 逆らうことできず-任務報酬
+    item_ids: 46-50
+  }
+  {
+    id: 17831
+    name: H-3 癒えぬ弾痕-任務報酬
+    furniture: "3125"
+  }
+  {
+    id: 17832
+    name: 突撃行録I-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17833
+    name: 突撃行録II-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17834
+    name: 突撃行録III-任務報酬
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
   }
   {
     id: 17881
@@ -51994,6 +52461,32 @@
     content: prize-20120141
   }
   {
+    id: 120142
+    name: prize-10120142
+    item_ids: 41-30,1500186-1
+    content: prize-20120142
+  }
+  {
+    id: 120143
+    name: prize-10120143
+    item_ids: 41-30
+    gift: 30026-1
+    content: prize-20120143
+  }
+  {
+    id: 120144
+    name: prize-10120144
+    item_ids: 41-30,1500187-1
+    content: prize-20120144
+  }
+  {
+    id: 120145
+    name: prize-10120145
+    gem: 680
+    item_ids: 1500188-1
+    content: prize-20120145
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -52676,6 +53169,24 @@
     name: prize-10130075
     item_ids: 10606-300,200050-1,2609-1
     content: prize-20130075
+  }
+  {
+    id: 130076
+    name: prize-10130076
+    item_ids: 1500189-1
+    content: prize-20130076
+  }
+  {
+    id: 130077
+    name: prize-10130077
+    item_ids: 602-1,1500186-1,30026-1,1500187-1,1500188-1,505-680
+    content: prize-20130077
+  }
+  {
+    id: 130078
+    name: prize-10130078
+    item_ids: 10606-300,200051-1,2650-1
+    content: prize-20130078
   }
   {
     id: 140001
@@ -54008,6 +54519,54 @@
     name: prize-10140220
     gun_id: "196"
     content: prize-20140220
+  }
+  {
+    id: 140221
+    name: prize-10140221
+    gun_id: "215"
+    content: prize-20140221
+  }
+  {
+    id: 140222
+    name: prize-10140222
+    gun_id: "245"
+    content: prize-20140222
+  }
+  {
+    id: 140223
+    name: prize-10140223
+    gun_id: "338"
+    content: prize-20140223
+  }
+  {
+    id: 140224
+    name: prize-10140224
+    gun_id: "307"
+    content: prize-20140224
+  }
+  {
+    id: 140225
+    name: prize-10140225
+    gun_id: "260"
+    content: prize-20140225
+  }
+  {
+    id: 140226
+    name: prize-10140226
+    gun_id: "46"
+    content: prize-20140226
+  }
+  {
+    id: 140227
+    name: prize-10140227
+    gun_id: "306"
+    content: prize-20140227
+  }
+  {
+    id: 140228
+    name: prize-10140228
+    gun_id: "172"
+    content: prize-20140228
   }
   {
     id: 150001
@@ -64126,6 +64685,18 @@
     name: prize-10331252
     item_ids: 9500030-1
     content: prize-20331252
+  }
+  {
+    id: 331253
+    name: prize-10331253
+    gun_id: "215,245,377,323,397"
+    content: prize-20331253
+  }
+  {
+    id: 331254
+    name: prize-10331254
+    item_ids: 9500031-1
+    content: prize-20331254
   }
   {
     id: 411001

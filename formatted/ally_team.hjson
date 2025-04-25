@@ -16338,6 +16338,7 @@
   }
   {
     id: 730106
+    name: 民間人
     guns: "1"
     enemy_team_id: 730106
     ai: 0;0;0
@@ -16367,6 +16368,7 @@
   }
   {
     id: 730507
+    name: 民間人
     guns: "1"
     enemy_team_id: 730507
     ai: 101;1;101
@@ -16376,6 +16378,7 @@
   }
   {
     id: 730508
+    name: 民間人
     guns: "1"
     enemy_team_id: 730508
     ai: 101;1;101
@@ -16385,6 +16388,7 @@
   }
   {
     id: 730509
+    name: 民間人
     guns: "1"
     enemy_team_id: 730509
     ai: 101;1;101
@@ -24617,6 +24621,7 @@
   }
   {
     id: 9740102
+    name: 通行人
     guns: "9720001,9720002,9720003,9720004,9720005"
     enemy_team_id: 1
     initial_type: 1
@@ -24673,6 +24678,7 @@
   }
   {
     id: 9742401
+    name: ステュクス
     guns: "748"
     enemy_team_id: 9742405
     initial_type: 2
@@ -24688,6 +24694,7 @@
   }
   {
     id: 9742402
+    name: ザコ
     guns: "748"
     enemy_team_id: 9742405
     initial_type: 2
@@ -24699,6 +24706,7 @@
   }
   {
     id: 9742403
+    name: ザコ
     guns: "748"
     enemy_team_id: 9742406
     initial_type: 2
@@ -24710,6 +24718,7 @@
   }
   {
     id: 9742901
+    name: ファルコン小隊
     guns: "9740106,9740107,9740108,9740109,9740110"
     enemy_team_id: 1
     initial_type: 1
@@ -24723,6 +24732,7 @@
   }
   {
     id: 9742902
+    name: M6 ASW小隊
     guns: "9740111,9740112,9740113,9740114,9740115"
     enemy_team_id: 1
     initial_type: 1
@@ -24736,6 +24746,7 @@
   }
   {
     id: 9742903
+    name: AR-18小隊
     guns: "9740101,9740102,9740103,9740104,9740105"
     enemy_team_id: 1
     initial_type: 1
@@ -24749,6 +24760,7 @@
   }
   {
     id: 9743901
+    name: ステュクス
     guns: "748"
     enemy_team_id: 9743905
     initial_type: 2
@@ -24764,6 +24776,7 @@
   }
   {
     id: 9743902
+    name: ザコ
     guns: "748"
     enemy_team_id: 9743905
     initial_type: 2
@@ -24775,6 +24788,7 @@
   }
   {
     id: 9743903
+    name: ザコ
     guns: "748"
     enemy_team_id: 9743906
     initial_type: 2
@@ -24786,6 +24800,7 @@
   }
   {
     id: 9744401
+    name: ステュクス
     guns: "748"
     enemy_team_id: 9744405
     initial_type: 2
@@ -24801,6 +24816,7 @@
   }
   {
     id: 9744402
+    name: ザコ
     guns: "748"
     enemy_team_id: 9744405
     initial_type: 2
@@ -24812,6 +24828,7 @@
   }
   {
     id: 9744403
+    name: ザコ
     guns: "748"
     enemy_team_id: 9744406
     initial_type: 2
@@ -24823,6 +24840,7 @@
   }
   {
     id: 9744501
+    name: ファルコン小隊
     guns: "9740306,9740307,9740308,9740309,9740310"
     enemy_team_id: 1
     initial_type: 1
@@ -24836,6 +24854,7 @@
   }
   {
     id: 9744502
+    name: M6 ASW小隊
     guns: "9740311,9740312,9740313,9740314,9740315"
     enemy_team_id: 1
     initial_type: 1
@@ -24849,6 +24868,7 @@
   }
   {
     id: 9744503
+    name: AR-18小隊
     guns: "9740301,9740302,9740303,9740304,9740305"
     enemy_team_id: 1
     initial_type: 1
@@ -24862,6 +24882,7 @@
   }
   {
     id: 9747401
+    name: ファルコン小隊
     guns: "9740206,9740207,9740208,9740209,9740210"
     enemy_team_id: 1
     initial_type: 1
@@ -24875,6 +24896,7 @@
   }
   {
     id: 9747402
+    name: M6 ASW小隊
     guns: "9740211,9740212,9740213,9740214,9740215"
     enemy_team_id: 1
     initial_type: 1
@@ -24888,6 +24910,7 @@
   }
   {
     id: 9747403
+    name: AR-18小隊
     guns: "9740201,9740202,9740203,9740204,9740205"
     enemy_team_id: 1
     initial_type: 1

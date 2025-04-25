@@ -25950,6 +25950,7 @@
     mission_skill: 0;0;0;2000017
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: 煙が立っているゴリアテ
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -50741,6 +50742,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9700901
@@ -50761,6 +50763,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: 範囲内の同じ勢力に戦闘支援を行う。戦闘中、敵ユニットに砲撃を加える。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701201
@@ -50828,6 +50831,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701204
@@ -50848,6 +50852,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     des: 支援範囲内の飛行場上空に管制を行う。影響下にある飛行場では、降下、部隊出撃、人質の回収等が行えなくなる。
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701501
@@ -50915,6 +50920,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701504
@@ -50934,6 +50940,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701505
@@ -50952,6 +50959,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701506
@@ -50971,6 +50979,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    confront_des: 本ステージにおいて、この施設は破壊不可です。
   }
   {
     id: 9701901
@@ -52837,6 +52846,7 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    active_building_info: Rock_S;壊れた要路;0,0;2000008|Birdge_Left_4;要路;0,0;2000009
     initial_state: -1
     des: 重要な通路となる施設、破壊されると移動効率に大きな影響が出る。
     confront_des: 本ステージにて使用できる対応手段：//重装部隊による打撃

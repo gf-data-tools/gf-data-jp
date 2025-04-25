@@ -7740,7 +7740,7 @@
   {
     id: 13321
     type: 3
-    name: enemy_character_type-20013321
+    name: ドスのボディガード
     enemy_info: 多斯保镖-AR
     code: Guard1Breakout
     maxlife: 1140
@@ -7754,12 +7754,10 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013321
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013321
     enemy_illustration_id: 100060
     danger: 20
     enemy_illustration_sub_id: 100060001
@@ -7767,7 +7765,7 @@
   {
     id: 13322
     type: 3
-    name: enemy_character_type-20013322
+    name: ドスのボディガード
     enemy_info: 多斯保镖-RF
     code: Guard2Breakout
     maxlife: 600
@@ -7782,12 +7780,10 @@
     rate: 20
     def: 99999
     level: 30100
-    character: enemy_character_type-10013322
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013322
     enemy_illustration_id: 100061
     danger: 20
     enemy_illustration_sub_id: 100061001
@@ -7795,7 +7791,7 @@
   {
     id: 13323
     type: 3
-    name: enemy_character_type-20013323
+    name: ドスのボディガード
     enemy_info: 多斯保镖-SG
     code: Guard3Breakout
     maxlife: 1320
@@ -7810,12 +7806,10 @@
     rate: 20
     def: 99999
     level: 30100
-    character: enemy_character_type-10013323
     normal_attack: 301106
     passive_skill: "200304"
     effect_ratio: 1.17
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013323
     enemy_illustration_id: 100062
     danger: 20
     enemy_illustration_sub_id: 100062001
@@ -7823,7 +7817,7 @@
   {
     id: 13324
     type: 3
-    name: enemy_character_type-20013324
+    name: ブラックゴールドの戦闘員
     enemy_info: 黑金队员-AR
     code: BG1Breakout
     maxlife: 850
@@ -7837,12 +7831,10 @@
     rate: 50
     def: 99999
     level: 100
-    character: enemy_character_type-10013324
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013324
     enemy_illustration_id: 100063
     danger: 20
     enemy_illustration_sub_id: 100063001
@@ -7850,7 +7842,7 @@
   {
     id: 13325
     type: 3
-    name: enemy_character_type-20013325
+    name: ブラックゴールドの戦闘員
     enemy_info: 黑金队员-SMG
     code: BG2Breakout
     maxlife: 1350
@@ -7864,12 +7856,10 @@
     rate: 80
     def: 99999
     level: 100
-    character: enemy_character_type-10013325
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013325
     enemy_illustration_id: 100064
     danger: 20
     enemy_illustration_sub_id: 100064001
@@ -7877,7 +7867,7 @@
   {
     id: 13326
     type: 3
-    name: enemy_character_type-20013326
+    name: ブラックゴールドの戦闘員
     enemy_info: 黑金队员-RF
     code: BG3Breakout
     maxlife: 650
@@ -7892,12 +7882,10 @@
     rate: 20
     def: 99999
     level: 30100
-    character: enemy_character_type-10013326
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013326
     enemy_illustration_id: 100065
     danger: 20
     enemy_illustration_sub_id: 100065001
@@ -7905,7 +7893,7 @@
   {
     id: 13327
     type: 3
-    name: enemy_character_type-20013327
+    name: ドスの手下
     enemy_info: 伪装的多斯保镖
     code: DisGuardBreakout
     maxlife: 1050
@@ -7920,12 +7908,10 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013327
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013327
     enemy_illustration_id: 100066
     danger: 20
     enemy_illustration_sub_id: 100066001
@@ -7933,7 +7919,7 @@
   {
     id: 13328
     type: 3
-    name: enemy_character_type-20013328
+    name: 特殊部隊の戦闘員
     enemy_info: 伪装的黑金队员
     code: DisBGBreakout
     maxlife: 1050
@@ -7948,12 +7934,10 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013328
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013328
     enemy_illustration_id: 100067
     danger: 20
     enemy_illustration_sub_id: 100067001
@@ -7961,7 +7945,7 @@
   {
     id: 13329
     type: 3
-    name: enemy_character_type-20013329
+    name: ドスのエリート部下
     enemy_info: 精英多斯保镖
     code: EliteGuardBreakout
     maxlife: 23000
@@ -7976,11 +7960,9 @@
     rate: 40
     def: 99999
     level: 30100
-    character: enemy_character_type-10013329
     normal_attack: 300301
     effect_ratio: 1.2
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013329
     enemy_illustration_id: 100068
     danger: 20
     enemy_illustration_sub_id: 100068001
@@ -7988,7 +7970,7 @@
   {
     id: 13330
     type: 3
-    name: enemy_character_type-20013330
+    name: ブラックゴールドのエリート戦闘員
     enemy_info: 精英黑金队员
     code: EliteBGBreakout
     maxlife: 23000
@@ -8003,11 +7985,9 @@
     rate: 40
     def: 99999
     level: 30100
-    character: enemy_character_type-10013330
     normal_attack: 300301
     effect_ratio: 1.2
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013330
     enemy_illustration_id: 100069
     danger: 20
     enemy_illustration_sub_id: 100069001
@@ -24988,6 +24968,7 @@
   {
     id: 900841
     type: 1
+    name: ドス
     enemy_info: 多斯70
     code: DosBreakout
     maxlife: 46000
@@ -25014,6 +24995,7 @@
   {
     id: 900842
     type: 1
+    name: ドス
     enemy_info: 多斯100
     code: DosBreakout
     maxlife: 260000
@@ -25040,6 +25022,7 @@
   {
     id: 900843
     type: 1
+    name: ベルーガ
     enemy_info: M16-大将军70
     code: M16A1Arena
     maxlife: 32000
@@ -25068,6 +25051,7 @@
   {
     id: 900844
     type: 1
+    name: ベルーガ
     enemy_info: M16-大将军100
     code: M16A1Arena
     maxlife: 220000
@@ -25096,6 +25080,7 @@
   {
     id: 900845
     type: 1
+    name: ヘカテ
     enemy_info: 黑卡蒂80
     code: HecateBoss
     maxlife: 52000
@@ -25122,6 +25107,7 @@
   {
     id: 900846
     type: 1
+    name: ヘカテ
     enemy_info: 黑卡蒂110
     code: HecateBoss
     maxlife: 320000
@@ -25148,6 +25134,7 @@
   {
     id: 900851
     type: 1
+    name: ステュクス
     enemy_info: 斯提克斯70（半血撤退）
     code: StyxBoss
     maxlife: 38000
@@ -25175,6 +25162,7 @@
   {
     id: 900852
     type: 1
+    name: ステュクス
     enemy_info: 斯提克斯120（半血撤退）
     code: StyxBoss
     maxlife: 320000
@@ -25202,6 +25190,7 @@
   {
     id: 900853
     type: 1
+    name: ステュクス
     enemy_info: 斯提克斯80
     code: StyxBoss
     maxlife: 45000
@@ -25229,6 +25218,7 @@
   {
     id: 900854
     type: 1
+    name: ステュクス
     enemy_info: 斯提克斯130
     code: StyxBoss
     maxlife: 380000
@@ -25482,6 +25472,7 @@
   {
     id: 900863
     type: 1
+    name: ステュクス
     enemy_info: 斯提克斯【秃洞150】
     code: StyxBoss
     maxlife: 560000

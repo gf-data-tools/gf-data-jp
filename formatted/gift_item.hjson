@@ -12700,6 +12700,22 @@
     type_sort: 6
   }
   {
+    id: 30026
+    name: 沸き立つ歳月
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 295
+    skin: 30026
+    poster: 330026
+    code: gift_bundle_BattlePass_06TypeSMG
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 50001
     name: 星々へ
     type: 2
@@ -12710,6 +12726,70 @@
     poster: 350001
     code: gift_bundle_Anniversary2024_88type
     normal_description: プレゼントすると好感度を獲得します
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 50002
+    name: 複合呼吸
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1045
+    skin: 50002
+    poster: 350002
+    code: gift_bundle_ArenaBreakout_Evita
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 50003
+    name: 危険なレンズ
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1046
+    skin: 50003
+    poster: 350003
+    code: gift_bundle_ArenaBreakout_Hecate
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 50004
+    name: ファントムパイオニア
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 245
+    skin: 50004
+    poster: 350004
+    code: gift_bundle_ArenaBreakout_P90
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 50005
+    name: DDOS特戦隊
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 215
+    skin: 50005
+    poster: 350005
+    code: gift_bundle_ArenaBreakout_MDR
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
     sort: 2000
@@ -13026,6 +13106,21 @@
     type_sort: 5
   }
   {
+    id: 100023
+    name: 穀物クッキー
+    type: 1
+    rank: 5
+    favor: 30000
+    code: gift_item_ArenaBreakoutBiscuits
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 無
+    description: 宿舎にて対応する人形にプレゼントすることで、好感度を3ポイント上げることができます。
+    item_access: "2"
+    detail_introduction: 穀物を加工してできた食品。短時間でカロリーを補充でき、Dark Zoneでは人気の商品だ。
+    sort: -1018
+    type_sort: 5
+  }
+  {
     id: 200001
     name: 作戦報告書
     type: 3
@@ -13334,6 +13429,21 @@
     item_access: "2"
     detail_introduction: 2Z64エリアで入手したデータの欠片。解析すると、経験値を得ることができる。
     sort: -1017
+    type_sort: 2
+  }
+  {
+    id: 200023
+    name: 鋼の銃弾
+    type: 3
+    rank: 5
+    code: gift_item_ArenaBreakoutBullet
+    normal_description: 人形や妖精が経験値を獲得します
+    bonus_description: 無
+    description: 対応する人形にプレゼントすると、10000経験値を獲得します
+    exp: 10000
+    item_access: "2"
+    detail_introduction: 物資であり、戦利品であり、Dark Zoneで生き残るための資本でもある。それはかつての勝利と、これからの戦いを意味する。
+    sort: -1018
     type_sort: 2
   }
   {
