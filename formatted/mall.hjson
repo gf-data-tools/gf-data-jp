@@ -43853,6 +43853,20 @@
     classification_id: 3002
   }
   {
+    id: 32333
+    type: 8
+    item_ids: 41-100,7-1
+    gift: 11001-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(ボーイズ)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin08
+    discount: 1
+    classification_id: 3003
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980

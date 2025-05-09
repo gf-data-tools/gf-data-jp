@@ -9432,6 +9432,79 @@
     class_id: 106
   }
   {
+    id: 11001
+    name: 獄門の魔女
+    fit_gun: 389
+    voice: 4
+    dialog: 地獄の門には、「この門をくぐる者は一切の希望を捨てよ」と銘されているが、そこに私の一言を付け加えよう――「この門から出る者は新たな生を受けよう」と。
+    gift_position: "-66.5,-12.3"
+    order: 134
+    class_id: 107
+    skin_source: 1
+  }
+  {
+    id: 11002
+    name: 純白の祈祷歌
+    fit_gun: 46
+    voice: 4
+    dialog: この世の者は皆、苦難という名の檻に囚われています。救いは遠く及ばぬもの……けれど、あなたのためなら、私は自らのことを生贄に捧げましょう。
+    illustrator_cv: RIRE,中恵光城,
+    order: 134
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11003
+    name: 箱庭の童話
+    fit_gun: 367
+    voice: 4
+    dialog: 神秘なる日からを秘めし魔導書よ、私の代わりに指揮官の部屋を掃除してくれたまえ。契約のもと、MK3A1が命じる――うええ！？どうして急に風が！？呪文がダメだったの！？
+    order: 134
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11004
+    name: 魘夢の万華鏡
+    fit_gun: 307
+    voice: 4
+    dialog: 夢の万華鏡ヘようこそ。ここは安眠の楽園、快楽の天国。青き蝶の導きに従い……あなたは、無限の愉悦に浸り、永遠に迷うだろう。
+    order: 134
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11005
+    name: 豊穣の安眠曲
+    fit_gun: 400
+    voice: 4
+    dialog: このままゆらゆらと、アロマの香りを田んぼの中に撒いて……へへ、やっぱり、豊作には睡眠は欠かせませんね。
+    order: 134
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11006
+    name: 虚空のゴースト
+    fit_gun: 226
+    voice: 4
+    dialog: データの海の中で、何かの触手がどんどん蔓延っていく……もし誰かが犠牲になるぐらいなら、あたしがこの虚空の中のゴーストになろう。
+    illustrator_cv: 小星,市ノ瀬加那,
+    order: 134
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11007
+    name: 濡れ鴉の影
+    fit_gun: 6
+    voice: 4
+    dialog: キラキラ輝く星空には、いつも憧れますね。だけど、私にはもうお願いをする必要はありません……一番大事な願いは、すでに隣にいますので。
+    order: 134
+    class_id: 107
+    skin_source: 2
+  }
+  {
     id: 11201
     name: 椒花の彩典
     fit_gun: 366
@@ -9738,7 +9811,7 @@
     voice: 4
     dialog: 大した怪我じゃないから、治療同意書はいらないわね。……なに？軍医が銃を持つのは普通のことよ、そんなに驚くようなことじゃないでしょ。これで麻酔を打つわけでもないし。
     gift_position: "-12.8,63.7"
-    order: 142
+    order: 133
     class_id: 53
     skin_source: 1
   }
@@ -9749,7 +9822,7 @@
     voice: 4
     dialog: 戦いとは、殺すか殺されるか。そして戦っていくうちに、物騒なあだ名の一つや二つはつくものだ。そのうち慣れればいいさ。
     gift_position: "-67,71"
-    order: 142
+    order: 133
     class_id: 53
     skin_source: 1
   }
@@ -9761,7 +9834,7 @@
     dialog: 支援は任せてよ、相手を惑わすのが一番得意なんだから――もしかしたら、大軍を見てしまうかもしれないよ？そういう幻覚を見せるんだもんね。
     gift_position: "-130.8,-38.7"
     illustrator_cv: RIRE,諸星すみれ,
-    order: 142
+    order: 133
     class_id: 53
     skin_source: 1
   }
@@ -9773,7 +9846,7 @@
     dialog: ハッハッハッ！そう！まさしく！このMDRだ！どんな任務でも私に任せろ――え？P90と組んでる理由？フフッ、DDOS攻撃って聞いたことある？そう、私とP90なら、インターネットと現実の両方から、その攻撃を仕掛けることができるのだよ……！見たいんでしょう？相手がデータに呑み込まれていく姿を？
     gift_position: "-127.5,-85.9"
     illustrator_cv: 小枪,愛美,
-    order: 142
+    order: 133
     class_id: 53
     skin_source: 1
   }

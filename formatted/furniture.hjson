@@ -45566,6 +45566,111 @@
     rotate: "3"
   }
   {
+    id: 311001
+    name: 獄門の魔女
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ボーイズのポスター。
+    code: poster_Mahoushaojiu2024_BoysAntiTank
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311002
+    name: 純白の祈祷歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kar98kのポスター。
+    code: poster_Mahoushaojiu2024_98K
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311003
+    name: 箱庭の童話
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1のポスター。
+    code: poster_Mahoushaojiu2024_MK3A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311004
+    name: 魘夢の万華鏡
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZB-26のポスター。
+    code: poster_Mahoushaojiu2024_ZB26
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311005
+    name: 豊穣の安眠曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: コルトM1851Nのポスター。
+    code: poster_Mahoushaojiu2024_M1851N
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311006
+    name: 虚空のゴースト
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Mk 12のポスター。
+    code: poster_Mahoushaojiu2024_Mk12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311007
+    name: 濡れ鴉の影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: トカレフのポスター
+    code: poster_Mahoushaojiu2024_TT33
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 311201
     name: 椒花の彩典
     classes: 300
