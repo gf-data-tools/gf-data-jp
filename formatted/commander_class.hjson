@@ -576,4 +576,17 @@
     path: CLASS59
     source: 2
   }
+  {
+    id: 63
+    name: 未来の先
+    description: このまま街の中を歩くのかい？もちろん、問題はないが、ファッションのトレンドとか、テクノロジーの進歩とか、それから天気のことも気にしないといけないし……護身用の武器も必要だね。
+    group_id: "104"
+    code: commander_6331_icon
+    bonus_plastic: "130025"
+    skill_id: 115
+    path: CLASS63
+    is_class: 1
+    des_year: "2025"
+    source: 2
+  }
 ]

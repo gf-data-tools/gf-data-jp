@@ -15750,6 +15750,24 @@
     rank: 1
   }
   {
+    id: 2652
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M14
+    item_name: 勝利への増援
+    introduction: 勝利への増援
+    rank: 1
+  }
+  {
+    id: 2653
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M14
+    item_name: IDカード背景：盤面の破壊者
+    introduction: IDカード背景：盤面の破壊者
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17359,6 +17377,15 @@
     code: gift_bundle_BattlePass_06TypeSMG
     item_name: 沸き立つ歳月
     introduction: 指揮官！やっと一緒に麻辣トルネード火鍋を食べてくれる友達を見つけたよ！あんまり喋らないけど、いい食べっぷりをするんだよね！会計？そんなの食べてからでいいよ～
+    rank: 1
+  }
+  {
+    id: 30027
+    type: 1
+    arg: "30027"
+    code: gift_bundle_BattlePass_M14
+    item_name: 勝利への増援
+    introduction: 突入作戦、大成功です！へへっ、M14、ちゃんとお役に立てたでしょう？え？さ、騒がしかったの？
     rank: 1
   }
   {
@@ -18986,6 +19013,34 @@
     rank: 1
   }
   {
+    id: 100219
+    type: 4
+    arg: "100219"
+    code: Nova_medal
+    item_name: 新星勲章・確認! Reloading...
+    introduction: 新星勲章・確認! Reloading...
+    rank: 1
+  }
+  {
+    id: 100220
+    type: 4
+    arg: "100220"
+    code: Platinum_medal
+    item_name: 白金勲章・確認! Reloading...
+    introduction: 白金勲章・確認! Reloading...
+    rank: 1
+  }
+  {
+    id: 100221
+    type: 9
+    arg: "100221"
+    code: Loading_Coin
+    item_name: ロードコイン
+    introduction: ロードコイン
+    rank: 1
+    daily_limit: 120;360
+  }
+  {
     id: 100222
     type: 4
     arg: "100222"
@@ -20206,6 +20261,15 @@
     code: Y_Z_zhihuiguan_baozhu
     item_name: 結彩雷動
     introduction: 爆竹で新年を祝うのは確かに一つの醍醐味ではあるが、基地の中で爆竹をつけたやつには、センサーで起動した自動防衛機銃の相手をしてもらうより他はない。
+    rank: 1
+  }
+  {
+    id: 130025
+    type: 12
+    arg: "130025"
+    code: Y_Z_zhihuiguan_huilu
+    item_name: 集積回路
+    introduction: 君のクラッキング技術も、義体の駆動も、作戦モジュールも……すべてがこのチップに集約されている。それが果たしていつまでもつのか？答えは、君の義体技師しか知らないだろう。
     rank: 1
   }
   {
@@ -21898,6 +21962,26 @@
     detail_introduction: item-30140052
   }
   {
+    id: 140053
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140053
+    introduction: item-20140053
+    rank: 1
+    detail_introduction: item-30140053
+  }
+  {
+    id: 140054
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140054
+    introduction: item-20140054
+    rank: 1
+    detail_introduction: item-30140054
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -22353,7 +22437,15 @@
     item_name: アイコンフレーム：幸せは舌の先から
     introduction: アイコンフレーム：幸せは舌の先から
     rank: 1
-    detail_introduction: item-30200051
+  }
+  {
+    id: 200052
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M14
+    item_name: アイコンフレーム：空挺先兵
+    introduction: アイコンフレーム：空挺先兵
+    rank: 1
   }
   {
     id: 900030
@@ -24593,6 +24685,54 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500189
+    type_sort: 1
+  }
+  {
+    id: 1500193
+    type: 15
+    arg: "1500193"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-硝煙の光で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500193
+    type_sort: 1
+  }
+  {
+    id: 1500194
+    type: 15
+    arg: "1500194"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-硝煙の光で獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500194
+    type_sort: 1
+  }
+  {
+    id: 1500195
+    type: 15
+    arg: "1500195"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-硝煙の光で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500195
+    type_sort: 1
+  }
+  {
+    id: 1500196
+    type: 15
+    arg: "1500196"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-硝煙の光で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500196
     type_sort: 1
   }
   {

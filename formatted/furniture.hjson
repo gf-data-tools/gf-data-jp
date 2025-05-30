@@ -46136,6 +46136,21 @@
     rotate: "3"
   }
   {
+    id: 330027
+    name: 勝利への増援
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M14のポスター。
+    code: poster_BattlePass_M14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 350001
     name: 星々へ
     classes: 300

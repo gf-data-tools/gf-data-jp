@@ -12032,6 +12032,41 @@
     obtain_ids: "3096"
   }
   {
+    id: 376
+    name: 戦術防衛シールド
+    description:
+      '''
+      回避+<dodge>
+      防御+<armor>スキル強化$リベレーター専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "1,2"
+    armor: "4,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: TDoll_SP_Liberator
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "283"
+    equip_introduction: リベレーター用に設計された高性能防弾シールド。非常にバランスよく扱うことができる。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:400
+    passive_skill: "759316"
+    max_level: 10
+    auto_select_id: 20074
+    is_show: 1
+    obtain_ids: "3102"
+    description_skill: 759316
+  }
+  {
     id: 377
     name: 高速演算チップ
     description:

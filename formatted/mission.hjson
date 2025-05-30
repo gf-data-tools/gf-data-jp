@@ -50267,13 +50267,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "295"
+    limit_gun_pool: "227"
     limit_team: "2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "933"
+    draw_event_s_id: "1152"
     expect_hostage_num: "1,1"
     drop_mission_key: "0,0,1146100:1"
     mission_group_id: 29
@@ -50303,13 +50303,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "359"
+    limit_gun_pool: "311"
     limit_team: "2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|3312,3199|-14,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "934"
+    draw_event_s_id: "1153"
     drop_mission_key: "0,0,1146200:1"
     mission_group_id: 29
     open_mission_keys: 1148900:1
@@ -50338,13 +50338,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "360"
+    limit_gun_pool: "226"
     limit_team: "2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|3691,3241|207,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "935"
+    draw_event_s_id: "1154"
     drop_mission_key: "0,0,1146300:1"
     mission_group_id: 29
     open_mission_keys: 1149000:1
@@ -50376,13 +50376,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "333"
+    limit_gun_pool: "384"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|5000,3500|0,1200"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "936"
+    draw_event_s_id: "1155"
     drop_mission_key: "0,0,1146400:1"
     mission_group_id: 29
     open_mission_keys: 1149100:1
@@ -50413,13 +50413,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "295"
+    limit_gun_pool: "227"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|6000,5000|1000,800"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "937"
+    draw_event_s_id: "1156"
     expect_defend_line_turn: 2
     drop_mission_key: "0,0,1146500:1"
     mission_group_id: 29
@@ -50451,13 +50451,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "359"
+    limit_gun_pool: "311"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|7000,5500|-500,500"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "938"
+    draw_event_s_id: "1157"
     expect_hostage_num: "2,2"
     drop_mission_key: "0,0,1146600:1"
     mission_group_id: 29
@@ -50487,13 +50487,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "295"
+    limit_gun_pool: "227"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "6000,6000|4922,3393|74,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "939"
+    draw_event_s_id: "1158"
     expect_hostage_num: "3,3"
     drop_mission_key: "0,0,1146100:1"
     mission_group_id: 29
@@ -50523,13 +50523,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "359"
+    limit_gun_pool: "311"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "6000,6000|4514,3962|338,-170"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "940"
+    draw_event_s_id: "1159"
     drop_mission_key: "0,0,1146200:1"
     mission_group_id: 29
     open_mission_keys: 1148900:1
@@ -50558,13 +50558,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "360"
+    limit_gun_pool: "226"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "6000,6000|4584,3421|-275,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "939"
+    draw_event_s_id: "1158"
     drop_mission_key: "0,0,1146300:1"
     mission_group_id: 29
     open_mission_keys: 1149000:1
@@ -50596,13 +50596,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "333"
+    limit_gun_pool: "384"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|6000,5500|0,1000"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "941"
+    draw_event_s_id: "1160"
     drop_mission_key: "0,0,1146400:1"
     mission_group_id: 29
     open_mission_keys: 1149100:1
@@ -50633,13 +50633,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "295"
+    limit_gun_pool: "227"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|7000,6000|0,800"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "942"
+    draw_event_s_id: "1161"
     drop_mission_key: "0,0,1146500:1"
     mission_group_id: 29
     open_mission_keys: 1149300:1
@@ -50670,13 +50670,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "359"
+    limit_gun_pool: "311"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|7500,6000|-800,1200"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "941"
+    draw_event_s_id: "1160"
     expect_defend_line_turn: 2
     expect_hostage_num: "2,2"
     drop_mission_key: "0,0,1146600:1"
@@ -50707,13 +50707,13 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "333"
+    limit_gun_pool: "384"
     limit_team: "3"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5020,4350|539,462"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "943"
+    draw_event_s_id: "1162"
     drop_mission_key: "0,0,1147300:1"
     mission_group_id: 29
     open_mission_keys: 1149500:1
@@ -50745,13 +50745,13 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 12
-    limit_gun_pool: "333"
+    limit_gun_pool: "384"
     limit_team: "3,*3"
     map_res_name: OPS5_Y
     map_information: "10000,10000|8500,7600|-300,800"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "941"
+    draw_event_s_id: "1160"
     drop_mission_key: "0,0,1147300:1"
     mission_group_id: 29
     open_mission_keys: 1149500:1
@@ -50781,12 +50781,12 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "295,360"
+    limit_gun_pool: "227,226"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "937"
+    draw_event_s_id: "1156"
     mission_group_id: 29
     open_mission_keys: 1146300:1
     round_config: 1:1,2:29,3:3
@@ -50814,12 +50814,12 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "359,333"
+    limit_gun_pool: "311,384"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "938"
+    draw_event_s_id: "1157"
     mission_group_id: 29
     open_mission_keys: 1146600:1
     round_config: 1:1,2:29,3:3
@@ -50847,12 +50847,12 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "295,360"
+    limit_gun_pool: "227,226"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "942"
+    draw_event_s_id: "1161"
     mission_group_id: 29
     open_mission_keys: 1146300:1
     round_config: 1:1,2:29,3:3
@@ -50880,12 +50880,12 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "359,333"
+    limit_gun_pool: "311,384"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "941"
+    draw_event_s_id: "1160"
     mission_group_id: 29
     open_mission_keys: 1146600:1
     round_config: 1:1,2:29,3:3

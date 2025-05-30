@@ -8137,6 +8137,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_4years
+    event_id: 3730
   }
   {
     id: 653
@@ -8151,6 +8152,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_4years
+    event_id: 3731
   }
   {
     id: 654
@@ -8339,6 +8341,7 @@
     rarity: 5
     filter_type: "4"
     frame_id: 200005
+    event_id: 3732
   }
   {
     id: 671
@@ -10096,6 +10099,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3727
   }
   {
     id: 814
@@ -10108,6 +10112,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3728
   }
   {
     id: 815
@@ -10120,6 +10125,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3729
   }
   {
     id: 816
@@ -19123,6 +19129,26 @@
     rarity: 5
   }
   {
+    id: 1652
+    item_id: 2652
+    sub_type: 1
+    gem: 80
+    item_ids: 508-2000
+    onsale: 1
+    code: profilePic_BattlePass_M14
+    order: 1
+    rarity: 5
+    skin: 30027
+  }
+  {
+    id: 1653
+    item_id: 2653
+    sub_type: 2
+    code: card_BattlePass_M14
+    order: 1
+    rarity: 5
+  }
+  {
     id: 2501
     item_id: 3501
     sub_type: 1
@@ -19620,6 +19646,15 @@
     item_id: 200051
     sub_type: 4
     code: profileFrame_BattlePass_06TypeSMG
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100052
+    item_id: 200052
+    sub_type: 4
+    code: profileFrame_BattlePass_M14
     order: 1
     rarity: 5
     filter_type: "5"
