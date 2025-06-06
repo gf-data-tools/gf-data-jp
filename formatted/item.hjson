@@ -15732,6 +15732,78 @@
     rank: 1
   }
   {
+    id: 2638
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_MartiniHenry
+    item_name: 赤提灯
+    introduction: 赤提灯
+    rank: 1
+  }
+  {
+    id: 2639
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_M950A
+    item_name: 蒼竹吟
+    introduction: 蒼竹吟
+    rank: 1
+  }
+  {
+    id: 2640
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_Lusa
+    item_name: 黛瓢箪
+    introduction: 黛瓢箪
+    rank: 1
+  }
+  {
+    id: 2641
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_79type
+    item_name: 離弦奏
+    introduction: 離弦奏
+    rank: 1
+  }
+  {
+    id: 2642
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_CBJMS
+    item_name: 孟章彩
+    introduction: 孟章彩
+    rank: 1
+  }
+  {
+    id: 2643
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_Ak5
+    item_name: 丹墨抄
+    introduction: 丹墨抄
+    rank: 1
+  }
+  {
+    id: 2644
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_A91
+    item_name: 芳醁醺
+    introduction: 芳醁醺
+    rank: 1
+  }
+  {
+    id: 2645
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_M500
+    item_name: 福箱至
+    introduction: 福箱至
+    rank: 1
+  }
+  {
     id: 2649
     type: 5
     arg: "1"
@@ -17338,6 +17410,15 @@
     id: 10719
     type: 18
     arg: "10719"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10720
+    type: 18
+    arg: "10720"
     code: daily_points
     item_name: 灰域探査ポイント
     introduction: 灰域探査ポイント
@@ -25159,6 +25240,39 @@
     type_sort: 1
   }
   {
+    id: 1700037
+    type: 15
+    arg: "1700037"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700038
+    type: 15
+    arg: "1700038"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700039
+    type: 15
+    arg: "1700039"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1800001
     type: 15
     arg: "1800001"
@@ -25705,6 +25819,39 @@
     code: Bumdle_invocation_3
     item_name: GW限定人形支援要請書
     introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500032
+    type: 15
+    arg: "9500032"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 秘蔵スキン抽選券・春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500033
+    type: 15
+    arg: "9500033"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: プレミアムスキン抽選券・春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500034
+    type: 15
+    arg: "9500034"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 至高のスキン抽選券・春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
     type_sort: 1

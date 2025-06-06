@@ -44225,6 +44225,34 @@
     classification_id: 1008
   }
   {
+    id: 32344
+    type: 8
+    item_ids: 41-100,7-1
+    gift: 11302-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(M950A)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 32345
+    type: 8
+    item_ids: 41-100,7-1
+    gift: 11303-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(Lusa)
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin05
+    discount: 1
+    classification_id: 3003
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980

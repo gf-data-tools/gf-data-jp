@@ -325,4 +325,22 @@
     group_skill: 2:1002403
     fit_gun: "20005"
   }
+  {
+    id: 37
+    name: キツネミミ隊員
+    des: G41にピッタリな装備一式。ご主人様のご命令であらば、必ず達成してみせます！
+    code: EgroupG41
+    equip_unit: "0,419,127"
+    group_skill: 2:1002903
+    fit_gun: "62"
+  }
+  {
+    id: 38
+    name: いくよ、ダウル！
+    des: M500にピッタリな装備一式。頼りになる相棒さえいれば、怖いものなし！
+    code: EgroupM500
+    equip_unit: "420,0,177"
+    group_skill: 2:1003103
+    fit_gun: "20154"
+  }
 ]
