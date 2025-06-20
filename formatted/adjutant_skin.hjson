@@ -38,4 +38,18 @@
     code: NPC-Sana/7
     obtain_txt: サナ獲得後開放
   }
+  {
+    id: 1015
+    type: 2:1027
+    name: 激戦
+    code: NPC-MrsGray/7
+    obtain_txt: グレイ獲得後開放される
+  }
+  {
+    id: 1016
+    type: 2:1027
+    name: 祈り
+    code: NPC-MrsGray/8
+    obtain_txt: グレイ獲得後開放される
+  }
 ]

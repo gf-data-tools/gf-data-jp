@@ -524,4 +524,28 @@
     decorate_code: Logo_Events
     if_elite_medal: "1"
   }
+  {
+    id: "47"
+    name: 瀝海戦区開拓者勲章
+    order: "53"
+    evo_step: "1"
+    appearance_id: "266"
+    item_id: "146"
+    medal_obtain: 瀝海戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
+    id: "48"
+    name: 瀝海戦区征服者勲章
+    order: "52"
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "267,268,269,270,271,272,273,274,275,276,277,278"
+    item_id: "147"
+    medal_obtain: 瀝海戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
 ]

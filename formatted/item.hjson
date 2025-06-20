@@ -900,6 +900,24 @@
     rank: 1
   }
   {
+    id: 146
+    type: 3
+    arg: "47"
+    code: Medal_Theater14th_NA
+    item_name: 瀝海戦区開拓者勲章
+    introduction: 瀝海戦区にて、目覚ましいスコアを獲得した指揮官に授与します。「星々の光すら消えた時、貴方だけが、変わらず輝いている」
+    rank: 1
+  }
+  {
+    id: 147
+    type: 3
+    arg: "48"
+    code: Medal_Theater14th_rank_NA
+    item_name: 瀝海戦区征服者勲章
+    introduction: 瀝海戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。「前線での成果こそあなたの輝き、戦術と戦略によって紡がれた、あなたの伝説である」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -22218,8 +22236,8 @@
     type: 5
     arg: "1"
     code: profileFrame_2023NewYear_JP
-    item_name: アイコンフレーム：松とみかんと福
-    introduction: アイコンフレーム：松とみかんと福
+    item_name: アイコンフレーム：新春万福
+    introduction: アイコンフレーム：新春万福
     rank: 1
   }
   {
@@ -22536,6 +22554,7 @@
     item_name: 新星勲章
     introduction: 新星勲章
     rank: 1
+    detail_introduction: item-30900030
   }
   {
     id: 900031
@@ -22545,6 +22564,7 @@
     item_name: 白金勲章
     introduction: 白金勲章
     rank: 1
+    detail_introduction: item-30900031
   }
   {
     id: 900032
