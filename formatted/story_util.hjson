@@ -13208,144 +13208,406 @@
     id: 1367
     mission_id: "11811"
     campaign: -73
+    title: 光のない区域
     start: -73-A-2
   }
   {
     id: 1368
     mission_id: "11812"
     campaign: -73
+    title: 無知を演じて
     start: -73-A-4
   }
   {
     id: 1369
     mission_id: "11813"
     campaign: -73
+    title: 不協和音
     start: -73-A-6
   }
   {
     id: 1370
     mission_id: "11814"
     campaign: -73
+    title: どこからの風
     start: -73-A-8
   }
   {
     id: 1371
     mission_id: "11815"
     campaign: -73
+    title: 協奏
     start: -73-A-10
   }
   {
     id: 1372
     mission_id: "11816"
     campaign: -73
+    title: 四つ目の石
     start: -73-A-12
   }
   {
     id: 1373
     mission_id: "11817"
     campaign: -73
+    title: おなじみのナイフ
     start: -73-A-14
   }
   {
     id: 1374
     mission_id: "11818"
     campaign: -73
+    title: 月光の中のラクダの鐘
     start: -73-A-16
   }
   {
     id: 1375
     mission_id: "11819"
     campaign: -73
+    title: 二回目の変奏
     start: -73-A-18
   }
   {
     id: 1376
     mission_id: "11820"
     campaign: -73
+    title: 最後の道
     start: -73-A-20
   }
   {
     id: 1377
     mission_id: "11821"
     campaign: -73
+    title: 蜘蛛の糸
     start: -73-A-22
   }
   {
     id: 1378
     mission_id: "11822"
     campaign: -73
+    title: 羽ばたく蝶の翼
     start: -73-A-24
   }
   {
     id: 1379
     mission_id: "11823"
     campaign: -73
+    title: 予想外の容疑者
     start: -73-E-2
   }
   {
     id: 1380
     mission_id: "11824"
     campaign: -73
+    title: 色褪せない白衣
     start: -73-E-4
   }
   {
     id: 1381
     mission_id: "11825"
     campaign: -73
+    title: きらめく灰塵
     start: -73-E-6
   }
   {
     id: 1382
     mission_id: "11826"
     campaign: -73
+    title: 金喰いネズミ
     start: -73-D-2
   }
   {
     id: 1383
     mission_id: "11827"
     campaign: -73
+    title: 執行官
     start: -73-D-4
   }
   {
     id: 1384
     mission_id: "11828"
     campaign: -73
+    title: 捕られるのは
     start: -73-D-6
   }
   {
     id: 1385
     mission_id: "11829"
     campaign: -73
+    title: 秘密処刑
     start: -73-H-2
   }
   {
     id: 1386
     mission_id: "11830"
     campaign: -73
+    title: 逆らうことできず
     start: -73-H-4
   }
   {
     id: 1387
     mission_id: "11831"
     campaign: -73
+    title: 癒えぬ弾痕
     start: -73-H-6
   }
   {
     id: 1388
     mission_id: "11881"
-    description: story_util-10001388
     scripts: -52-e-4
     campaign: -52
-    title: story_util-20001388
+    title: 純真な筆先
     start: -52-e-4
   }
   {
     id: 1389
     mission_id: "11882"
-    description: story_util-10001389
     scripts: -52-e-5
     campaign: -52
-    title: story_util-20001389
+    title: 夢取り網
     start: -52-e-5
+  }
+  {
+    id: 1390
+    mission_id: "11835"
+    description: フランクフルトが、燃えている。
+    scripts: -74-A-0
+    campaign: -74
+    title: 燃える苦海
+    start: -74-A-0
+  }
+  {
+    id: 1391
+    mission_id: "11838"
+    description: 突然の空襲によって、フランクフルトは混乱に陥った。指揮官は市民たちを助けるために奔走する。
+    scripts: -74-A-2
+    campaign: -74
+    title: 風炎の如く
+    start: -74-A-2
+  }
+  {
+    id: 1392
+    mission_id: "11839"
+    description: ラプラスの遺言が忘れられないネーレに、また苦境が訪れる。
+    scripts: -74-A-4
+    campaign: -74
+    title: 静かな皺寄せ
+    start: -74-A-4
+  }
+  {
+    id: 1393
+    mission_id: "11840"
+    description: この時を、グロスは待ち望んでいた。
+    scripts: -74-A-6
+    campaign: -74
+    title: 徒然の道
+    start: -74-A-6
+  }
+  {
+    id: 1394
+    mission_id: "11843"
+    description: 目の前にあるこの培養槽は、彼女が生まれた場所であり、彼女が永遠の眠りにつく場所でもある。
+    scripts: -74-A-8
+    campaign: -74
+    title: 敗れた騎士
+    start: -74-A-8
+  }
+  {
+    id: 1395
+    mission_id: "11844"
+    description: だから私は、彼の代わりに、この世界の行く末を見届けるのです。
+    scripts: -74-A-10
+    campaign: -74
+    title: 止まない雨
+    start: -74-A-10
+  }
+  {
+    id: 1396
+    mission_id: "11847"
+    description: 爆撃は止まない。地下まで届く轟音が、人々の不安を煽る。
+    scripts: -74-A-12
+    campaign: -74
+    title: 君のために、光を照らす
+    start: -74-A-12
+  }
+  {
+    id: 1397
+    mission_id: "11850"
+    description: それでも人は、生きているうちに……やらねばならないことがある。
+    scripts: -74-A-14
+    campaign: -74
+    title: 忘れられた誓い
+    start: -74-A-14
+  }
+  {
+    id: 1398
+    mission_id: "11851"
+    description: どんな災難が起きても、必ず立ち上がる者がいる。
+    scripts: -74-A-16
+    campaign: -74
+    title: 新世界へ
+    start: -74-A-16
+  }
+  {
+    id: 1399
+    mission_id: "11852"
+    description: 一日の疲れを経て、指揮官はまた夢の中であの日に戻った……
+    scripts: -74-A-18
+    campaign: -74
+    title: 長い夜に荒くれを混ぜて
+    start: -74-A-18
+  }
+  {
+    id: 1400
+    mission_id: "11855"
+    description: 誰も一般人の生き死にを気にしていないなら、私がそれを何とかする。それが、私の在り方だ。
+    scripts: -74-A-20
+    campaign: -74
+    title: 時の壁を貫いて
+    start: -74-A-20
+  }
+  {
+    id: 1401
+    mission_id: "11856"
+    description: かつて生存した人々、かつて死とたたかい、死を否定し――そして死んだ人々、彼らの足跡をそのまま、各自たどってゆく。
+    scripts: -74-A-22
+    campaign: -74
+    title: 岸辺の砂と海水
+    start: -74-A-22
+  }
+  {
+    id: 1402
+    mission_id: "11857"
+    description: もし、いつか私が死んでしまったら、墓にこう書いてくれ――ここに、勇気ある者が眠っている、と。
+    scripts: -74-A-24
+    campaign: -74
+    title: 勇気ある者
+    start: -74-A-24
+  }
+  {
+    id: 1403
+    mission_id: "11860"
+    description: ニーズヘッグ協定を起動すれば、I.O.Pの人形はすべて行動を停止され、君の指揮権限も回収される。
+    scripts: -74-A-26
+    campaign: -74
+    title: 根をかじる悪竜
+    start: -74-A-26
+  }
+  {
+    id: 1404
+    mission_id: "11861"
+    description: 全世界がロ連の成立に注目している中、ネーレはある陰謀に気づく……
+    scripts: -74-A-28
+    campaign: -74
+    title: 言葉の外にある冷たい世界
+    start: -74-A-28
+  }
+  {
+    id: 1405
+    mission_id: "11862"
+    description: ヴァルキリー計画を阻止するために、指揮官は残った人形たちと共に、最後の手術が行われる場所に向かった。
+    scripts: -74-A-30
+    campaign: -74
+    title: 貫く赤
+    start: -74-A-30
+  }
+  {
+    id: 1406
+    mission_id: "11865"
+    description: コードネーム「アンジェリア」のエージェントだけが、どんな世界でも、どんなことが起きても、あなたの味方だったのよ。
+    scripts: -74-A-32
+    campaign: -74
+    title: 孤独な魂の祈り
+    start: -74-A-32
+  }
+  {
+    id: 1407
+    mission_id: "11866"
+    description: 真実を告白したネーレは、様々な者に追われる身となった。そして祖父の助けを得て、どうにか危険から脱することができた。
+    scripts: -74-A-34
+    campaign: -74
+    title: 荒れ果てた世界で灯す火の光
+    start: -74-A-34
+  }
+  {
+    id: 1408
+    mission_id: "11867"
+    description: おめでとう、そして私もようやく結末を迎えられる。
+    scripts: -74-A-36
+    campaign: -74
+    title: 最後の一手
+    start: -74-A-36
+  }
+  {
+    id: 1409
+    mission_id: "11868"
+    description: ありがとう……これは私にとっての、唯一の選択だから。
+    scripts: -74-A-38
+    campaign: -74
+    title: 守る歌
+    start: -74-A-38
+  }
+  {
+    id: 1410
+    mission_id: "11837"
+    description: 新しい任務の指示が来た。夜明けがもうすぐ訪れる。
+    scripts: -74-S-1
+    campaign: -74
+    title: 君の一生の物語I
+    start: -74-S-1
+  }
+  {
+    id: 1411
+    mission_id: "11842"
+    description: 将軍閣下はずっと譲歩して来た。もう、これ以上は引き下がれない。
+    scripts: -74-S-2
+    campaign: -74
+    title: 君の一生の物語II
+    start: -74-S-2
+  }
+  {
+    id: 1412
+    mission_id: "11846"
+    description: それが人間の性だ。だから、ロ連の提唱する団結など、実現するはずがない。
+    scripts: -74-S-3
+    campaign: -74
+    title: 君の一生の物語III
+    start: -74-S-3
+  }
+  {
+    id: 1413
+    mission_id: "11849"
+    description: 違う、彼らもこの国を愛している。ただ俺たちと違って、将軍閣下のような方と出会えなかった。
+    scripts: -74-S-4
+    campaign: -74
+    title: 君の一生の物語IV
+    start: -74-S-4
+  }
+  {
+    id: 1414
+    mission_id: "11854"
+    description: これが、祖国を救う最後の機会である。新ソ連と共に生まれ変わるか、新ソ連と共に死ぬかだ。
+    scripts: -74-S-5
+    campaign: -74
+    title: 君の一生の物語V
+    start: -74-S-5
+  }
+  {
+    id: 1415
+    mission_id: "11859"
+    description: 今日は人生で一番長い一日だった。そして俺はこうして、生き恥を晒してしまった。
+    scripts: -74-S-6
+    campaign: -74
+    title: 君の一生の物語VI
+    start: -74-S-6
+  }
+  {
+    id: 1416
+    mission_id: "11864"
+    description: これが我々の祖国、これが我々の大地だ。
+    scripts: -74-S-7
+    campaign: -74
+    title: 君の一生の物語VII
+    start: -74-S-7
   }
 ]

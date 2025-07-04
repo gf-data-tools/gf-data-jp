@@ -4366,6 +4366,7 @@
   }
   {
     id: 2402
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4388,6 +4389,7 @@
   }
   {
     id: 2403
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4410,6 +4412,7 @@
   }
   {
     id: 2404
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4432,6 +4435,7 @@
   }
   {
     id: 2405
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4454,6 +4458,7 @@
   }
   {
     id: 2406
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4477,6 +4482,7 @@
   }
   {
     id: 2407
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4500,6 +4506,7 @@
   }
   {
     id: 2408
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4523,6 +4530,7 @@
   }
   {
     id: 2409
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -4546,6 +4554,7 @@
   }
   {
     id: 2410
+    name: 癒しの聖歌
     code: heal
     description:
       '''
@@ -76776,6 +76785,7 @@
   }
   {
     id: 9741904
+    name: 物資を拾う
     description: 拾った後、破損した要路の修復に使用できます。※1つの部隊に携帯できる物資は1つまでです。
     skill_group_id: 9741904
     level: 1
@@ -76792,6 +76802,7 @@
   }
   {
     id: 9741905
+    name: 物資を置く
     description: 物資または雑貨が置かれていないマスに置くことができます。
     skill_group_id: 9741905
     level: 1
@@ -76823,6 +76834,7 @@
   }
   {
     id: 9741907
+    name: 拾う
     description: 拾った後、瓦礫の爆破や敵の撃破に使用できます。※1つの部隊に携帯できる廃棄されたゴリアテは1つまでです。
     skill_group_id: 9741907
     level: 1
@@ -76853,6 +76865,7 @@
   }
   {
     id: 9741909
+    name: 投げる
     description: 瓦礫に投げて廃棄されたゴリアテを起爆する。
     skill_group_id: 9741909
     level: 1

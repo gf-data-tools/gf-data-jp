@@ -9822,7 +9822,6 @@
   {
     id: 9740101
     name: mission_buff_config-19740101
-    description: mission_buff_config-29740101
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -9833,8 +9832,12 @@
   }
   {
     id: 9740106
-    name: mission_buff_config-19740106
-    description: mission_buff_config-29740106
+    name: 物資所持
+    description:
+      '''
+      すでに物資を所持しているため、これ以上拾うことはできない。
+      物資を収集ポイント、または物資やガラクタが置かれていないマスに置くことができる。
+      '''
     code: GunBox
     type: 1
     duration_type: "1"
@@ -9858,8 +9861,12 @@
   }
   {
     id: 9741904
-    name: mission_buff_config-19741904
-    description: mission_buff_config-29741904
+    name: 物資所持
+    description:
+      '''
+      すでに物資を所持しているため、これ以上拾うことはできない。
+      物資を収集ポイント、または物資やガラクタが置かれていないマスに置くことができる。
+      '''
     code: GunBox
     type: 1
     duration_type: "1"
@@ -9871,8 +9878,8 @@
   }
   {
     id: 9741907
-    name: mission_buff_config-19741907
-    description: mission_buff_config-29741907
+    name: ゴリアテ携帯中
+    description: すでにゴリアテを所持しているため、これ以上拾うことはできない。
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -9883,8 +9890,7 @@
   }
   {
     id: 9741911
-    name: mission_buff_config-19741911
-    description: mission_buff_config-29741911
+    name: 【标记】梯队标记
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -9895,8 +9901,11 @@
   }
   {
     id: 9742901
-    name: mission_buff_config-19742901
-    description: mission_buff_config-29742901
+    description:
+      '''
+      味方ユニットにハッキング中。
+      ※当該の敵ユニットを一定時間内に撃破できなかった場合、味方の一部支援ユニットがオフライン状態となり戦闘に参加できなくなる
+      '''
     code: medusa
     type: 1
     duration_type: "1"
@@ -9907,8 +9916,7 @@
   }
   {
     id: 9742902
-    name: mission_buff_config-19742902
-    description: mission_buff_config-29742902
+    description: ブラメドを迎撃するために臨時で結成された小隊。対ブラメド戦では強化効果を得ることができる。
     code: Rouge_590001
     type: 1
     duration_type: "1"
@@ -9920,8 +9928,11 @@
   }
   {
     id: 9742903
-    name: mission_buff_config-19742903
-    description: mission_buff_config-29742903
+    description:
+      '''
+      ハッキング抵抗中。
+      ※効果持続期間中、ハッキングの影響を受けなくなる。効果終了後、ハッキングによってオフライン状態になる。
+      '''
     code: Sei
     type: 1
     duration_type: "1"
@@ -9935,8 +9946,11 @@
   }
   {
     id: 9742904
-    name: mission_buff_config-19742904
-    description: mission_buff_config-29742904
+    description:
+      '''
+      ハッキング抵抗中。
+      ※効果持続期間中、ハッキングの影響を受けなくなる。効果終了後、ハッキングによってオフライン状態になる。
+      '''
     code: Sei
     type: 1
     duration_type: "1"
@@ -9950,8 +9964,11 @@
   }
   {
     id: 9742905
-    name: mission_buff_config-19742905
-    description: mission_buff_config-29742905
+    description:
+      '''
+      ハッキング抵抗中。
+      ※効果持続期間中、ハッキングの影響を受けなくなる。効果終了後、ハッキングによってオフライン状態になる。
+      '''
     code: Sei
     type: 1
     duration_type: "1"
@@ -9965,8 +9982,11 @@
   }
   {
     id: 9742906
-    name: mission_buff_config-19742906
-    description: mission_buff_config-29742906
+    description:
+      '''
+      ハッキングを受けオフライン状態となっているため、指示を受け付けない。
+      ※部隊間の位置交換のみ可能。
+      '''
     code: seawave
     type: 2
     duration_type: "1"
@@ -9979,8 +9999,7 @@
   }
   {
     id: 9742907
-    name: mission_buff_config-19742907
-    description: mission_buff_config-29742907
+    description: 協定の影響を受け、システムはスリープモードに移行する。
     code: summonerduration
     type: 1
     duration_type: "1"
@@ -9991,8 +10010,7 @@
   }
   {
     id: 9742908
-    name: mission_buff_config-19742908
-    description: mission_buff_config-29742908
+    description: 協定の影響を受け、システムはスリープモードに移行する。
     code: summonerduration
     type: 1
     duration_type: "1"
@@ -10003,8 +10021,7 @@
   }
   {
     id: 9742909
-    name: mission_buff_config-19742909
-    description: mission_buff_config-29742909
+    description: 協定の影響を受け、システムはスリープモードに移行する。
     code: summonerduration
     type: 1
     duration_type: "1"
@@ -10015,8 +10032,7 @@
   }
   {
     id: 9742910
-    name: mission_buff_config-19742910
-    description: mission_buff_config-29742910
+    name: 【标记】顶掉免费AP BUFF①
     type: 2
     duration_type: "1"
     duration_time: "1"
@@ -10026,8 +10042,7 @@
   }
   {
     id: 9742911
-    name: mission_buff_config-19742911
-    description: mission_buff_config-29742911
+    name: 【标记】顶掉免费AP BUFF②
     type: 2
     duration_type: "1"
     duration_time: "1"

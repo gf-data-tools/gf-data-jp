@@ -900,6 +900,24 @@
     rank: 1
   }
   {
+    id: 144
+    type: 3
+    arg: "45"
+    code: Medal_202412Activity
+    item_name: 灰燼の火種勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「巻積核」にて称えられる功績を残したことを表彰する。「君は死の国へ赴き、灰燼の中で火を探し、世界の果てで始まりを探す」
+    rank: 1
+  }
+  {
+    id: 145
+    type: 3
+    arg: "46"
+    code: Medal_202412Activity_rank
+    item_name: 火中の金勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「巻積核」のランキングモードにて全力を尽くしたことを表彰する。「あなたは、どの戦いにおいても全力を尽くし、そんな状況でも、希望を諦めることがなかった」
+    rank: 1
+  }
+  {
     id: 146
     type: 3
     arg: "47"
@@ -15678,6 +15696,123 @@
     rank: 1
   }
   {
+    id: 2610
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_01
+    item_name: アイコン：振り返る時
+    introduction: アイコン：振り返る時
+    rank: 1
+  }
+  {
+    id: 2611
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_02
+    item_name: アイコン：明るい場所に
+    introduction: アイコン：明るい場所に
+    rank: 1
+  }
+  {
+    id: 2612
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_03
+    item_name: アイコン：沈黙の祈り
+    introduction: アイコン：沈黙の祈り
+    rank: 1
+  }
+  {
+    id: 2613
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_04
+    item_name: アイコン：隣にいたい
+    introduction: アイコン：隣にいたい
+    rank: 1
+  }
+  {
+    id: 2614
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_05
+    item_name: アイコン：416！助けて！
+    introduction: アイコン：416！助けて！
+    rank: 1
+  }
+  {
+    id: 2615
+    type: 5
+    arg: "1"
+    code: card_202412Activity_01
+    item_name: IDカード背景：生死を共に
+    introduction: IDカード背景：生死を共に
+    rank: 1
+  }
+  {
+    id: 2616
+    type: 5
+    arg: "1"
+    code: card_202412Activity_02
+    item_name: IDカード背景：最後のわがまま
+    introduction: IDカード背景：最後のわがまま
+    rank: 1
+  }
+  {
+    id: 2617
+    type: 5
+    arg: "1"
+    code: card_202412Activity_03
+    item_name: IDカード背景：別れの時に思い出して
+    introduction: IDカード背景：別れの時に思い出して
+    rank: 1
+  }
+  {
+    id: 2618
+    type: 5
+    arg: "1"
+    code: card_202412Activity_04
+    item_name: IDカード背景：終戦の曲
+    introduction: IDカード背景：終戦の曲
+    rank: 1
+  }
+  {
+    id: 2619
+    type: 5
+    arg: "1"
+    code: cg_202412Activity_01
+    item_name: 基地背景：古城広場の雪
+    introduction: 基地背景：古城広場の雪
+    rank: 1
+  }
+  {
+    id: 2620
+    type: 5
+    arg: "1"
+    code: cg_202412Activity_02
+    item_name: 基地背景：混沌の地下
+    introduction: 基地背景：混沌の地下
+    rank: 1
+  }
+  {
+    id: 2621
+    type: 5
+    arg: "1"
+    code: cg_202412Activity_03
+    item_name: 基地背景：旧市庁舎跡前の宣誓
+    introduction: 基地背景：旧市庁舎跡前の宣誓
+    rank: 1
+  }
+  {
+    id: 2622
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_coremask
+    item_name: 真核の仮面アイコン・巻積核
+    introduction: 真核の仮面アイコン・巻積核
+    rank: 1
+  }
+  {
     id: 2624
     type: 5
     arg: "1"
@@ -15858,6 +15993,78 @@
     rank: 1
   }
   {
+    id: 2654
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteValentina2025_DSR50
+    item_name: 秘密の誓い
+    introduction: 秘密の誓い
+    rank: 1
+  }
+  {
+    id: 2655
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteValentina2025_G41
+    item_name: 真摯なる花言葉
+    introduction: 真摯なる花言葉
+    rank: 1
+  }
+  {
+    id: 2656
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteValentina2025_MG5
+    item_name: 雪綻ぶ蕾
+    introduction: 雪綻ぶ蕾
+    rank: 1
+  }
+  {
+    id: 2657
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteValentina2025_9A91
+    item_name: 夢中の視線
+    introduction: 夢中の視線
+    rank: 1
+  }
+  {
+    id: 2658
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteValentina2025_88type
+    item_name: 澄みきった羽の花
+    introduction: 澄みきった羽の花
+    rank: 1
+  }
+  {
+    id: 2659
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteValentina2025_M1895
+    item_name: 永久の約束
+    introduction: 永久の約束
+    rank: 1
+  }
+  {
+    id: 2663
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Beowulf
+    item_name: 海浜のハンター
+    introduction: 海浜のハンター
+    rank: 1
+  }
+  {
+    id: 2664
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Beowulf
+    item_name: IDカード背景：波に乗る
+    introduction: IDカード背景：波に乗る
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -15882,6 +16089,15 @@
     code: profilePic_rank5_CR21Mod
     item_name: CR-21メンタルアップグレードアイコン
     introduction: CR-21メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 3504
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_MP41Mod
+    item_name: MP41メンタルアップグレードアイコン
+    introduction: MP41メンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -17485,6 +17701,14 @@
     code: gift_bundle_BattlePass_M14
     item_name: 勝利への増援
     introduction: 突入作戦、大成功です！へへっ、M14、ちゃんとお役に立てたでしょう？え？さ、騒がしかったの？
+    rank: 1
+  }
+  {
+    id: 30028
+    type: 1
+    arg: "30028"
+    code: gift_bundle_BattlePass_Beowulf
+    item_name: 海浜のハンター
     rank: 1
   }
   {
@@ -19342,6 +19566,52 @@
     introduction: Dark Zoneで流通している貨幣。表世界と裏世界の両方で使える。
     rank: 1
     daily_limit: 60;180
+  }
+  {
+    id: 100248
+    type: 4
+    arg: "100248"
+    code: Nova_medal_black
+    item_name: 新星勲章・巻積核
+    introduction: 新星勲章・巻積核
+    rank: 1
+  }
+  {
+    id: 100249
+    type: 4
+    arg: "100249"
+    code: Platinum_medal_black
+    item_name: 白金勲章・巻積核
+    introduction: 白金勲章・巻積核
+    rank: 1
+  }
+  {
+    id: 100250
+    type: 9
+    arg: "100250"
+    code: Coin_202412ConvolutionalKernel
+    item_name: 晩春の香り
+    introduction: あの春の終わりに、一輪の百合の花が忘れられていた。誰かが拾ってくれることを待ち続けながら……
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100251
+    type: 4
+    arg: "100251"
+    code: coremask2_202412ConvolutionalKernel
+    item_name: 蝕心の仮面・巻積核
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100252
+    type: 4
+    arg: "100252"
+    code: coremask_202412ConvolutionalKernel
+    item_name: 真核の仮面・巻積核
+    introduction: 真核の仮面・巻積核
+    rank: 1
   }
   {
     id: 100253
@@ -22081,6 +22351,26 @@
     detail_introduction: item-30140054
   }
   {
+    id: 140055
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140055
+    introduction: item-20140055
+    rank: 1
+    detail_introduction: item-30140055
+  }
+  {
+    id: 140056
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140056
+    introduction: item-20140056
+    rank: 1
+    detail_introduction: item-30140056
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -22544,6 +22834,15 @@
     code: profileFrame_BattlePass_M14
     item_name: アイコンフレーム：空挺先兵
     introduction: アイコンフレーム：空挺先兵
+    rank: 1
+  }
+  {
+    id: 200053
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Beowulf
+    item_name: アイコンフレーム：木陰の潮騒
+    introduction: アイコンフレーム：木陰の潮騒
     rank: 1
   }
   {
@@ -24833,7 +25132,50 @@
     introduction: 前線協定-硝煙の光で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
-    detail_introduction: item-31500196
+    type_sort: 1
+  }
+  {
+    id: 1500206
+    type: 15
+    arg: "1500206"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-砂浜の日光浴で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500207
+    type: 15
+    arg: "1500207"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 前線協定-砂浜の日光浴で獲得。使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500208
+    type: 15
+    arg: "1500208"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-砂浜の日光浴で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500209
+    type: 15
+    arg: "1500209"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-砂浜の日光浴で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
     type_sort: 1
   }
   {
@@ -25872,6 +26214,54 @@
     code: Bumdle_SpringFestivalCoupons3
     item_name: 至高のスキン抽選券・春節
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500035
+    type: 15
+    arg: "9500035"
+    code: Bumdle_invocation_3
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500036
+    type: 15
+    arg: "9500036"
+    code: Bumdle_invocation_2
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500037
+    type: 15
+    arg: "9500037"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500038
+    type: 15
+    arg: "9500038"
+    code: Bumdle_equipment
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
     type_sort: 1

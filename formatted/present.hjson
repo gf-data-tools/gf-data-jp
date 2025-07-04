@@ -1415,6 +1415,38 @@
     present_info: present-11500196
   }
   {
+    item_id: 1500206
+    type: 1
+    prize_id: 140001
+    due_time: 2025/08/17 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500206
+  }
+  {
+    item_id: 1500207
+    type: 1
+    prize_id: 140002
+    due_time: 2025/08/17 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500207
+  }
+  {
+    item_id: 1500208
+    type: 2
+    drop_package_id: 2563
+    due_time: 2025/08/17 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500208
+  }
+  {
+    item_id: 1500209
+    type: 2
+    drop_package_id: 945
+    due_time: 2025/08/17 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500209
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -2347,5 +2379,41 @@
       対象スキン：95式-グレース、Gd DSR-50-春牡丹、OTs-14-紫雨心、DP-12-花月夜提灯、PA-15-蠱惑な千鳥草、SP9-寒蘭傲、エルマ-暗香盈
       ※スキン抽選券の有効期限は「2025年8月6日(水)23:59」までです。十分にご注意ください。
       '''
+  }
+  {
+    item_id: 9500035
+    type: 1
+    poster: PackageImage_rank4
+    prize_id: 331353
+    due_time: 2025/12/04  23:59:59
+    due_prize_id: 1993
+    present_info: present-19500035
+  }
+  {
+    item_id: 9500036
+    type: 1
+    poster: PackageImage_rank5
+    prize_id: 331354
+    due_time: 2025/12/04  23:59:59
+    due_prize_id: 1994
+    present_info: present-19500036
+  }
+  {
+    item_id: 9500037
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 331355
+    due_time: 2025/12/04  23:59:59
+    due_prize_id: 2598
+    present_info: present-19500037
+  }
+  {
+    item_id: 9500038
+    type: 1
+    poster: PackageImage_Equip
+    prize_id: 331356
+    due_time: 2025/12/04  23:59:59
+    due_prize_id: 2599
+    present_info: present-19500038
   }
 ]

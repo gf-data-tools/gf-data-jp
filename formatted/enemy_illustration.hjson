@@ -5754,6 +5754,29 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 248001
+    id: 248
+    name: ステュクス
+    sub_name: ステュクス
+    type: 1
+    code: StyxBoss
+    introduce: 妖艶美麗で危険な存在。その鞭は毒蛇の舌のように……気を付けろ、すでに狙われているぞ。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1001,216"
+    enemy_skill: "246,247,248,249,250"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "50,50,1"
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: ゲベンヌ

@@ -5718,9 +5718,21 @@
   }
   {
     id: 5079
+    name: CR-21-オリジナルスキン
     fit_gun: 20288
     voice: 4
     is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+  }
+  {
+    id: 5080
+    name: MP41-オリジナルスキン
+    fit_gun: 20267
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
   }
   {
     id: 5101
@@ -9652,6 +9664,69 @@
     skin_source: 2
   }
   {
+    id: 11401
+    name: 秘密の誓い
+    fit_gun: 179
+    voice: 16
+    dialog: 指揮官、この鍵の秘密、知りたくないかしら？フフッ……教えてあげるから、もっと近くに寄りなさい。
+    illustrator_cv: 小枪,斉藤佑圭,
+    order: 137
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11402
+    name: 真摯なる花言葉
+    fit_gun: 62
+    voice: 16
+    dialog: この花の花言葉は、「忠誠」ですか？大好きです！全部全部、ご主人様にあげたいです！
+    illustrator_cv: RIRE,釘宮理恵,
+    order: 137
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11403
+    name: 雪綻ぶ蕾
+    fit_gun: 109
+    voice: 16
+    dialog: 花のように脆い服だな……だが、実戦に影響はない。気にせず命令をくれ、指揮官。
+    illustrator_cv: 二花,小清水亜美,
+    order: 137
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11405
+    name: 夢中の視線
+    fit_gun: 118
+    voice: 16
+    dialog: 指揮官、これでずっと、指揮官の視線を釘付けにできるのでしょか？そう……それでしたら、もう少し見つめ合ってもいいですか？
+    order: 137
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11406
+    name: 澄みきった羽の花
+    fit_gun: 95
+    voice: 16
+    dialog: ご主人様、こちらへどうぞ！愛ちゃん、ずっとこの時を待っていました……だから、もう少し、近寄ってもいいですか？
+    order: 137
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11407
+    name: 永久の約束
+    fit_gun: 5
+    voice: 16
+    dialog: 過去を見届けても飽き足らず、わしと一緒に未来まで見届けたいというのか？指揮官も欲張りよのう……
+    gift_position: "-84.6,363.6"
+    order: 137
+    class_id: 111
+  }
+  {
     id: 30001
     name: 夏の午後の風
     fit_gun: 57
@@ -9799,6 +9874,7 @@
     fit_gun: 54
     voice: 4
     dialog: やっぱりさっきのコートの方が似合ってるな、そっちに着替えた方がいいじゃないのか？ああ、でもそろそろ時間だ、行くぞ。……ん？休暇？そんなの私たちには関係ない話だろ？
+    gift_position: "-260.7,415.5"
     illustrator_cv: 小枪,山根希美,
     order: 111
   }
@@ -9887,6 +9963,14 @@
     illustrator_cv: YoYo,大西沙織,
     order: 135
     class_id: 112
+  }
+  {
+    id: 30028
+    name: 海浜のハンター
+    fit_gun: 393
+    voice: 4
+    dialog: もしもこの浜辺に心躍るような獲物がいたら……必ずこの手で捕まえて見せる。
+    order: 138
   }
   {
     id: 50001

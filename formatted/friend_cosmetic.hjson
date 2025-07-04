@@ -19065,6 +19065,129 @@
     rarity: 5
   }
   {
+    id: 1610
+    item_id: 2610
+    sub_type: 1
+    code: profilePic_202412Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202412Activity
+  }
+  {
+    id: 1611
+    item_id: 2611
+    sub_type: 1
+    code: profilePic_202412Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202412Activity
+  }
+  {
+    id: 1612
+    item_id: 2612
+    sub_type: 1
+    code: profilePic_202412Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202412Activity
+  }
+  {
+    id: 1613
+    item_id: 2613
+    sub_type: 1
+    code: profilePic_202412Activity_04
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202412Activity
+  }
+  {
+    id: 1614
+    item_id: 2614
+    sub_type: 1
+    code: profilePic_202412Activity_05
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202412Activity
+  }
+  {
+    id: 1615
+    item_id: 2615
+    sub_type: 2
+    code: card_202412Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1616
+    item_id: 2616
+    sub_type: 2
+    code: card_202412Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1617
+    item_id: 2617
+    sub_type: 2
+    code: card_202412Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1618
+    item_id: 2618
+    sub_type: 2
+    code: card_202412Activity_04
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1619
+    item_id: 2619
+    sub_type: 3
+    code: cg_202412Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1620
+    item_id: 2620
+    sub_type: 3
+    code: cg_202412Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1621
+    item_id: 2621
+    sub_type: 3
+    code: cg_202412Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1622
+    item_id: 2622
+    sub_type: 1
+    code: profilePic_202412Activity_coremask
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202412Activity
+  }
+  {
     id: 1624
     item_id: 2624
     sub_type: 1
@@ -19291,6 +19414,98 @@
     rarity: 5
   }
   {
+    id: 1654
+    item_id: 2654
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_DSR50
+    order: 1
+    rarity: 5
+    skin: 11401
+  }
+  {
+    id: 1655
+    item_id: 2655
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_G41
+    order: 1
+    rarity: 5
+    skin: 11402
+  }
+  {
+    id: 1656
+    item_id: 2656
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_MG5
+    order: 1
+    rarity: 5
+    skin: 11403
+  }
+  {
+    id: 1657
+    item_id: 2657
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_9A91
+    order: 1
+    rarity: 5
+    skin: 11405
+  }
+  {
+    id: 1658
+    item_id: 2658
+    sub_type: 1
+    gem: 80
+    item_ids: 508-2000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_88type
+    order: 1
+    rarity: 5
+    skin: 11406
+  }
+  {
+    id: 1659
+    item_id: 2659
+    sub_type: 1
+    gem: 40
+    item_ids: 508-1000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_M1895
+    order: 1
+    rarity: 5
+    skin: 11407
+  }
+  {
+    id: 1663
+    item_id: 2663
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_BattlePass_Beowulf
+    order: 1
+    rarity: 5
+    skin: 30028
+  }
+  {
+    id: 1664
+    item_id: 2664
+    sub_type: 2
+    code: card_BattlePass_Beowulf
+    order: 1
+    rarity: 5
+  }
+  {
     id: 2501
     item_id: 3501
     sub_type: 1
@@ -19319,6 +19534,16 @@
     rarity: 5
     filter_type: "5"
     frame_id: 200002
+  }
+  {
+    id: 2504
+    item_id: 3504
+    sub_type: 1
+    code: profilePic_rank4_MP41Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200001
   }
   {
     id: 100001
@@ -19797,6 +20022,15 @@
     item_id: 200052
     sub_type: 4
     code: profileFrame_BattlePass_M14
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100053
+    item_id: 200053
+    sub_type: 4
+    code: profileFrame_BattlePass_Beowulf
     order: 1
     rarity: 5
     filter_type: "5"

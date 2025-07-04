@@ -509,6 +509,30 @@
     decorate_code: Logo_Events
   }
   {
+    id: 45
+    name: 灰燼の火種勲章
+    order: 55
+    evo_step: "1"
+    appearance_id: "253"
+    item_id: 144
+    medal_obtain: 大型イベント「巻積核」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 46
+    name: 火中の金勲章
+    order: 54
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "254,255,256,257,258,259,260,261,262,263,264,265"
+    item_id: 145
+    medal_obtain: 大型イベント「巻積核」のランキングモード「ペンローズの階段から跳び下りて」にて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
     id: 47
     name: 瀝海戦区開拓者勲章
     order: 53
