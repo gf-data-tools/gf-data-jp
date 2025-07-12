@@ -343,4 +343,22 @@
     group_skill: 2:1003103
     fit_gun: "20154"
   }
+  {
+    id: 39
+    name: トップ・プレイヤー
+    des: RFBにピッタリな装備一式。戦闘用の装備なのに、またゲームしてる！
+    code: EgroupRFB
+    equip_unit: "169,0,422"
+    group_skill: 2:1003303
+    fit_gun: "172"
+  }
+  {
+    id: 40
+    name: ウエスト・コーラ
+    des: コルトSAAにピッタリな装備一式。コーラこそパワー！
+    code: EgroupM1873
+    equip_unit: "122,423,0"
+    group_skill: 2:1003403
+    fit_gun: "20001"
+  }
 ]
