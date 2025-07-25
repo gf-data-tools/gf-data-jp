@@ -12575,6 +12575,40 @@
     sp_description: 部隊命中+20%
   }
   {
+    id: 392
+    name: 9x18mm SPK
+    description:
+      '''
+      火力+<pow>
+      破甲<armor_piercing>スキル強化$シプカ専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "12,15"
+    armor_piercing: "-10,-7"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_Shipka
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "150"
+    equip_introduction: 9x18mm拳銃弾を改良した弾薬。弾頭に円錐形の弾芯を取り入れ、初速が大幅に上昇した。シプカ愛用の弾薬である。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:500
+    passive_skill: "1001001"
+    max_level: 10
+    auto_select_id: 19075
+    is_show: 1
+    obtain_ids: "3104"
+    description_skill: 1001001
+  }
+  {
     id: 393
     name: .303ブレン弾
     description:

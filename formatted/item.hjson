@@ -13140,6 +13140,15 @@
     rank: 1
   }
   {
+    id: 2305
+    type: 5
+    arg: "1"
+    code: profilePic_mask_6years
+    item_name: 真核の仮面記念アイコン：七周年
+    introduction: 真核の仮面記念アイコン：七周年
+    rank: 1
+  }
+  {
     id: 2306
     type: 5
     arg: "1"
@@ -14742,6 +14751,87 @@
     rank: 1
   }
   {
+    id: 2488
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_HK21
+    item_name: ドキドキ加速中
+    introduction: ドキドキ加速中
+    rank: 1
+  }
+  {
+    id: 2489
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_Vector
+    item_name: 一時の酔い
+    introduction: 一時の酔い
+    rank: 1
+  }
+  {
+    id: 2490
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_97type
+    item_name: クジャクの声
+    introduction: クジャクの声
+    rank: 1
+  }
+  {
+    id: 2491
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_ART556
+    item_name: 狐の森の小夜曲
+    introduction: 狐の森の小夜曲
+    rank: 1
+  }
+  {
+    id: 2492
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_TAC50
+    item_name: メープルシャンパン
+    introduction: メープルシャンパン
+    rank: 1
+  }
+  {
+    id: 2493
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_FO12
+    item_name: スイート・レスキュー
+    introduction: スイート・レスキュー
+    rank: 1
+  }
+  {
+    id: 2494
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_Stevens520
+    item_name: ドルチェットの語り
+    introduction: ドルチェットの語り
+    rank: 1
+  }
+  {
+    id: 2495
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_M2HB
+    item_name: 宴会中の一休み
+    introduction: 宴会中の一休み
+    rank: 1
+  }
+  {
+    id: 2496
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_6P62
+    item_name: 時の楽章
+    introduction: 時の楽章
+    rank: 1
+  }
+  {
     id: 2498
     type: 5
     arg: "1"
@@ -14757,6 +14847,24 @@
     code: cg_Anniversary2024
     item_name: 基地背景：全機、戦闘配置！
     introduction: 全機、直ちに戦闘配置！敵に最後のレクイエムを贈れ！
+    rank: 1
+  }
+  {
+    id: 2500
+    type: 5
+    arg: "1"
+    code: profilePic_8years_A
+    item_name: アイコン：酔いの赤
+    introduction: アイコン：酔いの赤
+    rank: 1
+  }
+  {
+    id: 2501
+    type: 5
+    arg: "1"
+    code: card_8years_A
+    item_name: IDカード背景：暖かい香りと蜜の味
+    introduction: IDカード背景：暖かい香りと蜜の味
     rank: 1
   }
   {
@@ -19211,6 +19319,24 @@
     code: coremask2_2023SlowShock
     item_name: 蝕心の仮面・慢性虚脱
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100186
+    type: 4
+    arg: "100186"
+    code: core_mask_7year
+    item_name: 真核の仮面・七周年
+    introduction: 真核の仮面・七周年
+    rank: 1
+  }
+  {
+    id: 100187
+    type: 4
+    arg: "100187"
+    code: Bumdle_20237year
+    item_name: 七周年特別物資箱
+    introduction: 七周年特別物資箱
     rank: 1
   }
   {
@@ -26331,6 +26457,50 @@
     code: Bumdle_equipment
     item_name: 星5装備指定交換券
     introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500039
+    type: 15
+    arg: "9500039"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 秘蔵スキン抽選券・アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500040
+    type: 15
+    arg: "9500040"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: プレミアムスキン抽選券・アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500041
+    type: 15
+    arg: "9500041"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 至高のスキン抽選券・アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500042
+    type: 15
+    arg: "9500042"
+    code: Bumdle_7year
+    item_name: 七周年スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
     type_sort: 1
