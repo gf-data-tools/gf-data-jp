@@ -846,6 +846,15 @@
     rank: 1
   }
   {
+    id: 137
+    type: 3
+    arg: "38"
+    code: Medal_21summer_re_rank
+    item_name: 凶兆の終わり勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「回帰定理」のランキングステージにて素晴らしい成績を収めたことを表彰する。「無限の煉獄が消し去られ、人々にようやく安寧の夢が訪れる」
+    rank: 1
+  }
+  {
     id: 138
     type: 3
     arg: "39"
@@ -16200,6 +16209,24 @@
     rank: 1
   }
   {
+    id: 2673
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_LTLX7000
+    item_name: 真夏の夜の邂逅
+    introduction: 真夏の夜の邂逅
+    rank: 1
+  }
+  {
+    id: 2674
+    type: 5
+    arg: "1"
+    code: card_BattlePass_LTLX7000
+    item_name: IDカード背景：星々の中の晩餐
+    introduction: IDカード背景：星々の中の晩餐
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17853,6 +17880,15 @@
     arg: "30028"
     code: gift_bundle_BattlePass_Beowulf
     item_name: 海浜のハンター
+    rank: 1
+  }
+  {
+    id: 30029
+    type: 1
+    arg: "30029"
+    code: gift_bundle_BattlePass_LTLX7000
+    item_name: 真夏の夜の邂逅
+    introduction: 森の空気は清々しいな……ん？指揮官、どうしてここにいる？私は皆のためにピクニックの準備をしているだけで、別になにも――まぁいい、せっかく来たのなら、少し座ってけ……
     rank: 1
   }
   {
@@ -22533,6 +22569,26 @@
     detail_introduction: item-30140056
   }
   {
+    id: 140057
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140057
+    introduction: item-20140057
+    rank: 1
+    detail_introduction: item-30140057
+  }
+  {
+    id: 140058
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140058
+    introduction: item-20140058
+    rank: 1
+    detail_introduction: item-30140058
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23005,6 +23061,15 @@
     code: profileFrame_BattlePass_Beowulf
     item_name: アイコンフレーム：木陰の潮騒
     introduction: アイコンフレーム：木陰の潮騒
+    rank: 1
+  }
+  {
+    id: 200054
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_LTLX7000
+    item_name: アイコンフレーム：月の色、高まる鼓動
+    introduction: アイコンフレーム：月の色、高まる鼓動
     rank: 1
   }
   {
@@ -25336,6 +25401,50 @@
     code: package_random
     item_name: 前線協定-追加報酬
     introduction: 前線協定-砂浜の日光浴で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500217
+    type: 15
+    arg: "1500217"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-夜の森に囁くで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500218
+    type: 15
+    arg: "1500218"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-夜の森に囁くで獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500219
+    type: 15
+    arg: "1500219"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-夜の森に囁くで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500220
+    type: 15
+    arg: "1500220"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-夜の森に囁くで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
     rank: 1
     sort: -1
     type_sort: 1

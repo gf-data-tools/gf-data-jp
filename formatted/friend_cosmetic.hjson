@@ -15884,7 +15884,6 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
-    onsale: 1
     code: profilePic_mask_6years
     order: 1
     rarity: 5
@@ -18068,7 +18067,6 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
-    onsale: 1
     code: profilePic_8years_A
     order: 1
     rarity: 5
@@ -18081,7 +18079,6 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
-    onsale: 1
     code: card_8years_A
     order: 1
     rarity: 5
@@ -19691,6 +19688,29 @@
     rarity: 5
   }
   {
+    id: 1673
+    item_id: 2673
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_BattlePass_LTLX7000
+    order: 1
+    rarity: 5
+    skin: 30029
+    filter_type: "4"
+  }
+  {
+    id: 1674
+    item_id: 2674
+    sub_type: 2
+    gem: 150
+    item_ids: 508-3750
+    code: card_BattlePass_LTLX7000
+    order: 1
+    rarity: 5
+  }
+  {
     id: 2501
     item_id: 3501
     sub_type: 1
@@ -20216,6 +20236,15 @@
     item_id: 200053
     sub_type: 4
     code: profileFrame_BattlePass_Beowulf
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100054
+    item_id: 200054
+    sub_type: 4
+    code: profileFrame_BattlePass_LTLX7000
     order: 1
     rarity: 5
     filter_type: "5"

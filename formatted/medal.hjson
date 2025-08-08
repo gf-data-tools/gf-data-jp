@@ -437,6 +437,18 @@
     decorate_code: Logo_Events
   }
   {
+    id: 38
+    name: 凶兆の終わり勲章
+    order: 62
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "224,225,226,227,228,229,230,231,232,233,234,235"
+    item_id: 137
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「回帰定理」のランキングステージ「ナイトメアラビリンス+」で、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
     id: 39
     name: 見届ける眼勲章
     order: 61
