@@ -2552,4 +2552,31 @@
       ※スキン抽選券の有効期限は「2025年9月25日(木)23:59」までです。十分にご注意ください。
       '''
   }
+  {
+    item_id: 9500043
+    type: 2
+    poster: PackageImage_whitedayjp_1
+    drop_package_id: 20129
+    due_time: 2025/10/22  23:59:59
+    due_prize_id: 7405
+    present_info: present-19500043
+  }
+  {
+    item_id: 9500044
+    type: 2
+    poster: PackageImage_whitedayjp_2
+    drop_package_id: 20130
+    due_time: 2025/10/22  23:59:59
+    due_prize_id: 7406
+    present_info: present-19500044
+  }
+  {
+    item_id: 9500045
+    type: 1
+    poster: PackageImage_whitedayjp_3
+    prize_id: 331488
+    due_time: 2025/10/22  23:59:59
+    due_prize_id: 331211
+    present_info: present-19500045
+  }
 ]

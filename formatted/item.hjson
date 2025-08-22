@@ -19830,6 +19830,34 @@
     rank: 1
   }
   {
+    id: 100254
+    type: 4
+    arg: "100254"
+    code: Nova_medal_black
+    item_name: 新星勲章・虚記憶の箱庭
+    introduction: 新星勲章・虚記憶の箱庭
+    rank: 1
+  }
+  {
+    id: 100255
+    type: 4
+    arg: "100255"
+    code: Platinum_medal_black
+    item_name: 白金勲章・虚記憶の箱庭
+    introduction: 白金勲章・虚記憶の箱庭
+    rank: 1
+  }
+  {
+    id: 100256
+    type: 9
+    arg: "100256"
+    code: Coin_202404Shapeofmemory
+    item_name: 記憶の形
+    introduction: 記憶は如実に記録され、過去に埋められた。その者がすべての鍵を探し出せば、自分の宝物を取り戻すことができる。
+    rank: 1
+    daily_limit: 90;270
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -26651,6 +26679,39 @@
     arg: "9500042"
     code: Bumdle_7year
     item_name: 七周年スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500043
+    type: 15
+    arg: "9500043"
+    code: Bumdle_SummerdayCoupons1
+    item_name: 秘蔵スキン抽選券・水着
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500044
+    type: 15
+    arg: "9500044"
+    code: Bumdle_SummerdayCoupons2
+    item_name: プレミアムスキン抽選券・水着
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500045
+    type: 15
+    arg: "9500045"
+    code: Bumdle_SummerdayCoupons3
+    item_name: 至高のスキン抽選券・水着
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
