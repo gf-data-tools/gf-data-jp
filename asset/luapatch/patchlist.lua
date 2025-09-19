@@ -502,6 +502,7 @@ patch3070=
 "3071/DormFriendUIController",
 "3060/CommonAudioController",
 "3070/UIBattleMainView",
+"3070/DeploymentBuildSkillItem",
 }
 patch3071=
 {
@@ -521,6 +522,13 @@ patch3071=
 "3071/OPSPanelController",
 "3060/CommonAudioController",
 "3070/UIBattleMainView",
+"3070/MissionSkillData",
+"3070/DeploymentBuildSkillItem",
+}
+patch3080=
+{
+"3070/DeploymentBuildSkillItem",
+"3080/GuideManagerController",
 }
 -- va11
 print("load Va11");
