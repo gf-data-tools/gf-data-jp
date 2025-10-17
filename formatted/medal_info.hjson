@@ -598,4 +598,17 @@
     decorate_code: Logo_Events
     if_elite_medal: "1"
   }
+  {
+    id: "53"
+    name: 転生者勲章
+    order: "47"
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "296,297,298,299,300,301,302,303,304,305,306,307"
+    item_id: "152"
+    medal_obtain: 静止点のランキングモード「ベッチ数REDUX」において、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]
