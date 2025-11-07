@@ -1,0 +1,387 @@
+[
+  {
+    id: 1
+    name: 第零戦役
+    type: 1
+    tag: story_playback-40000001
+    order: 1
+  }
+  {
+    id: 2
+    story_campaign_id: "1"
+    name: 第一戦役
+    chapter: "1"
+    type: 1
+    tag: story_playback-40000002
+    order: 2
+  }
+  {
+    id: 3
+    story_campaign_id: "2"
+    name: 第二戦役
+    chapter: "2"
+    type: 1
+    tag: story_playback-40000003
+    order: 3
+  }
+  {
+    id: 4
+    story_campaign_id: "3"
+    name: 第三戦役
+    chapter: "3"
+    type: 1
+    tag: story_playback-40000004
+    order: 4
+  }
+  {
+    id: 5
+    story_campaign_id: "4"
+    name: 第四戦役
+    chapter: "4"
+    type: 1
+    tag: story_playback-40000005
+    order: 5
+  }
+  {
+    id: 6
+    story_campaign_id: "5"
+    name: 第五戦役
+    chapter: "5"
+    type: 1
+    tag: story_playback-40000006
+    order: 6
+  }
+  {
+    id: 7
+    story_campaign_id: "-1"
+    name: キューブ作戦
+    chapter: "5.5"
+    type: 2
+    tag: story_playback-40000007
+    order: 7
+  }
+  {
+    id: 8
+    story_campaign_id: "6"
+    name: 第六戦役
+    chapter: "6"
+    type: 1
+    tag: story_playback-40000008
+    order: 8
+  }
+  {
+    id: 9
+    story_campaign_id: "7"
+    name: 第七戦役
+    chapter: "7"
+    type: 1
+    tag: story_playback-40000009
+    order: 9
+  }
+  {
+    id: 10
+    story_campaign_id: "-2,-3,-4,-5,-23"
+    name: 低体温症
+    chapter: "7.5"
+    type: 2
+    tag: story_playback-40000010
+    order: 10
+  }
+  {
+    id: 11
+    story_campaign_id: "-7"
+    name: 目隠し解法
+    chapter: "7.75"
+    type: 2
+    tag: story_playback-40000011
+    order: 11
+  }
+  {
+    id: 12
+    story_campaign_id: "8"
+    name: 第八戦役
+    chapter: "8"
+    type: 1
+    tag: story_playback-40000012
+    order: 12
+  }
+  {
+    id: 13
+    story_campaign_id: "-10,-11,-12,-13"
+    name: 深層映写
+    chapter: "8.5"
+    type: 2
+    tag: story_playback-40000013
+    order: 13
+  }
+  {
+    id: 14
+    story_campaign_id: "9"
+    name: 第九戦役
+    chapter: "9"
+    type: 1
+    tag: story_playback-40000014
+    order: 14
+  }
+  {
+    id: 15
+    story_campaign_id: "10"
+    name: 第十戦役
+    chapter: "10"
+    type: 1
+    tag: story_playback-40000015
+    order: 15
+  }
+  {
+    id: 16
+    story_campaign_id: "-16,-17,-18"
+    name: 特異点
+    chapter: "10.5"
+    type: 2
+    tag: story_playback-40000016
+    order: 16
+  }
+  {
+    id: 17
+    story_campaign_id: "-24,-25,-26,-28"
+    name: 秩序乱流
+    chapter: "10.75"
+    type: 2
+    tag: story_playback-40000017
+    order: 17
+  }
+  {
+    id: 18
+    story_campaign_id: "11"
+    name: 第十一戦役
+    chapter: "11"
+    type: 1
+    tag: story_playback-40000018
+    order: 18
+  }
+  {
+    id: 19
+    story_campaign_id: "-31"
+    name: 異性体
+    chapter: "11.5"
+    type: 2
+    tag: story_playback-40000019
+    order: 19
+  }
+  {
+    id: 20
+    story_campaign_id: "-33"
+    name: 連鎖分裂
+    chapter: "11.75"
+    type: 2
+    tag: story_playback-40000020
+    order: 20
+  }
+  {
+    id: 21
+    story_campaign_id: "12"
+    name: 第十二戦役
+    chapter: "12"
+    type: 1
+    tag: story_playback-40000021
+    order: 21
+  }
+  {
+    id: 22
+    story_campaign_id: "-36"
+    name: 偏極光
+    chapter: "12.5"
+    type: 2
+    tag: story_playback-40000022
+    order: 22
+  }
+  {
+    id: 23
+    story_campaign_id: "13"
+    name: 第十三戦役
+    chapter: "13"
+    type: 1
+    tag: story_playback-40000023
+    order: 23
+  }
+  {
+    id: 24
+    story_campaign_id: "-41"
+    name: 双連乱数
+    chapter: "13.25"
+    type: 2
+    tag: EP.
+    order: 24
+  }
+  {
+    id: 25
+    story_campaign_id: "-44"
+    name: 鏡像論
+    chapter: "13.5"
+    type: 2
+    tag: EP.
+    order: 25
+  }
+  {
+    id: 26
+    story_campaign_id: "-48"
+    name: 回帰定理
+    chapter: "13.75"
+    type: 2
+    tag: EP.
+    order: 26
+  }
+  {
+    id: 27
+    story_campaign_id: "-51"
+    name: 静止点
+    chapter: "13.8"
+    type: 2
+    tag: EP.
+    order: 27
+  }
+  {
+    id: 28
+    story_campaign_id: "-54"
+    name: 縦軸歪曲
+    chapter: "13.9"
+    type: 2
+    tag: EP.
+    order: 28
+  }
+  {
+    id: 29
+    story_campaign_id: "-58"
+    name: 慢性虚脱
+    chapter: "14"
+    type: 2
+    tag: EP.
+    order: 30
+  }
+  {
+    id: 30
+    story_campaign_id: "-34"
+    name: 怪夜狂騒劇
+    chapter: "2020"
+    type: 3
+    tag: C.E.
+    order: 50
+  }
+  {
+    id: 31
+    story_campaign_id: "-35"
+    name: 雪夜の無礼講ノクターン
+    chapter: "2019"
+    type: 3
+    tag: C.E.
+    order: 51
+  }
+  {
+    id: 32
+    story_campaign_id: "-37"
+    name: 写真館の謎
+    chapter: "2020"
+    type: 3
+    tag: C.E.
+    order: 52
+  }
+  {
+    id: 33
+    story_campaign_id: "-49"
+    name: 一枚の重み
+    chapter: "2021"
+    type: 3
+    tag: C.E.
+    order: 53
+  }
+  {
+    id: 34
+    story_campaign_id: "-56"
+    name: エクリプス・サロス
+    chapter: "2023"
+    type: 2
+    tag: C.E.
+    order: 29
+  }
+  {
+    id: 35
+    story_campaign_id: "-40"
+    name: 碧海秘話
+    chapter: "2020"
+    type: 3
+    tag: C.E.
+    order: 54
+  }
+  {
+    id: 36
+    story_campaign_id: "-47"
+    name: ウェイブ・ラングラー
+    chapter: "2021"
+    type: 3
+    tag: C.E.
+    order: 55
+  }
+  {
+    id: 37
+    story_campaign_id: "-68"
+    name: 虚記憶の箱庭
+    chapter: "15.1"
+    type: 2
+    tag: EP.
+    order: 31
+  }
+  {
+    id: 38
+    story_campaign_id: "-69"
+    name: 22のジレンマ
+    chapter: "15.2"
+    type: 2
+    tag: EP.
+    order: 32
+  }
+  {
+    id: 39
+    story_campaign_id: "-70"
+    name: 零電荷
+    chapter: "15.3"
+    type: 2
+    tag: EP.
+    order: 33
+  }
+  {
+    id: 40
+    story_campaign_id: "-71"
+    name: 銀染現像
+    chapter: "15.4"
+    type: 2
+    tag: EP.
+    order: 34
+  }
+  {
+    id: 41
+    story_campaign_id: "-72"
+    name: 孤立の森
+    chapter: "15.5"
+    type: 2
+    tag: EP.
+    order: 35
+  }
+  {
+    id: 42
+    story_campaign_id: "-74"
+    name: 巻積核
+    chapter: "15.6"
+    type: 2
+    tag: EP.
+    order: 36
+  }
+  {
+    id: 46
+    story_campaign_id: "-75"
+    name: 遡源残響
+    chapter: "15.7"
+    type: 2
+    tag: EP.
+    order: 37
+  }
+]

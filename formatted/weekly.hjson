@@ -1,0 +1,78 @@
+[
+  {
+    identity: 1
+    type: battery_collect
+    count: 3
+    title: ウィークリー：電力収集
+    content: 宿舎から3回バッテリーを回収する。
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 2
+    type: procurement
+    count: 1
+    title: ウィークリー：コインガチャ
+    content: ガチャを1回引く。
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 3
+    type: sangvis_daily_retrieval
+    count: 8
+    title: ウィークリー：協定回帰
+    content: 捕獲作戦を8回行う。（通常捕獲と協力捕獲を含む）
+    function_control_id: 21
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 4
+    type: upgrade_skill
+    count: 3
+    title: ウィークリー：集中特訓
+    content: スキル訓練を3回行う。
+    function_control_id: 4
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 5
+    type: sp_develop
+    count: 4
+    title: ウィークリー：軍備拡張
+    content: 大型製造を4回行う。（人形、妖精を含む）
+    function_control_id: 3
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 6
+    type: map_capture
+    count: 15
+    title: ウィークリー：灰域探査
+    content: 灰域探査のポイントを累計15個以上占領する。
+    function_control_id: 29
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 7
+    type: daily_complete
+    count: 15
+    title: ウィークリー：事務処理
+    content: グリフィンデイリーを15回完了する。
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 8
+    type: win_boss
+    count: 1
+    title: ウィークリー：エースキラー
+    content: 敵のボスを1体以上倒して勝利する。
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+]

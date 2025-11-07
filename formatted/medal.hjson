@@ -1,0 +1,595 @@
+[
+  {
+    id: 1
+    name: グリフィン・エリート勲章
+    order: 93
+    evo_step: "1"
+    appearance_id: "1"
+    item_id: 100
+    medal_obtain: 大型イベントにて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#009bff"
+  }
+  {
+    id: 2
+    name: 戦闘ランキング勲章
+    order: 94
+    evo_step: "1,50,150,250,350,900"
+    appearance_id: "2,3,4,5,6,6"
+    item_id: 101
+    medal_obtain: 局地戦イベントにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff9200"
+  }
+  {
+    id: 3
+    name: 収集ランキング勲章
+    order: 95
+    evo_step: "1,30,90,150,210,540"
+    appearance_id: "7,8,9,10,11,11"
+    item_id: 102
+    medal_obtain: 人形収集と家具収集ランキングにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#009bff"
+  }
+  {
+    id: 4
+    name: 挑戦者勲章
+    order: 96
+    evo_step: "1,6,18,30,50,120"
+    appearance_id: "12,13,14,15,16,16"
+    item_id: 103
+    medal_obtain: カーニバルイベントにて活躍した指揮官に授与します。
+    medal_color: "#12ff00"
+    is_date: 2
+  }
+  {
+    id: 5
+    name: エリートの奇妙な冒険勲章
+    order: 97
+    evo_step: "1"
+    appearance_id: "17"
+    item_id: 104
+    medal_obtain: 特殊な期間限定イベントにて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ffd800"
+  }
+  {
+    id: 6
+    name: 鉄血グリフィン共同作戦勲章
+    order: 98
+    evo_step: "1,5,30,90,150"
+    appearance_id: "18,19,20,21,22"
+    item_id: 105
+    medal_obtain: 大型イベントにて、融合勢力を指揮し、特別な作戦目標を達成した指揮官に授与します。
+    medal_color: "#ff9200"
+    is_date: 2
+  }
+  {
+    id: 7
+    name: ラフベリー勲章
+    order: 99
+    evo_step: "1,50,150,300,600,1000"
+    appearance_id: "23,24,25,26,27,28"
+    item_id: 106
+    medal_obtain: ラフベリーチェスにて活躍した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+  }
+  {
+    id: 8
+    name: 風止者勲章
+    order: 91
+    evo_step: "1"
+    appearance_id: "29"
+    item_id: 107
+    medal_obtain: 大型イベント「静止点」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 9
+    name: ヘルウォーカー勲章
+    order: 92
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "30,31,32,33,34,35,36,37,38,39,40,41"
+    item_id: 108
+    medal_obtain: 大型イベント「静止点」のランキングモードにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 10
+    name: 第八戦区開拓者勲章
+    order: 89
+    evo_step: "1"
+    appearance_id: "42"
+    item_id: 109
+    medal_obtain: 第八期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 11
+    name: 第八戦区征服者勲章
+    order: 90
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "43,44,45,46,47,48,49,50,51,52,53,54"
+    item_id: 110
+    medal_obtain: 第八期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 12
+    name: カオス・リッパー勲章
+    order: 88
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "55,56,57,58,59,60,61,62,63,64,65,66"
+    item_id: 111
+    medal_obtain: 「異性体」ランキングモード「混乱の幕引き+」にて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 13
+    name: 赤鉄の嵐
+    order: 87
+    evo_step: "1"
+    appearance_id: "67"
+    item_id: 112
+    medal_obtain: 大型イベント「縦軸歪曲」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 14
+    name: 縦の主勲章
+    order: 86
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "68,69,70,71,72,73,74,75,76,77,78,79"
+    item_id: 113
+    medal_obtain: 大型イベント「縦軸歪曲」のランキングモードにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 15
+    name: 第九戦区開拓者勲章
+    order: 85
+    evo_step: "1"
+    appearance_id: "80"
+    item_id: 114
+    medal_obtain: 第九期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 16
+    name: 第九戦区征服者勲章
+    order: 84
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "81,82,83,84,85,86,87,88,89,90,91,92"
+    item_id: 115
+    medal_obtain: 第九期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 17
+    name: 終焉の破壊者勲章
+    order: 83
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "93,94,95,96,97,98,99,100,101,102,103,104"
+    item_id: 116
+    medal_obtain: 大型イベント「連鎖分裂」のランキングモード「終焉の花海+」にて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 18
+    name: エクリプス観測者
+    order: 82
+    evo_step: "1"
+    appearance_id: "105"
+    item_id: 117
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「エクリプス・サロス」にて称えられる功績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 19
+    name: 金マイクの勲章
+    order: 81
+    evo_step: "1"
+    appearance_id: "106"
+    item_id: 118
+    medal_obtain: 限定イベント「雪の如き浪 花顔を映ず」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 20
+    name: 第十戦区開拓者勲章
+    order: 80
+    evo_step: "1"
+    appearance_id: "107"
+    item_id: 119
+    medal_obtain: 第十期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 21
+    name: 第十戦区征服者勲章
+    order: 79
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "108,109,110,111,112,113,114,115,116,117,118,119"
+    item_id: 120
+    medal_obtain: 第十期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 22
+    name: 湖底のナビゲーター
+    order: 78
+    evo_step: "1"
+    appearance_id: "120"
+    item_id: 121
+    medal_obtain: 大型イベント「慢性虚脱」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 23
+    name: 海の雪線勲章
+    order: 77
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "121,122,123,124,125,126,127,128,129,130,131,132"
+    item_id: 122
+    medal_obtain: 大型イベント「慢性虚脱」のランキングモードにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 24
+    name: 迷宮の果て勲章
+    order: 76
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "133,134,135,136,137,138,139,140,141,142,143,144"
+    item_id: 123
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「偏極光」のランキングステージ「迷宮の守衛+」にて、全力を尽くしたことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 25
+    name: 域外局地戦区開拓者勲章
+    order: 75
+    evo_step: "1"
+    appearance_id: "145"
+    item_id: 124
+    medal_obtain: 域外局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 26
+    name: 域外局地戦区征服者勲章
+    order: 74
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "146,147,148,149,150,151,152,153,154,155,156,157"
+    item_id: 125
+    medal_obtain: 域外局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 27
+    name: 離島局地戦区開拓者勲章
+    order: 73
+    evo_step: "1"
+    appearance_id: "158"
+    item_id: 126
+    medal_obtain: 離島局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 28
+    name: 離島局地戦区征服者勲章
+    order: 72
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "159,160,161,162,163,164,165,166,167,168,169,170"
+    item_id: 127
+    medal_obtain: 離島局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 29
+    name: 第十一戦区開拓者勲章
+    order: 71
+    evo_step: "1"
+    appearance_id: "171"
+    item_id: 128
+    medal_obtain: 第十一期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 30
+    name: 第十一戦区征服者勲章
+    order: 70
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "172,173,174,175,176,177,178,179,180,181,182,183"
+    item_id: 129
+    medal_obtain: 第十一期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 31
+    name: 闇の駆逐者勲章
+    order: 69
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "184,185,186,187,188,189,190,191,192,193,194,195"
+    item_id: 130
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「双連乱数」のランキングステージ「秘密の渦中+」で、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 32
+    name: 再帰者勲章
+    order: 68
+    evo_step: "1"
+    appearance_id: "196"
+    item_id: 131
+    medal_obtain: 限定イベント「鏡扉の永遠」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 33
+    name: 時を取り戻す者勲章
+    order: 67
+    evo_step: "1"
+    appearance_id: "197"
+    item_id: 132
+    medal_obtain: 限定イベント「虚記憶の箱庭」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 34
+    name: 霧の果て勲章
+    order: 66
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "198,199,200,201,202,203,204,205,206,207,208,209"
+    item_id: 133
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「鏡像論」のランキングステージ「霧払い作戦+」で、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 35
+    name: 第十二戦区開拓者勲章
+    order: 65
+    evo_step: "1"
+    appearance_id: "210"
+    item_id: 134
+    medal_obtain: 第十二期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 36
+    name: 第十二戦区征服者勲章
+    order: 64
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "211,212,213,214,215,216,217,218,219,220,221,222"
+    item_id: 135
+    medal_obtain:
+      '''
+      第十二期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+      の幻想なのでしょう」
+      '''
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 37
+    name: 輪廻の選択者勲章
+    order: 63
+    evo_step: "1"
+    appearance_id: "223"
+    item_id: 136
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「22のジレンマ」にて称えられる功績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 38
+    name: 凶兆の終わり勲章
+    order: 62
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "224,225,226,227,228,229,230,231,232,233,234,235"
+    item_id: 137
+    medal_obtain: 指揮官及びその配下の戦術人形たちが、イベント「回帰定理」のランキングステージ「ナイトメアラビリンス+」で、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 39
+    name: 見届ける眼勲章
+    order: 61
+    evo_step: "1"
+    appearance_id: "236"
+    item_id: 138
+    medal_obtain: イベント「零電荷」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 40
+    name: 破局者勲章
+    order: 60
+    evo_step: "1"
+    appearance_id: "237"
+    item_id: 139
+    medal_obtain: イベント「銀染現像」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 41
+    name: 第十三戦区開拓者勲章
+    order: 59
+    evo_step: "1"
+    appearance_id: "238"
+    item_id: 140
+    medal_obtain: 第十三期局地戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 42
+    name: 第十三戦区征服者勲章
+    order: 58
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "239,240,241,242,243,244,245,246,247,248,249,250"
+    item_id: 141
+    medal_obtain: 第十三期局地戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 43
+    name: 孤立の森の守護者勲章
+    order: 57
+    evo_step: "1"
+    appearance_id: "251"
+    item_id: 142
+    medal_obtain: 大型イベント「孤立の森」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 44
+    name: 光を求める者勲章
+    order: 56
+    evo_step: "1"
+    appearance_id: "252"
+    item_id: 143
+    medal_obtain: コラボイベント「胡蝶星雲」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 45
+    name: 灰燼の火種勲章
+    order: 55
+    evo_step: "1"
+    appearance_id: "253"
+    item_id: 144
+    medal_obtain: 大型イベント「巻積核」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 46
+    name: 火中の金勲章
+    order: 54
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "254,255,256,257,258,259,260,261,262,263,264,265"
+    item_id: 145
+    medal_obtain: 大型イベント「巻積核」のランキングモード「ペンローズの階段から跳び下りて」にて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 47
+    name: 瀝海戦区開拓者勲章
+    order: 53
+    evo_step: "1"
+    appearance_id: "266"
+    item_id: 146
+    medal_obtain: 瀝海戦区にて、目覚ましいスコアを獲得した指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 48
+    name: 瀝海戦区征服者勲章
+    order: 52
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "267,268,269,270,271,272,273,274,275,276,277,278"
+    item_id: 147
+    medal_obtain: 瀝海戦区の最終ステージにて、優秀な成績を収めた指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 50
+    name: 遡行帰墟勲章
+    order: 50
+    evo_step: "1"
+    appearance_id: "280"
+    item_id: 149
+    medal_obtain: 大型イベント「遡源残響」にて、全ての戦役をクリアした指揮官に授与します。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 53
+    name: 転生者勲章
+    order: 47
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "296,297,298,299,300,301,302,303,304,305,306,307"
+    item_id: 152
+    medal_obtain: 静止点のランキングモード「ベッチ数REDUX」において、輝かしい成績を残したことを表彰する。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+]

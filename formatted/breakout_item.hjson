@@ -1,0 +1,550 @@
+[
+  {
+    id: 101
+    name: 火炎瓶
+    icon: breakout_useitem1
+    dec:
+      '''
+      <color=#E4A821>投擲して範囲ダメージを与え、さらに範囲内の目標を燃焼状態にし持続ダメージを与える。</color>
+      簡単に自作できる火炎瓶、中身には液体の可燃物が入っている。一定の範囲内のものを燃焼させる投擲武器であり、扱いには注意が必要。
+      '''
+    type: 1
+    cost_part: 120
+    sold_part: 120
+    skill_ids: "701"
+  }
+  {
+    id: 102
+    name: メディカルキット
+    icon: breakout_useitem2
+    dec:
+      '''
+      <color=#E4A821>範囲内の味方ユニットのHPを回復する。</color>
+      Dark Zoneで広く使われている医療用品のセット。傷の手当に必要な用品が一通り入っており、ほとんどの負傷の処理に対応できる。
+      '''
+    type: 1
+    cost_part: 100
+    sold_part: 100
+    skill_ids: "702"
+  }
+  {
+    id: 103
+    name: スタングレネード
+    icon: breakout_useitem3
+    dec:
+      '''
+      <color=#E4A821>投擲して範囲内の目標を目まい状態にし、減速効果を付与する。</color>
+      高性能なスタングレネード。範囲内の敵の行動能力を制限することができる。
+      '''
+    type: 1
+    cost_part: 180
+    sold_part: 180
+    skill_ids: "703"
+  }
+  {
+    id: 104
+    name: 強心剤
+    icon: breakout_useitem4
+    dec:
+      '''
+      <color=#E4A821>範囲内の味方ユニットにシールドを付与する。</color>
+      注射タイプの特殊な強心剤。痛みを抑え、一定時間内の戦闘能力を向上させることができる。
+      '''
+    type: 1
+    cost_part: 220
+    sold_part: 220
+    skill_ids: "704"
+  }
+  {
+    id: 201
+    name: マッチ
+    icon: breakout_otheritem1
+    dec: 湿気に弱いマッチ。寂しい時に一本火をつければ、少しだけクリスマス気分を体感できる。
+    type: 2
+    sold_part: 20
+  }
+  {
+    id: 202
+    name: 金属ライター
+    icon: breakout_otheritem2
+    dec: マッチよりは使いやすい。湿気には強くなったが、その代わりにたまに爆発することもある。
+    type: 2
+    sold_part: 36
+  }
+  {
+    id: 203
+    name: 青い火薬
+    icon: breakout_otheritem3
+    dec: スズの成分が入っている火薬。ただ発破で使うには、やや威力不足かもしれない……
+    type: 2
+    sold_part: 42
+  }
+  {
+    id: 204
+    name: ガソリンタンク
+    icon: breakout_otheritem4
+    dec: ガソリンは貴重ではあるが、ガソリンを入れるタンクにもそれなりの価値がある。
+    type: 2
+    sold_part: 73
+  }
+  {
+    id: 205
+    name: ガスボンベ
+    icon: breakout_otheritem5
+    dec: 可燃性ガスを保存できるボンベ。危険なので、勝手な改造はしない方がいい。もちろん、武器として転用することも。
+    type: 2
+    sold_part: 94
+  }
+  {
+    id: 206
+    name: ドラム缶
+    icon: breakout_otheritem6
+    dec: 金属製のドラム缶。プラスチック製のタンクよりも高価である。
+    type: 2
+    sold_part: 91
+  }
+  {
+    id: 207
+    name: ネジ
+    icon: breakout_otheritem7
+    dec: 各寸法のネジ。ベッドの組み立てからロケットの製造まで使える。
+    type: 2
+    sold_part: 26
+  }
+  {
+    id: 208
+    name: アクリルガラス
+    icon: breakout_otheritem8
+    dec: 高分子化合物素材、通称アクリル。ガラスの代わりに使える。
+    type: 2
+    sold_part: 36
+  }
+  {
+    id: 209
+    name: 防弾プラスチック
+    icon: breakout_otheritem9
+    dec: 防弾性に優れたプラスチック素材。気休め程度ではあるが、Dark Zoneでの生存率が少し上がる。
+    type: 2
+    sold_part: 47
+  }
+  {
+    id: 210
+    name: 遮音板
+    icon: breakout_otheritem10
+    dec: 音を吸収してくれる素材。色んなヘルメットに使われている可能性がある。被るとなにも聞こえなくなるから……
+    type: 2
+    sold_part: 72
+  }
+  {
+    id: 211
+    name: 耐衝撃プラスチック
+    icon: breakout_otheritem11
+    dec: 耐衝撃性に優れたプラスチック素材。家電の外殻などによく使われる。頑丈ではあるが、さすがに防弾に使うのは無理だ。
+    type: 2
+    sold_part: 99
+  }
+  {
+    id: 212
+    name: チタン合金板
+    icon: breakout_otheritem12
+    dec: 高い強度を誇るTC4チタン合金板。有事の際は盾としても使えるが、さすがに売った方が金になる。
+    type: 2
+    sold_part: 112
+  }
+  {
+    id: 213
+    name: コンデンサー
+    icon: breakout_otheritem13
+    dec: 電子製品に広く使われているコンデンサー。専門家の指導の下で使用した方がいい。
+    type: 2
+    sold_part: 42
+  }
+  {
+    id: 214
+    name: フロッピーディスク
+    icon: breakout_otheritem14
+    dec: データの保存に使用できる。どこかの世界で、これで経験値を保存しているとかなんとか……
+    type: 2
+    sold_part: 48
+  }
+  {
+    id: 215
+    name: ハードディスク
+    icon: breakout_otheritem15
+    dec: 完全に壊れた機械式のハードディスク。何かの機密データが入っているとしても、もう読み取ることはできない。
+    type: 2
+    sold_part: 51
+  }
+  {
+    id: 216
+    name: SSD
+    icon: breakout_otheritem16
+    dec: 高性能のSSD。同じデータ保存用のアイテムでも、機械式のハードディスクよりはずっと高価だ。
+    type: 2
+    sold_part: 39
+  }
+  {
+    id: 217
+    name: 電源ユニット
+    icon: breakout_otheritem17
+    dec: パソコンの電源ユニット。これと他の部品を集めれば、パソコンを組めるかもしれない。
+    type: 2
+    sold_part: 78
+  }
+  {
+    id: 218
+    name: グラフィックボード
+    icon: breakout_otheritem18
+    dec: 性能がイマイチのグラフィックボード。一応、ミニゲームぐらいは遊べるが。
+    type: 2
+    sold_part: 96
+  }
+  {
+    id: 219
+    name: バッテリー
+    icon: breakout_otheritem19
+    dec: 様々なデバイスに使用されているバッテリー。特に金にならないが、環境のために回収した方がいい。
+    type: 2
+    sold_part: 36
+  }
+  {
+    id: 220
+    name: D型バッテリー
+    icon: breakout_otheritem20
+    dec: 大型のD型バッテリー。大出力のデバイスによく使われている。設備が壊れても、バッテリー自体はある程度の金になる。
+    type: 2
+    sold_part: 43
+  }
+  {
+    id: 221
+    name: ポータブル電源
+    icon: breakout_otheritem21
+    dec: 充電可能の大容量バッテリー。様々なデバイスに電力を供給することができる。念のために、普段からちゃんと充電してあげるべきだ。
+    type: 2
+    sold_part: 39
+  }
+  {
+    id: 222
+    name: ソーラーパネル
+    icon: breakout_otheritem22
+    dec: 太陽光発電において最も重要な部分。停電の時は、こいつが頼りになる。曇りの日は知らん。
+    type: 2
+    sold_part: 68
+  }
+  {
+    id: 223
+    name: 補機バッテリー
+    icon: breakout_otheritem23
+    dec: どこにでもある自動車用の補機バッテリー。人形に使える可能性も……人形ってなんだ？
+    type: 2
+    sold_part: 94
+  }
+  {
+    id: 224
+    name: EV専用バッテリー
+    icon: breakout_otheritem24
+    dec: EV専用のバッテリー、非常に高価である。大容量だと言われているが、その分重量もかなりのものだ。
+    type: 2
+    sold_part: 166
+  }
+  {
+    id: 225
+    name: 磁石
+    icon: breakout_otheritem25
+    dec: 手製の磁石。色んな所で使える。ただし、超電導リニアには使えない。
+    type: 2
+    sold_part: 39
+  }
+  {
+    id: 226
+    name: パイプレンチ
+    icon: breakout_otheritem26
+    dec: パイプの修理に使うレンチ。もちろん、壊すことにも使える。なぜなら、そこにパイプがあるのだから。
+    type: 2
+    sold_part: 46
+  }
+  {
+    id: 227
+    name: ツールボックス
+    icon: breakout_otheritem27
+    dec: 色んな道具が入っているツールボックス。貴重品というわけではないが、色んな所で使える。
+    type: 2
+    sold_part: 49
+  }
+  {
+    id: 228
+    name: 小型ジャッキー
+    icon: breakout_otheritem28
+    dec: 小型の油圧式ジャッキー。場合によっては、野良のチームメイトよりも頼りになる。
+    type: 2
+    sold_part: 62
+  }
+  {
+    id: 229
+    name: 油圧式電動鉄筋カッター
+    icon: breakout_otheritem29
+    dec: 土木の現場で、鉄筋を切断するためによく使われている道具。このご時世で、働き口があるだけでマシだ。
+    type: 2
+    sold_part: 85
+  }
+  {
+    id: 230
+    name: 油圧レンチ
+    icon: breakout_otheritem30
+    dec: 油圧式のレンチ。ボルトを一瞬で閉めることができる。
+    type: 2
+    sold_part: 101
+  }
+  {
+    id: 231
+    name: 電球
+    icon: breakout_otheritem31
+    dec: どこにでもある白熱電球。値段が安く、非常に広く使われている。
+    type: 2
+    sold_part: 29
+  }
+  {
+    id: 232
+    name: LED電球
+    icon: breakout_otheritem32
+    dec: 省エネLED電球。白熱電球よりも明るく、寿命も長い。もちろん、値段も高い。
+    type: 2
+    sold_part: 36
+  }
+  {
+    id: 233
+    name: ランタン
+    icon: breakout_otheritem33
+    dec: キャンプ用のランタン、しっかり防水仕様である。ソーラーパネルと同じく、いざという時には頼りになる。
+    type: 2
+    sold_part: 52
+  }
+  {
+    id: 234
+    name: 懐中電灯
+    icon: breakout_otheritem34
+    dec: ランタンよりも使いやすい照明用品。バッテリー持ちは少し弱いが、使える場面が多い。
+    type: 2
+    sold_part: 55
+  }
+  {
+    id: 235
+    name: 手持ち式補助ライト
+    icon: breakout_otheritem35
+    dec: LED補助ライト。照明としては弱いが、証明写真を撮るときは便利だ。
+    type: 2
+    sold_part: 66
+  }
+  {
+    id: 236
+    name: X300U-Aタクティカルライト
+    icon: breakout_otheritem36
+    dec: 広く愛用されているタクティカルライト。どんな暗闇でも一瞬で照らしてくれる。そして目くらましにもなる。
+    type: 2
+    sold_part: 98
+  }
+  {
+    id: 237
+    name: 懐中時計
+    icon: breakout_otheritem37
+    dec: 複雑な機械式懐中時計。こんなものをまともに使うやつはほとんどいない。
+    type: 2
+    sold_part: 43
+  }
+  {
+    id: 238
+    name: 記念コイン
+    icon: breakout_otheritem38
+    dec: コレクション用の記念コイン。一見金になりそうだが、実際大して売れない。
+    type: 2
+    sold_part: 40
+  }
+  {
+    id: 239
+    name: 銀のメダル
+    icon: breakout_otheritem39
+    dec: 銀色のメダル。細かい装飾が施されているが、言うほど価値はない。
+    type: 2
+    sold_part: 52
+  }
+  {
+    id: 240
+    name: 置き時計
+    icon: breakout_otheritem40
+    dec: お洒落な置き時計。上品な装飾にはなるが、有事の時は何の役にも立たない。
+    type: 2
+    sold_part: 59
+  }
+  {
+    id: 241
+    name: 金のブレスレット
+    icon: breakout_otheritem41
+    dec: 作りが荒い金のブレスレット。でも金だ……
+    type: 2
+    sold_part: 99
+  }
+  {
+    id: 242
+    name: 金の腕時計
+    icon: breakout_otheritem42
+    dec: 高価な金の腕時計。針の動きはやや怪しいが、それぐらいは直せるだろう。きっと金になる。
+    type: 2
+    sold_part: 101
+  }
+  {
+    id: 243
+    name: ブローチ
+    icon: breakout_otheritem43
+    dec: 匠手製の宝石ブローチ。手製であるからこその高級品だ。
+    type: 2
+    sold_part: 105
+  }
+  {
+    id: 244
+    name: ダイヤの指輪
+    icon: breakout_otheritem44
+    dec: 大きなダイヤが嵌められている指輪。かなりの値段で売れる。
+    type: 2
+    sold_part: 113
+  }
+  {
+    id: 245
+    name: 宮廷用の銀の食器
+    icon: breakout_otheritem45
+    dec: 海外からの流入品。ただ手に取るだけで、貴族の気分を味わえる。
+    type: 2
+    sold_part: 140
+  }
+  {
+    id: 246
+    name: 金塊
+    icon: breakout_otheritem46
+    dec: オノトスの金鉱で発掘され、現地の工房で製錬されたもの。他の金製品よりも、金塊の方がずっといいだろう。
+    type: 2
+    sold_part: 120
+  }
+  {
+    id: 247
+    name: 花瓶
+    icon: breakout_otheritem47
+    dec: とても貴重に見える花瓶。どこかの貴族のコレクションかもしれない。その分、とても脆い。
+    type: 2
+    sold_part: 218
+  }
+  {
+    id: 248
+    name: 黄金のライオン像
+    icon: breakout_otheritem48
+    dec: いかにも高そうな黄金のライオン像。純金だからなのか、みんな欲しがっている。
+    type: 2
+    sold_part: 296
+  }
+  {
+    id: 249
+    name: ポケットベル
+    icon: breakout_otheritem49
+    dec: 特に複雑な機能がないポケットベル。メッセージを受け取るだけなら割と使いやすい。
+    type: 2
+    sold_part: 38
+  }
+  {
+    id: 250
+    name: 携帯電話
+    icon: breakout_otheritem50
+    dec: やすい携帯電話。基本的な機能しかない。
+    type: 2
+    sold_part: 46
+  }
+  {
+    id: 251
+    name: 写真カメラ
+    icon: breakout_otheritem51
+    dec: 型落ちの古いカメラ。ついているフラッシュライトは夜間の照明に使える。
+    type: 2
+    sold_part: 64
+  }
+  {
+    id: 252
+    name: 金の携帯電話
+    icon: breakout_otheritem52
+    dec: 金で作られた携帯電話、もちろん高い。性能もいい。
+    type: 2
+    sold_part: 101
+  }
+  {
+    id: 253
+    name: ノートパソコン
+    icon: breakout_otheritem53
+    dec: 新型のパソコン、身分と財力の象徴である。金が欲しい時はこいつを売るといい。
+    type: 2
+    sold_part: 129
+  }
+  {
+    id: 254
+    name: ビデオカメラ
+    icon: breakout_otheritem54
+    dec: 海外から流入してきたビデオカメラ。型は古いが、耐用性はある。中古市場で買うと、たまには知らない人の映像が入っている。
+    type: 2
+    sold_part: 143
+  }
+  {
+    id: 255
+    name: 軍用のコンパス
+    icon: breakout_otheritem55
+    dec: 一般のコンパスよりも精確ではあるが、人生の道しるべにはならない。
+    type: 2
+    sold_part: 46
+  }
+  {
+    id: 256
+    name: 距離計附き望遠鏡
+    icon: breakout_otheritem56
+    dec: レーザー距離計機能が備わっている望遠鏡。戦場では実用的なアイテムだ。
+    type: 2
+    sold_part: 60
+  }
+  {
+    id: 257
+    name: 砲隊鏡
+    icon: breakout_otheritem57
+    dec: ペリスコープ式の光学測距儀。自身の位置を隠しながら観測を行うことができる。
+    type: 2
+    sold_part: 72
+  }
+  {
+    id: 258
+    name: 軍用無線局
+    icon: breakout_otheritem58
+    dec: 古い無線局ではあるが、使い方さえ分かれば役に立つ。運が良ければ、何かの情報を傍受できるかもしれない。
+    type: 2
+    sold_part: 98
+  }
+  {
+    id: 259
+    name: レーザーポインター
+    icon: breakout_otheritem59
+    dec: レーザーで位置を指示するモジュール。自分一人じゃあまり使い道がないため、売って金にした方がいい。
+    type: 2
+    sold_part: 138
+  }
+  {
+    id: 260
+    name: ターゲットロケーター
+    icon: breakout_otheritem60
+    dec: 目標の位置を特定する装置。自分一人じゃあまり使い道がないため、売って金にした方がいい。
+    type: 2
+    sold_part: 270
+  }
+  {
+    id: 301
+    name: 拡張バッグ
+    icon: breakout_backpack
+    dec:
+      '''
+      <color=#E4A821>バッグの容量を+3する。</color>
+      一人で持ち運べる物資に上限があるからこそ、使いやすいバッグが必要だ。
+      '''
+    type: 3
+    cost_part: 288
+  }
+]

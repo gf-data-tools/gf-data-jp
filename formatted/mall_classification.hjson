@@ -1,0 +1,214 @@
+[
+  {
+    id: 1000
+    sort: 1
+    name: イベント
+    description: 限时活动
+  }
+  {
+    id: 1001
+    parent_id: 1000
+    sort: 1
+    name:
+      '''
+      七周年
+      真核の仮面
+      '''
+  }
+  {
+    id: 1002
+    parent_id: 1000
+    sort: 2
+    name:
+      '''
+      鏡扉の永遠
+      アイテム交換
+      '''
+  }
+  {
+    id: 1003
+    parent_id: 1000
+    sort: 3
+    name:
+      '''
+      鏡扉の永遠
+      勲章交換
+      '''
+  }
+  {
+    id: 1004
+    parent_id: 1000
+    sort: 4
+    name:
+      '''
+      巻積核
+      アイテム交換
+      '''
+  }
+  {
+    id: 1005
+    parent_id: 1000
+    sort: 5
+    name:
+      '''
+      巻積核
+      勲章交換
+      '''
+  }
+  {
+    id: 1006
+    parent_id: 1000
+    sort: 6
+    name:
+      '''
+      22のジレンマ
+      蝕心の仮面
+      '''
+  }
+  {
+    id: 1007
+    parent_id: 1000
+    sort: 7
+    name:
+      '''
+      22のジレンマ
+      アイテム交換
+      '''
+  }
+  {
+    id: 1008
+    parent_id: 1000
+    sort: 8
+    name:
+      '''
+      22のジレンマ
+      勲章交換
+      '''
+  }
+  {
+    id: 2000
+    sort: 2
+    name: 軍需
+  }
+  {
+    id: 2002
+    parent_id: 6000
+    sort: 1
+    name: 月額カード
+  }
+  {
+    id: 3000
+    sort: 4
+    name: パック
+    description: 所有礼包内容
+  }
+  {
+    id: 3001
+    parent_id: 3000
+    sort: 1
+    name: 新兵7日補給
+  }
+  {
+    id: 3002
+    parent_id: 3000
+    sort: 2
+    name: お買い得パック
+    description: 物资
+  }
+  {
+    id: 3003
+    parent_id: 3000
+    sort: 3
+    name: スキンパック
+    description: 装扮
+  }
+  {
+    id: 3004
+    parent_id: 3000
+    sort: 4
+    name:
+      '''
+      支援
+      パック
+      '''
+    description: 新手支援礼包
+  }
+  {
+    id: 3005
+    parent_id: 3000
+    sort: 5
+    name: 協定再現
+  }
+  {
+    id: 3007
+    parent_id: 3000
+    sort: 6
+  }
+  {
+    id: 4000
+    sort: 6
+    name: 衣装
+    description: 指挥官服装
+  }
+  {
+    id: 5000
+    sort: 5
+    name: アイテム
+    description: 消耗品
+  }
+  {
+    id: 5001
+    parent_id: 5000
+    sort: 1
+    name: 資源
+  }
+  {
+    id: 5002
+    parent_id: 5000
+    sort: 2
+    name: 契約
+  }
+  {
+    id: 5003
+    parent_id: 5000
+    sort: 3
+    name: 拡張
+  }
+  {
+    id: 5004
+    parent_id: 5000
+    sort: 4
+    name: その他
+  }
+  {
+    id: 6000
+    sort: 3
+    name: 特売
+  }
+  {
+    id: 6002
+    parent_id: 6000
+    sort: 2
+    name: 每日
+  }
+  {
+    id: 6003
+    parent_id: 6000
+    sort: 3
+    name: 補給
+  }
+  {
+    id: 7000
+    sort: 8
+    name: 友情ショップ
+  }
+  {
+    id: 8000
+    sort: 7
+    name:
+      '''
+      装甲風格
+      ショップ
+      '''
+  }
+]

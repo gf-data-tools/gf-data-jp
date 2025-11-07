@@ -1,0 +1,30 @@
+[
+  {
+    id: 1
+    name: 単方向配置
+    type: 1
+    parameter: "60301"
+    init_time: "1,2"
+    cd: 3
+    code: AirdropIcon_1
+    description: 配置アイテムカードである<color=#ffb400ff>兵站</color>を一枚獲得
+    probability: 10000
+  }
+  {
+    id: 2
+    name: 財産嗅覚
+    type: 2
+    parameter: "5"
+    init_time: "1,2"
+    cd: 3
+    code: AirdropIcon_2
+    description: <color=#ffb400ff>ラフベリーコイン</color>を5つ獲得
+    probability: 10000
+  }
+  {
+    id: 3
+  }
+  {
+    id: 4
+  }
+]

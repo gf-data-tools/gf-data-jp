@@ -1,0 +1,746 @@
+[
+  {
+    id: 101
+    fight_environment_skill_id: 12020101
+    description: 予想外の火力モジュールを起動した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 102
+    fight_environment_skill_id: 12020201
+    description: 予想外の火力モジュールOCを起動した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 103
+    fight_environment_skill_id: 12020101
+    description: 火力モジュールを獲得した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 104
+    fight_environment_skill_id: 12020201
+    description: 火力モジュールOCを獲得した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 105
+    fight_environment_skill_id: 12020101
+    description: ビール――もっと敵を探してこい
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 106
+    fight_environment_skill_id: 12020201
+    description: ビール2杯――もっと敵を探してこい
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 107
+    fight_environment_skill_id: 12020101
+    description: 蝶が舞い、火力モジュールが起動された
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 108
+    fight_environment_skill_id: 12020201
+    description: 蝶が舞い、火力モジュールOCが起動された
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 201
+    fight_environment_skill_id: 12020301
+    description: 機銃班から連射のテクニックを学んだ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 202
+    fight_environment_skill_id: 12020401
+    description: 機銃班から連射の高等テクニックを学んだ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 203
+    fight_environment_skill_id: 12020301
+    description: 連射スキルのモジュールを発見し、起動してみた
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 204
+    fight_environment_skill_id: 12020401
+    description: 超連射スキルのモジュールを発見し、起動してみた
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 205
+    fight_environment_skill_id: 12020301
+    description: 予想外の連射モジュールを起動した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 206
+    fight_environment_skill_id: 12020401
+    description: 予想外の連射モジュールOCを起動した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 207
+    fight_environment_skill_id: 12020301
+    description: ゴッド・ファーザー――撃て、撃ち続けろ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 208
+    fight_environment_skill_id: 12020401
+    description: ゴッド・ファーザー2杯――撃て、撃ち続けろ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 209
+    fight_environment_skill_id: 12020301
+    description: 一連のコードが連射モジュールを起動させた
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 210
+    fight_environment_skill_id: 12020401
+    description: 一連のコードが連射モジュールOCを起動させた
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 301
+    fight_environment_skill_id: 12020501
+    description: よくある素材で作られた徹甲弾
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 302
+    fight_environment_skill_id: 12020601
+    description: 特殊な素材で作られた徹甲弾
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 303
+    fight_environment_skill_id: 12020501
+    description: 徹甲弾がそこら辺に落ちてしまった
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 304
+    fight_environment_skill_id: 12020601
+    description: 高級徹甲弾がそこら辺に落ちてしまった
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 305
+    fight_environment_skill_id: 12020501
+    description: テキーラ・サンライズ――すべてを焼き尽くせ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 306
+    fight_environment_skill_id: 12020601
+    description: テキーラ・サンライズ2杯――すべてを焼き尽くせ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 307
+    fight_environment_skill_id: 12020501
+    description: 機密ファイル、先進的な武器に関する知識が記されている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 308
+    fight_environment_skill_id: 12020601
+    description: 極秘ファイル、先進的な武器に関する知識が記されている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 401
+    fight_environment_skill_id: 12021501
+    description: レール・インテグレーション・システムを拾った
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 402
+    fight_environment_skill_id: 12021601
+    description: 最新のレール・インテグレーション・システムを拾った
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 403
+    fight_environment_skill_id: 12021501
+    description: 青い鳥――今日は運がいい！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 404
+    fight_environment_skill_id: 12021601
+    description: 青い鳥2羽――今日は運がいい！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 405
+    fight_environment_skill_id: 12021501
+    description: 照準精度チップを起動した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 406
+    fight_environment_skill_id: 12021601
+    description: 上級照準精度チップを起動した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 501
+    fight_environment_skill_id: 12020901
+    description: 黄ばんでいる手帳、昔の戦いについて記している
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 502
+    fight_environment_skill_id: 12021001
+    description: 血痕がついている手帳、昔の戦いについて記している
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 503
+    fight_environment_skill_id: 12020901
+    description: ハーベイ・ウォールバンガー――猪突猛進！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 504
+    fight_environment_skill_id: 12021001
+    description: ハーベイ・ウォールバンガー2杯――猪突猛進！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 505
+    fight_environment_skill_id: 12020901
+    description: 技術手帳からヒントを得た
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 506
+    fight_environment_skill_id: 12021001
+    description: 開発手帳からヒントを得た
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 601
+    fight_environment_skill_id: 12022101
+    description: ゲルスプレー弾――逃がさない！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 602
+    fight_environment_skill_id: 12022201
+    description: ゲルスプレー発射装置――逃がさない！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 603
+    fight_environment_skill_id: 12022101
+    description: 敵が変なジャミングを受けている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 604
+    fight_environment_skill_id: 12022201
+    description: 敵が強烈なジャミングを受けている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 605
+    fight_environment_skill_id: 12022101
+    description: ブラッディ・マリー――ビビってる？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 606
+    fight_environment_skill_id: 12022201
+    description: ブラッディ・マリー2杯――ビビってる？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 701
+    fight_environment_skill_id: 12021901
+    description: 発煙弾、「七色」という文字が書かれている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 702
+    fight_environment_skill_id: 12022001
+    description: 自動式発煙弾、「七色」という文字が書かれている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 703
+    fight_environment_skill_id: 12021901
+    description: なんだか、戦いの音が遠のいた気がする
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 704
+    fight_environment_skill_id: 12022001
+    description: なんだか、もうこの世に戦争はない気がする
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 705
+    fight_environment_skill_id: 12021901
+    description: ゴールデン・ドリーム――もっとも大切な君へ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 706
+    fight_environment_skill_id: 12022001
+    description: ゴールデン・ドリーム2杯――もっとも大切な君へ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 801
+    fight_environment_skill_id: 12022301
+    description: ジャマー――どこを見ているの？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 802
+    fight_environment_skill_id: 12022401
+    description: 自動式ジャマー――どこを見ているの？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 803
+    fight_environment_skill_id: 12022301
+    description: 突然、胸の内が燃え始めた！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 804
+    fight_environment_skill_id: 12022401
+    description: 突然、胸の内が闘志に満ち溢れた！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 805
+    fight_environment_skill_id: 12022301
+    description: マルガリータ――ポジティブにいこう！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 806
+    fight_environment_skill_id: 12022401
+    description: マルガリータ2杯――ポジティブにいこう！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 901
+    fight_environment_skill_id: 12020701
+    description: 携帯式シールド――この防御力に挑んでくるがいい！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 902
+    fight_environment_skill_id: 12020801
+    description: 鎮圧用シールド――この防御力に挑んでくるがいい！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 903
+    fight_environment_skill_id: 12020701
+    description: 未知の元素力が全体のシールドを強化した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 904
+    fight_environment_skill_id: 12020801
+    description: 特殊な元素力が全体のシールドを強化した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 905
+    fight_environment_skill_id: 12020701
+    description: エンジェル・キッス――祈るよりは役に立つ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 906
+    fight_environment_skill_id: 12020801
+    description: エンジェル・キッス2杯――祈るよりは役に立つ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1001
+    fight_environment_skill_id: 12021101
+    description: オイル交換を楽しんだ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1002
+    fight_environment_skill_id: 12021201
+    description: 高級オイルを使ってオイル交換を楽しんだ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1003
+    fight_environment_skill_id: 12021101
+    description: メンテナンス用オイル、使用後はヌルヌル動く
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1004
+    fight_environment_skill_id: 12021201
+    description: メンテナンス用高級オイル、使用後はめちゃくちゃ動く
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1005
+    fight_environment_skill_id: 12021101
+    description: カサブランカ――危険はすでに消え去った
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1006
+    fight_environment_skill_id: 12021201
+    description: カサブランカ2杯――危険はすでに消え去った
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1101
+    fight_environment_skill_id: 12021701
+    description: 改良型スラスター、小型かつ大出力
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1102
+    fight_environment_skill_id: 12021801
+    description: 高性能スラスター、小型かつ大出力
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1103
+    fight_environment_skill_id: 12021701
+    description: 未知の元素力が全体の速度を強化した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1104
+    fight_environment_skill_id: 12021801
+    description: 特殊な元素力が全体の速度を強化した
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1105
+    fight_environment_skill_id: 12021701
+    description: オリンピック――より速く！より高く！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1106
+    fight_environment_skill_id: 12021801
+    description: オリンピック2杯――より速く！より高く！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1201
+    fight_environment_skill_id: 12021301
+    description: 暗視モジュール――闇夜、見破れたり！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1202
+    fight_environment_skill_id: 12021401
+    description: 上級暗視モジュール――闇夜、見破れたり！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1203
+    fight_environment_skill_id: 12021301
+    description: ジャック・ローズ――赤く咲き誇れ！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1204
+    fight_environment_skill_id: 12021401
+    description: ジャック・ローズ2杯――赤く咲き誇れ！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1205
+    fight_environment_skill_id: 12021301
+    description: 謎の実験室にあった赤外線カメラ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1206
+    fight_environment_skill_id: 12021401
+    description: 謎の実験室にあった高精度赤外線カメラ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1301
+    fight_environment_skill_id: 12022501
+    description: 特別な機能を備えたチップ、敵を攪乱することができる
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1302
+    fight_environment_skill_id: 12022501
+    description: 特別な機能を備えたコア、敵を攪乱することができる
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1401
+    fight_environment_skill_id: 12022601
+    description: ただのバール、敵を痛めつけることができる
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1402
+    fight_environment_skill_id: 12022601
+    description: 真っ赤に加熱されたバール、敵は死ぬ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1501
+    fight_environment_skill_id: 12022701
+    description: 機械の残骸、何かしらの力に干渉されているようだ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1502
+    fight_environment_skill_id: 12022701
+    description: ヌンチャク、薄っすらと「T……」みたいな文字が書かれている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1601
+    fight_environment_skill_id: 12022801
+    description: なんか見覚えのあるターゲットドローン。なんでここにあるんだ？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1701
+    fight_environment_skill_id: 12022901
+    description: 大型E.L.I.D植物。花はすでに散った
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1702
+    fight_environment_skill_id: 12022901
+    description: 形が独特な造花。変な形で散っている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1801
+    fight_environment_skill_id: 12023001
+    description: 独楽――脳の秘密を探索する
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1901
+    fight_environment_skill_id: 12023301
+    description: ユニコーンの折り紙――君が守られますように
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 2001
+    fight_environment_skill_id: 12023201
+    description: どこかで見たことある取り壊しの告知みたいだ
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 2002
+    fight_environment_skill_id: 12023201
+    description: 演算中の設備、なにかの数字が光っている
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+]

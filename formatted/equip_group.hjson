@@ -1,0 +1,436 @@
+[
+  {
+    id: 1
+    name: SHDカスタマイズ「V」
+    des: SHDの特殊装備をフルセット装備したエージェントVectorは強力な部隊サポート能力を得る。部隊全体の生存力を上昇させる。
+    code: EgroupVec
+    equip_unit: "201,200,199"
+    group_skill: 2:992050,3:992051
+    fit_gun: "1028"
+    is_addition: 1
+  }
+  {
+    id: 2
+    name: SHDカスタマイズ「416」
+    des: SHDの特殊装備をフルセット装備したエージェント416は新たな攻撃手段を得る。敵全体の戦闘能力を下げる。
+    code: EgroupHk416
+    equip_unit: "202,203,204"
+    group_skill: 2:992052,3:992053
+    fit_gun: "1029"
+    is_addition: 1
+  }
+  {
+    id: 3
+    name: Хорошо
+    des: フルセット装備のモシン・ナガンは、自身の実力を最大限発揮できるようになった。全部、問題ない。
+    code: EgroupM1891
+    equip_unit: "337,111,86"
+    group_skill: 3:759100
+    fit_gun: "20039"
+  }
+  {
+    id: 4
+    name: 16Lab特製「AR-15」
+    des: 16Lab特製の装備を一式揃えたAR-15は、作戦においてより実力を発揮できるようになった。サブウェポンの扱いもより上手くなった。
+    code: EgroupAR15
+    equip_unit: "100,338,60"
+    group_skill: 3:759094
+    fit_gun: "20057"
+  }
+  {
+    id: 5
+    name: APSカーニバル
+    des: I.O.P.特製の装備を一式揃えたスチェッキンは、より部隊の支援を行えるようになった。
+    code: EgroupAPS
+    equip_unit: "133,342,171"
+    group_skill: 3:759134
+    fit_gun: "20007"
+  }
+  {
+    id: 6
+    name: ジャングル冒険
+    des: 迷彩装備を一式揃えた64式は、ジャングルの環境に融け込むことができ、敵に不意打ちを仕掛けることができる。
+    code: Egroup64type
+    equip_unit: "218,343,103"
+    group_skill: 3:759143
+    fit_gun: "20094"
+  }
+  {
+    id: 7
+    name: 小さな配達員
+    des: 完全装備したMP5は、作戦時より機敏に動けるようになった。それにより、部隊間の情報伝達や物資輸送も、より一層効率的になった。
+    code: EgroupMP5
+    equip_unit: "62,348,157"
+    group_skill: 3:759187
+    fit_gun: "20026"
+  }
+  {
+    id: 8
+    name: 沈黙者
+    des: 完全装備したMG4は、混乱を極めた戦場の中でも、目標を見つけ出して撃破することができる。
+    code: EgroupMG4
+    equip_unit: "239,132,349"
+    group_skill: 3:759192
+    fit_gun: "20125"
+  }
+  {
+    id: 9
+    name: Макарова
+    des: 完全装備したマカロフは、戦場でより正確に作戦を指揮できる。
+    code: EgroupPM
+    equip_unit: "180,238,351"
+    group_skill: 3:759219
+    fit_gun: "20008"
+  }
+  {
+    id: 10
+    name: Товарищи
+    des: 完全装備したPPSh-41は、より他の人形たちと連携がとりやすくなった。
+    code: EgroupPPSh41
+    equip_unit: "352,272,219"
+    group_skill: 3:759224
+    fit_gun: "20021"
+  }
+  {
+    id: 11
+    name: 漆黒の女王
+    des: 完全装備したPPKは、敵に際限なき苦痛を与えるだろう。
+    code: EgroupPPK
+    equip_unit: "155,284,355"
+    group_skill: 3:759242
+    fit_gun: "20010"
+  }
+  {
+    id: 12
+    name: 404カスタマイズ416
+    des: 404小隊がオーダーメイドした416専用セット。416の作戦能力を大幅に引き上げることができる。
+    code: EgroupHK416KMod
+    equip_unit: "106,356,159"
+    group_skill: 3:759236
+    fit_gun: "20065"
+  }
+  {
+    id: 13
+    name: 404カスタマイズUMP45
+    des: 404小隊がオーダーメイドしたUMP45専用セット。UMP45の作戦能力を大幅に引き上げることができる。
+    code: EgroupUMP45
+    equip_unit: "92,358,125"
+    group_skill: 3:759092
+    fit_gun: "20103"
+  }
+  {
+    id: 14
+    name: 404カスタマイズUMP9
+    des: 404小隊がオーダーメイドしたUMP9専用セット。UMP9の作戦能力を大幅に引き上げることができる。
+    code: EgroupUMP9
+    equip_unit: "92,359,156"
+    group_skill: 3:759093
+    fit_gun: "20101"
+  }
+  {
+    id: 15
+    name: 未来を狙え！
+    des: 完全装備した漢陽88式は、現代の作戦理論は完全に覆してくれる。
+    code: Egroup88type
+    equip_unit: "221,158,365"
+    group_skill: 3:759276
+    fit_gun: "20095"
+  }
+  {
+    id: 16
+    name: キャンディー缶
+    des: 完全装備したM1919A4は、未だかつてないほど強大な力を発揮するだろう。
+    code: EgroupM1919A4
+    equip_unit: "366,220,333"
+    group_skill: 3:759271
+    fit_gun: "20080"
+  }
+  {
+    id: 17
+    name: RED STAR
+    des: 完全装備した56-1式は、命令を最後まで完遂できる強い力を手に入れた。
+    code: Egroup56-1type
+    equip_unit: "83,368,299"
+    group_skill: 3:759283
+    fit_gun: "20066"
+  }
+  {
+    id: 18
+    name: 労働の模範
+    des: 完全装備したMG3の運動性能と射撃性能は大幅に向上したが、その分、任務の数も増えた。
+    code: EgroupMG3
+    equip_unit: "369,285,107"
+    group_skill: 3:759289
+    fit_gun: "20088"
+  }
+  {
+    id: 19
+    name: 林間行動
+    des: NTW-20にピッタリな装備一式。戦闘時でもドライブ時でも、とてもカッコいい。
+    code: EgroupNTW20
+    equip_unit: "170,0,371"
+    group_skill: 2:759295
+    fit_gun: "20053"
+  }
+  {
+    id: 20
+    name: キャプテン・ホーク
+    des: 97式散にピッタリな装備一式。正義の力で、悪を駆逐する。
+    code: Egroup97typeS
+    equip_unit: "193,372,0"
+    group_skill: 2:759300
+    fit_gun: "20161"
+  }
+  {
+    id: 21
+    name: みんなのために
+    des: G3のみんなを助けたいという思いが込められた一式の装備。
+    code: EgroupG3
+    equip_unit: "124,0,374"
+    group_skill: 2:759308
+    fit_gun: "20063"
+  }
+  {
+    id: 22
+    name: Darling
+    des: M1911本人による強い要望で、こういう名前になってしまった。
+    code: EgroupM1911
+    equip_unit: "375,101,0"
+    group_skill: 2:759312
+    fit_gun: "20002"
+  }
+  {
+    id: 23
+    name: 身軽な出陣
+    des: LWMMGにピッタリな装備一式。どれもコスパのいいもので、無駄がない。
+    code: EgroupLWMMG
+    equip_unit: "0,131,385"
+    group_skill: 2:1000103
+    fit_gun: "20081"
+  }
+  {
+    id: 24
+    name: あなたと共に
+    des: M950Aにピッタリな装備一式。友人との絆、そしてみんなと一緒に進みたいという願いが込められている。
+    code: EgroupM950A
+    equip_unit: "179,0,384"
+    group_skill: 2:1000203
+    fit_gun: "20097"
+  }
+  {
+    id: 25
+    name: メイドの掟
+    des: G36にピッタリな装備一式。メイドの仕事に役立つ、メイドの矜持そのもの。
+    code: EgroupG36
+    equip_unit: "130,0,390"
+    group_skill: 2:1000403
+    fit_gun: "20064"
+  }
+  {
+    id: 26
+    name: 16Lab特製「RO635」
+    des: RO635用にカスタマイズされた装備一式。指揮能力の強化に重点を置き、RO635の潜在能力を最大限引き出せるようにした。
+    code: EgroupRO635
+    equip_unit: "192,391,0"
+    group_skill: 2:1000503
+    fit_gun: "20143"
+  }
+  {
+    id: 27
+    name: 一つの極み
+    des: ブレンにピッタリな装備一式。目標となる頂点を目指すためには欠かせない。
+    code: EgroupBrenMKMod
+    equip_unit: "393,123,0"
+    group_skill: 2:1001103
+    fit_gun: "20089"
+  }
+  {
+    id: 28
+    name: 飴玉砲弾
+    des: AA-12にピッタリな装備一式。より効率的に問題を解決できるようになった。
+    code: EgroupAA12
+    equip_unit: "394,174,0"
+    group_skill: 2:1001203
+    fit_gun: "163"
+  }
+  {
+    id: 29
+    name: オペレーション・クリップ
+    des: SV-98にピッタリな装備一式。これで地形の計測および計算がより効率的になった。
+    code: EgroupSV98
+    equip_unit: "398,0,115"
+    group_skill: 2:1001403
+    fit_gun: "20044"
+  }
+  {
+    id: 30
+    name: 完璧な作戦
+    des: PKPにピッタリな装備一式。たとえ数倍の敵を前にしても、負ける気がしない。
+    code: EgroupPKP
+    equip_unit: "399,316,0"
+    group_skill: 2:1001503
+    fit_gun: "173"
+  }
+  {
+    id: 31
+    name: 闇夜の刃
+    des: ウェルロッドMkIIにピッタリな装備一式。闇に潜み、悪を葬る。
+    code: EgroupWelrod
+    equip_unit: "406,0,213"
+    group_skill: 2:1001703
+    fit_gun: "20114"
+  }
+  {
+    id: 32
+    name: 暴発の女王
+    des: ステンMkIIにピッタリな装備一式。自身の欠陥は素直に受け入れるべきだ、そこから初めて、一人前になる。
+    code: EgroupStenMK2
+    equip_unit: "407,0,128"
+    group_skill: 2:1001803
+    fit_gun: "20029"
+  }
+  {
+    id: 33
+    name: チビストーム
+    des: SR-3MPにピッタリな装備一式。より機敏に動けるようになり、敵の裏をかくことができる。
+    code: EgroupSR3MP
+    equip_unit: "409,0,249"
+    group_skill: 2:1002003
+    fit_gun: "135"
+  }
+  {
+    id: 34
+    name: 使命のために
+    des: StG44にピッタリな装備一式。使命を全うするために、装備のアップグレードは必要不可欠だ。
+    code: EgroupStG44
+    equip_unit: "0,136,410"
+    group_skill: 2:1002103
+    fit_gun: "20061"
+  }
+  {
+    id: 35
+    name: ホワイトメモリー
+    des: WA2000にピッタリな装備一式。戦闘能力の向上だけでなく、任務に必要な様々な能力も向上している。
+    code: EgroupWA2000
+    equip_unit: "414,217,0"
+    group_skill: 2:1002303
+    fit_gun: "48"
+  }
+  {
+    id: 36
+    name: コレクター
+    des: M1895にピッタリな装備一式。戦場掃除や装備品の回収などにおいて、大きな役に立つ。場合によって、何かの情報を手に入れるかもしれない。
+    code: EgroupM1895
+    equip_unit: "113,0,415"
+    group_skill: 2:1002403
+    fit_gun: "20005"
+  }
+  {
+    id: 37
+    name: キツネミミ隊員
+    des: G41にピッタリな装備一式。ご主人様のご命令であらば、必ず達成してみせます！
+    code: EgroupG41
+    equip_unit: "0,419,127"
+    group_skill: 2:1002903
+    fit_gun: "62"
+  }
+  {
+    id: 38
+    name: いくよ、ダウル！
+    des: M500にピッタリな装備一式。頼りになる相棒さえいれば、怖いものなし！
+    code: EgroupM500
+    equip_unit: "420,0,177"
+    group_skill: 2:1003103
+    fit_gun: "20154"
+  }
+  {
+    id: 39
+    name: トップ・プレイヤー
+    des: RFBにピッタリな装備一式。戦闘用の装備なのに、またゲームしてる！
+    code: EgroupRFB
+    equip_unit: "169,0,422"
+    group_skill: 2:1003303
+    fit_gun: "172"
+  }
+  {
+    id: 40
+    name: ウエスト・コーラ
+    des: コルトSAAにピッタリな装備一式。コーラこそパワー！
+    code: EgroupM1873
+    equip_unit: "122,423,0"
+    group_skill: 2:1003403
+    fit_gun: "20001"
+  }
+  {
+    id: 41
+    name: 敵は逃がさない
+    des: M82A1にピッタリな装備一式。大幅に戦闘性能を上げ、さらに戦闘時のデータを記録してくれる。
+    code: EgroupM82A1
+    equip_unit: "427,283,0"
+    group_skill: 2:1003803
+    fit_gun: "231"
+  }
+  {
+    id: 42
+    name: にゃ～
+    des: IDWにピッタリな装備一式。バッテリー残量が十分な場合、より強力になる。
+    code: EgroupIDW
+    equip_unit: "102,0,428"
+    group_skill: 2:1003903
+    fit_gun: "20093"
+  }
+  {
+    id: 43
+    name: 幻影の蝶
+    des: ZB-26にピッタリな装備一式。幻想的な雰囲気をしている装備ではあるが、これでZB-26の仕事効率が向上する。
+    code: EgroupZB26
+    equip_unit: "321,433,0"
+    group_skill: 2:1004103
+    fit_gun: "307"
+  }
+  {
+    id: 44
+    name: 攻守逆転
+    des: ディフェンダーにピッタリな装備一式。攻撃こそ最大の防御！
+    code: EgroupColtDefender
+    equip_unit: "434,216,0"
+    group_skill: 2:1004203
+    fit_gun: "302"
+  }
+  {
+    id: 45
+    name: BOSS
+    des: トンプソンに合わせてカスタマイズされた装備一式。これでより完璧にボスの命令を遂行できる。
+    code: EgroupM1928A1
+    equip_unit: "236,0,439"
+    group_skill: 2:1004803
+    fit_gun: "16"
+  }
+  {
+    id: 46
+    name: 簡単節約
+    des: 92式に合わせてカスタマイズされた装備一式。攻撃が最大の防御！
+    code: Egroup92type
+    equip_unit: "0,296,440"
+    group_skill: 2:1004903
+    fit_gun: "20013"
+  }
+  {
+    id: 47
+    name: ネットサーファー
+    des: MDRに合わせてカスタマイズされた装備一式。インターネットの波に呑まれる焦燥感を緩和できるかもしれない。
+    code: EgroupMDR
+    equip_unit: "175,0,442"
+    group_skill: 2:1005203
+    fit_gun: "215"
+  }
+  {
+    id: 48
+    name: 本領発揮
+    des: M14に合わせてカスタマイズされた装備一式。仮に正規軍が相手でも後れを取ることはない。
+    code: EgroupM14
+    equip_unit: "0,129,443"
+    group_skill: 2:1005303
+    fit_gun: "20037"
+  }
+]

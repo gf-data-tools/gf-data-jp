@@ -1,0 +1,38 @@
+[
+  {
+    id: 1
+    name: 辺境の地
+    code: FlightChessDesert_1
+    default_unlock: 1
+  }
+  {
+    id: 2
+    name: 辺境の地
+    code: FlightChessMap2
+    default_unlock: 1
+  }
+  {
+    id: 3
+    name: 辺境の地
+    code: FlightChessMap4
+    default_unlock: 1
+  }
+  {
+    id: 4
+    name: 地獄のハイウェイ
+    code: FlightChessMap3
+    unlock_item_id: 121001
+  }
+  {
+    id: 5
+    name: 異想虚景
+    code: FlightChessMap5
+    unlock_item_id: 121002
+  }
+  {
+    id: 6
+    name: 秘宝眠る海湾
+    code: FlightChessMap6
+    unlock_item_id: 121003
+  }
+]
