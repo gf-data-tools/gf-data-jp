@@ -30526,6 +30526,35 @@
     rotate: "3"
   }
   {
+    id: 20174
+    name: DLP投影装置
+    classes: 19
+    type: 201
+    space: "4,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 以前は■■■■■の所有物だったが、今は改造されて、猫のホログラムしか映さないようになっている。もう二度とあの顔を見ることはないので、どうかご安心を。
+    code: 202507Activity_Kalina_Cat
+    texture_type: "2"
+    offset: "0.000,0.188,0.000"
+    rotate: "2"
+    touch_area: "2,2,2"
+  }
+  {
+    id: 20175
+    name: 仮想粒子の観測者勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「仮想粒子対」にて称えられる功績を残したことを表彰する。「観測者が見るのは、仮想粒子の命。観測がその存在であり、確認されてから確定する真実である」
+    code: 202507Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: かぼちゃクマさん
     classes: 300
@@ -46812,6 +46841,21 @@
     decompose_gift: 100003
     description: StG44のポスター。
     code: poster_BattlePass_STG44
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330032
+    name: ダークブルーの果て
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Six12のポスター。
+    code: poster_BattlePass_Six12
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

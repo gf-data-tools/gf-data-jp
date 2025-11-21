@@ -1543,6 +1543,38 @@
     present_info: present-11500252
   }
   {
+    item_id: 1500263
+    type: 1
+    prize_id: 140001
+    due_time: 2026/01/04 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500263
+  }
+  {
+    item_id: 1500264
+    type: 1
+    prize_id: 140003
+    due_time: 2026/01/04 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500264
+  }
+  {
+    item_id: 1500265
+    type: 2
+    drop_package_id: 2623
+    due_time: 2026/01/04 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500265
+  }
+  {
+    item_id: 1500266
+    type: 2
+    drop_package_id: 945
+    due_time: 2026/01/04 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500266
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -2831,5 +2863,41 @@
     due_time: 2026/01/07  23:59:59
     due_prize_id: 331211
     present_info: present-19500058
+  }
+  {
+    item_id: 9500059
+    type: 1
+    poster: PackageImage_rank4
+    prize_id: 331698
+    due_time: 2026/04/21  23:59:59
+    due_prize_id: 1993
+    present_info: 「倉庫」にて「星4人形支援要請書」を使用することで、「2025年8月22日(金)」より以前に実装された「星4戦術人形」から1名を要請できます。
+  }
+  {
+    item_id: 9500060
+    type: 1
+    poster: PackageImage_rank5
+    prize_id: 331699
+    due_time: 2026/04/21  23:59:59
+    due_prize_id: 1994
+    present_info: 「倉庫」にて「星５人形支援要請書」を使用することで、「2025年8月22日(金)」より以前に実装された「星５戦術人形」から1名を要請できます。
+  }
+  {
+    item_id: 9500061
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 331700
+    due_time: 2026/04/21  23:59:59
+    due_prize_id: 2598
+    present_info: 「倉庫」にて「融合勢力指定回収依頼書」を使用することで、「2025年11月21日(金)」より以前に実装された「初期ランク3融合勢力」から1名を要請できます。
+  }
+  {
+    item_id: 9500062
+    type: 1
+    poster: PackageImage_Equip
+    prize_id: 331701
+    due_time: 2026/04/21  23:59:59
+    due_prize_id: 2599
+    present_info: "\u300c\u5009\u5eab\u300d\u306b\u3066\u300c\u661f5\u88c5\u5099\u6307\u5b9a\u4ea4\u63db\u5238\u300d\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067\u3001\u300c2024\u5e7410\u670811\u65e5(\u91d1)\u300d\u3088\u308a\u4ee5\u524d\u306b\u5b9f\u88c5\u3055\u308c\u305f\u300c\u661f\uff15\u88c5\u5099\u300d\u304b\u30891\u200c\u200c\u500b\u3092\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
   }
 ]

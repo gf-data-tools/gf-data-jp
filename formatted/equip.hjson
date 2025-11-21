@@ -1579,6 +1579,7 @@
     company: AC
     equip_introduction: AC社製の汎用サイレンサー。戦術人形の隠密性アップに貢献する。MG及びSG以外は装備可能。
     exclusive_rate: 1
+    passive_skill: "1007704"
     auto_select_id: 13001
     is_show: 1
     obtain_ids: "3,3001"
@@ -1608,6 +1609,7 @@
     powerup_part: 0.23
     exclusive_rate: 1
     bonus_type: dodge:400,critical_percent:300
+    passive_skill: "1007704"
     max_level: 10
     auto_select_id: 13001
     is_show: 1
@@ -1641,6 +1643,7 @@
     powerup_part: 0.23
     exclusive_rate: 1
     bonus_type: dodge:400,critical_percent:300
+    passive_skill: "1007704"
     max_level: 10
     auto_select_id: 13001
     is_show: 1
@@ -1674,6 +1677,7 @@
     powerup_part: 0.23
     exclusive_rate: 1
     bonus_type: dodge:300,critical_percent:350
+    passive_skill: "1007704"
     max_level: 10
     auto_select_id: 13001
     is_show: 1
@@ -13308,6 +13312,40 @@
     description_skill: 992500
   }
   {
+    id: 413
+    name: 栄光のマント
+    description:
+      '''
+      火力<pow>
+      回避+<dodge>スキル追加$ウェブリー専用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-5,-1"
+    dodge: "16,22"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_Webley
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "294"
+    equip_introduction: 多くのコレクションの中でも、ウェブリーに最も気に入られているマント。勇気を持って、勝利へと進め。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "1002201"
+    max_level: 10
+    auto_select_id: 20089
+    is_show: 1
+    obtain_ids: "3108"
+    description_skill: 1002201
+  }
+  {
     id: 414
     name: WM強化弾
     description:
@@ -14158,5 +14196,39 @@
     is_show: 1
     obtain_ids: "3133"
     description_skill: 1006001
+  }
+  {
+    id: 461
+    name: 12.7mmKD弾
+    description:
+      '''
+      会心率+<critical_percent><%>
+      破甲+<armor_piercing>スキル強化$Kord専用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    critical_percent: "6,10"
+    armor_piercing: "245,250"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_Kord
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "276"
+    equip_introduction: 従来の設計を流用したものだが、最新の発射薬技術を応用して初速を上げ、威力を高めることができた。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:1000,critical_percent:1000
+    passive_skill: "1007201"
+    max_level: 10
+    auto_select_id: 19090
+    is_show: 1
+    obtain_ids: "3134"
+    description_skill: 1007201
   }
 ]

@@ -954,6 +954,15 @@
     rank: 1
   }
   {
+    id: 150
+    type: 3
+    arg: "51"
+    code: Medal_202507Activity
+    item_name: 仮想粒子の観測者勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「仮想粒子対」にて称えられる功績を残したことを表彰する。「観測者が見るのは、仮想粒子の命。観測がその存在であり、確認されてから確定する真実である」
+    rank: 1
+  }
+  {
     id: 152
     type: 3
     arg: "53"
@@ -16137,6 +16146,33 @@
     rank: 1
   }
   {
+    id: 2646
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_1
+    item_name: 時空の波・コードXVI：遷移
+    introduction: 時空の波・コードXVI：遷移
+    rank: 1
+  }
+  {
+    id: 2647
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_2
+    item_name: 波動の軌跡・コードXVI：遷移
+    introduction: 波動の軌跡・コードXVI：遷移
+    rank: 1
+  }
+  {
+    id: 2648
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_3
+    item_name: 次元の交差・コードXVI：遷移
+    introduction: 次元の交差・コードXVI：遷移
+    rank: 1
+  }
+  {
     id: 2649
     type: 5
     arg: "1"
@@ -16386,6 +16422,87 @@
     code: card_BattlePass_STG44
     item_name: IDカード背景：山での邂逅
     introduction: IDカード背景：山での邂逅
+    rank: 1
+  }
+  {
+    id: 2696
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_01
+    item_name: アイコン：戦闘狂
+    introduction: アイコン：戦闘狂
+    rank: 1
+  }
+  {
+    id: 2697
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_02
+    item_name: アイコン：新世界へのチケット
+    introduction: アイコン：新世界へのチケット
+    rank: 1
+  }
+  {
+    id: 2698
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_03
+    item_name: アイコン：月明かりが隠れて
+    introduction: アイコン：月明かりが隠れて
+    rank: 1
+  }
+  {
+    id: 2699
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_04
+    item_name: アイコン：憂い
+    introduction: アイコン：憂い
+    rank: 1
+  }
+  {
+    id: 2700
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_05
+    item_name: アイコン：利剣
+    introduction: アイコン：利剣
+    rank: 1
+  }
+  {
+    id: 2701
+    type: 5
+    arg: "1"
+    code: card_202507Activity_01
+    item_name: IDカード背景：終局の前
+    introduction: IDカード背景：終局の前
+    rank: 1
+  }
+  {
+    id: 2702
+    type: 5
+    arg: "1"
+    code: card_202507Activity_02
+    item_name: IDカード背景：熾色の花火
+    introduction: IDカード背景：熾色の花火
+    rank: 1
+  }
+  {
+    id: 2703
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Six12
+    item_name: ダークブルーの果て
+    introduction: ダークブルーの果て
+    rank: 1
+  }
+  {
+    id: 2704
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Six12
+    item_name: アイコン：孤独な戦い
+    introduction: アイコン：孤独な戦い
     rank: 1
   }
   {
@@ -18106,6 +18223,15 @@
     code: gift_bundle_BattlePass_STG44
     item_name: 山野の足跡
     introduction: 指揮官、出発しましょうか？山道は少し荒れているかもしれませんが、どうぞご安心を……わたくしが一番歩きやすいルートをご案内しますわ。
+    rank: 1
+  }
+  {
+    id: 30032
+    type: 1
+    arg: "30032"
+    code: gift_bundle_BattlePass_Six12
+    item_name: ダークブルーの果て
+    introduction: 高い場所からこの街を見下ろしながら、私がこの街を守るって誓ったんです……未来の海もきっと、こんなふうに美しいのでしょうね。
     rank: 1
   }
   {
@@ -20136,6 +20262,43 @@
     arg: "100271"
     code: coremask2_202505RocheLimit
     item_name: 蝕心の仮面・遡源残響
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100280
+    type: 4
+    arg: "100280"
+    code: Nova_medal_black
+    item_name: 新星勲章・仮想粒子対
+    introduction: 新星勲章・仮想粒子対
+    rank: 1
+  }
+  {
+    id: 100281
+    type: 4
+    arg: "100281"
+    code: Platinum_medal_black
+    item_name: 白金勲章・仮想粒子対
+    introduction: 白金勲章・仮想粒子対
+    rank: 1
+  }
+  {
+    id: 100282
+    type: 9
+    arg: "100282"
+    code: Coin_202507VirtualPair​
+    item_name: 対消滅の輪
+    introduction: 孤独な粒子は互いに引き合い、融合を決意した瞬間、破滅の幕開けとなる。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100283
+    type: 4
+    arg: "100283"
+    code: coremask2_202507VirtualPair​
+    item_name: 蝕心の仮面・仮想粒子対
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
   }
@@ -22974,6 +23137,26 @@
     detail_introduction: item-30140062
   }
   {
+    id: 140063
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140063
+    introduction: item-20140063
+    rank: 1
+    detail_introduction: item-30140063
+  }
+  {
+    id: 140064
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140064
+    introduction: item-20140064
+    rank: 1
+    detail_introduction: item-30140064
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23473,6 +23656,15 @@
     code: profileFrame_BattlePass_STG44
     item_name: アイコンフレーム：秋の影
     introduction: アイコンフレーム：秋の影
+    rank: 1
+  }
+  {
+    id: 200057
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Six12
+    item_name: アイコンフレーム：奇観の摩天楼
+    introduction: アイコンフレーム：奇観の摩天楼
     rank: 1
   }
   {
@@ -25941,6 +26133,50 @@
     type_sort: 1
   }
   {
+    id: 1500263
+    type: 15
+    arg: "1500263"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-失夢都市で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500264
+    type: 15
+    arg: "1500264"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-失夢都市で獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500265
+    type: 15
+    arg: "1500265"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-失夢都市で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500266
+    type: 15
+    arg: "1500266"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-失夢都市で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -27413,6 +27649,54 @@
     code: Bumdle_ChildrenDayCoupons3
     item_name: 至高のスキン抽選券·子どもの日
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500059
+    type: 15
+    arg: "9500059"
+    code: Bumdle_invocation_3
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500060
+    type: 15
+    arg: "9500060"
+    code: Bumdle_invocation_2
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500061
+    type: 15
+    arg: "9500061"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500062
+    type: 15
+    arg: "9500062"
+    code: Bumdle_equipment
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
     type_sort: 1

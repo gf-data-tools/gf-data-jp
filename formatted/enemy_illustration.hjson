@@ -5475,7 +5475,7 @@
     sub_name: エンブラ
     type: 1
     code: RPK16Reborn
-    introduce: パラデウスの技術により、素体の改造を受けたRPK-16。まだ未完成の状態とはいえ、火力はすでに大幅に強化されている。パラデウスのスキルも一部使用できるようだが、メンタルに対する影響は未知数のようだ。
+    introduce: パラデウスによる改造を受けたRPK-16。改造自体はまだ途中の状態ではあるが、以前と比べて火力が大幅に強化されており、パラデウス特有の技術も一部搭載されている。改造によるRPK-16本来のメンタルに対する影響は、まだ未知数である。
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -5529,7 +5529,7 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 装甲を持ち、攻撃間隔は短め。火力が高めであるため、優先して処理するとよい。
+    counter: 装甲ユニット。攻撃間隔が短く、火力も高い。RF人形での対処を推奨する。
     character: "1003,309"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
@@ -5573,10 +5573,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 3
-    counter: 一般的な装甲を持つため、味方の破甲能力を高め、前列の人形の防御力に気を配ろう。また、強力な砲撃を行うため、ロックされた場合は素早く人形を移動させ、周りに被害が及ばないようにしよう。
+    counter: ほどほどの装甲を持つため、部隊の破甲能力及び前衛の防御能力に注意しましょう。また、他のユニットを範囲攻撃に巻き込まないように、砲撃対象としてロックされたユニットを適宜移動させましょう。
     character: "1001,1003,302,309,317,316"
     enemy_skill: "52,53"
-    launch_time: 2035-5-20 00:00:00
+    launch_time: 2016-5-20 00:00:00
     spine_scale: "40,40,1"
   }
   {
@@ -5779,6 +5779,8 @@
   {
     sub_id: 249001
     id: 249
+    name: 自律人形-ブレン・テン
+    sub_name: 自律人形-ブレン・テン
     type: 3
     code: BrenTen_enemy
     introduce: 予想外のエネミー
@@ -5797,6 +5799,8 @@
   {
     sub_id: 250001
     id: 250
+    name: 自律人形-FNP-9
+    sub_name: 自律人形-FNP-9
     type: 3
     code: FNP9_enemy
     introduce: 予想外のエネミー
@@ -5815,6 +5819,8 @@
   {
     sub_id: 251001
     id: 251
+    name: 自律人形-IDW
+    sub_name: 自律人形-IDW
     type: 3
     code: IDW_enemy
     introduce: 予想外のエネミー
@@ -5833,6 +5839,8 @@
   {
     sub_id: 252001
     id: 252
+    name: 自律人形-スペクトラM4
+    sub_name: 自律人形-スペクトラM4
     type: 3
     code: SpectreM4_enemy
     introduce: 予想外のエネミー
@@ -5851,6 +5859,8 @@
   {
     sub_id: 253001
     id: 253
+    name: 自律人形-63式
+    sub_name: 自律人形-63式
     type: 3
     code: 63type_enemy
     introduce: 予想外のエネミー
@@ -5869,6 +5879,8 @@
   {
     sub_id: 254001
     id: 254
+    name: 自律人形-L85A1
+    sub_name: 自律人形-L85A1
     type: 3
     code: L85A1_enemy
     introduce: 予想外のエネミー
@@ -5881,6 +5893,27 @@
     range_rank: 5
     counter: 正体不明,慎重に対処を！
     character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 255001
+    id: 255
+    name: ウィリアム
+    sub_name: ウィリアム
+    type: 1
+    code: BossWilliam
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 正体不明,慎重に対処を！
+    character: "1004"
     launch_time: 2035-12-31 00:00:00
     spine_scale: "70,70,1"
   }
@@ -5950,6 +5983,8 @@
   {
     sub_id: 100012001
     id: 100012
+    name: フミゲイター
+    sub_name: フミゲイター
     type: 3
     code: BH2_Shield
     introduce: 予想外のエネミー
@@ -5963,12 +5998,14 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1004"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
     is_additional: 1
   }
   {
     sub_id: 100013001
     id: 100013
+    name: スイーパー
+    sub_name: スイーパー
     type: 3
     code: BH2_Normal
     introduce: 予想外のエネミー
@@ -5982,12 +6019,14 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1004"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
     is_additional: 1
   }
   {
     sub_id: 100014001
     id: 100014
+    name: ランナー
+    sub_name: ランナー
     type: 3
     code: BH2_Archer
     introduce: 予想外のエネミー
@@ -6001,12 +6040,14 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1004"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
     is_additional: 1
   }
   {
     sub_id: 100015001
     id: 100015
+    name: ガード
+    sub_name: ガード
     type: 3
     code: BH2_Burst
     introduce: 予想外のエネミー
@@ -6020,12 +6061,14 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1004"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
     is_additional: 1
   }
   {
     sub_id: 100016001
     id: 100016
+    name: エンフォーサー
+    sub_name: エンフォーサー
     type: 1
     code: SeeleVollerei
     introduce: 予想外のエネミー
@@ -6039,12 +6082,14 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1004"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
     is_additional: 1
   }
   {
     sub_id: 100017001
     id: 100017
+    name: ライフルマン
+    sub_name: ライフルマン
     type: 1
     code: TheresaApocalypse
     introduce: 予想外のエネミー
@@ -6058,7 +6103,7 @@
     range_rank: 5
     counter: 能力はバランス型。部隊全体の作戦能力を上げて対応しよう。
     character: "1004"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
     is_additional: 1
   }
   {

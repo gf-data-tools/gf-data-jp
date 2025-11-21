@@ -3010,7 +3010,7 @@
   {
     id: 10116
     type: 2
-    name: enemy_character_type-20010116
+    name: ゴリアテ
     enemy_info: 歌莉娅-射程加大
     code: Golyat
     maxlife: 15000
@@ -3023,12 +3023,11 @@
     rate: 150
     def: 99999
     level: 100
-    character: enemy_character_type-10010116
+    character: エリート,脅威,自爆,致命
     normal_attack: 900107
     passive_skill: "310325,119020,770044"
     effect_ratio: 0.25
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010116
     enemy_illustration_id: 31
     danger: 60
     enemy_illustration_sub_id: 31001
@@ -3036,7 +3035,7 @@
   {
     id: 10117
     type: 2
-    name: enemy_character_type-20010117
+    name: ゴリアテplus
     enemy_info: 红色自爆怪-射程加大
     code: GolyatPlus
     maxlife: 150000
@@ -3049,12 +3048,11 @@
     rate: 150
     def: 99999
     level: 100
-    character: enemy_character_type-10010117
+    character: エリート,脅威,自爆,致命
     normal_attack: 900107
     passive_skill: "310325,119020,770044"
     effect_ratio: 0.25
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010117
     enemy_illustration_id: 32
     danger: 60
     enemy_illustration_sub_id: 32001
@@ -8047,7 +8045,7 @@
   {
     id: 13331
     type: 3
-    name: enemy_character_type-20013331
+    name: 自律人形-ブレン・テン
     enemy_info: 自律人形-布伦·坦
     code: BrenTen_enemy
     maxlife: 1260
@@ -8061,19 +8059,18 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013331
+    character: グリフィン
     normal_attack: 902266
     passive_skill: "902265,902267,902268,200304"
     effect_ratio: 1.2
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013331
     enemy_illustration_id: 249
     enemy_illustration_sub_id: 249001
   }
   {
     id: 13332
     type: 3
-    name: enemy_character_type-20013332
+    name: 自律人形-FNP-9
     enemy_info: 自律人形-FNP-9
     code: FNP9_enemy
     maxlife: 1260
@@ -8087,19 +8084,18 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013332
+    character: グリフィン
     normal_attack: 902266
     passive_skill: "902265,902267,902268,200304"
     effect_ratio: 1.2
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013332
     enemy_illustration_id: 250
     enemy_illustration_sub_id: 250001
   }
   {
     id: 13333
     type: 3
-    name: enemy_character_type-20013333
+    name: 自律人形-IDW
     enemy_info: 自律人形-IDW
     code: IDW_enemy
     maxlife: 1320
@@ -8113,19 +8109,18 @@
     rate: 60
     def: 99999
     level: 30100
-    character: enemy_character_type-10013333
+    character: グリフィン
     normal_attack: 755155
     passive_skill: "200304"
     effect_ratio: 1.4
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013333
     enemy_illustration_id: 251
     enemy_illustration_sub_id: 251001
   }
   {
     id: 13334
     type: 3
-    name: enemy_character_type-20013334
+    name: 自律人形-スペクトラM4
     enemy_info: 自律人形-幽灵M4
     code: SpectreM4_enemy
     maxlife: 1320
@@ -8139,19 +8134,18 @@
     rate: 60
     def: 99999
     level: 30100
-    character: enemy_character_type-10013334
+    character: グリフィン
     normal_attack: 755155
     passive_skill: "200304"
     effect_ratio: 1.4
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013334
     enemy_illustration_id: 252
     enemy_illustration_sub_id: 252001
   }
   {
     id: 13335
     type: 3
-    name: enemy_character_type-20013335
+    name: 自律人形-63式
     enemy_info: 自律人形-63式
     code: 63type_enemy
     maxlife: 1140
@@ -8165,19 +8159,18 @@
     rate: 28
     def: 99999
     level: 30100
-    character: enemy_character_type-10013335
+    character: グリフィン
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013335
     enemy_illustration_id: 253
     enemy_illustration_sub_id: 253001
   }
   {
     id: 13336
     type: 3
-    name: enemy_character_type-20013336
+    name: 自律人形-L85A1
     enemy_info: 自律人形-L85A1
     code: L85A1_enemy
     maxlife: 1140
@@ -8191,19 +8184,18 @@
     rate: 28
     def: 99999
     level: 30100
-    character: enemy_character_type-10013336
+    character: グリフィン
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013336
     enemy_illustration_id: 254
     enemy_illustration_sub_id: 254001
   }
   {
     id: 13337
     type: 3
-    name: enemy_character_type-20013337
+    name: 指揮官
     enemy_info: 指挥官
     code: CommanderSelf
     maxlife: 1260
@@ -8217,17 +8209,16 @@
     rate: 30
     def: 99999
     level: 30100
-    character: enemy_character_type-10013337
+    character: グリフィン
     normal_attack: 902266
     passive_skill: "902265,902267,902268,200304"
     effect_ratio: 1.2
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013337
   }
   {
     id: 13338
     type: 3
-    name: enemy_character_type-20013338
+    name: 防衛軍-AR
     enemy_info: 卫戍军-AR
     code: Soldier_Deutsch_AR
     maxlife: 1140
@@ -8241,12 +8232,11 @@
     rate: 28
     def: 1500
     level: 30100
-    character: enemy_character_type-10013338
+    character: エリート
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013338
     enemy_illustration_id: 240
     danger: 20
     enemy_illustration_sub_id: 240001
@@ -8254,7 +8244,7 @@
   {
     id: 13339
     type: 5
-    name: enemy_character_type-20013339
+    name: 防衛軍-SG
     enemy_info: 卫戍军-SG
     code: Soldier_Deutsch_SG
     maxlife: 1320
@@ -8269,12 +8259,11 @@
     rate: 18
     def: 1500
     level: 30100
-    character: enemy_character_type-10013339
+    character: エリート,装甲,散射
     normal_attack: 301106
     passive_skill: "770043"
     effect_ratio: 1.17
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013339
     enemy_illustration_id: 241
     danger: 20
     enemy_illustration_sub_id: 241001
@@ -8282,7 +8271,7 @@
   {
     id: 13340
     type: 3
-    name: enemy_character_type-20013340
+    name: 防衛軍-RF
     enemy_info: 卫戍军-RF
     code: Soldier_Deutsch_RF
     maxlife: 600
@@ -8297,12 +8286,11 @@
     rate: 18
     def: 1500
     level: 30100
-    character: enemy_character_type-10013340
+    character: エリート,精確
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013340
     enemy_illustration_id: 242
     danger: 20
     enemy_illustration_sub_id: 242001
@@ -8310,7 +8298,7 @@
   {
     id: 13341
     type: 3
-    name: enemy_character_type-20013341
+    name: 防衛軍-MG
     enemy_info: 卫戍军-MG
     code: Soldier_Deutsch_MG
     maxlife: 650
@@ -8325,12 +8313,11 @@
     rate: 100
     def: 1500
     level: 100
-    character: enemy_character_type-10013341
+    character: エリート,連射,破甲
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013341
     enemy_illustration_id: 243
     danger: 20
     enemy_illustration_sub_id: 243001
@@ -8338,7 +8325,7 @@
   {
     id: 13342
     type: 3
-    name: enemy_character_type-20013342
+    name: 「偽物」
     enemy_info: 玛赫莲赝品
     code: assassin_M
     maxlife: 100000
@@ -8353,16 +8340,129 @@
     rate: 100
     def: 99999
     level: 100
-    character: enemy_character_type-10013342
+    character: エリート,専門家
     normal_attack: 300316
     passive_skill: "770042"
     effect_ratio: 1
     unable_buff_type: "221"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30013342
     enemy_illustration_id: 256
     danger: 40
     enemy_illustration_sub_id: 256001
+  }
+  {
+    id: 13343
+    type: 3
+    name: ロデレロ
+    enemy_info: 剑盾士
+    code: Rodelero
+    maxlife: 8000
+    pow: 50
+    hit: 40
+    dodge: 20
+    range: 7
+    speed: 35
+    number: 1
+    angle: 180
+    armor: 90
+    rate: 15
+    def: 300
+    level: 100
+    character: 装甲,偏向障壁,貫通
+    normal_attack: 404002
+    passive_skill: "200303,200304,770042"
+    effect_ratio: 1.04
+    unable_buff_type: "221"
+    able_buff_id: "133,135,136,137,3918,8034,8747,6347"
+    deployment_scale: 1
+    enemy_illustration_id: 47
+    danger: 30
+    enemy_illustration_sub_id: 47002
+  }
+  {
+    id: 13344
+    type: 4
+    name: パトローラ
+    enemy_info: 巨像-新
+    code: Thunder_New
+    maxlife: 55000
+    pow: 90
+    hit: 180
+    dodge: 50
+    range: 9
+    speed: 30
+    number: 1
+    angle: 180
+    armor: 130
+    rate: 80
+    def: 5000
+    level: 30100
+    character: エリート,大型,装甲,シールド,徹甲
+    normal_attack: 403503
+    passive_skill: "200303,403501,403502,755000,740089,770042"
+    effect_ratio: 2.19
+    unable_buff_type: "221"
+    able_buff_id: "133,135,136,137,3918,8034,8747,6347"
+    deployment_scale: 1
+    enemy_illustration_id: 119
+    danger: 40
+    enemy_illustration_sub_id: 119002
+  }
+  {
+    id: 13345
+    type: 3
+    name: ガンナー
+    enemy_info: 加强白色兵-新
+    code: Soldier_New
+    maxlife: 1950
+    pow: 70
+    hit: 72
+    dodge: 50
+    range: 7
+    speed: 25
+    number: 1
+    angle: 180
+    armor: 60
+    rate: 40
+    def: 1500
+    level: 30100
+    character: 脅威,偏向障壁,弱化
+    normal_attack: 300313
+    passive_skill: "200304,119019,770042"
+    effect_ratio: 0.8
+    deployment_scale: 1
+    enemy_illustration_id: 120
+    danger: 50
+    enemy_illustration_sub_id: 120002
+  }
+  {
+    id: 13346
+    type: 3
+    name: ドッペルゾルドナー
+    enemy_info: 高达19夏活加强版
+    code: Doppelsoldner
+    maxlife: 15000
+    pow: 12
+    hit: 36
+    dodge: 10
+    range: 8
+    speed: 20
+    number: 1
+    angle: 180
+    armor: 150
+    rate: 30
+    def: 2250
+    level: 100
+    character: 脅威,大型,装甲,偏向障壁,範囲ダメージ
+    normal_attack: 404001
+    passive_skill: "200303,404024,200304,119019,740089,770042"
+    effect_ratio: 1.38
+    unable_buff_type: "221"
+    able_buff_id: "133,135,136,137,3918,8034,8747,6347"
+    deployment_scale: 0.8
+    enemy_illustration_id: 48
+    danger: 50
+    enemy_illustration_sub_id: 48002
   }
   {
     id: 14001
@@ -9044,6 +9144,84 @@
     enemy_illustration_id: 165
     danger: 50
     enemy_illustration_sub_id: 165001
+  }
+  {
+    id: 14235
+    type: 3
+    name: ネイト(?)
+    enemy_info: 涅托-零态潮汐
+    code: Nyto_black
+    maxlife: 1600
+    pow: 22
+    hit: 40
+    dodge: 12
+    range: 16
+    speed: 30
+    number: 1
+    angle: 180
+    armor_piercing: 10
+    rate: 40
+    def: 3000
+    level: 100
+    character: エリート,「ネイト」,装甲,偏向障壁
+    normal_attack: 900107
+    passive_skill: "900452,119029,407302,755000,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+  }
+  {
+    id: 14236
+    type: 3
+    name: 失格異性体(?)
+    enemy_info: 失格异构体-零态潮汐
+    code: Nyto_Isomer_White
+    maxlife: 48000
+    pow: 26
+    hit: 26
+    dodge: 26
+    range: 15
+    speed: 50
+    number: 1
+    angle: 180
+    armor_piercing: 10
+    armor: 10
+    rate: 40
+    def: 3000
+    level: 100
+    character: エリート,装甲,失格異性体
+    normal_attack: 404801
+    passive_skill: "404802,404803,404848,404849,404850,404908,404910,404911,404912,404913,404914,404847,404901,119029,770042"
+    effect_ratio: 0.71
+    unable_buff_type: "221"
+    voice: "1,2"
+    deployment_scale: 1
+  }
+  {
+    id: 14237
+    type: 3
+    name: M4A1(?)
+    enemy_info: M4A1-零态潮汐
+    code: M4A1_Boss
+    maxlife: 100000
+    pow: 36
+    hit: 42
+    dodge: 15
+    range: 15
+    speed: 30
+    number: 1
+    angle: 180
+    armor_piercing: 10
+    armor: 10
+    rate: 40
+    def: 99999
+    level: 100
+    normal_attack: 404703
+    passive_skill: "404701,404702,404704,404705,404706,404707,404730,404732,119029"
+    effect_ratio: 0.51
+    unable_buff_type: "221"
+    voice: "1,2,3"
+    deployment_scale: 1
   }
   {
     id: 15001
@@ -25968,7 +26146,7 @@
   {
     id: 900868
     type: 1
-    name: enemy_character_type-20900868
+    name: エリザ
     enemy_info: 伊莱莎-60级
     code: Eliza_boss
     maxlife: 15000
@@ -25984,13 +26162,12 @@
     boss_hp: 15000
     def: 99999
     level: 100
-    character: enemy_character_type-10900868
+    character: エリート,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029,770044"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900868
     enemy_illustration_id: 81
     danger: 1000
     enemy_illustration_sub_id: 81002
@@ -25998,7 +26175,7 @@
   {
     id: 900869
     type: 1
-    name: enemy_character_type-20900869
+    name: エリザ
     enemy_info: 伊莱莎-80级
     code: Eliza_boss
     maxlife: 50000
@@ -26014,13 +26191,12 @@
     boss_hp: 50000
     def: 99999
     level: 100
-    character: enemy_character_type-10900869
+    character: エリート,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029,770044"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900869
     enemy_illustration_id: 81
     danger: 1000
     enemy_illustration_sub_id: 81002
@@ -26028,7 +26204,7 @@
   {
     id: 900870
     type: 1
-    name: enemy_character_type-20900870
+    name: エリザ
     enemy_info: 伊莱莎-105级
     code: Eliza_boss
     maxlife: 140000
@@ -26044,13 +26220,12 @@
     boss_hp: 140000
     def: 99999
     level: 100
-    character: enemy_character_type-10900870
+    character: エリート,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029,770044"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900870
     enemy_illustration_id: 81
     danger: 1000
     enemy_illustration_sub_id: 81002
@@ -26058,7 +26233,7 @@
   {
     id: 900871
     type: 1
-    name: enemy_character_type-20900871
+    name: Gray
     enemy_info: 格雷-75级
     code: Mrsgray
     maxlife: 32000
@@ -26073,13 +26248,12 @@
     boss_hp: 32000
     def: 600
     level: 100
-    character: enemy_character_type-10900871
+    character: エリート,弱化,侵入,支援
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900871
     enemy_illustration_id: 110
     danger: 1000
     enemy_illustration_sub_id: 110001
@@ -26087,7 +26261,7 @@
   {
     id: 900872
     type: 1
-    name: enemy_character_type-20900872
+    name: Gray
     enemy_info: 格雷-100级
     code: Mrsgray
     maxlife: 140000
@@ -26102,13 +26276,12 @@
     boss_hp: 140000
     def: 1500
     level: 100
-    character: enemy_character_type-10900872
+    character: エリート,弱化,侵入,支援
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900872
     enemy_illustration_id: 110
     danger: 1000
     enemy_illustration_sub_id: 110001
@@ -26116,7 +26289,7 @@
   {
     id: 900873
     type: 1
-    name: enemy_character_type-20900873
+    name: Gray
     enemy_info: 格雷-115级
     code: Mrsgray
     maxlife: 260000
@@ -26131,13 +26304,12 @@
     boss_hp: 260000
     def: 4000
     level: 100
-    character: enemy_character_type-10900873
+    character: エリート,弱化,侵入,支援
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900873
     enemy_illustration_id: 110
     danger: 1000
     enemy_illustration_sub_id: 110001
@@ -26145,7 +26317,7 @@
   {
     id: 900874
     type: 1
-    name: enemy_character_type-20900874
+    name: ブラメド
     enemy_info: 布拉梅德-100级
     code: Bramede
     maxlife: 25000
@@ -26161,14 +26333,13 @@
     boss_hp: 25000
     def: 2000
     level: 100
-    character: enemy_character_type-10900874
+    character: エリート,召喚者,窃取
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302,770042"
     effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900874
     enemy_illustration_id: 139
     danger: 1000
     enemy_illustration_sub_id: 139001
@@ -26176,7 +26347,7 @@
   {
     id: 900875
     type: 1
-    name: enemy_character_type-20900875
+    name: モリドー
     enemy_info: 默莉朵-100级
     code: morridow_boss
     maxlife: 100000
@@ -26192,13 +26363,12 @@
     boss_hp: 100000
     def: 6000
     level: 100
-    character: enemy_character_type-10900875
+    character: エリート,弱化,必殺,召喚者
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407401,407407,407408,407409,407410,407411,119029,407302,119029,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900875
     enemy_illustration_id: 154
     danger: 1000
     enemy_illustration_sub_id: 154001
@@ -26206,7 +26376,7 @@
   {
     id: 900876
     type: 1
-    name: enemy_character_type-20900876
+    name: ヘーベ
     enemy_info: 赫柏-100级
     code: HebeBoss
     maxlife: 165000
@@ -26221,13 +26391,12 @@
     boss_hp: 165000
     def: 2000
     level: 100
-    character: enemy_character_type-10900876
+    character: エリート,必殺,義体
     normal_attack: 450054
     passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900876
     enemy_illustration_id: 247
     danger: 1000
     enemy_illustration_sub_id: 247001
@@ -26235,7 +26404,7 @@
   {
     id: 900877
     type: 1
-    name: enemy_character_type-20900877
+    name: ステュクス
     enemy_info: 斯提克斯-100级
     code: StyxBoss
     maxlife: 180000
@@ -26247,16 +26416,15 @@
     number: 1
     angle: 180
     rate: 60
-    boss_hp: 320000
+    boss_hp: 180000
     def: 2200
     level: 100
-    character: enemy_character_type-10900877
+    character: エリート
     normal_attack: 450090
     passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900877
     enemy_illustration_id: 248
     danger: 1000
     enemy_illustration_sub_id: 248001
@@ -26264,7 +26432,7 @@
   {
     id: 900878
     type: 1
-    name: enemy_character_type-20900878
+    name: ウィリアム
     enemy_info: 威廉【演出关】
     code: BossWilliam
     maxlife: 1000000
@@ -26278,15 +26446,779 @@
     boss_hp: 1000000
     def: 99999
     level: 100
-    character: enemy_character_type-10900878
+    character: ？？？
     normal_attack: 450102
     passive_skill: "450103,450105,450106,450108,450109,450110,450112,450113,450114,450116,450118,450119,450120"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900878
     enemy_illustration_id: 255
     danger: 1000
     enemy_illustration_sub_id: 255001
+  }
+  {
+    id: 900879
+    type: 1
+    name: ゲベンヌ
+    enemy_info: 鹗视虎
+    code: Gebbennu
+    maxlife: 1000000
+    pow: 300
+    hit: 30
+    range: 20
+    speed: 45
+    number: 1
+    angle: 180
+    armor: 150
+    rate: 20
+    boss_hp: 1000000
+    def: 10000
+    level: 100
+    character: エリート,装甲
+    normal_attack: 450401
+    passive_skill: "450402,450403,450404,450405,450406,450413,450414,450415,450416,450417,450418,119029,770042,450419,450421"
+    effect_ratio: 1
+    unable_buff_type: "221,110,402"
+    able_buff_id: "2638,2654"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 100001
+    danger: 1000
+    enemy_illustration_sub_id: 100001002
+  }
+  {
+    id: 900880
+    type: 1
+    name: ウィリアム
+    enemy_info: 威廉
+    code: BossWilliam
+    maxlife: 1000
+    pow: 1
+    hit: 1
+    dodge: 1
+    range: 99
+    speed: 10
+    number: 1
+    rate: 100
+    boss_hp: 1000
+    def: 10000
+    level: 100
+    character: ？？？
+    normal_attack: 450501
+    passive_skill: "450502,450504,450507,450510,450512,450513,450514,450515,119029,770042,450518,450519"
+    effect_ratio: 1
+    unable_buff_type: "221"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 255
+    danger: 1000
+    enemy_illustration_sub_id: 255002
+  }
+  {
+    id: 900881
+    type: 1
+    name: グリク
+    enemy_info: 缇
+    code: Teal
+    maxlife: 1000000
+    pow: 150
+    hit: 350
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 30
+    rate: 40
+    boss_hp: 1000000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900882
+    type: 1
+    name: ラプラスの悪魔
+    enemy_info: 拉普拉斯妖
+    code: LaplaceBoss
+    maxlife: 200000
+    pow: 30
+    hit: 50
+    dodge: 10
+    range: 20
+    speed: 30
+    number: 1
+    angle: 180
+    armor_piercing: 20
+    armor: 90
+    rate: 40
+    boss_hp: 200000
+    def: 10000
+    level: 100
+    character: エリート,？？？,EMP耐性
+    normal_attack: 450001
+    passive_skill: "450002,450003,450004,450005,450006,450007,450014,450015,450016,450017,450018,450019,450020,450021,450022,450023,450024,450025,119029,450026,450027,450028,450029,450030,450031,450032,450033,450712,450713,450714"
+    effect_ratio: 1
+    unable_buff_type: "221"
+    voice: "1,2"
+    deployment_scale: 1
+    enemy_illustration_id: 233
+    danger: 1000
+    enemy_illustration_sub_id: 233001
+  }
+  {
+    id: 900883
+    type: 1
+    name: モリドー
+    enemy_info: 默莉朵
+    code: morridow_boss
+    maxlife: 300000
+    pow: 50
+    hit: 90
+    dodge: 120
+    range: 100
+    speed: 50
+    number: 1
+    angle: 180
+    armor: 90
+    rate: 40
+    boss_hp: 300000
+    def: 10000
+    level: 100
+    character: エリート,弱化,必殺,召喚者
+    normal_attack: 900107
+    passive_skill: "902325,902326,902327,902328,902329,902330,119029,407401,407407,407408,407409,407410,407411,119029,407302,770042"
+    effect_ratio: 1
+    unable_buff_type: "221"
+    deployment_scale: 1
+    enemy_illustration_id: 154
+    danger: 1000
+    enemy_illustration_sub_id: 154001
+  }
+  {
+    id: 900884
+    type: 1
+    name: エンブラ
+    enemy_info: 恩布拉
+    code: RPK16Reborn
+    maxlife: 320000
+    pow: 65
+    hit: 180
+    dodge: 120
+    range: 9
+    speed: 30
+    number: 1
+    angle: 180
+    armor_piercing: 50
+    rate: 50
+    boss_hp: 320000
+    def: 10000
+    level: 100
+    character: エリート,指揮,召喚者
+    normal_attack: 450049
+    passive_skill: "450034,450035,450036,450037,450038,450040,450041,450042,450043,450044,450045,450046,450047,770042,119029"
+    effect_ratio: 1
+    unable_buff_type: "221"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 235
+    danger: 1000
+    enemy_illustration_sub_id: 235001
+  }
+  {
+    id: 900885
+    type: 1
+    name: Gray
+    enemy_info: 格雷
+    code: Mrsgray
+    maxlife: 300000
+    pow: 60
+    hit: 80
+    dodge: 50
+    range: 9
+    speed: 30
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 300000
+    def: 10000
+    level: 100
+    character: エリート,弱化,侵入,支援
+    normal_attack: 900107
+    passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
+    effect_ratio: 1
+    unable_buff_type: "221"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 110
+    danger: 1000
+    enemy_illustration_sub_id: 110001
+  }
+  {
+    id: 900886
+    type: 1
+    name: ブラメド
+    enemy_info: 布拉梅德
+    code: Bramede
+    maxlife: 220000
+    pow: 75
+    hit: 100
+    dodge: 110
+    range: 12
+    speed: 30
+    number: 1
+    angle: 180
+    armor_piercing: 30
+    rate: 20
+    boss_hp: 220000
+    def: 10000
+    level: 100
+    character: エリート,召喚者,窃取
+    normal_attack: 117701
+    passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302,770042,450100"
+    effect_ratio: 1
+    unable_buff_type: "104,221"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 139
+    danger: 1000
+    enemy_illustration_sub_id: 139001
+  }
+  {
+    id: 900887
+    type: 1
+    name: ステュクス
+    enemy_info: 斯提克斯
+    code: StyxBoss
+    maxlife: 560000
+    pow: 150
+    hit: 300
+    dodge: 120
+    range: 5
+    speed: 45
+    number: 1
+    angle: 180
+    rate: 60
+    boss_hp: 560000
+    def: 10000
+    level: 100
+    character: エリート
+    normal_attack: 450090
+    passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042"
+    effect_ratio: 1.1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 248
+    danger: 1000
+    enemy_illustration_sub_id: 248001
+  }
+  {
+    id: 900888
+    type: 1
+    name: ヘーベ
+    enemy_info: 赫柏
+    code: HebeBoss
+    maxlife: 450000
+    pow: 80
+    hit: 150
+    dodge: 250
+    range: 3
+    speed: 30
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 450000
+    def: 10000
+    level: 100
+    character: エリート,必殺,義体
+    normal_attack: 450054
+    passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 247
+    danger: 1000
+    enemy_illustration_sub_id: 247001
+  }
+  {
+    id: 900889
+    type: 1
+    name: ネムラン
+    enemy_info: 尼梅兰
+    code: Nimeylan
+    maxlife: 420000
+    pow: 58
+    hit: 250
+    dodge: 180
+    range: 20
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 50
+    rate: 60
+    boss_hp: 420000
+    def: 10000
+    level: 100
+    character: エリート
+    normal_attack: 755167
+    passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,119029,407302,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 155
+    danger: 1000
+    enemy_illustration_sub_id: 155002
+  }
+  {
+    id: 900890
+    type: 1
+    name: ラプラスの悪魔
+    enemy_info: 拉普拉斯妖
+    code: LaplaceBoss
+    maxlife: 240000
+    pow: 42
+    hit: 60
+    dodge: 15
+    range: 20
+    speed: 30
+    number: 1
+    angle: 180
+    armor_piercing: 20
+    armor: 120
+    rate: 40
+    boss_hp: 240000
+    def: 6000
+    level: 100
+    character: エリート,？？？,EMP耐性
+    normal_attack: 450001
+    passive_skill: "450002,450003,450004,450005,450006,450007,450014,450015,450016,450017,450018,450019,450020,450021,450022,450023,450024,450025,119029,450026,450027,450028,450029,450030,450031,450032,450033,450712,450713,450714"
+    effect_ratio: 0.8
+    unable_buff_type: "221"
+    voice: "1,2"
+    deployment_scale: 1
+    enemy_illustration_id: 233
+    danger: 1000
+    enemy_illustration_sub_id: 233001
+  }
+  {
+    id: 900894
+    type: 1
+    name: グリク
+    enemy_info: 捕获Boss
+    code: Teal
+    maxlife: 80000
+    pow: 32
+    hit: 20
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 50
+    rate: 40
+    boss_hp: 80000
+    def: 400
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 755065
+    passive_skill: "119029,407302,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138001
+  }
+  {
+    id: 900895
+    type: 1
+    name: グリク
+    enemy_info: 缇-50级
+    code: Teal
+    maxlife: 700000
+    pow: 40
+    hit: 200
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 700000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900896
+    type: 1
+    name: グリク
+    enemy_info: 缇-100级
+    code: Teal
+    maxlife: 800000
+    pow: 90
+    hit: 280
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 10
+    rate: 40
+    boss_hp: 800000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900897
+    type: 1
+    name: グリク
+    enemy_info: 缇-115级
+    code: Teal
+    maxlife: 1000000
+    pow: 150
+    hit: 350
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 30
+    rate: 40
+    boss_hp: 1000000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900898
+    type: 1
+    name: グリク
+    enemy_info: 缇-80级
+    code: Teal
+    maxlife: 750000
+    pow: 50
+    hit: 240
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 750000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900899
+    type: 1
+    name: グリク
+    enemy_info: 缇-110级
+    code: Teal
+    maxlife: 900000
+    pow: 100
+    hit: 300
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 10
+    rate: 40
+    boss_hp: 900000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900900
+    type: 1
+    name: グリク
+    enemy_info: 缇-125级
+    code: Teal
+    maxlife: 1000000
+    pow: 150
+    hit: 350
+    dodge: 30
+    range: 4
+    speed: 100
+    number: 1
+    angle: 180
+    armor_piercing: 30
+    rate: 40
+    boss_hp: 1000000
+    def: 10000
+    level: 100
+    character: エリート,「ネイト」,アサシン
+    normal_attack: 450601
+    passive_skill: "450602,450605,450608,450609,450611,450612,450613,450614,450615,450616,450617,119029,407302,770042,450618,450619,450621,450622"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 138
+    danger: 1000
+    enemy_illustration_sub_id: 138002
+  }
+  {
+    id: 900901
+    type: 1
+    name: ルニシア
+    enemy_info: 露尼西亚-90级
+    code: BossLunasia
+    maxlife: 9999999
+    pow: 200
+    hit: 200
+    dodge: 50
+    range: 99
+    speed: 100
+    number: 1
+    armor_piercing: 50
+    rate: 25
+    boss_hp: 9999999
+    def: 10000
+    tenacity: 100
+    debuff_resistance: 100
+    level: 100
+    character: ？？？
+    normal_attack: 450801
+    passive_skill: "450802,450803,450804,450805,450809,450810,450811,450812,450813,450816,450817,450818,450822,450824,450826,450828,450829,450830,450831,450832,450833,450834,450835,450838,450841,450842,450843,450844"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 257
+    danger: 1000
+    enemy_illustration_sub_id: 257001
+  }
+  {
+    id: 900902
+    type: 1
+    name: ルニシア
+    enemy_info: 露尼西亚-110级
+    code: BossLunasia
+    maxlife: 9999999
+    pow: 280
+    hit: 280
+    dodge: 100
+    range: 99
+    speed: 100
+    number: 1
+    armor_piercing: 150
+    rate: 25
+    boss_hp: 9999999
+    def: 10000
+    tenacity: 100
+    debuff_resistance: 100
+    level: 100
+    character: ？？？
+    normal_attack: 450801
+    passive_skill: "450802,450803,450804,450805,450809,450810,450811,450812,450813,450816,450817,450818,450822,450824,450826,450828,450829,450830,450831,450832,450833,450834,450835,450838,450841,450842,450843,450844"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 257
+    danger: 1000
+    enemy_illustration_sub_id: 257001
+  }
+  {
+    id: 900903
+    type: 1
+    name: ルニシア
+    enemy_info: 露尼西亚-130级
+    code: BossLunasia
+    maxlife: 9999999
+    pow: 320
+    hit: 350
+    dodge: 160
+    range: 99
+    speed: 100
+    number: 1
+    armor_piercing: 300
+    rate: 25
+    boss_hp: 9999999
+    def: 10000
+    tenacity: 100
+    debuff_resistance: 100
+    level: 100
+    character: ？？？
+    normal_attack: 450801
+    passive_skill: "450802,450803,450804,450805,450809,450810,450811,450812,450813,450816,450817,450818,450822,450824,450826,450828,450829,450830,450831,450832,450833,450834,450835,450838,450841,450842,450843,450844"
+    effect_ratio: 1
+    unable_buff_type: "221,110"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 257
+    danger: 1000
+    enemy_illustration_sub_id: 257001
+  }
+  {
+    id: 900904
+    type: 3
+    name: ウィリアム
+    enemy_info: 威廉-断手版
+    code: BossWilliam_NoAam
+    maxlife: 1000
+    pow: 1
+    hit: 1
+    dodge: 1
+    range: 99
+    speed: 10
+    number: 1
+    rate: 100
+    boss_hp: 1000
+    def: 10000
+    level: 100
+    character: ？？？
+    normal_attack: 450840
+    passive_skill: "450827,450836,450837,450839"
+    effect_ratio: 1
+    unable_buff_type: "221"
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 255
+    danger: 1000
+    enemy_illustration_sub_id: 255003
+  }
+  {
+    id: 900905
+    type: 1
+    name: Gray
+    enemy_info: 格雷-50级
+    code: Mrsgray
+    maxlife: 40000
+    pow: 30
+    hit: 50
+    dodge: 18
+    range: 9
+    speed: 30
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 40000
+    def: 800
+    level: 100
+    character: エリート,弱化,侵入,支援
+    normal_attack: 900107
+    passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 110
+    danger: 1000
+    enemy_illustration_sub_id: 110001
+  }
+  {
+    id: 900906
+    type: 1
+    name: Gray
+    enemy_info: 格雷-90级
+    code: Mrsgray
+    maxlife: 120000
+    pow: 42
+    hit: 56
+    dodge: 25
+    range: 9
+    speed: 30
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 120000
+    def: 1500
+    level: 100
+    character: エリート,弱化,侵入,支援
+    normal_attack: 900107
+    passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 110
+    danger: 1000
+    enemy_illustration_sub_id: 110001
+  }
+  {
+    id: 900907
+    type: 1
+    name: Gray
+    enemy_info: 格雷-110级
+    code: Mrsgray
+    maxlife: 260000
+    pow: 52
+    hit: 60
+    dodge: 40
+    range: 9
+    speed: 30
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 260000
+    def: 4000
+    level: 100
+    character: エリート,弱化,侵入,支援
+    normal_attack: 900107
+    passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302,770042"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 110
+    danger: 1000
+    enemy_illustration_sub_id: 110001
   }
   {
     id: 910101
