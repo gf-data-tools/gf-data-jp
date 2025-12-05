@@ -433,4 +433,22 @@
     group_skill: 2:1005303
     fit_gun: "20037"
   }
+  {
+    id: 49
+    name: 断罪の審判
+    des: FP-6に合わせてカスタマイズされた装備一式。これでより多くの悪を裁くことができる。
+    code: EgroupFP6
+    equip_unit: "445,0,315"
+    group_skill: 2:1005403
+    fit_gun: "164"
+  }
+  {
+    id: 50
+    name: ガム風船の幻影
+    des: 80式に合わせてカスタマイズされた装備一式。暇つぶし中でも戦闘に備えている。
+    code: Egroup80type
+    equip_unit: "215,446,0"
+    group_skill: 2:1005503
+    fit_gun: "20199"
+  }
 ]

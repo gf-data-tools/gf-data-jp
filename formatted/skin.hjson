@@ -9634,6 +9634,79 @@
     skin_source: 2
   }
   {
+    id: 11101
+    name: 聖夜の鍵
+    fit_gun: 376
+    voice: 19
+    dialog: 昨夜、夢を見たの。キラキラしたプレゼント箱をもらったけど、開けた瞬間、それが消えちゃった……中身が悲しい気持ちになるようなプレゼントじゃないといいな。
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11102
+    name: 月華を見上げて
+    fit_gun: 128
+    voice: 19
+    dialog: 指揮官、見て見て！月にサンタさんの足跡がありますよ！え？望遠鏡のシミ……？そう……かもしれませんね！
+    illustrator_cv: 小星,大久保瑠美,
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11103
+    name: トナカイのお遣い
+    fit_gun: 28
+    voice: 19
+    dialog: あっ、飼育員、メリクリー。ちょうどツリーから飴玉を取って、みんなに配ろうとしてたけど――ほれ、飼育員が一番乗りだ。
+    gift_position: "-117.7,-85.9"
+    order: 146
+    class_id: 108
+    skin_source: 1
+  }
+  {
+    id: 11104
+    name: 星光、リボンに揺らいで
+    fit_gun: 401
+    voice: 19
+    dialog: 自分をリボンでくるくるして、プレゼントにするなんて……そんなの、敵を惑わすことに使った方がよくない？
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11105
+    name: 暖かい芳醇
+    fit_gun: 262
+    voice: 19
+    dialog: クリスマスパーティーの準備はまだのようなので、とりあえずワインを買ってきました。それからグランベリークッキーも……指揮官、気に入ってくれますか？
+    order: 146
+    class_id: 108
+  }
+  {
+    id: 11106
+    name: スノーベルが鳴る
+    fit_gun: 256
+    voice: 19
+    dialog: ジングルベ～ル♪ジングルベ～ル♪よしよし、みんなリズムにあっているよ！子羊ちゃんも見てないで、一緒に踊ろうよ！
+    illustrator_cv: 脆片,大空直美,
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11107
+    name: ウサギのスイートキッチン
+    fit_gun: 2
+    voice: 19
+    dialog: ダーリン♪実はこのケーキ、私がこっそり恋の魔法をかけたんだよ……なんて、嘘だよ！ダーリンが毎日幸せなら私は満足なの！
+    gift_position: "-105.7,46.8"
+    illustrator_cv: Alize,松井恵理子,
+    order: 146
+    class_id: 108
+  }
+  {
     id: 11201
     name: 椒花の彩典
     fit_gun: 366

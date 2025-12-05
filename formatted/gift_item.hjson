@@ -412,6 +412,20 @@
     sort: 2000
   }
   {
+    id: 211
+    name: 前線風雲
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 211
+    code: gift_bundle_kalina_211
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: カリーナのスキン開放
+    description: 宿舎で対応するNPCにプレゼントすることで、スキンを開放できます
+    sort: 2000
+  }
+  {
     id: 212
     name: 正装の時間
     type: 2
@@ -12483,6 +12497,118 @@
     skin: 11007
     poster: 311007
     code: gift_bundle_Mahoushaojiu2024_TT33
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11101
+    name: 聖夜の鍵
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 376
+    skin: 11101
+    poster: 311101
+    code: gift_bundle_Christmas2024_Erma
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11102
+    name: 月華を見上げて
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 128
+    skin: 11102
+    poster: 311102
+    code: gift_bundle_Christmas2024_M99
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11103
+    name: トナカイのお遣い
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 28
+    skin: 11103
+    poster: 311103
+    code: gift_bundle_Christmas2024_MP7
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11104
+    name: 星光、リボンに揺らいで
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 401
+    skin: 11104
+    poster: 311104
+    code: gift_bundle_Christmas2024_P50
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11105
+    name: 暖かい芳醇
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 262
+    skin: 11105
+    poster: 311105
+    code: gift_bundle_Christmas2024_EM2
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11106
+    name: スノーベルが鳴る
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 256
+    skin: 11106
+    poster: 311106
+    code: gift_bundle_Christmas2024_Falcon
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11107
+    name: ウサギのスイートキッチン
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 2
+    skin: 11107
+    poster: 311107
+    code: gift_bundle_Christmas2024_M1911
     normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します

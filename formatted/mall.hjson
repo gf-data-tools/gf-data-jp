@@ -44032,7 +44032,6 @@
     item_ids: 7-1,41-50
     gift: 10304-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(Mk48)
     event_code: dailyGiftbag
@@ -44046,7 +44045,6 @@
     item_ids: 7-1,41-100
     gift: 10201-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(エルマ)
     event_code: dailyGiftbag
@@ -44111,7 +44109,6 @@
     item_ids: 7-1,41-50
     gift: 8805-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(スチェッキン)
     event_code: dailyGiftbag
@@ -44179,7 +44176,6 @@
     item_ids: 7-1,41-100
     gift: 10503-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(SIG MCX)
     event_code: dailyGiftbag
@@ -44374,7 +44370,6 @@
     item_ids: 7-1,41-100
     gift: 10604-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(AUG Para)
     event_code: dailyGiftbag
@@ -44537,7 +44532,6 @@
     item_ids: 7-1,41-50
     gift: 9006-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(Gr MP5)
     event_code: dailyGiftbag
@@ -46029,7 +46023,6 @@
     item_ids: 7-1,41-100
     gift: 10702-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(ライノ)
     event_code: dailyGiftbag
@@ -46043,7 +46036,6 @@
     item_ids: 7-1,41-100
     gift: 10108-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(QBU-191)
     event_code: dailyGiftbag
@@ -46057,7 +46049,6 @@
     item_ids: 7-1,41-50
     gift: 10105-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(PP-19)
     event_code: dailyGiftbag
@@ -46099,7 +46090,6 @@
     item_ids: 7-1,41-100
     gift: 10208-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(Saiga-12)
     event_code: dailyGiftbag
@@ -46113,7 +46103,6 @@
     item_ids: 7-1,41-100
     gift: 10204-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(劉氏歩槍)
     event_code: dailyGiftbag
@@ -46432,7 +46421,6 @@
     item_ids: 41-100,7-1
     gift: 10805-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(SR-3MP)
     event_code: dailyGiftbag
@@ -46446,7 +46434,6 @@
     item_ids: 41-50,7-1
     gift: 10806-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(56-1式)
     event_code: dailyGiftbag
@@ -46551,7 +46538,6 @@
     item_ids: 41-100,7-1
     gift: 11001-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: スキンパック(ボーイズ)
     event_code: dailyGiftbag
@@ -48730,6 +48716,20 @@
     daily_quota: 1
     discount: 1
     classification_id: 3002
+  }
+  {
+    id: 32502
+    type: 8
+    item_ids: 41-100,7-1
+    gift: 11103-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: スキンパック(MP7)
+    event_code: dailyGiftbag
+    icon: Bumdle_Christmas
+    discount: 1
+    classification_id: 3003
   }
   {
     id: 99001

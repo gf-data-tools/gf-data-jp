@@ -17617,6 +17617,448 @@
     condition: "11868"
   }
   {
+    identity: 1230
+    type: c_mission
+    count: 1
+    title: 小規模の鉄血
+    content: メイン任務第1章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_1
+  }
+  {
+    identity: 1231
+    type: c_mission
+    count: 1
+    title: 落ちた角砂糖
+    content: メイン任務第2章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "20"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_2
+  }
+  {
+    identity: 1232
+    type: c_mission
+    count: 1
+    title: ハンターと餌
+    content: メイン任務第3章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "30"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_3
+  }
+  {
+    identity: 1233
+    type: c_mission
+    count: 1
+    title: 本当の演目
+    content: メイン任務第4章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "40"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_4
+  }
+  {
+    identity: 1234
+    type: c_mission
+    count: 1
+    title: 起床の時間
+    content: メイン任務第5章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "50"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_5
+  }
+  {
+    identity: 1235
+    type: c_mission
+    count: 1
+    title: 最初のキューブ
+    content: 常設イベントキューブ作戦+をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10025"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_5.5
+  }
+  {
+    identity: 1236
+    type: c_mission
+    count: 1
+    title: 彼女の選択
+    content: メイン任務第6章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "60"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_6
+  }
+  {
+    identity: 1237
+    type: c_mission
+    count: 1
+    title: 代理隊長
+    content: メイン任務第7章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "70"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_7
+  }
+  {
+    identity: 1238
+    type: c_mission
+    count: 1
+    title: ジュピターの下で
+    content: 常設イベント低体温症をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10016"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_7.5
+  }
+  {
+    identity: 1239
+    type: c_mission
+    count: 1
+    title: 別れを告げる者たち
+    content: メイン任務第8章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "80"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_8
+  }
+  {
+    identity: 1240
+    type: c_mission
+    count: 1
+    title: 墜ちる夢
+    content: 常設イベント深層映写をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10042"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_8.5
+  }
+  {
+    identity: 1241
+    type: c_mission
+    count: 1
+    title: 黒鉄の天秤
+    content: メイン任務第9章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "90"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_9
+  }
+  {
+    identity: 1242
+    type: c_mission
+    count: 1
+    title: ここにて、雨落ちる
+    content: メイン任務第10章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "100"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_10
+  }
+  {
+    identity: 1243
+    type: c_mission
+    count: 1
+    title: 最後の可能性
+    content: 常設イベント特異点をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10087"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_10.5
+  }
+  {
+    identity: 1244
+    type: c_mission
+    count: 1
+    title: あの両手を握って
+    content: 常設イベント秩序乱流をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10144"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_10.75
+  }
+  {
+    identity: 1245
+    type: c_mission
+    count: 1
+    title: 魂を作るのは
+    content: メイン任務第11章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "110"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_11
+  }
+  {
+    identity: 1246
+    type: c_mission
+    count: 1
+    title: 深紅の幕引き
+    content: 常設イベント異性体をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10252"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_11.5
+  }
+  {
+    identity: 1247
+    type: c_mission
+    count: 1
+    title: エピフィラムの海
+    content: 常設イベント連鎖分裂をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10341"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_11.75
+  }
+  {
+    identity: 1248
+    type: c_mission
+    count: 1
+    title: あなたに誓って
+    content: メイン任務第12章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "120"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_12
+  }
+  {
+    identity: 1249
+    type: c_mission
+    count: 1
+    title: 栄光はここに
+    content: 常設イベント偏極光をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10473"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_12.5
+  }
+  {
+    identity: 1250
+    type: c_mission
+    count: 1
+    title: バラバラになった物を組み合わさって
+    content: メイン任務第13章をクリア
+    type_sort: 100
+    sort: 334
+    condition: "130"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13
+  }
+  {
+    identity: 1251
+    type: c_mission
+    count: 1
+    title: 謎深まる
+    content: 常設イベント双連乱数をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10579"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.25
+  }
+  {
+    identity: 1252
+    type: c_mission
+    count: 1
+    title: さようなら、ロビン
+    content: 常設イベント鏡像論をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10741"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.5
+  }
+  {
+    identity: 1253
+    type: c_mission
+    count: 1
+    title: グリフィンエフェクト
+    content: 常設イベント回帰定理をクリア
+    type_sort: 100
+    sort: 334
+    condition: "10904"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.75
+  }
+  {
+    identity: 1254
+    type: c_mission
+    count: 1
+    title: 真の方向
+    content: 常設イベント静止点をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11082"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.8
+  }
+  {
+    identity: 1255
+    type: c_mission
+    count: 1
+    title: 列車の物語
+    content: 常設イベント縦軸歪曲をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11210"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.9
+  }
+  {
+    identity: 1256
+    type: c_mission
+    count: 1
+    title: 太陽と月
+    content: 常設イベントエクリプス・サロスをクリア
+    type_sort: 100
+    sort: 334
+    condition: "11259,11260"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.95
+  }
+  {
+    identity: 1257
+    type: c_mission
+    count: 1
+    title: アンナ
+    content: 常設イベント慢性虚脱をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11418"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_14
+  }
+  {
+    identity: 1258
+    type: c_mission
+    count: 1
+    title: 一番かわいい人形
+    content: 常設イベント虚記憶の箱庭をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11658"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.1
+  }
+  {
+    identity: 1259
+    type: c_mission
+    count: 1
+    title: 目覚め
+    content: 常設イベント22のジレンマをクリア
+    type_sort: 100
+    sort: 334
+    condition: "11687"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.2
+  }
+  {
+    identity: 1260
+    type: c_mission
+    count: 1
+    title: 雪と血
+    content: 常設イベント零電荷をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11723"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.3
+  }
+  {
+    identity: 1261
+    type: c_mission
+    count: 1
+    title: 再会と別れ
+    content: 常設イベント銀染現像をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11754"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.4
+  }
+  {
+    identity: 1262
+    type: c_mission
+    count: 1
+    title: ラプラスの死
+    content: 常設イベント孤立の森をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11780"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.5
+  }
+  {
+    identity: 1263
+    type: c_mission
+    count: 1
+    title: 勇気ある者
+    content: 常設イベント巻積核をクリア
+    type_sort: 100
+    sort: 334
+    condition: "11868"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.75
+  }
+  {
     identity: 1264
     type: c_mission_win_type
     count: 1
