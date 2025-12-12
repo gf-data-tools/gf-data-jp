@@ -1074,6 +1074,21 @@
     sub_rank_name: ポイント
   }
   {
+    id: "308"
+    name: 秘密の渦中+常設
+    type: "10"
+    sub_type: "11497"
+    refresh: test
+    title: <秘密の渦中+>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
     id: "1001"
     name: 佐賀応援ランキング
     type: "1001"
