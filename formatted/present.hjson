@@ -1575,6 +1575,47 @@
     present_info: present-11500266
   }
   {
+    item_id: 1500270
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 13064
+    due_time: 2026/06/26  23:59:59
+    due_prize_id: 2996
+    present_info: present-11500270
+  }
+  {
+    item_id: 1500275
+    type: 1
+    prize_id: 140001
+    due_time: 2026/02/08 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500275
+  }
+  {
+    item_id: 1500276
+    type: 1
+    prize_id: 140004
+    due_time: 2026/02/08 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500276
+  }
+  {
+    item_id: 1500277
+    type: 2
+    drop_package_id: 2679
+    due_time: 2026/02/08 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500277
+  }
+  {
+    item_id: 1500278
+    type: 2
+    drop_package_id: 945
+    due_time: 2026/02/08 23:59:59
+    due_prize_id: 140016
+    present_info: present-11500278
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -2967,5 +3008,32 @@
       スオミ-スノウエルフ、Am RFB-いじわるRFBのクリスマス、Px4 ストーム-クリスマスの朝、ルイス-聖夜の約束、R5-パ・ド・ドゥ、89式-シフゾウ宣言、デ・リーズル-紡ぐ星光
       ※スキン抽選券の有効期限は「2026年2月5日(木)23:59」までです。十分にご注意ください。
       '''
+  }
+  {
+    item_id: 9500066
+    type: 2
+    poster: PackageImage_whitedayjp_1
+    drop_package_id: 20139
+    due_time: 2026/03/01  23:59:59
+    due_prize_id: 7405
+    present_info: present-19500066
+  }
+  {
+    item_id: 9500067
+    type: 2
+    poster: PackageImage_whitedayjp_2
+    drop_package_id: 20140
+    due_time: 2026/03/01  23:59:59
+    due_prize_id: 7406
+    present_info: present-19500067
+  }
+  {
+    item_id: 9500068
+    type: 1
+    poster: PackageImage_whitedayjp_3
+    prize_id: 331790
+    due_time: 2026/03/01  23:59:59
+    due_prize_id: 331211
+    present_info: present-19500068
   }
 ]

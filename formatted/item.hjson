@@ -16434,6 +16434,87 @@
     rank: 1
   }
   {
+    id: 2675
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_Kalina
+    item_name: アイコン：奇妙な新年
+    introduction: アイコン：奇妙な新年
+    rank: 1
+  }
+  {
+    id: 2678
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_HK433
+    item_name: モネの白昼
+    introduction: モネの白昼
+    rank: 1
+  }
+  {
+    id: 2679
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_95type
+    item_name: 流麗な羽
+    introduction: 流麗な羽
+    rank: 1
+  }
+  {
+    id: 2680
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_QBZ191
+    item_name: 玄衣巻月
+    introduction: 玄衣巻月
+    rank: 1
+  }
+  {
+    id: 2681
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_SIGMCX
+    item_name: ピンク鉄拳
+    introduction: ピンク鉄拳
+    rank: 1
+  }
+  {
+    id: 2682
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_TAR21
+    item_name: 青いアヤメの花
+    introduction: 青いアヤメの花
+    rank: 1
+  }
+  {
+    id: 2683
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_G43
+    item_name: 砂時計の鏡
+    introduction: 砂時計の鏡
+    rank: 1
+  }
+  {
+    id: 2684
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_BrenTen
+    item_name: スイートロンド
+    introduction: スイートロンド
+    rank: 1
+  }
+  {
+    id: 2685
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_HowaType89
+    item_name: ブレンドの時間
+    introduction: ブレンドの時間
+    rank: 1
+  }
+  {
     id: 2686
     type: 5
     arg: "1"
@@ -16566,6 +16647,24 @@
     code: card_BattlePass_Six12
     item_name: アイコン：孤独な戦い
     introduction: アイコン：孤独な戦い
+    rank: 1
+  }
+  {
+    id: 2708
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HK416
+    item_name: 緋染め薄桜
+    introduction: 緋染め薄桜
+    rank: 1
+  }
+  {
+    id: 2709
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HK416
+    item_name: アイコン：薄桜歳時記
+    introduction: アイコン：薄桜歳時記
     rank: 1
   }
   {
@@ -18304,6 +18403,15 @@
     code: gift_bundle_BattlePass_Six12
     item_name: ダークブルーの果て
     introduction: 高い場所からこの街を見下ろしながら、私がこの街を守るって誓ったんです……未来の海もきっと、こんなふうに美しいのでしょうね。
+    rank: 1
+  }
+  {
+    id: 30033
+    type: 1
+    arg: "30033"
+    code: gift_bundle_BattlePass_HK416
+    item_name: 緋染め薄桜
+    introduction: 桜の花の散るスピードって、わずか数秒なんです……だからこの一瞬で、私の姿も——この景色も、記憶に刻んでください。
     rank: 1
   }
   {
@@ -20338,6 +20446,15 @@
     rank: 1
   }
   {
+    id: 100273
+    type: 4
+    arg: "100273"
+    code: Bumdle_9thAnniversary
+    item_name: 奇妙な旅の箱
+    introduction: 奇妙な旅の箱
+    rank: 1
+  }
+  {
     id: 100280
     type: 4
     arg: "100280"
@@ -20373,6 +20490,34 @@
     item_name: 蝕心の仮面・仮想粒子対
     introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
     rank: 1
+  }
+  {
+    id: 100284
+    type: 4
+    arg: "100284"
+    code: Nova_medal
+    item_name: 新星勲章・胡蝶星雲
+    introduction: 新星勲章・胡蝶星雲
+    rank: 1
+  }
+  {
+    id: 100285
+    type: 4
+    arg: "100285"
+    code: Platinum_medal
+    item_name: 白金勲章・胡蝶星雲
+    introduction: 白金勲章・胡蝶星雲
+    rank: 1
+  }
+  {
+    id: 100286
+    type: 9
+    arg: "100286"
+    code: Coin_202411LorenzButterfly
+    item_name: コーエン
+    introduction: Dark Zoneで流通している貨幣。表世界と裏世界の両方で使える。
+    rank: 1
+    daily_limit: 60;180
   }
   {
     id: 110001
@@ -23229,6 +23374,26 @@
     detail_introduction: item-30140064
   }
   {
+    id: 140065
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140065
+    introduction: item-20140065
+    rank: 1
+    detail_introduction: item-30140065
+  }
+  {
+    id: 140066
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140066
+    introduction: item-20140066
+    rank: 1
+    detail_introduction: item-30140066
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23737,6 +23902,15 @@
     code: profileFrame_BattlePass_Six12
     item_name: アイコンフレーム：奇観の摩天楼
     introduction: アイコンフレーム：奇観の摩天楼
+    rank: 1
+  }
+  {
+    id: 200058
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HK416
+    item_name: アイコンフレーム·花信風の便り
+    introduction: アイコンフレーム·花信風の便り
     rank: 1
   }
   {
@@ -26249,6 +26423,65 @@
     type_sort: 1
   }
   {
+    id: 1500270
+    type: 15
+    arg: "1500270"
+    code: Bumdle_sangvischoose
+    item_name: 胡蝶星雲特別回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500275
+    type: 15
+    arg: "1500275"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-桜散る刻にで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500276
+    type: 15
+    arg: "1500276"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-桜散る刻にで獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500277
+    type: 15
+    arg: "1500277"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-桜散る刻にで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500278
+    type: 15
+    arg: "1500278"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-桜散る刻にで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -27834,6 +28067,39 @@
     arg: "9500065"
     code: Bumdle_ChristmasCoupons3
     item_name: 至高のスキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500066
+    type: 15
+    arg: "9500066"
+    code: Bumdle_JPnewyear1
+    item_name: 秘蔵スキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500067
+    type: 15
+    arg: "9500067"
+    code: Bumdle_JPnewyear2
+    item_name: プレミアムスキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500068
+    type: 15
+    arg: "9500068"
+    code: Bumdle_JPnewyear3
+    item_name: 至高のスキン抽選券·正月
     introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1

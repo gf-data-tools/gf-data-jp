@@ -13946,6 +13946,13 @@
     content: prize-20002601
   }
   {
+    id: 2603
+    name: prize-10002603
+    gem: 90
+    equip_ids: "418"
+    content: prize-20002603
+  }
+  {
     id: 2614
     name: prize-10002614
     furniture: "20150,20151"
@@ -14274,109 +14281,109 @@
   {
     id: 2671
     name: prize-10002671
-    item_ids: 100247-6,100245-1
+    item_ids: 100286-6,100284-1
     content: prize-20002671
   }
   {
     id: 2672
     name: prize-10002672
-    item_ids: 100247-8,100245-1
+    item_ids: 100286-8,100284-1
     content: prize-20002672
   }
   {
     id: 2673
     name: prize-10002673
-    item_ids: 100247-8,100245-2
+    item_ids: 100286-8,100284-2
     content: prize-20002673
   }
   {
     id: 2674
     name: prize-10002674
-    item_ids: 100247-10,100246-1
+    item_ids: 100286-10,100285-1
     content: prize-20002674
   }
   {
     id: 2675
     name: prize-10002675
-    item_ids: 100247-10,100245-1,100246-1
+    item_ids: 100286-10,100284-1,100285-1
     content: prize-20002675
   }
   {
     id: 2676
     name: prize-10002676
-    item_ids: 100247-12,100246-1
+    item_ids: 100286-12,100285-1
     content: prize-20002676
   }
   {
     id: 2677
     name: prize-10002677
-    item_ids: 100247-12,100246-2
+    item_ids: 100286-12,100285-2
     content: prize-20002677
   }
   {
     id: 2678
     name: prize-10002678
-    item_ids: 100247-15,100246-2
+    item_ids: 100286-15,100285-2
     content: prize-20002678
   }
   {
     id: 2679
     name: prize-10002679
-    item_ids: 100247-15,100245-2,100246-2
+    item_ids: 100286-15,100284-2,100285-2
     content: prize-20002679
   }
   {
     id: 2680
     name: prize-10002680
-    item_ids: 100247-6
+    item_ids: 100286-6
     content: prize-20002680
   }
   {
     id: 2681
     name: prize-10002681
-    item_ids: 100247-8
+    item_ids: 100286-8
     content: prize-20002681
   }
   {
     id: 2682
     name: prize-10002682
-    item_ids: 100247-10
+    item_ids: 100286-10
     content: prize-20002682
   }
   {
     id: 2683
     name: prize-10002683
-    item_ids: 100247-12
+    item_ids: 100286-12
     content: prize-20002683
   }
   {
     id: 2684
     name: prize-10002684
-    item_ids: 100247-15
+    item_ids: 100286-15
     content: prize-20002684
   }
   {
     id: 2685
     name: prize-10002685
-    item_ids: 100245-1
+    item_ids: 100284-1
     content: prize-20002685
   }
   {
     id: 2686
     name: prize-10002686
-    item_ids: 100246-1
+    item_ids: 100285-1
     content: prize-20002686
   }
   {
     id: 2687
     name: prize-10002687
-    item_ids: 100245-2
+    item_ids: 100284-2
     content: prize-20002687
   }
   {
     id: 2688
     name: prize-10002688
-    item_ids: 100246-2
+    item_ids: 100285-2
     content: prize-20002688
   }
   {
@@ -14828,11 +14835,23 @@
     content: prize-20002883
   }
   {
+    id: 2984
+    name: prize-10002984
+    item_ids: 2675-1
+    content: prize-20002984
+  }
+  {
     id: 2990
     name: prize-10002990
     skin: 212
     content: prize-20002990
     icon: NPC_Kalina_212
+  }
+  {
+    id: 2996
+    name: prize-10002996
+    item_ids: 512-800
+    content: prize-20002996
   }
   {
     id: 3001
@@ -25865,6 +25884,36 @@
     content: prize-20008629
   }
   {
+    id: 8630
+    name: prize-10008630
+    item_ids: 140065-1
+    content: prize-20008630
+  }
+  {
+    id: 8631
+    name: prize-10008631
+    item_ids: 140066-1,10606-300,200058-1,2709-1
+    content: prize-20008631
+  }
+  {
+    id: 8632
+    name: prize-10008632
+    item_ids: 140066-1,10606-300,200058-1,2709-1
+    content: prize-20008632
+  }
+  {
+    id: 8633
+    name: prize-10008633
+    gift: 30022-1
+    content: prize-20008633
+  }
+  {
+    id: 8634
+    name: prize-10008634
+    gift: 30010-1
+    content: prize-20008634
+  }
+  {
     id: 9101
     name: 2018年のクリスマスの思い出写真
     item_ids: 1212-1
@@ -31804,6 +31853,18 @@
     name: prize-10013034
     content: prize-20013034
     fairy_ids: 38-757262
+  }
+  {
+    id: 13064
+    name: prize-10013064
+    sangvis: "1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1028"
+    item_ids: 512-800
+    content: prize-20013064
+  }
+  {
+    id: 13065
+    name: 12-二回目の変奏-任務報酬
+    item_ids: 1500270-1
   }
   {
     id: 14101
@@ -55960,6 +56021,32 @@
     content: prize-20120169
   }
   {
+    id: 120170
+    name: prize-10120170
+    item_ids: 41-30,1500275-1
+    content: prize-20120170
+  }
+  {
+    id: 120171
+    name: prize-10120171
+    item_ids: 41-30
+    gift: 30033-1
+    content: prize-20120171
+  }
+  {
+    id: 120172
+    name: prize-10120172
+    item_ids: 41-30,1500276-1
+    content: prize-20120172
+  }
+  {
+    id: 120173
+    name: prize-10120173
+    gem: 680
+    item_ids: 1500277-1
+    content: prize-20120173
+  }
+  {
     id: 121001
     name: prize-10121001
     furniture: "7240"
@@ -56846,6 +56933,24 @@
     name: prize-10130096
     item_ids: 10606-300,200057-1,2704-1
     content: prize-20130096
+  }
+  {
+    id: 130097
+    name: prize-10130097
+    item_ids: 1500278-1
+    content: prize-20130097
+  }
+  {
+    id: 130098
+    name: prize-10130098
+    item_ids: 602-1,1500275-1,30033-1,1500276-1,1500277-1,505-680
+    content: prize-20130098
+  }
+  {
+    id: 130099
+    name: prize-10130099
+    item_ids: 10606-300,200058-1,2709-1
+    content: prize-20130099
   }
   {
     id: 140001
@@ -58514,6 +58619,54 @@
     name: prize-10140276
     gun_id: "97"
     content: prize-20140276
+  }
+  {
+    id: 140277
+    name: prize-10140277
+    gun_id: "206"
+    content: prize-20140277
+  }
+  {
+    id: 140278
+    name: prize-10140278
+    gun_id: "148"
+    content: prize-20140278
+  }
+  {
+    id: 140279
+    name: prize-10140279
+    gun_id: "285"
+    content: prize-20140279
+  }
+  {
+    id: 140280
+    name: prize-10140280
+    gun_id: "347"
+    content: prize-20140280
+  }
+  {
+    id: 140281
+    name: prize-10140281
+    gun_id: "312"
+    content: prize-20140281
+  }
+  {
+    id: 140282
+    name: prize-10140282
+    gun_id: "214"
+    content: prize-20140282
+  }
+  {
+    id: 140283
+    name: prize-10140283
+    gun_id: "104"
+    content: prize-20140283
+  }
+  {
+    id: 140284
+    name: prize-10140284
+    gun_id: "388"
+    content: prize-20140284
   }
   {
     id: 150001
@@ -72002,6 +72155,266 @@
     item_ids: 9500065-1
     content: prize-20331751
     icon: Bumdle_ChildrenDayCoupons3
+  }
+  {
+    id: 331752
+    name: prize-10331752
+    mp: 2026
+    ammo: 2026
+    mre: 2026
+    part: 2026
+    item_ids: 13-1,7-4,44-300,10603-60
+    content: prize-20331752
+    bp_pay: 60
+  }
+  {
+    id: 331753
+    name: prize-10331753
+    gift: 2906-1
+    content: prize-20331753
+  }
+  {
+    id: 331754
+    name: prize-10331754
+    gift: 2907-1
+    content: prize-20331754
+  }
+  {
+    id: 331755
+    name: prize-10331755
+    gift: 2908-1
+    content: prize-20331755
+  }
+  {
+    id: 331756
+    name: prize-10331756
+    gift: 4106-1
+    content: prize-20331756
+  }
+  {
+    id: 331757
+    name: prize-10331757
+    gift: 4107-1
+    content: prize-20331757
+  }
+  {
+    id: 331758
+    name: prize-10331758
+    gift: 5408-1
+    content: prize-20331758
+  }
+  {
+    id: 331759
+    name: prize-10331759
+    gift: 5407-1
+    content: prize-20331759
+  }
+  {
+    id: 331760
+    name: prize-10331760
+    gift: 6705-1
+    content: prize-20331760
+  }
+  {
+    id: 331761
+    name: prize-10331761
+    gift: 6706-1
+    content: prize-20331761
+  }
+  {
+    id: 331762
+    name: prize-10331762
+    gift: 6707-1
+    content: prize-20331762
+  }
+  {
+    id: 331763
+    name: prize-10331763
+    gift: 7905-1
+    content: prize-20331763
+  }
+  {
+    id: 331764
+    name: prize-10331764
+    gift: 7906-1
+    content: prize-20331764
+  }
+  {
+    id: 331765
+    name: prize-10331765
+    gift: 7907-1
+    content: prize-20331765
+  }
+  {
+    id: 331766
+    name: prize-10331766
+    gift: 10005-1
+    content: prize-20331766
+  }
+  {
+    id: 331767
+    name: prize-10331767
+    gift: 10007-1
+    content: prize-20331767
+  }
+  {
+    id: 331768
+    name: prize-10331768
+    gift: 10008-1
+    content: prize-20331768
+  }
+  {
+    id: 331769
+    name: prize-10331769
+    gift: 10006-1
+    content: prize-20331769
+  }
+  {
+    id: 331770
+    name: prize-10331770
+    gift: 2902-1
+    content: prize-20331770
+  }
+  {
+    id: 331771
+    name: prize-10331771
+    gift: 2905-1
+    content: prize-20331771
+  }
+  {
+    id: 331772
+    name: prize-10331772
+    gift: 2904-1
+    content: prize-20331772
+  }
+  {
+    id: 331773
+    name: prize-10331773
+    gift: 2903-1
+    content: prize-20331773
+  }
+  {
+    id: 331774
+    name: prize-10331774
+    gift: 4102-1
+    content: prize-20331774
+  }
+  {
+    id: 331775
+    name: prize-10331775
+    gift: 4103-1
+    content: prize-20331775
+  }
+  {
+    id: 331776
+    name: prize-10331776
+    gift: 4104-1
+    content: prize-20331776
+  }
+  {
+    id: 331777
+    name: prize-10331777
+    gift: 4105-1
+    content: prize-20331777
+  }
+  {
+    id: 331778
+    name: prize-10331778
+    gift: 5405-1
+    content: prize-20331778
+  }
+  {
+    id: 331779
+    name: prize-10331779
+    gift: 5403-1
+    content: prize-20331779
+  }
+  {
+    id: 331780
+    name: prize-10331780
+    gift: 5401-1
+    content: prize-20331780
+  }
+  {
+    id: 331781
+    name: prize-10331781
+    gift: 5406-1
+    content: prize-20331781
+  }
+  {
+    id: 331782
+    name: prize-10331782
+    gift: 5404-1
+    content: prize-20331782
+  }
+  {
+    id: 331783
+    name: prize-10331783
+    gift: 6703-1
+    content: prize-20331783
+  }
+  {
+    id: 331784
+    name: prize-10331784
+    gift: 6702-1
+    content: prize-20331784
+  }
+  {
+    id: 331785
+    name: prize-10331785
+    gift: 6704-1
+    content: prize-20331785
+  }
+  {
+    id: 331786
+    name: prize-10331786
+    gift: 7903-1
+    content: prize-20331786
+  }
+  {
+    id: 331787
+    name: prize-10331787
+    gift: 7904-1
+    content: prize-20331787
+  }
+  {
+    id: 331788
+    name: prize-10331788
+    gift: 10001-1
+    content: prize-20331788
+  }
+  {
+    id: 331789
+    name: prize-10331789
+    gift: 10002-1
+    content: prize-20331789
+  }
+  {
+    id: 331790
+    name: prize-10331790
+    gift: 2901-1,4101-1,5402-1,6701-1,7902-1,10004-1
+    content: prize-20331790
+  }
+  {
+    id: 331791
+    name: prize-10331791
+    item_ids: 9500066-1
+    content: prize-20331791
+    icon: Bumdle_JPnewyear1
+  }
+  {
+    id: 331792
+    name: prize-10331792
+    item_ids: 9500067-1
+    content: prize-20331792
+    icon: Bumdle_JPnewyear2
+  }
+  {
+    id: 331793
+    name: prize-10331793
+    item_ids: 9500068-1
+    content: prize-20331793
+    icon: Bumdle_JPnewyear3
   }
   {
     id: 411001

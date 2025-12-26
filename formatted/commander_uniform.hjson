@@ -3865,4 +3865,18 @@
     color_4: Commander_6352_4
     color_icon_id: "969"
   }
+  {
+    id: 6440
+    name: ミスター・ピザ
+    description: どこかで見たことあるようなぬいぐるみ。「いよいよ私の出番か！ミスター・ピザ、準備完了だ！」――なぜか知らないが、それを背負った途端、そういう言葉を口にしてしまった。
+    code: BodyAcco
+    icon: commander_6440_icon
+    type: 4
+    uniform_class: "64"
+    color_normal: Commander_6440_N
+    bone_name: BodyBinder1
+    scale: 0.16
+    position: "0.020,0.070"
+    color_icon_id: "961"
+  }
 ]
