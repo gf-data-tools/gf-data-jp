@@ -451,4 +451,22 @@
     group_skill: 2:1005503
     fit_gun: "20199"
   }
+  {
+    id: 51
+    name: スポーツの達人
+    des: グリズリーに合わせてカスタマイズされた装備一式。軽くて実用的。
+    code: EgroupGrizzly
+    equip_unit: "0,448,237"
+    group_skill: 2:1006103
+    fit_gun: "96"
+  }
+  {
+    id: 52
+    name: 雛菊の赤いリボン
+    des: グリズリーに合わせてカスタマイズされた装備一式。もう戦いでは迷わない。
+    code: EgroupMAB38
+    equip_unit: "0,449,166"
+    group_skill: 2:1006203
+    fit_gun: "20031"
+  }
 ]
