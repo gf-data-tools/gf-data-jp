@@ -44651,6 +44651,19 @@
     part: 500
   }
   {
+    id: 37667
+    name: 沈黙の眼EX-任務報酬
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37681
+    name: 世界の誕生-任務報酬
+    item_ids: 2516-1
+  }
+  {
     id: 40001
     name: スキンパック(95式)
     gun_id: "16"
@@ -56445,6 +56458,12 @@
     name: prize-10121055
     furniture: "20128"
     content: prize-20121055
+  }
+  {
+    id: 121056
+    name: prize-10121056
+    furniture: "20137"
+    content: prize-20121056
   }
   {
     id: 121059

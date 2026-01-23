@@ -503,8 +503,20 @@
     chapter_name: 虚記憶の箱庭
     bg_code: active_202404
     bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
-    desc: イベント期間：2024.08.30-2024.09.20
+    desc: イベント期間：2024.08.30-09.20
     scene_name: active_202404logo
+  }
+  {
+    id: 51
+    campaign_id: -69
+    tag: EP.|15.2
+    order: 17
+    name: 22のジレンマ
+    chapter_name: 22のジレンマ
+    bg_code: active_202406
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2024.10.25-11.15
+    scene_name: active_202406logo
   }
   {
     id: 55
@@ -515,7 +527,7 @@
     chapter_name: 一枚の重み
     bg_code: active_Xmas2021
     bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
-    desc: イベント期間：2021.12.24~2022.01.14
+    desc: イベント期間：2021.12.24-2022.01.14
     scene_name: active_Xmas2021logo
   }
 ]
