@@ -28443,6 +28443,214 @@
     rotate: "2,2,2,2,2"
   }
   {
+    id: 11601
+    name: 「でっけぇ」のが来るぞ！-時の欠片
+    classes: 116
+    type: 201
+    position: "9,2"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 宙に吊るされたライトは、静かにこの空間を量と、今までのエルモ号の時間を量る。
+    code: 2025Wedding_deco_01
+    texture_type: "1"
+    offset: "-0.103,2.200,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11603
+    name: 「でっけぇ」のが来るぞ！-記念写真
+    classes: 116
+    type: 201
+    position: "0,3"
+    space: "5,7,0,0,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 自分の写真を壁一面に貼る提案を断ったからこうなったのだ。
+    code: 2025Wedding_deco_03_A,2025Wedding_deco_03_B
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.085,-0.216,0.000|-0.092,4.275,1.040"
+    rotate: "2,2"
+  }
+  {
+    id: 11604
+    name: 「でっけぇ」のが来るぞ！-ASMRの癒し
+    classes: 116
+    type: 201
+    position: "1,10"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 警告：この設備には中毒性があります。主な副作用は、一人では眠れなくなる、ノイズに対して敏感になる、目が覚めたら寂しくなど。
+    code: 2025Wedding_deco_04
+    texture_type: "1"
+    offset: "0.031,-0.030,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11605
+    name: 「でっけぇ」のが来るぞ！-ルビーエンターテインメントステーション
+    classes: 116
+    type: 201
+    position: "5,3"
+    space: "6,6,1,1,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: モニターの中の世界には、常に勝利があり、無限にコンティニューすることも可能である。だから、ずっとヒーローでいられる……ああ、もちろん、ゲームの中の話だ。
+    code: 2025Wedding_deco_05_A,2025Wedding_deco_05_B,WhiteV2025_Arcade,2025Wedding_deco_05_C,2025Wedding_deco_05_D
+    texture_type: "1,1,2,1,1"
+    sorting: "0,10,10,3,3"
+    offset: "-0.021,-0.388,0.000|-0.021,-0.388,0.000|0.051,0.502,0.133|-0.051,-0.320,0.000|-0.048,-0.319,0.000"
+    rotate: "2,2,2,2,2"
+    interact_point: "2"
+    interact_point_offset: *1.604,0.569,-0.159
+  }
+  {
+    id: 11606
+    name: 「でっけぇ」のが来るぞ！-青い波に乗って
+    classes: 116
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 無限に広がる青、透き通るような水面、暖かな日差し――このドアを開けば、そのような贅沢が君を待っている。
+    code: 2025Wedding_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 11607
+    name: 「でっけぇ」のが来るぞ！-黄砂の中で
+    classes: 116
+    type: 201
+    position: "17,0"
+    space: "18,1,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: ちっぽけな影が、どこまでも広がる砂漠の中へ……続き聞きたいの？結構長い話になるけど？
+    code: 2025Wedding_deco_06_A,2025Wedding_deco_06_B
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.085,-0.052,0.000|3.514,-0.052,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11608
+    name: 「でっけぇ」のが来るぞ！-温かな港
+    classes: 116
+    type: 201
+    position: "17,1"
+    space: "9,5,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: みんなここが好きだ、ダイナーゲートに見られたくないとある人形だけを除いて。
+    code: 2025Wedding_deco_07_A,2025Wedding_deco_07_B,2025Wedding_deco_07_C
+    texture_type: "1,1,1"
+    sorting: "10,0,0"
+    offset: "0.219,-0.021,0.000|0.219,0.261,0.000|-1.515,0.039,0.000"
+    rotate: "2,2,2"
+  }
+  {
+    id: 11609
+    name: 「でっけぇ」のが来るぞ！-ピザパーティ
+    classes: 116
+    type: 201
+    position: "17,7"
+    space: "9,7,0,0,0,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 少し休んで、ミスター・ピザの頭を撫でてみるといい。どんなに忙しい生活でも、憩いの場が必要だ。
+    code: 2025Wedding_deco_08
+    texture_type: "1"
+    offset: "-0.027,-0.114,0.000"
+    rotate: "2"
+    interact_point: "2"
+    interact_point_offset: *-0.350,1.767,0.401
+  }
+  {
+    id: 11610
+    name: 「でっけぇ」のが来るぞ！-平和宣言
+    classes: 116
+    type: 201
+    position: "11,10"
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: この銃は丁寧にメンテナンスされて、きれいに拭かれて、最も目立つところに置かれている。だからもう、これを使う必要はない。
+    code: 2025Wedding_deco_09,WhiteV2025_WeaponDisplayStand
+    texture_type: "1,2"
+    sorting: "0,5"
+    offset: "0.010,-0.125,0.000|0.042,0.991,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11611
+    name: 「でっけぇ」のが来るぞ！-やさしい夜の色
+    classes: 116
+    type: 201
+    position: "30,9"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: この球体から降り注ぐ光は、やさしく、寂しく……たくさんの夜の中で、ほんの少しの温かさを与えてくれる。
+    code: 2025Wedding_deco_10
+    texture_type: "1"
+    offset: "0.023,1.752,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11612
+    name: 「でっけぇ」のが来るぞ！-お茶の間休憩
+    classes: 116
+    type: 201
+    position: "27,10"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: これは命を繋ぐ水であり、味蕾を刺激するアルコールでもある。とりあえず一杯どうだい？まだ旅が終わらないうちに。
+    code: 2025Wedding_deco_11_A,2025Wedding_deco_11_B,2025Wedding_deco_11_C
+    texture_type: "1,1,1"
+    sorting: "0,10,10"
+    offset: "0.291,-0.031,0.000|0.772,-0.320,0.000|-0.271,-0.333,0.000"
+    rotate: "2,2,2"
+    interact_point: "2"
+    interact_point_offset: *2.301,1.870,-0.148
+  }
+  {
+    id: 11613
+    name: 「でっけぇ」のが来るぞ！-美味な料理
+    classes: 116
+    type: 201
+    position: "26,1"
+    space: "8,7,0,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: どんなに整理しても、食器たちは必ず驚異的なスピードでこの場所を占拠する。そしてそれが、美味しい料理をいつも食べられる原因である。
+    code: 2025Wedding_deco_12_A,2025Wedding_deco_12_B
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.031,-0.422,0.000|0.324,0.026,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11614
+    name: 「でっけぇ」のが来るぞ！-無音の印
+    classes: 116
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 音声や文字以外でも、この極めて平凡な床も、同じように様々なものを記録している。
+    code: 2025Wedding_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
     id: 20004
     name: 四度目の輝けるステージ
     classes: 31
@@ -46818,6 +47026,81 @@
     rotate: "3"
   }
   {
+    id: 311701
+    name: 見習い特待生
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64式自のポスター。
+    code: poster_TacticalAcademy_Type64-AR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311702
+    name: 異聞宣伝係
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UKM-2000のポスター。
+    code: poster_TacticalAcademy_UKM2000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311703
+    name: イコール監督官
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: タブクのポスター。
+    code: poster_TacticalAcademy_Tabuk
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311704
+    name: オールラウンド優等生
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Model Lのポスター。
+    code: poster_TacticalAcademy_CETME556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311705
+    name: 厳しい風紀委員
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Z-62のポスター。
+    code: poster_TacticalAcademy_Z62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: 夏の午後の風
     classes: 300
@@ -47292,6 +47575,21 @@
     decompose_gift: 100003
     description: 416のポスター。
     code: poster_BattlePass_HK416
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330034
+    name: 疾走距離
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-12のポスター。
+    code: poster_BattlePass_SPAS12
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

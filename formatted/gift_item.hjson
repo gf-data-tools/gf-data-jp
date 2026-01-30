@@ -13048,6 +13048,86 @@
     type_sort: 6
   }
   {
+    id: 11701
+    name: 見習い特待生
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 243
+    skin: 11701
+    poster: 311701
+    code: gift_bundle_TacticalAcademy_Type64-AR
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11702
+    name: 異聞宣伝係
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 254
+    skin: 11702
+    poster: 311702
+    code: gift_bundle_TacticalAcademy_UKM2000
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11703
+    name: イコール監督官
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 305
+    skin: 11703
+    poster: 311703
+    code: gift_bundle_TacticalAcademy_Tabuk
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11704
+    name: オールラウンド優等生
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 223
+    skin: 11704
+    poster: 311704
+    code: gift_bundle_TacticalAcademy_CETME556
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11705
+    name: 厳しい風紀委員
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 116
+    skin: 11705
+    poster: 311705
+    code: gift_bundle_TacticalAcademy_Z62
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: 夏の午後の風
     type: 2
@@ -13553,6 +13633,22 @@
     skin: 30033
     poster: 330033
     code: gift_bundle_BattlePass_HK416
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30034
+    name: 疾走距離
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 162
+    skin: 30034
+    poster: 330034
+    code: gift_bundle_BattlePass_SPAS12
     normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
