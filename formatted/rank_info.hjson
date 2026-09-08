@@ -94,23 +94,21 @@
     id: "8"
     name: イベントランキング
     type: "6"
-    sub_type: "11002,11003,11004,11005,11006,11007,11008,11009,11010"
-    refresh: end:2025-11-01 23:59:59
-    title: ＜ベッチ数REDUX＞ポイントランキング(2025年11月7日報酬発給)
-    top_rewards: 1:331633,2:331634,3:331635,4:331636,5:331637,6:331638,7:331639,8:331640,9:331641,10:331642,100:331643
+    sub_type: "11988"
+    refresh: end:2026-03-12 10:00:00
+    title: ＜鉄雨礼賛＞ポイントランキング(2026年5月22日報酬発給)
+    top_rewards: 1:40865,2:40866,3:40867,4:40868,5:40869,6:40870,7:40871,8:40872,9:40873,10:40874,100:40875
     visable_rank: "100"
     visable_count: "100"
-    score_rewards: 450000:331644,600000:331645,1000000:331646,1300000:331647,1700000:331648
+    score_rewards: 60000:40876,150000:40877,300000:40878,450000:40879,600000:40880
     ranking_onlist_number: "80000"
     every_table_num: "30000"
     rank_list_num: "1"
-    begin_refresh_time: 2025-10-17
-    end_refresh_time: 2025-11-01
-    begin_show_time: 2025-10-17 00:00:00
-    end_show_time: 2025-11-14 23:59:59
-    mission_rank_type: "2"
-    sub_mission_group: 11002&&(11003||11004)&&(11005||11006||11007||11008||11009||11010)
-    prize_preview: http://gfjp-cdn.sunborngame.com/banner/listAward20251017.html
+    begin_refresh_time: 2026-04-24
+    end_refresh_time: 2026-05-16
+    begin_show_time: 2026-04-24 00:00:00
+    end_show_time: 2026-05-29 13:00:00
+    prize_preview: http://gfjp-cdn.sunborngame.com/banner/listAward20260422.html
     sub_rank_name: rank-30000008
   }
   {
@@ -1110,6 +1108,98 @@
     sub_type: "11630"
     refresh: test
     title: <ナイトメアラビリンス+>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
+    id: "311"
+    name: ベッチ数常設
+    type: "10"
+    sub_type: "11002,11003,11004,11005,11006,11007,11008,11009,11010"
+    refresh: test
+    title: <ベッチ数>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "2"
+    sub_mission_group: 11002&&(11003||11004)&&(11005||11006||11007||11008||11009||11010)
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
+    id: "312"
+    name: 練習曲第1番ハ長調常設
+    type: "10"
+    sub_type: "11118"
+    refresh: test
+    title: <練習曲第1番ハ長調>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
+    id: "313"
+    name: 自画像常設
+    type: "10"
+    sub_type: "11402,11403"
+    refresh: test
+    title: <自画像>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "2"
+    sub_mission_group: 11402||11403
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
+    id: "314"
+    name: ペンローズの階段から跳び下りて常設
+    type: "10"
+    sub_type: "11603"
+    refresh: test
+    title: <ペンローズの階段から跳び下りて>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
+    id: "315"
+    name: 静かな砂盤常設
+    type: "10"
+    sub_type: "11946"
+    refresh: test
+    title: <静かな砂盤>常設ランキング
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: ポイント
+  }
+  {
+    id: "316"
+    name: 鉄雨礼賛常設
+    type: "10"
+    sub_type: "11988"
+    refresh: test
+    title: <鉄雨礼賛>常設ランキング
     visable_rank: "100"
     visable_count: "100"
     ranking_onlist_number: "80000"

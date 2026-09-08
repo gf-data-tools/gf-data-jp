@@ -407,7 +407,7 @@ AudioUI|UI_e_uianimation_19summer|UI_e_uianimation_19summer|UI
 AudioUI|UI_e_chapter_click|UI_e_chapter_click|UI
 AudioUI|UI_e_camera_pushin_19summer|UI_e_camera_pushin_19summer|UI
 AudioUI|UI_e_chapter_cancel|UI_e_chapter_cancel|UI
-AudioUI|UI_e_stage_select|UI_e_stage_select|UI 点击关卡还有面板音效出来音效暂时没意义
+AudioUI|UI_e_stage_select|UI_e_stage_select|UI
 AudioUI|UI_e_stage_animation|UI_e_stage_animation|UI
 AudioUI|UI_e_camera_pushout_19summer|UI_e_camera_pushout_19summer|UI
 
@@ -1068,6 +1068,8 @@ AudioBGM|10417|m_20winter_2_n|BGM
 //备用
 AudioBGM|m_20winter_3_n|m_20winter_3_n|BGM
 AudioBGM|m_20winter_end1|m_20winter_end1|BGM
+//3080图鉴新增配置
+AudioBGM|m_20winter_end|m_20winter_end|BGM
 
 //白情的BGM
 AudioBGM|m_wv_battle|m_wv_battle|BGM
@@ -1624,7 +1626,7 @@ AudioBGM|BGM_22Swim_Main|BGM_22Swim_Main|BGM
 AudioUI|UI_BP_skin|UI_BP_skin|UI
 
 //2022夏活关卡BGM
-//AudioBGM|Campaion-54|GF_2022_Summer_Main_1|BGM
+AudioBGM|Campaion-54|GF_2022_Summer_Main_1|BGM
 AudioBGM|11117|GF_2022_Summer_Battle_1|BGM
 AudioBGM|11118|GF_2022_Summer_Battle_3|BGM
 AudioBGM|11119|GF_2022_Summer_Battle_1|BGM
@@ -3086,7 +3088,8 @@ AudioUI|Campaion-58-32|UI_23S_ChapterSwitch2|UI|
 AudioUI|Campaion-58-13|UI_23S_ChapterSwitch2|UI|
 AudioUI|Campaion-58-31|UI_23S_ChapterSwitch2|UI|
 AudioUI|UI_23S_ChapterDetail|UI_23S_ChapterDetail|UI|
-
+//3080图鉴新增配置
+AudioBGM|BGM_23S_Winter_Night_Slow|BGM_23S_Winter_Night_Slow|BGM
 
 //2023春活关卡BGM
 AudioBGM|11335|BGM_23S_Winter_Night_Highcut|BGM
@@ -3988,6 +3991,8 @@ AudioBGM|BGM_ev2412_GoTime|BGM_ev2412_GoTime|BGM
 AudioBGM|BGM_ev2412_PrinceIgor|BGM_ev2412_PrinceIgor|BGM
 AudioBGM|BGM_ev2412_tranquility|BGM_ev2412_tranquility|BGM
 AudioBGM|BGM_ev2412_Yaroslavna|BGM_ev2412_Yaroslavna|BGM
+//3080图鉴新增配置
+AudioBGM|BGM_ev2412_ED|BGM_ev2412_ED|BGM
 
 AudioBGM|Campaion-74|BGM_ev2412_2064|BGM
 AudioBGM|11836|BGM_ev2412_PrinceIgor|BGM
@@ -4056,8 +4061,37 @@ AudioBGM|Campaion-77|BGM_ev2412_2064|BGM
 AudioBGM|11946|BGM_23SF_zonghe_3|BGM
 
 
+//零态潮汐
+AudioBGM|Campaion-78|BGM_ev2412_2064|BGM
+AudioBGM|11948|GF_21summer_avg_Crisis|BGM
+AudioBGM|11949|GF_21winter_battle_3|BGM
+AudioBGM|11950|BGM_23SF_Battle_2|BGM
+AudioBGM|11951|BGM_23SF_Battle_3|BGM
+AudioBGM|11952|2022_white_valentine_BGM1|BGM
+AudioBGM|11953|GF_22W_BGM_2_NM|BGM
+AudioBGM|11954|GF_22W_BGM_1_NM|BGM
+AudioBGM|11955|BGM_ev2412_Yaroslavna|BGM
+AudioBGM|11956|GF_21winter_battle_3|BGM
+AudioBGM|11957|BGM_23SF_Battle_3|BGM
+AudioBGM|11958|GF_22W_BGM_2_NM|BGM
+AudioBGM|11959|GF_22W_BGM_1_NM|BGM
+AudioBGM|11960|BGM_ev2412_Yaroslavna|BGM
+AudioBGM|11961|GF_21winter_battle_3|BGM
+AudioBGM|11962|BGM_23SF_Battle_3|BGM
+AudioBGM|11963|GF_22W_BGM_2_NM|BGM
+AudioBGM|11964|GF_22W_BGM_1_NM|BGM
+AudioBGM|11965|BGM_ev2412_Yaroslavna|BGM
+AudioBGM|11966|GF_MAP1_BGM|BGM
+AudioBGM|11967|GF_MAP1_BGM|BGM
+AudioBGM|11983|GF_21winter_avg_mahaline|BGM
+AudioBGM|BGM_No_Why|BGM_No Why|BGM
 
-
+//2026春节
+//活动界面
+AudioBGM|Campaion-79|BGM_23SF_Main|BGM
+//关卡
+AudioBGM|11987|2022_white_valentine_BGM1|BGM
+AudioBGM|11988|BGM_23SF_zonghe_3|BGM
 
 
 

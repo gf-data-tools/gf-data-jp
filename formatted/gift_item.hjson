@@ -440,6 +440,36 @@
     sort: 2000
   }
   {
+    id: 213
+    name: メイド待機中
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 213
+    code: gift_bundle_kalina_213
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: カリーナのスキン開放
+    description: 宿舎で対応するNPCにプレゼントすることで、スキンを開放できます
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 214
+    name: ベストニュース
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 214
+    code: gift_bundle_kalina_214
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: カリーナのスキン開放
+    description: 宿舎で対応するNPCにプレゼントすることで、スキンを開放できます
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 301
     name: 星への願い事
     type: 2
@@ -13016,6 +13046,22 @@
     type_sort: 6
   }
   {
+    id: 11506
+    name: 砂時計の鏡
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 47
+    skin: 11506
+    poster: 311506
+    code: gift_bundle_Anniversary2025_G43
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 11507
     name: スイートロンド
     type: 2
@@ -13041,6 +13087,134 @@
     skin: 11508
     poster: 311508
     code: gift_bundle_Anniversary2025_HowaType89
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11601
+    name: 駐留の時
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 377
+    skin: 11601
+    poster: 311601
+    code: gift_bundle_2025Afterword_SCARH
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11602
+    name: 蜃気楼を追いかけて
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 53
+    skin: 11602
+    poster: 311602
+    code: gift_bundle_2025Afterword_NTW20
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11603
+    name: 瓶の中の空
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 316
+    skin: 11603
+    poster: 311603
+    code: gift_bundle_2025Afterword_GeneralLiu
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11604
+    name: 風の旅と歌
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 94
+    skin: 11604
+    poster: 311604
+    code: gift_bundle_2025Afterword_64type
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11605
+    name: 地平線を眺めて
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 81
+    skin: 11605
+    poster: 311605
+    code: gift_bundle_2025Afterword_LWMMG
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11606
+    name: 躍動のシグナル
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 146
+    skin: 11606
+    poster: 311606
+    code: gift_bundle_2025Afterword_G28
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11608
+    name: 暁の旅路
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 77
+    skin: 11608
+    poster: 311608
+    code: gift_bundle_2025Afterword_M2HB
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11609
+    name: 心が作る形
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 95
+    skin: 11609
+    poster: 311609
+    code: gift_bundle_202511_88type
     normal_description: プレゼントを贈ると相応の好感度を獲得できます
     bonus_description: 人形換装開放
     description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
@@ -13656,6 +13830,102 @@
     type_sort: 6
   }
   {
+    id: 30035
+    name: ブリザードフィン
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 404
+    skin: 30035
+    poster: 330035
+    code: gift_bundle_BattlePass_MK18
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30036
+    name: 廃墟の上で
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 234
+    skin: 30036
+    poster: 330036
+    code: gift_bundle_BattlePass_JS9mm
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30037
+    name: ドキドキ大競技
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 138
+    skin: 30037
+    poster: 330037
+    code: gift_bundle_BattlePass_6P62
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30038
+    name: 花と白日夢
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 315
+    skin: 30038
+    poster: 330038
+    code: gift_bundle_BattlePass_AUGPARA
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30039
+    name: 冬霧の旅人
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 39
+    skin: 30039
+    poster: 330039
+    code: gift_bundle_BattlePass_M1891
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30040
+    name: アヒルちゃん特攻隊
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 80
+    skin: 30040
+    poster: 330040
+    code: gift_bundle_BattlePass_M1919A4
+    normal_description: プレゼントを贈ると相応の好感度を獲得できます
+    bonus_description: 人形換装開放
+    description: 対応する人形にプレゼントすると相応のスキン、ポスター、好感度を獲得します
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 50001
     name: 星々へ
     type: 2
@@ -13827,7 +14097,7 @@
     favor: 30000
     code: gift_item_whiskey
     normal_description: プレゼントすると好感度を獲得します
-    bonus_description: もし街を奪還出来たら、一杯奢ってやるぜ。いや、悪いが、「我々が街を奪還した後」という意味だ。
+    bonus_description: 街を取り戻せたら、一杯奢ってやるよ。ああ、「街を取り戻せたら」、だ。
     description: 宿舎にて対応する人形にプレゼントすることで、好感度を3ポイント上げることができます。
     item_access: "2"
     sort: -1011
@@ -14025,6 +14295,7 @@
     code: gift_item_glowstick
     normal_description: プレゼントすると好感度を獲得します
     bonus_description: なし
+    description: 対応する人形にプレゼントすると、3点の好感度を獲得できます
     item_access: "2"
     detail_introduction: 応援することに、言葉は要らない。ペンライトを振りかざすだけで、君の気持ちは確かに届く。
     sort: -1015
@@ -14123,7 +14394,7 @@
     rank: 5
     code: gift_item_preparations
     normal_description: 人形や妖精が経験値を獲得します
-    bonus_description: 対応する人形にプレゼントすると、10000経験値を獲得します
+    bonus_description: カンデル医師の協力の元で開発された新しい薬だ、免疫力を高めることができる。
     description: 宿舎にて対応する人形にプレゼントすることで、経験値を10000ポイント上げることができます。
     exp: 10000
     item_access: "2"

@@ -408,6 +408,7 @@ patch3071=
 "3071/DeploymentBuildingController",
 "3081/BattleController",
 "3081/PlayerReturnItemController",
+"3081/Requests",
 }
 patch3080=
 {
@@ -449,6 +450,8 @@ patch3081=
 "3081/BattleController",
 "3081/PlayerReturnItemController",
 "3081/IllustratedBookController",
+"3081/MissionSelectionMissionDetailController",
+"3081/RewardBoxController",
 }
 -- va11
 print("load Va11");

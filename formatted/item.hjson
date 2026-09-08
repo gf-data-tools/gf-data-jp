@@ -963,12 +963,39 @@
     rank: 1
   }
   {
+    id: 151
+    type: 3
+    arg: "52"
+    code: Medal_202509Activity_rank
+    item_name: 逆潮の勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、ランキングステージ「静かな砂盤」で、輝かしい成績を残したことを表彰する。「混沌の潮はその計算にて静止した。文明の秩序はその砂盤の上にて築かれる」
+    rank: 1
+  }
+  {
     id: 152
     type: 3
     arg: "53"
     code: Medal_2022winter_re_rank
     item_name: 転生者勲章
     introduction: 静止点のランキングモード「ベッチ数REDUX」において、輝かしい成績を残したことを表彰する。「建材、今度こそもっとたくさん手に入れてやる！」
+    rank: 1
+  }
+  {
+    id: 153
+    type: 3
+    arg: "54"
+    code: Medal_202509Activity
+    item_name: 潮騒の光勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、イベント「零点潮汐」にて称えられる功績を残したことを表彰する。「ここに来たのは、落とし物を探しにではない。心の光を、この楽園に撒きに来たのだ。そして、愛と希望はその形を得た」
+    rank: 1
+  }
+  {
+    id: 154
+    type: 3
+    arg: "55"
+    code: Medal_202602Activity_rank
+    item_name: 雨よけの勲章
+    introduction: 指揮官及びその配下の戦術人形たちが、ランキングステージ「鉄雨礼賛」で、輝かしい成績を残したことを表彰する。「その身は傘となり、この焦土に晴れが訪れるまで立ち続ける」
     rank: 1
   }
   {
@@ -1670,6 +1697,16 @@
     introduction: スコーピオンアイコン
     rank: 1
     detail_introduction: item-30001011
+  }
+  {
+    id: 1012
+    type: 5
+    arg: "1"
+    code: profilePic_rank3_SPS
+    item_name: セルジュコフアイコン
+    introduction: セルジュコフアイコン
+    rank: 1
+    detail_introduction: item-30001012
   }
   {
     id: 1013
@@ -8411,8 +8448,8 @@
     type: 5
     arg: "1"
     code: profilePic_sangvis_Golyat_Factory
-    item_name: ゴリアテ工場SWAPアイコン
-    introduction: ゴリアテ工場SWAPアイコン
+    item_name: ゴリアテ工場アイコン
+    introduction: ゴリアテ工場アイコン
     rank: 1
   }
   {
@@ -9187,6 +9224,15 @@
     code: profilePic_SpringFes2021_56typeR
     item_name: 金銭樹を支える
     introduction: 金銭樹を支える
+    rank: 1
+  }
+  {
+    id: 1834
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Nemeum_HD
+    item_name: ニーマムアイコン-HD
+    introduction: ニーマムアイコン-HD
     rank: 1
   }
   {
@@ -11022,6 +11068,15 @@
     code: profilePic_SpringFes2022_FN49
     item_name: 蜀錦羞
     introduction: 蜀錦羞
+    rank: 1
+  }
+  {
+    id: 2049
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Guard_chm_HD
+    item_name: ジンジャーブレッドガードアイコン-HD
+    introduction: ジンジャーブレッドガードアイコン-HD
     rank: 1
   }
   {
@@ -16645,8 +16700,8 @@
     type: 5
     arg: "1"
     code: card_BattlePass_Six12
-    item_name: アイコン：孤独な戦い
-    introduction: アイコン：孤独な戦い
+    item_name: IDカード背景：孤独な戦い
+    introduction: IDカード背景：孤独な戦い
     rank: 1
   }
   {
@@ -16663,8 +16718,215 @@
     type: 5
     arg: "1"
     code: card_BattlePass_HK416
-    item_name: アイコン：薄桜歳時記
-    introduction: アイコン：薄桜歳時記
+    item_name: IDカード背景：薄桜歳時記
+    introduction: IDカード背景：薄桜歳時記
+    rank: 1
+  }
+  {
+    id: 2710
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_SCARH
+    item_name: 駐留の時
+    introduction: 駐留の時
+    rank: 1
+  }
+  {
+    id: 2711
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_NTW20
+    item_name: 蜃気楼を追いかけて
+    introduction: 蜃気楼を追いかけて
+    rank: 1
+  }
+  {
+    id: 2712
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_GeneralLiu
+    item_name: 瓶の中の空
+    introduction: 瓶の中の空
+    rank: 1
+  }
+  {
+    id: 2713
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_64type
+    item_name: 風の旅と歌
+    introduction: 風の旅と歌
+    rank: 1
+  }
+  {
+    id: 2714
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_LWMMG
+    item_name: 地平線を眺めて
+    introduction: 地平線を眺めて
+    rank: 1
+  }
+  {
+    id: 2715
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_G28
+    item_name: 躍動のシグナル
+    introduction: 躍動のシグナル
+    rank: 1
+  }
+  {
+    id: 2716
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_M2HB
+    item_name: 暁の旅路
+    introduction: 暁の旅路
+    rank: 1
+  }
+  {
+    id: 2717
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_01
+    item_name: アイコン：模造品
+    introduction: アイコン：模造品
+    rank: 1
+  }
+  {
+    id: 2718
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_02
+    item_name: アイコン：共生の形
+    introduction: アイコン：共生の形
+    rank: 1
+  }
+  {
+    id: 2719
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_03
+    item_name: アイコン：血と淵
+    introduction: アイコン：血と淵
+    rank: 1
+  }
+  {
+    id: 2720
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_04
+    item_name: アイコン：女神の祈り
+    introduction: アイコン：女神の祈り
+    rank: 1
+  }
+  {
+    id: 2721
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_05
+    item_name: アイコン：熊
+    introduction: アイコン：熊
+    rank: 1
+  }
+  {
+    id: 2722
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_06
+    item_name: アイコン：鷲獅子
+    introduction: アイコン：鷲獅子
+    rank: 1
+  }
+  {
+    id: 2723
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_07
+    item_name: アイコン：あなたの傍に
+    introduction: アイコン：あなたの傍に
+    rank: 1
+  }
+  {
+    id: 2724
+    type: 5
+    arg: "1"
+    code: card_202509Activity_01
+    item_name: IDカード背景：消えゆく温もり
+    introduction: IDカード背景：消えゆく温もり
+    rank: 1
+  }
+  {
+    id: 2725
+    type: 5
+    arg: "1"
+    code: card_202509Activity_02
+    item_name: IDカード背景：聖裁と原罪
+    introduction: IDカード背景：聖裁と原罪
+    rank: 1
+  }
+  {
+    id: 2726
+    type: 5
+    arg: "1"
+    code: card_202509Activity_03
+    item_name: IDカード背景：また会う日まで
+    introduction: IDカード背景：また会う日まで
+    rank: 1
+  }
+  {
+    id: 2727
+    type: 5
+    arg: "1"
+    code: cg_202509Activity_01
+    item_name: 基地背景：罪悪の温床
+    introduction: 基地背景：罪悪の温床
+    rank: 1
+  }
+  {
+    id: 2728
+    type: 5
+    arg: "1"
+    code: cg_202509Activity_02
+    item_name: 基地背景：妄執の揺りかご
+    introduction: 基地背景：妄執の揺りかご
+    rank: 1
+  }
+  {
+    id: 2729
+    type: 5
+    arg: "1"
+    code: cg_202509Activity_03
+    item_name: 基地背景：エルモ号
+    introduction: 基地背景：エルモ号
+    rank: 1
+  }
+  {
+    id: 2730
+    type: 5
+    arg: "1"
+    code: cg_AA02M
+    item_name: 基地背景：蘇りの地
+    introduction: 基地背景：蘇りの地
+    rank: 1
+  }
+  {
+    id: 2731
+    type: 5
+    arg: "1"
+    code: cg_Tank
+    item_name: 基地背景：空中要塞
+    introduction: 基地背景：空中要塞
+    rank: 1
+  }
+  {
+    id: 2732
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Teal
+    item_name: グリクアイコン
+    introduction: グリクアイコン
     rank: 1
   }
   {
@@ -16683,6 +16945,132 @@
     code: card_BattlePass_SPAS12
     item_name: IDカード背景：チーズこそパワー
     introduction: IDカード背景：チーズこそパワー
+    rank: 1
+  }
+  {
+    id: 2736
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_1
+    item_name: 束縛の残芽 · コード∞：共形
+    introduction: 束縛の残芽 · コード∞：共形
+    rank: 1
+  }
+  {
+    id: 2737
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_2
+    item_name: ボースの花芯 · コード∞：共形
+    introduction: ボースの花芯 · コード∞：共形
+    rank: 1
+  }
+  {
+    id: 2738
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_3
+    item_name: 永遠の徒花 · コード∞：共形
+    introduction: 永遠の徒花 · コード∞：共形
+    rank: 1
+  }
+  {
+    id: 2739
+    type: 5
+    arg: "1"
+    code: profilePic_202511_88type
+    item_name: 心が作る形
+    introduction: 心が作る形
+    rank: 1
+  }
+  {
+    id: 2740
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Brute
+    item_name: ブルートアイコン-HD
+    introduction: ブルートアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2741
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Dragoon
+    item_name: ドラグーンアイコン-HD
+    introduction: ドラグーンアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2742
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Guard_SWAP
+    item_name: ガードSWAPアイコン-HD
+    introduction: ガードSWAPアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2743
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Ripper_SWAP
+    item_name: リッパーSWAPアイコン-HD
+    introduction: リッパーSWAPアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2744
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Dragoon_SWAP
+    item_name: ドラグーンSWAPアイコン-HD
+    introduction: ドラグーンSWAPアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2745
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Ripper
+    item_name: リッパーアイコン-HD
+    introduction: リッパーアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2746
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Vespid
+    item_name: ヴェスピドアイコン-HD
+    introduction: ヴェスピドアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2747
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Guard
+    item_name: ガードアイコン-HD
+    introduction: ガードアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2748
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Jaeger
+    item_name: イェーガーアイコン-HD
+    introduction: イェーガーアイコン-HD
+    rank: 1
+  }
+  {
+    id: 2749
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Striker
+    item_name: ストライカーアイコン-HD
+    introduction: ストライカーアイコン-HD
     rank: 1
   }
   {
@@ -16731,6 +17119,123 @@
     rank: 1
   }
   {
+    id: 2755
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MK18
+    item_name: ブリザードフィン
+    introduction: ブリザードフィン
+    rank: 1
+  }
+  {
+    id: 2756
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MK18
+    item_name: IDカード背景：零下急行
+    introduction: IDカード背景：零下急行
+    rank: 1
+  }
+  {
+    id: 2757
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_JS9mm
+    item_name: 廃墟の上で
+    introduction: 廃墟の上で
+    rank: 1
+  }
+  {
+    id: 2758
+    type: 5
+    arg: "1"
+    code: card_BattlePass_JS9mm
+    item_name: IDカード背景：訪れる朝
+    introduction: IDカード背景：訪れる朝
+    rank: 1
+  }
+  {
+    id: 2759
+    type: 5
+    arg: "1"
+    code: profilePic_2026SpringJP_coremask
+    item_name: 真核の仮面アイコン·春の贈り物
+    introduction: 真核の仮面アイコン·春の贈り物
+    rank: 1
+  }
+  {
+    id: 2760
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_6P62
+    item_name: ドキドキ大競技
+    introduction: ドキドキ大競技
+    rank: 1
+  }
+  {
+    id: 2761
+    type: 5
+    arg: "1"
+    code: card_BattlePass_6P62
+    item_name: IDカード背景：6P62のクリア命令
+    introduction: IDカード背景：6P62のクリア命令
+    rank: 1
+  }
+  {
+    id: 2762
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_AUGPARA
+    item_name: 花と白日夢
+    introduction: 花と白日夢
+    rank: 1
+  }
+  {
+    id: 2763
+    type: 5
+    arg: "1"
+    code: card_BattlePass_AUGPARA
+    item_name: IDカード背景：花香る枕辺
+    introduction: IDカード背景：花香る枕辺
+    rank: 1
+  }
+  {
+    id: 2764
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1891
+    item_name: 冬霧の旅人
+    introduction: 冬霧の旅人
+    rank: 1
+  }
+  {
+    id: 2765
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1891
+    item_name: IDカード背景：霧隠す冬の道
+    introduction: IDカード背景：霧隠す冬の道
+    rank: 1
+  }
+  {
+    id: 2766
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1919A4
+    item_name: アヒルちゃん特攻隊
+    introduction: アヒルちゃん特攻隊
+    rank: 1
+  }
+  {
+    id: 2767
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1919A4
+    item_name: IDカード背景：アヒル的勝利
+    introduction: IDカード背景：アヒル的勝利
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -16764,6 +17269,15 @@
     code: profilePic_rank4_MP41Mod
     item_name: MP41メンタルアップグレードアイコン
     introduction: MP41メンタルアップグレードアイコン
+    rank: 1
+  }
+  {
+    id: 3505
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_TT33Mod
+    item_name: トカレフメンタルアップグレードアイコン
+    introduction: トカレフメンタルアップグレードアイコン
     rank: 1
   }
   {
@@ -17940,6 +18454,59 @@
     rank: 1
   }
   {
+    id: 9049
+    type: 1
+    arg: "9049"
+    code: mind_PT
+    item_name: 思考域の迷路PT
+    introduction: 思考域の迷路PT
+    rank: 1
+  }
+  {
+    id: 9050
+    type: 1
+    arg: "9050"
+    code: Griffin
+    item_name: item-10009050
+    introduction: item-20009050
+    rank: 1
+    detail_introduction: item-30009050
+    is_hide_info: 1
+  }
+  {
+    id: 9051
+    type: 1
+    arg: "9051"
+    code: Griffin
+    item_name: item-10009051
+    introduction: item-20009051
+    rank: 1
+    detail_introduction: item-30009051
+    is_hide_info: 1
+  }
+  {
+    id: 9052
+    type: 1
+    arg: "9052"
+    code: Griffin
+    item_name: item-10009052
+    introduction: item-20009052
+    rank: 1
+    detail_introduction: item-30009052
+    is_hide_info: 1
+  }
+  {
+    id: 9053
+    type: 1
+    arg: "9053"
+    code: Griffin
+    item_name: item-10009053
+    introduction: item-20009053
+    rank: 1
+    detail_introduction: item-30009053
+    is_hide_info: 1
+  }
+  {
     id: 9301
     type: 1
     arg: "9301"
@@ -18388,6 +18955,42 @@
     rank: 1
   }
   {
+    id: 10728
+    type: 18
+    arg: "10728"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10729
+    type: 18
+    arg: "10729"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10730
+    type: 18
+    arg: "10730"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
+    id: 10731
+    type: 18
+    arg: "10731"
+    code: daily_points
+    item_name: 灰域探査ポイント
+    introduction: 灰域探査ポイント
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -18493,6 +19096,60 @@
     code: gift_bundle_BattlePass_SPAS12
     item_name: 疾走距離
     introduction: はぁ、はぁ……あと1キロ走れば、あのチーズバーガーがご褒美だ！
+    rank: 1
+  }
+  {
+    id: 30035
+    type: 1
+    arg: "30035"
+    code: gift_bundle_BattlePass_MK18
+    item_name: ブリザードフィン
+    introduction: これが「スノーボード」なんですね。まるで海流に乗っているみたい……さぁオウムガイさん、ついてきてください。速度を上げますよ。
+    rank: 1
+  }
+  {
+    id: 30036
+    type: 1
+    arg: "30036"
+    code: gift_bundle_BattlePass_JS9mm
+    item_name: 廃墟の上で
+    introduction: 今日の巡回場所はここですか？……分かりました。どんなに酷い環境でも、いつも通りに行動します。
+    rank: 1
+  }
+  {
+    id: 30037
+    type: 1
+    arg: "30037"
+    code: gift_bundle_BattlePass_6P62
+    item_name: ドキドキ大競技
+    introduction: このゲーム部屋はアタシの秘密基地よ！でも、特別な人になら……指揮官、一緒にゲームしない？負けた方は罰ゲームだけどね！
+    rank: 1
+  }
+  {
+    id: 30038
+    type: 1
+    arg: "30038"
+    code: gift_bundle_BattlePass_AUGPARA
+    item_name: 花と白日夢
+    introduction: これはSOPさんにあげるひまわり、これはAUGさんに……えっ？どうしてそんなにみんなのことを知っているのか、ですか？だって、可愛い人形さんたちを観察するのも、私の仕事のうちですから〜
+    rank: 1
+  }
+  {
+    id: 30039
+    type: 1
+    arg: "30039"
+    code: gift_bundle_BattlePass_M1891
+    item_name: ナガン-冬霧の旅人
+    introduction: 紅茶の香りって、いつもたくさんの記憶を呼び起こす……でも一番大切な記憶は、あなたと出会ったあの日から始まるの。
+    rank: 1
+  }
+  {
+    id: 30040
+    type: 1
+    arg: "30040"
+    code: gift_bundle_BattlePass_M1919A4
+    item_name: アヒルちゃん特攻隊
+    introduction: さぁ、急いで指揮官！この棚のセール中のお菓子も、この黄色いアヒルちゃんたちも、ぜーんぶまとめてお持ち帰りするよ！
     rank: 1
   }
   {
@@ -20601,6 +21258,97 @@
     daily_limit: 60;180
   }
   {
+    id: 100288
+    type: 4
+    arg: "100288"
+    code: Bumdle_October4
+    item_name: 紅葉巡りの箱
+    introduction: 紅葉巡りの箱
+    rank: 1
+  }
+  {
+    id: 100289
+    type: 4
+    arg: "100289"
+    code: Nova_medal_black
+    item_name: 新星勲章・零点潮汐
+    introduction: 新星勲章・零点潮汐
+    rank: 1
+  }
+  {
+    id: 100290
+    type: 4
+    arg: "100290"
+    code: Platinum_medal_black
+    item_name: 白金勲章・零点潮汐
+    introduction: 白金勲章・零点潮汐
+    rank: 1
+  }
+  {
+    id: 100291
+    type: 9
+    arg: "100291"
+    code: Coin_202509QuantumFluctuation
+    item_name: 零点残晶
+    introduction: 世界が原初へ回帰する時、絡み合う軌道は本来の波動に戻る。それは、終焉をもたらす者に授けられた証の品。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100292
+    type: 4
+    arg: "100292"
+    code: coremask2_202509QuantumFluctuation
+    item_name: 蝕心の仮面・零点潮汐
+    introduction: 怪しげな雰囲気を醸し出している仮面。極めて厳しい試練を乗り越えた者のみ入手できる。しかし、手に入れたところで大した役には立たなさそうだ。せいぜい、ショップで待ち望んだ出会いと交換するぐらいかな。
+    rank: 1
+  }
+  {
+    id: 100293
+    type: 4
+    arg: "100293"
+    code: core_mask
+    item_name: 真核の仮面
+    introduction: 真核の仮面
+    rank: 1
+  }
+  {
+    id: 100294
+    type: 4
+    arg: "100294"
+    code: core_mask
+    item_name: 真核の仮面
+    introduction: 真核の仮面
+    rank: 1
+  }
+  {
+    id: 100295
+    type: 4
+    arg: "100295"
+    code: core_mask
+    item_name: 真核の仮面
+    introduction: 真核の仮面
+    rank: 1
+  }
+  {
+    id: 100296
+    type: 4
+    arg: "100296"
+    code: core_mask
+    item_name: 真核の仮面
+    introduction: 真核の仮面
+    rank: 1
+  }
+  {
+    id: 100297
+    type: 4
+    arg: "100297"
+    code: core_mask
+    item_name: 真核の仮面
+    introduction: 真核の仮面
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -21334,6 +22082,51 @@
     id: 110079
     type: 4
     arg: "110079"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110080
+    type: 4
+    arg: "110080"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110081
+    type: 4
+    arg: "110081"
+    code: EventPT5
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110082
+    type: 4
+    arg: "110082"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110083
+    type: 4
+    arg: "110083"
+    code: PT
+    item_name: イベントポイント
+    introduction: イベントポイント
+    rank: 1
+  }
+  {
+    id: 110084
+    type: 4
+    arg: "110084"
     code: PT
     item_name: イベントポイント
     introduction: イベントポイント
@@ -23495,6 +24288,246 @@
     detail_introduction: item-30140068
   }
   {
+    id: 140069
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140069
+    introduction: item-20140069
+    rank: 1
+    detail_introduction: item-30140069
+  }
+  {
+    id: 140070
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140070
+    introduction: item-20140070
+    rank: 1
+    detail_introduction: item-30140070
+  }
+  {
+    id: 140071
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140071
+    introduction: item-20140071
+    rank: 1
+    detail_introduction: item-30140071
+  }
+  {
+    id: 140072
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140072
+    introduction: item-20140072
+    rank: 1
+    detail_introduction: item-30140072
+  }
+  {
+    id: 140073
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140073
+    introduction: item-20140073
+    rank: 1
+    detail_introduction: item-30140073
+  }
+  {
+    id: 140074
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140074
+    introduction: item-20140074
+    rank: 1
+    detail_introduction: item-30140074
+  }
+  {
+    id: 140075
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140075
+    introduction: item-20140075
+    rank: 1
+    detail_introduction: item-30140075
+  }
+  {
+    id: 140076
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140076
+    introduction: item-20140076
+    rank: 1
+    detail_introduction: item-30140076
+  }
+  {
+    id: 140077
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140077
+    introduction: item-20140077
+    rank: 1
+    detail_introduction: item-30140077
+  }
+  {
+    id: 140078
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140078
+    introduction: item-20140078
+    rank: 1
+    detail_introduction: item-30140078
+  }
+  {
+    id: 140079
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140079
+    introduction: item-20140079
+    rank: 1
+    detail_introduction: item-30140079
+  }
+  {
+    id: 140080
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140080
+    introduction: item-20140080
+    rank: 1
+    detail_introduction: item-30140080
+  }
+  {
+    id: 140081
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140081
+    introduction: item-20140081
+    rank: 1
+    detail_introduction: item-30140081
+  }
+  {
+    id: 140082
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140082
+    introduction: item-20140082
+    rank: 1
+    detail_introduction: item-30140082
+  }
+  {
+    id: 140083
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140083
+    introduction: item-20140083
+    rank: 1
+    detail_introduction: item-30140083
+  }
+  {
+    id: 140084
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140084
+    introduction: item-20140084
+    rank: 1
+    detail_introduction: item-30140084
+  }
+  {
+    id: 140085
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140085
+    introduction: item-20140085
+    rank: 1
+    detail_introduction: item-30140085
+  }
+  {
+    id: 140086
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140086
+    introduction: item-20140086
+    rank: 1
+    detail_introduction: item-30140086
+  }
+  {
+    id: 140087
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140087
+    introduction: item-20140087
+    rank: 1
+    detail_introduction: item-30140087
+  }
+  {
+    id: 140088
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140088
+    introduction: item-20140088
+    rank: 1
+    detail_introduction: item-30140088
+  }
+  {
+    id: 140089
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140089
+    introduction: item-20140089
+    rank: 1
+    detail_introduction: item-30140089
+  }
+  {
+    id: 140090
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140090
+    introduction: item-20140090
+    rank: 1
+    detail_introduction: item-30140090
+  }
+  {
+    id: 140091
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140091
+    introduction: item-20140091
+    rank: 1
+    detail_introduction: item-30140091
+  }
+  {
+    id: 140092
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140092
+    introduction: item-20140092
+    rank: 1
+    detail_introduction: item-30140092
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24021,6 +25054,60 @@
     code: profileFrame_BattlePass_SPAS12
     item_name: アイコンフレーム·グルメチャレンジ
     introduction: アイコンフレーム·グルメチャレンジ
+    rank: 1
+  }
+  {
+    id: 200060
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_MK18
+    item_name: アイコンフレーム：雪線アサルト
+    introduction: アイコンフレーム：雪線アサルト
+    rank: 1
+  }
+  {
+    id: 200061
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_JS9mm
+    item_name: アイコンフレーム：廃墟の曙
+    introduction: アイコンフレーム：廃墟の曙
+    rank: 1
+  }
+  {
+    id: 200062
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_6P62
+    item_name: アイコンフレーム：ブロック幻想
+    introduction: アイコンフレーム：ブロック幻想
+    rank: 1
+  }
+  {
+    id: 200063
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_AUGPARA
+    item_name: アイコンフレーム：春影のゆらめき
+    introduction: アイコンフレーム：春影のゆらめき
+    rank: 1
+  }
+  {
+    id: 200064
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1891
+    item_name: アイコンフレーム：灯火ゆらめくティーパーティー
+    introduction: アイコンフレーム：灯火ゆらめくティーパーティー
+    rank: 1
+  }
+  {
+    id: 200065
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1919A4
+    item_name: アイコンフレーム：アヒル隊、出撃！
+    introduction: アイコンフレーム：アヒル隊、出撃！
     rank: 1
   }
   {
@@ -26636,6 +27723,675 @@
     type_sort: 1
   }
   {
+    id: 1500293
+    type: 15
+    arg: "1500293"
+    code: package_choose
+    item_name: 16Lab星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで16Lab★5装備を獲得することができます。
+    rank: 5
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500339
+    type: 15
+    arg: "1500339"
+    code: Bumdle_sangvischoose_rank3
+    item_name: 融合勢力ランク3ユニット指定ビーコン
+    introduction:
+      '''
+      倉庫にて使用することで、指定された初期レアリティ★3融合勢力ユニットの中から1体を選択し、獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500340
+    type: 15
+    arg: "1500340"
+    code: Bumdle_sangvischoose_rank2
+    item_name: 融合勢力ランク2ユニット指定ビーコン
+    introduction:
+      '''
+      倉庫にて使用することで、指定された初期レアリティ★2融合勢力ユニットの中から1体を選択し、獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500341
+    type: 15
+    arg: "1500341"
+    code: Bumdle_sangvischoose_rank1
+    item_name: 融合勢力ランク1ユニット指定ビーコン
+    introduction:
+      '''
+      倉庫にて使用することで、指定された初期レアリティ★1融合勢力ユニットの中から1体を選択し、獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500342
+    type: 15
+    arg: "1500342"
+    code: Bumdle_sangvischoose_avatar3
+    item_name: ランク3ユニットアイコン指定ビーコン
+    introduction: 倉庫にて使用することで、指定された初期レアリティ★3融合勢力ユニットのアイコンの中から1つを選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500343
+    type: 15
+    arg: "1500343"
+    code: Bumdle_sangvischoose_avatar2
+    item_name: ランク2ユニットアイコン指定ビーコン
+    introduction: 倉庫にて使用することで、指定された初期レアリティ★2融合勢力ユニットのアイコンの中から1つを選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500344
+    type: 15
+    arg: "1500344"
+    code: Bumdle_sangvischoose_avatar1
+    item_name: ランク1ユニットアイコン指定ビーコン
+    introduction: 倉庫にて使用することで、指定された初期レアリティ★1融合勢力ユニットのアイコンの中から1つを選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500345
+    type: 15
+    arg: "1500345"
+    code: Bumdle_sangvischoose_rank3
+    item_name: 融合勢力ランク3ユニット指定ビーコン
+    introduction:
+      '''
+      倉庫にて使用することで、指定された初期レアリティ★3融合勢力ユニットの中から1体を選択し、獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500346
+    type: 15
+    arg: "1500346"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-極地ボーダーで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500347
+    type: 15
+    arg: "1500347"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-極地ボーダーで獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500348
+    type: 15
+    arg: "1500348"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-極地ボーダーで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500349
+    type: 15
+    arg: "1500349"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-極地ボーダーで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500350
+    type: 15
+    arg: "1500350"
+    code: Bumdle_invocation_1
+    item_name: ★3人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★3人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500351
+    type: 15
+    arg: "1500351"
+    code: Bumdle_invocation_3
+    item_name: ★4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500352
+    type: 15
+    arg: "1500352"
+    code: Bumdle_invocation_2
+    item_name: ★5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500353
+    type: 15
+    arg: "1500353"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500354
+    type: 15
+    arg: "1500354"
+    code: Bumdle_equipment
+    item_name: ★5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500355
+    type: 15
+    arg: "1500355"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-暁のオーディナンスで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500356
+    type: 15
+    arg: "1500356"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-暁のオーディナンスで獲得。使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500357
+    type: 15
+    arg: "1500357"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-暁のオーディナンスで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500358
+    type: 15
+    arg: "1500358"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-暁のオーディナンスで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500359
+    type: 15
+    arg: "1500359"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-ときめきインビテーションで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500360
+    type: 15
+    arg: "1500360"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 前線協定-ときめきインビテーションで獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500361
+    type: 15
+    arg: "1500361"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-ときめきインビテーションで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500362
+    type: 15
+    arg: "1500362"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-ときめきインビテーションで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500363
+    type: 15
+    arg: "1500363"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-花束を贈るで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500364
+    type: 15
+    arg: "1500364"
+    code: package_choose
+    item_name: 弾倉装備指定ビーコン
+    introduction: 前線協定-花束を贈るで獲得。使用すると、座標指定投下ビーコンから弾倉装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500365
+    type: 15
+    arg: "1500365"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-花束を贈るで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500366
+    type: 15
+    arg: "1500366"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-花束を贈るで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500367
+    type: 15
+    arg: "1500367"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-白夜号列車で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500368
+    type: 15
+    arg: "1500368"
+    code: package_choose
+    item_name: 人形装備指定ビーコン
+    introduction: 前線協定-白夜号列車で獲得。使用すると、座標指定投下ビーコンから人形装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500369
+    type: 15
+    arg: "1500369"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-白夜号列車で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500370
+    type: 15
+    arg: "1500370"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-白夜号列車で獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500371
+    type: 15
+    arg: "1500371"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定-お楽しみショッピングデーで獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500372
+    type: 15
+    arg: "1500372"
+    code: package_choose
+    item_name: アタッチメント装備指定ビーコン
+    introduction: 前線協定-お楽しみショッピングデーで獲得。使用すると、座標指定投下ビーコンからアタッチメント装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500373
+    type: 15
+    arg: "1500373"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定-お楽しみショッピングデーで獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500374
+    type: 15
+    arg: "1500374"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-お楽しみショッピングデーで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500375
+    type: 15
+    arg: "1500375"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500376
+    type: 15
+    arg: "1500376"
+    code: package_choose
+    item_name: 上級装備指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500377
+    type: 15
+    arg: "1500377"
+    code: package_random
+    item_name: 未所持人形開放ビーコン
+    introduction: 前線協定で獲得。使用すると、ビーコンに指定された人形の中から、未所持の人形を1体獲得できる。ビーコンに指定された人形をすべて所持している場合、その中からランダムで1体を獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500378
+    type: 15
+    arg: "1500378"
+    code: package_random
+    item_name: 前線協定-追加報酬
+    introduction: 前線協定-お楽しみショッピングデーで獲得。使用すると、区域間投下ビーコンからランダムでアイテムを1個獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500379
+    type: 15
+    arg: "1500379"
+    code: package_choose
+    item_name: 前線協定-スキン指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからスキンを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500380
+    type: 15
+    arg: "1500380"
+    code: package_choose
+    item_name: 前線協定-アイコンフレーム指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからアイコンフレームを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500381
+    type: 15
+    arg: "1500381"
+    code: package_choose
+    item_name: 前線協定-IDカード背景指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからIDカード背景を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500382
+    type: 15
+    arg: "1500382"
+    code: package_choose
+    item_name: 前線協定-スキン指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからスキンを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500383
+    type: 15
+    arg: "1500383"
+    code: package_choose
+    item_name: 前線協定-アイコンフレーム指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからアイコンフレームを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500384
+    type: 15
+    arg: "1500384"
+    code: package_choose
+    item_name: 前線協定-IDカード背景指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからIDカード背景を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500385
+    type: 15
+    arg: "1500385"
+    code: package_choose
+    item_name: 前線協定-スキン指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからスキンを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500386
+    type: 15
+    arg: "1500386"
+    code: package_choose
+    item_name: 前線協定-アイコンフレーム指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからアイコンフレームを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500387
+    type: 15
+    arg: "1500387"
+    code: package_choose
+    item_name: 前線協定-IDカード背景指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからIDカード背景を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500388
+    type: 15
+    arg: "1500388"
+    code: package_choose
+    item_name: 前線協定-スキン指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからスキンを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500389
+    type: 15
+    arg: "1500389"
+    code: package_choose
+    item_name: 前線協定-アイコンフレーム指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからアイコンフレームを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500390
+    type: 15
+    arg: "1500390"
+    code: package_choose
+    item_name: 前線協定-IDカード背景指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからIDカード背景を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500391
+    type: 15
+    arg: "1500391"
+    code: package_choose
+    item_name: 前線協定-スキン指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからスキンを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500392
+    type: 15
+    arg: "1500392"
+    code: package_choose
+    item_name: 前線協定-アイコンフレーム指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからアイコンフレームを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500393
+    type: 15
+    arg: "1500393"
+    code: package_choose
+    item_name: 前線協定-IDカード背景指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからIDカード背景を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500394
+    type: 15
+    arg: "1500394"
+    code: package_choose
+    item_name: 前線協定-スキン指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからスキンを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500395
+    type: 15
+    arg: "1500395"
+    code: package_choose
+    item_name: 前線協定-アイコンフレーム指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからアイコンフレームを1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500396
+    type: 15
+    arg: "1500396"
+    code: package_choose
+    item_name: 前線協定-IDカード背景指定ビーコン
+    introduction: 前線協定で獲得。使用すると、座標指定投下ビーコンからIDカード背景を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -27323,6 +29079,105 @@
     type_sort: 1
   }
   {
+    id: 1700061
+    type: 15
+    arg: "1700061"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700062
+    type: 15
+    arg: "1700062"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700063
+    type: 15
+    arg: "1700063"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700064
+    type: 15
+    arg: "1700064"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700065
+    type: 15
+    arg: "1700065"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700066
+    type: 15
+    arg: "1700066"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700085
+    type: 15
+    arg: "1700085"
+    code: package_choose
+    item_name: 基本装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700086
+    type: 15
+    arg: "1700086"
+    code: package_choose
+    item_name: 基本専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆4以下の人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700087
+    type: 15
+    arg: "1700087"
+    code: package_choose
+    item_name: 高ランク専用装備指定ビーコン
+    introduction: 灰域探査で獲得。使用すると、座標指定投下ビーコンから☆5人形の専用装備を1個選んで獲得できる。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1800001
     type: 15
     arg: "1800001"
@@ -27525,11 +29380,10 @@
     type: 15
     arg: "9500001"
     code: package_choose
-    item_name: item-19500001
-    introduction: item-29500001
+    item_name: 星4人形支援要請書
+    introduction: 使用することで、「2022年9月2日(金)」までに実装された「星4戦術人形」から1名を要請できます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500001
     type_sort: 1
   }
   {
@@ -27537,11 +29391,10 @@
     type: 15
     arg: "9500002"
     code: package_choose
-    item_name: item-19500002
-    introduction: item-29500002
+    item_name: 星5人形支援要請書
+    introduction: 使用することで、「2022年9月2日(金)」までに実装された「星5戦術人形」から1名を要請できます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500002
     type_sort: 1
   }
   {
@@ -27549,11 +29402,10 @@
     type: 15
     arg: "9500003"
     code: Bumdle_Coupons3
-    item_name: item-19500003
-    introduction: item-29500003
+    item_name: 秘蔵スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500003
     type_sort: 1
   }
   {
@@ -27561,11 +29413,10 @@
     type: 15
     arg: "9500004"
     code: Bumdle_Coupons2
-    item_name: item-19500004
-    introduction: item-29500004
+    item_name: プレミアムスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500004
     type_sort: 1
   }
   {
@@ -27573,11 +29424,10 @@
     type: 15
     arg: "9500005"
     code: Bumdle_Coupons1
-    item_name: item-19500005
-    introduction: item-29500005
+    item_name: 至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500005
     type_sort: 1
   }
   {
@@ -27585,11 +29435,10 @@
     type: 15
     arg: "9500006"
     code: Bumdle_invocation_1
-    item_name: item-19500006
-    introduction: item-29500006
+    item_name: 星4人形支援要請書
+    introduction: 使用することで、「2023年9月15日(金)」の前日までに実装された「星4戦術人形」から1名を要請できます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500006
     type_sort: 1
   }
   {
@@ -27597,11 +29446,10 @@
     type: 15
     arg: "9500007"
     code: Bumdle_invocation_2
-    item_name: item-19500007
-    introduction: item-29500007
+    item_name: 星5人形支援要請書
+    introduction: 使用することで、「2023年9月15日(金)」の前日までに実装された「星5戦術人形」から1名を要請できます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500007
     type_sort: 1
   }
   {
@@ -27609,11 +29457,10 @@
     type: 15
     arg: "9500008"
     code: Bumdle_invocation_3
-    item_name: item-19500008
-    introduction: item-29500008
+    item_name: GW限定人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500008
     type_sort: 1
   }
   {
@@ -27621,11 +29468,10 @@
     type: 15
     arg: "9500009"
     code: Bumdle_1year_Coupons
-    item_name: item-19500009
-    introduction: item-29500009
+    item_name: 一周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
     rank: 1
     sort: -1
-    detail_introduction: item-39500009
     type_sort: 1
   }
   {
@@ -27633,11 +29479,10 @@
     type: 15
     arg: "9500010"
     code: Bumdle_2year_Coupons
-    item_name: item-19500010
-    introduction: item-29500010
+    item_name: 二周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
     rank: 1
     sort: -1
-    detail_introduction: item-39500010
     type_sort: 1
   }
   {
@@ -27645,11 +29490,10 @@
     type: 15
     arg: "9500011"
     code: Bumdle_3year_Coupons
-    item_name: item-19500011
-    introduction: item-29500011
+    item_name: 三周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
     rank: 1
     sort: -1
-    detail_introduction: item-39500011
     type_sort: 1
   }
   {
@@ -27657,11 +29501,10 @@
     type: 15
     arg: "9500012"
     code: Bumdle_4year_Coupons
-    item_name: item-19500012
-    introduction: item-29500012
+    item_name: 四周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
     rank: 1
     sort: -1
-    detail_introduction: item-39500012
     type_sort: 1
   }
   {
@@ -27669,11 +29512,10 @@
     type: 15
     arg: "9500013"
     code: Bumdle_5year_Coupons
-    item_name: item-19500013
-    introduction: item-29500013
+    item_name: 五周年至高のスキン抽選券
+    introduction: 倉庫にて使用することで、指定されたスキンの中からランダムで未所持のスキンを獲得することができる。
     rank: 1
     sort: -1
-    detail_introduction: item-39500013
     type_sort: 1
   }
   {
@@ -27681,11 +29523,10 @@
     type: 15
     arg: "9500014"
     code: Bumdle_invocation_3
-    item_name: item-19500014
-    introduction: item-29500014
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500014
     type_sort: 1
   }
   {
@@ -27693,11 +29534,10 @@
     type: 15
     arg: "9500015"
     code: Bumdle_invocation_2
-    item_name: item-19500015
-    introduction: item-29500015
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500015
     type_sort: 1
   }
   {
@@ -27705,11 +29545,10 @@
     type: 15
     arg: "9500016"
     code: Bumdle_invocation_3
-    item_name: item-19500016
-    introduction: item-29500016
+    item_name: 零電荷星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500016
     type_sort: 1
   }
   {
@@ -27717,11 +29556,10 @@
     type: 15
     arg: "9500017"
     code: Bumdle_invocation_2
-    item_name: item-19500017
-    introduction: item-29500017
+    item_name: 零電荷星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500017
     type_sort: 1
   }
   {
@@ -27729,11 +29567,14 @@
     type: 15
     arg: "9500018"
     code: Bumdle_sangvischoose
-    item_name: item-19500018
-    introduction: item-29500018
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
     rank: 1
     sort: -1
-    detail_introduction: item-39500018
     type_sort: 1
   }
   {
@@ -27741,11 +29582,10 @@
     type: 15
     arg: "9500019"
     code: Bumdle_equipment
-    item_name: item-19500019
-    introduction: item-29500019
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
-    detail_introduction: item-39500019
     type_sort: 1
   }
   {
@@ -27753,11 +29593,10 @@
     type: 15
     arg: "9500020"
     code: Bumdle_invocation_1
-    item_name: item-19500020
-    introduction: item-29500020
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500020
     type_sort: 1
   }
   {
@@ -27765,11 +29604,10 @@
     type: 15
     arg: "9500021"
     code: Bumdle_invocation_2
-    item_name: item-19500021
-    introduction: item-29500021
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500021
     type_sort: 1
   }
   {
@@ -27777,11 +29615,14 @@
     type: 15
     arg: "9500022"
     code: Bumdle_sangvischoose
-    item_name: item-19500022
-    introduction: item-29500022
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
     rank: 1
     sort: -1
-    detail_introduction: item-39500022
     type_sort: 1
   }
   {
@@ -27789,11 +29630,10 @@
     type: 15
     arg: "9500023"
     code: Bumdle_Coupons3
-    item_name: item-19500023
-    introduction: item-29500023
+    item_name: 秘蔵スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500023
     type_sort: 1
   }
   {
@@ -27801,11 +29641,10 @@
     type: 15
     arg: "9500024"
     code: Bumdle_Coupons2
-    item_name: item-19500024
-    introduction: item-29500024
+    item_name: プレミアムスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500024
     type_sort: 1
   }
   {
@@ -27813,11 +29652,10 @@
     type: 15
     arg: "9500025"
     code: Bumdle_Coupons1
-    item_name: item-19500025
-    introduction: item-29500025
+    item_name: 至高のスキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500025
     type_sort: 1
   }
   {
@@ -27825,11 +29663,14 @@
     type: 15
     arg: "9500026"
     code: Bumdle_sangvischoose
-    item_name: item-19500026
-    introduction: item-29500026
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
     rank: 1
     sort: -1
-    detail_introduction: item-39500026
     type_sort: 1
   }
   {
@@ -27837,11 +29678,10 @@
     type: 15
     arg: "9500027"
     code: Bumdle_equipment
-    item_name: item-19500027
-    introduction: item-29500027
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
-    detail_introduction: item-39500027
     type_sort: 1
   }
   {
@@ -27849,11 +29689,10 @@
     type: 15
     arg: "9500028"
     code: Bumdle_WhiteValentineCoupons1
-    item_name: item-19500028
-    introduction: item-29500028
+    item_name: 秘蔵スキン抽選券・ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500028
     type_sort: 1
   }
   {
@@ -27861,11 +29700,10 @@
     type: 15
     arg: "9500029"
     code: Bumdle_WhiteValentineCoupons2
-    item_name: item-19500029
-    introduction: item-29500029
+    item_name: プレミアムスキン抽選券・ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500029
     type_sort: 1
   }
   {
@@ -27873,11 +29711,10 @@
     type: 15
     arg: "9500030"
     code: Bumdle_WhiteValentineCoupons3
-    item_name: item-19500030
-    introduction: item-29500030
+    item_name: 至高のスキン抽選券・ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500030
     type_sort: 1
   }
   {
@@ -27885,11 +29722,10 @@
     type: 15
     arg: "9500031"
     code: Bumdle_invocation_3
-    item_name: item-19500031
-    introduction: item-29500031
+    item_name: GW限定人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500031
     type_sort: 1
   }
   {
@@ -27897,11 +29733,10 @@
     type: 15
     arg: "9500032"
     code: Bumdle_SpringFestivalCoupons1
-    item_name: item-19500032
-    introduction: item-29500032
+    item_name: 秘蔵スキン抽選券・春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500032
     type_sort: 1
   }
   {
@@ -27909,11 +29744,10 @@
     type: 15
     arg: "9500033"
     code: Bumdle_SpringFestivalCoupons2
-    item_name: item-19500033
-    introduction: item-29500033
+    item_name: プレミアムスキン抽選券・春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500033
     type_sort: 1
   }
   {
@@ -27921,11 +29755,10 @@
     type: 15
     arg: "9500034"
     code: Bumdle_SpringFestivalCoupons3
-    item_name: item-19500034
-    introduction: item-29500034
+    item_name: 至高のスキン抽選券・春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500034
     type_sort: 1
   }
   {
@@ -27933,11 +29766,10 @@
     type: 15
     arg: "9500035"
     code: Bumdle_invocation_3
-    item_name: item-19500035
-    introduction: item-29500035
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500035
     type_sort: 1
   }
   {
@@ -27945,11 +29777,10 @@
     type: 15
     arg: "9500036"
     code: Bumdle_invocation_2
-    item_name: item-19500036
-    introduction: item-29500036
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500036
     type_sort: 1
   }
   {
@@ -27957,11 +29788,14 @@
     type: 15
     arg: "9500037"
     code: Bumdle_sangvischoose
-    item_name: item-19500037
-    introduction: item-29500037
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
     rank: 1
     sort: -1
-    detail_introduction: item-39500037
     type_sort: 1
   }
   {
@@ -27969,11 +29803,10 @@
     type: 15
     arg: "9500038"
     code: Bumdle_equipment
-    item_name: item-19500038
-    introduction: item-29500038
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
-    detail_introduction: item-39500038
     type_sort: 1
   }
   {
@@ -27981,11 +29814,10 @@
     type: 15
     arg: "9500039"
     code: Bumdle_AnniversaryCoupons1
-    item_name: item-19500039
-    introduction: item-29500039
+    item_name: 秘蔵スキン抽選券・アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500039
     type_sort: 1
   }
   {
@@ -27993,11 +29825,10 @@
     type: 15
     arg: "9500040"
     code: Bumdle_AnniversaryCoupons2
-    item_name: item-19500040
-    introduction: item-29500040
+    item_name: プレミアムスキン抽選券・アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500040
     type_sort: 1
   }
   {
@@ -28005,11 +29836,10 @@
     type: 15
     arg: "9500041"
     code: Bumdle_AnniversaryCoupons3
-    item_name: item-19500041
-    introduction: item-29500041
+    item_name: 至高のスキン抽選券・アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500041
     type_sort: 1
   }
   {
@@ -28017,11 +29847,10 @@
     type: 15
     arg: "9500042"
     code: Bumdle_7year
-    item_name: item-19500042
-    introduction: item-29500042
+    item_name: 七周年スキン抽選券
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500042
     type_sort: 1
   }
   {
@@ -28029,11 +29858,10 @@
     type: 15
     arg: "9500043"
     code: Bumdle_SummerdayCoupons1
-    item_name: item-19500043
-    introduction: item-29500043
+    item_name: 秘蔵スキン抽選券・水着
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500043
     type_sort: 1
   }
   {
@@ -28041,11 +29869,10 @@
     type: 15
     arg: "9500044"
     code: Bumdle_SummerdayCoupons2
-    item_name: item-19500044
-    introduction: item-29500044
+    item_name: プレミアムスキン抽選券・水着
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500044
     type_sort: 1
   }
   {
@@ -28053,11 +29880,10 @@
     type: 15
     arg: "9500045"
     code: Bumdle_SummerdayCoupons3
-    item_name: item-19500045
-    introduction: item-29500045
+    item_name: 至高のスキン抽選券・水着
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500045
     type_sort: 1
   }
   {
@@ -28065,11 +29891,10 @@
     type: 15
     arg: "9500046"
     code: Bumdle_invocation_3
-    item_name: item-19500046
-    introduction: item-29500046
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500046
     type_sort: 1
   }
   {
@@ -28077,11 +29902,10 @@
     type: 15
     arg: "9500047"
     code: Bumdle_invocation_2
-    item_name: item-19500047
-    introduction: item-29500047
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500047
     type_sort: 1
   }
   {
@@ -28089,11 +29913,14 @@
     type: 15
     arg: "9500048"
     code: Bumdle_sangvischoose
-    item_name: item-19500048
-    introduction: item-29500048
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
     rank: 1
     sort: -1
-    detail_introduction: item-39500048
     type_sort: 1
   }
   {
@@ -28101,11 +29928,10 @@
     type: 15
     arg: "9500049"
     code: Bumdle_equipment
-    item_name: item-19500049
-    introduction: item-29500049
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
-    detail_introduction: item-39500049
     type_sort: 1
   }
   {
@@ -28113,11 +29939,10 @@
     type: 15
     arg: "9500050"
     code: Bumdle_UrbanBeautyCoupons1
-    item_name: item-19500050
-    introduction: item-29500050
+    item_name: 秘蔵スキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500050
     type_sort: 1
   }
   {
@@ -28125,11 +29950,10 @@
     type: 15
     arg: "9500051"
     code: Bumdle_UrbanBeautyCoupons2
-    item_name: item-19500051
-    introduction: item-29500051
+    item_name: プレミアムスキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500051
     type_sort: 1
   }
   {
@@ -28137,11 +29961,10 @@
     type: 15
     arg: "9500052"
     code: Bumdle_UrbanBeautyCoupons3
-    item_name: item-19500052
-    introduction: item-29500052
+    item_name: 至高のスキン抽選券・都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500052
     type_sort: 1
   }
   {
@@ -28149,11 +29972,10 @@
     type: 15
     arg: "9500053"
     code: Bumdle_HalloweenCoupons1
-    item_name: item-19500053
-    introduction: item-29500053
+    item_name: 秘蔵スキン抽選券·ハロウィン
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500053
     type_sort: 1
   }
   {
@@ -28161,11 +29983,10 @@
     type: 15
     arg: "9500054"
     code: Bumdle_HalloweenCoupons2
-    item_name: item-19500054
-    introduction: item-29500054
+    item_name: プレミアムスキン抽選券·ハロウィン
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500054
     type_sort: 1
   }
   {
@@ -28173,11 +29994,10 @@
     type: 15
     arg: "9500055"
     code: Bumdle_HalloweenCoupons3
-    item_name: item-19500055
-    introduction: item-29500055
+    item_name: 至高のスキン抽選券·ハロウィン
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500055
     type_sort: 1
   }
   {
@@ -28185,11 +30005,10 @@
     type: 15
     arg: "9500056"
     code: Bumdle_ChildrenDayCoupons1
-    item_name: item-19500056
-    introduction: item-29500056
+    item_name: 秘蔵スキン抽選券·子どもの日
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500056
     type_sort: 1
   }
   {
@@ -28197,11 +30016,10 @@
     type: 15
     arg: "9500057"
     code: Bumdle_ChildrenDayCoupons2
-    item_name: item-19500057
-    introduction: item-29500057
+    item_name: プレミアムスキン抽選券·子どもの日
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500057
     type_sort: 1
   }
   {
@@ -28209,11 +30027,10 @@
     type: 15
     arg: "9500058"
     code: Bumdle_ChildrenDayCoupons3
-    item_name: item-19500058
-    introduction: item-29500058
+    item_name: 至高のスキン抽選券·子どもの日
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500058
     type_sort: 1
   }
   {
@@ -28221,11 +30038,10 @@
     type: 15
     arg: "9500059"
     code: Bumdle_invocation_3
-    item_name: item-19500059
-    introduction: item-29500059
+    item_name: 星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500059
     type_sort: 1
   }
   {
@@ -28233,11 +30049,10 @@
     type: 15
     arg: "9500060"
     code: Bumdle_invocation_2
-    item_name: item-19500060
-    introduction: item-29500060
+    item_name: 星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500060
     type_sort: 1
   }
   {
@@ -28245,11 +30060,14 @@
     type: 15
     arg: "9500061"
     code: Bumdle_sangvischoose
-    item_name: item-19500061
-    introduction: item-29500061
+    item_name: 融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
     rank: 1
     sort: -1
-    detail_introduction: item-39500061
     type_sort: 1
   }
   {
@@ -28257,11 +30075,10 @@
     type: 15
     arg: "9500062"
     code: Bumdle_equipment
-    item_name: item-19500062
-    introduction: item-29500062
+    item_name: 星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
     rank: 1
     sort: -1
-    detail_introduction: item-39500062
     type_sort: 1
   }
   {
@@ -28269,11 +30086,10 @@
     type: 15
     arg: "9500063"
     code: Bumdle_ChristmasCoupons1
-    item_name: item-19500063
-    introduction: item-29500063
+    item_name: 秘蔵スキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500063
     type_sort: 1
   }
   {
@@ -28281,11 +30097,10 @@
     type: 15
     arg: "9500064"
     code: Bumdle_ChristmasCoupons2
-    item_name: item-19500064
-    introduction: item-29500064
+    item_name: プレミアムスキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500064
     type_sort: 1
   }
   {
@@ -28293,11 +30108,10 @@
     type: 15
     arg: "9500065"
     code: Bumdle_ChristmasCoupons3
-    item_name: item-19500065
-    introduction: item-29500065
+    item_name: 至高のスキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500065
     type_sort: 1
   }
   {
@@ -28305,11 +30119,10 @@
     type: 15
     arg: "9500066"
     code: Bumdle_JPnewyear1
-    item_name: item-19500066
-    introduction: item-29500066
+    item_name: 秘蔵スキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500066
     type_sort: 1
   }
   {
@@ -28317,11 +30130,10 @@
     type: 15
     arg: "9500067"
     code: Bumdle_JPnewyear2
-    item_name: item-19500067
-    introduction: item-29500067
+    item_name: プレミアムスキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500067
     type_sort: 1
   }
   {
@@ -28329,11 +30141,562 @@
     type: 15
     arg: "9500068"
     code: Bumdle_JPnewyear3
-    item_name: item-19500068
-    introduction: item-29500068
+    item_name: 至高のスキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
     rank: 1
     sort: -1
-    detail_introduction: item-39500068
+    type_sort: 1
+  }
+  {
+    id: 9500069
+    type: 4
+    arg: "9500069"
+    code: core_mask
+    item_name: 真核の仮面·春の贈り物
+    introduction: 真核の仮面·春の贈り物
+    rank: 1
+  }
+  {
+    id: 9500070
+    type: 15
+    arg: "9500070"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 秘蔵スキン抽選券·春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500071
+    type: 15
+    arg: "9500071"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: プレミアムスキン抽選券·春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500072
+    type: 15
+    arg: "9500072"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 至高のスキン抽選券·春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500073
+    type: 15
+    arg: "9500073"
+    code: Bumdle_invocation_3
+    item_name: 零点潮汐星4人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★4人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500074
+    type: 15
+    arg: "9500074"
+    code: Bumdle_invocation_2
+    item_name: 零点潮汐星5人形支援要請書
+    introduction: 倉庫にて支援要請書を使用することができます。指定された★5人形の中から1体を選択し、獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500075
+    type: 15
+    arg: "9500075"
+    code: Bumdle_sangvischoose
+    item_name: 零点潮汐融合勢力指定回収依頼書
+    introduction:
+      '''
+      倉庫にて使用することで、指定された範囲の中から選んで初期レアリティ★3の融合勢力ユニットを獲得することができます。
+      「融合勢力」機能が未開放の場合、選択した融合勢力ユニットを獲得しても、「融合勢力」機能が開放されるまで使用することはできません。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500076
+    type: 15
+    arg: "9500076"
+    code: Bumdle_equipment
+    item_name: 零点潮汐星5装備指定交換券
+    introduction: 倉庫にて使用することで、指定された範囲の中から選んで★5装備を獲得することができます（専用装備を除く）。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500077
+    type: 15
+    arg: "9500077"
+    code: Bumdle_WhiteValentineCoupons1
+    item_name: 秘蔵スキン抽選券·ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500078
+    type: 15
+    arg: "9500078"
+    code: Bumdle_WhiteValentineCoupons2
+    item_name: プレミアムスキン抽選券·ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500079
+    type: 15
+    arg: "9500079"
+    code: Bumdle_WhiteValentineCoupons3
+    item_name: 至高のスキン抽選券·ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500080
+    type: 15
+    arg: "9500080"
+    code: Bumdle_FantasyCoupons1
+    item_name: 秘蔵スキン抽選券·奇境幻想
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500081
+    type: 15
+    arg: "9500081"
+    code: Bumdle_FantasyCoupons2
+    item_name: プレミアムスキン抽選券·奇境幻想
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500082
+    type: 15
+    arg: "9500082"
+    code: Bumdle_FantasyCoupons3
+    item_name: 至高のスキン抽選券·奇境幻想
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500083
+    type: 15
+    arg: "9500083"
+    code: Bumdle_JPnewyear1
+    item_name: 秘蔵スキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500084
+    type: 15
+    arg: "9500084"
+    code: Bumdle_JPnewyear2
+    item_name: プレミアムスキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500085
+    type: 15
+    arg: "9500085"
+    code: Bumdle_JPnewyear3
+    item_name: 至高のスキン抽選券·正月
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500086
+    type: 15
+    arg: "9500086"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 秘蔵スキン抽選券·春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500087
+    type: 15
+    arg: "9500087"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: プレミアムスキン抽選券·春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500088
+    type: 15
+    arg: "9500088"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 至高のスキン抽選券·春節
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500089
+    type: 15
+    arg: "9500089"
+    code: Bumdle_WhiteValentineCoupons1
+    item_name: 秘蔵スキン抽選券·ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500090
+    type: 15
+    arg: "9500090"
+    code: Bumdle_WhiteValentineCoupons2
+    item_name: プレミアムスキン抽選券·ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500091
+    type: 15
+    arg: "9500091"
+    code: Bumdle_WhiteValentineCoupons3
+    item_name: 至高のスキン抽選券·ホワイトデー
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500092
+    type: 15
+    arg: "9500092"
+    code: Bumdle_FantasyCoupons1
+    item_name: 秘蔵スキン抽選券·奇境幻想
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500093
+    type: 15
+    arg: "9500093"
+    code: Bumdle_FantasyCoupons2
+    item_name: プレミアムスキン抽選券·奇境幻想
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500094
+    type: 15
+    arg: "9500094"
+    code: Bumdle_FantasyCoupons3
+    item_name: 至高のスキン抽選券·奇境幻想
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500095
+    type: 15
+    arg: "9500095"
+    code: Bumdle_SummerdayCoupons1
+    item_name: 秘蔵スキン抽選券·summer
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500096
+    type: 15
+    arg: "9500096"
+    code: Bumdle_SummerdayCoupons2
+    item_name: プレミアムスキン抽選券·summer
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500097
+    type: 15
+    arg: "9500097"
+    code: Bumdle_SummerdayCoupons3
+    item_name: 至高のスキン抽選券·summer
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500098
+    type: 15
+    arg: "9500098"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 秘蔵スキン抽選券·アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500099
+    type: 15
+    arg: "9500099"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: プレミアムスキン抽選券·アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500100
+    type: 15
+    arg: "9500100"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 至高のスキン抽選券·アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500101
+    type: 15
+    arg: "9500101"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 秘蔵スキン抽選券·アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500102
+    type: 15
+    arg: "9500102"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: プレミアムスキン抽選券·アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500103
+    type: 15
+    arg: "9500103"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 至高のスキン抽選券·アニバver.
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500104
+    type: 15
+    arg: "9500104"
+    code: Bumdle_UrbanBeautyCoupons1
+    item_name: 秘蔵スキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500105
+    type: 15
+    arg: "9500105"
+    code: Bumdle_UrbanBeautyCoupons2
+    item_name: プレミアムスキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500106
+    type: 15
+    arg: "9500106"
+    code: Bumdle_UrbanBeautyCoupons3
+    item_name: 至高のスキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500107
+    type: 15
+    arg: "9500107"
+    code: Bumdle_UrbanBeautyCoupons1
+    item_name: 秘蔵スキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500108
+    type: 15
+    arg: "9500108"
+    code: Bumdle_UrbanBeautyCoupons2
+    item_name: プレミアムスキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500109
+    type: 15
+    arg: "9500109"
+    code: Bumdle_UrbanBeautyCoupons3
+    item_name: 至高のスキン抽選券·都市生活
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500110
+    type: 15
+    arg: "9500110"
+    code: Bumdle_HalloweenCoupons1
+    item_name: 秘蔵スキン抽選券·ハロウィン
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500111
+    type: 15
+    arg: "9500111"
+    code: Bumdle_HalloweenCoupons2
+    item_name: プレミアムスキン抽選券·ハロウィン
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500112
+    type: 15
+    arg: "9500112"
+    code: Bumdle_HalloweenCoupons3
+    item_name: 至高のスキン抽選券·ハロウィン
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500113
+    type: 15
+    arg: "9500113"
+    code: Bumdle_ChildrenDayCoupons1
+    item_name: 秘蔵スキン抽選券·子どもの日
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500114
+    type: 15
+    arg: "9500114"
+    code: Bumdle_ChildrenDayCoupons2
+    item_name: プレミアムスキン抽選券·子どもの日
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500115
+    type: 15
+    arg: "9500115"
+    code: Bumdle_ChildrenDayCoupons3
+    item_name: 至高のスキン抽選券·子どもの日
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500116
+    type: 15
+    arg: "9500116"
+    code: Bumdle_ChristmasCoupons1
+    item_name: 秘蔵スキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500117
+    type: 15
+    arg: "9500117"
+    code: Bumdle_ChristmasCoupons2
+    item_name: プレミアムスキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定の範囲からランダムで未所持のスキンを獲得することができます。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 9500118
+    type: 15
+    arg: "9500118"
+    code: Bumdle_ChristmasCoupons3
+    item_name: 至高のスキン抽選券·聖夜
+    introduction: 「倉庫」にて当該スキン抽選券を使用することで、指定された範囲の中から、スキンを1点選ぶことができます。
+    rank: 1
+    sort: -1
     type_sort: 1
   }
 ]

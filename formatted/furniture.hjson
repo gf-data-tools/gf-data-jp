@@ -26923,7 +26923,7 @@
     space: "7,4,1,1,1,1"
     deco_rate: 1200
     decompose_gift: 100003
-    description: 今年の冬は寒い。ほんの一時でも、ここで暖まっていこう。。
+    description: 今年の冬は寒い。ほんの一時でも、ここで暖まっていこう。
     code: HotSpring2023_deco_15,HotSpring2023_deco_16,HotSpring2023_deco_17,HotSpring2023_deco_18
     texture_type: "1,1,1,1"
     sorting: "0,20,10,10"
@@ -28458,6 +28458,21 @@
     rotate: "2"
   }
   {
+    id: 11602
+    name: 6P62全能ぬいぐるみ
+    classes: 19
+    type: 201
+    space: "2,3,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 見ての通り、これがこのエルモ号において最も実用的で、最も効率が良く、最も良心的な……いわば全知全能に近い6P62のぬいぐるみ様だ！
+    code: 2025Wedding_deco_02,WhiteV2025_6p62Decoration
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "-0.039,-0.029,0.000|0.053,0.924,0.219"
+    rotate: "2,2"
+  }
+  {
     id: 11603
     name: 「でっけぇ」のが来るぞ！-記念写真
     classes: 116
@@ -28648,6 +28663,250 @@
     code: 2025Wedding_floor
     texture_type: "1"
     offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 11701
+    name: いつかのエルモ号-跡無き旅路
+    classes: 117
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 耐久性が非常に優れているおかげで、その上をいくら歩いても跡が残らない。私たちの旅路は長いが、この床にとって、旅はまだ始まってすらいないのかもしれない。
+    code: 2025Afterword_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11702
+    name: いつかのエルモ号-変わらない風景
+    classes: 117
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 窓の外の風景は変わり続けるが、この壁の模様だけは変わらない。どんな遠い場所に行っても、この壁に包まれている限り、「家」はここにある。
+    code: 2025Afterword_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11703
+    name: いつかのエルモ号-静寂なオアシス
+    classes: 117
+    type: 201
+    position: "2,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 果てしない旅の中、一抹の緑は純水と同じぐらい貴重だ。「でもこの子、戦いに参加してくれるわけじゃないし、何か資源を生み出してくれるわけでもない。ただ水を消費しているだけだよ？」「そうですね。でも、この子は生きているだけで十分なの」
+    code: 2025Afterword_deco_01
+    texture_type: "1"
+    offset: "-0.125,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11704
+    name: いつかのエルモ号-不必要になった指令台
+    classes: 117
+    type: 201
+    position: "2,12"
+    space: "7,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: もうここから何か指示を出すことはほとんどないだろう。それでも、古い資料を調べたり、何かの動画を観たりすることができる。そういうことも、きっと必要だ。
+    code: 2025Afterword_deco_02
+    texture_type: "1"
+    offset: "0.282,-0.042,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11705
+    name: いつかのエルモ号-放置気味の棚
+    classes: 117
+    type: 201
+    position: "6,3"
+    space: "5,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 現場からは大量な書籍と成分不明な液体が発見されている。ここはきっとかつてブレインストーミングの中心だったが、最終的にはソファーに負けたのかもしれない。
+    code: 2025Afterword_deco_03
+    texture_type: "1"
+    offset: "-0.042,-0.010,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11706
+    name: いつかのエルモ号-時のパネル
+    classes: 117
+    type: 201
+    position: "5,0"
+    space: "6,1,1,1,0,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: みんなの気持ちがパズルのようにここに貼られている。楽しいこと、悲しいこと、くだらないこと……それが、「私たち」という景色だ。
+    code: 2025Afterword_deco_04
+    texture_type: "1"
+    offset: "0.125,-0.073,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11707
+    name: いつかのエルモ号-インスピレーションのチェア
+    classes: 117
+    type: 202
+    position: "6,5"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 特定の角度で後ろに倒れると、一瞬で過ぎ去るインスピレーションを捕らえることができる。ただ残念なことに、睡魔に捕らわれるパターンの方がよっぽど多いらしい。
+    code: 2025Afterword_deco_05
+    texture_type: "1"
+    offset: "0.021,-0.167,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11708
+    name: いつかのエルモ号-柔らかい隅っこ
+    classes: 117
+    type: 201
+    position: "14,0"
+    space: "7,4,1,1,0,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: このソファーに倒れ込んでいる限り、明日何をするのかを考えたり、今夜何を食べるのかを考えたりすることができる。どっちにしろ、幸せな悩みだろ？
+    code: 2025Afterword_deco_06
+    texture_type: "1"
+    offset: "0.000,-0.031,0.000"
+    rotate: "2"
+    interact_point: "3"
+    interact_point_offset: *-0.496,2.020,-0.285
+  }
+  {
+    id: 11709
+    name: いつかのエルモ号-休憩エリア
+    classes: 117
+    type: 201
+    position: "14,6"
+    space: "8,6,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 一度このエリアに入れば、あらゆる争いは停止しなければならない。テーブルに足をかけてもいいが、喧嘩だけはダメだ。
+    code: 2025Afterword_deco_07
+    texture_type: "1"
+    offset: "0.052,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11710
+    name: いつかのエルモ号-天気リスト
+    classes: 117
+    type: 201
+    position: "21,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 700
+    decompose_gift: 100003
+    description: 「天気予報：本日、晴れ。冒険に向いている」「付箋：本日、曇り。昼寝に向いている」みんな後者の方を信じている。
+    code: 2025Afterword_deco_08
+    texture_type: "1"
+    offset: "-0.103,2.555,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11711
+    name: いつかのエルモ号-夢と現実の交差点
+    classes: 117
+    type: 201
+    position: "24,1"
+    space: "6,1,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 寝る前に、一日分の荷物をここに預ける。そして起きると、ここから新しい一日を過ごす勇気を取り出す。
+    code: 2025Afterword_deco_09
+    texture_type: "1"
+    offset: "0.010,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11712
+    name: いつかのエルモ号-ウィッシュリスト
+    classes: 117
+    type: 201
+    position: "29,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 「ロリポップいっぱい欲しい」「もう一度海が見たい」「指揮官とバカンス」……みんなこのように願い事を貼っている。まるで明日起きると、願いが叶うように。
+    code: 2025Afterword_deco_10
+    texture_type: "1"
+    offset: "-0.103,1.512,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11713
+    name: いつかのエルモ号-ピザくんスリッパー
+    classes: 117
+    type: 201
+    position: "25,11"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 固いブーツを脱ぎ捨てて、この柔らかいスリッパーを履く。それでやっと、疲れがとれる。「大丈夫、ピザくんは人を噛まないから」
+    code: 2025Afterword_deco_11
+    texture_type: "1"
+    offset: "0.021,-0.073,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11714
+    name: いつかのエルモ号-希望の容器
+    classes: 117
+    type: 201
+    position: "30,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 棚のスペースは大きいが、花瓶一つしか入っていない。これからここに入れる物のために、スペースを残しているのだ。
+    code: 2025Afterword_deco_12
+    texture_type: "1"
+    offset: "0.115,-0.052,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11715
+    name: いつかのエルモ号-お休み世界
+    classes: 117
+    type: 203
+    position: "24,3"
+    space: "10,7,0,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 横になって、目を閉じると、ふかふかな枕は一瞬で、あなたを夢の彼方に連れて行ってくれる……帰りの切符？大丈夫、明日の朝ごはんが君を連れ戻してくれるさ。
+    code: 2025Afterword_deco_13
+    texture_type: "1"
+    offset: "0.188,-0.334,0.000"
+    rotate: "2"
+    interact_point: "6"
+    interact_point_offset: *-2.508,2.703,-0.148
+  }
+  {
+    id: 11716
+    name: いつかのエルモ号-夢へのポート
+    classes: 117
+    type: 201
+    position: "30,10"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 大事なものはいつも、手を伸ばせば届く位置に置いてある。すべてをきっちり整理することは、自分への「お疲れ」、そして世界への「お休み」である。
+    code: 2025Afterword_deco_14
+    texture_type: "1"
+    offset: "0.000,-0.070,0.000"
     rotate: "2"
   }
   {
@@ -30969,6 +31228,51 @@
     code: 202507Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20176
+    name: 親和型ダイナーゲート
+    classes: 19
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 無害化処理を行ったダイナーゲート。デフォルトの状態では、礼儀を弁えた笑顔をそのモニターで表示する。ただし、誰かによって使われている時は例外となる。
+    code: 2025NationalDay_Dinergate
+    texture_type: "2"
+    sorting: "15"
+    offset: "-0.008,0.083,0.000"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20177
+    name: 潮騒の光勲章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 指揮官及びその配下の戦術人形たちが、イベント「零点潮汐」にて称えられる功績を残したことを表彰する。「ここに来たのは、落とし物を探しにではない。心の光を、この楽園に撒きに来たのだ。そして、愛と希望はその形を得た」
+    code: 202509Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20178
+    name: ポスター-2026「零点潮汐」
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2026年限定イベント-零点潮汐の限定ポスター
+    code: pv_202509activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
     rotate: "3"
   }
   {
@@ -46996,6 +47300,21 @@
     rotate: "3"
   }
   {
+    id: 311506
+    name: 砂時計の鏡
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43のポスター。
+    code: poster_Anniversary2025_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 311507
     name: スイートロンド
     classes: 300
@@ -47020,6 +47339,125 @@
     decompose_gift: 100003
     description: 89式のポスター。
     code: poster_Anniversary2025_HowaType89
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311601
+    name: 駐留の時
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCAR-Hのポスター。
+    code: poster_2025Afterword_SCARH
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311602
+    name: 蜃気楼を追いかけて
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: NTW-20のポスター。
+    code: poster_2025Afterword_NTW20
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311603
+    name: 瓶の中の空
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 劉氏歩槍のポスター
+    code: poster_2025Afterword_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311604
+    name: 風の旅と歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64式のポスター。
+    code: poster_2025Afterword_64type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311605
+    name: 地平線を眺めて
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LWMMGのポスター。
+    code: poster_2025Afterword_LWMMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311606
+    name: 躍動のシグナル
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Gr G28のポスター。
+    code: poster_2025Afterword_G28
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311608
+    name: 暁の旅路
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M2HBのポスター。
+    code: poster_2025Afterword_M2HB
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311609
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 漢陽88式のポスター。
+    code: poster_202511_88type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -47590,6 +48028,96 @@
     decompose_gift: 100003
     description: SPAS-12のポスター。
     code: poster_BattlePass_SPAS12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330035
+    name: ブリザードフィン
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Mk.18のポスター。
+    code: poster_BattlePass_MK18
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330036
+    name: 廃墟の上で
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: JS 9のポスター。
+    code: poster_BattlePass_JS9mm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330037
+    name: ドキドキ大競技
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 6P62のポスター。
+    code: poster_BattlePass_6P62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330038
+    name: 花と白日夢
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG Paraのポスター。
+    code: poster_BattlePass_AUGPARA
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330039
+    name: 冬霧の旅人
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: モシン・ナガンのポスター。
+    code: poster_BattlePass_M1891
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330040
+    name: アヒルちゃん特攻隊
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1919A4のポスター。
+    code: poster_BattlePass_M1919A4
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

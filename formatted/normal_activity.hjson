@@ -269,7 +269,7 @@
     id: 24
     campaign_id: -34
     tag: C.E.|2020
-    order: 100
+    order: 101
     name: 季節イベントⅡ
     chapter_name: 怪夜狂騒劇
     bg_code: active_19Halloween
@@ -482,6 +482,17 @@
     rank_id: "310"
   }
   {
+    id: 43
+    campaign_id: -40401
+    tag: EP.|13.8
+    order: 12
+    name: 静止点
+    chapter_name: ベッチ数
+    bg_code: missionselect_FixedPoint_RE
+    event_prize_level: 10011
+    rank_id: "311"
+  }
+  {
     id: 44
     campaign_id: -54
     tag: EP.|13.9
@@ -494,6 +505,41 @@
     scene_name: active_2022Summerlogo
   }
   {
+    id: 45
+    campaign_id: -61
+    tag: C.E.|2024
+    order: 104
+    name: 季節イベントⅤ
+    chapter_name: 思考域の迷路
+    bg_code: active_202307
+    bg_config: "#000000C7,#3D415166,#4a62f7,#FFFFFFFF"
+    desc: イベント期間：2024.04.26-05.17
+    scene_name: active_202307logo
+  }
+  {
+    id: 46
+    campaign_id: -40402
+    tag: EP.|13.9
+    order: 13
+    name: 縦軸歪曲
+    chapter_name: 練習曲第1番ハ長調
+    bg_code: missionselect_2022SummerExt
+    event_prize_level: 10012
+    rank_id: "312"
+  }
+  {
+    id: 47
+    campaign_id: -62
+    tag: C.E.|2024
+    order: 104
+    name: 季節イベントⅤ
+    chapter_name: 確認! Reloading...
+    bg_code: active_2023se
+    bg_config: "#000000C7,#3D415166,#0084FF,#FFFFFFFF"
+    desc: イベント期間：2024.07.26-08.16
+    scene_name: active_2023selogo
+  }
+  {
     id: 48
     campaign_id: -58
     tag: EP.|14
@@ -504,6 +550,17 @@
     bg_config: "#000000C7,#3D415166,#0084FF,#FFFFFFFF"
     desc: イベント期間：2024.01.26-03.01
     scene_name: active_Slowshocklogo
+  }
+  {
+    id: 49
+    campaign_id: -40403
+    tag: EP.|14
+    order: 15
+    name: 慢性虚脱
+    chapter_name: 慢性虚脱
+    bg_code: missionselect_SlowshockExt
+    event_prize_level: 10013
+    rank_id: "313"
   }
   {
     id: 50
@@ -530,6 +587,42 @@
     scene_name: active_202406logo
   }
   {
+    id: 52
+    campaign_id: -70
+    tag: EP.|15.3
+    order: 18
+    name: 零電荷
+    chapter_name: 零電荷
+    bg_code: active_202407
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2024.11.29-12.20
+    scene_name: active_202407logo
+  }
+  {
+    id: 53
+    campaign_id: -71
+    tag: EP.|15.4
+    order: 19
+    name: 銀染現像
+    chapter_name: 銀染現像
+    bg_code: active_202408
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2025.01.24-02.14
+    scene_name: active_202408logo
+  }
+  {
+    id: 54
+    campaign_id: -72
+    tag: EP.|15.5
+    order: 19
+    name: 孤立の森
+    chapter_name: 孤立の森
+    bg_code: active_202410
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2025.03.21-04.11
+    scene_name: active_202410logo
+  }
+  {
     id: 55
     campaign_id: -49
     tag: C.E.|2021
@@ -540,5 +633,98 @@
     bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
     desc: イベント期間：2021.12.24-2022.01.14
     scene_name: active_Xmas2021logo
+  }
+  {
+    id: 56
+    campaign_id: -74
+    tag: EP.|15.6
+    order: 20
+    name: 巻積核
+    chapter_name: 巻積核
+    bg_code: active_202412
+    bg_config: "#000000C7,#3D415166,#196689,#FFFFFFFF"
+    desc: イベント期間：2025.07.04-07.25
+    scene_name: active_202412logo
+  }
+  {
+    id: 57
+    campaign_id: -40404
+    tag: EP.|15.6
+    order: 20
+    name: 巻積核
+    chapter_name: ペンローズの階段から跳び下りて
+    bg_code: missionselect_202412activityExt
+    event_prize_level: 10014
+    rank_id: "314"
+  }
+  {
+    id: 58
+    campaign_id: -75
+    tag: EP.|15.7
+    order: 21
+    name: 遡源残響
+    chapter_name: 遡源残響
+    bg_code: active_202505
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2025.09.19-10.10
+    scene_name: active_202505logo
+  }
+  {
+    id: 59
+    campaign_id: -76
+    tag: EP.|15.8
+    order: 22
+    name: 仮想粒子対
+    chapter_name: 仮想粒子対
+    bg_code: active_202507
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2025.11.21-12.19
+    scene_name: active_202507logo
+  }
+  {
+    id: 60
+    campaign_id: -78
+    tag: EP.|15.9
+    order: 23
+    name: 零点潮汐
+    chapter_name: 零点潮汐
+    bg_code: active_202509
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: イベント期間：2026.03.06-03.27
+    scene_name: active_202509logo
+  }
+  {
+    id: 61
+    campaign_id: -77
+    tag: EP.|15.9
+    order: 23
+    name: 零点潮汐
+    chapter_name: 静かな砂盤
+    bg_code: missionselect_202509rabbit
+    event_prize_level: 10015
+    rank_id: "315"
+  }
+  {
+    id: 62
+    campaign_id: -79
+    tag: C.E.|2026
+    order: 105
+    name: 季節イベントⅥ
+    chapter_name: 鉄雨礼贊
+    bg_code: active_202602
+    bg_config: "#000000C7,#3D415166,#FA3F9C,#FFFFFFFF"
+    desc: イベント期間：2026.04.24-05.15
+    scene_name: active_202602logo
+  }
+  {
+    id: 63
+    campaign_id: -40405
+    tag: C.E.|2026
+    order: 105
+    name: 季節イベントⅥ
+    chapter_name: 鉄雨礼贊
+    bg_code: missionselect_202602activity
+    event_prize_level: 10016
+    rank_id: "316"
   }
 ]

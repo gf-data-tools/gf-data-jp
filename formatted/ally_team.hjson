@@ -17435,6 +17435,7 @@
   }
   {
     id: 770055
+    name: ゲベンヌ
     guns: "1"
     enemy_team_id: 770055
     initial_type: 2
@@ -17660,6 +17661,7 @@
   }
   {
     id: 780501
+    name: 行動部隊
     guns: "780010,780011,780012,780013"
     initial_type: 1
     ai: 0;20100;0
@@ -17679,6 +17681,7 @@
   }
   {
     id: 780602
+    name: ロ連警備
     guns: "1"
     enemy_team_id: 780602
     initial_type: 2
@@ -17691,6 +17694,7 @@
   }
   {
     id: 780603
+    name: ロ連警備
     guns: "1"
     enemy_team_id: 780603
     initial_type: 2
@@ -17703,6 +17707,7 @@
   }
   {
     id: 780604
+    name: ロ連警備
     guns: "1"
     enemy_team_id: 780604
     initial_type: 2
@@ -17715,6 +17720,7 @@
   }
   {
     id: 780605
+    name: ロ連警備
     guns: "1"
     enemy_team_id: 780605
     initial_type: 2
@@ -17727,6 +17733,7 @@
   }
   {
     id: 780606
+    name: ロ連警備
     guns: "1"
     enemy_team_id: 780606
     initial_type: 2
@@ -17739,6 +17746,7 @@
   }
   {
     id: 780607
+    name: ロ連警備
     guns: "1"
     enemy_team_id: 780607
     initial_type: 2
@@ -17872,6 +17880,36 @@
     ai_content: 0;0;0
     enemy_panel_type: 1
     no_battle_damage: 49
+  }
+  {
+    id: 800101
+    name: グリフィン
+    guns: "800101,800102,800103,800104"
+    initial_type: 1
+    ai: 0;20100;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 800102
+    name: グリフィン
+    guns: "800105,800106,800107"
+    initial_type: 1
+    ai: 0;20100;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 800103
+    name: グリフィン
+    guns: "800108,800109,800110"
+    initial_type: 1
+    ai: 0;20100;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
   }
   {
     id: 1013101

@@ -1673,7 +1673,7 @@
     id: 1029
     name: ベルーガ
     en_name: Beluga
-    code: M16A1_Boss
+    code: Beluga
     introduce: ベルーガ、本来はペルシカ実験室製のエリート戦術人形だった。後に「傘」ウィルスに感染し、グリフィンを離脱。各地を転々とする。しかし、彼女は自身の使命を一度も忘れたことがない。M16A1、レナード・カガ、Белуга、ベルーガ……どの名前も、彼女にとってはただのコードネームに過ぎず、本当の彼女は一度も変わったことがない。数々の経験を経て、見識も能力も高い水準に達し、誰と組んでも余裕のある戦いを見せてくれる。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
@@ -1691,7 +1691,7 @@
     skill3: 760013
     skill_advance: 760014
     skill_resolution: "760011"
-    passive_skill2: "760009"
+    passive_skill2: "760009,450516"
     dynamic_passive_skill: "760022"
     normal_attack: 760008
     baseammo: 10
@@ -1727,7 +1727,67 @@
     org_id: 10602
     gun_tag_ids: "118,103,164,108"
     ratio_rec: 110
-    recommended_team_ids: "2"
+    recommended_team_ids: "6"
+  }
+  {
+    id: 1030
+    name: グリク
+    en_name: Teal
+    code: Teal
+    introduce: 冷静にして迅速。長剣と鋼の爪を駆使し戦う。敵の隙を精確に捉え、超高速で移動しその命を絶つ。再び呼び起こされた「グリク」にとって、もはや心残りはない。仮にその姿をした人形が存在していても、もう二度と過去のような関係に戻れない。だから、彼女はただ剣を振るう。
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    forces: 3
+    type: 1
+    character: "2,4,5"
+    formation: 1
+    resolution: 130
+    shape_scale: "80,120"
+    ap_cost: 10
+    rank: 5
+    skill1: 760027
+    skill2_type: 1
+    skill2: 760031
+    skill3: 760034
+    skill_advance: 760035
+    skill_resolution: "760028"
+    passive_skill2: "760025,760026,760032,760036,760037,760038,760039,760040"
+    dynamic_passive_skill: "760029,760030"
+    normal_attack: 760024
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 100
+    ratio_pow: 140
+    ratio_rate: 90
+    ratio_hit: 160
+    ratio_dodge: 120
+    armor_piercing: 100
+    crit: 50
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 20
+    attack_range_type: 1
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 3
+    effect_grid_effect: 4:2,30;4,50
+    type_chip1: "1,2,3"
+    type_chip2: "1,2,3"
+    type_chip3: "1,2,3"
+    illustration_id: 138
+    ai: 11002
+    is_additional: 1
+    launch_time: 2016-05-20 00:00:00
+    display_enemy_team: 930030
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    org_id: 10604
+    gun_tag_ids: "139,109,122,103"
+    ratio_rec: 250
+    recommended_team_ids: "8"
   }
   {
     id: 2001
@@ -3127,17 +3187,14 @@
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
     forces: 1
-    type: 1
+    type: 2
     character: "2,4,6"
     formation: 1
     resolution: 107
     shape_scale: "80,120"
     ap_cost: 10
     rank: 5
-    skill1: 900833
-    skill2_type: 2
-    skill2: 30008
-    skill3: 900831
+    skill2_type: 1
     skill_advance: 900832
     skill_resolution: "900834"
     passive_skill2: "902167"
@@ -3161,10 +3218,6 @@
     assist_attack_range: 15
     ratio_range: 500
     search_range: 7
-    effect_grid_effect: 0:4,15;5,15|2:1,12;3,12
-    type_chip1: "1,2,3"
-    type_chip2: "1,2,3"
-    type_chip3: "1,2,3"
     illustration_id: 21
     ai: 11002
     is_additional: 1
@@ -3176,6 +3229,383 @@
     ratio_rec: 100
   }
   {
+    id: 9002
+    name: sangvis-10009002
+    en_name: Scarecrow
+    code: Scarecrow
+    introduce: sangvis-40009002
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009002
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 101
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450704,450703"
+    normal_attack: 900510
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 95
+    ratio_pow: 95
+    ratio_rate: 116
+    ratio_hit: 90
+    ratio_dodge: 120
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 12
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 5
+    ai: 11001
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930001
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 95
+  }
+  {
+    id: 9003
+    name: sangvis-10009003
+    en_name: Excutioner
+    code: Excutioner
+    introduce: sangvis-40009003
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009003
+    forces: 1
+    type: 2
+    character: "2,4,5"
+    formation: 1
+    resolution: 102
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450705,450703"
+    normal_attack: 600309
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 125
+    ratio_pow: 105
+    ratio_rate: 88
+    ratio_hit: 95
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 40
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 5
+    illustration_id: 8
+    ai: 11002
+    is_additional: 2
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930002
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 150
+  }
+  {
+    id: 9004
+    name: sangvis-10009004
+    en_name: Hunter
+    code: Hunter
+    introduce: sangvis-40009004
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009004
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 103
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450706,450703"
+    normal_attack: 900591
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 100
+    ratio_pow: 100
+    ratio_rate: 110
+    ratio_hit: 105
+    ratio_dodge: 105
+    armor_piercing: 15
+    crit: 30
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 11
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930003
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 110
+  }
+  {
+    id: 9005
+    name: sangvis-10009005
+    en_name: Destroyer
+    code: Destroyer
+    introduce: sangvis-40009005
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009005
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 105
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450707,450703"
+    normal_attack: 900730
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 110
+    ratio_pow: 135
+    ratio_rate: 70
+    ratio_hit: 100
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 18
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930005
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 110
+  }
+  {
+    id: 9006
+    name: sangvis-10009006
+    en_name: Architect
+    code: BossArchitect
+    introduce: sangvis-40009006
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009006
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 106
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450708,450703"
+    normal_attack: 900780
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 110
+    ratio_pow: 120
+    ratio_rate: 110
+    ratio_hit: 105
+    ratio_dodge: 70
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 27
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930006
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 110
+  }
+  {
+    id: 9007
+    name: sangvis-10009007
+    en_name: Dreamer
+    code: Dreamer
+    introduce: sangvis-40009007
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009007
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 109
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450709,450703"
+    normal_attack: 900965
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 95
+    ratio_pow: 125
+    ratio_rate: 100
+    ratio_hit: 110
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 24
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930009
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 95
+  }
+  {
+    id: 9008
+    name: sangvis-10009008
+    en_name: Gager
+    code: BossGager
+    introduce: sangvis-40009008
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009008
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 110
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "901036,901037,450710,450703"
+    normal_attack: 901035
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 105
+    ratio_pow: 100
+    ratio_rate: 120
+    ratio_hit: 125
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 26
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930010
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 105
+  }
+  {
+    id: 9009
+    name: sangvis-10009009
+    en_name: Justice
+    code: Justice
+    introduce: sangvis-40009009
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: sangvis-30009009
+    forces: 1
+    type: 2
+    character: "1,4,6"
+    formation: 1
+    resolution: 111
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450711,450703"
+    normal_attack: 901223
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 130
+    ratio_pow: 95
+    ratio_rate: 110
+    ratio_hit: 110
+    ratio_dodge: 80
+    ratio_armor: 48
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 35
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930011
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 140
+  }
+  {
     id: 90001
     name: PPSh-41
     en_name: PPSh-41
@@ -3183,17 +3613,14 @@
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
     forces: 1
-    type: 1
+    type: 2
     character: "2,4,6"
     formation: 1
     resolution: 107
     shape_scale: "80,120"
     ap_cost: 10
     rank: 5
-    skill1: 900833
-    skill2_type: 2
-    skill2: 30008
-    skill3: 900831
+    skill2_type: 1
     skill_advance: 900832
     skill_resolution: "900834"
     passive_skill2: "902167"
@@ -3217,10 +3644,6 @@
     assist_attack_range: 15
     ratio_range: 500
     search_range: 7
-    effect_grid_effect: 0:4,15;5,15|2:1,12;3,12
-    type_chip1: "1,2,3"
-    type_chip2: "1,2,3"
-    type_chip3: "1,2,3"
     illustration_id: 21
     ai: 11002
     is_additional: 1

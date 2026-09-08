@@ -31873,9 +31873,6 @@
   }
   {
     id: 770000
-    name: mission_skill_config-10770000
-    description: mission_skill_config-20770000
-    lvup_description: mission_skill_config-30770000
     skill_group_id: 770000
     level: 1
     spot_type: "-1"
@@ -31889,9 +31886,6 @@
   }
   {
     id: 770001
-    name: mission_skill_config-10770001
-    description: mission_skill_config-20770001
-    lvup_description: mission_skill_config-30770001
     skill_group_id: 770001
     level: 1
     spot_type: "-1"
@@ -31903,9 +31897,6 @@
   }
   {
     id: 770002
-    name: mission_skill_config-10770002
-    description: mission_skill_config-20770002
-    lvup_description: mission_skill_config-30770002
     skill_group_id: 770002
     level: 1
     spot_type: "-1"
@@ -31917,9 +31908,6 @@
   }
   {
     id: 770003
-    name: mission_skill_config-10770003
-    description: mission_skill_config-20770003
-    lvup_description: mission_skill_config-30770003
     skill_group_id: 770003
     level: 1
     spot_type: "-1"
@@ -31931,9 +31919,6 @@
   }
   {
     id: 770004
-    name: mission_skill_config-10770004
-    description: mission_skill_config-20770004
-    lvup_description: mission_skill_config-30770004
     skill_group_id: 770004
     level: 1
     spot_type: "-1"
@@ -31945,9 +31930,6 @@
   }
   {
     id: 770005
-    name: mission_skill_config-10770005
-    description: mission_skill_config-20770005
-    lvup_description: mission_skill_config-30770005
     skill_group_id: 770005
     level: 1
     spot_type: "-1"
@@ -31959,9 +31941,6 @@
   }
   {
     id: 770006
-    name: mission_skill_config-10770006
-    description: mission_skill_config-20770006
-    lvup_description: mission_skill_config-30770006
     skill_group_id: 770006
     level: 1
     spot_type: "-1"
@@ -31973,9 +31952,6 @@
   }
   {
     id: 770007
-    name: mission_skill_config-10770007
-    description: mission_skill_config-20770007
-    lvup_description: mission_skill_config-30770007
     skill_group_id: 770007
     level: 1
     spot_type: "-1"
@@ -31987,9 +31963,6 @@
   }
   {
     id: 770009
-    name: mission_skill_config-10770009
-    description: mission_skill_config-20770009
-    lvup_description: mission_skill_config-30770009
     skill_group_id: 770009
     level: 1
     spot_type: "-1"
@@ -32001,9 +31974,6 @@
   }
   {
     id: 770011
-    name: mission_skill_config-10770011
-    description: mission_skill_config-20770011
-    lvup_description: mission_skill_config-30770011
     skill_group_id: 770011
     level: 1
     spot_type: "-1"
@@ -32015,9 +31985,6 @@
   }
   {
     id: 770012
-    name: mission_skill_config-10770012
-    description: mission_skill_config-20770012
-    lvup_description: mission_skill_config-30770012
     skill_group_id: 770012
     level: 1
     spot_type: "-1"
@@ -32029,9 +31996,6 @@
   }
   {
     id: 770013
-    name: mission_skill_config-10770013
-    description: mission_skill_config-20770013
-    lvup_description: mission_skill_config-30770013
     skill_group_id: 770013
     level: 1
     spot_type: "-1"
@@ -32043,9 +32007,6 @@
   }
   {
     id: 770014
-    name: mission_skill_config-10770014
-    description: mission_skill_config-20770014
-    lvup_description: mission_skill_config-30770014
     skill_group_id: 770014
     level: 1
     spot_type: "-1"
@@ -32057,9 +32018,6 @@
   }
   {
     id: 770015
-    name: mission_skill_config-10770015
-    description: mission_skill_config-20770015
-    lvup_description: mission_skill_config-30770015
     skill_group_id: 770015
     level: 1
     spot_type: "-1"
@@ -32071,9 +32029,6 @@
   }
   {
     id: 770016
-    name: mission_skill_config-10770016
-    description: mission_skill_config-20770016
-    lvup_description: mission_skill_config-30770016
     skill_group_id: 770016
     level: 1
     spot_type: "-1"
@@ -32085,9 +32040,8 @@
   }
   {
     id: 770017
-    name: mission_skill_config-10770017
-    description: mission_skill_config-20770017
-    lvup_description: mission_skill_config-30770017
+    name: 補給を拾う
+    description: 補給箱を拾い、指揮官のHPを50%回復し、10000ポイントを獲得する。
     skill_group_id: 770017
     level: 1
     spot_type: "-1"
@@ -32103,9 +32057,12 @@
   }
   {
     id: 770018
-    name: mission_skill_config-10770018
-    description: mission_skill_config-20770018
-    lvup_description: mission_skill_config-30770018
+    name: 補給を拾う？
+    description:
+      '''
+      補給箱を拾い、HPの50％と弾薬と配給を回復するが、謎の敵に襲われる。
+      <color=#CF8000>お前は……ミミック？</color>
+      '''
     skill_group_id: 770018
     level: 1
     spot_type: "-1"
@@ -32123,9 +32080,13 @@
   }
   {
     id: 770021
-    name: mission_skill_config-10770021
-    description: mission_skill_config-20770021
-    lvup_description: mission_skill_config-30770021
+    name: 指揮官防御強化I
+    description:
+      '''
+      戦闘時受けるダメージを10%軽減する。コマンド習得：「根性」「熱血」
+      根性：自身のHPを50%回復する。
+      熱血：自身の周囲5マス内の味方部隊の火力を1回100%上昇させる。
+      '''
     skill_group_id: 770021
     level: 1
     spot_type: "-1"
@@ -32142,9 +32103,13 @@
   }
   {
     id: 770022
-    name: mission_skill_config-10770022
-    description: mission_skill_config-20770022
-    lvup_description: mission_skill_config-30770022
+    name: 指揮官防御強化II
+    description:
+      '''
+      戦闘時受けるダメージを20%軽減する。コマンド習得：「感応」「鉄壁」
+      感応：自身の周囲5マス内の味方部隊の命中を1回999上昇させる。
+      鉄壁：自身の周囲5マス内の味方部隊の防御を1回30上昇させる。
+      '''
     skill_group_id: 770022
     level: 1
     spot_type: "-1"
@@ -32161,9 +32126,13 @@
   }
   {
     id: 770023
-    name: mission_skill_config-10770023
-    description: mission_skill_config-20770023
-    lvup_description: mission_skill_config-30770023
+    name: 指揮官防御強化III
+    description:
+      '''
+      戦闘時受けるダメージを30%軽減する。コマンド習得：「予知」「指揮オーラ」
+      予知：自身の周囲5マス内の味方部隊の回避を1回999上昇させる。
+      指揮オーラ：自身の周囲5マス内の味方部隊の戦闘時、その命中を50、移動速度を30%上昇させる。
+      '''
     skill_group_id: 770023
     level: 1
     spot_type: "-1"
@@ -32180,9 +32149,8 @@
   }
   {
     id: 770024
-    name: mission_skill_config-10770024
-    description: mission_skill_config-20770024
-    lvup_description: mission_skill_config-30770024
+    name: 修復装置
+    description: 修復装置を製作する。ポイントを消費することで、範囲内味方部隊を修復できる。
     skill_group_id: 770024
     level: 1
     spot_type: "-1"
@@ -32197,9 +32165,8 @@
   }
   {
     id: 770025
-    name: mission_skill_config-10770025
-    description: mission_skill_config-20770025
-    lvup_description: mission_skill_config-30770025
+    name: 補給装置
+    description: 補給装置を製作する。ポイントを消費することで、範囲内味方部隊を補給できる。
     skill_group_id: 770025
     level: 1
     spot_type: "-1"
@@ -32214,9 +32181,7 @@
   }
   {
     id: 770026
-    name: mission_skill_config-10770026
-    description: mission_skill_config-20770026
-    lvup_description: mission_skill_config-30770026
+    name: 根性の心得
     skill_group_id: 770026
     level: 1
     spot_type: "-1"
@@ -32229,9 +32194,12 @@
   }
   {
     id: 770027
-    name: mission_skill_config-10770027
-    description: mission_skill_config-20770027
-    lvup_description: mission_skill_config-30770027
+    name: 戦闘機動の心得
+    description:
+      '''
+      パッションスキル習得：「加速」
+      加速：自身の移動能力を高め、毎ターンの最初の3回の移動はAPを消費しない。
+      '''
     skill_group_id: 770027
     level: 1
     spot_type: "-1"
@@ -32247,9 +32215,7 @@
   }
   {
     id: 770028
-    name: mission_skill_config-10770028
-    description: mission_skill_config-20770028
-    lvup_description: mission_skill_config-30770028
+    name: 感応の心得
     skill_group_id: 770028
     level: 1
     spot_type: "-1"
@@ -32262,9 +32228,7 @@
   }
   {
     id: 770029
-    name: mission_skill_config-10770029
-    description: mission_skill_config-20770029
-    lvup_description: mission_skill_config-30770029
+    name: 予知の心得
     skill_group_id: 770029
     level: 1
     spot_type: "-1"
@@ -32277,9 +32241,7 @@
   }
   {
     id: 770030
-    name: mission_skill_config-10770030
-    description: mission_skill_config-20770030
-    lvup_description: mission_skill_config-30770030
+    name: 熱血の心得
     skill_group_id: 770030
     level: 1
     spot_type: "-1"
@@ -32292,9 +32254,7 @@
   }
   {
     id: 770031
-    name: mission_skill_config-10770031
-    description: mission_skill_config-20770031
-    lvup_description: mission_skill_config-30770031
+    name: 鉄壁の心得
     skill_group_id: 770031
     level: 1
     spot_type: "-1"
@@ -32307,9 +32267,12 @@
   }
   {
     id: 770032
-    name: mission_skill_config-10770032
-    description: mission_skill_config-20770032
-    lvup_description: mission_skill_config-30770032
+    name: 防御の極み
+    description:
+      '''
+      コマンド習得：「不屈」
+      不屈：自身の周囲5マス内の味方部隊の被ダメージを1回75%軽減させる。
+      '''
     skill_group_id: 770032
     level: 1
     spot_type: "-1"
@@ -32324,9 +32287,12 @@
   }
   {
     id: 770033
-    name: mission_skill_config-10770033
-    description: mission_skill_config-20770033
-    lvup_description: mission_skill_config-30770033
+    name: 機動の極み
+    description:
+      '''
+      コマンド習得：「覚醒」
+      覚醒：移動能力をさらに高め、毎ターンの最初の5回の移動はAPを消費しない。
+      '''
     skill_group_id: 770033
     level: 1
     spot_type: "-1"
@@ -32342,9 +32308,12 @@
   }
   {
     id: 770034
-    name: mission_skill_config-10770034
-    description: mission_skill_config-20770034
-    lvup_description: mission_skill_config-30770034
+    name: 攻撃の極み
+    description:
+      '''
+      コマンド習得：「魂」
+      魂：自身の周囲5マス内の味方部隊の火力を1回120%上昇させる。
+      '''
     skill_group_id: 770034
     level: 1
     spot_type: "-1"
@@ -32359,9 +32328,12 @@
   }
   {
     id: 770035
-    name: mission_skill_config-10770035
-    description: mission_skill_config-20770035
-    lvup_description: mission_skill_config-30770035
+    name: 貫通の極み
+    description:
+      '''
+      コマンド習得：「直撃」
+      直撃：自身の周囲5マス内の味方部隊に支援攻撃を召喚し、次の戦闘開始時、敵の偏向障壁を解除する。
+      '''
     skill_group_id: 770035
     level: 1
     spot_type: "-1"
@@ -32376,9 +32348,7 @@
   }
   {
     id: 770036
-    name: mission_skill_config-10770036
-    description: mission_skill_config-20770036
-    lvup_description: mission_skill_config-30770036
+    name: 指揮の心得
     skill_group_id: 770036
     level: 1
     spot_type: "-1"
@@ -32392,9 +32362,8 @@
   }
   {
     id: 770037
-    name: mission_skill_config-10770037
-    description: mission_skill_config-20770037
-    lvup_description: mission_skill_config-30770037
+    name: AR小隊の発信機
+    description: AR小隊の発信機を制作する。自身の周囲5マス内のレーダーにAR小隊を配置できる。AR小隊はコマンド「必中」を有する。
     skill_group_id: 770037
     level: 1
     spot_type: "-1"
@@ -32409,9 +32378,8 @@
   }
   {
     id: 770038
-    name: mission_skill_config-10770038
-    description: mission_skill_config-20770038
-    lvup_description: mission_skill_config-30770038
+    name: 404小隊の発信機
+    description: 404小隊の発信機を制作する。自身の周囲5マス内のレーダーに404小隊を配置できる。404小隊はコマンド「回避」を有する。
     skill_group_id: 770038
     level: 1
     spot_type: "-1"
@@ -32426,9 +32394,8 @@
   }
   {
     id: 770039
-    name: mission_skill_config-10770039
-    description: mission_skill_config-20770039
-    lvup_description: mission_skill_config-30770039
+    name: 反逆小隊の発信機
+    description: 反逆小隊の発信機を制作する。自身の周囲5マス内のレーダーに反逆小隊を配置できる。反逆小隊はコマンド「熱血」を有する。
     skill_group_id: 770039
     level: 1
     spot_type: "-1"
@@ -32443,9 +32410,8 @@
   }
   {
     id: 770040
-    name: mission_skill_config-10770040
-    description: mission_skill_config-20770040
-    lvup_description: mission_skill_config-30770040
+    name: M16の発信機
+    description: M16A1の発信機を制作する。自身の周囲5マス内のレーダーにM16A1を配置できる。
     skill_group_id: 770040
     level: 1
     spot_type: "-1"
@@ -32460,9 +32426,8 @@
   }
   {
     id: 770041
-    name: mission_skill_config-10770041
-    description: mission_skill_config-20770041
-    lvup_description: mission_skill_config-30770041
+    name: エージェントの発信機
+    description: 鉄血小隊の発信機を制作する。自身の周囲5マス内のレーダーに鉄血小隊を配置できる。鉄血小隊はコマンド「鉄壁」を有する。
     skill_group_id: 770041
     level: 1
     spot_type: "-1"
@@ -32477,9 +32442,8 @@
   }
   {
     id: 770042
-    name: mission_skill_config-10770042
-    description: mission_skill_config-20770042
-    lvup_description: mission_skill_config-30770042
+    name: ？？？の発信機
+    description: 謎の人物の発信機を制作する。自身の周囲5マス内のレーダーに配置できる。
     skill_group_id: 770042
     level: 1
     spot_type: "-1"
@@ -32494,9 +32458,8 @@
   }
   {
     id: 770043
-    name: mission_skill_config-10770043
-    description: mission_skill_config-20770043
-    lvup_description: mission_skill_config-30770043
+    name: パラデウスの発信機
+    description: パラデウスの発信機を制作する。パラデウスのボスを自身の周囲5マス内のレーダーに誘導できる。
     skill_group_id: 770043
     level: 1
     spot_type: "-1"
@@ -32511,9 +32474,8 @@
   }
   {
     id: 770044
-    name: mission_skill_config-10770044
-    description: mission_skill_config-20770044
-    lvup_description: mission_skill_config-30770044
+    name: パラデウスの発信機II型
+    description: パラデウスの発信機II型を制作する。もっと強いパラデウスのボスを自身の周囲5マス内のレーダーに誘導できる。
     skill_group_id: 770044
     level: 1
     spot_type: "-1"
@@ -32528,9 +32490,8 @@
   }
   {
     id: 770051
-    name: mission_skill_config-10770051
-    description: mission_skill_config-20770051
-    lvup_description: mission_skill_config-30770051
+    name: 修復
+    description: 自身の周囲5マス内の味方部隊を修復する。HPの30%を回復する。
     skill_group_id: 770051
     level: 1
     spot_type: "-1"
@@ -32546,9 +32507,8 @@
   }
   {
     id: 770052
-    name: mission_skill_config-10770052
-    description: mission_skill_config-20770052
-    lvup_description: mission_skill_config-30770052
+    name: 補給
+    description: 自身の周囲5マス内の味方部隊を補給する。弾薬と配給を回復し、機動装甲のエネルギーを少し補充する。
     skill_group_id: 770052
     level: 1
     spot_type: "-1"
@@ -32564,9 +32524,8 @@
   }
   {
     id: 770053
-    name: mission_skill_config-10770053
-    description: mission_skill_config-20770053
-    lvup_description: mission_skill_config-30770053
+    name: 根性
+    description: 自身のHPを50%回復する。
     skill_group_id: 770053
     level: 1
     spot_type: "-1"
@@ -32582,9 +32541,8 @@
   }
   {
     id: 770054
-    name: mission_skill_config-10770054
-    description: mission_skill_config-20770054
-    lvup_description: mission_skill_config-30770054
+    name: 感応
+    description: 自身の周囲5マス内の味方部隊の命中を1回999上昇させる。
     skill_group_id: 770054
     level: 1
     spot_type: "-1"
@@ -32600,9 +32558,8 @@
   }
   {
     id: 770055
-    name: mission_skill_config-10770055
-    description: mission_skill_config-20770055
-    lvup_description: mission_skill_config-30770055
+    name: 予知
+    description: 自身の周囲5マス内の味方部隊の回避を1回999上昇させる。
     skill_group_id: 770055
     level: 1
     spot_type: "-1"
@@ -32618,9 +32575,8 @@
   }
   {
     id: 770056
-    name: mission_skill_config-10770056
-    description: mission_skill_config-20770056
-    lvup_description: mission_skill_config-30770056
+    name: 熱血
+    description: 自身の周囲5マス内の味方部隊の火力を1回100%上昇させる。
     skill_group_id: 770056
     level: 1
     spot_type: "-1"
@@ -32636,9 +32592,8 @@
   }
   {
     id: 770057
-    name: mission_skill_config-10770057
-    description: mission_skill_config-20770057
-    lvup_description: mission_skill_config-30770057
+    name: 鉄壁
+    description: 自身の周囲5マス内の味方部隊の防御を1回30上昇させる。
     skill_group_id: 770057
     level: 1
     spot_type: "-1"
@@ -32654,9 +32609,8 @@
   }
   {
     id: 770058
-    name: mission_skill_config-10770058
-    description: mission_skill_config-20770058
-    lvup_description: mission_skill_config-30770058
+    name: 不屈
+    description: 自身の周囲5マス内の味方部隊の被ダメージを1回75%軽減させる。
     skill_group_id: 770058
     level: 1
     spot_type: "-1"
@@ -32672,9 +32626,8 @@
   }
   {
     id: 770059
-    name: mission_skill_config-10770059
-    description: mission_skill_config-20770059
-    lvup_description: mission_skill_config-30770059
+    name: 魂
+    description: 自身の周囲5マス内の味方部隊の火力を1回120%上昇させる。
     skill_group_id: 770059
     level: 1
     spot_type: "-1"
@@ -32690,9 +32643,8 @@
   }
   {
     id: 770060
-    name: mission_skill_config-10770060
-    description: mission_skill_config-20770060
-    lvup_description: mission_skill_config-30770060
+    name: 直撃
+    description: 自身の周囲5マス内の味方部隊に支援攻撃を召喚し、次の戦闘開始時、敵の偏向障壁を解除する。
     skill_group_id: 770060
     level: 1
     spot_type: "-1"
@@ -32708,9 +32660,6 @@
   }
   {
     id: 770061
-    name: mission_skill_config-10770061
-    description: mission_skill_config-20770061
-    lvup_description: mission_skill_config-30770061
     skill_group_id: 770061
     level: 1
     spot_type: "-1"
@@ -32720,9 +32669,6 @@
   }
   {
     id: 770062
-    name: mission_skill_config-10770062
-    description: mission_skill_config-20770062
-    lvup_description: mission_skill_config-30770062
     skill_group_id: 770062
     level: 1
     spot_type: "-1"
@@ -32732,9 +32678,6 @@
   }
   {
     id: 770063
-    name: mission_skill_config-10770063
-    description: mission_skill_config-20770063
-    lvup_description: mission_skill_config-30770063
     skill_group_id: 770063
     level: 1
     spot_type: "-1"
@@ -32744,9 +32687,6 @@
   }
   {
     id: 770064
-    name: mission_skill_config-10770064
-    description: mission_skill_config-20770064
-    lvup_description: mission_skill_config-30770064
     skill_group_id: 770064
     level: 1
     spot_type: "-1"
@@ -32756,9 +32696,6 @@
   }
   {
     id: 770065
-    name: mission_skill_config-10770065
-    description: mission_skill_config-20770065
-    lvup_description: mission_skill_config-30770065
     skill_group_id: 770065
     level: 1
     spot_type: "-1"
@@ -32768,9 +32705,6 @@
   }
   {
     id: 770066
-    name: mission_skill_config-10770066
-    description: mission_skill_config-20770066
-    lvup_description: mission_skill_config-30770066
     skill_group_id: 770066
     level: 1
     spot_type: "-1"
@@ -32780,9 +32714,6 @@
   }
   {
     id: 770067
-    name: mission_skill_config-10770067
-    description: mission_skill_config-20770067
-    lvup_description: mission_skill_config-30770067
     skill_group_id: 770067
     level: 1
     spot_type: "-1"
@@ -32794,9 +32725,6 @@
   }
   {
     id: 770068
-    name: mission_skill_config-10770068
-    description: mission_skill_config-20770068
-    lvup_description: mission_skill_config-30770068
     skill_group_id: 770068
     level: 1
     spot_type: "-1"
@@ -32808,9 +32736,6 @@
   }
   {
     id: 770069
-    name: mission_skill_config-10770069
-    description: mission_skill_config-20770069
-    lvup_description: mission_skill_config-30770069
     skill_group_id: 770069
     level: 1
     spot_type: "-1"
@@ -32822,9 +32747,6 @@
   }
   {
     id: 770070
-    name: mission_skill_config-10770070
-    description: mission_skill_config-20770070
-    lvup_description: mission_skill_config-30770070
     skill_group_id: 770070
     level: 1
     spot_type: "-1"
@@ -32836,9 +32758,6 @@
   }
   {
     id: 770071
-    name: mission_skill_config-10770071
-    description: mission_skill_config-20770071
-    lvup_description: mission_skill_config-30770071
     skill_group_id: 770071
     level: 1
     spot_type: "-1"
@@ -32850,9 +32769,6 @@
   }
   {
     id: 770072
-    name: mission_skill_config-10770072
-    description: mission_skill_config-20770072
-    lvup_description: mission_skill_config-30770072
     skill_group_id: 770072
     level: 1
     spot_type: "-1"
@@ -32864,9 +32780,6 @@
   }
   {
     id: 770073
-    name: mission_skill_config-10770073
-    description: mission_skill_config-20770073
-    lvup_description: mission_skill_config-30770073
     skill_group_id: 770073
     level: 1
     spot_type: "-1"
@@ -32878,9 +32791,6 @@
   }
   {
     id: 770074
-    name: mission_skill_config-10770074
-    description: mission_skill_config-20770074
-    lvup_description: mission_skill_config-30770074
     skill_group_id: 770074
     level: 1
     spot_type: "-1"
@@ -32892,9 +32802,6 @@
   }
   {
     id: 770075
-    name: mission_skill_config-10770075
-    description: mission_skill_config-20770075
-    lvup_description: mission_skill_config-30770075
     skill_group_id: 770075
     level: 1
     spot_type: "-1"
@@ -32906,9 +32813,6 @@
   }
   {
     id: 770076
-    name: mission_skill_config-10770076
-    description: mission_skill_config-20770076
-    lvup_description: mission_skill_config-30770076
     skill_group_id: 770076
     level: 1
     spot_type: "-1"
@@ -32920,9 +32824,6 @@
   }
   {
     id: 770077
-    name: mission_skill_config-10770077
-    description: mission_skill_config-20770077
-    lvup_description: mission_skill_config-30770077
     skill_group_id: 770077
     level: 1
     spot_type: "-1"
@@ -32934,9 +32835,6 @@
   }
   {
     id: 770078
-    name: mission_skill_config-10770078
-    description: mission_skill_config-20770078
-    lvup_description: mission_skill_config-30770078
     skill_group_id: 770078
     level: 1
     spot_type: "-1"
@@ -32948,9 +32846,8 @@
   }
   {
     id: 770081
-    name: mission_skill_config-10770081
-    description: mission_skill_config-20770081
-    lvup_description: mission_skill_config-30770081
+    name: AR小隊を配置
+    description: レーダーにAR小隊を配置する。同じ小隊は1回のみ配置できる。
     skill_group_id: 770081
     level: 1
     spot_type: "-1"
@@ -32965,9 +32862,8 @@
   }
   {
     id: 770082
-    name: mission_skill_config-10770082
-    description: mission_skill_config-20770082
-    lvup_description: mission_skill_config-30770082
+    name: 404小隊を配置
+    description: レーダーに404小隊を配置する。同じ小隊は1回のみ配置できる。
     skill_group_id: 770082
     level: 1
     spot_type: "-1"
@@ -32982,9 +32878,8 @@
   }
   {
     id: 770083
-    name: mission_skill_config-10770083
-    description: mission_skill_config-20770083
-    lvup_description: mission_skill_config-30770083
+    name: 反逆小隊を配置
+    description: レーダーに反逆小隊を配置する。同じ小隊は1回のみ配置できる。
     skill_group_id: 770083
     level: 1
     spot_type: "-1"
@@ -32999,9 +32894,8 @@
   }
   {
     id: 770084
-    name: mission_skill_config-10770084
-    description: mission_skill_config-20770084
-    lvup_description: mission_skill_config-30770084
+    name: M16A1を配置
+    description: レーダーにM16A1を配置する。同じ小隊は1回のみ配置できる。
     skill_group_id: 770084
     level: 1
     spot_type: "-1"
@@ -33016,9 +32910,8 @@
   }
   {
     id: 770085
-    name: mission_skill_config-10770085
-    description: mission_skill_config-20770085
-    lvup_description: mission_skill_config-30770085
+    name: 鉄血小隊を配置
+    description: レーダーに鉄血小隊を配置する。同じ小隊は1回のみ配置できる。
     skill_group_id: 770085
     level: 1
     spot_type: "-1"
@@ -33033,9 +32926,8 @@
   }
   {
     id: 770086
-    name: mission_skill_config-10770086
-    description: mission_skill_config-20770086
-    lvup_description: mission_skill_config-30770086
+    name: ビークを配置
+    description: レーダーにビークを配置する。同じ小隊は1回のみ配置できる。
     skill_group_id: 770086
     level: 1
     spot_type: "-1"
@@ -33050,9 +32942,6 @@
   }
   {
     id: 770087
-    name: mission_skill_config-10770087
-    description: mission_skill_config-20770087
-    lvup_description: mission_skill_config-30770087
     skill_group_id: 770087
     level: 1
     spot_type: "-1"
@@ -33065,9 +32954,6 @@
   }
   {
     id: 770088
-    name: mission_skill_config-10770088
-    description: mission_skill_config-20770088
-    lvup_description: mission_skill_config-30770088
     skill_group_id: 770088
     level: 1
     spot_type: "-1"
@@ -33080,9 +32966,8 @@
   }
   {
     id: 770090
-    name: mission_skill_config-10770090
-    description: mission_skill_config-20770090
-    lvup_description: mission_skill_config-30770090
+    name: モリドーを誘導
+    description: 発信機でモリドーを指定位置に誘導する。
     skill_group_id: 770090
     level: 1
     spot_type: "-1"
@@ -33097,9 +32982,8 @@
   }
   {
     id: 770091
-    name: mission_skill_config-10770091
-    description: mission_skill_config-20770091
-    lvup_description: mission_skill_config-30770091
+    name: エンブラを誘導
+    description: 発信機でエンブラを指定位置に誘導する。
     skill_group_id: 770091
     level: 1
     spot_type: "-1"
@@ -33114,9 +32998,8 @@
   }
   {
     id: 770092
-    name: mission_skill_config-10770092
-    description: mission_skill_config-20770092
-    lvup_description: mission_skill_config-30770092
+    name: グレイを誘導
+    description: 発信機でグレイを指定位置に誘導する。
     skill_group_id: 770092
     level: 1
     spot_type: "-1"
@@ -33131,9 +33014,8 @@
   }
   {
     id: 770093
-    name: mission_skill_config-10770093
-    description: mission_skill_config-20770093
-    lvup_description: mission_skill_config-30770093
+    name: ブラメドを誘導
+    description: 発信機でブラメドを指定位置に誘導する。
     skill_group_id: 770093
     level: 1
     spot_type: "-1"
@@ -33148,9 +33030,8 @@
   }
   {
     id: 770094
-    name: mission_skill_config-10770094
-    description: mission_skill_config-20770094
-    lvup_description: mission_skill_config-30770094
+    name: 謎のボスを誘導
+    description: 発信機で謎のボスを指定位置に誘導する。
     skill_group_id: 770094
     level: 1
     spot_type: "-1"
@@ -33165,9 +33046,8 @@
   }
   {
     id: 770095
-    name: mission_skill_config-10770095
-    description: mission_skill_config-20770095
-    lvup_description: mission_skill_config-30770095
+    name: ステュクスを誘導
+    description: 発信機II型でステュクスを指定位置に誘導する。
     skill_group_id: 770095
     level: 1
     spot_type: "-1"
@@ -33182,9 +33062,8 @@
   }
   {
     id: 770096
-    name: mission_skill_config-10770096
-    description: mission_skill_config-20770096
-    lvup_description: mission_skill_config-30770096
+    name: へーべを誘導
+    description: 発信機II型でへーべを指定位置に誘導する。
     skill_group_id: 770096
     level: 1
     spot_type: "-1"
@@ -33199,9 +33078,8 @@
   }
   {
     id: 770097
-    name: mission_skill_config-10770097
-    description: mission_skill_config-20770097
-    lvup_description: mission_skill_config-30770097
+    name: ネムランを誘導
+    description: 発信機II型でネムランを指定位置に誘導する。
     skill_group_id: 770097
     level: 1
     spot_type: "-1"
@@ -33216,9 +33094,8 @@
   }
   {
     id: 770098
-    name: mission_skill_config-10770098
-    description: mission_skill_config-20770098
-    lvup_description: mission_skill_config-30770098
+    name: グリクを誘導
+    description: 発信機II型でグリクを指定位置に誘導する。
     skill_group_id: 770098
     level: 1
     spot_type: "-1"
@@ -33233,9 +33110,8 @@
   }
   {
     id: 770099
-    name: mission_skill_config-10770099
-    description: mission_skill_config-20770099
-    lvup_description: mission_skill_config-30770099
+    name: ウィリアムを誘導
+    description: 発信機II型でウィリアムを指定位置に誘導する。
     skill_group_id: 770099
     level: 1
     spot_type: "-1"
@@ -33250,9 +33126,6 @@
   }
   {
     id: 770100
-    name: mission_skill_config-10770100
-    description: mission_skill_config-20770100
-    lvup_description: mission_skill_config-30770100
     skill_group_id: 770100
     level: 1
     spot_type: "-1"
@@ -33264,9 +33137,6 @@
   }
   {
     id: 770101
-    name: mission_skill_config-10770101
-    description: mission_skill_config-20770101
-    lvup_description: mission_skill_config-30770101
     skill_group_id: 770101
     level: 1
     spot_type: "-1"
@@ -33277,9 +33147,6 @@
   }
   {
     id: 770102
-    name: mission_skill_config-10770102
-    description: mission_skill_config-20770102
-    lvup_description: mission_skill_config-30770102
     skill_group_id: 770102
     level: 1
     spot_type: "-1"
@@ -33290,9 +33157,6 @@
   }
   {
     id: 770103
-    name: mission_skill_config-10770103
-    description: mission_skill_config-20770103
-    lvup_description: mission_skill_config-30770103
     skill_group_id: 770103
     level: 1
     spot_type: "-1"
@@ -33303,9 +33167,6 @@
   }
   {
     id: 770104
-    name: mission_skill_config-10770104
-    description: mission_skill_config-20770104
-    lvup_description: mission_skill_config-30770104
     skill_group_id: 770104
     level: 1
     spot_type: "-1"
@@ -33316,9 +33177,6 @@
   }
   {
     id: 770105
-    name: mission_skill_config-10770105
-    description: mission_skill_config-20770105
-    lvup_description: mission_skill_config-30770105
     skill_group_id: 770105
     level: 1
     spot_type: "-1"
@@ -33329,9 +33187,6 @@
   }
   {
     id: 770106
-    name: mission_skill_config-10770106
-    description: mission_skill_config-20770106
-    lvup_description: mission_skill_config-30770106
     skill_group_id: 770106
     level: 1
     spot_type: "-1"
@@ -33342,9 +33197,6 @@
   }
   {
     id: 770107
-    name: mission_skill_config-10770107
-    description: mission_skill_config-20770107
-    lvup_description: mission_skill_config-30770107
     skill_group_id: 770107
     level: 1
     spot_type: "-1"
@@ -33356,9 +33208,6 @@
   }
   {
     id: 770108
-    name: mission_skill_config-10770108
-    description: mission_skill_config-20770108
-    lvup_description: mission_skill_config-30770108
     skill_group_id: 770108
     level: 1
     spot_type: "-1"
@@ -33369,9 +33218,6 @@
   }
   {
     id: 770109
-    name: mission_skill_config-10770109
-    description: mission_skill_config-20770109
-    lvup_description: mission_skill_config-30770109
     skill_group_id: 770109
     level: 1
     spot_type: "-1"
@@ -33382,9 +33228,8 @@
   }
   {
     id: 770111
-    name: mission_skill_config-10770111
-    description: mission_skill_config-20770111
-    lvup_description: mission_skill_config-30770111
+    name: 必中
+    description: 1ターンの間、自身の命中を999上昇させる。
     skill_group_id: 770111
     level: 1
     spot_type: "-1"
@@ -33399,9 +33244,8 @@
   }
   {
     id: 770112
-    name: mission_skill_config-10770112
-    description: mission_skill_config-20770112
-    lvup_description: mission_skill_config-30770112
+    name: 回避
+    description: 1回の戦闘で、自身の回避を999上昇させる。
     skill_group_id: 770112
     level: 1
     spot_type: "-1"
@@ -33416,9 +33260,8 @@
   }
   {
     id: 770113
-    name: mission_skill_config-10770113
-    description: mission_skill_config-20770113
-    lvup_description: mission_skill_config-30770113
+    name: 熱血
+    description: 1回の戦闘で、自身の火力を100%上昇させる。
     skill_group_id: 770113
     level: 1
     spot_type: "-1"
@@ -33433,9 +33276,8 @@
   }
   {
     id: 770114
-    name: mission_skill_config-10770114
-    description: mission_skill_config-20770114
-    lvup_description: mission_skill_config-30770114
+    name: 鉄壁
+    description: 1ターンの間、自身の防御を30上昇させる。
     skill_group_id: 770114
     level: 1
     spot_type: "-1"
@@ -33450,9 +33292,6 @@
   }
   {
     id: 770121
-    name: mission_skill_config-10770121
-    description: mission_skill_config-20770121
-    lvup_description: mission_skill_config-30770121
     skill_group_id: 770121
     level: 1
     spot_type: "-1"
@@ -33465,9 +33304,6 @@
   }
   {
     id: 770122
-    name: mission_skill_config-10770122
-    description: mission_skill_config-20770122
-    lvup_description: mission_skill_config-30770122
     skill_group_id: 770122
     level: 1
     spot_type: "-1"
@@ -33480,9 +33316,6 @@
   }
   {
     id: 770123
-    name: mission_skill_config-10770123
-    description: mission_skill_config-20770123
-    lvup_description: mission_skill_config-30770123
     skill_group_id: 770123
     level: 1
     spot_type: "-1"
@@ -33495,9 +33328,6 @@
   }
   {
     id: 770124
-    name: mission_skill_config-10770124
-    description: mission_skill_config-20770124
-    lvup_description: mission_skill_config-30770124
     skill_group_id: 770124
     level: 1
     spot_type: "-1"
@@ -33510,9 +33340,6 @@
   }
   {
     id: 770131
-    name: mission_skill_config-10770131
-    description: mission_skill_config-20770131
-    lvup_description: mission_skill_config-30770131
     skill_group_id: 770131
     level: 1
     spot_type: "-1"
@@ -33524,9 +33351,6 @@
   }
   {
     id: 770132
-    name: mission_skill_config-10770132
-    description: mission_skill_config-20770132
-    lvup_description: mission_skill_config-30770132
     skill_group_id: 770132
     level: 1
     spot_type: "-1"
@@ -33538,9 +33362,6 @@
   }
   {
     id: 770133
-    name: mission_skill_config-10770133
-    description: mission_skill_config-20770133
-    lvup_description: mission_skill_config-30770133
     skill_group_id: 770133
     level: 1
     spot_type: "-1"
@@ -33552,9 +33373,6 @@
   }
   {
     id: 770134
-    name: mission_skill_config-10770134
-    description: mission_skill_config-20770134
-    lvup_description: mission_skill_config-30770134
     skill_group_id: 770134
     level: 1
     spot_type: "-1"
@@ -33566,9 +33384,6 @@
   }
   {
     id: 770135
-    name: mission_skill_config-10770135
-    description: mission_skill_config-20770135
-    lvup_description: mission_skill_config-30770135
     skill_group_id: 770135
     level: 1
     spot_type: "-1"
@@ -33580,9 +33395,6 @@
   }
   {
     id: 770136
-    name: mission_skill_config-10770136
-    description: mission_skill_config-20770136
-    lvup_description: mission_skill_config-30770136
     skill_group_id: 770136
     level: 1
     spot_type: "-1"
@@ -33594,9 +33406,7 @@
   }
   {
     id: 770181
-    name: mission_skill_config-10770181
-    description: mission_skill_config-20770181
-    lvup_description: mission_skill_config-30770181
+    name: AR小隊の発信機
     skill_group_id: 770181
     level: 1
     spot_type: "-1"
@@ -33609,9 +33419,7 @@
   }
   {
     id: 770182
-    name: mission_skill_config-10770182
-    description: mission_skill_config-20770182
-    lvup_description: mission_skill_config-30770182
+    name: 404小隊の発信機
     skill_group_id: 770182
     level: 1
     spot_type: "-1"
@@ -33624,9 +33432,7 @@
   }
   {
     id: 770183
-    name: mission_skill_config-10770183
-    description: mission_skill_config-20770183
-    lvup_description: mission_skill_config-30770183
+    name: 反逆小隊の発信機
     skill_group_id: 770183
     level: 1
     spot_type: "-1"
@@ -33639,9 +33445,7 @@
   }
   {
     id: 770184
-    name: mission_skill_config-10770184
-    description: mission_skill_config-20770184
-    lvup_description: mission_skill_config-30770184
+    name: M16の発信機
     skill_group_id: 770184
     level: 1
     spot_type: "-1"
@@ -33654,9 +33458,7 @@
   }
   {
     id: 770185
-    name: mission_skill_config-10770185
-    description: mission_skill_config-20770185
-    lvup_description: mission_skill_config-30770185
+    name: エージェントの発信機
     skill_group_id: 770185
     level: 1
     spot_type: "-1"
@@ -33669,9 +33471,7 @@
   }
   {
     id: 770186
-    name: mission_skill_config-10770186
-    description: mission_skill_config-20770186
-    lvup_description: mission_skill_config-30770186
+    name: ？？？の発信機
     skill_group_id: 770186
     level: 1
     spot_type: "-1"
@@ -33684,9 +33484,6 @@
   }
   {
     id: 770190
-    name: mission_skill_config-10770190
-    description: mission_skill_config-20770190
-    lvup_description: mission_skill_config-30770190
     skill_group_id: 770190
     level: 1
     spot_type: "-1"
@@ -33699,9 +33496,6 @@
   }
   {
     id: 770191
-    name: mission_skill_config-10770191
-    description: mission_skill_config-20770191
-    lvup_description: mission_skill_config-30770191
     skill_group_id: 770191
     level: 1
     spot_type: "-1"
@@ -33714,9 +33508,6 @@
   }
   {
     id: 770192
-    name: mission_skill_config-10770192
-    description: mission_skill_config-20770192
-    lvup_description: mission_skill_config-30770192
     skill_group_id: 770192
     level: 1
     spot_type: "-1"
@@ -33729,9 +33520,6 @@
   }
   {
     id: 770193
-    name: mission_skill_config-10770193
-    description: mission_skill_config-20770193
-    lvup_description: mission_skill_config-30770193
     skill_group_id: 770193
     level: 1
     spot_type: "-1"
@@ -33744,9 +33532,6 @@
   }
   {
     id: 770194
-    name: mission_skill_config-10770194
-    description: mission_skill_config-20770194
-    lvup_description: mission_skill_config-30770194
     skill_group_id: 770194
     level: 1
     spot_type: "-1"
@@ -33759,9 +33544,6 @@
   }
   {
     id: 770195
-    name: mission_skill_config-10770195
-    description: mission_skill_config-20770195
-    lvup_description: mission_skill_config-30770195
     skill_group_id: 770195
     level: 1
     spot_type: "-1"
@@ -33774,9 +33556,6 @@
   }
   {
     id: 770196
-    name: mission_skill_config-10770196
-    description: mission_skill_config-20770196
-    lvup_description: mission_skill_config-30770196
     skill_group_id: 770196
     level: 1
     spot_type: "-1"
@@ -33789,9 +33568,6 @@
   }
   {
     id: 770197
-    name: mission_skill_config-10770197
-    description: mission_skill_config-20770197
-    lvup_description: mission_skill_config-30770197
     skill_group_id: 770197
     level: 1
     spot_type: "-1"
@@ -33804,9 +33580,6 @@
   }
   {
     id: 770198
-    name: mission_skill_config-10770198
-    description: mission_skill_config-20770198
-    lvup_description: mission_skill_config-30770198
     skill_group_id: 770198
     level: 1
     spot_type: "-1"
@@ -33819,9 +33592,6 @@
   }
   {
     id: 770199
-    name: mission_skill_config-10770199
-    description: mission_skill_config-20770199
-    lvup_description: mission_skill_config-30770199
     skill_group_id: 770199
     level: 1
     spot_type: "-1"
@@ -33834,9 +33604,7 @@
   }
   {
     id: 780000
-    name: mission_skill_config-10780000
-    description: mission_skill_config-20780000
-    lvup_description: mission_skill_config-30780000
+    name: 指揮官
     skill_group_id: 780000
     level: 1
     spot_type: "-1"
@@ -33848,9 +33616,12 @@
   }
   {
     id: 780001
-    name: mission_skill_config-10780001
-    description: mission_skill_config-20780001
-    lvup_description: mission_skill_config-30780001
+    name: 指揮作業台
+    description:
+      '''
+      コマンド習得：「必中」「回避」「熱血」「鉄壁」
+      20ポイントを消費し、自身に戦闘バフを一つ付与する。
+      '''
     skill_group_id: 780001
     level: 1
     spot_type: "-1"
@@ -33864,9 +33635,12 @@
   }
   {
     id: 780002
-    name: mission_skill_config-10780002
-    description: mission_skill_config-20780002
-    lvup_description: mission_skill_config-30780002
+    name: ゴリアテの棚
+    description:
+      '''
+      コマンド習得：「ゴリアテを投げる」
+      30ポイントを消費し、ゴリアテを投げる。ボス以外の敵を直接倒すことができる。
+      '''
     skill_group_id: 780002
     level: 1
     spot_type: "-1"
@@ -33881,9 +33655,12 @@
   }
   {
     id: 780003
-    name: mission_skill_config-10780003
-    description: mission_skill_config-20780003
-    lvup_description: mission_skill_config-30780003
+    name: ハッキング制御台
+    description:
+      '''
+      コマンド習得：「アクティブ防御」
+      30ポイントを消費し、自身にステルスを付与する。敵や一部の施設に発見されず、干渉されなくなる。
+      '''
     skill_group_id: 780003
     level: 1
     spot_type: "-1"
@@ -33898,9 +33675,12 @@
   }
   {
     id: 780004
-    name: mission_skill_config-10780004
-    description: mission_skill_config-20780004
-    lvup_description: mission_skill_config-30780004
+    name: 戦闘続行の心得
+    description:
+      '''
+      コマンド習得：「根性」
+      20ポイントを消費し、自身のHPを50%を回復する。
+      '''
     skill_group_id: 780004
     level: 1
     spot_type: "-1"
@@ -33914,9 +33694,12 @@
   }
   {
     id: 780005
-    name: mission_skill_config-10780005
-    description: mission_skill_config-20780005
-    lvup_description: mission_skill_config-30780005
+    name: 戦闘機動の心得
+    description:
+      '''
+      10ポイントを消費しコマンド習得：「加速」
+      自身の移動能力を高め、毎ターンの最初の3回の移動はAPを消費しない。
+      '''
     skill_group_id: 780005
     level: 1
     spot_type: "-1"
@@ -33931,9 +33714,12 @@
   }
   {
     id: 780006
-    name: mission_skill_config-10780006
-    description: mission_skill_config-20780006
-    lvup_description: mission_skill_config-30780006
+    name: 防御の極み
+    description:
+      '''
+      コマンド習得：「不屈」
+      25ポイントを消費し、1回の戦闘で味方部隊の被ダメージを75%軽減させる。指揮官が習得した場合、その周囲5マス以内の味方部隊に対し使用できる。
+      '''
     skill_group_id: 780006
     level: 1
     spot_type: "-1"
@@ -33947,9 +33733,12 @@
   }
   {
     id: 780007
-    name: mission_skill_config-10780007
-    description: mission_skill_config-20780007
-    lvup_description: mission_skill_config-30780007
+    name: 機動の極み
+    description:
+      '''
+      10ポイントを消費しコマンド習得：「覚醒」
+      移動能力をさらに高め、毎ターンの最初の5回の移動はAPを消費しない。
+      '''
     skill_group_id: 780007
     level: 1
     spot_type: "-1"
@@ -33964,9 +33753,12 @@
   }
   {
     id: 780008
-    name: mission_skill_config-10780008
-    description: mission_skill_config-20780008
-    lvup_description: mission_skill_config-30780008
+    name: 攻撃の極み
+    description:
+      '''
+      コマンド習得：「魂」
+      25ポイントを消費し、1回の戦闘で味方部隊の火力を120%上昇させる。指揮官が習得した場合、その周囲5マス以内の味方部隊に対し使用できる。
+      '''
     skill_group_id: 780008
     level: 1
     spot_type: "-1"
@@ -33980,9 +33772,12 @@
   }
   {
     id: 780009
-    name: mission_skill_config-10780009
-    description: mission_skill_config-20780009
-    lvup_description: mission_skill_config-30780009
+    name: 貫通の極み
+    description:
+      '''
+      コマンド習得：「直撃」
+      20ポイントを消費し、次の戦闘で味方部隊に支援攻撃を召喚し、敵の偏向障壁を解除する。指揮官が習得した場合、その周囲5マス以内の味方部隊に対し使用できる。
+      '''
     skill_group_id: 780009
     level: 1
     spot_type: "-1"
@@ -33996,9 +33791,8 @@
   }
   {
     id: 780011
-    name: mission_skill_config-10780011
-    description: mission_skill_config-20780011
-    lvup_description: mission_skill_config-30780011
+    name: 修復
+    description: 自身の周囲5マス内の味方部隊を修復する。HPの30%を回復する。
     skill_group_id: 780011
     level: 1
     spot_type: "-1"
@@ -34013,9 +33807,8 @@
   }
   {
     id: 780012
-    name: mission_skill_config-10780012
-    description: mission_skill_config-20780012
-    lvup_description: mission_skill_config-30780012
+    name: 補給
+    description: 自身の周囲5マス内の味方部隊を補給する。弾薬と配給を回復し、機動装甲のエネルギーを少し補充する。
     skill_group_id: 780012
     level: 1
     spot_type: "-1"
@@ -34030,9 +33823,8 @@
   }
   {
     id: 780013
-    name: mission_skill_config-10780013
-    description: mission_skill_config-20780013
-    lvup_description: mission_skill_config-30780013
+    name: 感応
+    description: 自身の周囲5マス内の味方部隊の命中を1回999上昇させる。
     skill_group_id: 780013
     level: 1
     spot_type: "-1"
@@ -34047,9 +33839,8 @@
   }
   {
     id: 780014
-    name: mission_skill_config-10780014
-    description: mission_skill_config-20780014
-    lvup_description: mission_skill_config-30780014
+    name: 予知
+    description: 自身の周囲5マス内の味方部隊の回避を1回999上昇させる。
     skill_group_id: 780014
     level: 1
     spot_type: "-1"
@@ -34064,9 +33855,8 @@
   }
   {
     id: 780015
-    name: mission_skill_config-10780015
-    description: mission_skill_config-20780015
-    lvup_description: mission_skill_config-30780015
+    name: 熱血
+    description: 自身の周囲5マス内の味方部隊の火力を1回100%上昇させる。
     skill_group_id: 780015
     level: 1
     spot_type: "-1"
@@ -34081,9 +33871,8 @@
   }
   {
     id: 780016
-    name: mission_skill_config-10780016
-    description: mission_skill_config-20780016
-    lvup_description: mission_skill_config-30780016
+    name: 鉄壁
+    description: 自身の周囲5マス内の味方部隊の防御を1回30上昇させる。
     skill_group_id: 780016
     level: 1
     spot_type: "-1"
@@ -34098,9 +33887,8 @@
   }
   {
     id: 780017
-    name: mission_skill_config-10780017
-    description: mission_skill_config-20780017
-    lvup_description: mission_skill_config-30780017
+    name: 不屈
+    description: 自身の周囲5マス内の味方部隊の被ダメージを1回75%軽減させる。
     skill_group_id: 780017
     level: 1
     spot_type: "-1"
@@ -34116,9 +33904,8 @@
   }
   {
     id: 780018
-    name: mission_skill_config-10780018
-    description: mission_skill_config-20780018
-    lvup_description: mission_skill_config-30780018
+    name: 魂
+    description: 自身の周囲5マス内の味方部隊の火力を1回120%上昇させる。
     skill_group_id: 780018
     level: 1
     spot_type: "-1"
@@ -34134,9 +33921,8 @@
   }
   {
     id: 780019
-    name: mission_skill_config-10780019
-    description: mission_skill_config-20780019
-    lvup_description: mission_skill_config-30780019
+    name: 直撃
+    description: 自身の周囲5マス内の味方部隊に支援攻撃を召喚し、次の戦闘開始時、敵の偏向障壁を解除する。
     skill_group_id: 780019
     level: 1
     spot_type: "-1"
@@ -34152,9 +33938,8 @@
   }
   {
     id: 780020
-    name: mission_skill_config-10780020
-    description: mission_skill_config-20780020
-    lvup_description: mission_skill_config-30780020
+    name: 根性
+    description: 自身のHPを50%回復する。
     skill_group_id: 780020
     level: 1
     spot_type: "-1"
@@ -34168,9 +33953,8 @@
   }
   {
     id: 780021
-    name: mission_skill_config-10780021
-    description: mission_skill_config-20780021
-    lvup_description: mission_skill_config-30780021
+    name: ゴリアテを投げる
+    description: ゴリアテを投げる。ボス以外の敵を直接倒すことができる。
     skill_group_id: 780021
     level: 1
     spot_type: "-1"
@@ -34184,9 +33968,8 @@
   }
   {
     id: 780022
-    name: mission_skill_config-10780022
-    description: mission_skill_config-20780022
-    lvup_description: mission_skill_config-30780022
+    name: アクティブ防御
+    description: 自身にステルスを付与する。1ターンの間、敵や一部の施設に発見されず、干渉されなくなる。
     skill_group_id: 780022
     level: 1
     spot_type: "-1"
@@ -34201,9 +33984,8 @@
   }
   {
     id: 780023
-    name: mission_skill_config-10780023
-    description: mission_skill_config-20780023
-    lvup_description: mission_skill_config-30780023
+    name: 必中
+    description: 1ターンの間、自身の命中を999上昇させる。
     skill_group_id: 780023
     level: 1
     spot_type: "-1"
@@ -34218,9 +34000,8 @@
   }
   {
     id: 780024
-    name: mission_skill_config-10780024
-    description: mission_skill_config-20780024
-    lvup_description: mission_skill_config-30780024
+    name: 回避
+    description: 1回の戦闘で、自身の回避を999上昇させる。
     skill_group_id: 780024
     level: 1
     spot_type: "-1"
@@ -34235,9 +34016,8 @@
   }
   {
     id: 780025
-    name: mission_skill_config-10780025
-    description: mission_skill_config-20780025
-    lvup_description: mission_skill_config-30780025
+    name: 熱血
+    description: 1回の戦闘で、自身の火力を100%上昇させる。
     skill_group_id: 780025
     level: 1
     spot_type: "-1"
@@ -34252,9 +34032,8 @@
   }
   {
     id: 780026
-    name: mission_skill_config-10780026
-    description: mission_skill_config-20780026
-    lvup_description: mission_skill_config-30780026
+    name: 鉄壁
+    description: 1ターンの間、自身の防御を30上昇させる。
     skill_group_id: 780026
     level: 1
     spot_type: "-1"
@@ -34269,9 +34048,8 @@
   }
   {
     id: 780027
-    name: mission_skill_config-10780027
-    description: mission_skill_config-20780027
-    lvup_description: mission_skill_config-30780027
+    name: 不屈
+    description: 1回の戦闘で、自身の被ダメージを1回75%軽減させる。
     skill_group_id: 780027
     level: 1
     spot_type: "-1"
@@ -34286,9 +34064,8 @@
   }
   {
     id: 780028
-    name: mission_skill_config-10780028
-    description: mission_skill_config-20780028
-    lvup_description: mission_skill_config-30780028
+    name: 魂
+    description: 1回の戦闘で、自身の火力を120%上昇させる。
     skill_group_id: 780028
     level: 1
     spot_type: "-1"
@@ -34303,9 +34080,8 @@
   }
   {
     id: 780029
-    name: mission_skill_config-10780029
-    description: mission_skill_config-20780029
-    lvup_description: mission_skill_config-30780029
+    name: 直撃
+    description: 次の戦闘開始時、支援攻撃を召喚し、敵の偏向障壁を解除する。
     skill_group_id: 780029
     level: 1
     spot_type: "-1"
@@ -34320,9 +34096,8 @@
   }
   {
     id: 780031
-    name: mission_skill_config-10780031
-    description: mission_skill_config-20780031
-    lvup_description: mission_skill_config-30780031
+    name: 指揮作業台
+    description: コマンド習得：「必中」「回避」「熱血」「鉄壁」
     skill_group_id: 780031
     level: 1
     spot_type: "-1"
@@ -34333,9 +34108,12 @@
   }
   {
     id: 780032
-    name: mission_skill_config-10780032
-    description: mission_skill_config-20780032
-    lvup_description: mission_skill_config-30780032
+    name: ゴリアテの棚
+    description:
+      '''
+      10ポイント消費してコマンド習得：「ゴリアテを投げる」
+      ゴリアテを投げる。ボス以外の敵を直接倒すことができる。
+      '''
     skill_group_id: 780032
     level: 1
     spot_type: "-1"
@@ -34346,9 +34124,12 @@
   }
   {
     id: 780033
-    name: mission_skill_config-10780033
-    description: mission_skill_config-20780033
-    lvup_description: mission_skill_config-30780033
+    name: ハッキング制御台
+    description:
+      '''
+      10ポイント消費してコマンド習得：「アクティブ防御」
+      自身にステルスを付与する。敵や一部の施設に発見されず、干渉されなくなる。
+      '''
     skill_group_id: 780033
     level: 1
     spot_type: "-1"
@@ -34359,9 +34140,12 @@
   }
   {
     id: 780034
-    name: mission_skill_config-10780034
-    description: mission_skill_config-20780034
-    lvup_description: mission_skill_config-30780034
+    name: 戦闘続行の心得
+    description:
+      '''
+      コマンド習得：「根性」
+      自身のHPを50%回復する。
+      '''
     skill_group_id: 780034
     level: 1
     spot_type: "-1"
@@ -34372,9 +34156,12 @@
   }
   {
     id: 780035
-    name: mission_skill_config-10780035
-    description: mission_skill_config-20780035
-    lvup_description: mission_skill_config-30780035
+    name: 戦闘機動の心得
+    description:
+      '''
+      ポイントを消費しコマンド習得：「加速」
+      自身の移動能力を高め、毎ターンの最初の3回の移動はAPを消費しない。
+      '''
     skill_group_id: 780035
     level: 1
     spot_type: "-1"
@@ -34385,9 +34172,12 @@
   }
   {
     id: 780036
-    name: mission_skill_config-10780036
-    description: mission_skill_config-20780036
-    lvup_description: mission_skill_config-30780036
+    name: 防御の極み
+    description:
+      '''
+      コマンド習得：「不屈」
+      1回の戦闘で味方部隊の被ダメージを75%軽減させる。指揮官が習得した場合、その周囲5マス以内の味方部隊に対し使用できる。
+      '''
     skill_group_id: 780036
     level: 1
     spot_type: "-1"
@@ -34398,9 +34188,12 @@
   }
   {
     id: 780037
-    name: mission_skill_config-10780037
-    description: mission_skill_config-20780037
-    lvup_description: mission_skill_config-30780037
+    name: 機動の極み
+    description:
+      '''
+      ポイントを消費しコマンド習得：「覚醒」
+      移動能力をさらに高め、毎ターンの最初の5回の移動はAPを消費しない。
+      '''
     skill_group_id: 780037
     level: 1
     spot_type: "-1"
@@ -34411,9 +34204,12 @@
   }
   {
     id: 780038
-    name: mission_skill_config-10780038
-    description: mission_skill_config-20780038
-    lvup_description: mission_skill_config-30780038
+    name: 攻撃の極み
+    description:
+      '''
+      コマンド習得：「魂」
+      1回の戦闘で味方部隊の火力を120%上昇させる。指揮官が習得した場合、その周囲5マス以内の味方部隊に対し使用できる。
+      '''
     skill_group_id: 780038
     level: 1
     spot_type: "-1"
@@ -34424,9 +34220,12 @@
   }
   {
     id: 780039
-    name: mission_skill_config-10780039
-    description: mission_skill_config-20780039
-    lvup_description: mission_skill_config-30780039
+    name: 貫通の極み
+    description:
+      '''
+      コマンド習得：「直撃」
+      次の戦闘で味方部隊に支援攻撃を召喚し、敵の偏向障壁を解除する。指揮官が習得した場合、その周囲5マス以内の味方部隊に対し使用できる。
+      '''
     skill_group_id: 780039
     level: 1
     spot_type: "-1"
@@ -34437,9 +34236,7 @@
   }
   {
     id: 780090
-    name: mission_skill_config-10780090
-    description: mission_skill_config-20780090
-    lvup_description: mission_skill_config-30780090
+    name: 撤退ポイント
     skill_group_id: 780090
     level: 1
     spot_type: "-1"
@@ -34451,9 +34248,8 @@
   }
   {
     id: 780091
-    name: mission_skill_config-10780091
-    description: mission_skill_config-20780091
-    lvup_description: mission_skill_config-30780091
+    name: 撤退
+    description: 現場から撤退
     skill_group_id: 780091
     level: 1
     spot_type: "-1"
@@ -34467,9 +34263,6 @@
   }
   {
     id: 780098
-    name: mission_skill_config-10780098
-    description: mission_skill_config-20780098
-    lvup_description: mission_skill_config-30780098
     skill_group_id: 780098
     level: 1
     spot_type: "-1"
@@ -34481,9 +34274,6 @@
   }
   {
     id: 780099
-    name: mission_skill_config-10780099
-    description: mission_skill_config-20780099
-    lvup_description: mission_skill_config-30780099
     skill_group_id: 780099
     level: 1
     spot_type: "-1"
@@ -34496,9 +34286,6 @@
   }
   {
     id: 780100
-    name: mission_skill_config-10780100
-    description: mission_skill_config-20780100
-    lvup_description: mission_skill_config-30780100
     skill_group_id: 780100
     level: 1
     spot_type: "-1"
@@ -34510,9 +34297,8 @@
   }
   {
     id: 780400
-    name: mission_skill_config-10780400
-    description: mission_skill_config-20780400
-    lvup_description: mission_skill_config-30780400
+    name: 変電所
+    description: パラデウスユニットに支援を提供している。電力を断つと何が起こるか分からない。
     skill_group_id: 780400
     level: 1
     spot_type: "-1"
@@ -34523,9 +34309,8 @@
   }
   {
     id: 780401
-    name: mission_skill_config-10780401
-    description: mission_skill_config-20780401
-    lvup_description: mission_skill_config-30780401
+    name: 変電所を停止する
+    description: シャットダウン！
     skill_group_id: 780401
     level: 1
     spot_type: "-1"
@@ -34539,9 +34324,8 @@
   }
   {
     id: 780501
-    name: mission_skill_config-10780501
-    description: mission_skill_config-20780501
-    lvup_description: mission_skill_config-30780501
+    name: ハッキング
+    description: ハッキングすると何が起こるのだろう？
     skill_group_id: 780501
     level: 1
     spot_type: "-1"
@@ -34555,9 +34339,7 @@
   }
   {
     id: 780502
-    name: mission_skill_config-10780502
-    description: mission_skill_config-20780502
-    lvup_description: mission_skill_config-30780502
+    name: グリク
     skill_group_id: 780502
     level: 1
     spot_type: "-1"
@@ -34569,9 +34351,8 @@
   }
   {
     id: 780600
-    name: mission_skill_config-10780600
-    description: mission_skill_config-20780600
-    lvup_description: mission_skill_config-30780600
+    name: 制御台
+    description: セカンダリーレベルに接続できるポート。誰かさんが既にわくわくしているみたいだ。
     skill_group_id: 780600
     level: 1
     spot_type: "-1"
@@ -34582,9 +34363,8 @@
   }
   {
     id: 780601
-    name: mission_skill_config-10780601
-    description: mission_skill_config-20780601
-    lvup_description: mission_skill_config-30780601
+    name: セカンダリーレベルに潜る
+    description: この素体じゃ勝てないけど、電子戦なら、ね。
     skill_group_id: 780601
     level: 1
     spot_type: "-1"
@@ -34598,9 +34378,6 @@
   }
   {
     id: 780602
-    name: mission_skill_config-10780602
-    description: mission_skill_config-20780602
-    lvup_description: mission_skill_config-30780602
     skill_group_id: 780602
     level: 1
     spot_type: "-1"
@@ -34612,9 +34389,7 @@
   }
   {
     id: 780603
-    name: mission_skill_config-10780603
-    description: mission_skill_config-20780603
-    lvup_description: mission_skill_config-30780603
+    name: レーダーが現れた
     skill_group_id: 780603
     level: 1
     spot_type: "-1"
@@ -34626,9 +34401,7 @@
   }
   {
     id: 780604
-    name: mission_skill_config-10780604
-    description: mission_skill_config-20780604
-    lvup_description: mission_skill_config-30780604
+    name: セカンダリーレベルに潜る
     skill_group_id: 780604
     level: 1
     spot_type: "-1"
@@ -34640,9 +34413,6 @@
   }
   {
     id: 780612
-    name: mission_skill_config-10780612
-    description: mission_skill_config-20780612
-    lvup_description: mission_skill_config-30780612
     skill_group_id: 780612
     level: 1
     spot_type: "-1"
@@ -34654,9 +34424,6 @@
   }
   {
     id: 780613
-    name: mission_skill_config-10780613
-    description: mission_skill_config-20780613
-    lvup_description: mission_skill_config-30780613
     skill_group_id: 780613
     level: 1
     spot_type: "-1"
@@ -34668,9 +34435,6 @@
   }
   {
     id: 780614
-    name: mission_skill_config-10780614
-    description: mission_skill_config-20780614
-    lvup_description: mission_skill_config-30780614
     skill_group_id: 780614
     level: 1
     spot_type: "-1"
@@ -34682,9 +34446,6 @@
   }
   {
     id: 780615
-    name: mission_skill_config-10780615
-    description: mission_skill_config-20780615
-    lvup_description: mission_skill_config-30780615
     skill_group_id: 780615
     level: 1
     spot_type: "-1"
@@ -34696,9 +34457,6 @@
   }
   {
     id: 780616
-    name: mission_skill_config-10780616
-    description: mission_skill_config-20780616
-    lvup_description: mission_skill_config-30780616
     skill_group_id: 780616
     level: 1
     spot_type: "-1"
@@ -34710,9 +34468,6 @@
   }
   {
     id: 780617
-    name: mission_skill_config-10780617
-    description: mission_skill_config-20780617
-    lvup_description: mission_skill_config-30780617
     skill_group_id: 780617
     level: 1
     spot_type: "-1"
@@ -34724,9 +34479,6 @@
   }
   {
     id: 780701
-    name: mission_skill_config-10780701
-    description: mission_skill_config-20780701
-    lvup_description: mission_skill_config-30780701
     skill_group_id: 780701
     level: 1
     spot_type: "-1"
@@ -34738,9 +34490,6 @@
   }
   {
     id: 780900
-    name: mission_skill_config-10780900
-    description: mission_skill_config-20780900
-    lvup_description: mission_skill_config-30780900
     skill_group_id: 780900
     level: 1
     spot_type: "-1"
@@ -34752,9 +34501,7 @@
   }
   {
     id: 780901
-    name: mission_skill_config-10780901
-    description: mission_skill_config-20780901
-    lvup_description: mission_skill_config-30780901
+    name: 指揮官登場
     skill_group_id: 780901
     level: 1
     spot_type: "-1"
@@ -34768,9 +34515,6 @@
   }
   {
     id: 780902
-    name: mission_skill_config-10780902
-    description: mission_skill_config-20780902
-    lvup_description: mission_skill_config-30780902
     skill_group_id: 780902
     level: 1
     spot_type: "-1"
@@ -34782,9 +34526,6 @@
   }
   {
     id: 780903
-    name: mission_skill_config-10780903
-    description: mission_skill_config-20780903
-    lvup_description: mission_skill_config-30780903
     skill_group_id: 780903
     level: 1
     spot_type: "-1"
@@ -34796,9 +34537,6 @@
   }
   {
     id: 780904
-    name: mission_skill_config-10780904
-    description: mission_skill_config-20780904
-    lvup_description: mission_skill_config-30780904
     skill_group_id: 780904
     level: 1
     spot_type: "-1"
@@ -34810,9 +34548,6 @@
   }
   {
     id: 780905
-    name: mission_skill_config-10780905
-    description: mission_skill_config-20780905
-    lvup_description: mission_skill_config-30780905
     skill_group_id: 780905
     level: 1
     spot_type: "-1"
@@ -34824,9 +34559,7 @@
   }
   {
     id: 783700
-    name: mission_skill_config-10783700
-    description: mission_skill_config-20783700
-    lvup_description: mission_skill_config-30783700
+    name: 帰るべき場所
     skill_group_id: 783700
     level: 1
     spot_type: "-1"
@@ -34835,6 +34568,142 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 783700:1
+  }
+  {
+    id: 800001
+    skill_group_id: 800001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 800001:1
+  }
+  {
+    id: 800002
+    name: 起動する
+    description: 設置されたすべての花火を打ち上げる。打ち上げられた花火は3ターンの間、その周囲2マスの範囲を照らし、照らされた飛行場、補給ポイント及び味方部隊は強化される。起爆装置は1回のみ使用可能で、使用後花火を獲得することができなくなる。
+    skill_group_id: 800002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_target: "800101"
+    trigger_id: "100007201"
+    target_id: "80000401"
+    special_spot_add: 800002:1
+    special_spot_minus: 800004:1
+    subsidiary_mission_skill: "1000073,800005,800009"
+    is_manual: 800002
+  }
+  {
+    id: 800003
+    skill_group_id: 800003
+    level: 1
+    spot_type: "3,7"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    special_spot_add: 800003:1
+  }
+  {
+    id: 800004
+    name: 花火を設置する
+    description: 花火を1個設置する。花火は起爆装置打ち上げることができる。
+    skill_group_id: 800004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "80000101"
+    target_id: "1"
+    special_spot_add: 800004:1
+    subsidiary_mission_skill: "800003,800008"
+    is_manual: 800004
+    drop_item: 9053:-1
+  }
+  {
+    id: 800005
+    skill_group_id: 800005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "80000301"
+    special_spot_add: 800005:1
+    special_spot_minus: 800003:1
+  }
+  {
+    id: 800006
+    name: 花火を獲得する
+    skill_group_id: 800006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "100007201"
+    drop_item: 9053:1
+  }
+  {
+    id: 800007
+    skill_group_id: 800007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "1000072"
+    drop_item: 9053:-99
+  }
+  {
+    id: 800008
+    skill_group_id: 800008
+    level: 1
+    spot_type: "5"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    special_spot_add: 800008:1
+  }
+  {
+    id: 800009
+    skill_group_id: 800009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "80000801"
+    special_spot_add: 800009:1
+    special_spot_minus: 800008:1
+  }
+  {
+    id: 800010
+    name: 戦場整備
+    description: 味方部隊の弾薬と配給を大量に回復し、さらに機動装甲に追加でエネルギーを補充することができる。この補給箱は何回も使用できるが、補給は味方部隊1つにつき1回のみできる。
+    skill_group_id: 800010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 80000901&&80001000
+    target_id: "1"
+    mission_buff_add: 800010:1
+    is_manual: 800010
+    resources_change: "20,20,200"
   }
   {
     id: 900001

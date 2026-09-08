@@ -168,8 +168,8 @@
     name: 林間行動
     des: NTW-20にピッタリな装備一式。戦闘時でもドライブ時でも、とてもカッコいい。
     code: EgroupNTW20
-    equip_unit: "170,0,371"
-    group_skill: 2:759295
+    equip_unit: "170,494,371"
+    group_skill: 2:759295,3:759508
     fit_gun: "20053"
   }
   {
@@ -186,8 +186,8 @@
     name: みんなのために
     des: G3のみんなを助けたいという思いが込められた一式の装備。
     code: EgroupG3
-    equip_unit: "124,0,374"
-    group_skill: 2:759308
+    equip_unit: "124,491,374"
+    group_skill: 2:759308,3:759505
     fit_gun: "20063"
   }
   {
@@ -195,8 +195,8 @@
     name: Darling
     des: M1911本人による強い要望で、こういう名前になってしまった。
     code: EgroupM1911
-    equip_unit: "375,101,0"
-    group_skill: 2:759312
+    equip_unit: "375,101,485"
+    group_skill: 2:759312,3:759502
     fit_gun: "20002"
   }
   {
@@ -222,8 +222,8 @@
     name: メイドの掟
     des: G36にピッタリな装備一式。メイドの仕事に役立つ、メイドの矜持そのもの。
     code: EgroupG36
-    equip_unit: "130,0,390"
-    group_skill: 2:1000403
+    equip_unit: "130,492,390"
+    group_skill: 2:1000403,3:1000410
     fit_gun: "20064"
   }
   {
@@ -258,8 +258,8 @@
     name: オペレーション・クリップ
     des: SV-98にピッタリな装備一式。これで地形の計測および計算がより効率的になった。
     code: EgroupSV98
-    equip_unit: "398,0,115"
-    group_skill: 2:1001403
+    equip_unit: "398,489,115"
+    group_skill: 2:1001403,3:1001406
     fit_gun: "20044"
   }
   {
@@ -285,8 +285,8 @@
     name: 暴発の女王
     des: ステンMkIIにピッタリな装備一式。自身の欠陥は素直に受け入れるべきだ、そこから初めて、一人前になる。
     code: EgroupStenMK2
-    equip_unit: "407,0,128"
-    group_skill: 2:1001803
+    equip_unit: "407,487,128"
+    group_skill: 2:1001803,3:1001806
     fit_gun: "20029"
   }
   {
@@ -303,8 +303,8 @@
     name: 使命のために
     des: StG44にピッタリな装備一式。使命を全うするために、装備のアップグレードは必要不可欠だ。
     code: EgroupStG44
-    equip_unit: "0,136,410"
-    group_skill: 2:1002103
+    equip_unit: "490,136,410"
+    group_skill: 2:1002103,3:1002106
     fit_gun: "20061"
   }
   {
@@ -321,8 +321,8 @@
     name: コレクター
     des: M1895にピッタリな装備一式。戦場掃除や装備品の回収などにおいて、大きな役に立つ。場合によって、何かの情報を手に入れるかもしれない。
     code: EgroupM1895
-    equip_unit: "113,0,415"
-    group_skill: 2:1002403
+    equip_unit: "113,486,415"
+    group_skill: 2:1002403,3:1002406
     fit_gun: "20005"
   }
   {
@@ -357,8 +357,8 @@
     name: ウエスト・コーラ
     des: コルトSAAにピッタリな装備一式。コーラこそパワー！
     code: EgroupM1873
-    equip_unit: "122,423,0"
-    group_skill: 2:1003403
+    equip_unit: "122,423,493"
+    group_skill: 2:1003403,3:1003406
     fit_gun: "20001"
   }
   {
@@ -468,5 +468,185 @@
     equip_unit: "0,449,166"
     group_skill: 2:1006203
     fit_gun: "20031"
+  }
+  {
+    id: 53
+    name: 夜の天使
+    des: DSR-50に合わせてカスタマイズされた装備一式。暗い夜では予想外の役に立つ。
+    code: EgroupDSR50
+    equip_unit: "0,452,405"
+    group_skill: 2:1006403
+    fit_gun: "179"
+  }
+  {
+    id: 54
+    name: 砂漠の虎
+    des: ガリルに合わせてカスタマイズされた装備一式。極端な環境下でも性能を発揮することができる。
+    code: EgroupAR
+    equip_unit: "0,453,205"
+    group_skill: 2:1006503
+    fit_gun: "20071"
+  }
+  {
+    id: 55
+    name: 演奏の心
+    des: Gr MG5に合わせてカスタマイズされた装備一式。より多くの道具を携帯することで、様々な状況に対応できるようになる。
+    code: EgroupMG5
+    equip_unit: "0,386,455"
+    group_skill: 2:1006703
+    fit_gun: "109"
+  }
+  {
+    id: 56
+    name: 公平な条約
+    des: RMB-93に合わせてカスタマイズされた装備一式。これでちゃんとルールを守りましょう。
+    code: EgroupRMB93
+    equip_unit: "240,0,456"
+    group_skill: 2:1006803
+    fit_gun: "20159"
+  }
+  {
+    id: 57
+    name: 影も形もない
+    des: P90に合わせてカスタマイズされた装備一式。行動力を向上さて、よりモノマネが上手になる。
+    code: EgroupP90
+    equip_unit: "458,0,277"
+    group_skill: 2:1007003
+    fit_gun: "245"
+  }
+  {
+    id: 58
+    name: 運命の占い
+    des: K5に合わせてカスタマイズされた装備一式。運命は無常であるが、高性能な装備である程度予測することができる。
+    code: EgroupK5
+    equip_unit: "459,0,334"
+    group_skill: 2:1007103
+    fit_gun: "20212"
+  }
+  {
+    id: 59
+    name: 大事な思い出
+    des: AUGに合わせてカスタマイズされた装備一式。敵に美しい埋葬を。
+    code: EgroupAUG
+    equip_unit: "295,0,462"
+    group_skill: 2:1007903
+    fit_gun: "73"
+  }
+  {
+    id: 60
+    name: サービス精神
+    des: スプリングフィールドに合わせてカスタマイズされた装備一式。グリフィンのみんなにサービスサービス～
+    code: EgroupM1903
+    equip_unit: "59,0,463"
+    group_skill: 2:1008003
+    fit_gun: "36"
+  }
+  {
+    id: 61
+    name: 衛生チェック
+    des: Saiga-12に合わせてカスタマイズされた装備一式。戦場の掃除も人形の仕事。
+    code: EgroupSaiga12
+    equip_unit: "465,0,292"
+    group_skill: 2:1008203
+    fit_gun: "160"
+  }
+  {
+    id: 62
+    name: 凍える寒さ
+    des: PKに合わせてカスタマイズされた装備一式。敵に地獄のような極寒を。
+    code: EgroupPK
+    equip_unit: "466,264,0"
+    group_skill: 2:1008303
+    fit_gun: "85"
+  }
+  {
+    id: 63
+    name: 訪れる冬
+    des: CZ75に合わせてカスタマイズされた装備一式。喧嘩を売りに来た敵は徹底的に痛めつけて追い返す。
+    code: EgroupCZ75
+    equip_unit: "270,469,0"
+    group_skill: 2:1009203
+    fit_gun: "166"
+  }
+  {
+    id: 64
+    name: ジャングルの詩人
+    des: F1に合わせてカスタマイズされた装備一式。アウトドアに向いている。
+    code: EgroupF1
+    equip_unit: "214,0,470"
+    group_skill: 2:1009303
+    fit_gun: "20178"
+  }
+  {
+    id: 65
+    name: 凛々しき正義
+    des: VSK-94に合わせてカスタマイズされた装備一式。どんな不届き者でも、彼女から逃げられない。
+    code: EgroupVSK94
+    equip_unit: "474,0,354"
+    group_skill: 2:1009603
+    fit_gun: "312"
+  }
+  {
+    id: 66
+    name: 光を求めて
+    des: リベロールに合わせてカスタマイズされた装備一式。どうか光ある未来が待っているように。
+    code: EgroupRibeyrolles
+    equip_unit: "261,0,475"
+    group_skill: 2:1009703
+    fit_gun: "20171"
+  }
+  {
+    id: 67
+    name: Power
+    des: ルイスに合わせてカスタマイズされた装備一式。パワーに満ちている。
+    code: EgroupLewis
+    equip_unit: "483,447,0"
+    group_skill: 2:1011003
+    fit_gun: "253"
+  }
+  {
+    id: 68
+    name: 塹壕の箒
+    des: M1897に合わせてカスタマイズされた装備一式。戦場のゴミを素早く処理できる
+    code: EgroupM1897
+    equip_unit: "484,206,0"
+    group_skill: 2:1011103
+    fit_gun: "20152"
+  }
+  {
+    id: 69
+    name: コア・クライシス
+    des: C96に合わせてカスタマイズされた装備一式。部隊の夜戦能力を向上させることができる。
+    code: EgrouC96
+    equip_unit: "167,488,353"
+    group_skill: 3:1011204
+    fit_gun: "20012"
+  }
+  {
+    id: 70
+    name: Misha
+    des: AS Valに合わせてカスタマイズされた装備一式。夜間の任務に適している。
+    code: EgroupASVAL
+    equip_unit: "497,135,360"
+    group_skill: 3:1011504
+    fit_gun: "20060"
+  }
+  {
+    id: 71
+    name: ロイヤル・グローリー
+    des: リー・エンフィールドに合わせてカスタマイズされた装備一式。敵に屈することなく、心に栄光あれ。
+    code: EgroupMLEMK1
+    equip_unit: "298,160,495"
+    group_skill: 3:1011304
+    fit_gun: "20050"
+  }
+  {
+    id: 72
+    name: ノブリス・チャリオット
+    des: Kar98kに合わせてカスタマイズされた装備一式。栄誉を大事にする人形には最適の装備だ。
+    code: Egroup98K
+    equip_unit: "496,105,297"
+    group_skill: 3:1011404
+    fit_gun: "20046"
   }
 ]

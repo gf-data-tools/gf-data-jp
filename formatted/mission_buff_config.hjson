@@ -6606,6 +6606,42 @@
     is_still_alive: 1
   }
   {
+    id: 800001
+    name: mission_buff_config-10800001
+    description: mission_buff_config-20800001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 800001
+    priority: 1
+    carry_mission_skill: "800004"
+  }
+  {
+    id: 800002
+    name: mission_buff_config-10800002
+    description: mission_buff_config-20800002
+    code: 561mod
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 451401
+    conflict_type: 800002
+    priority: 1
+  }
+  {
+    id: 800010
+    name: mission_buff_config-10800010
+    description: mission_buff_config-20800010
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 800010
+    priority: 1
+  }
+  {
     id: 910630
     name: mission_buff_config-10910630
     description: mission_buff_config-20910630

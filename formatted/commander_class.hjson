@@ -578,25 +578,21 @@
   }
   {
     id: 60
-    name: commander_class-10000060
-    description: commander_class-20000060
+    name: 落ち葉と剣の影
+    description: 剣が差す場所に、葉は舞い上がり、落ちる。流れゆく時間、過ぎ去る四季の如く。
     group_id: "102"
     code: commander_6040_icon
     path: CLASS60
-    des_year: commander_class-30000060
     source: 2
-    source_description: commander_class-40000060
   }
   {
     id: 62
-    name: commander_class-10000062
-    description: commander_class-20000062
+    name: 躍動する蛇の舞
+    description: 新しい一年を象徴するこの杖を手に、躍動する命の舞を。
     group_id: "103"
     code: commander_6240_icon
     path: CLASS62
-    des_year: commander_class-30000062
     source: 2
-    source_description: commander_class-40000062
   }
   {
     id: 63
@@ -613,13 +609,57 @@
   }
   {
     id: 64
-    name: commander_class-10000064
-    description: commander_class-20000064
+    name: 元気の中心
+    description: 賑やかな周年記念パーティで注目の的になり、全員に元気を振り分けることが、君の真摯なる願いだろう。
     group_id: "103"
     code: commander_6440_icon
     path: CLASS64
-    des_year: commander_class-30000064
     source: 2
-    source_description: commander_class-40000064
+  }
+  {
+    id: 65
+    name: 帰り道の花便り
+    description: ささやかですが、あなたのために特別に準備しました。温もりと安らぎがあなたの疲れた心を癒やしますように。
+    group_id: "103"
+    code: commander_6520_icon
+    path: CLASS65
+    des_year: "2026"
+    source: 2
+    source_description: 「零点潮汐」ランキング報酬
+  }
+  {
+    id: 66
+    name: 遠征協定
+    description: 「準備はいいですか、指揮官？すべての思い出を詰め込んで、あの未知なる地平線へ向けて、もう一度、旅立ちましょう。」
+    group_id: "104"
+    code: commander_6620_icon
+    path: CLASS66
+    des_year: "2026"
+    source: 2
+    source_description: 「零点潮汐」イベント報酬
+  }
+  {
+    id: 67
+    name: 霊獣騒ぐ春
+    description: 一番楽しい笑顔と、一番鮮やかな色で、過ぎ去る年の厄と翳りをすべて追い払いましょう！
+    group_id: "105"
+    code: commander_6720_icon
+    path: CLASS67
+    des_year: "2026"
+    source: 2
+    source_description: 鉄雨礼贊ランキング報酬
+  }
+  {
+    id: 68
+    name: 極秘任務
+    description: 都市、荒野、雪原、砂漠……これは、君にしかできない任務だ。
+    group_id: "106"
+    code: commander_6831_icon
+    skill_id: 109
+    path: CLASS68
+    is_class: 1
+    des_year: "2026"
+    source: 2
+    source_description: 2026年アニバーサリー報酬
   }
 ]

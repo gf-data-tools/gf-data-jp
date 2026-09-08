@@ -18126,4 +18126,110 @@
     icon_code: 无形之手
     condition: 11924:1192402
   }
+  {
+    identity: 1268
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 光と倶に
+    content: 零点潮汐-「憂国への期間」:変電所を停止せずステージをクリアする。
+    type_sort: 100
+    sort: 339
+    icon_code: 与光同行
+    condition: 11950:1195002
+  }
+  {
+    identity: 1269
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: スイーパー
+    content: 零点潮汐-「未来への代償」：少なくとも12体の敵を撃破する。
+    type_sort: 100
+    sort: 340
+    icon_code: 清道夫
+    condition: 11953:1195302,11958:1195302,11963:1195302
+  }
+  {
+    identity: 1270
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 感謝
+    content: 零点潮汐のスタッフロールを最後まで見る。
+    type_sort: 100
+    sort: 341
+    icon_code: 感恩有你
+    condition: "11985"
+  }
+  {
+    identity: 1271
+    type: speical_mission_final
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 新世界の輝きのために！
+    content: ドールズフロントラインの全戦役とメインイベントをクリアする。
+    type_sort: 100
+    sort: 342
+    icon_code: 更新世界锋芒
+  }
+  {
+    identity: 1272
+    type: c_mission
+    count: 1
+    title: 無言のさよなら
+    content: 常設イベント「遡源残響」をクリアする。
+    type_sort: 100
+    sort: 334
+    condition: "11916"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.7
+  }
+  {
+    identity: 1273
+    type: c_mission
+    count: 1
+    title: 新世界への扉
+    content: 常設イベント「仮想粒子対」をクリアする。
+    type_sort: 100
+    sort: 334
+    condition: "11945"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.8
+  }
+  {
+    identity: 1274
+    type: c_mission
+    count: 1
+    title: 理由など要らない
+    content: 常設イベント「零点潮汐」をクリアする。
+    type_sort: 100
+    sort: 334
+    condition: "11985"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.9
+  }
 ]

@@ -333,6 +333,25 @@
     class_id: 52
   }
   {
+    id: 213
+    name: カリーナ-メイド待機中
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    dialog: 指揮官さま～お仕事の合間に珈琲でもいかがですか？それとも紅茶にしますか？どちらも準備してありますよ～
+    gift_position: "-130,-13"
+    class_id: 52
+  }
+  {
+    id: 214
+    name: ベストニュース
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    dialog: こんにちは～、こちらの指揮官さま、ちょっと取材いいですか？いつも後方幕僚をやっている方について、どう思っていますか～？
+    class_id: 52
+  }
+  {
     id: 301
     name: 星への願い事
     fit_gun: 1
@@ -5754,6 +5773,15 @@
     note: オリジナルスキン
   }
   {
+    id: 5081
+    name: トカレフ-オリジナル
+    fit_gun: 20006
+    voice: 4
+    is_hidden: 2
+    dialog: オリジナルスキン
+    note: オリジナルスキン
+  }
+  {
     id: 5101
     name: 枝垂れ夢見る狐の影
     fit_gun: 316
@@ -9972,6 +10000,16 @@
     skin_source: 2
   }
   {
+    id: 11506
+    name: 砂時計の鏡
+    fit_gun: 47
+    voice: 4
+    dialog: 時は砂のように、指の隙間からこぼれ落ちていく——だから、指揮官と共に過ごした時間を、この鏡の中に永遠に閉じ込めたいのです……
+    illustrator_cv: 星迴,山根希美,
+    order: 154
+    class_id: 112
+  }
+  {
     id: 11507
     name: スイートロンド
     fit_gun: 139
@@ -9992,6 +10030,91 @@
     order: 154
     class_id: 112
     skin_source: 2
+  }
+  {
+    id: 11601
+    name: 駐留の時
+    fit_gun: 377
+    voice: 4
+    dialog: 新しい生活を始めるのなら、過去は忘れておくべきだね。でもこうして登っていくにつれて、ここまで来た道がますますよく見えるようになったよ……それでもいいか、進む方向を間違えていないって分かるから。
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11602
+    name: 蜃気楼を追いかけて
+    fit_gun: 53
+    voice: 4
+    dialog: この砂漠にそれなりの獲物がないと？大丈夫、今回の狩りの目標は一つだけだから――指揮官、準備はいい？
+    gift_position: "-115,91.5"
+    illustrator_cv: RIRE,松嵜麗,
+    order: 159
+    class_id: 113
+    skin_source: 1
+  }
+  {
+    id: 11603
+    name: 瓶の中の空
+    fit_gun: 316
+    voice: 4
+    dialog: 私には、自分だけの空を探して欲しいって言われましたから……この酒はそのお祝いです。えっと……やっとその第一歩を踏み出せた勇気を祝って、みたいな？
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11604
+    name: 風の旅と歌
+    fit_gun: 94
+    voice: 4
+    dialog: すべてが終わりましたら、また指揮官にお茶を淹れますよ……うん、約束です。
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11605
+    name: 地平線を眺めて
+    fit_gun: 81
+    voice: 4
+    dialog: 指揮官、見ていますか？弾薬を使うことなく、私はここで自分の道を切り開けました……
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11606
+    name: 躍動のシグナル
+    fit_gun: 146
+    voice: 4
+    dialog: 私の目標は、416みたいなエリート人形になることです……いつか自分の成長を指揮官に見せられるように、私頑張ります！
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11608
+    name: 暁の旅路
+    fit_gun: 77
+    voice: 4
+    dialog: この格好面倒くさいね……ねぇ指揮官、あんたのために頑張ってるんだから、ここで倒れるなよ！
+    gift_position: "-253,-9.1"
+    illustrator_cv: 染羽,岩松泉,
+    order: 159
+    class_id: 113
+    skin_source: 1
+  }
+  {
+    id: 11609
+    name: 心が作る形
+    fit_gun: 95
+    voice: 4
+    dialog: このコを完璧に作ってみせたなら……ご主人さま、ずっと、ずーっと愛ちゃんを褒めてくれますよね？
+    gift_position: "-317,335"
+    order: 162
+    class_id: 99
+    skin_source: 1
   }
   {
     id: 11701
@@ -10306,6 +10429,7 @@
     fit_gun: 323
     voice: 4
     dialog: 森の空気は清々しいな……ん？指揮官、どうしてここにいる？私は皆のためにピクニックの準備をしているだけで、別になにも――まぁいい、せっかく来たのなら、少し座ってけ……
+    gift_position: "-242.5,179.7"
     illustrator_cv: YoYo,田中理恵,
     order: 153
   }
@@ -10315,6 +10439,7 @@
     fit_gun: 350
     voice: 4
     dialog: た、確かに、ジャックがドーナッツを一つ盗み食いしたけど……そ、そんなに怒らなくてもいいじゃない？品質検査だと思えば、ね？
+    gift_position: "-214.5,376.8"
     order: 155
   }
   {
@@ -10323,6 +10448,7 @@
     fit_gun: 61
     voice: 4
     dialog: 指揮官、出発しましょうか？山道は少し荒れているかもしれませんが、どうぞご安心を……わたくしが一番歩きやすいルートをご案内しますわ。
+    gift_position: "-210.9,243.7"
     illustrator_cv: Alize,白砂沙帆,
     order: 156
   }
@@ -10332,6 +10458,8 @@
     fit_gun: 278
     voice: 4
     dialog: 高い場所からこの街を見下ろしながら、私がこの街を守るって誓ったんです……未来の海もきっと、こんなふうに美しいのでしょうね。
+    gift_position: "-167,144.6"
+    illustrator_cv: --,大森日雅,
     order: 157
   }
   {
@@ -10340,6 +10468,7 @@
     fit_gun: 65
     voice: 4
     dialog: 桜の花の散るスピードって、わずか数秒なんです……だからこの一瞬で、私の姿も——この景色も、記憶に刻んでください。
+    gift_position: "-181.2,233"
     illustrator_cv: --,野中藍,
     order: 158
   }
@@ -10349,7 +10478,63 @@
     fit_gun: 162
     voice: 4
     dialog: はぁ、はぁ……あと1キロ走れば、あのチーズバーガーがご褒美だ！
+    gift_position: "-201,291.7"
     order: 160
+  }
+  {
+    id: 30035
+    name: ブリザードフィン
+    fit_gun: 404
+    voice: 4
+    dialog: これが「スノーボード」なんですね。まるで海流に乗っているみたい……さぁオウムガイさん、ついてきてください。速度を上げますよ。
+    gift_position: "-202.9,111"
+    order: 164
+  }
+  {
+    id: 30036
+    name: 廃墟の上で
+    fit_gun: 234
+    voice: 4
+    dialog: 今日の巡回場所はここですか？……分かりました。どんなに酷い環境でも、いつも通りに行動します。
+    gift_position: "-142.5,114"
+    illustrator_cv: --,大関英里,
+    order: 165
+  }
+  {
+    id: 30037
+    name: ドキドキ大競技
+    fit_gun: 138
+    voice: 4
+    dialog: このゲーム部屋はアタシの秘密基地よ！でも、特別な人になら……指揮官、一緒にゲームしない？負けた方は罰ゲームだけどね！
+    gift_position: "-110,300.6"
+    illustrator_cv: YoYo,井上麻里奈,
+    order: 166
+  }
+  {
+    id: 30038
+    name: 花と白日夢
+    fit_gun: 315
+    voice: 4
+    dialog: これはSOPさんにあげるひまわり、これはAUGさんに……えっ？どうしてそんなにみんなのことを知っているのか、ですか？だって、可愛い人形さんたちを観察するのも、私の仕事のうちですから〜
+    order: 167
+  }
+  {
+    id: 30039
+    name: 冬霧の旅人
+    fit_gun: 39
+    voice: 4
+    dialog: 紅茶の香りって、いつもたくさんの記憶を呼び起こす……でも一番大切な記憶は、あなたと出会ったあの日から始まるの。
+    illustrator_cv: YeoNwa,上坂すみれ,
+    order: 168
+  }
+  {
+    id: 30040
+    name: アヒルちゃん特攻隊
+    fit_gun: 80
+    voice: 4
+    dialog: さぁ、急いで指揮官！この棚のセール中のお菓子も、この黄色いアヒルちゃんたちも、ぜーんぶまとめてお持ち帰りするよ！
+    illustrator_cv: 豆芽,吉田幸代,
+    order: 169
   }
   {
     id: 50001

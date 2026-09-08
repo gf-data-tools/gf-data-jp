@@ -1315,6 +1315,36 @@
     skill_group: "330003"
   }
   {
+    id: 1194601
+    name: M16合体
+    desc: ウィリアム特攻
+    skill_group: "450702"
+  }
+  {
+    id: 1195501
+    name: Anti Destiny
+    desc: 味方部隊の命中が上昇
+    if_display: 1
+    code: NorZhenC
+    skill_group: "450806"
+  }
+  {
+    id: 1195502
+    name: 反逆の起点
+    desc: 味方部隊の回避が上昇
+    if_display: 1
+    code: ExtraAp
+    skill_group: "450807"
+  }
+  {
+    id: 1195503
+    name: Fate Not Found
+    desc: 味方部隊の火力が上昇
+    if_display: 1
+    code: baozhu
+    skill_group: "450808"
+  }
+  {
     id: 12020101
     name: 火力強化
     desc: 味方全体の火力+15%。

@@ -1,0 +1,816 @@
+[
+  {
+    id: 1
+    type: ループ
+    code: 私たちの進む先は霧に包まれているけど、その結末はもう決められているのかしら？
+    name: dfcg_1608summer
+    detail: 1
+  }
+  {
+    id: 2
+    type: 隙間
+    code: そういう風に作られた運命？そんなの言い訳に過ぎない。
+    name: dfcg_17summer
+    detail: 2
+  }
+  {
+    id: 3
+    type: 希望の音
+    code: 静寂な深淵の中、すべての叫び声は呑み消される。
+    name: dfcg_17011winter
+    detail: 3
+  }
+  {
+    id: 4
+    type: 私たち
+    code: 驚かないで。この後は……
+    name: dfcg_18mind
+    detail: 4
+  }
+  {
+    id: 5
+    type: 嵐
+    code: 嵐は刃のように、長い夜を切り裂く。
+    name: dfcg_1808summer
+    detail: 5
+  }
+  {
+    id: 6
+    type: 罠
+    code: もしかしたら、あなたも私も、真実の生贄になるかもしれない。
+    name: dfcg_18winter
+    detail: 6
+  }
+  {
+    id: 7
+    type: 終わり
+    code: 破壊を再生は、同じ意味なのかもしれない。
+    name: dfcg_1908summer1
+    detail: 7
+  }
+  {
+    id: 8
+    type: 啓示
+    code: 誰にも未来がある、そうでしょう？
+    name: dfcg_1908summer2
+    detail: 8
+  }
+  {
+    id: 9
+    type: 旅立ち
+    code: 敵の位置判明、戦闘準備！
+    name: dfcg_motobg
+    detail: 9
+  }
+  {
+    id: 10
+    type: 再出発
+    code: すべてが元通りになる。指揮官、私はあなたの傍にいる。
+    name: 2022summer_kar&lee
+    detail: 10
+  }
+  {
+    id: 11
+    type: 折れた翼
+    code: 「死を届けに参りました」
+    name: 掐脖子
+    detail: 11
+  }
+  {
+    id: 12
+    type: 最後の挑戦
+    code: 付近にいたグリフィン小隊の協力を得て、私たちはなんとか逃げ延びることができました。そしてはぐれた私たちは今日、ようやく再会できたのです……
+    name: 打海猫
+    detail: 12
+  }
+  {
+    id: 13
+    type: 除草作戦
+    code: 複数のグリフィン部隊による挟撃で、スケアクロウは確保された。
+    name: CG.1-6 有人
+    detail: 13
+  }
+  {
+    id: 14
+    type: 初対面
+    code: 「願うことは、ただ一つだけです……助けてください」
+    name: CG.2-6
+    detail: 14
+  }
+  {
+    id: 15
+    type: 戦線突破
+    code: イントゥルーダの宣戦布告を受けて、その管轄エリアに攻め込んだ。
+    name: CG.4-2
+    detail: 15
+  }
+  {
+    id: 16
+    type: 奇襲阻止
+    code: 「それで、まだ戦えるか？」
+    name: CG.5
+    detail: 16
+  }
+  {
+    id: 17
+    type: 追撃密令
+    code: AR-15は離脱し、鉄血は撃退された……それは勝利か、それとも敗北か？或いは、それは謎にすらならない……
+    name: CG.5-6
+    detail: 17
+  }
+  {
+    id: 18
+    type: 404出撃
+    code: 416とG11はウロボロスの罠から抜け出し、UMP45とUMP9と合流。そして、ジャミング装置のある場所を知る者を探し始める。
+    name: "404"
+    detail: 18
+    background_code: "10002,10019"
+  }
+  {
+    id: 19
+    type: 次面崩解
+    code: エクスキューショナーとウロボロスとの戦いを経て、404小隊はS06区の鉄血の主力を撃破し、任務を完遂した。
+    name: sp2.2.2
+    detail: 19
+    background_code: "10004,10021"
+  }
+  {
+    id: 20
+    type: 監禁者
+    code: 「M4A1……あんたは一体、誰？」
+    name: 6CG-AR15b
+    detail: 20
+    background_code: "58"
+  }
+  {
+    id: 21
+    type: 遅すぎた告別
+    code: それは葬式にしては騒がしすぎて、告別にしては静かすぎた。
+    name: 6CG-M4
+    detail: 21
+    background_code: "60"
+  }
+  {
+    id: 22
+    type: 再会
+    code: 刑務所の中の状況は分からないため、ペルシカから送られてくる協力者に期待するしかなかった……
+    name: CG7-3
+    detail: 22
+    background_code: "70"
+  }
+  {
+    id: 23
+    type: 灯火管制Ⅳ
+    code: アーキテクトは404小隊の居場所を発見したが、それがUMP45の狙いだった。突入&救出作戦、開始。
+    name: CG-2017Winter1
+    detail: 23
+    background_code: "10012"
+  }
+  {
+    id: 24
+    type: 帰郷行動
+    code: 「丁寧に扱ってよね。あたし、いろんなこと知ってるんだから」
+    name: CG-2017Winter2
+    detail: 24
+    background_code: "10016"
+  }
+  {
+    id: 25
+    type: 指向算法
+    code: M4A1の報告：なぜアーキテクトがここに……ダメ、今余計なことを考えずに、ただ勝利を……
+    name: Ouroboros
+    detail: 25
+    background_code: "10024"
+  }
+  {
+    id: 26
+    type: 使命
+    code: M16A1は何も答えず、ただ普通の手サインをした。
+    name: CG8-1
+    detail: 26
+    background_code: "80"
+  }
+  {
+    id: 27
+    type: 誕生
+    code: 「みんないるのに……こんなこと滅多にないのに……」
+    name: 202406_ARTeam_c
+    detail: 27
+    background_code: "11681"
+  }
+  {
+    id: 28
+    type: 円環の運命
+    code: 「何度もやり直して、何度も忘れる。最後に残ったのは、執念だけだった」
+    name: 2022winter_16vs16_b
+    detail: 28
+    background_code: "11687"
+  }
+  {
+    id: 29
+    type: 人類
+    code: 「私がまだこの世にいる理由は――あなたを殺すこと」
+    name: 202407_Embla
+    detail: 29
+    background_code: "11720"
+  }
+  {
+    id: 30
+    type: 時間の目
+    code: 誇り高き狼たちのリーダーは、決して自身の弱さを他人に覚らせるわけにはいかない。血と雪の中で、彼女はただひたすら前を見つめた。
+    name: 202407_TaskForceDEFY_a
+    detail: 30
+    background_code: "11722"
+  }
+  {
+    id: 31
+    type: 蹲った肖像
+    code: 「指揮官、あんたに預けるわ。きっと、勝つから」
+    name: 202408_HK-416_c
+    detail: 31
+    background_code: "11753"
+  }
+  {
+    id: 32
+    type: 迷路の中の血痕
+    code: 暗闇の地下トンネルの中、モリドーはかつての仇敵たちと再会する。
+    name: 202410_SCAR-H
+    detail: 32
+    background_code: "11776"
+  }
+  {
+    id: 33
+    type: 幕引き
+    code: 目の前にあるこの培養槽は、彼女が生まれた場所であり、彼女が永遠の眠りにつく場所でもある。
+    name: 202412_Nemhran
+    detail: 33
+    background_code: "11843"
+  }
+  {
+    id: 34
+    type: 孤独な魂の祈り
+    code: コードネーム「アンジェリア」のエージェントだけが、どんな世界でも、どんなことが起きても、あなたの味方だったのよ。
+    name: 202410_Nele_a
+    detail: 34
+    background_code: "11865"
+  }
+  {
+    id: 35
+    code: 「たとえ自分だけになっても……必ず……生き延びる……」
+    name: 2018SummerCG2-1
+    detail: 35
+    background_code: "10108"
+  }
+  {
+    id: 36
+    type: 対峙
+    code: コーラップス爆弾を巡り、アンジェリアとエゴールは対峙した。
+    name: 2018SummerCG6-1
+    detail: 36
+    background_code: "10141"
+  }
+  {
+    id: 37
+    type: お互いが無事なら
+    code: 「……お互い無事なら、気にしなくていい。気にしなくていいなら、お別れも言う必要ない」
+    name: 2018SummerCG4
+    detail: 37
+    background_code: "10148"
+  }
+  {
+    id: 38
+    type: 今だけの平和
+    code: 「でも、みんながバカだったら……家族になれるでしょ？」
+    name: 2018SummerCG3
+    detail: 38
+    background_code: "10149"
+  }
+  {
+    id: 39
+    type: 救出
+    code: 416は、汚染エリアに向かい、アンジェリアを救出する特別任務を受けた。
+    name: 2018SummerCG5
+    detail: 39
+    background_code: "10150"
+  }
+  {
+    id: 40
+    type: 尋問
+    code: グリフィンの指揮官、また作り話？
+    name: 2018SummerCG1-1
+    detail: 40
+    background_code: "10156"
+  }
+  {
+    id: 41
+    type: 追放者
+    code: 真実と対面した時、それを自分のものにするのか、それとも破壊するのか……
+    name: 2018SummerCG8
+    detail: 41
+    background_code: "10157"
+  }
+  {
+    id: 42
+    type: 記念
+    code: 記念碑の前で、アンジェリアはM4A1と犠牲の意味について話した。
+    name: 19WinterCG1
+    detail: 42
+    background_code: "10194"
+  }
+  {
+    id: 43
+    type: 狼と梟
+    code: M16A1は鉄血たちを引き連れて現れ、劇場内の白い勢力を殲滅した。
+    name: 19WinterCG2
+    detail: 43
+    background_code: "10225,10264"
+  }
+  {
+    id: 44
+    type: 反目
+    code: 鉄血に囲まれて、AR-15とAN-94は武器を捨て、両手を挙げた。
+    name: 19WinterCG3
+    detail: 44
+    background_code: "10226"
+  }
+  {
+    id: 45
+    type: 鮫と海
+    code: 遮断装置を破壊されて、ニモゲンは錯乱した。
+    name: 19WinterCG4
+    detail: 45
+    background_code: "10242"
+  }
+  {
+    id: 46
+    type: 追撃
+    code: ビークのバイクに乗り、M16A1は反逆小隊の追撃から逃れる。
+    name: 19WinterCG6
+    detail: 46
+    background_code: "10247,10275"
+  }
+  {
+    id: 47
+    type: うたかたの記憶
+    code: 白い勢力の記憶の中に、M4A1と同じものがあった。
+    name: CG10-4-1
+    detail: 47
+    background_code: "119"
+  }
+  {
+    id: 48
+    type: 鏡像体過剰II
+    code: 静止した敵だらけの制御室の中、UMP45はレバーを引いた……
+    name: 19winter_ump45vs
+    detail: 48
+    background_code: "10447"
+  }
+  {
+    id: 49
+    type: 結晶再構築
+    code: UMP45は再び、胡蝶作戦のシミュレーションを体験した。
+    name: 19winter_4516
+    detail: 49
+    background_code: "10454"
+  }
+  {
+    id: 50
+    type: 真実を求めて
+    code: M4A1は、AR小隊に指揮官の支援を向かわせ、自分一人でM16A1と対峙した。
+    name: 19winter_m4_1
+    detail: 50
+    background_code: "10468"
+  }
+  {
+    id: 51
+    type: 狼のリーダー
+    code: アレスとの死闘の末、反逆小隊はエゴールを倒した。
+    name: 19winter_ange_2
+    detail: 51
+    background_code: "10469"
+  }
+  {
+    id: 52
+    type: 双曲関数
+    code: ついに、デストロイヤーはその新しい形態を見せた！いよいよデストロイヤー……いや、ケルベロス殿最終決戦が始まる！
+    name: 17xhCG2-2
+    detail: 52
+    background_code: "10037"
+  }
+  {
+    id: 53
+    type: 欺き
+    code: 「どちらか一人がこの世から消えれば、セキュリティプログラムは停止する。」
+    name: 17xhCG4-0
+    detail: 53
+    background_code: "10042"
+  }
+  {
+    id: 54
+    type: 犬と鷹Ⅱ
+    code: RO635の報告：指揮官は、自分が参加している宴会は、大きな事件の予兆だと言っているけど、目下一番大事なのは、自分たちの身に起きている小さな事件です……
+    name: CG9-1.3
+    detail: 54
+    background_code: "92"
+  }
+  {
+    id: 55
+    type: 犬と鷹Ⅳ
+    code: RO635の報告：ジャッジの姿を確認！もしもっと仲間がいれば……
+    name: CG9-2.2
+    detail: 55
+    background_code: "94"
+  }
+  {
+    id: 56
+    type: 裏切
+    code: エゴールはセーフハウスのドアを破り、無防備のRO635を撃った。
+    name: CG10-6-2
+    detail: 56
+    background_code: "103"
+  }
+  {
+    id: 57
+    type: 煉獄
+    code: ……M4A1はぼんやり座ったまま動かない。泣いているようだ。
+    name: CG10-5-3
+    detail: 57
+    background_code: "104"
+  }
+  {
+    id: 58
+    type: 分岐点
+    code: AR-15はM4A1を背負って、全力で鉄血の追撃から逃げた。
+    name: 2018Winter1-1
+    detail: 58
+    background_code: "10052"
+  }
+  {
+    id: 59
+    type: 衝程死点Ⅱ
+    code: 「グリフィンが今S11地区へ向かおうとしている？ええ、見えています、こちらの状況もかなり混沌としています」
+    name: 17xhCG1-1
+    detail: 59
+    background_code: "10054"
+  }
+  {
+    id: 60
+    type: 逮捕
+    code: カーターはクルーガーに罪を着せ、軍をグリフィンに向かわせて彼を逮捕した。
+    name: 2018Winter2-3
+    detail: 60
+    background_code: "10064"
+  }
+  {
+    id: 61
+    type: 詰み
+    code: 「人間はいずれ死にます。そのお手伝いなら、わたくしは喜んでさせていただきましょう」
+    name: 2018Winter3-2
+    detail: 61
+    background_code: "10081"
+  }
+  {
+    id: 62
+    type: 最終手段
+    code: 大きな火災を消すのに最も良い方法は、その近くでさらに大きな爆発を作り出すことだ。
+    name: 2018Winter7-1
+    detail: 62
+    background_code: "10084"
+  }
+  {
+    id: 63
+    type: 対面
+    code: M4A1はエリザと約束の場所にて対面した。そして、オーガスの言うことが嘘であると気づくと、両方は激戦を始めた。
+    name: 2018Winter6-1
+    detail: 63
+    background_code: "10085"
+  }
+  {
+    id: 64
+    type: 最終手段Ⅴ
+    code: 「404小隊！まだいける！？」
+    name: 2018Winter8-1
+    detail: 64
+    background_code: "10086"
+  }
+  {
+    id: 65
+    type: 終局
+    code: 「人間は樹木と同じ、枝が高い空を望めば望むほど、根は深く地の底まで伸ばさなければならない」
+    name: 2018Winter5-1
+    detail: 65
+    background_code: "10087"
+  }
+  {
+    id: 66
+    type: 脱出
+    code: 数か月後にこのような場所で、このような境遇に立たされるとは、夢にも思いませんでした……まさか最後の希望が……こんなところに繋がっていたとは……
+    name: CG11-1
+    detail: 66
+    background_code: "114"
+  }
+  {
+    id: 67
+    type: 選択
+    code: 「まだ数えきれないほどの試練がこの先あんたを待ち受けている。それを乗り越えるための正しい選択は、きっといつもあんたを一番苦しめる方よ……」
+    name: 17xhCG3-1
+    detail: 67
+    background_code: "10296"
+  }
+  {
+    id: 68
+    type: ゴーストタウン
+    code: 廃墟の中から一人、また一人と現れてきた。
+    name: 2019summer_2
+    detail: 68
+    background_code: "10300"
+  }
+  {
+    id: 69
+    type: 嘆き
+    code: UMP45がジャミング源を探している時、悠揚な音が聞こえた。
+    name: 2019summer_4_1
+    detail: 69
+    background_code: "10310"
+  }
+  {
+    id: 70
+    type: 尽きぬ連鎖
+    code: 「彼女のメンタル深部へと進みましょう」
+    name: 2019summer_9
+    detail: 70
+    background_code: "10319"
+  }
+  {
+    id: 71
+    type: 終焉の花海
+    code: エピフィラムが咲き乱れる峡谷の中、M4A1は、ニモゲンの身体を奪ったオーガストと激戦を繰り広げた。
+    name: 2019summer_10
+    detail: 71
+    background_code: "10335"
+  }
+  {
+    id: 72
+    type: 裏切Ⅱ
+    code: M4A1さんの様子はどうですか？私も指揮官さまもすごく心配です、ROさんに解決できればよいのですが......
+    name: CG10-2-3
+    detail: 72
+    background_code: "102"
+  }
+  {
+    id: 73
+    type: 旧友
+    code: M16の一瞬の隙を突いて、ダンデライオンはM16の中にあるOGASと接続し、M4の記憶の欠片をいくつか取り戻した……
+    name: 13CG3v2
+    detail: 73
+    background_code: "128"
+  }
+  {
+    id: 74
+    type: 反転
+    code: 火の海となった旧鉄血基地の中で、アーキテクトはゲーガーの提案を拒否した。
+    name: 2020summerBattle2
+    detail: 74
+    background_code: "10535"
+  }
+  {
+    id: 75
+    type: 思索
+    code: 混乱に陥った街を遠くから眺めながら、アンジェリアは考えた。
+    name: 2020summerAnge
+    detail: 75
+    background_code: "10546"
+  }
+  {
+    id: 76
+    type: 永遠の橋
+    code: 偽装が見破られ、モリドーは飛行機から飛び降りた。
+    name: 2020summerA&M2
+    detail: 76
+    background_code: "10579"
+  }
+  {
+    id: 77
+    type: パンドラの箱
+    code: 「私は人間になりたいです、アンジェ」
+    name: 2021white_R&A
+    detail: 77
+    background_code: "10729"
+  }
+  {
+    id: 78
+    type: パンドラ
+    code: 激戦の末、AK-15はRPK-16を制圧した。
+    name: 2021white_RPK16&AK15
+    detail: 78
+    background_code: "10732"
+  }
+  {
+    id: 79
+    type: 後悔
+    code: 「……ありがとう、ロビン」
+    name: 2021white_Machlian01
+    detail: 79
+    background_code: "10740"
+  }
+  {
+    id: 80
+    type: 帰還
+    code: 「無意味な犠牲なんてない……ただいま」
+    name: 2021white_Dandelion
+    detail: 80
+    background_code: "10741"
+  }
+  {
+    id: 81
+    type: ⅤA
+    code: 「思い出しました……AR小隊には、もう一人人形がいましたね……」
+    name: 2021summer_M16_ATTACK_1
+    detail: 81
+    background_code: "10880"
+  }
+  {
+    id: 82
+    type: 逆転
+    code: M16A1は逃げようとしたモリドーを捕まえ、意識を失ったダンデライオンを奪還した。
+    name: 2021summer_M16_COMEBACK
+    detail: 82
+    background_code: "10880"
+  }
+  {
+    id: 83
+    type: beta
+    code: 「先生、かつてのあなたは慈悲に溢れる心を持っていました」
+    name: 2021summer_Murderous
+    detail: 83
+    background_code: "10883"
+  }
+  {
+    id: 84
+    type: 朝の光
+    code: 指揮官は倉庫の中で絶境に立たされた。そして、グリフィンの鉄血部隊が駆けつけて来てくれた。
+    name: 2021summer_SANGVISFERRI
+    detail: 84
+    background_code: "10820,10839"
+  }
+  {
+    id: 85
+    type: 「死海」
+    code: 「あそこは今、鳥一羽でさえ通過できない死地となっている。名は『アヴェルヌス』」
+    name: 2022winter_Family_3
+    detail: 85
+    background_code: "11061"
+  }
+  {
+    id: 86
+    type: 戦いの前の会議
+    code: 「死海」に突入する前、RO635は各員に明確な役割を振り分けた。
+    name: 2022winter_squad
+    detail: 86
+    background_code: "11074"
+  }
+  {
+    id: 87
+    type: 裏切り者
+    code: M16A1はRPK-16を追い詰め、その首を掴んだ。
+    name: 2022winter_16vs16_a
+    detail: 87
+    background_code: "11080"
+  }
+  {
+    id: 88
+    type: 危機
+    code: パラデウスが現れ、エルマはリュドミラを守ろうとした。
+    name: 2022summer_Target_a
+    detail: 88
+    background_code: "11172"
+  }
+  {
+    id: 89
+    type: 空を掠めて
+    code: 火の中、鉄の上、揺るがない姿。
+    name: 2022summer_LightUpNight_b
+    detail: 89
+    background_code: "11175"
+  }
+  {
+    id: 90
+    type: 5-β7 カヴァレリア・ルスティカーナ間奏曲
+    code: 「お前の戦闘力は5で、あいつは530000だ」
+    name: 2022summer_robbery_a
+    detail: 90
+    background_code: "11181"
+  }
+  {
+    id: 91
+    type: ツィゴイネルワイゼン
+    code: 崩壊していくコルトエクスプレスの中で、エルマはマギーを抱きしめた。
+    name: 2022summer_Farewell_a
+    detail: 91
+    background_code: "11194"
+  }
+  {
+    id: 92
+    type: 永遠の別れ
+    code: 「これで君は自由だ、エルマ」
+    name: 2022summer_1stDeath_a
+    detail: 92
+    background_code: "11195"
+  }
+  {
+    id: 93
+    type: 15 見晴らしのいい窓
+    code: 「……弱点って、恐ろしいものよね」
+    name: 2022summer_DeadEnd
+    detail: 93
+    background_code: "11203"
+  }
+  {
+    id: 94
+    type: 19 テーブルの上品な花
+    code: 「あなたは私と一緒にいるよりも、あっちの、人間の世界に行くべきです」
+    name: 2022summer_Doctor_a
+    detail: 94
+    background_code: "11204"
+  }
+  {
+    id: 95
+    type: 35-R4 ピアノ協奏曲ヘ短調
+    code: 「そうか……私は、人を救いたいだけなんだ……」
+    name: 2022summer_Doctor_b
+    detail: 95
+    background_code: "11229"
+  }
+  {
+    id: 96
+    type: 復円
+    code: ……夜、また静かになった。
+    name: 2022saros_FatedReunion
+    detail: 96
+    background_code: "11258"
+  }
+  {
+    id: 97
+    type: WTR 日没時の湿原
+    code: 「でもそれはその瞬間の、自分の世界があまりにも小さいからだ」
+    name: 2023slow_Teacher-Student_a
+    detail: 97
+    background_code: "11406"
+  }
+  {
+    id: 98
+    type: SPR 灰色の木
+    code: 「あの日から、もう退路がなくなったんだから」
+    name: 2023slow_DestroyPortrait_b
+    detail: 98
+    background_code: "11342"
+  }
+  {
+    id: 99
+    type: SPR ヨーロッパのローラーの翼
+    code: 「でも……それが違ったというのか？」
+    name: 2023slow_Laplace
+    detail: 99
+    background_code: "11345"
+  }
+  {
+    id: 100
+    type: L8 鏡の前の少女
+    code: 「人間らしく、死なせて欲しい……」
+    name: 2023slow_BecomeHuman_d
+    detail: 100
+    background_code: "11412"
+  }
+  {
+    id: 101
+    type: F17 黒い十字架
+    code: 「少しだけ、少しだけでいいから」
+    name: 2023slow_Photo
+    detail: 101
+    background_code: "11416"
+  }
+  {
+    id: 102
+    type: 日没
+    code: ルスラン二世の爆撃で、アヴェルヌスは永遠に沈黙した。
+    name: 2023slow_TowerFall_b
+    detail: 102
+    background_code: "11418"
+  }
+  {
+    id: 103
+    type: 崩壊
+    code: 血の跡、制服……崩れる心。
+    name: 202505_Kalina_b
+    detail: 103
+    background_code: "11907"
+  }
+  {
+    id: 104
+    type: 嘘
+    code: 悪意のある嘘……
+    name: 202505_Kalina_a
+    detail: 104
+    background_code: "11915"
+  }
+]

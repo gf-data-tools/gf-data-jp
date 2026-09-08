@@ -6940,6 +6940,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 10:2503
     clear_cycle: 1
   }
   {
@@ -6947,6 +6948,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 8:2504
     clear_cycle: 1
   }
   {
@@ -6954,6 +6956,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 8:2505
     clear_cycle: 1
   }
   {
@@ -6961,6 +6964,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 6:2506
     clear_cycle: 1
   }
   {
@@ -6968,6 +6972,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 6:2507
     clear_cycle: 1
   }
   {
@@ -6975,6 +6980,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 5:2508
     clear_cycle: 1
   }
   {
@@ -6982,6 +6988,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 5:2509
     clear_cycle: 1
   }
   {
@@ -6989,6 +6996,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 4:2510
     clear_cycle: 1
   }
   {
@@ -6996,6 +7004,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 4:2511
     clear_cycle: 1
   }
   {
@@ -7003,6 +7012,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 10:2512
     clear_cycle: 1
   }
   {
@@ -7010,6 +7020,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 8:2513
     clear_cycle: 1
   }
   {
@@ -7017,6 +7028,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 6:2514
     clear_cycle: 1
   }
   {
@@ -7024,6 +7036,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 5:2515
     clear_cycle: 1
   }
   {
@@ -7031,6 +7044,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 4:2516
     clear_cycle: 1
   }
   {
@@ -7038,6 +7052,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 1000:2517
     clear_cycle: 1
   }
   {
@@ -7045,6 +7060,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 1000:2518
     clear_cycle: 1
   }
   {
@@ -7052,6 +7068,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 1000:2519
     clear_cycle: 1
   }
   {
@@ -7059,6 +7076,7 @@
     type: 1
     start_time: 2025-12-26 13:00:00
     end_time: 2026-01-16 13:00:00
+    drop_ids: 1000:2520
     clear_cycle: 1
   }
   {
@@ -7617,6 +7635,180 @@
     start_time: 2025-11-21 13:00:00
     end_time: 2025-12-12 13:00:00
     drop_ids: 1000:2620
+    clear_cycle: 1
+  }
+  {
+    id: 1384
+    item_id: 100288
+    type: 1
+    start_time: 2026-05-01 00:00:00
+    end_time: 2026-05-14 23:59:59
+    drop_ids: 99:2676,100:2677,101:2678
+    title_res: 90005014e82eb4f9_draw_260422144104.png
+    amount_coordinate: "307.5,-184"
+    bg_res: d739001a05849bc5_draw_260422144105.jpg
+    is_show: 1
+    prize_skip: 13087:101
+    can_ten_draws: 1
+  }
+  {
+    id: 1385
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 10:2680
+    clear_cycle: 1
+  }
+  {
+    id: 1386
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 8:2681
+    clear_cycle: 1
+  }
+  {
+    id: 1387
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 8:2682
+    clear_cycle: 1
+  }
+  {
+    id: 1388
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 6:2683
+    clear_cycle: 1
+  }
+  {
+    id: 1389
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 6:2684
+    clear_cycle: 1
+  }
+  {
+    id: 1390
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 6:2685
+    clear_cycle: 1
+  }
+  {
+    id: 1391
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 6:2686
+    clear_cycle: 1
+  }
+  {
+    id: 1392
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 5:2687
+    clear_cycle: 1
+  }
+  {
+    id: 1393
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 5:2688
+    clear_cycle: 1
+  }
+  {
+    id: 1394
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 4:2689
+    clear_cycle: 1
+  }
+  {
+    id: 1395
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 4:2690
+    clear_cycle: 1
+  }
+  {
+    id: 1396
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 10:2691
+    clear_cycle: 1
+  }
+  {
+    id: 1397
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 8:2692
+    clear_cycle: 1
+  }
+  {
+    id: 1398
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 6:2693
+    clear_cycle: 1
+  }
+  {
+    id: 1399
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 5:2694
+    clear_cycle: 1
+  }
+  {
+    id: 1400
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 4:2695
+    clear_cycle: 1
+  }
+  {
+    id: 1401
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 1000:2696
+    clear_cycle: 1
+  }
+  {
+    id: 1402
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 1000:2697
+    clear_cycle: 1
+  }
+  {
+    id: 1403
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 1000:2698
+    clear_cycle: 1
+  }
+  {
+    id: 1404
+    type: 1
+    start_time: 2026-03-06 13:00:00
+    end_time: 2026-03-27 13:00:00
+    drop_ids: 1000:2699
     clear_cycle: 1
   }
   {
